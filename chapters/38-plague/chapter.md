@@ -27,6 +27,9 @@ In October 1347, twelve galleys from the east put in at Messina in Sicily. A fri
 
 It reached Florence in the spring of 1348, Paris in the summer, and a small harbour on the south coast of England around midsummer. In 1349 a ship carried it across the North Sea to Norway. By 1353 it had come round in a great circle to Moscow, and there, for the moment, it burned out.
 
+![A map of Europe and the Mediterranean with the year the plague reached each place: the Black Sea ports 1346, Constantinople, Messina and Alexandria 1347, Marseille, Florence, Paris, the English coast and Cairo 1348, Norway 1349 and Moscow 1353, with arrows for the sea routes, a dashed arrow coming in from Lake Issyk-Kul in the east, and Siena, Strasbourg and Ragusa marked](images/map_plague.png)
+*The spread of the plague, with the year it reached each place, from Lake Issyk-Kul, far to the east, in 1338 to Moscow in 1353. The solid arrows show it travelling by sea from the Black Sea ports, and the dashed arrow its arrival overland from Central Asia. Siena, Strasbourg and Ragusa are marked without a year. Map: drawn for this book; coastlines and rivers from Natural Earth, public domain.*
+
 In those five or six years, somewhere between a third and a half of the people of Europe and the Middle East died. It is hard to hold a number of that kind in the mind. A modern equivalent would be a disease that killed a hundred and fifty million Americans, or four billion people worldwide, before the end of the decade.
 
 ## Like lasagne

@@ -94,6 +94,9 @@ Two days later the sultan gave his reply. Behind Galata the ground rises to a ri
 
 The harbour wall now had to be manned, and there were no spare men to do it. The line of defenders, already thin, was stretched thinner.
 
+![A close map of Constantinople: the triangular city between the Sea of Marmara and the Golden Horn, closed on the west by the land walls, with Hagia Sophia, a chain across the mouth of the Golden Horn to Galata, a dashed arrow for the ships dragged over the hill behind Galata into the Golden Horn, and up the Bosphorus the Throat-Cutter on the European bank facing an older Ottoman fort on the Asian bank](images/map_constantinople.png)
+*Constantinople in 1453. The city filled the triangle between the Sea of Marmara and the Golden Horn, closed on the land side by the walls. A chain across the mouth of the Golden Horn kept out the Ottoman fleet until the ships were dragged over the hill behind Galata (dashed arrow). Up the Bosphorus stand the Throat-Cutter, built in 1452, and the older Ottoman fort facing it in Asia. Map: drawn for this book.*
+
 Everything depended on help from the west. The emperor had begged for it for years, and to get it he had agreed that his church would accept the authority of the pope. Most of his own people hated the bargain, having not forgotten 1204, and one of his chief ministers is said to have declared that he would rather see the Turkish turban in the city than the hat of a Latin bishop. In the end the price was paid for nothing. Venice did assemble a fleet. It was still several days' sail away when the siege ended.
 
 ## The twenty-ninth of May
