@@ -6,6 +6,9 @@ Because for three hundred years the Christian churches gave ordinary people in R
 
 In 1961, Italian archaeologists were digging in the ruins of a theatre at Caesarea, on the coast of what is now Israel. One of the steps turned out to be an older block of limestone that later builders had reused, with part of an inscription still on its face. It was a dedication, in Latin, of a building in honour of the emperor Tiberius, who came after Augustus. The second and third lines gave the name and rank of the official who had put it up: Pontius Pilatus, prefect of Judea.
 
+![A rough block of pale limestone with three lines of Latin letters cut in its upper right corner](images/pilate.jpg)
+*The Pilate stone, a block of limestone found at Caesarea in 1961, with a Latin dedication to the emperor Tiberius that names Pontius Pilate as prefect of Judea. It was put up between the years 26 and 36 and is now in the Israel Museum in Jerusalem. Photo: Carole Raddato, CC BY-SA 2.0.*
+
 It is the one inscription to survive from a man whose name is spoken aloud every week in churches all over the world. Pilate was a middle-ranking Roman officer who governed a small and troublesome province for about ten years. He is remembered because, one spring, he ordered the execution of a Jewish preacher from the northern hills.
 
 The province was troublesome for a reason that the Romans never quite grasped. Rome had taken control of the country about ninety years before Pilate arrived, and it treated the Jews as it treated every other people in the empire. They could keep their customs and their god. The Romans were happy to respect any number of gods, since they had dozens of their own, and all they asked was that subject peoples should respect Rome's gods in return and offer sacrifices for the emperor.
@@ -38,7 +41,13 @@ The man who did most to change that never met Jesus. Paul was a Jew from Tarsus,
 
 Paul took the message out of Judea and into the cities of the eastern Mediterranean, and the empire made that easy. Augustus had left behind a world at peace, with paved roads, seas cleared of pirates, and one language, Greek, that would serve in any town from Syria to Rome. In most of those towns there was a community of Jews with a meeting house, where a visiting teacher could speak. Paul travelled well over ten thousand kilometres, supporting himself by his trade, which was making tents. In each city he gathered a small group, stayed for months or a year or two, and moved on.
 
+![Map of the eastern Mediterranean with coloured lines marking the routes of Paul's three journeys and his voyage to Rome](images/paul_map.png)
+*Paul's journeys around the eastern Mediterranean, and his voyage to Rome as a prisoner. Map: Biblica, Inc., CC BY-SA 4.0.*
+
 Afterwards he kept in touch by letter. Seven letters that are certainly his survive, written in the fifties to groups in cities such as Corinth and Rome. They are the oldest Christian documents in existence, older than the gospels, and they are full of the problems of small new communities: quarrels, lawsuits, money, and who may eat what.
+
+![Two torn papyrus leaves joined in the middle, covered in small Greek capital letters in dark ink](images/p46.jpg)
+*Two leaves of Papyrus 46, one of the oldest surviving copies of Paul's letters, written in Greek about the year 200. They hold the end of Romans, the end of Philippians and the start of Colossians. Chester Beatty Library, Dublin. Public domain.*
 
 One problem mattered more than all the others. In the Greek cities, many of the people drawn to Paul's message were not Jews. Did they have to become Jews in order to follow a Jewish messiah? For a man, that meant circumcision, a serious operation for an adult. For everyone it meant the food laws, which made it impossible to eat an ordinary meal at a neighbour's house.
 
@@ -57,6 +66,9 @@ In the year 66, Judea rose in revolt. The rebels took Jerusalem and routed a Rom
 Rome answered with three legions and its best general, who became emperor halfway through the campaign and left his son Titus to finish the work. Titus laid siege to Jerusalem in the spring of 70. Inside the walls, rival rebel groups fought one another and burned each other's grain stores while the people starved. In the summer the Romans broke into the Temple courts, and the Temple burned. The city was levelled. Tens of thousands of prisoners were sold as slaves or sent to die in the arenas.
 
 In Rome, an arch put up in honour of Titus still stands at the edge of the Forum. Carved on the inside of it, Roman soldiers carry the treasures of the Temple in the victory parade. The largest is a great lampstand with seven branches.
+
+![A weathered marble relief of Roman soldiers carrying a seven-branched lampstand on a platform](images/titus.jpg)
+*The Roman soldiers and the Temple lampstand, carved on the inside of the Arch of Titus in Rome. Photo: Laurel Lodged, public domain.*
 
 For Jews it was the second time that their Temple had fallen, and the question was the one their ancestors had faced in Babylon. The religion's central act of worship had been sacrifice, and the law allowed sacrifice in one place only. That place was now rubble.
 
@@ -94,6 +106,9 @@ The most telling witness to Christian charity is an enemy. In the 360s, the last
 
 Finally, the churches offered a promise. The gods of the public temples looked after cities and harvests and had little to say about what happened to an ordinary person after death. A few private cults offered hope of something better to those who could pay to be initiated. The Christians said that death was not the end, that the dead would rise as Jesus had, and that this held for a slave woman as much as for a senator.
 
+![A painting in an octagonal frame of a young man in a short tunic carrying a lamb on his shoulders, with sheep and trees around him](images/shepherd.jpg)
+*The Good Shepherd, a favourite picture of Christ among early Christians, painted on the ceiling of the catacomb of Peter and Marcellinus in Rome between the years 250 and 300. This is a plate published in 1903 under the direction of Joseph Wilpert. Public domain.*
+
 None of this needed crowds converted in a day. Nobody counted the Christians at the time. A reasonable reconstruction puts them at a few thousand in the year 100 and at several million by 300, about a tenth of the empire. That sounds like an explosion. In fact it is what happens when a group grows by about three and a half per cent a year, each member bringing in a friend, a spouse or a child every couple of decades. Such a group doubles roughly every twenty years. After two centuries of doubling, a movement that could have met in one house fills cities.
 
 ## An emperor's notebook
@@ -105,6 +120,9 @@ It had been founded in Athens, a generation after Alexander, by teachers who met
 It was a creed well suited to men who ran an empire, and Roman senators took it up with enthusiasm. Its two most famous teachers under the emperors stood at opposite ends of society. One was a slave from Turkey, lame in one leg, who was freed and taught philosophy to the sons of the rich. The other read that slave's lectures as a young man and went on to be emperor. Marcus Aurelius ruled from 161 to 180, through years of war and the first of the great epidemics, and at night in his tent on the Danube frontier he wrote notes to himself in Greek. They are reminders to keep his temper, to do his work, and to remember that he will soon be dead and forgotten.
 
 The notebook is one of the most admired books to survive from the ancient world, and it shows what the Stoics lacked. They had no assembly and no common chest, and nobody to bring the sick man water. Their philosophy promised nobody a life everlasting, and its lecture rooms were for people with leisure. It taught an emperor how to endure. It did not tell a widow in a tenement where her next meal would come from.
+
+![A bronze statue with traces of gold of a bearded man with curly hair on horseback, raising his right arm](images/marcus.jpg)
+*Marcus Aurelius, the emperor who kept the notebook, on his bronze horse. The statue now stands in the Capitoline Museums in Rome. Photo: Nicholas Hartmann, CC BY-SA 4.0.*
 
 ## Certificates
 
@@ -118,6 +136,9 @@ In other words, being a Christian was a crime that the state preferred not to no
 
 That changed in the year 250, when the empire was in desperate trouble on its frontiers. A soldier emperor decided that the gods must be appeased, and he ordered every inhabitant of the empire to sacrifice before a local commission and to obtain a signed certificate. More than forty of the certificates have been found in the sands of Egypt, on scraps of papyrus. Each states that the bearer has always sacrificed to the gods and has now done so in the presence of the officials, and each is countersigned.
 
+![A torn sheet of papyrus covered in lines of cursive Greek, beside a ruler](images/libellus.jpg)
+*One of the certificates of sacrifice, found at Oxyrhynchus in Egypt and dated to the year 250. Public domain.*
+
 Many Christians complied, or bribed someone for a certificate. Others refused and were jailed or killed. The emperor died in battle a year later and the order lapsed.
 
 The last and worst attempt began in 303. Churches were pulled down, scriptures were burned, and clergy were tortured, sent to the mines or executed. It went on, with pauses, for ten years in the eastern provinces, and several thousand people died.
@@ -130,12 +151,21 @@ By the early 300s the empire was shared among several emperors at once, each wit
 
 The two armies met at a bridge over the Tiber just north of the city. Before the battle, Constantine had a new sign painted on his soldiers' shields, a monogram that stood for the name of Christ. A Christian writer of the time says that he was told to do so in a dream. Constantine himself, years later, said that he and his army had seen a cross of light in the sky above the sun. He won the battle, his rival drowned in the river, and he had no doubt about which god had given him the victory.
 
+![A marble panel carved with the Greek letters chi and rho joined into one sign inside a wreath, with a small alpha and omega on either side](images/chirho.jpg)
+*The chi-rho, the monogram of the name of Christ, carved inside a wreath on a marble sarcophagus. Museo Pio Cristiano, Vatican. Photo: Fallaner, CC BY-SA 4.0.*
+
 The next year, he and the emperor of the east agreed that everyone in the empire, Christians included, should be free to worship as they chose, and that confiscated church property should be returned. Constantine went much further in the years that followed. He excused Christian clergy from the costly public duties that fell on men of property. He allowed churches to receive inheritances, gave bishops the power to judge lawsuits, and made Sunday a day of rest. He paid for enormous churches in Rome and Jerusalem. The old religion was not banned, but ambitious men could see where the emperor's favour lay.
 
 Why he did it has been argued over ever since. Christians were still a small minority, and hardly any of his soldiers or senators were among them, so he was not following a crowd. The simplest reading is that he believed. What he gained, whether or not he calculated it, was an alliance with the one body that reached into every city of his empire.
 
+![A huge bronze head of a clean-shaven man with a fringe of combed hair and large wide eyes](images/constantine.jpg)
+*The head of a colossal bronze statue of Constantine, made in the 300s and now in the Capitoline Museums in Rome. Photo: D. Benjamin Miller, public domain.*
+
 He soon found out what the alliance involved. The bishops were split over a question raised by a priest in Alexandria: was Christ fully God, equal to the Father, or was he God's first and greatest creation? To an old soldier this seemed a quarrel about words, and he wrote to the two sides to say so. When that did no good, he summoned the bishops of the whole empire to a council, in 325, at a town called Nicaea, in the north-west of Turkey. They travelled by the government's own post horses, at public expense. Between two and three hundred came.
 
 The council ruled that Christ was no created being. He shared fully in the nature of God, "of one substance with the Father", and a statement of belief built on those words is still recited in churches. The priest and two bishops who would not sign were sent into exile by the emperor's order. From then on, a disagreement about doctrine was also a matter for the state.
+
+![A painted icon in gold and red of bishops seated in a half circle around a crowned emperor, with an empty throne holding an open book at the centre](images/nicaea.png)
+*The Council of Nicaea as a later age imagined it, in an icon painted by Michael Damaskinos in 1591, more than 1,200 years afterwards. Public domain.*
 
 When the business was finished, Constantine gave a banquet for the bishops in the palace. One of the guests described it. Many of the men present had been through the last persecution, and some carried its marks, a blinded eye or a crippled leg from the mines. Now they walked in through the gate between two lines of the emperor's bodyguard, who stood with their swords drawn. The guest wrote that it might have been taken for a picture of the kingdom of Christ, and that it seemed a dream more than a reality.
