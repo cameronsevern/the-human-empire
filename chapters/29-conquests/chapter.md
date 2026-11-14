@@ -127,7 +127,7 @@ Language moved at a similar pace and gave different results in different lands. 
 
 The military conquests, meanwhile, ran on for a century and then slowed almost to a halt. In 711 an army crossed from Africa into Spain and overran it in a few years. In the same year another reached the valley of the Indus. However, Constantinople, behind its triple walls, beat off two great sieges, with the help of a liquid fire that its ships pumped through tubes and that burned on water. A raiding army was turned back by the Franks in central Gaul. In 751, beside a river in Central Asia, an Arab army met and defeated a Chinese one, and neither empire pushed any further.
 
-![Map of the Mediterranean and Middle East in three shades of red, showing Arabia, then lands to the north, and then Spain, North Africa and Central Asia](images/conquest_map.jpg)
-*The growth of the caliphate. Darkest: Arabia by 632. Medium: lands won by 661, from Egypt to Iran. Lightest: lands added by 750, from Spain to the Indus. Map: DieBuche, public domain.*
+![A map from Spain to the Indus with three shaded areas: Arabia, marked by 632; Egypt, Syria, Iraq and Iran, marked by 661; and North Africa, Spain, Central Asia and the Indus valley, hatched and marked by 750, with Medina, Mecca, Damascus, Jerusalem, Alexandria, Fustat, Aphrodito, Ctesiphon, Karbala, Basra and Constantinople](images/map_conquests.png)
+*The growth of the caliphate: Arabia by 632, the lands from Egypt to Iran won by 661, and those from Spain to Central Asia and the Indus added by 750, with the cities named in this chapter. The areas are drawn roughly. Map: drawn for this book; coastlines and rivers from Natural Earth, public domain.*
 
 By then the dynasty at Damascus had been overthrown, and a new line of caliphs was planning a capital on the Tigris. Their subjects, from the Atlantic to the Indus, were still mostly Christians, Zoroastrians and Jews. They paid their taxes in coins that carried no king's face.

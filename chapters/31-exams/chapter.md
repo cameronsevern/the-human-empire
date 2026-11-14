@@ -28,8 +28,8 @@ After the fall of the Han, China had been divided for three and a half centuries
 
 During the centuries of division, the balance of the country had shifted. Millions of people had fled south from the wars, cleared the forests of the Yangzi valley, and planted rice. The south was now the richer half. The armies and the capital, however, had to be in the north, facing the grasslands. The rivers of China run from west to east, and none of them connected the two.
 
-![Relief map of northern and eastern China marking the Sui and Tang canals in brown and blue lines from Chang'an and Luoyang to Hangzhou and north toward Zhuozhou, with city names in English](images/canal_map.jpg)
-*The canals dug under the Sui and added to under the Tang, running from the Yangzi at Hangzhou to the Yellow River plain and north. Map: Yug, CC BY-SA 3.0.*
+![A map of eastern China with the Grand Canal drawn as a thick brown line from Hangzhou past Yangzhou and across the Huai to Kaifeng and Luoyang, with a branch north to Beijing and a short canal west to Chang'an, the Yellow River and the Yangzi in blue, and the rice-growing south hatched](images/map_canal.png)
+*The Grand Canal, dug under the Sui and added to under the Tang, joining the rice-growing south on the Yangzi to the Yellow River and the capitals of the north: Chang'an under the Tang, and Kaifeng under the Song. The courses are drawn roughly. Map: drawn for this book; coastlines and rivers from Natural Earth, public domain.*
 
 The Sui therefore dug a waterway from the Yangzi to the Yellow River and beyond, joining older canals and natural streams into a single route well over a thousand kilometres long. A barge loaded with rice near the southern coast could now be poled all the way to the capital. The court historians say that more than a million men and women were conscripted for one section alone, and that a great many of them died. The dynasty that built the Grand Canal was overthrown by the people who had dug it. The canal remained, and for the next thirteen hundred years it tied the two halves of China together.
 

@@ -53,8 +53,8 @@ Baghdad itself was new. In 750 a revolution that began in eastern Iran had overt
 
 Within fifty years Baghdad had spilled far beyond the circle and held several hundred thousand people, more than any city in the world outside China. The taxes of an empire that ran from Egypt to the borders of India flowed into it.
 
-![A map of Europe, North Africa and Asia with the lands of the Abbasid caliphate in green, from Tunisia to the Indus](images/abbasid_map.jpg)
-*The Abbasid caliphate about the year 800, from North Africa to the Indus. Spain was ruled separately. Map: Gabagool, CC BY 3.0.*
+![A map from Spain to the Indus with the Abbasid caliphate shaded from North Africa through Egypt, Syria, Arabia, Iraq and Iran to Central Asia, with Baghdad, Damascus, Basra, Mecca, Samarkand and Khwarazm marked, and Spain, with Córdoba, hatched as ruled separately](images/map_abbasid.png)
+*The Abbasid caliphate about the year 800, from North Africa to the Indus, with Baghdad, its new capital. Spain, ruled from Córdoba, was separate. The extent is drawn roughly. Map: drawn for this book; coastlines and rivers from Natural Earth, public domain.*
 
 The move from Syria to Iraq changed the character of the empire. Damascus had looked towards the Mediterranean and the Arabian desert. Baghdad stood on Persian ground, and the Abbasids took over the Persian idea of what a great king was. In that tradition a king was a patron of learning, and the old kings of Persia were remembered for collecting the books of every nation. The Abbasids were conscious that they ruled Greeks, Persians, Syrians, Egyptians and Indians, and they meant to be the heirs of all of them.
 

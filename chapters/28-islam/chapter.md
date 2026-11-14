@@ -42,8 +42,8 @@ Mecca, in a barren valley about seventy kilometres from the Red Sea, had found a
 
 The Arabs were not cut off from the wider world. To the north lay the two great empires, Rome and Persia, which by the time Muhammad began to preach were fighting the longest and most destructive of all their wars, and which paid Arab chiefs on the desert's edge to guard their frontiers. Both the faiths of the book had reached Arabia as well. Jewish clans farmed several of the oases. There were Christians in Yemen and along the Syrian border, and Christian monks in the desert. Most Arabs had heard of the one God of Abraham, and many already thought of a high god, called simply *Allah*, "the God", who stood above the gods of the shrine. The Jews and the Christians each had a scripture in their own tongue. The Arabs had none.
 
-![A coloured map of Arabia and its neighbours, with the Byzantine Empire at the top left, a Persian realm in pink to the east, Himyar in the south, and Mecca, Medina and the names of Arab tribes marked](images/arabia_map.jpg)
-*Arabia before Islam, with Mecca and Medina in the west, the Byzantine Empire to the north, the Persian Empire to the northeast, and the kingdom of Himyar in Yemen. Map: Javierfv1212, public domain.*
+![A map of Arabia with Mecca, Medina and Badr in the west near the Red Sea, the Roman Empire shaded to the north-west over Egypt, Jerusalem, Damascus and Syria, and the Persian Empire shaded to the north-east over Iraq and Iran, with Yemen in the south](images/map_arabia.png)
+*Arabia about the year 600, between the Roman Empire to the north-west and the Persian Empire to the north-east, with Mecca, Medina and the wells of Badr in the west and Yemen in the south. The empires' edges in the desert are drawn roughly. Map: drawn for this book; coastlines and rivers from Natural Earth, public domain.*
 
 ## Recite
 

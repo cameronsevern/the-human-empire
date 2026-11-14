@@ -26,6 +26,9 @@ Land heats up and cools down faster than water. In summer the great mass of Asia
 
 Sailors called this the season, which in Arabic is *mawsim*, and from that word comes "monsoon". For a ship under sail it was as good as a moving road. A captain leaving Arabia or East Africa in the early summer could run before the wind to India in a few weeks. He could not come back until the wind turned. When it did, some months later, it would carry him home just as easily.
 
+![A map of the Indian Ocean from East Africa to China with solid red arrows pointing north-east for the summer wind from the south-west and dashed blue arrows pointing south-west for the winter wind from the north-east, over the Arabian Sea, the Bay of Bengal and the South China Sea, with Kilwa, Great Zimbabwe, the Persian Gulf, Thanjavur, the Strait of Malacca, Srivijaya at Palembang, Belitung, Borobudur, Angkor and Guangzhou marked](images/map_monsoon.png)
+*The two monsoons. From about June to September the wind blows from the south-west (solid arrows), and from about November to February from the north-east (dashed arrows). The places named in this chapter are marked, from Kilwa and Great Zimbabwe in Africa to Guangzhou in China. Map: drawn for this book; coastlines and rivers from Natural Earth, public domain.*
+
 The same held on the far side of India. A ship bound from India to China rode the south-west wind across the Bay of Bengal, and whether it went on or turned back, it had to wait somewhere along the way for a wind that suited. Nobody could make the whole journey from the Gulf to China and home again in less than about two years, and it made more sense to do it in stages, each crew working the stretch of water it knew.
 
 One consequence was that sailing dates were fixed. Everyone knew in which month the ships from the west would arrive, and when they would have to leave, so that markets, loans and contracts could be arranged around the calendar of the wind.
