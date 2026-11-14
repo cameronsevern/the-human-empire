@@ -8,7 +8,7 @@ html, body { margin: 0; height: 100%; background: var(--desk); color: var(--pape
 
 #intro {
   position: fixed; top: 0; left: 0; right: 0; padding: clamp(14px, 3.4vh, 40px) 20px 0; text-align: center;
-  pointer-events: none; transition: opacity .6s ease, transform .6s ease;
+  pointer-events: none; transition: opacity .6s ease, transform .6s ease; opacity: var(--fade, 1);
 }
 #intro h1 { margin: .1em 0 .15em; font-weight: 400; font-size: clamp(28px, min(6.2vh, 9.5vw), 68px); letter-spacing: .01em; }
 #intro .eyebrow, #intro .byline { margin: 0; text-transform: uppercase; letter-spacing: .28em; font-size: clamp(10px, 1.45vh, 13px); color: var(--acc); }
@@ -70,6 +70,7 @@ body.reading #reader { opacity: 1; }
 #contents .num { color: var(--acc); min-width: 1.6em; text-align: right; }
 .noscript { position: fixed; bottom: 20px; left: 0; right: 0; text-align: center; }
 @media (max-width: 700px) {
+  #caption { bottom: 0; padding: 34px 14px 12px; background: linear-gradient(#1d181500, #1d1815e6 55%); }
   #intro .eyebrow { letter-spacing: .14em; }
   .hint { display: none; }
   #heading { display: none; }

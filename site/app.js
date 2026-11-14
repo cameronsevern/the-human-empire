@@ -278,6 +278,7 @@ const pan = new THREE.Vector2();
 const camPos = new THREE.Vector3(), camLook = new THREE.Vector3();
 const FOV_T = Math.tan(THREE.MathUtils.degToRad(camera.fov / 2));
 
+let deskScroll = 0, deskRange = 0, deskK = 1;
 function slotPosition(i, cols) {
   const rows = Math.ceil(8 / cols), gx = W + 0.62, gz = H + 0.62;
   const c = i % cols, r = Math.floor(i / cols);
@@ -292,8 +293,20 @@ function deskView() {
   // the books fill the band between the title and the caption, whatever the size of the window
   const top = Math.min(0.6, ($('intro').getBoundingClientRect().bottom + 14) / innerHeight), bottom = 0.93;
   const band = bottom - top, centre = (top + bottom) / 2;
-  const dist = Math.max(gh / (2 * FOV_T * band) * 1.12, gw / (2 * FOV_T * aspect) * 1.1);
-  const look = new THREE.Vector3(0, 0, -(centre - 0.5) * 2 * dist * FOV_T / Math.cos(tilt));
+  // on a phone the books are two across at a readable size, and the rest are reached by scrolling
+  const scrolls = cols === 2;
+  const dist = scrolls ? gw / (2 * FOV_T * aspect) * 1.04
+    : Math.max(gh / (2 * FOV_T * band) * 1.12, gw / (2 * FOV_T * aspect) * 1.1);
+  const K = 2 * dist * FOV_T / Math.cos(tilt);                 // desk covered by the height of the screen
+  let z = -(centre - 0.5) * K;
+  deskRange = 0; deskK = K;
+  if (scrolls) {
+    const start = -gh / 2 - (top - 0.5) * K, end = gh / 2 - (bottom - 0.5) * K;
+    if (end > start) { deskRange = end - start; deskScroll = Math.max(0, Math.min(deskRange, deskScroll)); z = start + deskScroll; }
+  }
+  if (!deskRange) deskScroll = 0;
+  $('intro').style.setProperty('--fade', String(Math.max(0, 1 - deskScroll / (0.18 * K))));
+  const look = new THREE.Vector3(0, 0, z);
   const pos = look.clone().add(new THREE.Vector3(0, Math.cos(tilt), Math.sin(tilt)).multiplyScalar(dist));
   return { cols, pos, look };
 }
@@ -344,13 +357,17 @@ const OUT_NOW = released.length
 function caption(book) {
   $('caption').innerHTML = book
     ? `<i>Part ${book.part.roman}</i><b>${book.part.title}</b> &nbsp;&middot;&nbsp; ${book.part.released ? 'click to open' : 'not yet released'}`
-    : OUT_NOW;
+    : OUT_NOW + (deskRange ? ' Scroll for the rest.' : '');
 }
 caption(null);
 
 let down = null, dragged = false;
 canvas.addEventListener('pointermove', (ev) => {
-  if (mode === 'desk') {
+  if (mode === 'desk' && down && deskRange) {
+    const dy = ev.clientY - down.y;
+    if (Math.abs(dy) > 6) dragged = true;
+    if (dragged) { deskScroll = down.s - dy / innerHeight * deskK; const v = deskView(); camPos.copy(v.pos); camLook.copy(v.look); }
+  } else if (mode === 'desk') {
     const h = pick(ev); const b = h ? h.book : null;
     if (b !== hovered) { hovered = b; caption(b); canvas.style.cursor = b ? 'pointer' : ''; }
   } else if (mode === 'reading' && pinch && touches.has(ev.pointerId)) {
@@ -376,7 +393,7 @@ canvas.addEventListener('pointerdown', (ev) => {
   touches.set(ev.pointerId, { x: ev.clientX, y: ev.clientY });
   canvas.setPointerCapture(ev.pointerId);
   if (touches.size === 2) { pinch = { d: spread(), zoom }; dragged = true; return; }
-  down = { x: ev.clientX, y: ev.clientY, px: pan.x, py: pan.y }; dragged = false;
+  down = { x: ev.clientX, y: ev.clientY, px: pan.x, py: pan.y, s: deskScroll }; dragged = false;
 });
 canvas.addEventListener('pointercancel', (ev) => { touches.delete(ev.pointerId); pinch = null; down = null; });
 canvas.addEventListener('pointerup', (ev) => {
@@ -385,6 +402,7 @@ canvas.addEventListener('pointerup', (ev) => {
   const was = down; down = null;
   if (!was) return;
   if (mode === 'desk') {
+    if (dragged) return;
     const h = pick(ev);
     if (h) (h.book.part.released ? openBook(h.book) : nudge(h.book));
   } else if (mode === 'reading') {
@@ -401,6 +419,10 @@ canvas.addEventListener('pointerup', (ev) => {
   }
 });
 canvas.addEventListener('wheel', (ev) => {
+  if (mode === 'desk' && deskRange) {
+    ev.preventDefault(); deskScroll += ev.deltaY / innerHeight * deskK;
+    const v = deskView(); camPos.copy(v.pos); camLook.copy(v.look); return;
+  }
   if (mode !== 'reading') return;
   ev.preventDefault();
   zoom = Math.min(3.2, Math.max(1, zoom * Math.exp(-ev.deltaY * 0.0015)));
