@@ -1,0 +1,16 @@
+# Image ledger: Chapter 24, Why did the Roman Republic fall?
+
+All files from Wikimedia Commons. Licences read from the Commons API (extmetadata LicenseShortName), not guessed. All files are at most 1600 px on the long side (resized locally where the original was larger).
+
+| File | What it shows | Commons page | Author | Licence | Caption |
+|---|---|---|---|---|---|
+| cil.png | Page of the Corpus Inscriptionum Latinarum (2nd edn, 1918) headed Termini Gracchani, transcribing boundary columns of the Gracchan land commission | https://commons.wikimedia.org/wiki/File:Gracchan_land_commission_inscriptions,_CIL_vol_1_(2nd_edn,_1918)_p_514.png | Corpus Inscriptionum Latinarum, vol. 1 | Public domain | see chapter |
+| mutilus.png | Silver denarius of the Italian rebels in the Social War, 90 BCE, mint moving with C. Papius Mutilus: head of Bacchus, and a bull goring a wolf with Oscan legend; British Museum | https://commons.wikimedia.org/wiki/File:C._Papius_Mutilus,_denarius,_90_BC,_Campana_100.png | The Trustees of the British Museum | CC BY-SA 4.0 | see chapter |
+| marius.jpg | Marble portrait traditionally identified as Gaius Marius, Glyptothek Munich inv. 319 | https://commons.wikimedia.org/wiki/File:Glyptothek_Munich_-_Bust_of_Gaius_Marius_(inv._319).jpg | Yair-haklai | CC BY-SA 4.0 | see chapter |
+| sulla.jpg | Marble portrait identified as Sulla, Glyptothek Munich GL 309 (loan from Ny Carlsberg Glyptotek) | https://commons.wikimedia.org/wiki/File:Bust_of_Sulla_(GL_309).jpg | Yair-haklai | CC BY-SA 4.0 | see chapter |
+| slaves.jpg | Marble relief of collared slaves roped together, from Smyrna, about 200 CE, Ashmolean Museum | https://commons.wikimedia.org/wiki/File:Roman_collared_slaves_-_Ashmolean_Museum.jpg | Jun (Flickr) | CC BY-SA 2.0 | see chapter |
+| caesar.jpg | Marble head of Julius Caesar from Tusculum, Turin Archaeological Museum | https://commons.wikimedia.org/wiki/File:Head_of_Julius_Caesar_from_Tusculum_MAntTorino_2089_n01.jpg | Marie-Lan Tay Pamart | Public domain | see chapter |
+| eidmar.jpg | Silver denarius of Brutus, 42 BCE: his head, and two daggers with the cap of liberty and EID MAR; Munzkabinett Berlin | https://commons.wikimedia.org/wiki/File:R%C3%B6m._Republik-_M._Iunius_Brutus_und_L._Plaetorius_Cestianus_-_M%C3%BCnzkabinett,_Berlin_-_5475441.jpg | Reinhard Saczewski, Staatliche Museen zu Berlin | Public domain | see chapter |
+| primaporta.jpg | Marble statue of Augustus found at Prima Porta, Vatican Museums | https://commons.wikimedia.org/wiki/File:Augustus_of_Prima_Porta_(inv._2290).jpg | Joel Bellviure | CC BY-SA 4.0 | see chapter |
+| map14.png | Provinces of the Roman Empire in 14 CE with English labels (red imperial, blue senatorial, yellow Italy) | https://commons.wikimedia.org/wiki/File:Roman_empire_14_AD_(provinces)_en.png | Homoatrox | CC BY-SA 4.0 | see chapter |
+| resgestae.jpg | Temple of Augustus and Rome at Ankara, whose walls carry the Res Gestae | https://commons.wikimedia.org/wiki/File:The_Temple_of_Augustus_and_Rome_with_the_Res_Gestae_Divi_Augusti_("Deeds_of_the_Divine_Augustus")_inscribed_on_the_walls_of_the_cella,_Ancyra,_Ankara_(Turkey)_(25489757424).jpg | Carole Raddato | CC BY-SA 2.0 | see chapter |
