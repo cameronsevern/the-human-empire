@@ -12,6 +12,9 @@ The scheme has one requirement. If position carries meaning, there must be a way
 
 The clerks of Babylon had used position in their numbers nearly four thousand years ago, and the Maya of Central America worked out a sign for nothing on their own. The system that the whole world now uses, however, with its ten digits and its zero that can be added and multiplied like any other number, was put together in India.
 
+![A table of Indian numeral signs from many inscriptions, in rows labelled Asoka, Nasik, Gupta and others, with columns for the numbers 1 to 1000](images/brahmi_numerals.jpg)
+*How the signs for numbers changed in India, row by row from the inscriptions of Ashoka onwards. Later rows are closer to our own digits. Table: David Eugene Smith, public domain.*
+
 ## Fortunes and debts
 
 Between about 320 and 550, most of northern India was ruled by a dynasty called the Guptas, from the old capital on the Ganges where Ashoka had once reigned. Their empire was looser than his and their age is remembered less for conquest than for what was made in it: poetry and plays in Sanskrit, the old sacred language, along with temples of stone, and mathematics.
@@ -22,9 +25,15 @@ In 499 a young astronomer named Aryabhata, working in the Gupta capital, finishe
 
 By then, Indian calculators were marking an empty position with a dot, and they had a word for it, *shunya*, which means "empty". The next step was stranger. In 628 another astronomer, Brahmagupta, set out rules for doing arithmetic with the empty place itself. He treated it as a number in its own right, with numbers greater than it and numbers less. He called the greater ones fortunes and the lesser ones debts. A debt taken away from nothing, he wrote, becomes a fortune. A fortune multiplied by a debt is a debt. Nothing added to a number leaves the number unchanged, and a number multiplied by nothing is nothing.
 
+![A torn piece of birch bark covered in lines of Sanskrit, with a boxed row of numbers at the lower left](images/bakhshali.jpg)
+*A leaf of the Bakhshali manuscript, a book of mathematics written in India on birch bark, in which an empty place is marked with a dot. Photo: National Geographic, public domain.*
+
 No Greek mathematician had allowed nothing, or less than nothing, to count as a number. To Brahmagupta it was simple bookkeeping. A man with three coins who owes five has a debt of two, and a man who owes exactly what he has is left with nothing.
 
 Most Indian writing of that age was done on palm leaves and birch bark, which rot, so most of the oldest zeros that can be dated are carved in stone. One of them is on the wall of a small temple inside the hill fort of Gwalior, in central India. An inscription there, dated to the year 876, records a gift of land to the temple for a flower garden, and gives the plot's length as 270 measures. It also promises the god fifty garlands a day. The zeros in 270 and 50 are small circles, the same shape as the ones on a modern keyboard.
+
+![A reddish stone slab covered in lines of carved Sanskrit, with one number circled and enlarged in a corner](images/gwalior_inscription.jpg)
+*The inscription of 876 at the Chaturbhuj temple in Gwalior. The circled number, 270, is enlarged in the corner, and its zero is a small circle. Photo: Ms Sarah Welch, CC0.*
 
 ## Rags
 
@@ -44,15 +53,24 @@ Baghdad itself was new. In 750 a revolution that began in eastern Iran had overt
 
 Within fifty years Baghdad had spilled far beyond the circle and held several hundred thousand people, more than any city in the world outside China. The taxes of an empire that ran from Egypt to the borders of India flowed into it.
 
+![A map of Europe, North Africa and Asia with the lands of the Abbasid caliphate in green, from Tunisia to the Indus](images/abbasid_map.jpg)
+*The Abbasid caliphate about the year 800, from North Africa to the Indus. Spain was ruled separately. Map: Gabagool, CC BY 3.0.*
+
 The move from Syria to Iraq changed the character of the empire. Damascus had looked towards the Mediterranean and the Arabian desert. Baghdad stood on Persian ground, and the Abbasids took over the Persian idea of what a great king was. In that tradition a king was a patron of learning, and the old kings of Persia were remembered for collecting the books of every nation. The Abbasids were conscious that they ruled Greeks, Persians, Syrians, Egyptians and Indians, and they meant to be the heirs of all of them.
 
 They also had practical needs, and so did their subjects. The court would not start a war or lay a foundation stone without an astrologer, and astrology requires exact astronomy. The faith itself set problems in mathematics. A Muslim prays five times a day at hours fixed by the sun, facing Mecca, and so every mosque from Spain to Samarkand needed someone who could work out the time and the direction. The Qur'an's rules of inheritance divide an estate into fractions among wives, sons, daughters and parents, and applying them to a real family with debts and bequests can be seriously difficult. The caliphs and the rich wanted the best doctors, too. All of this knowledge existed, in Greek, Persian and Sanskrit books, and with paper now cheap it could be put into the language of the empire.
+
+![A round brass instrument with a ring at the top, an openwork pattern and Arabic lettering round the rim](images/astrolabe_984.jpg)
+*A brass astrolabe made in 984, used to find the time and the direction of the stars. It is now in the Museum of Islamic Art in Doha. Photo: Ciphers, CC BY-SA 3.0.*
 
 ## The translator's price
 
 The work went on for about two hundred years, and by the end of it nearly everything of Greek science, medicine and philosophy that could still be found had been turned into Arabic. That included the geometry of Euclid, the astronomy of Ptolemy, the medicine of Galen, and almost all of Aristotle.
 
 Most of the translators were Christians. The churches of Syria and Iraq had been teaching Greek medicine and logic in their own schools for centuries, in Syriac, a language close to Arabic, and their scholars were the natural bridge. The most celebrated of them was a physician named Hunayn, the son of a pharmacist from a town on the Euphrates. Hunayn left an account of his working life that reads like the memoir of a rare book dealer. To find one treatise of Galen, he says, he searched Iraq, Syria, Palestine and Egypt, and came upon about half of it at last in Damascus. He would collect as many Greek copies of a work as he could, compare them line by line to establish a sound text, and only then translate. He translated according to the sense of a sentence instead of word by word, which earlier translators had not always managed.
+
+![A manuscript page with a circular diagram of the eye and its nerves above several lines of Arabic](images/hunayn_eye.jpg)
+*A diagram of the eye from a copy, made in the 1100s, of Hunayn's Ten Treatises on the Eye. Hunayn lived in the 800s. Image: 12th-century copyist, public domain.*
 
 The people who paid for this were the caliphs, their ministers, and wealthy private families who competed with one another in sponsoring scholars. One family of three brothers, themselves mathematicians, is recorded as paying a team of three translators five hundred gold coins a month. A later story claims that the caliph paid Hunayn the weight of each finished book in gold. A tale like that is told only where translators are known to be very well paid.
 
@@ -71,6 +89,9 @@ What he produced was a method for finding an unknown quantity. Al-Khwarizmi call
 Take a small case. A man leaves a sum of money such that when a third of it has gone to his widow and two coins to the gravedigger, eight coins remain. In al-Khwarizmi's manner this is written: the thing, less a third of the thing, less two, equals eight. Restoring puts the two coins back on the other side, so that the thing less a third of the thing equals ten. Two thirds of the thing are therefore ten, and the thing is fifteen.
 
 Harder problems, in which the thing is multiplied by itself, need more steps. Al-Khwarizmi shows that every problem of the kind he deals with comes down to one of six standard forms, and for each form he gives a recipe for the answer, with a diagram to prove that it works.
+
+![Two facing pages of an Arabic manuscript, dense with writing, with red-lined squares and rectangles at the bottom of each](images/khwarizmi_algebra.jpg)
+*Two pages of a medieval Arabic copy of al-Khwarizmi's algebra, kept at the Bodleian Library in Oxford. The red squares and rectangles are the diagrams that prove his solutions. Image: public domain.*
 
 Greek and Indian mathematicians had solved problems of the same kind. The novelty was the attitude. Al-Khwarizmi did not treat each puzzle as a separate feat of cleverness. He classified every equation of a certain type, and showed a routine that would solve any of them without thought. The name of the subject, algebra, is his word. The name for any fixed routine of calculation, algorithm, is his own name, as garbled by Latin translators.
 
@@ -94,6 +115,9 @@ The Greeks had left a vast body of medical writing. The cities of the caliphate 
 
 From about the year 800, the caliphs and their ministers founded hospitals in Baghdad, and later rulers built them in every large city of the Islamic world. They were paid for by endowments of land and shops, on the same principle as the gift that had kept Indian monks in robes. By the tenth century, a great hospital of this kind was open to anyone and charged nothing. It had separate wards for fevers, for eye diseases, for surgery and for the insane, with a pharmacy and a library. A staff of salaried physicians made their rounds with students in tow. After a patient died of a doctor's mistake in 931, the caliph ordered that nobody should practise in Baghdad without passing an examination, and more than eight hundred physicians presented themselves.
 
+![A narrow street ending in a stone building with a carved niche and a ribbed red dome above the door](images/bimaristan_damascus.jpg)
+*The Bimaristan of Nur al-Din in Damascus, a hospital built in 1154, about 870 years ago. Photo: seier+seier, CC BY 2.0.*
+
 The most famous hospital director was a Persian named al-Razi, who took up medicine in his thirties after a youth spent on music and alchemy. A story told about him says that when he was asked to choose the site for a new hospital in Baghdad, he had pieces of fresh meat hung up in different quarters of the city and picked the place where the meat was slowest to rot.
 
 Al-Razi wrote one of the first clear accounts of how to tell smallpox from measles, which is still accurate. He kept notes on his own cases and compared them with what the books said should happen. When they disagreed, he sided with the cases. He wrote a whole treatise called *Doubts about Galen*. In its preface he calls Galen his master, and explains that reason must all the same be put above any authority, which is what Galen himself had taught.
@@ -108,7 +132,13 @@ The most tireless of them was an Italian called Gerard, from the town of Cremona
 
 Al-Khwarizmi's manual on the Indian numbers was translated as well. The Arabic original is lost, and the Latin version begins with the words *Dixit Algorizmi*, "Thus spoke al-Khwarizmi".
 
+![A page of Latin manuscript with a large decorated D at the top left](images/dixit_algorizmi.jpg)
+*A page of a Latin manuscript beginning Dixit Algorizmi, "Thus spoke al-Khwarizmi", the first words of the translated manual. Image: public domain.*
+
 The figures themselves reached European merchants by a shorter road. In the 1180s, a boy from Pisa named Leonardo was taken to a port on the coast of Algeria, where his father was the customs official for the Pisan traders. The father had him taught to calculate by a local master. Leonardo was enchanted by the nine Indian figures, as he calls them, and later travelled around the Mediterranean learning everything that merchants knew about reckoning. In 1202 he published a thick book showing how to use the new numbers for pricing, profit, interest and the exchange of currencies. He is now known as Fibonacci.
+
+![A manuscript page of Latin text with a column of numbers in red ink in the margin](images/liber_abaci.jpg)
+*A page of a manuscript of Fibonacci's Liber Abaci, a book first published in 1202, with figures in the margin. The manuscript is in Florence. Image: public domain.*
 
 Not everyone was pleased. In 1299 the guild of money changers in Florence forbade its members to keep their accounts in the new figures. A zero, after all, can be turned into a six or a nine with one stroke of the pen. For another two centuries, cautious Europeans went on writing the totals of their ledgers in Roman numerals, having worked them out on scrap paper in Indian ones.
 
