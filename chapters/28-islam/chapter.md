@@ -10,9 +10,15 @@ The university sent a sample of the parchment to a laboratory in Oxford for radi
 
 Muhammad, the founder of Islam, is believed to have lived from about 570 to 632. The parchment therefore dates from his own lifetime or from the dozen years after it, and the writing on it is probably not much younger than the skin. Apart from small differences of spelling, the words on the two leaves are those of the Qur'an as it is printed today.
 
+![Two facing leaves of parchment covered in large, widely spaced Arabic script in dark ink, with a band of red decoration](images/birmingham_quran.jpg)
+*Two leaves of the Birmingham Qur'an, written in the slanting early script of western Arabia. The parchment was dated by radiocarbon to between 568 and 645. University of Birmingham. Public domain.*
+
 That result matters because of a difficulty that any honest account of Islam's beginnings has to face. The detailed story of Muhammad's life comes from biographies composed by Muslim scholars more than a century after he died, out of reports, a few written and most spoken, that had been handed down for four or five generations. The oldest of them survives only in an edition made later still. Believers accept this tradition, and it may well be accurate in the main. A historian would nevertheless like something closer to the events.
 
 There are three such things, and together they hold up the outline. The first is the Qur'an itself, which pages like those in Birmingham show to have been fixed in writing very early. It says little about events, but a great deal about what was preached. The second is a handful of notes by startled outsiders. A Christian text written within a few years of Muhammad's death mentions a prophet who has appeared among the Arabs, armed with a sword, and an Armenian chronicler a generation later knows that he was a merchant named Muhammad who taught his people about the God of Abraham. The third is a scrap of papyrus from Egypt, a receipt for sixty-five sheep handed over to an Arab commander. It is written in Greek and Arabic, it opens with the words "In the name of God", and it is dated to the year twenty-two. Something had happened twenty-two years earlier that Arabs already counted their years from.
+
+![A sheet of brown papyrus with lines of Greek writing above and lines of Arabic writing below](images/perf558.jpg)
+*A receipt on papyrus written in Greek and Arabic, dated to the year 643 (the year twenty-two). It comes from Egypt and is now in the Austrian National Library. Public domain.*
 
 The detailed story exists only as Muslim tradition tells it. Its main lines are secure, and many of its details cannot be checked.
 
@@ -22,13 +28,22 @@ Arabia is a block of desert about the size of India, with mountains and a little
 
 Outside the old kingdoms of Yemen, in the far south, no government ruled there. The desert and its towns had no king, no tax collector, no police and no courts, and the question of what kept anyone safe had one answer, which was kinship.
 
+![A tall slab of pale stone covered from top to bottom in rows of small angular carved letters](images/sabaean_inscription.jpg)
+*A stone inscription in the script of Saba, one of the old kingdoms of southern Arabia. National Museum of Oman. Photo: Francesco Bini, CC BY-SA 4.0.*
+
 Every person belonged to a clan, a group of families descended from one ancestor, and several clans made up a tribe. If a man was robbed or killed, his clan was bound to take revenge on the clan of the man who did it, and the killer's whole clan was held responsible. Everybody knew this, and the knowledge was the nearest thing to law. A man thought twice before harming a member of a strong clan, since he would be exposing his own brothers and cousins to the feud that followed.
 
 The system protected exactly those who had kin behind them. A widow or an orphan without a protector, a slave, or a stranger had nobody who would pick up a sword on their account, and could be cheated or beaten at no risk. Feuds, moreover, ran on for generations, each killing calling for another. Raiding other tribes for camels was an accepted way of making a living, and the old Arabic poems celebrate it.
 
 Mecca, in a barren valley about seventy kilometres from the Red Sea, had found a way to live in such a world. At its centre stood a small cube-shaped building called the Kaaba, which housed the images of many gods. The ground around it was sacred, and no blood could be shed there. For certain months of the year a truce held across the region, and people of every tribe came to Mecca on pilgrimage, and to trade at the fairs nearby. The tribe that controlled the town, the Quraysh, looked after the shrine, supplied the pilgrims, and sent camel caravans north to Syria and south to Yemen.
 
+![An old brown photograph of a cube-shaped building draped in black cloth, with arcades around it and houses climbing a rocky hillside behind](images/kaaba_1880.jpg)
+*The Kaaba in Mecca, photographed in 1880 by Muhammad Sadiq Bey. Photo: Muhammad Sadiq Bey, Khalili Collections, CC BY-SA 3.0.*
+
 The Arabs were not cut off from the wider world. To the north lay the two great empires, Rome and Persia, which by the time Muhammad began to preach were fighting the longest and most destructive of all their wars, and which paid Arab chiefs on the desert's edge to guard their frontiers. Both the faiths of the book had reached Arabia as well. Jewish clans farmed several of the oases. There were Christians in Yemen and along the Syrian border, and Christian monks in the desert. Most Arabs had heard of the one God of Abraham, and many already thought of a high god, called simply *Allah*, "the God", who stood above the gods of the shrine. The Jews and the Christians each had a scripture in their own tongue. The Arabs had none.
+
+![A coloured map of Arabia and its neighbours, with the Byzantine Empire at the top left, a Persian realm in pink to the east, Himyar in the south, and Mecca, Medina and the names of Arab tribes marked](images/arabia_map.jpg)
+*Arabia before Islam, with Mecca and Medina in the west, the Byzantine Empire to the north, the Persian Empire to the northeast, and the kingdom of Himyar in Yemen. Map: Javierfv1212, public domain.*
 
 ## Recite
 
@@ -36,7 +51,13 @@ Muhammad was born into the Quraysh, in a respectable clan that had come down in 
 
 As a young man he worked on the caravans and gained a reputation for honesty. A wealthy widow named Khadija, who ran a trading business of her own, hired him to take her goods to Syria. She was pleased with the results and proposed marriage to him. He was about twenty-five, and she was, by tradition, about forty. The marriage was a happy one and lasted until her death, and as long as she lived he took no other wife.
 
+![An old black and white photograph of a line of camels, each carrying a covered wooden litter, led across the sand by a man on foot](images/caravan_1910.jpg)
+*A camel caravan carrying pilgrims to Mecca, about 1910. Photo: Matson Collection, Library of Congress, public domain.*
+
 He had a habit of withdrawing for days at a time to a cave on a mountain outside the town, to think and pray. On one such night, when he was about forty, something happened there that terrified him. As he told it afterwards, a presence seized him and commanded: "Recite!" He answered that he could not recite. Twice more he was gripped and commanded, and then the words came, the first of many. He ran home shaking and asked Khadija to cover him with a cloak. She listened, and told him that God would not disgrace a man who was kind to his relatives, who spoke the truth and who helped the poor. She was the first person to believe him.
+
+![A bare brown rocky mountain rising behind a low building under a blue sky](images/jabal_al_nour.jpg)
+*Jabal al-Nour, the mountain outside Mecca where the cave of Hira lies. Muslims believe the first words of the Qur'an came to Muhammad there. Photo: Sadath i, CC BY-SA 4.0.*
 
 Muslims believe that the presence was the angel Gabriel, and that the words Muhammad recited then and over the next twenty-three years were the speech of God himself, passed on without alteration. Those recitations, gathered into a book, are the Qur'an. The word means "the recitation".
 
@@ -73,6 +94,9 @@ The Arabic word for that community is *umma*, and the clauses that follow spell 
 That agreement took the one institution Arabia had, the clan with its duty of mutual protection, and stretched it over people who shared no ancestor. Among the believers, the tie no longer depended on who one's grandfather was. It depended on a declaration that there is no god but God and that Muhammad is his messenger, and anyone at all could make it. The slave Bilal was a full member. He was given the task of calling the community to prayer, in a voice that carried across the oasis.
 
 In Medina the duties of membership became the public rhythm of a whole town, and they were few. A Muslim prayed five times a day, at fixed hours, in rows with the others, facing in a set direction. At first that direction was Jerusalem, and after about a year and a half it became the Kaaba at Mecca. A Muslim fasted from dawn to dusk for one month of the year, and paid a fixed share of his wealth each year for the support of the poor, the orphan and the traveller. What the first recitations had urged as charity became an obligation, and the community had a treasury. No priests were needed for any of it.
+
+![An old photograph of a large dark dome beside a tall stone minaret with bands of black and white, with hills behind](images/medina_mosque_1910.jpg)
+*The Prophet's Mosque in Medina, with its minaret and the dome over the tomb of the Prophet, photographed in 1910. Photo: Bernhard Moritz, public domain.*
 
 The recitations of the Medina years are longer and deal with the business of a society. They lay down rules for inheritance, marriage, debts and the treatment of orphans' property. They gave a daughter a fixed share of her parents' estate, half the share of a son, in a country where women had often inherited nothing and had sometimes been inherited themselves. They limited a man to four wives and told him to take only one if he feared that he could not treat several fairly.
 
