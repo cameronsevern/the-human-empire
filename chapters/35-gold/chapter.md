@@ -8,7 +8,13 @@ In 1375, a Jewish mapmaker on the island of Majorca finished an atlas, which the
 
 Most of Africa on that map is empty. South of the Atlas mountains the painter has drawn a few oases and a man in a veil riding a camel. Below them, in the middle of the blank, sits a Black king on a throne. He wears a heavy gold crown and holds a gold sceptre in one hand. In the other, he lifts up a lump of gold the size of an orange, as if offering it to the rider. A caption beside him says that this lord is called Musa of Mali, that he is the ruler of the Black people of Guinea, and that he is the richest and noblest lord in all that region, because of the abundance of gold that is gathered in his land.
 
+![A painted figure of a crowned Black king on a throne, holding a gold disc in one raised hand and a long sceptre in the other, on a map covered in ruled lines](images/catalan_atlas_musa.jpg)
+*Musa of Mali as drawn on the Catalan Atlas, made on Majorca in 1375. He holds a lump of gold in one hand and a sceptre in the other. Public domain.*
+
 The mapmaker had never been within three thousand kilometres of Mali, and Musa had by then been dead for forty years. What had reached Majorca was a name, a place and a reputation. The reputation was deserved. In the fourteenth century, a large share of all the gold in circulation in Europe, North Africa and the Middle East had come from West Africa. When the cities of Italy began to strike gold coins again in the thirteenth century, the florins of Florence and the ducats of Venice, much of the metal in them had crossed the Sahara on the back of a camel.
+
+![Front and back of a small gold coin, one side with a lily flower and the other with a standing bearded saint](images/florin.jpg)
+*A gold florin of Florence, struck between 1285 and 1290, with the lily of Florence on one side and Saint John the Baptist on the other. It was found in England. Photo: Suffolk County Council, Riccardo Caravello, CC BY 2.0.*
 
 ## Houses of salt
 
@@ -16,11 +22,17 @@ The Sahara is about the size of the United States. For most of history it cut Af
 
 A caravan might have a thousand camels or more. It left in the cooler months and took about two months to reach the far side, travelling from well to well under the guidance of the veiled desert herders who knew where the wells were. Losing the way meant death. So did finding a well dry.
 
+![A line of camels walking across sand with flat slabs of salt strapped to their sides, led by men on foot, with round grass huts behind](images/salt_caravan_timbuktu.jpg)
+*A salt caravan arriving at Timbuktu, in a postcard photograph from the early 1900s. Its French caption says the salt slabs weigh about thirty kilograms and come from Taoudenni, twenty days to the north. Photo: Edmond Fortier, public domain.*
+
 The best description of the crossing comes from a Moroccan named Ibn Battuta, the greatest traveller of the Middle Ages, who went south with a caravan in 1352. Twenty-five days out, he came to a place in the middle of the desert called Taghaza, which he thought the most miserable village he had ever seen. It had no trees and no soil. Its houses and its mosque were built of blocks of rock salt, roofed with camel skins. The only people who lived there were the slaves of the salt merchants, who dug slabs of salt out of the ground, and they lived on dates brought from the north and camel meat. The water was brackish and the place swarmed with flies. Despite all this, Ibn Battuta notes that enormous sums in gold changed hands there.
 
 South of the salt mine lay ten days without water, and then a last well. From there, he explains, the custom was to hire a man of the desert people to ride ahead alone to the first town on the southern side. There he arranged for people to come out four days into the desert with water to meet the caravan. If the messenger died on the way, nobody came, and most of the caravan died too. Ibn Battuta's messenger got through.
 
 The salt was worth the journey because of a simple fact of geography. Most of the inland savanna and forest of West Africa has no rock salt. People who work in tropical heat lose salt in their sweat every day and have to replace it or sicken, and their cattle need it as well. The Sahara, by contrast, has beds of pure rock salt lying just under the sand, left by lakes that dried up thousands of years ago. A camel carried two slabs. Arab writers reported that in the far south, where the gold came from, salt was so precious that it was exchanged for gold weight for weight. That was a traveller's tale, but the fact behind it was real. The price of a slab multiplied several times between the mine and the southern markets.
+
+![Rows of flat white slabs of rock salt stacked on a river bank beside long boats with arched covers, with people standing among them](images/taoudeni_salt_mopti.jpg)
+*Slabs of rock salt from the Taoudenni mines, newly unloaded at the river port of Mopti on the Niger, Mali, in 2005. Photo: Taguelmoust, CC BY-SA 3.0.*
 
 ## Nuggets for the king
 
@@ -46,6 +58,9 @@ A sung epic makes a poor record of dates. It preserves very well what a people t
 
 His successors, who bore the title *mansa*, pushed their rule west to the Atlantic and east along the great bend of the Niger. That river was the making of the empire. It rises near the gold fields, flows north-east to the edge of the desert, and then curves south again, and for most of its length it can carry large canoes. Goods unloaded from the camels at the desert's edge could be floated a thousand kilometres into the interior. At the top of the bend, where the camel met the canoe, stood a trading post called Timbuktu.
 
+![An old print of a huge mud-built mosque with tall tapering towers topped by pointed pinnacles and a long wall with rows of small spikes](images/djenne_mosque_1911.jpg)
+*The Great Mosque of Djenné, on the Niger, in a print from about 1911. The building was rebuilt in 1907 on the ruins of an earlier mosque. Photo: Felix Dubois, public domain.*
+
 ## Twelve years of cheap gold
 
 Musa came to the throne of Mali about 1312. According to the account that he gave of it later, his predecessor had become convinced that the ocean to the west must have a far shore. The king sent out a fleet of canoes with water and provisions. When a single boat came back, he fitted out a far larger fleet, sailed off into the Atlantic at the head of it, and was not seen again.
@@ -62,9 +77,15 @@ In Cairo, Musa also explained how his gold was obtained, and what he said confir
 
 It would be easy to see the pilgrimage as vanity. It is better understood as an investment. Mali lay at the far edge of the Muslim world, and until 1324 few people in the centres of that world could have said where it was. After the pilgrimage they knew. Egyptian merchants began to travel to Mali. The sultans of Egypt and Morocco exchanged ambassadors with its kings. Musa brought scholars, jurists and books back with him, along with a poet from Muslim Spain, who built him a domed audience hall that was the wonder of the court. The great mosque of Timbuktu dates from his reign. His gold bought him and his kingdom a place among the Muslim states, and with it the trust of the merchants who came south.
 
+![A mud-walled mosque with a tapering tower, with a boy and two men on donkeys in front of its long wall](images/djinguereber.jpg)
+*The Djinguereber mosque at Timbuktu, in a postcard photograph taken in 1905 or 1906. Tradition ties its building to Musa's reign; it has been repaired many times since. Photo: Edmond Fortier, public domain.*
+
 ## Books at a profit
 
 In the two centuries after Musa, Timbuktu grew from a trading post into a city of perhaps fifty thousand people and one of the centres of Islamic learning. Around its mosques gathered teachers of law, grammar, astronomy and medicine, each with a circle of students who lodged in his house. A traveller who visited in the early 1500s noted that manuscripts imported from North Africa were sold there, and that more profit was made from books than from any other merchandise. The city's leading families built up private libraries, which their descendants still keep. Some hundreds of thousands of manuscripts survive in and around Timbuktu, most of them in Arabic and some in the languages of West Africa written in Arabic letters.
+
+![Two worn paper pages ruled in red into grids and filled with Arabic numerals and writing](images/timbuktu_manuscript.jpg)
+*Pages of astronomical tables in Arabic from a manuscript at the Ahmed Baba Institute in Timbuktu, a copy of a work by the Egyptian astronomer Ibn Yunus, who died in 1009. Photo: EurAstro, public domain.*
 
 Islam in West Africa was the religion of the court and the trading towns. A Muslim merchant from Cairo or Morocco could count on finding, in the trading towns on the Niger, a mosque, a judge who knew the law of contract, and people who would honour a written order to pay. The farmers who made up most of the population kept to the gods and ancestors of their villages, as the gold miners did. The kings, who needed both the merchants and the farmers, stood with one foot in each world.
 
@@ -76,11 +97,17 @@ His book mentions, in passing, the other cargo of the desert road. When he went 
 
 In the 1400s, Mali weakened, and its place was taken by a state further down the river. The Songhai were a people of boatmen and fishermen from the eastern side of the Niger bend. In the 1460s their king, a ruthless soldier with a fleet of war canoes, captured Timbuktu and the other river ports one after another. His successors ruled the largest empire that West Africa had yet seen, more than twice the size of France, with a standing army and a salaried administration. They drew their wealth from the same source as the kings of Ghana and Mali before them.
 
+![A black-and-white photograph of a tall stepped mud-brick tower with rows of wooden beams sticking out of its sloping sides](images/askia_tomb.jpg)
+*The tomb of Askia Muhammad at Gao, the Songhai capital, a stepped pyramid of mud built about 1495, with timber beams sticking out of its walls. Photographed in 1930 or 1931. Photo: Walter Mittelholzer, public domain.*
+
 Their neighbours on the far side of the desert had watched that wealth for a long time. In 1590 the sultan of Morocco, who had destroyed a Portuguese invasion a dozen years earlier and was short of money, decided to take the gold trade at its source. His advisers told him that no army could cross the Sahara. He replied that if merchants could cross it, so could soldiers, and that the people of the south fought with spears and swords and had never faced firearms.
 
 He sent about four thousand men, under a commander who had been born a Christian in Spain. More than a third of them carried muskets, and many of those were Spaniards and other Europeans in Moroccan service. Eight thousand camels carried their powder, their shot and several small cannon. The crossing took about four months, and a large part of the force died on the way.
 
 In March 1591, the survivors met the army of Songhai on the bank of the Niger. It outnumbered them several times over and included thousands of armoured horsemen. The Songhai commanders had heard of guns and had devised a plan. They drove a herd of a thousand cattle ahead of their line, to break up the Moroccan ranks and soak up the bullets. The first volleys, however, terrified the animals. The herd turned and stampeded back through the Songhai army. The battle was over within hours, and the empire did not survive it.
+
+![A reddish-brown clay figure of a rider with a pointed helmet and a long quiver on a tall, thin-legged horse with a decorated bridle](images/terracotta_horseman.jpg)
+*A terracotta horseman from the Djenné region of the inland Niger, made between the 1200s and 1400s. Photo: Franko Khoury, National Museum of African Art, public domain.*
 
 The victory gained Morocco very little. The sultan's men held Timbuktu and the river towns, but beyond them the empire dissolved into a patchwork of small states and the roads became unsafe. The gold fields, as ever, remained out of reach, and the conquest cost Morocco more than the gold it brought.
 
