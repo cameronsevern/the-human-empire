@@ -32,7 +32,7 @@ For about two thousand years, bronze was the best material that people had for a
 
 The trouble with bronze lies in the second ingredient. Copper ore is found in many places. The island of Cyprus had so much of it that the metal's name, in most European languages, comes from the island's. Tin is another matter. It is one of the scarcer metals in the earth's crust, and there was almost none of it in the lands where the first cities grew. There was none in Egypt, almost none in Iraq, and none in Greece.
 
-Some was mined in the mountains of southern Turkey. The other sources lay very far away: in the mountains of Central Asia to the east, or at the Atlantic end of Europe to the west. Chemists have tested the tin from the wreck to find where it was mined. One team traced about a third of it to a valley in what is now Tajikistan, more than three thousand kilometres from the place where the ship went down.
+Some was mined in the mountains of southern Turkey. The other sources lay very far away: in the mountains of Central Asia to the east, or at the Atlantic end of Europe to the west. Chemists have tested the tin from the wreck to find where it was mined. One team traced about a third of it to mines in Central Asia, in what are now Uzbekistan and Tajikistan, more than three thousand kilometres from the place where the ship went down.
 
 In other words, the kingdoms that used the most bronze had little or no tin of their own. Every bronze blade in Egypt or Greece contained metal that had crossed mountains and deserts, and had passed through the hands of many strangers on the way.
 
@@ -143,17 +143,17 @@ First, the weather changed. Grains of ancient pollen, taken from the mud of an o
 
 Drought meant famine, and the letters say so. The demand for grain as a matter of life and death is one of several. The king of Egypt, a few years earlier, had boasted of sending shiploads of grain to keep Hatti alive.
 
-Hungry people move, and hungry people also raid. The peoples whom the Egyptians fought were probably not a single nation of pirates. More likely they were a mixture of the displaced: farmers whose crops had failed, soldiers whose palaces could no longer pay them, sailors who had turned to plunder. They brought their families with them, which raiders who mean to go home do not do.
+Hungry people move, and hungry people also raid. The peoples whom the Egyptians fought were not a single nation of pirates. They were a mixture of the displaced: farmers whose crops had failed, soldiers whose palaces could no longer pay them, sailors who had turned to plunder. They brought their families with them, which raiders who mean to go home seldom do.
 
 In several of the ruined cities there are signs of other troubles as well. Some show walls thrown down by earthquakes, and that region lies on a restless seam in the earth's crust. In several places it was the palace alone that burned, while the houses of the town were left standing, and some historians see in that the hand of the palace's own subjects.
 
 Each of these things had happened before. There had been droughts, earthquakes, raids and revolts in every century, and the kingdoms had recovered. A palace that lost a harvest could buy grain from a neighbour. One that lost a battle could call on an ally. This time, the neighbour was starving too, and the ally was fighting for his own life.
 
-Here the tightness of the system turned against it. A kingdom that needs tin from a thousand kilometres away is in trouble as soon as the roads become unsafe. Without tin there is no new bronze. Without bronze and grain, the chariot force cannot be kept up. Without the chariots, the king cannot protect the roads. Each failure caused the next.
+Here the tightness of the system turned against it. A kingdom that needs tin from a thousand kilometres away is in trouble as soon as the roads become unsafe. Without tin there is no new bronze, only old bronze melted down. Without bronze and grain, the chariot force cannot be kept up. Without the chariots, the king cannot protect the roads. Each failure caused the next.
 
 Moreover, the palaces had gathered a great deal into their own hands. When a palace burned, the district lost its army, its storehouse, its workshops, its records and the few people who could read them, all in one afternoon.
 
-Historians still argue over which blow came first and which did the most harm, and the argument may never be settled. Whatever the order, the palaces fell together because they had come to depend on each other.
+Historians still argue over which blow came first and which did the most harm, and the argument may never be settled. Whatever the order, one palace's trouble became its neighbours' trouble, because they had come to depend on each other.
 
 ## Who came through
 

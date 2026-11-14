@@ -4,7 +4,7 @@
 
 Because in eleven years he made himself master of the largest empire the world had yet seen. He did not so much replace that empire as take it over, and what lasted was not his rule but a Greek-speaking world that reached from Egypt to Afghanistan.
 
-In the British Museum there is a broken piece of a clay tablet, small enough to hold in one hand. It was written in Babylon, by one of the temple clerks whose job was to watch the sky. Night after night these men noted where the moon and the planets stood, and they added any news worth keeping. By the time this tablet was written, they had been doing it for more than three hundred years, and they still did their sums in sixties, as the clerks of that plain had done since the days of Uruk.
+A broken piece of a clay tablet in the British Museum, small enough to hold in one hand, was written in Babylon by one of the temple clerks whose job was to watch the sky. Night after night these men noted where the moon and the planets stood, and they added any news worth keeping. By the time this tablet was written, they had been doing it for more than three hundred years, and they still did their sums in sixties, as the clerks of that plain had done since the days of Uruk.
 
 The entry for the twenty-ninth day of one early summer month is very short. It says: "The king died." Then it mentions clouds, because the clerk could not see the sky that night.
 
@@ -34,7 +34,7 @@ First, he gave his foot soldiers a new weapon. It was a pike more than five metr
 
 Second, he made his men professionals. Most Greek soldiers were farmers who went to war for a few weeks in summer. Philip's men were paid all year round, with gold from mines that he had seized, and they drilled all year round. He made them carry their own food and gear on long marches and cut down the trail of carts and servants, so that his army arrived sooner than its enemies expected.
 
-Third, he joined the pike block to a heavy cavalry. Philip trained them to charge in a wedge, with long lances, at a single point in the enemy line. The pikes held the enemy in place, like an anvil, and the cavalry struck like a hammer.
+Third, he joined the pike block to a heavy cavalry. Philip trained his horsemen to charge in a wedge, with long lances, at a single point in the enemy line. The pikes held the enemy in place, like an anvil, and the cavalry struck like a hammer.
 
 With this army, Philip spent twenty years taking Greece apart. About 2,360 years ago he beat the combined armies of Athens and Thebes in a single afternoon. His son Alexander, who was eighteen, led the cavalry.
 
@@ -171,7 +171,7 @@ He started from something that travellers reported about a town called Syene, at
 
 At Alexandria, far to the north, an upright stick at that same noon still cast a short shadow.
 
-The sun is so far away that its rays reach the Earth side by side, like the lines on ruled paper. If the Earth were flat, those rays would strike every upright stick at the same angle, and at any one moment all sticks would cast the same shadow.
+The sun is so far away that its rays reach the Earth side by side, like the lines on ruled paper. If the Earth were flat, those rays would strike every upright stick at the same angle, and at any one moment all sticks of the same height would cast the same shadow.
 
 However, educated Greeks had known for more than a century that the Earth is a ball. When the Earth's shadow crosses the face of the moon during an eclipse, the edge of that shadow is always curved. On a ball, upright sticks in different places do not point the same way. Each one points straight out from the centre, like pins stuck in an orange.
 

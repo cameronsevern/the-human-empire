@@ -115,7 +115,7 @@ A jury of that size is hard to bribe. The Athenians made it harder still, and th
 Each juror carried a small strip of bronze, or in later years of wood, about the size of a stick of chewing gum. It was marked with his name, his father's name, his village and one of ten letters. At dawn on a court day, he went to the entrance set aside for his tribe. There he dropped his ticket into one of ten boxes, the one marked with his letter.
 
 ![Four dark strips of bronze scratched with Greek letters, and a small bronze ball](images/pinakia.jpg)
-*Jurors' bronze tickets from Athens, each with a man's name, his father's name and his village. The ball comes from an allotment machine. Photo: Zde, CC BY-SA 4.0.*
+*Jurors' bronze tickets from Athens, each with a man's name, his father's name and his village. The ball was used in drawing lots. Photo: Zde, CC BY-SA 4.0.*
 
 Beside the boxes stood two of the machines. Each was an upright slab of stone with five columns of slots, and a letter at the head of each column. The tickets were drawn from each box one by one and pushed into the column under their letter, from the top down, in the order in which they came to hand. When that was done, the tickets formed rows across the face of each stone, five men to a row, with one man from each letter.
 
@@ -138,7 +138,7 @@ Thousands of foreigners had settled in Athens to work and trade. They paid a spe
 
 ## Iron in the sea
 
-Meanwhile, the fleet had found a new use. When the Persians were driven out, nobody knew that they were gone for good. The Greek cities of the islands and of the Turkish coast, newly free, wanted protection, and the only power with enough ships to give it was Athens. So they formed an alliance to carry on the war, with its treasury on the small holy island of Delos, in the middle of the sea.
+Meanwhile, the fleet had found a new use. When the Persians were driven out of Greece, nobody knew that they would not be back. The Greek cities of the islands and of the Turkish coast, newly free, wanted protection, and the only power with enough ships to give it was Athens. So they formed an alliance to carry on the war, with its treasury on the small holy island of Delos, in the middle of the sea.
 
 The founding members swore an oath, and to seal it they dropped lumps of iron into the sea. The alliance was to last until the iron floated up again.
 
@@ -204,4 +204,4 @@ Nearly all of this is known from Greeks. The Persian war was written up by Herod
 
 What the Persians did leave are the ration tablets of Persepolis, and among the workers they list are Greek stonemasons. In the king's own inscriptions, the Greeks are one name in a long list of nations that he rules. From his palace, the great war for freedom was trouble on a distant border.
 
-The empire had lasted for about seventy years. The democracy that grew up with it lasted for nearly two hundred, and each morning that the courts sat, the stone machines went on sorting potters and landowners into the same row. By then, in the mountains to the north, a kingdom that the Greeks thought half foreign was learning to fight in a new way.
+The empire had lasted for about seventy years. The democracy that grew up with it lasted for nearly two hundred, and each morning that the courts sat, the stone machines went on sorting potters and landowners into the same row.

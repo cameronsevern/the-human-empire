@@ -90,7 +90,7 @@ About 2,500 years ago, farmers with iron tools were clearing that plain of its f
 ![A map of India with coloured states along the river Ganges](images/mahajanapadas_map.png)
 *The states of northern India about 2,500 years ago. The Buddha's home state is marked Śākya, at the foot of the mountains. Map: Avantiputra7, CC BY-SA 3.0.*
 
-Religion on the plain was in the hands of the Brahmins, with their sacrifices and their four ranks fixed at birth. That picture did not suit the kings, who did not care to rank below their priests, or the merchants of the new cities, who had grown rich with no rank to speak of.
+Religion on the plain was in the hands of the Brahmins, with their sacrifices and their four ranks fixed at birth. That picture did not suit the kings, who did not care to rank below their priests, or the merchants of the new cities, whose wealth had bought them no higher place in it.
 
 The roads, meanwhile, held another kind of person. These were wanderers who had left their homes and property to search for the truth, and who lived on the food that people gave them. Most of them shared the new belief that a being is born again and again, and they were looking for a way off the wheel. They gathered students, and they argued with each other in public. One of them, Mahavira, who is revered by the Jains to this day, taught that no living thing should be harmed.
 
@@ -112,7 +112,7 @@ His community was built on that principle. Those who joined it shaved their head
 
 The Buddha walked the roads of the plain for forty-five years and died at eighty. Kings fed his followers, and a rich merchant bought them a park to shelter in during the rains.
 
-Nothing of this was written down at the time. Instead, as their tradition records, his followers met after his death and recited together what they had heard him say. Monks then handed the teaching on by chanting it in groups, and some four centuries passed before the whole of it was put into writing. The Brahmins had kept their hymns in the same manner for a thousand years. In India, a trained memory did the work that bamboo did in China.
+Nothing of this was written down at the time. Instead, as their tradition records, his followers met after his death and recited together what they had heard him say. Monks then handed the teaching on by chanting it in groups, and some four centuries passed before it was put into writing. The Brahmins had kept their hymns in the same manner for a thousand years. In India, a trained memory did the work that bamboo did in China.
 
 ![Six ragged strips of brown bark covered in lines of small handwriting](images/gandhara_scroll.jpg)
 *Pieces of a scroll of birch bark about 1,900 years old, from the north-west of the Indian subcontinent. It is among the oldest Buddhist writings that survive. Photo: British Library, CC0.*
@@ -165,7 +165,7 @@ Second, there were many rulers, and so there was more than one place to go. Conf
 
 Third, there were cities, and cities contain people who do not farm. Thales lived in a port made rich by trade, and the Buddha's community ate because townspeople filled its bowls. A thinker is a person whom somebody else is willing to feed.
 
-Finally, there was a way of keeping words. The Chinese had bamboo and the brush, the Greeks had an alphabet that a child could learn, and the Buddha's followers had a community that was organised to remember. The bronze palaces had also had rival kings and busy cities, but their writing had belonged to the palace clerks. Now words could be kept by people whom no palace paid. Without that, a teacher's ideas would have lasted as long as his students did. With it, a man who persuaded nobody in his own lifetime could persuade people who were born five hundred years after it.
+Finally, there was a way of keeping words. The Chinese had bamboo and the brush, the Greeks had an alphabet that a child could learn, and the Buddha's followers had a community that was organised to remember. The bronze palaces had also had rival kings and busy cities, but most of their writing had belonged to the palace and its clerks. Now words could be kept by people whom no palace paid. Without that, a teacher's ideas would have lasted as long as his students did. With it, a man who persuaded nobody in his own lifetime could persuade people who were born five hundred years after it.
 
 In 1949, a German philosopher gave these centuries a name. He added the prophets of Judah, whose people were in the same centuries working out their belief in one God, and he called the whole stretch from 2,800 to 2,200 years ago the Axial Age: the axis on which history turned, when people in several lands at once began to question what they had been told.
 

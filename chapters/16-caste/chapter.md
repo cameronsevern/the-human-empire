@@ -2,7 +2,7 @@
 
 *Northern India, from about 3,500 years ago to about 2,500 years ago*
 
-It came in two steps. About three thousand years ago, priests in northern India composed a hymn that divided society into four ranked orders. The custom that made rank so hard to escape, marrying only inside one's own small birth group, spread slowly after that, and it was not general across India until about 1,900 years ago.
+It came in two steps. About three thousand years ago, priests in northern India composed a hymn that divided society into four ranked orders. The custom that made rank so hard to escape, marrying only inside one's own small birth group, spread slowly after that, and in many communities the door did not close until about 1,900 years ago.
 
 In a library in the Indian city of Pune there is a set of thirty old manuscripts. Some are written on paper and some on the bark of birch trees. They hold the Rigveda, a collection of just over a thousand hymns to the gods, and it is the oldest book of India. The oldest of the thirty that carries a date was copied about 560 years ago.
 
@@ -23,7 +23,7 @@ They did not enter an empty country. A thousand years earlier, the Indus valley 
 ![Low ruined walls of pale baked brick around a sunken rectangular pool, with a round brick mound on a rise behind](images/mohenjo_daro.jpg)
 *The ruins of Mohenjo-daro, one of the Indus cities, in what is now Pakistan. The brick-lined pool in the foreground is about 4,500 years old. Photo: Saqib Qayyum, CC BY-SA 3.0.*
 
-By the time the herders arrived, however, the great cities had shrunk or emptied. The rains had weakened and the rivers had shifted, and most of the city people had scattered into villages. The newcomers settled among their descendants and, over time, had children with them. Almost every community in India today descends from both.
+By the time the herders arrived, however, the great cities had shrunk or emptied. The rains had weakened and the rivers had shifted, and most of the city people had scattered into villages. The newcomers settled among their descendants and, over time, had children with them. Almost every community in India today carries some ancestry from both.
 
 The hymns ask the gods for what herders want everywhere: rain, sons, long life, victory, and more cows. Nearly a quarter of the hymns are addressed to Indra, a warrior god who drives a chariot, throws a thunderbolt and drinks heroically. The next largest share goes to Agni, who is fire itself.
 
@@ -75,7 +75,7 @@ None of this was done for nothing. The man who paid for a sacrifice owed the pri
 
 The same manuals drew a bold conclusion about the priests themselves. If the gods depend on the sacrifice, and the sacrifice depends on the men who know the words, then those men stand very high. There are two kinds of gods, one of them explains: the gods in heaven, and the learned priests, who are "the human gods".
 
-Those priests were called Brahmins. They owned no army and collected no taxes. What they owned was the hymns. A boy could receive the hymns only from his father or from a teacher who chose to take him, and the teachers chose the sons of Brahmins. The priesthood therefore passed down by birth.
+Those priests were called Brahmins. They owned no army and collected no taxes. What they owned was the hymns. A boy could receive the hymns only from his father or from a teacher who chose to take him, and the full training of a priest went to the sons of Brahmins. The priesthood therefore passed down by birth.
 
 ## Mouth, arms, thighs, feet
 
@@ -161,7 +161,7 @@ The strongest evidence comes from the people themselves. In 2013, a team of gene
 
 Between about 4,200 and 1,900 years ago, people of very different ancestry were having children together all over India, in communities that later ranked high and in those that later ranked low. Then, in one community after another, the mixing stopped, and since that time most communities have married strictly among themselves. In some the change came early: one trading community of the south has taken in almost nobody from outside for about three thousand years. In others, above all in the north, the mixing went on until about 1,900 years ago.
 
-So the hymn of the first man was a thousand years old before its ranks had hardened into walls across the country. Nobody knows exactly what changed. The end of the mixing falls close to the time when the most famous of the law books, with its long lists of rules about marriage, was being composed.
+So the hymn of the first man was a thousand years old before its ranks had hardened into walls across most of the country. Nobody knows exactly what changed. The end of the mixing falls close to the time when the most famous of the law books, with its long lists of rules about marriage, was being composed.
 
 Once the walls were up, they proved astonishingly strong. Kings upheld them, but no one king had built them, and they did not fall when a kingdom fell. There was no chief priest, no council and no single temple that could give an order to all Brahmins. The system was kept up in a million households, each time parents arranged a marriage or decided who might eat at their table. Empires rose and broke up across India for two thousand years, and it outlasted every one of them.
 

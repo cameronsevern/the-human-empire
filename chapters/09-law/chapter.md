@@ -71,7 +71,7 @@ Then, in about five years, he took the lot. Elam, a great kingdom in the hills t
 
 By the end, Hammurabi held the whole plain, from the Gulf to the edge of Syria. No one had done that for a long time. He had been king for more than thirty years by then, and he had fewer than ten left.
 
-A conqueror in that position has a problem that is easy to state. He has made himself king over cities that had their own kings a few years earlier, each with its own customs and its own way of settling a dispute. He needs their people to believe that being ruled from Babylon is better than what they had before. It was in those last years that he had the black stones carved, and set them up in temples.
+A conqueror in that position has a problem. He has made himself king over cities that had their own kings a few years earlier, each with its own customs and its own way of settling a dispute. He needs their people to believe that being ruled from Babylon is better than what they had before. It was in those last years that he had the black stones carved, and set them up in temples.
 
 ## If a man
 
@@ -88,7 +88,7 @@ Then there are the rules for which the stone is famous. If a man puts out the ey
 
 This is the principle of an eye for an eye, and it was new. Under the older laws of Ur, an eye or a tooth had a price in silver. Hammurabi's stone demands the same injury in return.
 
-To a modern reader that looks like a step backwards, from fines to mutilation. It can also be read the other way. A fine is a light matter to a rich man. He can afford to knock out the tooth of a poorer neighbour of his own rank, or a dozen of them. If the price of a tooth is his own tooth, his silver cannot help him.
+To a modern reader that looks like a step backwards, from fines to mutilation. It can also be read the other way. A fine is a light matter to a rich man. He can knock out a poorer neighbour's tooth, pay the fine, and do the same again next month. If the price of a tooth is his own tooth, his silver cannot help him.
 
 That protection, however, reached only so far, and the next lines of the stone show exactly how far. People in Hammurabi's kingdom came in three kinds. At the top were free men of full standing. Below them was a class of free people of lower rank, the commoners. At the bottom were slaves.
 
@@ -121,7 +121,7 @@ So what was the stone for?
 
 Its form is one clue. A list of cases, each starting with "if", was how the scholars of the plain wrote down much of what they knew. Their medical texts have the same shape: if a man's skin is yellow and his eyes are yellow, he has such an illness. So do their handbooks of omens. The stone is a work of the same kind. It is a collection of sound judgements, some of them perhaps from real cases that the king had decided, set out to show how a wise ruler thinks. A judge might learn from it. He was not bound by it.
 
-The rest of the answer is on the stone itself. The rules take up the middle. Before them and after them, Hammurabi speaks in his own voice, and he says plainly what he is doing.
+The other clue is carved on the stone itself. The rules take up the middle. Before them and after them, Hammurabi speaks in his own voice, and he says plainly what he is doing.
 
 The gods, he says, called him by name to make justice appear in the land, to destroy the wicked, and to see that the strong did not oppress the weak. He lists the cities he has taken, one by one, and for each he names the good he has done its temple. Then, at the end, he speaks to his subjects. Let any man who has been wronged come and stand before this stone, and have it read out to him. Let him hear what it says, and let it make his case clear to him, and let him be calm.
 
@@ -142,7 +142,7 @@ First, a written rule is the same tomorrow as it is today. A judge who is asked 
 
 Second, a written rule can be known before anybody breaks it. The builder knows what happens if his wall falls. The lender knows what he may not take from a debtor after a flood. People can plan around a rule they can see.
 
-Third, a rule that is written down in the king's name can be held up against the king's own men. If the stone says that an officer who seizes a soldier's goods shall be put to death, and an officer seizes them all the same, the soldier has something to point to. It is a small step from there to holding the rule up against the king himself. Hammurabi's subjects had no court in which they could do that, and it was a very long time before any people did. Nevertheless, the stone had put the rule outside the ruler, where it could be seen by other people, and that is where the idea starts.
+Third, a rule that is written down in the king's name can be held up against the king's own men. If the stone says that an officer who seizes a soldier's goods shall be put to death, and an officer seizes them all the same, the soldier has something to point to. From there it is a long road to holding the rule up against the king himself. Hammurabi's subjects had no court in which they could do that, and it was a very long time before any people did. Nevertheless, the stone had put the rule outside the ruler, where it could be seen by other people, and that is where the idea starts.
 
 Finally, the stone shows how completely the king had taken over the old business of the families. Almost every wrong it lists had once been a private matter between two groups of kin. Now each one had a fixed answer that came from the palace. The families still did much of the work, since there were no police, and a man who had been robbed still had to find the thief himself and bring him in. The last word on what happened next, however, now lay with the king's judges.
 

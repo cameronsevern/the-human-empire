@@ -2,7 +2,7 @@
 
 *The northern frontier of China, from about 2,200 to about 2,000 years ago*
 
-Less to keep raiders out than to hold pasture that had been taken from them, and to decide who crossed the frontier and where trade took place.
+The first long walls were built less to keep raiders out than to hold pasture that had been taken from them, and to decide who crossed the frontier and where trade took place.
 
 In the spring of 1907, a British archaeologist named Aurel Stein was crossing the gravel desert west of Dunhuang, an oasis town in the far north-west of China. Out on the bare plain he came upon a low, straight ridge that ran on towards the horizon. When he looked at it closely, he saw that somebody had built it. It was made of bundles of reeds and brushwood laid flat, with a layer of gravel and clay on top of them, then more reeds, then more gravel, like a cake of many layers. In places it still stood higher than a man.
 
@@ -76,13 +76,13 @@ The Chinese called this arrangement "peace through kinship". In plain terms the 
 
 ## Cocoons
 
-Modu had trapped the emperor of China and then let him go home in exchange for cloth and wine. He did so because cloth and wine were what the grassland lacked.
+Modu had trapped the emperor of China, let him go home, and then settled for cloth and wine. He did so because cloth and wine were what the grassland lacked.
 
 A herd provides meat, milk, wool, felt and leather. It does not provide grain, woven cloth, lacquered cups or bronze mirrors. The Xiongnu grew a little millet and forged some iron of their own, but never enough. They did not want to rule the farmland, which cannot be done from a saddle. They wanted its products, and they could trade for them, be given them or take them. The Xiongnu did all three.
 
 For the ruler there was a further reason. An empire of herders is held together by generosity. Every chief under him had his own herds and his own riders, and could simply ride away. A ruler who handed out silk and wine at the great gatherings gave those chiefs a reason to stay.
 
-Silk deserved the trouble. It is light, strong and brilliant when dyed, and for a very long time nobody outside China knew how to make it.
+Silk deserved the trouble. It is light, strong and brilliant when dyed, and for a very long time nobody outside China could make cloth like it.
 
 It starts with a moth. The silk moth lays several hundred eggs, each the size of a pinhead. The caterpillars that hatch from them are fed on the leaves of the mulberry tree, and they eat day and night. In Chinese farmhouses they were kept indoors on trays, and the women of the house brought them fresh leaves many times a day. In about a month a caterpillar grows to ten thousand times the weight it had when it hatched.
 
@@ -117,7 +117,7 @@ Sixty years without a great war changed that. By the time a young emperor known 
 Year after year, Han armies of cavalry rode into the steppe. They took back the loop of the Yellow River. They took a corridor of oases, a thousand kilometres long, that runs north-west from the Yellow River to Dunhuang, with the mountains of Tibet on one side and the Gobi desert on the other. In the largest campaign, two Han armies crossed the Gobi and broke the Xiongnu on their own ground. The Xiongnu ruler moved his camp far to the north.
 
 ![A map of East Asia with the Han empire in purple, a narrow blue strip running north-west from it to Dunhuang, a pink region beyond labelled Western Protectorate, and Xiongnu written across Mongolia](images/map_han_hexi.png)
-*The Han empire about 2,080 years ago. The blue strip is the corridor of oases, ending at Dunhuang. The pink area beyond it holds the oasis kingdoms. Map: Qiushufang, CC BY-SA 4.0.*
+*The Han empire about 2,080 years ago, a generation after the conquest of the corridor. The blue strip is the corridor of oases, ending at Dunhuang. The pink area beyond it holds the oasis kingdoms. Map: Qiushufang, CC BY-SA 4.0.*
 
 These were real victories, and they came close to ruining the victor. On that one campaign across the Gobi, the Han took a hundred and forty thousand horses into the desert, and fewer than thirty thousand came back. Farmland is poor country for breeding horses, and for years afterwards the Han could not mount another such expedition. Later, one general was surrounded with his men deep in the steppe and surrendered. Sima Qian spoke up for him at court, and the emperor had the historian castrated for it. Sima Qian finished his book all the same. Our best source for the war with the Xiongnu is a man whom it maimed.
 

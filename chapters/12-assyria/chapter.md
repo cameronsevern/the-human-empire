@@ -32,7 +32,7 @@ The smiths who solved this found a way to make iron without melting it.
 Picture a chimney of clay about as tall as a child, with walls as thick as a hand is wide. Near the bottom, a clay pipe passes through the wall, and to the pipe is fitted a pair of bellows made of animal skin. The smith lights a fire in the bottom and fills the chimney with charcoal, which is wood that has been baked black in a covered heap, so that it burns much hotter than wood does. When the whole stack is glowing, he begins to drop in ore from the top, broken into pieces the size of nuts. A layer of ore is followed by a layer of charcoal, and then by another of ore, hour after hour, while helpers work the bellows without stopping.
 
 ![A clay shaft cut open from top to bottom, filled with dark charcoal that glows orange near the base, with curved lines and numbers drawn across it](images/bloomery_model.jpg)
-*A full-size museum model of an ancient iron furnace, cut open. The lines mark the heat inside, in degrees Celsius, and the hottest place is beside the air pipes near the bottom. Photo: Giorgiomonteforti, public domain.*
+*A full-size museum model of an iron furnace of the old kind, as it was still built a thousand years later, cut open. The lines mark the heat inside, in degrees Celsius, and the hottest place is beside the air pipes near the bottom. Photo: Giorgiomonteforti, public domain.*
 
 Inside, two things happen. First, the charcoal burns in a space with too little air, and so it gives off a gas that is hungry for oxygen. As that gas rises through the stack, it pulls the oxygen out of the hot ore. What is left behind is iron, in grains no bigger than sand, still solid.
 
@@ -61,9 +61,11 @@ Assyria was badly placed for a quiet life. It was a strip of good farmland with 
 
 As a result, from about 2,900 years ago, the Assyrian army went out almost every year, and it went to collect. A ruler who came out to meet the army with gifts, and promised to send the same every year, was left on his throne. A ruler who refused was attacked.
 
-What the army collected, above all, was the means to make itself larger: horses, men and metal. One king recorded the tribute that he took from the city of Damascus alone. Along with the silver and gold, it included five thousand talents of iron, which is about a hundred and fifty tonnes. The ship that sank off the Turkish coast in the age of bronze had carried one tonne of tin.
+What the army collected, above all, was the means to make itself larger: horses, men and metal. One king recorded the tribute that he took from the city of Damascus alone. Along with the silver and gold, it included five thousand talents of iron, which is about a hundred and fifty tonnes. The ship that sank off the Turkish coast in the age of bronze had carried eleven tonnes of copper and tin together.
 
-The numbers of soldiers rose to match. About 2,850 years ago, an Assyrian king wrote that he had crossed the river Euphrates with a hundred and twenty thousand. A century later, another king built up a core of full-time soldiers, many of them recruited from conquered peoples, with its own engineers and its own cavalry. Assyrian soldiers had been fighting from the backs of their horses for a century by then. A rider needs no vehicle and no wheelwright, and so the chariot, which had cost the bronze kings so dearly, began its long retirement into parades and royal hunts. He also began to abolish the more troublesome of the tribute-paying kingdoms altogether, and to turn them into provinces under Assyrian governors, which was the answer that Sargon of Akkad had found to the same problem sixteen centuries earlier. From then on the empire had two kinds of subject: provinces ruled directly, and kings who kept their thrones for as long as they paid.
+The numbers of soldiers rose to match. About 2,850 years ago, an Assyrian king wrote that he had crossed the river Euphrates with a hundred and twenty thousand. A century later, another king built up a core of full-time soldiers, many of them recruited from conquered peoples, with its own engineers and its own cavalry. Assyrian soldiers had been fighting from the backs of their horses for a century by then. A rider needs no vehicle and no wheelwright, and so the chariot, which had cost the bronze kings so dearly, began its slow retreat from the battlefield towards parades and royal hunts.
+
+The same king also began to abolish the more troublesome of the tribute-paying kingdoms altogether, and to turn them into provinces under Assyrian governors. It was the answer that Sargon of Akkad had found to the same problem sixteen centuries earlier. From then on the empire had two kinds of subject: provinces ruled directly, and kings who kept their thrones for as long as they paid.
 
 By the time Sennacherib came to the throne, Assyria ruled from the Persian Gulf to the Mediterranean and from the mountains of Turkey to the border of Egypt. It was the largest state that had yet existed. His own father, who was not the expected heir, had taken as his throne name that of the same founder of the first empire. He ruled as Sargon.
 
@@ -93,7 +95,7 @@ Inside the wall, directly opposite, the archaeologists found something that the 
 
 The Assyrians won the race. The whole city was burned, and its houses lie under a thick layer of ash and fallen brick, with the storage jars smashed on the floors.
 
-In other words, wherever the ground can be checked against the carving in the palace, the two agree. There was a ramp, there was a storm of arrows, and the city burned. The king wanted the scene believed, and the surest way to be believed was to show what had happened.
+In other words, where the ground at Lachish can be checked against the carving in the palace, the two agree. There was a ramp, there was a storm of arrows, and the city burned. The king wanted the scene believed, and the surest way to be believed was to show what had happened.
 
 Sennacherib's written account of the campaign has also survived, on prisms of baked clay. He says that he took forty-six of Hezekiah's walled towns and counted more than two hundred thousand people as plunder, a figure that is far too large for so small a country. As for Hezekiah himself, "like a bird in a cage" the king shut him up in Jerusalem.
 

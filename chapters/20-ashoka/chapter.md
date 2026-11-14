@@ -24,7 +24,7 @@ He turned at once to the pillar in Delhi. Its text begins with the words "Thus s
 
 No list of Indian kings contained a Piyadasi. The answer came within months from Sri Lanka, where a British official had been reading the island's old Buddhist chronicles. There, Piyadasi was another name for Ashoka, an emperor whom Buddhists remembered as the great patron of their faith. In India he had survived as little more than a name in a list.
 
-Prinsep died three years later, at the age of forty. By then the rocks and pillars were being read one after another. They turned out to be the oldest writings from India that can be read today, and all of them were the voice of one man. On one of the rocks he said something that no earlier king is known to have said.
+Prinsep died three years later, at the age of forty. By then the rocks and pillars were being read one after another. They turned out to be the oldest writings from India that can be read today, and all of them were the voice of one man. On one of the rocks, a conqueror said that he was sorry.
 
 ## Five hundred elephants
 
@@ -167,7 +167,7 @@ He is specific about the trouble. People are being thrown into prison and treate
 
 Those orders are what the family in Kalinga got. A good deal was missing from them.
 
-They did not get their country back. Kalinga stayed in the empire, governed by imperial officers. The edicts do not say that the deported came home. The army that had done the killing was not disbanded. The death penalty stayed too. The most that Ashoka offers a condemned prisoner is a delay of three days, so that his relatives can appeal for his life and he can prepare for the next world.
+They did not get their country back. Kalinga stayed in the empire, governed by imperial officers. The edicts do not say that the deported came home. The army that had done the killing was not disbanded. The death penalty stayed too. What Ashoka offers a condemned prisoner is a delay of three days, so that his relatives can appeal for his life and he can prepare for the next world.
 
 Nor did the king pretend that he had laid down his power. In the very edict that mourns the war, he sends a message to the peoples of the forest, who lived inside his borders and outside his control. They are told that "despite his remorse Beloved-of-the-Gods has the power to punish them if necessary".
 

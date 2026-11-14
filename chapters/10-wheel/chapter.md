@@ -2,7 +2,7 @@
 
 *Europe, the Middle East and the grasslands of Asia, from about 5,500 years ago to about 3,600 years ago*
 
-Because a wheel is no use on its own. It needs an axle that fits it exactly, carpentry fine enough to make that fit, and a strong animal to pull the load.
+Because a wheel is no use on its own. It needs an axle that fits it exactly, carpentry fine enough to make that fit, and, for any load worth moving, a strong animal to pull it.
 
 In 2002, archaeologists working in a marsh south of Ljubljana, in Slovenia, lifted a wooden wheel out of the wet ground. It is about 5,150 years old, which makes it the oldest wooden wheel that survives anywhere in the world.
 
@@ -48,7 +48,7 @@ In northern Germany, archaeologists took apart an ancient burial mound and found
 
 On the plain of Iraq, meanwhile, the clerks of Uruk were pressing their first signs into clay. One of those signs is a drawing of a sledge, the vehicle on runners that people there used for hauling. Another shows the same sledge with two small circles under it.
 
-Nobody can say for certain which of these places had the wheel first. The dates are too close together to separate. What they show clearly is something else. The wheel does not turn up here and there over thousands of years, as it would if many peoples had each thought of it for themselves. Most likely it was invented once, or very nearly, and then it spread from farm to farm with remarkable speed. Within three or four centuries it was in use from the North Sea to the Persian Gulf.
+Nobody can say for certain which of these places had the wheel first. The dates are too close together to separate. What they show clearly is something else. The wheel does not turn up here and there over thousands of years, as it would if many peoples had each thought of it for themselves. It looks like one invention, or very nearly one, which then spread from farm to farm with remarkable speed. Within three or four centuries it was in use from the North Sea to the Persian Gulf.
 
 That speed is the best evidence of how badly it was wanted. Consider a farming family before the cart. Almost everything that a household moved around its own land went on somebody's back or on a sledge: the harvest from the field, firewood from the forest, dung from the cattle pen out to the land. Carrying set a limit on how far a field could lie from the house, and so on how much land one family could work. With a cart and a pair of oxen, one person could move in a morning what had taken a household several days. A family could farm land further off, and could live on its own, away from the village, and still manage.
 
@@ -76,7 +76,7 @@ Even where there were oxen, the idea did not go everywhere at once. The wheelbar
 
 ## The sea of grass
 
-The wheel made a large difference to farmers. On the grasslands it did far more, because it made them a place where people could live.
+The wheel made a large difference to farmers. On the grasslands it did far more, because it let people live out on them, far from the rivers.
 
 Across the middle of Europe and Asia runs a belt of open grassland called the steppe. It begins on the plains of Hungary and goes on eastward, past the Black Sea and the Caspian, across Kazakhstan and Mongolia, to the north-east of China. From end to end it is about eight thousand kilometres long. It is flat or gently rolling, almost treeless, hot in summer and savagely cold in winter.
 
@@ -87,7 +87,7 @@ For farmers, the steppe was bad land. There is too little rain for wheat on most
 
 Yet the steppe is rich in one thing, which is grass. People cannot eat grass. Sheep, cattle and horses can, and people can live on their milk and meat. The difficulty lies in how fast a herd eats. A large flock strips the grazing around a camp within weeks and has to move on. To live on the open steppe, a family has to move with its animals, again and again, all year round. That means carrying a shelter, bedding, tools, food, and above all water, across country where there may be none for days.
 
-On foot, that cannot be done. With a wagon, it can.
+On foot, that can hardly be done. With a wagon, it can.
 
 About 5,300 years ago, the herders who lived along the rivers north of the Black Sea got hold of the wagon. They roofed it over with a hoop of bent poles covered in reed mats. In effect they had built a house on wheels, something like a caravan drawn by oxen. They loaded it with their belongings and their water, and they drove out into the grass behind their herds. They moved from one river, spring or well to the next, and the wagon carried enough water to get the people across the dry stretches between.
 
@@ -126,7 +126,7 @@ In the eighteenth century, scholars noticed that languages spoken very far apart
 
 The words themselves say when. Take the English word wheel. In ancient Greek the word was *kyklos*, which gives English "cycle". In Sanskrit it was *chakra*. These are the same word, worn into different shapes by thousands of years of use. The same holds for axle, for the yoke that joins two oxen, and for a verb meaning to carry in a vehicle, which survives in English as both "wagon" and "way".
 
-Words are handed down in this way only from a time when the thing itself was known. So the speakers of that parent language had wheels, axles and yokes, and they were still speaking one tongue after the wagon was invented. That puts them less than 5,500 years ago. Their shared words also speak of sheep, cattle, horses, wool and milk, and of very few crops.
+Words are handed down in this way only from a time when the thing itself was known. So the speakers of that parent language had wheels, axles and yokes, and they were still speaking one tongue, or dialects close enough to share new words, after the wagon was invented. That puts them less than 5,500 years ago. Their shared words also speak of sheep, cattle, horses, wool and milk, and of very few crops.
 
 For two centuries it was a puzzle with no proof. Then, beginning in 2015, geneticists read the DNA of the people in the steppe grave mounds, and of the people who lived in Europe before and after them. Europe by then had been farming country for thousands of years, peopled by the descendants of farmers from Turkey. About 4,800 years ago, its ancestry changed sharply for a second time. A new style of grave appears across Germany and its neighbours, and the people buried in those graves drew about three quarters of their ancestry from the steppe herders. In Britain, a few centuries later, newcomers who carried that ancestry replaced about nine tenths of the island's earlier population.
 

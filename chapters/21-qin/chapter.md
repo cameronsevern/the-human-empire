@@ -4,7 +4,7 @@
 
 By conquest, and by counting. One kingdom learned to measure, register and conscript everything that it had, used that knowledge to defeat its six rivals within ten years, and then forced its measures on all of them.
 
-In the Shanghai Museum there is a shallow bronze box about the size of a sardine tin, with a short handle at one end. It is open at the top, like a scoop. Filled level to the brim, it holds a fifth of a litre, which is a small teacup of grain.
+A shallow bronze box in the Shanghai Museum, about the size of a sardine tin, has a short handle at one end. It is open at the top, like a scoop. Filled level to the brim, it holds a fifth of a litre, which is a small teacup of grain.
 
 There is writing cut into one side. It says that the scoop was made in the eighteenth year of a duke of Qin, which was about 2,370 years ago, on the order of his chief minister. It then states its own size. Sixteen and one fifth cubic inches, it says, make one measure. The inch in question is the Qin inch, which is a little over two centimetres.
 
@@ -27,7 +27,7 @@ Its heart was the valley of the Yellow River, in the north. The river runs throu
 
 About 3,200 years ago, a line of kings called the Shang ruled part of the Yellow River plain. We know what worried them, because they asked their dead ancestors about it in writing. A hot point was pressed against the shoulder blade of an ox or the under-shell of a turtle until the bone cracked, and the cracks were read as the answer. The question was then cut into the bone beside them: whether the harvest would be good, whether the queen's child would be born safely, whether the king should go to war.
 
-The writing on them is the direct ancestor of the Chinese script of today. Each sign stands for a whole word, where a letter of an alphabet stands for a single sound, and a modern reader can still pick out the signs for sun, moon and rain.
+The writing on them is the direct ancestor of the Chinese script of today. Each sign stands for a whole word or a piece of one, sound and meaning together, where a letter of an alphabet stands for a single sound, and a modern reader can still pick out the signs for sun, moon and rain.
 
 A little over 3,000 years ago the Shang were overthrown by the Zhou, a people from the west. The Zhou kings explained their victory with an idea that the rulers of China went on using for three thousand years. Heaven, they said, gives the right to rule to a family that rules well, and takes it away from a family that rules badly.
 
@@ -98,7 +98,7 @@ Money was treated in the same way. The bronze knives and spades of the old kingd
 
 Writing came next. Over the centuries the scripts of the different kingdoms had drifted apart, so that the same word was drawn in different ways in different places. The emperor's ministers issued lists of approved signs in the Qin style, and his clerks were trained to use them. The other styles faded away over the following generations.
 
-This mattered more in China than it would have elsewhere. A Chinese sign stands for a word, and a clerk learned the sign whatever that word sounded like in his own mouth. Over the centuries that followed, the speech of the north and the speech of the south drifted as far apart as Portuguese and Romanian. Two officials who could not have followed each other's conversation could still read the same written order.
+This mattered more in China than it would have elsewhere. A Chinese sign carries a meaning as well as a sound, and a clerk learned the sign whatever the word sounded like in his own mouth. Over the centuries that followed, the speech of the north and the speech of the south drifted as far apart as Portuguese and Romanian. Two officials who could not have followed each other's conversation could still read the same written order.
 
 Even the carts were made alike. On roads of soft yellow earth, wheels cut deep ruts, and a cart runs along them much as a tram runs on rails. Each kingdom had built its carts to its own width, and a cart that crossed a border no longer fitted the ruts. The emperor decreed one width between the wheels. He then built highways outward from his capital, so that armies and messengers could reach every district. In the north, the old kingdoms had raised walls of pounded earth along their borders with the herders of the grasslands, and his general joined these into one line.
 
@@ -162,7 +162,7 @@ Sima Qian was a careful writer, and the finds have borne out a great deal of wha
 
 The two most famous are about books and scholars. In the first, eight years after the conquest, the chief minister complained that learned men were using the past to find fault with the present. On his advice, the emperor ordered the histories of the other kingdoms to be burned, along with all copies in private hands of the old poems, the old records and the works of the philosophers. Books on medicine, farming and fortune-telling were spared.
 
-That order was probably given much as described, and it is worth reading to the end. The scholars of the emperor's own court were allowed to keep their copies. The aim was to make the past a property of the state, as grain measures were. The greater loss came seven years later, when rebels set fire to the capital and the court's libraries burned with it.
+That order was probably given much as described, and its last clause matters most. The scholars of the emperor's own court were allowed to keep their copies. The aim was to make the past a property of the state, as grain measures were. The greater loss came seven years later, when rebels set fire to the capital and the court's libraries burned with it.
 
 In the second story, a year after the burning, the emperor had more than four hundred and sixty scholars buried alive. Sima Qian's own account is messier. It begins with men who had promised to find the emperor a drug that would stop him dying, had taken his money, and had then run away and mocked him. The emperor ordered an inquiry among the experts at his court, and more than four hundred and sixty of them were put to death. The word used for their deaths can mean that they were buried alive, and it can also mean that they were killed and thrown into a pit. Later writers under the Han turned the victims into a company of blameless students of the old books.
 
@@ -176,7 +176,7 @@ The next summer, nine hundred conscripts were marching north to serve on the fro
 
 Two of the conscripts, one of them a former hired farmhand named Chen Sheng, talked it over. If they marched on, they would die. If they ran away, they would be caught and die. If they rebelled, they would probably die too, but they might win a kingdom first. They killed their officers, cut poles for weapons, and called on the country to rise.
 
-Xi's bamboo strips give a different rule for lateness, with a reprimand, a fine, and no penalty at all when it rains. Those strips concern labour gangs, and soldiers bound for the frontier may have been under harsher orders. It is also possible that the Han sharpened this story as they sharpened others. Either way, the nine hundred believed it, and so did the country. Within weeks, people across the conquered kingdoms were killing their Qin officials and joining the revolt, which they would not have done had the laws felt light.
+Xi's bamboo strips give a different rule for lateness, with a reprimand, a fine, and no penalty at all when it rains. Those strips concern labour gangs, and soldiers bound for the frontier may have been under harsher orders. It is also possible that the Han sharpened this story as they sharpened others. Either way, the story was believed, because it sounded like Qin. Within weeks, people across the conquered kingdoms were killing their Qin officials and joining the revolt, which they would not have done had the laws felt light.
 
 Chen Sheng himself lasted six months before his own driver murdered him. The government grew so short of soldiers that it handed weapons to the convicts working on the emperor's tomb. A little over three years after the First Emperor's death, the last ruler of Qin surrendered. The dynasty that was to last ten thousand generations had lasted fifteen years.
 
@@ -188,7 +188,7 @@ When his army entered the Qin capital, his officers ran for the treasure houses.
 
 The Han kept most of it. They kept the counties and the appointed officials, the registers, the ranks, the labour service, the round coin, the script and the measures. A Han official was buried about thirty years after Xi with his own bamboo law books, and many of the rules in them are Qin rules. The one thing that the Han gave up, for a time, was the First Emperor's refusal to share. They handed the eastern half of the country to kings, and then spent several generations taking it back.
 
-What the Han changed for good was the weight of the system and the story that was told about it. First, they made it lighter, and cut the grain tax to a thirtieth of the crop. Second, and above all, they changed the reason given for obeying. The First Emperor's inscriptions praise his own achievement: he had ended the wars and put the world in order. The Han claimed something older. Heaven, they said, had taken its approval from the cruel house of Qin and given it to them, just as it had once passed from the Shang to the Zhou. In time they filled their offices with men schooled in the old books that Confucius had loved, which teach that a ruler owes his people kindness.
+What the Han changed was the weight of the system and the story that was told about it. First, they made it lighter, and cut the grain tax to a thirtieth of the crop. Second, and above all, they changed the reason given for obeying. The First Emperor's inscriptions praise his own achievement: he had ended the wars and put the world in order. The Han claimed something older. Heaven, they said, had taken its approval from the cruel house of Qin and given it to them, just as it had once passed from the Shang to the Zhou. In time they filled their offices with men schooled in the old books that Confucius had loved, which teach that a ruler owes his people kindness.
 
 The clerks under them went on registering households and measuring grain.
 

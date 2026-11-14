@@ -86,7 +86,7 @@ The word had a history. Long before Cyrus, somewhere in the east of the Iranian 
 
 Zoroaster taught that the world was made by one good creator, Ahuramazda, whose name means the Wise Lord. The Wise Lord stands for truth, which is also the right order of things. Against him stands a destructive spirit, and the principle that spirit works by is the Lie. The whole world is the field of a contest between the two. Every person has to choose a side, by what he thinks, what he says and what he does, and will be judged for the choice after death.
 
-The religion of the Persian kings grew from that teaching. Darius names Ahuramazda again and again on the cliff, and says that he is king by the Wise Lord's favour. He does not once mention Zoroaster, and historians argue over how closely the kings followed the prophet. They shared his god and his language of truth and the Lie, and they did not insist on the Wise Lord alone. The ration tablets from Persepolis show the royal storehouses handing out grain and wine for offerings to the old gods of the region too.
+The religion of the Persian kings stood close to that teaching. Darius names Ahuramazda again and again on the cliff, and says that he is king by the Wise Lord's favour. He does not once mention Zoroaster, and historians argue over how closely the kings followed the prophet. They shared his god and his language of truth and the Lie, and they did not insist on the Wise Lord alone. The ration tablets from Persepolis show the royal storehouses handing out grain and wine for offerings to the old gods of the region too.
 
 For a ruler, the pair of opposites was an idea of great convenience. A man who rebels against a king is usually thought of as an enemy. In Darius's telling he is something worse, which is a liar. The king who crushes him is not merely defending his throne. He is putting the truth back in its place.
 
@@ -98,7 +98,7 @@ The carving sits too high on the cliff for anyone on the road to read a word of 
 
 Having won the empire back, Darius set about making it harder to lose. The Persians had a saying about their first three kings, which the Greek historian Herodotus recorded: Cyrus was a father, Cambyses was a master, and Darius was a shopkeeper. It was not meant as a compliment, but it was exact.
 
-The empire was divided into about twenty provinces. Over each stood a governor called a satrap, a Persian word that means protector of the realm. Cyrus had appointed such governors before him. The satraps were Persian nobles, and often the king's relatives, as Artaphernes was at Sardis. A satrap kept order, judged disputes, called up troops when the king wanted them, and collected the tribute.
+The empire was divided into provinces, about twenty of them for the purpose of tribute. Over each stood a governor called a satrap, a Persian word that means protector of the realm. Cyrus had appointed such governors before him. The satraps were Persian nobles, and often the king's relatives, as Artaphernes was at Sardis. A satrap kept order, judged disputes, called up troops when the king wanted them, and collected the tribute.
 
 What Darius added was a bill. Under Cyrus and Cambyses, subject peoples had sent the king gifts, of a size that was never quite settled. Darius replaced the gifts with a fixed sum for each province, to be paid every year. Babylonia owed a thousand talents of silver, which is about thirty tonnes, and was more silver than any other province paid. The Persians themselves were excused it.
 
@@ -133,7 +133,7 @@ Persian itself was of little use for the purpose. A wedge-shaped script had been
 
 For business between the provinces, the Persians took over a language that was already to hand, which was Aramaic. The Assyrians, by stirring so many peoples together, had made this speech of Syria the everyday language of Iraq as well, so that it was by now understood across the middle of the empire.
 
-It had a second advantage, which lay in how it was written. A clerk did not need years of schooling in the hundreds of wedge-shaped signs. He needed the twenty-two letters that the Assyrian scribes with their scrolls and pens had already used, and he wrote them in ink, on leather or on papyrus, which was quick to do and light to carry.
+It had a second advantage, which lay in how it was written. A clerk needed only the twenty-two letters that the Assyrian scribes with their scrolls and pens had already used, and he wrote them in ink, on leather or on papyrus, which was quick to do and light to carry.
 
 A satrap dictated in Persian. His scribe wrote the message down in Aramaic. At the far end, another scribe read the Aramaic and spoke it aloud in Egyptian, or Greek, or whatever the man in front of him understood. A letter could therefore pass through three languages, of which just one was ever on the page.
 
@@ -180,6 +180,6 @@ A governor could turn into a small king within a year, and the king's seal could
 
 That did not always hold. Egypt, whose nobles and priests the Persians had so carefully kept in place, rebelled in the year that Darius died. It rebelled again a generation later. Finally, under a line of Egyptian princes from the marshes of the Nile's mouth, it broke away altogether, and stayed free for sixty years. On the Aegean coast, the Greek cities rose under the leadership of a man whom the Persians themselves had kept in power in the greatest of them.
 
-Even so, the arrangement lasted for more than two centuries. The Persians had found that it costs less to be obeyed than to be feared, and that most people will put up with a distant king if he leaves their gods and their landlords alone.
+Even so, the arrangement lasted for more than two centuries. The Persians had found that it costs less to rule through a people's own priests and nobles than against them, and that most people will put up with a distant king if he leaves their gods and their landlords alone.
 
 Their system outlived them. When a Macedonian king named Alexander finally defeated the last King of Kings, he did not have to invent a government. He put his own soldiers into the provinces, and he kept the satraps' offices, the tribute and the royal road.

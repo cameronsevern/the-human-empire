@@ -2,7 +2,7 @@
 
 *Judah and Babylon, from about 2,850 years ago to about 2,450 years ago*
 
-It came from a small kingdom in the hills that lost a war. Its exiles decided that their god had not been beaten, that he had sent the defeat himself, and that a god who could do that must be the god of the whole world.
+It came from a small kingdom in the hills that lost a war. Its exiles decided that their god had not been beaten, that he had sent the defeat himself, and, in the end, that he was the only god there was.
 
 About 2,610 years ago, in the heat of summer, a Babylonian army burned Jerusalem. It was a small city, the capital of a small kingdom called Judah, in the hills between Egypt and Syria. The soldiers burned the king's palace and pulled down the city wall. They also burned the temple, which was the house of the kingdom's god, and carried its bronze and gold away to Babylon. Then they marched thousands of its people, the officials, priests, scribes and craftsmen among them, east to the plain of Iraq.
 
@@ -68,7 +68,7 @@ The Book of Jeremiah tells of a king who tried to destroy one. Jeremiah was a pr
 
 ## We cannot see Azekah
 
-Jeremiah's warnings were about Babylon. About 2,635 years ago, Assyria collapsed, and Babylon took over most of its empire under a king named Nebuchadnezzar. Judah now lay on the road between Babylon and Egypt. Its kings twice bet on Egypt, and both times they lost.
+Jeremiah's warnings were about Babylon. About 2,635 years ago, Assyria collapsed, and Babylon took over most of its empire, soon under a king named Nebuchadnezzar. Judah now lay on the road between Babylon and Egypt. Its kings twice bet on Egypt, and both times they lost.
 
 The first time is recorded from both sides. A Babylonian clay tablet, now in the British Museum, sets down the chief events of Nebuchadnezzar's early years, one year at a time. In his seventh year, it says, the king marched west and camped against "the city of Judah". He took it on the second day of the month of Adar, captured its king, appointed a king of his own choosing, and carried a heavy tribute back to Babylon. The Book of Kings tells the same story from inside the walls. The king, Jehoiachin, was eighteen years old and had been on his throne for three months. He came out and surrendered. He was led away with his mother, his officials, his craftsmen and his smiths, and with the treasures of the temple.
 
@@ -96,7 +96,7 @@ The ground confirms it. On the ridge where the old city stood lies a thick layer
 
 More of the people were then marched off to Babylonia. The Book of Jeremiah counts 4,600 deportees in all, from the families that had run the kingdom.
 
-Judah had now lost its king, its land and its temple.
+Judah had now lost its king, its temple and the families that had run it.
 
 ## Whose god lost?
 
@@ -123,7 +123,7 @@ A prophet who lived among the exiles, some fifty years after the fall, took the 
 
 One God for all the world had been proposed once before. Some eight centuries earlier, a king of Egypt had ordered his country to worship the disc of the sun alone, and his successors had undone the order within a few years of his death. This time the idea came from the losers of a war, who had no king to enforce it, and it lasted.
 
-Scholars disagree about how quickly it took hold. Some think that a circle in Jerusalem already believed in one God before the city fell. The clearest statements, however, come from the exile, and it took several generations more to become the settled faith of the whole people.
+Scholars disagree about how quickly it took hold. Some think that a circle in Jerusalem already believed in one God before the city fell. The clearest statements, however, come from the exile, and it took several generations more to become the settled faith of most of the people.
 
 ## Judah-town
 
@@ -184,7 +184,7 @@ About 2,450 years ago, the Bible says, a priest named Ezra came to Jerusalem fro
 
 On the first day of the seventh month, the people gathered in the open square in front of the Water Gate. There were men and women, and everyone old enough to understand. A wooden platform had been built for the occasion. Ezra stood on it, opened the scroll, and read aloud from first light until noon. Helpers moved through the crowd and explained what was being read, so that everyone could follow. The people, it says, wept as they listened.
 
-Set beside the great temples of Babylon, it is a bare scene. No king is present, and nothing is sacrificed. The holiest thing in the square is a roll of skin with writing on it. Its words are read out to farmers and their wives, who are expected to understand them and to live by them. A religion of this kind does not need a particular hill. It can be practised wherever there is a copy and somebody who can read it aloud.
+Set beside the great temples of Babylon, it is a bare scene. No king is present, and nothing is sacrificed. The holiest thing in the square is a roll of skin with writing on it. Its words are read out to farmers and their wives, who are expected to understand them and to live by them. A religion of this kind can live without its hill if it has to. It can be practised wherever there is a copy and somebody who can read it aloud.
 
 Nebuchadnezzar's palace is now a field of broken brick, and it is a very long time since anyone brought an offering to Marduk. The storekeeper's tablet that counts out oil for the captive king of Judah lies in a museum in Berlin.
 

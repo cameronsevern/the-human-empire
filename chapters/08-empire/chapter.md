@@ -4,16 +4,16 @@
 
 It was a kingdom called Akkad, on the plain of Iraq, and it was built by a man who began as a servant.
 
-We do not know that man's real name. We know only the name that he took when he seized power, which was Sargon. In his own language it means "the king is the true one", or more simply, True King.
+We do not know that man's real name. We know only the name that he ruled under, which was Sargon. In his own language it means "the king is the true one", or more simply, True King.
 
 ![A life-sized bronze head of a bearded king with braided hair, one eye damaged](images/sargon-head-front.jpg)
-*A bronze head of a king of Akkad, found at Nineveh and now in the Iraq Museum. It shows either Sargon or his grandson. Photo: Hans Ollermann, CC BY-SA 2.0.*
+*A bronze head of a king of Akkad, found at Nineveh and now in the Iraq Museum. It is usually taken for Sargon or his grandson. Photo: Hans Ollermann, CC BY-SA 2.0.*
 
-That choice tells us a good deal about him. A man who is born the son of a king has no need to announce that he is the real thing. Everybody already knows it. The only person who needs to call himself True King is one who is not, and who knows that people are saying so.
+That choice tells us a good deal about him. A man who is born the son of a king has no need to announce that he is the real thing. Everybody already knows it. The man who most needs to call himself True King is one whose right to the throne is in doubt.
 
 He had every reason to be anxious about it. He was not the son of a king, or of anyone important. Yet by the time he died, he ruled more land and more people than any human being had ruled before, and he had done something that the kings of the plain had been failing to do for generations. He had beaten many cities and kept them.
 
-That is what makes Akkad the first empire, and the word has an exact meaning. A kingdom is one people under one king. Egypt was a kingdom, however large. An empire is something else. It is one ruler holding many peoples at once, each with its own city, its own gods and its own memories, and each of which would sooner be ruling itself.
+That is what makes Akkad the first empire, and the word has an exact meaning. Egypt, however large, was a king ruling his own people along his own river. An empire is something else. It is one ruler holding many peoples at once, each with its own city, its own gods and its own memories, and each of which would sooner be ruling itself.
 
 ## The cupbearer
 
@@ -47,7 +47,7 @@ The other cities fell after that, one campaign at a time. Sargon claimed to have
 
 Up to this point, Sargon had done nothing new. The king he defeated had beaten all the same cities a few years earlier. Kings before that one had won great victories too. Each time, the winnings had slipped away within a few years.
 
-The reason is simple, and it had defeated every king who tried. A beaten city does not stop being a city. Once the victor's army has marched home, it still has its walls, its god, its storehouse and its leading families. It also still has its own king, or soon finds a new one. The conqueror has won a battle and some loot. He has not gained a single thing that will make the city obey him next year.
+The trouble was an old one, and it had defeated every king who tried. A beaten city does not stop being a city. Once the victor's army has marched home, it still has its walls, its god, its storehouse and its leading families. It also still has its own king, or soon finds a new one. The conqueror has won a battle and some loot. He has not gained a single thing that will make the city obey him next year.
 
 Sargon's importance is that he worked out what to do about each of those things in turn. None of his answers is complicated. Together, they are a set of tools that nearly every later empire picked up and used.
 
@@ -55,9 +55,9 @@ The first problem was the city's own ruler. Sargon removed him. In place of the 
 
 The second problem was the walls. A city behind its walls can refuse to pay and wait for the king to go away. So Sargon pulled the walls down. A city without walls cannot shut its gates.
 
-The third problem was the army, and here Sargon made what may have been his most important change. Until then, an army was a body of farmers called up for a campaign. It existed for a few weeks between one season's field work and the next, and then it went home. That is good enough for winning a battle. It is useless for holding a conquest, because the rebellion comes as soon as the soldiers have left.
+The third problem was the army, and here Sargon made what may have been his most important change. Until then, an army was mostly a body of farmers called up for a campaign. It existed for a few weeks between one season's field work and the next, and then it went home. That is good enough for winning a battle. It is useless for holding a conquest, because the rebellion comes as soon as the soldiers have left.
 
-Sargon kept soldiers who did not go home. One of his inscriptions says, with evident pride, that five thousand four hundred men ate bread before him every day. These were men who did nothing but serve the king. They were fed from his stores all year round, and they could be sent anywhere at any season. It is the earliest standing army on record.
+Sargon kept soldiers who did not go home. One of his inscriptions says, with evident pride, that five thousand four hundred men ate bread before him every day. These were the king's own men. They were fed from his stores all year round, and the soldiers among them could be sent anywhere at any season. It is the earliest sign we have of a standing army.
 
 Think what that cost. Five thousand four hundred men who grow nothing must be fed by the farmers of the conquered cities. The army held the cities down, and the cities paid for the army. That circle is the engine of every empire. It works well for as long as there is enough coming in.
 
@@ -67,7 +67,7 @@ Finally, Sargon made sure that the wealth flowed to one place. He boasts that sh
 
 ## The priestess
 
-All of those tools are forms of force, or of bookkeeping. Sargon understood that they were not enough, and his answer to that was the cleverest thing he did.
+All of those tools are forms of force, or of bookkeeping. Sargon understood that they were not enough.
 
 The difficulty was one of belief. The cities of the south spoke a different language from Sargon's people and worshipped their gods under different names. Each city believed that it belonged to its own god, and that its ruler held power from that god. A northerner who had arrived with an army had no place in that scheme. He could be obeyed out of fear. He could not be thought to have any right.
 
@@ -80,13 +80,13 @@ Her name was Enheduanna, and she is one of the most remarkable people of the anc
 
 The hymns are addressed to the gods of the southern cities, and above all to the great goddess of love and war. Throughout them, Enheduanna treats that southern goddess and the chief goddess of her own northern people as one and the same. The effect is to say that the conquerors and the conquered had been worshipping the same powers all along. If that was so, then a king from the north who was favoured by his goddess was favoured by theirs.
 
-Her hymns were good enough to outlast the empire by many centuries. Clerks in the schools of the plain were still copying them out five hundred years later. They also carry something that no earlier piece of writing has. In them, the writer speaks in her own person and gives her name. Enheduanna is the first author in the history of the world whom we can name.
+Her hymns were good enough to outlast the empire by many centuries. Clerks in the schools of the plain were still copying them out five hundred years later, and the copies we have are theirs. They also carry something that no earlier piece of writing has. In them, the writer speaks in her own person and gives her name. Enheduanna is the earliest author in the world whose name has come down to us.
 
-She tells us, too, how fragile her position was. In one hymn she describes a rebellion at Ur. The rebel leader, she says, drove her out of her temple and stripped her of her office, and she was left to wander in the wilderness. She prays to the goddess to take her side. The rebellion was put down, and she was restored. Even so, her account shows that what the family had built at Ur could be swept away in a season.
+The hymns tell, too, how fragile her position was. One of them describes a rebellion at Ur. The rebel leader, she says, drove her out of her temple and stripped her of her office, and she was left to wander in the wilderness. She prays to the goddess to take her side. The rebellion was put down, and she was restored. Even so, the poem shows that what the family had built at Ur could be swept away in a season.
 
 ## Everyone rebels
 
-That brings us to the great weakness of what Sargon had made, and it showed itself the moment he died.
+The great weakness of what Sargon had made showed itself when he died.
 
 He ruled for about fifty-five years. There were risings even in his old age, and when he died at last, the cities of the south rose in revolt, nearly all of them together. They had not come to love Akkad. They had been waiting.
 
@@ -115,7 +115,7 @@ By then the empire reached from the Gulf to the mountains of Turkey and the edge
 
 The empire did not outlast his son.
 
-The clearest witness to its end is a list of kings that the clerks of the plain compiled in later years. It records each king of Akkad and the length of his reign in an orderly fashion. Then, after Naram-Sin's son, the orderly list breaks off, and in its place the clerk has written a question. "Who was king? Who was not king?" Four men, he explains, claimed the throne within three years.
+The clearest witness to its end is a list of kings that the clerks of the plain compiled in later years. It records each king of Akkad and the length of his reign in an orderly fashion. Then, after Naram-Sin's son, the orderly list stumbles, and the clerk has written a question. "Who was king? Who was not king?" Four men, he explains, claimed the throne within three years.
 
 ![A four-sided block of baked clay covered in columns of small writing](images/sumerian-king-list-prism.jpg)
 *A copy of the list of kings, written on a clay block about four hundred years after the fall of Akkad. It is in the Ashmolean Museum. Photo: M.atkinsonross, CC BY-SA 4.0.*
@@ -137,7 +137,7 @@ The people of the plain had their own explanation, and it is recorded in a poem 
 
 The poem's account of Naram-Sin is almost certainly unfair to him. Yet it is interesting to set its explanation beside the modern one. The ancient writer looked at the fall of an empire and saw an idea at the bottom of it: a king had offended a god. The modern scientist looks at the same fall and sees the rain. Both of them are describing the same empty fields.
 
-Underneath all three causes lay a weakness in the thing itself, and it is easy to state. An empire of that kind costs a great deal to hold. The governors, the garrisons and the men who ate before the king each day all had to be paid for by the conquered. While the empire was growing, new conquests brought in new loot to pay them. Once it stopped growing, the cost remained and the loot did not. Then any shock at all, whether a weak king or a dry decade, left the centre unable to pay the men who held it together.
+Underneath all three causes lay a weakness in the thing itself. An empire of that kind costs a great deal to hold. The governors, the garrisons and the men who ate before the king each day all had to be paid for by the conquered. While the empire was growing, new conquests brought in new loot to help pay them. Once it stopped growing, the cost remained and the loot did not. Then a shock such as a weak king or a dry decade could leave the centre unable to pay the men who held it together.
 
 So Akkad lasted a little under two centuries from Sargon's rise, and for much of that time it was fighting its own subjects.
 
@@ -152,5 +152,3 @@ The tools stayed in use as well. Governors sent out from the centre, soldiers wh
 The stories about Sargon, meanwhile, went on being copied. More than fifteen hundred years after his death, a man who was not next in line took the throne of a later and far larger empire on the same river. When he had to choose a name to rule under, he called himself Sargon.
 
 Even the carved stone of Naram-Sin on his mountain had a second life. A thousand years after it was made, a king from the east raided the plain, took the stone, and carried it home across the mountains as a trophy. He had his own name carved on it beside the god-king's. He did not smash it. He wanted to own it.
-
-That is what the first empire left behind. The kingdom itself was gone in a few generations. The wish to rule the four quarters of the world was not, and it has not gone away since.
