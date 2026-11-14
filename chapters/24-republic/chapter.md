@@ -8,7 +8,7 @@ About 2,160 years ago, a young Roman noble named Tiberius Gracchus stood up in f
 
 He was speaking a dozen years after the burning of Carthage, at a time when Rome had no rival left. The treasury was full, and the great families were richer than any Romans had ever been. It ought to have been the Republic's best hour, and a member of one of those families was telling the citizens that they had been robbed.
 
-To see what he meant, follow one of the farmers who filled the legions. In the old days of wars inside Italy, such a man was called up in spring, fought through the summer, and was home in time to plough. A few hectares, worked by his family, fed them all. Now the wars were in Spain, Greece and Africa, and a soldier sent overseas could be kept there for six years at a stretch. Meanwhile nobody ploughed. His wife and children ran up debts, and when the debts could not be paid, the farm was sold.
+To see what he meant, follow one of the farmers who filled the legions. In the old days of wars inside Italy, such a man was called up in spring, fought through the summer, and was home in time to plough. A few hectares, worked by his family, fed them all. Now the wars were in Spain, Greece and Africa, and a soldier sent overseas could be kept there for years at a stretch. Meanwhile nobody ploughed. His wife and children ran up debts, and when the debts could not be paid, the farm was sold.
 
 There was always a buyer, because the same wars had made the buyers rich. Senators and army contractors came home with fortunes and put them into land. They also took over huge stretches of what the Romans called public land. This was ground that Rome had confiscated from defeated Italian towns over the centuries, and it belonged to the state. In law, no citizen was allowed to hold more than about a hundred and twenty-five hectares of it. In practice the rich had been fencing it in for generations, and nobody had stopped them.
 
@@ -22,11 +22,11 @@ Tiberius Gracchus had a remedy, and he had an office from which to apply it. He 
 
 His law said that the old limit on public land would now be enforced. Whatever a man held above it would be taken back by the state and handed out to landless citizens in small farms, which they would not be allowed to sell. The landless would become farmers again, and the farmers would become soldiers.
 
-Most of the Senate hated it. The senators were the people holding the land, and many of them had held it so long that they had built their family tombs on it. They persuaded another tribune to forbid the vote. Gracchus then did something without precedent, and had the people vote his fellow tribune out of office. The law passed. A commission of three men began surveying the land, and a few of the boundary stones it set up, carved with the commissioners' names, still stand in the Italian countryside.
+Most of the Senate hated it. The senators were the people holding the land, and many of them had held it so long that they had built their family tombs on it. They persuaded another tribune to forbid the vote. Gracchus then did something without precedent, and had the people vote his fellow tribune out of office. The law passed. A commission of three men began surveying the land, and a few of the boundary stones it set up, carved with the commissioners' names, survive.
 
 Then Gracchus announced that he would stand for a second year as tribune, which nobody had done in living memory. To his enemies it looked like the first step towards making himself king. On the day of the vote, a crowd of senators marched out of their meeting, led by the chief priest of Rome with his toga pulled over his head. They broke up the wooden benches of the assembly, and with the legs of the benches they beat Tiberius Gracchus to death, along with about three hundred of his supporters. The bodies were thrown into the Tiber.
 
-It was said to be the first time in nearly four hundred years that a political quarrel in Rome had been settled by killing.
+His Greek biographer says that it was the first time since the days of the kings that a political quarrel in Rome had been settled by killing.
 
 Ten years later his younger brother Gaius was elected tribune and went further. He had the state buy grain and sell it to every citizen in Rome at a fixed low price. He also proposed something that his brother had not: to give Roman citizenship to the Latin towns, and new rights to the rest of the Italian allies. The proposal failed, and when Gaius was out of office the Senate declared an emergency. His followers were attacked in the streets, he was hunted down and died, and three thousand of his supporters were put to death afterwards without trial.
 
@@ -42,9 +42,9 @@ A citizen could vote, and by now his vote decided who governed the Mediterranean
 
 Above all, a citizen had rights over his own body. An old law said that no Roman official could execute or flog a citizen who called for the judgment of the people. An official's attendants carried bundles of rods as a sign of his power to punish, and against a citizen's back those rods could not legally be used.
 
-An ally had no such protection, and Gaius Gracchus told the Romans what that meant in a speech of which a fragment survives. A consul was travelling through an allied town in the hills south of Rome. His wife announced that she wished to bathe in the men's baths. The town's chief official had the bathers turned out. The lady complained to her husband that the baths had not been cleared quickly enough and were not properly clean. The consul had a stake set up in the town square, and the leading man of the town was stripped, tied to it and beaten with rods.
+An ally had no such protection, and Gaius Gracchus told the Romans what that meant in a speech of which a fragment survives. A consul was travelling through an allied town in the hills south of Rome. His wife announced that she wished to bathe in the men's baths. The town's chief official had the bathers turned out. The lady complained to her husband that the baths had not been cleared quickly enough and were not properly clean. The consul had a stake set up in the town square, and one of the town's elected officials was stripped, tied to it and beaten with rods.
 
-How seriously the Romans took that protection is shown by what happened, a few decades later, when a governor ignored it. A corrupt Roman governor of the island had a man flogged and crucified in a public square. All through the beating, the victim made no sound except to repeat one sentence: "I am a Roman citizen." The lawyer who prosecuted the governor afterwards, a rising speaker named Cicero, told a Roman jury that those words had protected men at the ends of the earth, among barbarians. The governor went into exile before the verdict.
+How seriously the Romans took that protection is shown by what happened, half a century later, when a governor ignored it. A corrupt Roman governor of the island had a man flogged in a public square and then crucified. All through the beating, the victim made no sound except to repeat one sentence: "I am a Roman citizen." The lawyer who prosecuted the governor afterwards, a rising speaker named Cicero, wrote in the speech he prepared for the jury that those words had protected men at the ends of the earth, among barbarians. The governor went into exile before the verdict.
 
 This was something new. In Rome's world, a person's safety usually depended on his family, his patron or his city walls. The Romans had made it depend on a legal status, which a man carried with him wherever he went and which could, at least in principle, be claimed against the most powerful official in the land. The allies could see exactly what it was worth, since they stood in the same battle line as the people who had it.
 
@@ -52,9 +52,9 @@ This was something new. In Rome's world, a person's safety usually depended on h
 
 For thirty years after the death of Gaius Gracchus, the allies asked for citizenship and were refused. Ordinary Roman voters did not want to share their cheap grain and their seats at the games. The senators did not want hundreds of thousands of new voters whom they had no means of controlling.
 
-Then, about 2,115 years ago, another tribune took up the allies' cause, and Italian leaders travelled to Rome to back him. He was stabbed at the door of his own house by a killer who was never found.
+Then, about 2,115 years ago, another tribune took up the allies' cause, and Italian leaders travelled to Rome to back him. He was stabbed in his own house by a killer who was never found.
 
-The allies gave up asking. Within months, most of the peoples of central and southern Italy were in arms. They founded a state of their own in a town in the mountains east of Rome and renamed the town Italica. They gave their state a senate of five hundred members and two consuls, in exact imitation of the city they were fighting. They also struck silver coins. Some of them carry the name ITALIA, the first time that word appears as the name of a country. On others, a bull, the animal of Italy, tramples and gores a wolf, the animal of Rome.
+The allies gave up asking. Within months, most of the peoples of central and southern Italy were in arms. They founded a state of their own in a town in the mountains east of Rome and renamed the town Italia. They gave their state a senate of five hundred members and two consuls, in exact imitation of the city they were fighting. They also struck silver coins. Some of them carry the name ITALIA, the first coins ever to do so. On others, a bull, the animal of Italy, tramples and gores a wolf, the animal of Rome.
 
 It was the most dangerous war Rome had fought since Hannibal. The men on the other side had been trained in the Roman way, carried Roman equipment and knew every Roman habit of command, because they had been half of the Roman army.
 
@@ -62,7 +62,7 @@ What the rebels were fighting for is a puzzle with two pieces of evidence that p
 
 Rome won, and it won by giving way. In the first winter of the war, the Romans passed a law granting citizenship to every allied town that had stayed loyal. Further laws offered it to any rebel who laid down his arms. The rebellion lost its purpose and came apart, apart from the Samnites, who fought on for years.
 
-The method that Rome had applied to its Latin neighbours two and a half centuries earlier had now been forced on it for the whole peninsula. Before the war, the count had found about four hundred thousand adult male citizens. A count taken twenty years after it found more than nine hundred thousand. An Italian from the far south was now as much a Roman as a senator, at least in law, and for the first time a state the size of a country had a single citizenship. The allies had failed to beat Rome, and had become Rome instead.
+The method that Rome had applied to its Latin neighbours two and a half centuries earlier had now been forced on it for the whole peninsula. Before the war, the count had found about four hundred thousand adult male citizens. A count taken twenty years after it found about nine hundred thousand. An Italian from the far south was now as much a Roman as a senator, at least in law, and for the first time a state the size of a country had a single citizenship. The allies had failed to beat Rome, and had become Rome instead.
 
 ## The general's men
 
@@ -88,7 +88,7 @@ He believed that he had repaired the Republic. In reality he had shown every amb
 
 ## Six thousand crosses
 
-The people who gained least from all of this were the slaves on whose work the new Italy rested. By now there were well over a million of them in the peninsula, roughly one person in every four or five.
+The people who gained least from all of this were the slaves on whose work the new Italy rested. By now there were well over a million of them in the peninsula, perhaps one person in every four or five.
 
 About 2,100 years ago a group of them broke out of a training school for gladiators, the slaves who were made to fight to the death for the entertainment of crowds. Their leader was a man from the Balkans named Spartacus. Field hands and herdsmen ran to join him by the tens of thousands, and for two years his army beat the legions sent against it and marched up and down Italy.
 
@@ -98,11 +98,11 @@ Nothing suggests that Spartacus meant to abolish slavery, which nobody in the an
 
 The generation after Sulla was dominated by three or four generals, each with soldiers who looked to him. The most gifted of them was a noble with large debts and larger ambitions named Julius Caesar.
 
-Caesar obtained command of the Roman province in the south of Gaul and, in eight years, conquered the whole country as far as the Rhine and the Atlantic, without ever being ordered to. He wrote his own account of it, in clear plain Latin, and sent it back to Rome in instalments. By the figures that ancient writers took from him, a million Gauls were killed and another million sold as slaves. The sale of the captives made Caesar one of the richest men alive, and the campaigns gave him the best army in the world, devoted to him personally.
+Caesar obtained command of the Roman province in the south of Gaul and, in eight years, conquered the whole country as far as the Rhine and the Atlantic, without ever being ordered to. He wrote his own account of it, in clear plain Latin, and sent it back to Rome in instalments. By the figures that an ancient biographer gives, a million Gauls were killed and another million taken as slaves. The sale of the captives made Caesar one of the richest men alive, and the campaigns gave him the best army in the world, devoted to him personally.
 
 His enemies in the Senate meant to prosecute him as soon as he became a private citizen again. They ordered him to give up his command. Caesar had to choose between obeying, which would end his career and possibly his life, and doing what Sulla had done.
 
-Caesar also governed the north of Italy, which in those days was counted as a province outside Italy proper. The boundary between the two was a small river called the Rubicon. A general who crossed it with troops was at war with the state. On a January night about 2,075 years ago, Caesar crossed it with a single legion, and by one account he quoted a gambler's saying as he went: let the dice fly.
+Caesar also governed the north of Italy, which in those days was counted as a province outside Italy proper. The boundary between the two was a small river called the Rubicon. A general who crossed it with troops was at war with the state. On a January night about 2,075 years ago, Caesar crossed it with a single legion, and by one account he quoted a gambler's saying as he went: let the die be cast.
 
 The Senate's army was commanded by Pompey, the most famous general of the day, who had once been Caesar's partner and son-in-law. The civil war lasted four years and was fought from Spain to Egypt. Caesar won it. He was a merciful victor, who pardoned his enemies and posted no lists. He also made no secret of where power lay. He had himself named dictator, first for ten years and then for life, and his head appeared on the coins of Rome, where no living Roman's had been before.
 
@@ -114,13 +114,13 @@ The liberators supposed that with the tyrant dead, the Republic would simply sta
 
 The man who answered it was eighteen years old. Caesar had no legitimate son, and in his will he adopted his sister's grandson, a slight and sickly student named Octavian, who thereby inherited the most valuable name in the world.
 
-Octavian went to the districts where Caesar's veterans had been settled and offered each man who would join him a bonus worth more than two years of a soldier's pay. He borrowed the money. Within months a teenager with no office and no legal right to command anything had a private army, and the Senate found itself asking for his help.
+Octavian went to the districts where Caesar's veterans had been settled and offered each man who would join him a bonus worth more than two years of a soldier's pay. He sold the property he had inherited to raise the money. Within months a teenager with no office and no legal right to command anything had a private army, and the Senate found itself asking for his help.
 
 What followed was the Republic's last and bloodiest round. Octavian joined forces with Caesar's chief lieutenant, Mark Antony, and the two revived Sulla's lists to raise money and settle scores. Cicero, who had spoken out against Antony, was among the first to die. His head and hands were nailed up on the speakers' platform in the middle of Rome, where he had made his name. The partners hunted down Caesar's killers, divided the Roman world, and then turned on one another. Antony took the east and allied himself with Cleopatra, the queen of Egypt and the last ruler of the line founded by one of Alexander's generals. Octavian defeated their fleet off the coast of Greece. The two killed themselves, and Egypt, the richest country of the Mediterranean, became a Roman province that Octavian kept under his own hand.
 
 He was now thirty-two, and he had won the same contest that Sulla and Caesar had won. Sulla had gone home, and the wars had begun again. Caesar had taken a king's power openly and been murdered for it. Octavian found a third course.
 
-He announced that he was handing the state back to the Senate and people. The consuls would be elected as before, the Senate would meet, the courts would sit. The grateful Senate voted him a new name, Augustus, "the revered one". For himself he chose a modest title, *princeps*, which means something like "first citizen". Later he summed up the arrangement in his own words. From then on, he wrote, he had stood above everyone in influence, but he had held no more official power than the other men who held office with him.
+He announced that he was handing the state back to the Senate and people. The consuls would be elected as before, the Senate would meet, the courts would sit. The grateful Senate voted him a new name, Augustus, "the revered one". For himself he chose a modest title, *princeps*, which means something like "first citizen". Later he summed up the arrangement in his own words. From then on, he wrote, he had stood above everyone in standing, but he had held no more official power than the other men who held office with him.
 
 Meanwhile he kept the provinces where the legions were stationed, and so kept the army. And to the army he applied the remedy that the Senate had refused for a century, because he understood better than anyone what had destroyed the Republic.
 
