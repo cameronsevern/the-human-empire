@@ -14,12 +14,12 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SITE = os.path.join(ROOT, "site")
 DPI = 170          # A5 at 170 dpi is about 990 x 1405 pixels: sharp when a page fills the screen
 
-RELEASED = {1, 2}    # parts that are public on the site; add a number here when a part is ready
+RELEASED = {1, 2, 3}    # parts that are public on the site; add a number here when a part is ready
 
 PARTS = [
     (1, "I", "Origins", (1, 7)),
     (2, "II", "Conquest", (8, 22)),
-    (3, "III", "Faith", None),
+    (3, "III", "Faith", (23, 36)),
     (4, "IV", "Expansion", None),
     (5, "V", "Wealth", None),
     (6, "VI", "War", None),
