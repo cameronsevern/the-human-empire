@@ -15,6 +15,9 @@ The day works out, in our calendar, as the third of May in the year 738. The vic
 
 In 738, Charlemagne's grandfather was ruling the Franks, the caliphs of Damascus held an empire from Spain to the Indus, and the Tang court was at the height of its splendour. None of those people knew that the continent where Quiriguá stands existed, and nobody at Quiriguá knew of them. People had first walked into the Americas more than fifteen thousand years earlier, and the sea had then risen behind them. From that time on, the two halves of humanity had gone their separate ways.
 
+![A map of the Americas from the Mississippi valley to Lake Titicaca, with Cahokia on the Mississippi, Teotihuacan in central Mexico, a green area for the Maya lowlands on the Yucatán peninsula, and in the Andes a red area for Wari in Peru and a yellow area for Tiwanaku around Lake Titicaca](images/map_americas.png)
+*The three regions of this chapter: the Maya lowlands, with Teotihuacan to the west, between about 250 and 900; the Andes, where Wari and Tiwanaku ruled, roughly over the areas shown, between about 500 and 1000; and Cahokia on the Mississippi, built about 1050. Map: drawn for this book; coastlines and rivers from Natural Earth, public domain.*
+
 The reading of the stones is a recent achievement, and it overturned what had been believed about their makers. Until the 1950s, the leading scholars held that the Maya inscriptions concerned nothing but the calendar and the stars. The Maya, in this view, were a peaceful people ruled by priests who spent their nights watching the heavens. A Soviet linguist who had never seen a Maya ruin then showed that many of the signs stood for syllables and spelled out words in a language that was still spoken. A few years later, a Russian-born American researcher noticed that the dates on the stones of one city fell into groups, each of which fitted inside a single human lifetime. The stones recorded births, accessions to the throne, and deaths, and the Maya had been writing history.
 
 When the texts could finally be read through, in the 1980s, the peaceful stargazers disappeared. In their place stood kings with names such as Fire-Burning Sky Lightning God, who made alliances, went to war, and counted their captives.
@@ -38,6 +41,9 @@ Metal was also put to different uses. The peoples of the Andes and Mexico were f
 ## Holy lords
 
 On that foundation, the Maya built one of the most elaborate civilisations of the ancient world, in a setting that looks unpromising. Their heartland was the lowland forest of what is now northern Guatemala, Belize and southern Mexico. It has thin soil over limestone and hardly any rivers, with a dry season several months long.
+
+![A close map of the Maya country: a green area covering the Yucatán peninsula, northern Guatemala and Belize, with Tikal in the middle, Yaxchilán on the Usumacinta river, Quiriguá and Copán in the south-east, and Teotihuacan far to the west near modern Mexico City](images/map_maya.png)
+*The Maya lowlands, roughly, with the cities named in this chapter: Tikal, Yaxchilán on the Usumacinta, Copán and its one-time subject Quiriguá, fifty kilometres apart, and Teotihuacan, a thousand kilometres to the west. Map: drawn for this book; coastlines and rivers from Natural Earth, public domain.*
 
 Between about 250 and 900, that forest held dozens of cities. Each had at its centre a group of plazas, surrounded by steep pyramids of limestone rubble faced with cut stone and white plaster, with a small temple at the top. Beside them stood the palaces of the royal family, and a long narrow court with sloping sides for a ritual game played with a heavy rubber ball.
 
