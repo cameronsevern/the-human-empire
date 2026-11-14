@@ -6,6 +6,9 @@ By following the rivers of Siberia eastward in search of fur. Russian trappers a
 
 The animal that drew Russia across a continent is about the size of a house cat. The sable is a kind of marten that lives in the cold forests of northern Asia, where it hunts squirrels and mice among the fallen trees. Its winter coat is dark brown or black, and so dense and fine that it feels the same whichever way it is stroked.
 
+![Rows of dark brown sable pelts hanging from blue straps, with barcode tags](images/sable.jpg)
+*Raw sable pelts in the warehouse of a fur auction house in Denmark, 2009. Photo: Vadeve, public domain.*
+
 Rich people in Europe, Turkey, Persia and China all wanted it, and there was never enough. In Moscow in the 1600s, a few good sable skins were worth more than a peasant family earned in a year. Russians called fur "soft gold". Their country had no gold or silver mines at that time, and little else that foreigners wished to buy. Fur was what the tsar used to pay for foreign cannon, foreign officers and foreign silver, and it supplied more than a tenth of all his income.
 
 The difficulty with an animal like the sable is that it breeds slowly and is easily hunted out. The forests west of the Urals had been stripped of their best fur by the middle of the 1500s. East of the mountains lay a forest larger than the whole of Europe, and almost nobody in Russia knew what was in it.
@@ -18,13 +21,25 @@ The Urals themselves are not much of a barrier. They are old, worn hills, and in
 
 The Stroganovs hired Cossacks. These were free men of the southern frontier, many of them runaway serfs, who lived by fishing, raiding and serving whoever paid. Their leader was a river pirate named Yermak, who was wanted by the tsar for robbing merchants and envoys on the Volga. In 1582 he crossed the hills with about eight hundred and forty men, dragging his boats over the watershed, and floated down into Sibir.
 
+![A red ink drawing of many boats on a river among waves, with a line of Russian script above](images/remezov.jpg)
+*Yermak and his boats on the river, drawn in a Siberian chronicle by Semyon Remezov. Drawing: Semyon Remezov, public domain.*
+
 The khan of Sibir had many times that number of warriors, armed with bows. Yermak's men had muskets and a few light cannon, and they fought from their boats and from behind barricades. They took the khan's capital in the autumn. Yermak sent the tsar a present of several thousand sable skins, and was forgiven everything.
+
+![A huge painting of Cossacks in boats firing muskets at a crowd of Tatar warriors on a river bank, with smoke and banners](images/surikov.jpg)
+*Yermak's Conquest of Siberia, painted in 1895 by Vasily Surikov, three centuries after the event and so a later imagining. Painting: Vasily Surikov, public domain.*
 
 He did not live to enjoy it. Two or three years later the Tatars caught his camp asleep on an island in the river, and Yermak drowned trying to swim to a boat, pulled under by the weight of his armour. By then, however, the tsar's own soldiers were coming over the hills behind him, and what they found suited them perfectly.
 
 Siberia is drained by three enormous rivers, the Ob, the Yenisei and the Lena, each of which flows north to the Arctic Ocean. Between them the land is flat, and the branches of one river system reach almost to the branches of the next. A party in a flat-bottomed boat could row up a branch, drag the boat a few kilometres over a low ridge, and float down into the next great valley. At each of these crossings the Russians built a fort of upright logs with a watchtower, a storehouse and a church, and left a few dozen men in it.
 
+![A map of northern Asia showing the Russian advance as a line from Moscow and Kazan over the Urals to Sibir in 1582, then by Yeniseisk on the Yenisei in 1619 and Yakutsk on the Lena in 1632 to the Pacific in 1639, with a branch to Nerchinsk and the fort of Albazin on the Amur; shaded areas for the Zunghars and the Manchu homeland; Mongolia, the Gobi, Tibet with Lhasa, Beijing and Shanhai Pass; and a dashed line for the Torghuts' journey from the Volga in 1771](images/map_siberia.png)
+*Northern Asia from 1582 to 1771. The red line follows the Russian advance by the rivers from the Urals to the Pacific, and the dashed red line the way to the Amur, where the fort of Albazin stood until the treaty of Nerchinsk in 1689. The areas of the Zunghars and of the Manchu homeland are shown roughly. The dashed black line is the Torghuts' journey from the Volga in 1771. Map: drawn for this book; coastlines and rivers from Natural Earth, public domain.*
+
 In this way they moved east at a speed that has few equals in the history of exploration. They had a fort on the Yenisei by 1619 and one on the Lena by 1632. In 1639 a party of about thirty Cossacks came down a mountain stream to a grey sea and built winter quarters on the shore. It was the Pacific Ocean, and it lay six thousand kilometres from Moscow. From Yermak's crossing it had taken fifty-seven years.
+
+![A square wooden watchtower of horizontal logs with a pointed roof, standing on grass beside a log palisade gate](images/bratsk.jpg)
+*The northwest tower of the wooden fort of Bratsk in Siberia, built between 1631 and 1654 and now kept in a museum in Moscow. Photo: Dmitry Ivanov, CC BY-SA 4.0.*
 
 ## A skin from every man
 
@@ -33,6 +48,9 @@ Russian trappers worked the forests themselves, in small bands. The tsar's share
 Beyond the Tatar kingdom, Siberia was thinly settled. Perhaps a quarter of a million people lived in all of it, in dozens of small nations of reindeer herders, hunters and fishers. Most of them had no towns and no rulers above the level of a clan chief, and their weapons were bows and spears. When a Russian party arrived at a new river, it demanded that every grown man of the district deliver a fixed number of sable skins each year to the fort, as tribute to the tsar. The number varied from place to place and might be five, ten or more.
 
 To make sure that the skins arrived, the Russians took hostages. They seized the chief men of each clan, or their sons, and kept them in a locked hut inside the fort. Once a year the hunters brought their furs to the gate, and the hostages were led out and shown to them, to prove that they were alive. Then the furs were handed over and the hostages went back in. If a clan failed to pay, the Cossacks went out and burned its camp.
+
+![A watercolour of Cossacks in fur coats facing local men and women in front of a bark tent, with a pelt on the snow between them](images/sbor.jpg)
+*Cossacks of the Yeniseysk region collecting the fur tribute called yasak, in a watercolour by an unknown painter of the 1800s, a later imagining. Painting: unknown, public domain.*
 
 For a hunter of the forest peoples, this was a heavy and bewildering demand. Reindeer and elk fed and clothed his family, and sable had been a sideline. He now had to spend much of each winter chasing a small animal for strangers. As the sable grew scarce, the tribute stayed the same, and men fell into debt to the fort or fled deeper into the forest. The Russians also brought smallpox. From the 1630s onward it ran through peoples who had never met it, and some of the northern nations lost more than half their number.
 
@@ -46,11 +64,20 @@ While the Russians were crossing Siberia, something just as large had happened i
 
 The people who lived there were hunters, farmers and horsemen, the descendants of the forest tribes that had once ruled northern China and been driven out by the Mongols. Around 1600 a chief named Nurhaci united them. He sorted all his followers, with their families, into military units called banners, each under its own coloured flag, and the banners replaced the old clans. His son gave the people a new name, the Manchus, and declared a dynasty, the Qing.
 
+![A seated man with a moustache in a red hat and a yellow silk robe on a throne, in a formal Chinese court portrait](images/nurhaci.jpg)
+*Nurhaci, who united the Manchus around 1600, in a Qing court portrait kept in the Palace Museum, Beijing. Painter unknown, public domain.*
+
 The Manchus were a small people, a million at most. The Ming empire of China, on the other side of the Great Wall, had more than a hundred times as many. The Ming, however, were falling apart. The court had spent its treasury on the war against the Japanese in Korea. A run of cold, dry years brought famine to the north, and starving farmers and unpaid soldiers gathered into rebel armies.
 
 In April 1644 one of those rebel armies took Beijing. The last Ming emperor walked up the hill behind his palace and hanged himself from a tree. The strongest Ming army was then stationed two hundred and fifty kilometres to the east, at the fortress where the Great Wall meets the sea, facing the Manchus. Its general found himself with rebels behind him and Manchus in front. He chose the Manchus. He opened the gate and invited them in to help him put down the rebellion.
 
+![A stone fortress gate with a curved-roof tower above it, standing on a wide empty square](images/shanhai.jpg)
+*The gate at Shanhai Pass, the fortress where the Great Wall meets the sea and where the Ming general let the Manchus in. Photo: Nyx Ning, CC BY-SA 3.0.*
+
 The Manchus came through the wall, beat the rebels, entered Beijing and did not leave. The following year they issued an order that showed what kind of rulers they meant to be. Every Chinese man was to shave the front of his head and wear the rest of his hair in a long plait down his back, as Manchu men did. It was a sign of submission that could be seen from across a street. People summed up the choice in a rhyme: keep your hair and lose your head, or keep your head and lose your hair. Several cities resisted, and their people were massacred.
+
+![An old photograph of a man in a long robe shaving the front of another seated man's head, with a braid hanging down his own back](images/barber.jpg)
+*A street barber shaving a customer in Hankou, China, in 1874, in the style the Manchus ordered, with a plait down the back. Photo: Adolf Boyarsky, public domain.*
 
 Having made that point, the Manchus ruled China in the Chinese way. They kept the examinations, the scholar-officials and the tax system. Their emperors studied the Confucian classics and wrote Chinese poetry. They kept their own people apart, living in walled quarters in the big cities and forbidden to marry Chinese, as a permanent army of occupation. The second of them to reign in Beijing, the Kangxi emperor, came to the throne as a child in 1661 and ruled for sixty-one years, and he was among the most capable rulers that China ever had.
 
@@ -78,6 +105,9 @@ Every Chinese dynasty had faced this situation, and the difficulty was always th
 
 The Kangxi emperor decided to solve the problem by brute organisation. In 1696 he led an army in person across the Gobi desert. Tens of thousands of soldiers marched in three columns, with heavy cannon carried in pieces on camels. Behind them came thousands of carts loaded with grain, and wells were dug ahead of them along the route. The emperor wrote cheerful letters home about the water and the weather. After more than two months, one of his columns caught Galdan's army on the far side of the desert, with its animals worn out and nowhere left to run, and broke it with cannon and muskets. Galdan died the next year, a fugitive.
 
+![A painted scroll scene of white tents and rows of orange banners on a green grassy plain with camels and men](images/kherlen.jpg)
+*The Kangxi emperor's camp on the Kherlen river in Mongolia in 1696, on his march against Galdan, in a fragment of a scroll painting. Painters: Yu Zhiding and Fan Chenglie, public domain.*
+
 The horse and the bow had not become worse weapons. A mounted archer could still shoot faster than a musketeer. What had changed was that a rich state with a paid army could now carry its food and its guns deep into the grassland. It was a huge effort, and the emperor's own column nearly ran out of grain. It could be done, however, and the horsemen could no longer count on being left alone.
 
 Russia was doing the same thing on the western half of the steppe, with a different tool. For centuries the Tatars of the Crimea had ridden north every summer to seize Russian villagers and sell them in the slave markets of the Ottoman empire, and they had carried off people by the hundred thousand. In the 1600s the tsars built a wall against them. It was a line of earth ramparts, felled trees and wooden forts eight hundred kilometres long, manned by soldiers who were paid in land. When the first line was secure, farmers ploughed up the grassland behind it, and a new line was built farther south. Step by step, the open range of the horse peoples was turned into wheat fields.
@@ -87,6 +117,9 @@ Russia was doing the same thing on the western half of the steppe, with a differ
 The Zunghars survived Galdan's defeat and held their mountain basins for another sixty years. In the 1750s they fell out among themselves over who should be khan, and one of the rivals went to Beijing for help. The emperor of the day, Kangxi's grandson, saw his chance and sent in the armies.
 
 When the Zunghars rose against the occupation, he decided to make an end of them. His orders to his generals survive, and they are explicit. He told them to show no mercy, and to kill the men who were fit to fight. The soldiers obeyed, and smallpox, to which steppe peoples had little resistance, did even more of the killing than they did. A Chinese scholar who studied the records nearly a century later reckoned that of about six hundred thousand Zunghars, three in ten were killed by the army and four in ten died of disease. Most of the rest fled to the Russians or were given away as servants. Some historians call this a genocide, and the word fits the evidence. The Zunghars ceased to exist as a people.
+
+![A painting of Qing horsemen with lances and bows charging in a tight crowd, with a black horse rearing in the middle](images/ayusi.jpg)
+*A Qing cavalry charge on the Zunghar camp at Gadan-Ola in 1755, in a painting attributed to the court painter Giuseppe Castiglione. Public domain.*
 
 The emperor settled their empty pastures with farmers, exiles and soldiers from other parts of his empire, and named the region Xinjiang, which means "the new frontier". Tibet, which the Zunghars had invaded a generation earlier, had been occupied by a Qing army in reply, and a Qing official and garrison had sat in Lhasa ever since. Mongolia was divided into banners under Manchu supervision. China under the Qing was twice the size it had been under the Ming.
 
