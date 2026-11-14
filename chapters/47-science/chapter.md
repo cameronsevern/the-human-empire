@@ -6,9 +6,15 @@ People had observed and measured nature for a very long time. What changed in Eu
 
 On the evening of 7 January 1610, a professor of mathematics in the Italian city of Padua pointed a tube at the planet Jupiter. Galileo Galilei was forty-five. He had heard, the summer before, that a spectacle-maker in the Netherlands had put two lenses in a tube and made distant things look near. He had worked out how to do it himself, and had ground better and better lenses until he had an instrument that magnified twenty times.
 
+![Two long thin telescopes with wooden tubes mounted one above the other in a museum case](images/telescope.jpg)
+*Two telescopes made by Galileo, about 1610, in the Museo Galileo, Florence. Photo: Zde, CC BY-SA 4.0.*
+
 Beside the bright disc of Jupiter he saw three small stars, in a straight line, two on one side and one on the other. He drew them in his notebook. The next night he looked again, and all three were on the same side. On the tenth there were two. On the thirteenth there were four.
 
 Within a week he understood what he was seeing. The little stars were not stars. They were moons, circling Jupiter as the Moon circles the Earth, and they looked like a line because he was seeing their orbits edge-on. He wrote a short book describing them, along with the mountains he had seen on the Moon and the thousands of faint stars that made up the Milky Way, and had it printed in March. It sold out in days.
+
+![A printed page of Latin text with small drawings of a circle for Jupiter and tiny stars in a line on either side](images/medicean.jpg)
+*Galileo's drawings of Jupiter and its moons on a page of his book Sidereus Nuncius, 1610. Page scan: University of Oklahoma Libraries, public domain.*
 
 The moons of Jupiter were a small discovery with a very large consequence. Every educated person had been taught that the Earth sat still at the centre of the universe and that everything in the sky revolved around it. Here were four bodies that plainly revolved around something else.
 
@@ -32,9 +38,15 @@ Galileo had not been the first to question the old picture, and the instrument-m
 
 In 1543 a Polish church official named Nicolaus Copernicus had published a book arguing that the Sun, and not the Earth, was at the centre, and that the Earth was one of the planets, spinning once a day and circling the Sun once a year. He had hesitated for thirty years before printing it, and by tradition a copy was put into his hands on the day he died. A nervous editor had added a preface, unsigned, which told readers that the idea was only a convenient way of doing the sums and need not be taken as true.
 
+![A printed diagram of nested circles with the Sun at the centre and the planets labelled in Latin on each ring](images/copernicus.jpg)
+*The Sun-centred plan of the planets in Copernicus's De revolutionibus, 1543. Diagram: Nicolaus Copernicus, public domain.*
+
 Most astronomers took it exactly that way. The book was hard, its predictions were no better than Ptolemy's, and it offered no proof. It did contain some excellent geometry, and not all of it was Copernicus's own.
 
 Three hundred years earlier, the Mongol conqueror of Baghdad had built an observatory on a hill in north-west Iran and put a Persian scholar named al-Tusi in charge of it. Al-Tusi and his successors were dissatisfied with Ptolemy's circles, which in places broke Ptolemy's own rules. They invented new geometrical devices to mend them. One of these, a small circle rolling inside a larger one of twice its width, so that a point on it moves back and forth in a straight line, appears in Copernicus's book with the same construction and very similar lettering on the diagram. His model for the motion of the Moon matches one worked out in Damascus around 1350. How these ideas travelled from Arabic manuscripts to a cathedral town on the Baltic is not known, but they were there.
+
+![A manuscript page of Arabic script with red and black circles and arcs drawn in two geometrical diagrams](images/tusi.jpg)
+*A manuscript page from a commentary on al-Tusi's Tadhkira, a handbook of astronomy, with diagrams of circles, kept in the Berlin State Library. Scribe unknown, CC0.*
 
 The debt went deeper than a few diagrams. Around the year 1000, a scholar in Cairo called Ibn al-Haytham had set out to discover how sight works. Greek writers had disagreed about it for centuries. He darkened a room, let light in through small holes, and watched what it did when it met mirrors, water and glass. His book on optics laid down that a claim about nature has to be tested by arranged experience, and that the tester should distrust his own opinions most of all. Translated into Latin, it was studied in European universities for four hundred years, and every maker of lenses was working downstream of it.
 
@@ -43,6 +55,9 @@ The debt went deeper than a few diagrams. Around the year 1000, a scholar in Cai
 What turned Copernicus's idea from a clever alternative into the best account anyone had was a mass of numbers, collected by a man who did not believe it.
 
 Tycho Brahe was a Danish nobleman with a metal nose, having lost the original in a duel over a point of mathematics. The king of Denmark gave him an island and the money to build on it, and there Tycho built the finest observatory that had ever existed. There were no telescopes yet. He used enormous brass instruments for sighting on stars, some of them fixed to walls, and a staff of assistants who measured every clear night for twenty years. His positions for the planets were several times more accurate than anything recorded before.
+
+![A coloured engraving of an observatory room with a giant curved brass quadrant on the wall and men taking sightings and reading a clock](images/tycho.jpg)
+*Tycho Brahe's brass mural quadrant at Uraniborg, as shown in his book of 1598. One observer sights a star while assistants read the clock and write down the figures. Engraver unknown, public domain.*
 
 When Tycho died in 1601, his records passed to his assistant, a poor, short-sighted German mathematician named Johannes Kepler. Kepler was a convinced follower of Copernicus, and he set himself to find the true path of the planet Mars from Tycho's figures.
 
@@ -60,6 +75,9 @@ The church had lived with Copernicus's book for seventy years without alarm. Wha
 
 In 1616 the church declared that the idea of a moving Earth was false and contrary to scripture, and Galileo was told privately not to defend it. He kept quiet for some years. Then a friend and admirer of his was elected pope, and Galileo thought the way was open. In 1632 he published a book in the form of a conversation between a follower of Copernicus, a sensible neutral listener, and a defender of Aristotle whom he named Simplicio. Near the end, Simplicio delivers an argument that the pope himself was known to favour.
 
+![A printed title page in Italian with large capital letters reading Dialogo and the name Galileo Galilei, and a printer's device below](images/dialogo.jpg)
+*Title page of Galileo's Dialogo, printed in Florence in 1632. Scan: Wellcome Collection, CC BY 4.0.*
+
 The pope was furious. Galileo, who was sixty-nine and ill, was called to Rome and tried by the Inquisition. Threatened with torture, he knelt the next day and read out a statement that he cursed and detested his errors. He was sentenced to be confined for the rest of his life, and he spent his last eight years confined to his villa outside Florence.
 
 The sentence did not work, for a reason the last few centuries had made familiar. Europe had many governments and many printers. Galileo's last and greatest book, on the science of motion, was smuggled out of Italy and printed in the Protestant Netherlands. His banned dialogue was translated into Latin and read everywhere north of the Alps.
@@ -72,9 +90,18 @@ The answer that emerged was a set of working habits, and they were developed mos
 
 Their first rule was that an experiment should be performed in front of witnesses. One of the founders, Robert Boyle, had a pump built that could suck the air out of a glass globe. At meetings of the society he showed what happened inside it. A candle went out, a ringing bell fell silent, and a bird collapsed and revived when the air was let back in. The gentlemen present were named in the record as witnesses.
 
+![A candlelit room where a lecturer holds a glass globe containing a white bird on an air pump, while onlookers watch and two children cover their eyes](images/airpump.jpg)
+*An Experiment on a Bird in an Air Pump, painted in 1768 by Joseph Wright of Derby, about a century after Boyle's demonstrations, and so a later imagining of such a scene. Painting: Joseph Wright of Derby, public domain.*
+
 Their second rule was to publish, in enough detail that a person who had not been there could repeat it. In 1665 the society's secretary began printing a monthly paper of reports and letters. It is the oldest scientific journal still being published. A report in it named the instruments, gave the measurements and admitted the failures. It also carried a date, so that whoever published a discovery first got the credit, which gave people a reason to share what they knew.
 
+![A printed title page reading Philosophical Transactions: giving some account of the present undertakings, studies and labours of the ingenious in many considerable parts of the world](images/philtrans.jpg)
+*Title page of the first volume of the Royal Society's Philosophical Transactions, covering 1665 and 1666. Publisher's page, public domain.*
+
 Antoni van Leeuwenhoek sold cloth in the Dutch town of Delft. He had no university education and read no Latin. As a hobby he ground tiny lenses, far better than anyone else's, and mounted them between small metal plates the size of a postage stamp. In 1676 he wrote to the Royal Society, in Dutch, that he had looked at a drop of rainwater and found it full of living creatures, thousands of times smaller than anything visible to the eye.
+
+![A small flat metal plate with a screw and a handle, in black and white against a white background](images/leeuwenhoek.jpg)
+*A facsimile of one of Leeuwenhoek's microscopes, a small metal plate with a single lens and a screw for focusing, at Utrecht University. Photo: Wellcome Collection, CC BY 4.0.*
 
 The members did not take his word for it. The claim was fantastic, and the man was a shopkeeper. They did not dismiss him either. They asked for details, and they instructed their best experimenter to try to see the same thing. Leeuwenhoek, for his part, sent signed statements from eight respectable witnesses, including three ministers of the church, who had looked through his lenses. After several failed attempts, the experimenter in London built a good enough microscope, and one afternoon he showed the little animals to the assembled members. Leeuwenhoek, who had already described the red cells of the blood and was the first person to see bacteria, was elected to the society.
 
@@ -95,6 +122,9 @@ The moons of Jupiter turned out to be part of the answer. They circle the planet
 In 1684 a young astronomer named Edmond Halley travelled to Cambridge to put a question to the professor of mathematics there, a solitary and suspicious man called Isaac Newton. Halley wanted to know what path a planet would follow if it were pulled towards the Sun by a force that weakened with distance in a particular way, falling to a quarter of its strength at twice the distance. Newton answered at once that it would be an ellipse. He had worked it out years before and had mislaid the paper.
 
 Halley persuaded him to write it up. The result, three years later, was a book that joined the motions of the sky to the motions of things on the ground. Newton showed that three simple laws of motion and one law of attraction would account for all of it. The force that pulls an apple to the ground is the same force that holds the Moon in its orbit. The Moon is always falling towards the Earth, and always missing, because it is also moving sideways. It bends the planets into Kepler's ellipses, it keeps Jupiter's moons circling Jupiter, and it raises the tides twice a day. The heavens and the Earth, which Aristotle had made of different stuff, obeyed one rule, and the rule could be written in a line.
+
+![A printed Latin title page reading Philosophiae Naturalis Principia Mathematica, with the name of S. Pepys as president of the Royal Society](images/principia.jpg)
+*Title page of Newton's Principia, 1687, with the approval of Samuel Pepys, president of the Royal Society, dated 1686. Scan: Internet Archive, public domain.*
 
 The Royal Society agreed to publish the book and then found that it could not pay the printer. It had spent its funds that year on a handsome illustrated history of fishes, which had not sold. Halley, who was not a rich man, paid for the printing himself. For a time the society paid his salary in unsold copies of the fish book.
 
