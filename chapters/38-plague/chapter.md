@@ -8,6 +8,9 @@ In the 1880s, Russian archaeologists dug up two old cemeteries near Lake Issyk-K
 
 Most of the stones gave a name and a year. The archaeologists noticed that the years were not spread evenly. Of the stones that carried a date, about a quarter came from just two years, 1338 and 1339. Ten of those stones also gave a cause. One of them reads: "This is the tomb of the believer Sanmaq. He died of pestilence."
 
+![A dark rounded stone with a cross scratched into it and lines of Syriac writing scratched around the cross](images/gravestone.jpg)
+*A gravestone from Kyrgyzstan with a cross and Syriac writing, from the 1200s or 1300s. Photo: unknown author, public domain.*
+
 For more than a century nobody could say which pestilence it was. Then, in 2022, a team of scientists took teeth from seven of the skeletons, which had been kept in a museum in St Petersburg, and searched them for traces of the microbes that had been in the blood when these people died. In three they found the plague bacterium. It was a particular form of it, and that form turned out to be the direct ancestor of the strain that broke out on the Black Sea eight years later and went on to Europe.
 
 The villagers by the lake were among the first victims of the greatest disaster in recorded history. Their killer was about to travel the length of the roads that the Mongols had made safe.
@@ -30,15 +33,30 @@ In those five or six years, somewhere between a third and a half of the people o
 
 Florence was one of the largest cities in Europe, and it lost more than half its people between March and September. A citizen who lived through it described what was done with the dead once the churchyards were full. Great pits were dug down to the water. Each morning the bodies collected in the night were laid in a row at the bottom, and a little earth was shovelled on top. The next day another row was added, and more earth. He compared it to the way lasagne is made, with layers of pasta and cheese.
 
+![Men in medieval clothes carrying wooden coffins and lowering them into a grave while a woman and a man bend over the pit](images/tournai_burial.jpg)
+*Burying plague victims at Tournai, in what is now Belgium, in a miniature from the chronicle of the abbot Gilles Li Muisis, who lived through the plague and died in 1352. Illuminator: unknown, public domain.*
+
 In the nearby city of Siena, a man who kept a chronicle wrote that he had buried his five children with his own hands. Siena had been building an enormous new cathedral, so large that the existing one was to become just one of its arms. The plague killed the masons and the money. Within a few years the project was given up, with the tall front wall and a few arches standing.
+
+![A tall brick wall with a large pointed arch cut through it, standing among the roofs of Siena beside the black-and-white striped cathedral and its bell tower](images/siena.jpg)
+*The unfinished nave of the new cathedral of Siena. Its tall wall, on the left, still stands beside the striped cathedral that was built instead. Photo: Superchilum, CC BY-SA 4.0.*
 
 People had no means of knowing what was killing them. Nobody connected the disease with rats or fleas, and nobody would for another five hundred and fifty years. The king of France asked the professors of medicine at Paris for an explanation. They reported that Saturn, Jupiter and Mars had come together in the sky three years before, and that this had drawn up poisoned vapours from the earth. Most doctors agreed that the cause was bad air, and they advised people to burn sweet-smelling wood and carry flowers.
 
 Others looked for a cause closer to hand. Many believed that God was punishing the world for its sins. In Germany and the Low Countries, companies of men walked from town to town for thirty-three days at a time, one day for each year of Christ's life, and whipped their own backs bloody in the market squares, in the hope of turning the anger aside.
 
+![A line of barefoot men in white skirts and dark pointed hoods with red crosses, bare to the waist, walking past three men carrying a crucifix and a banner](images/flagellants.jpg)
+*Flagellants walking in procession at Tournai in 1349, from a chronicle miniature as reproduced in a printed book of 1902. Artist: Pierart dou Tielt, public domain.*
+
 Still others decided that the disease was a crime, and that somebody had poisoned the wells. They accused the Jews. Under torture, Jews in the lands around the Alps confessed to whatever was put to them, and the confessions were sent ahead from town to town. In February 1349, before the plague had even reached the city, the people of Strasbourg burned their Jewish neighbours on a wooden platform in the cemetery. A local chronicler put the number at about two thousand. The pope pointed out that Jews were dying of the plague like everyone else, and that it raged in places where no Jews lived. It did little good. Hundreds of Jewish communities along the Rhine were destroyed, and the survivors moved east, into Poland.
 
+![A crowd of townspeople watching as men throw bundles of sticks onto a fire in which people are burning, in a gold-backed frame](images/muisis.jpg)
+*The burning of Jews during the plague, in a miniature from the chronicle of Gilles Li Muisis, made at Tournai about 1352. Artist: Pierart dou Tielt, public domain.*
+
 A few towns stumbled on something that helped. The port of Ragusa, now Dubrovnik, on the coast of Croatia, lived by its shipping and could not afford to close its harbour. In 1377 its council ordered that anyone arriving from an infected place must first wait for thirty days on an island offshore. Venice adopted the rule and lengthened the wait to forty days. The Venetian word for forty days, *quarantena*, has been in use ever since.
+
+![A stone courtyard between two long buildings with arches and red-tiled roofs, opening on a window with the sea beyond](images/lazaret.jpg)
+*The Lazareti, the quarantine buildings of Dubrovnik, on the Adriatic coast. They came long after the first rule of 1377, which sent arrivals to wait on an island. Photo: Marko Jukic, CC BY-SA 4.0.*
 
 The plague did not go away. It came back in 1361, when it killed so many children that people called it the children's plague, and after that most regions of Europe and the Middle East were struck again every decade or two, for more than three centuries. As a result, the number of people did not recover. In 1450 there were still far fewer Europeans than there had been in 1340.
 
@@ -70,7 +88,13 @@ The rebels were let into the city by sympathisers. They burned the palace of the
 
 The king, Richard II, was fourteen years old. He rode out to meet the rebels and promised them what they asked: that there should be no more serfs in England, and that land should be rented at a low fixed price. The next day, at a second meeting, the mayor of London stabbed the rebels' leader. The crowd was talked into going home. Within weeks the promises were withdrawn and the leaders were hanged.
 
+![Richard II in a crowned boat on a river speaking to the rebels, who stand in a dense crowd of helmets and spears on the bank, with a castle behind](images/froissart.jpg)
+*Richard II meeting the rebels of 1381, in a miniature made in the 1400s for Jean Froissart's chronicle. Illuminator: unknown, public domain.*
+
 The rising had failed, and the serfs were freed all the same. The force that was freeing the serfs was not a rebellion that could be put down. It was the plain fact that there were too few of them, and that fact did not change. Over the next two or three generations, the lords of England gave up trying to farm with forced labour. They rented their fields out for cash instead, or turned them over to sheep, which need only a shepherd and a dog. No law ever abolished serfdom in England. By 1500 it had simply almost disappeared.
+
+![Medieval painting of sheep packed into a woven wooden pen with a woman feeding them, and two women carrying pails and jugs on their heads](images/sheep.png)
+*A sheep pen in the Luttrell Psalter, a prayer book made in Lincolnshire between 1325 and 1335. Illuminator: unknown, public domain.*
 
 Meanwhile, the ordinary English family ate and lived better than ever before. A poet of the time grumbled that labourers now turned up their noses at yesterday's vegetables and cheap beer, and insisted on fresh meat or fried fish, served hot. He was right about the meat. It took a generation, because at first prices rose as fast as pay. By the middle of the 1400s, however, a building labourer's daily pay bought about twice as much food as it had before the plague. Working people in England would not be so well paid again for four hundred years.
 
