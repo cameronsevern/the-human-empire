@@ -6,7 +6,13 @@ Because the spices and gold that Europeans wanted reached them through a long ch
 
 In the autumn of 1414, a giraffe was led into the court of the emperor of China. It had been born in East Africa, shipped across the Indian Ocean to Bengal, and shipped again around Southeast Asia to China, a journey of more than ten thousand kilometres by sea. Nobody at court had seen such an animal. The officials decided that it must be the *qilin*, a gentle hoofed creature of legend that was said to appear when a perfect ruler sat on the throne. A court official painted its portrait, and copies of the picture survive.
 
+![A painting in ink and colour of a tall spotted giraffe led by a rope held by a bearded attendant, on aged brown silk](images/giraffe.jpg)
+*The tribute giraffe of 1414, painted for the Yongle Emperor by the court artist Shen Du. Painting: Shen Du, public domain.*
+
 The giraffe had travelled in the wake of the grandest ocean fleets the world had yet seen. Between 1405 and 1433, the Ming emperors of China sent seven great expeditions into the Indian Ocean under an admiral named Zheng He. He was a Muslim from the far south-west of China, captured as a boy and made a servant of the palace. His first fleet carried about twenty-seven thousand men in more than two hundred ships. The largest of these were probably sixty or seventy metres long, with watertight compartments in the hull.
+
+![A model of a large Chinese sailing ship with nine masts, red and brown sails and a black hull, in a museum](images/treasureship.jpg)
+*A model of one of Zheng He's treasure ships, in the Hong Kong Science Museum. It is a modern reconstruction, not a surviving ship. Photo: Mike Peel, CC BY-SA 4.0.*
 
 The fleets called at Vietnam, Java, Sri Lanka, India, the Persian Gulf, Arabia and the coast of Africa as far south as Kenya. They did not come to plant colonies. They traded, and when a king in Sri Lanka was rash enough to attack them, they carried him back to China as a prisoner. Their main purpose, however, was display. Zheng He handed out silk and porcelain, and local rulers were invited to send gifts and ambassadors back to China to acknowledge the emperor as the greatest lord on earth. Rare animals made the best gifts of all.
 
@@ -15,6 +21,9 @@ Nearly ninety years after the first of those fleets, an Italian captain set out 
 ## The price of pepper
 
 Europe in the 1400s was a rather poor and out-of-the-way part of the world, and the things its richer people wanted most grew somewhere else. Chief among them were spices. Pepper came from the south-west coast of India. Cinnamon came from Sri Lanka. Cloves and nutmeg came from a handful of small islands in the far east of Indonesia and grew nowhere else on earth. Europeans used them in cooking and in medicine, and a nobleman showed his rank by the quantity he served.
+
+![Two hanging strings of small green berries on a leafy vine](images/pepper.jpg)
+*Black pepper growing on the vine, in Kerala on the south-west coast of India, where Europe's pepper came from. The green berries are dried until they turn black. Photo: K Hari Krishnan, CC BY-SA 3.0.*
 
 A sack of pepper passed through many hands on its way to a kitchen in Paris or London. Indian growers sold it to merchants on the coast. Arab and Indian ships carried it across the ocean on the monsoon winds to the Red Sea. Camels carried it to the Nile, and boats took it down to Alexandria, where the sultan of Egypt collected a heavy tax. There, merchants from Venice bought it and shipped it to Italy. Each of these people took a profit. By the time the pepper reached a European market it cost many times what it had cost in India.
 
@@ -32,6 +41,9 @@ Off north-west Africa, the wind blows from the north-east almost every day of th
 
 The Portuguese solved the problem in two ways. The first was a ship. The usual cargo ship of Europe had square sails, which work well with the wind behind them and badly otherwise. Portuguese shipbuilders took the triangular sail long used in the Mediterranean and the Arab seas, which is hung from a long slanting pole and can be swung along the length of the ship. A vessel rigged this way can sail at a much sharper angle towards the wind. They put two or three of these sails on a light hull about twenty metres long, which drew so little water that it could nose into river mouths. This was the caravel, and it needed a crew of only twenty.
 
+![A brown wooden two-masted ship with slanting poles for sails moored in a harbour beside a rocky quay](images/caravel.jpg)
+*A modern replica of a Portuguese caravel, the Boa Esperança, moored at Lagos in southern Portugal. The caravel's triangular sails let it sail closer to the wind. Photo: Norbert Nagel, CC BY-SA 4.0.*
+
 The second solution was an idea, and it was the more important of the two. Captains whose names are lost gave up trying to beat back along the coast. They turned their ships away from Africa and away from home, and steered north-west, out into the empty ocean, with the wind on their side. They kept going for weeks. Far out, at about the latitude of Portugal, they found a steady wind blowing from the west. They turned east and rode it home.
 
 The Portuguese called this loop the *volta do mar*, the turn of the sea. What they had discovered is that the winds of the North Atlantic blow in an enormous circle, clockwise, like water going round a basin. Near the tropics they blow towards the west, and farther north they blow back towards the east. A sailor who understands this can go almost anywhere, provided he is willing to sail in the wrong direction for a month out of sight of land.
@@ -48,9 +60,15 @@ The sky offered a check, at least for half the problem. In the northern half of 
 
 As the Portuguese pushed south, the Pole Star sank into the sea behind them and was gone. In the 1480s the king of Portugal put a committee of astronomers to work on the difficulty. Their solution was to use the sun at midday. The sun's height at noon changes with the seasons as well as with the observer's position, and so the astronomers supplied tables, drawn from the work of a Jewish astronomer in Spain, which gave a correction for every day of the year. The pilot hung a heavy brass disc from his thumb, so that it stayed upright as the ship rolled. He turned a pointer on its face until the sunlight passed through two small holes, one behind the other, and read the sun's angle from a scale around the rim. The tables turned that angle into a latitude. A pilot anywhere on earth could now find his distance north or south to within a hundred kilometres or two.
 
+![A worn round disc of dark metal with a hole in the middle and the Portuguese royal arms cast at the top](images/astrolabe.jpg)
+*The oldest mariner's astrolabe known, made before 1503, with the arms of Portugal on its face. Pilots used it to read the sun's height at noon. Photo: Lodsworth, public domain.*
+
 His distance east or west, his longitude, was another matter. The sky gives no simple sign of it, because the earth turns and every place along the same latitude sees the same stars in the course of a night. To find longitude a sailor would have needed to know the exact time at home while he measured the time where he was, and no clock of the age could keep time on a rolling ship. This problem was not solved for another three hundred years. Until then, captains sailed to the latitude of the place they wanted and then turned along it, east or west, until they hit land.
 
 None of this equipment was the only way to cross an ocean. On the other side of the world, the Polynesians had been doing it for well over a thousand years with no compass, no charts and no writing. Their navigators memorised the points on the horizon where hundreds of stars rise and set. They read the direction of the ocean swells from the motion of the canoe, and they watched the flight of birds that sleep on land. In double-hulled canoes about as long as a caravel, they found and settled almost every island in the Pacific, across a third of the planet. The last large one, New Zealand, was reached around 1300. They reached South America as well, and the sweet potato, an American plant, was growing in their gardens long before Columbus.
+
+![A framework of thin curved sticks tied together with a few small shells, lit in a dim museum case](images/stickchart.jpg)
+*A stick chart from the Marshall Islands in the Pacific, a navigator's model of ocean swells made of sticks, in the Ethnological Museum in Berlin. Photo: Daderot, CC0.*
 
 European sailors of the 1400s were therefore not the world's finest seamen, and their ships were not the largest. What marked them out was what they were looking for, and who was paying.
 
@@ -61,6 +79,9 @@ In 1488 a Portuguese captain rounded the southern tip of Africa and saw the coas
 Christopher Columbus was a weaver's son from Genoa who had gone to sea as a boy. He had sailed on Portuguese ships to West Africa, and he had lived on an island near Madeira, where he had married the governor's daughter. He therefore knew the Atlantic wind circle as well as anyone alive. His idea was simple. Since the world is round, a ship that sailed west would come in the end to the eastern shore of Asia. He proposed to do it.
 
 Every educated person in Europe knew that the world was round. The Greeks had proved it and measured it eighteen centuries before. The question was how far a ship would have to go. Columbus had made his own estimate, and it was a triumph of wishful thinking. He took the smallest figure he could find for the size of the globe and the largest figure he could find for the width of Asia. He then added Marco Polo's report that Japan lay far out to sea beyond China. The result was that Japan should be about four and a half thousand kilometres west of the Canary Islands.
+
+![An old brown globe on a curved iron stand in a museum case, with continents painted in gold and brown](images/behaim.jpg)
+*The Erdapfel, a globe made by Martin Behaim in Nuremberg in 1492, the year Columbus sailed. It shows only open ocean between Europe and Asia. Photo: Vitold Muratov, CC BY-SA 3.0.*
 
 The true distance is about nineteen thousand kilometres. The king of Portugal put the proposal to his committee of astronomers, and they told him that the Genoese was badly wrong, and that the distance was several times what he claimed. They were right. If the ocean between Europe and Asia had been empty, as everyone supposed, Columbus and his crews would have died of thirst somewhere in the middle of it.
 
@@ -82,6 +103,9 @@ Da Gama applied the turn of the sea to the southern ocean, where the winds go ro
 
 They anchored off the city of Calicut in May 1498. It was the centre of the pepper trade, and merchants from Arabia, Persia, Gujarat and China had been doing business there for centuries. Da Gama asked to see the king and sent ahead the presents he had brought. There were some pieces of striped cloth, a few hats and strings of coral, six washbasins, and a little sugar, oil and honey.
 
+![A coloured engraving of a coastal town below mountains, with sailing ships, small boats and an elephant on the shore](images/calicut.jpg)
+*Calicut on the Malabar coast, in a panorama printed in 1572, seventy years after da Gama, in Braun and Hogenberg's atlas. It is a European picture of the city. Engraving: Georg Braun and Franz Hogenberg, public domain.*
+
 The king's officials laughed when they saw them. They told the Portuguese that the poorest merchant from Mecca gave more, and that if he wished to make a gift it should be of gold. The plain fact was that Europe made almost nothing that Asia wanted. Da Gama managed to buy a modest cargo of pepper and cinnamon. Even so, when two of his ships and about a third of his men got home in 1499, the spices paid for the expedition many times over.
 
 When da Gama returned to India in 1502, he brought twenty ships, and what he brought to trade with was cannon. For a hundred years Europeans had been fitting their ships with guns, and their hulls, nailed together from heavy oak, could take the shock of firing them. The trading ships of the Indian Ocean were lighter, many of them sewn together with cord, and they carried no heavy guns, because nothing like a floating battery had ever been seen in those waters. Off the Indian coast da Gama captured a ship full of pilgrims returning from Mecca, among them women and children. He took its cargo and burned it with several hundred people on board. He then bombarded Calicut from the water for two days.
@@ -99,3 +123,7 @@ China could afford to turn away. It was the richest country in the world, it mad
 Europe had neither advantage. It was hungry for goods it could not make, and it had no single court. When Portugal's experts said no to Columbus, Castile said yes, and once Castile had found land, the others could not afford to stay at home. Portugal, England, France and in time the Netherlands all sent ships of their own. No one of them could have called a halt even if it had wished to.
 
 In 1494, Spain and Portugal met to divide what they had found. They drew a line down the middle of the Atlantic, from pole to pole, a little more than two thousand kilometres west of the Cape Verde Islands. All newly found lands to the west of it would belong to Spain, and all those to the east to Portugal. Nobody asked the people who lived there. The treaty said how many leagues west of the islands the line lay. No ship could measure a distance east or west across open water, however, and so for the next two and a half centuries neither kingdom was able to say exactly where it ran.
+
+
+![A hand-painted world map on parchment with compass roses, showing Africa, the coast of India and the new lands to the west](images/cantino.jpg)
+*The Cantino planisphere, a world map drawn by an unknown Portuguese mapmaker in 1502, with the line dividing the Atlantic between Spain and Portugal. Map: anonymous Portuguese, public domain.*
