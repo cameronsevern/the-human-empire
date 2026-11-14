@@ -164,6 +164,10 @@ class Map:
             self.ax.text(lon + dx, lat + dy, name, ha=ha, va="center", fontsize=SIZE.get(size, size), color=INK,
                          fontweight="bold" if bold else "normal", zorder=7, path_effects=HALO)
 
+    def mark(self, lon, lat, marker="s", ms=13, colour=INK):
+        """An unnamed symbol: a find-spot, an inscription. Explain the symbol in key()."""
+        self.ax.plot(lon, lat, marker, ms=ms, mfc=FILL.get(colour, colour), mec=PAPER, mew=1.2, zorder=5.5)
+
     def label(self, lon, lat, text, size="region", colour=None, rot=0, ha="center", style=None, spaced=False, fs=None):
         """A name on the map. region: bold capitals. sea: blue-grey italic. land: grey italic. small: grey.
         fs overrides the font size (never below 15) and keeps the look of `size`."""
@@ -189,7 +193,13 @@ class Map:
         """items: (colour or ("line", colour, style), text). Use only when names cannot sit on the map."""
         handles = []
         for what, text in items:
-            if isinstance(what, tuple):
+            if isinstance(what, tuple) and what[0] == "marker":     # ("marker", "s") : a symbol drawn by mark()
+                handles.append(Line2D([0], [0], ls="none", marker=what[1], ms=what[2] if len(what) > 2 else 13,
+                                      mfc=INK, mec=PAPER, mew=1.2, label=text))
+            elif isinstance(what, tuple) and what[0] == "hatch":    # ("hatch", colour, "//") : a hatched area
+                handles.append(Patch(fc=FILL.get(what[1], what[1]) + "70", ec=FILL.get(what[1], what[1]),
+                                     hatch=what[2] if len(what) > 2 else "//", label=text))
+            elif isinstance(what, tuple):
                 handles.append(Line2D([0], [0], color=FILL.get(what[1], what[1]), lw=3, ls=what[2] if len(what) > 2 else "-", label=text))
             else:
                 handles.append(Patch(fc=FILL.get(what, what), ec=FILL.get(what, what), alpha=0.6, label=text))

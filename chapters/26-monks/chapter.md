@@ -50,8 +50,8 @@ In the same centuries the teaching itself was widening. A new school held that t
 
 From the Kushan lands, the road ran east through the oasis kingdoms around the desert of dunes. Each of them, in turn, acquired monasteries. Merchants from Central Asia carried silk westward along that road, and the monks went eastward against the flow, from house to house. By about the year 150, a few of them had reached the capital of the Han.
 
-![A map of Asia with coloured arrows leading out from the Ganges valley across Central Asia, China, Korea, Japan, Southeast Asia and Sri Lanka, with English labels for places and a key](images/map_buddhism.png)
-*The spread of Buddhism across Asia, with the main routes and the places named in this chapter, such as Gandhara, Dunhuang, Yungang and Longmen. The dates on the map run on far beyond this chapter. Map: Gunawan Kartapranata, CC BY-SA 3.0.*
+![A map of Asia with a solid line from Chang'an through Dunhuang, round the desert to Khotan, over the mountains to Gandhara and down the Ganges to Pataliputra, then a dashed line by sea round Sri Lanka and up the coast of China, with Kucha, Karla, Yungang and Longmen also marked](images/map_faxian.png)
+*Faxian's journey, out by land through the oasis kingdoms and over the mountains, and home by sea, with the other places named in this chapter. The course at sea is roughly drawn. Map: drawn for this book; coastlines and rivers from Natural Earth, public domain.*
 
 ## A religion against the family
 

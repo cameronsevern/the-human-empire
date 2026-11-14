@@ -154,8 +154,8 @@ The landless soldier now looked to the state for his future, and he no longer ne
 
 The method that had made Rome was also extended, quietly, beyond Italy. Alongside the legions of citizens, Augustus kept about as many soldiers again recruited from the conquered peoples of the provinces. The arrangement that grew out of this, and that a later emperor made regular, was simple. A provincial who served for twenty-five years was made a Roman citizen on his discharge, and his children with him.
 
-![A map of the Mediterranean coloured in red, blue and yellow, with the name of each province written on it in English](images/map14.png)
-*The Roman provinces in the year Augustus died, about 2,010 years ago. Yellow is Italy, red the provinces Augustus kept in his own hands, with their legions, and blue the provinces left to the Senate. Map: Homoatrox, CC BY-SA 4.0.*
+![A map of the Roman empire around the Mediterranean with Italy shaded in one colour, the emperor's provinces such as Spain, Gaul, Syria and Egypt in a second, and the Senate's provinces such as Africa, Asia, Macedonia and Greece hatched](images/map_provinces.png)
+*The Roman provinces in the year Augustus died, about 2,010 years ago, roughly. Italy was not a province. Of the provinces, Augustus kept the plain ones in his own hands, with their legions, and left the hatched ones to the Senate. Map: drawn for this book; coastlines and rivers from Natural Earth, public domain.*
 
 Augustus ruled for more than forty years, long enough that hardly anyone was left alive who had seen the Republic at work. Near the end he composed an account of his achievements and ordered it to be cut in bronze in front of his tomb. The bronze is lost, but copies were carved on temples in the provinces, and the best of them still covers the walls of a temple in Ankara, the capital of Turkey. Much of it is a list of payments. He records how many hundreds of millions he spent on land for his veterans, and that he settled three hundred thousand of them in colonies or sent them back to their home towns with their reward.
 

@@ -33,8 +33,8 @@ A little over 3,000 years ago the Shang were overthrown by the Zhou, a people fr
 
 These were the kings who had handed out their conquests to brothers, cousins and allies, and whose lords, by the time of Confucius, had become strangers with armies. The Zhou king lived on in a small territory of his own, honoured by everybody and obeyed by nobody, while the lords swallowed each other. By about 2,400 years ago, what had once been well over a hundred states were seven large ones. One after another, the rulers of the seven dropped the pretence and called themselves kings.
 
-![A map of eastern China divided into seven coloured states labelled Qin, Zhao, Yan, Qi, Wei, Han and Chu](images/map_warring_states.jpg)
-*The seven kingdoms about 2,285 years ago, with Qin in the west. Map: Philg88, CC BY-SA 3.0.*
+![A map of eastern China divided into seven shaded kingdoms named Qin, Zhao, Yan, Qi, Wei, Han and Chu, with the Qin capital Xianyang, the First Emperor's tomb and the Zhou king marked](images/map_seven_kingdoms.png)
+*The seven kingdoms about 2,285 years ago, with Qin in the west. The borders are rough. Map: drawn for this book; coastlines and rivers from Natural Earth, public domain.*
 
 Their wars, as the wandering thinkers had found, were no longer an affair of noblemen in chariots. The states now filled their ranks with farmers on foot, by the tens of thousands. Many carried the crossbow, which is a bow fixed sideways on a wooden stock and released by a bronze trigger. A farmer could learn to aim one far sooner than he could master a bow.
 

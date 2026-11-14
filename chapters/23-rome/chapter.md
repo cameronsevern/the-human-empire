@@ -118,15 +118,12 @@ The Carthaginian general who finally crushed the mutiny had a son, who was about
 
 The father went to Spain, and there he and his family carved out a new territory for Carthage, rich in silver mines and in tough soldiers for hire. When Hannibal took command of it he was in his twenties, and he had spent most of his life in army camps. About 2,245 years ago, he besieged and captured a Spanish town that had put itself under Rome's protection. Rome demanded that Carthage hand him over. Carthage refused, and both cities had the war they expected.
 
-![Map of the western Mediterranean in 218 BCE with Roman territory in red, Carthaginian lands in purple and the battle sites in Italy marked](images/map_218.png)
-*Rome and Carthage at the start of the war with Hannibal, 218 BCE. Roman territory is red; Carthage and its allies are purple. Map: William Robert Shepherd, modified, CC BY-SA 4.0.*
+![A map of the western Mediterranean with Roman Italy, Sicily, Sardinia and Corsica shaded in one colour, Carthaginian Spain and Africa in another, and a line from New Carthage across Gaul and the Alps, down Italy to Cannae, then dashed by sea back to Zama, with the battles marked by crosses](images/map_hannibal.png)
+*Rome and Carthage when Hannibal set out, about 2,240 years ago, and his route from Spain over the Alps and down Italy, with the battles marked by crosses. The dashed line is his voyage home to Africa, years later. Syracuse, hatched, was Rome's ally. Map: drawn for this book; coastlines and rivers from Natural Earth, public domain.*
 
 Hannibal had studied his enemy, and he understood where Rome's strength came from. He knew that he could not match its numbers. His plan was therefore aimed at the alliance. If he could march into Italy and beat the Romans in front of their allies, the allies might decide that their treaties were no longer worth honouring. Each town that changed sides would take its soldiers out of Rome's column and add them to his. Rome without Italy would be one city among many.
 
 Rome controlled the sea by now, and so he went by land. He led his army out of Spain, across the south of Gaul, and over the Alps in late autumn, through snow and along tracks cut into cliffs, with thirty-seven elephants. About half of his men died or deserted on the way. He came down into the plain of northern Italy with twenty thousand infantry and six thousand cavalry. We have those figures because Hannibal later had them inscribed on a bronze tablet, which Polybius went and read.
-
-![Map showing a green line from southern Spain across Gaul and the Alps, down through Italy to Cannae, and then by sea to Zama near Carthage](images/hannibal_route.png)
-*Hannibal's route from Spain over the Alps and down Italy, with the major battles marked. Map: Pinpin, CC BY-SA 3.0.*
 
 The Gauls of northern Italy, whom Rome had lately conquered, joined him by the thousand. In the first winter he smashed one Roman army on the banks of an icy river. The next spring he hid his men in the hills above a lake, on a morning of thick mist, and fell upon a second army as it marched along the shore. Fifteen thousand Romans died there, many of them driven into the water.
 

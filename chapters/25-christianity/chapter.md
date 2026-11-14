@@ -41,8 +41,8 @@ The man who did most to change that never met Jesus. Paul was a Jew from Tarsus,
 
 Paul took the message out of Judea and into the cities of the eastern Mediterranean, and the empire made that easy. Augustus had left behind a world at peace, with paved roads, seas cleared of pirates, and one language, Greek, that would serve in any town from Syria to Rome. In most of those towns there was a community of Jews with a meeting house, where a visiting teacher could speak. Paul travelled well over ten thousand kilometres, supporting himself by his trade, which was making tents. In each city he gathered a small group, stayed for months or a year or two, and moved on.
 
-![Map of the eastern Mediterranean with coloured lines marking the routes of Paul's three journeys and his voyage to Rome](images/paul_map.png)
-*Paul's journeys around the eastern Mediterranean, and his voyage to Rome as a prisoner. Map: Biblica, Inc., CC BY-SA 4.0.*
+![A map of the eastern Mediterranean with solid lines joining Jerusalem, Antioch, Tarsus, Ephesus, Philippi, Thessalonica, Athens and Corinth, and a dashed line by sea from Caesarea past Crete and Malta to Rome](images/map_paul.png)
+*Paul's journeys around the eastern Mediterranean, drawn as solid lines, and his voyage to Rome as a prisoner, dashed. Map: drawn for this book; coastlines and rivers from Natural Earth, public domain.*
 
 Afterwards he kept in touch by letter. Seven letters that are certainly his survive, written in the fifties to groups in cities such as Corinth and Rome. They are the oldest Christian documents in existence, older than the gospels, and they are full of the problems of small new communities: quarrels, lawsuits, money, and who may eat what.
 

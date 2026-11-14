@@ -63,8 +63,8 @@ The Xiongnu at that time were one herding people among several, and they had now
 
 Over the next thirty years, Modu beat the herding peoples to his east and west and joined their horsemen to his own. He came to rule the steppe from Manchuria to the mountains of Central Asia, along with the oasis towns on its southern edge. His commanders held ranks counted in thousands and tens of thousands of horsemen, and each autumn the people gathered to have their numbers and their animals counted. The Xiongnu had become an empire in their own right.
 
-![A relief map of Asia with a large orange area covering Mongolia and the lands to its west and east, north of China](images/map_xiongnu.png)
-*The Xiongnu empire, in orange, after the conquests of Modu. China lies to its south-east. Map: Wikimedia Commons, CC0.*
+![A map of north-east Asia with a large shaded area named Xiongnu covering Mongolia, from the oasis towns in the west to Manchuria in the east and Lake Baikal in the north, and Han to the south-east, with the loop of the Yellow River](images/map_xiongnu_modu.png)
+*The Xiongnu empire, roughly, after the conquests of Modu, about 2,200 years ago. China lies to its south-east. Map: drawn for this book; coastlines and rivers from Natural Earth, public domain.*
 
 Meanwhile, Qin had fallen, and Liu Bang, the farmer's son from Chu, had made himself the first emperor of the Han. Along with the registers and the measures, he inherited the northern frontier, where Modu had already taken back the loop of the Yellow River.
 
@@ -116,8 +116,8 @@ Sixty years without a great war changed that. By the time a young emperor known 
 
 Year after year, Han armies of cavalry rode into the steppe. They took back the loop of the Yellow River. They took a corridor of oases, a thousand kilometres long, that runs north-west from the Yellow River to Dunhuang, with the mountains of Tibet on one side and the Gobi desert on the other. In the largest campaign, two Han armies crossed the Gobi and broke the Xiongnu on their own ground. The Xiongnu ruler moved his camp far to the north.
 
-![A map of East Asia with the Han empire in purple, a narrow blue strip running north-west from it to Dunhuang, a pink region beyond labelled Western Protectorate, and Xiongnu written across Mongolia](images/map_han_hexi.png)
-*The Han empire about 2,080 years ago, a generation after the conquest of the corridor. The blue strip is the corridor of oases, ending at Dunhuang. The pink area beyond it holds the oasis kingdoms. Map: Qiushufang, CC BY-SA 4.0.*
+![A map of northern China and Central Asia with the Han empire shaded in the east, a narrow shaded corridor running north-west from it to Dunhuang with a wall along it, a hatched area beyond named oasis kingdoms, and Xiongnu written across Mongolia](images/map_han_corridor.png)
+*The Han empire about 2,080 years ago, a generation after the conquest of the corridor. The narrow strip is the corridor of oases, ending at Dunhuang, with the wall along it. The hatched area beyond it holds the oasis kingdoms. Map: drawn for this book; coastlines and rivers from Natural Earth, public domain.*
 
 These were real victories, and they came close to ruining the victor. On that one campaign across the Gobi, the Han took a hundred and forty thousand horses into the desert, and fewer than thirty thousand came back. Farmland is poor country for breeding horses, and for years afterwards the Han could not mount another such expedition. Later, one general was surrounded with his men deep in the steppe and surrendered. Sima Qian spoke up for him at court, and the emperor had the historian castrated for it. Sima Qian finished his book all the same. Our best source for the war with the Xiongnu is a man whom it maimed.
 

@@ -61,8 +61,8 @@ Very little is known about Ashoka's early life. Buddhist storytellers of later c
 
 What can be checked is carved in rock. On the east coast of India, in the region now called Odisha, lay a country named Kalinga. It was the one large piece of that coast which the empire did not hold, and it sat across the roads and sea routes that led from Magadha to the south. In the eighth year after he was crowned, Ashoka conquered it.
 
-![A map of India and its neighbours with the empire shaded orange and dozens of places marked and named](images/map_maurya.png)
-*The empire in Ashoka's time, with the places where his edicts have been found. Pataliputra is in the east, Kalinga on the coast below it and Kandahar in the far north-west. Map: Avantiputra7, CC BY-SA 3.0.*
+![A map of India with Ashoka's empire shaded from Kandahar in the west to the Ganges delta and far down the south, with Pataliputra, Kalinga, Delhi, Lumbini and Sarnath named, squares where his rock edicts were found and triangles where his pillars stand](images/map_ashoka_empire.png)
+*Ashoka's empire, roughly, about 2,250 years ago, with a selection of the places where his edicts have been found: squares for those cut in rock, triangles for pillars. Pataliputra is in the east, Kalinga on the coast below it and Kandahar in the far north-west. Map: drawn for this book; coastlines and rivers from Natural Earth, public domain.*
 
 No description of the campaign survives. What survives is the statement that the victor issued some years later, cut into rock at several places in his empire. In it he speaks of himself by his titles, as kings did, and he begins with the numbers:
 

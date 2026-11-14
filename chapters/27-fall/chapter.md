@@ -135,8 +135,8 @@ Most of them paid it, without enthusiasm. The best witness is a nobleman from ce
 
 By the 470s the western emperor controlled little more than Italy, and his army consisted of barbarian troops under barbarian officers. In 476 those troops asked for what their cousins had been given in Gaul, a third of the land of Italy. The government refused. Their commander, a soldier named Odoacer, thereupon removed the emperor.
 
-![A coloured map of Europe and the Mediterranean in 476, with kingdoms such as the Vandal, Westgothic, Burgundian, Frankish and Odoacer's kingdoms labelled in English](images/map476.jpg)
-*Europe in 476, as drawn in a nineteenth-century atlas. The Roman Empire is now two small patches in the west and the large eastern half. Map: Alexander Keith Johnston, public domain.*
+![A map of Europe and the Mediterranean in 476 with shaded areas named Goths, Sueves, Franks, Burgundians, Alamanni, Odoacer and Vandals, and the Roman Empire shaded in the east and in two small patches in northern Gaul and on the Adriatic coast](images/map_europe_476.png)
+*Europe in 476, roughly. The Roman Empire is now two small patches in the west and the large eastern half. Map: drawn for this book; coastlines and rivers from Natural Earth, public domain.*
 
 The emperor was a boy in his teens, the son of a general. Odoacer did not kill him. He gave him a generous pension and sent him to live in a villa on the Bay of Naples. He then packed up the imperial robes and crown and sent them to Constantinople, with a message that the world needed only one emperor, and that he would be happy to govern Italy on that emperor's behalf.
 
