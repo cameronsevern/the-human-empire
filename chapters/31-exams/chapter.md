@@ -12,7 +12,13 @@ He could not check, because the paper had no name on it. For the past fifty year
 
 When the names were uncovered, the essay turned out to belong to a twenty-year-old from the far south-west whom Ouyang had never heard of. He was Su Shi, who went on to become one of the greatest poets in the Chinese language.
 
+![Full-length ink portrait of a bearded man in a tall cap and long robe, holding a long bamboo staff](images/su_shi.jpg)
+*Su Shi, who lived from 1037 to 1101, as painted by Zhao Mengfu, who died in 1322, more than two centuries later. Painting: Zhao Mengfu, public domain.*
+
 Nothing in that scene would surprise anyone who has sat a public examination, which is a measure of how thoroughly the Chinese invention has conquered the world. The set texts, the anonymous script and the nervous wait for a list of results are all in it. So is the principle, which was a strange one in 1057, that a governor of a province should be chosen for what he can write under supervision on a given morning, and that his father's name is irrelevant.
+
+![Two whitewashed examination cells side by side, each with a low wooden board fixed to the wall](images/exam_cells.jpg)
+*Examination cells at Nanjing, built long after the Song. Photo: Wikimedia Commons contributor, CC BY-SA 3.0.*
 
 ## A ditch for rice
 
@@ -22,9 +28,18 @@ After the fall of the Han, China had been divided for three and a half centuries
 
 During the centuries of division, the balance of the country had shifted. Millions of people had fled south from the wars, cleared the forests of the Yangzi valley, and planted rice. The south was now the richer half. The armies and the capital, however, had to be in the north, facing the grasslands. The rivers of China run from west to east, and none of them connected the two.
 
+![Relief map of northern and eastern China marking the Sui and Tang canals in brown and blue lines from Chang'an and Luoyang to Hangzhou and north toward Zhuozhou, with city names in English](images/canal_map.jpg)
+*The canals dug under the Sui and added to under the Tang, running from the Yangzi at Hangzhou to the Yellow River plain and north. Map: Yug, CC BY-SA 3.0.*
+
 The Sui therefore dug a waterway from the Yangzi to the Yellow River and beyond, joining older canals and natural streams into a single route well over a thousand kilometres long. A barge loaded with rice near the southern coast could now be poled all the way to the capital. The court historians say that more than a million men and women were conscripted for one section alone, and that a great many of them died. The dynasty that built the Grand Canal was overthrown by the people who had dug it. The canal remained, and for the next thirteen hundred years it tied the two halves of China together.
 
+![A broad green canal lined with trees, old white houses and apartment blocks, with a barge in the distance and a bridge](images/grand_canal.jpg)
+*The Grand Canal at Hangzhou, seen from Gongchen Bridge. The route is more than 1,300 years old. Photo: Windmemories, CC BY-SA 4.0.*
+
 The dynasty that took over, the Tang, ruled from 618 for almost three centuries, and its early years were among the most brilliant in the country's history. Its armies pushed out along the old Han road to the west until they held the oasis towns as far as the high mountains of Central Asia. Its capital, laid out as a grid of walled districts covering more than eighty square kilometres, held about a million people. Among them were Persian and Central Asian merchants, Turkish soldiers, Korean and Japanese students, and Buddhist monks from India. The pottery figures buried in Tang tombs show bearded foreigners in peaked caps leading camels.
+
+![A pottery camel with its head thrown back and a pack on its back, beside a small glazed pottery figure of a bearded man in a peaked cap](images/tang_camel.jpg)
+*Pottery figures of a camel and a bearded man, from Tang China, in the Shanghai Museum. Photo: Gary Lee Todd, CC0.*
 
 ## Born to office
 
@@ -78,13 +93,25 @@ All those candidates needed books, and a new technique supplied them.
 
 In 1907, the archaeologist who had found the Han watchtowers near Dunhuang was shown a walled-up chamber in a cave temple outside the town. It was packed from floor to ceiling with manuscripts, which had been sealed in about nine hundred years earlier. Among them was a paper scroll five metres long. It was a copy of a short Buddhist scripture, in the Chinese translation made by the captive monk Kumarajiva, with a picture of the Buddha preaching at the front. Nobody had written it out by hand. Every character and every line of the picture had been printed.
 
+![A printed paper scroll showing the Buddha seated and preaching to monks and attendants at right, with columns of Chinese text at left](images/diamond_sutra.jpg)
+*The Diamond Sutra of 868, found at Dunhuang: a picture of the Buddha preaching, with the text beside it, all printed from carved wooden blocks. Image: British Library, CC0.*
+
 At the end is a note: reverently made for free distribution to all by Wang Jie, on behalf of his two parents, with a date that works out as the eleventh of May 868. It is the oldest dated printed book in the world.
+
+![The end of the Diamond Sutra scroll, with columns of printed characters and a dated note naming the maker](images/sutra_colophon.jpg)
+*The end of the scroll, with the note giving its date. Photo: unknown, CC BY 2.5.*
 
 The note explains why printing began. In Buddhist teaching, to copy a scripture is to earn merit, and merit can be passed to one's parents. A man who paid a scribe to copy a text once earned a little. A man who could turn out a thousand copies earned a great deal. The earliest printers were in the business of mass-producing merit.
 
 The method was simple, and it suited Chinese writing. A scribe wrote the text in ink on a sheet of thin paper. The sheet was pasted face down on a smooth block of pear wood, so that the writing showed through backwards. A carver then cut away the wood around every stroke, leaving the characters standing up from the surface, in reverse. After that, a printer brushed the block with ink, laid a sheet of paper on it, and rubbed the back with a dry brush. One man could pull more than a thousand sheets in a day. The blocks were stacked in a storeroom and could be brought out to print another batch twenty years later.
 
+![A pale wooden block with columns of Chinese characters carved in reverse, standing up from the surface](images/woodblock.jpg)
+*A carved printing block of the kind used by Yangzhou printshops, in the China Block Printing Museum. The characters are cut in reverse. Photo: Vmenkov, CC BY-SA 3.0.*
+
 In the tenth century, during the chaos between the Tang and the Song, a chief minister had the entire set of Confucian books carved and printed for the government. The job took twenty-one years. Under the Song, government offices, monasteries and commercial workshops all printed, and the price of a book fell to a fraction of what a handwritten copy had cost.
+
+![Two facing pages of a printed Chinese book, with large characters in columns and small commentary beside them, and red seals](images/song_page.jpg)
+*Opening pages of a volume of the Zhuangzi with commentary, printed in the Song period. Page: unknown, public domain.*
 
 The first things printed were scriptures, charms and calendars. Examination texts soon joined them. Printers in the south made a good living from the classics, from dictionaries, and from collections of model answers by previous top candidates, which the government from time to time tried to ban. Cheap books explain a good part of the swelling crowd at the examination halls. A family of modest means could now own the syllabus.
 
@@ -101,3 +128,7 @@ A dynasty that had tamed its generals and filled its government with essayists h
 The method itself outlasted the Song by many centuries. The last imperial examination in China was held in 1904. By then the idea had travelled. Europeans who visited China from the 1500s onwards wrote home in astonishment about a country where office was earned by study, and reformers took note. In the 1850s the British government, which had always filled its posts through family connections and the favour of the powerful, was looking for a way to stop. It began with its administration in India, bringing in recruitment by open written examination, and by 1870 it had done the same at home. In the debates, its friends and its enemies both pointed to China. Other countries followed. The written paper, which European universities had begun to use for their own purposes, became the ordinary gate to a career.
 
 On the day the results came out, a list of names was pasted on a wall outside the examination compound, in order of merit, and the candidates pushed through the crowd to find out whether twenty years of work had been wasted. Su Shi wrote, many years after his own name had gone up near the top of such a list, and after his career had been wrecked by politics, that he hoped only that his son would grow up ignorant and stupid, and so reach high office without any trouble.
+
+
+![A crowd of men in dark caps and robes under a wooden roof, looking up at a posted list, with grooms and horses at the right](images/results_list.jpg)
+*Candidates crowding to read the list of results. The painting is attributed to Qiu Ying, who worked in the 1500s, centuries after the Song. Painting: Qiu Ying, public domain.*
