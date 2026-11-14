@@ -5,3 +5,4 @@ build/*.jpg
 site/pages/
 site/downloads/
 site/parts.json
+__pycache__/
