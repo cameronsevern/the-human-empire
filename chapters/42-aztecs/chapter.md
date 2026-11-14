@@ -8,6 +8,9 @@ Around 1552, the council of Tlaxcala, a city and small province in the highlands
 
 The painting told the story of the war, thirty years earlier, in which the great city of the Aztecs had fallen. In scene after scene, warriors in feathered suits and cotton armour charge the enemy with wooden swords. They carry the banners of Tlaxcala. Here and there among them rides a Spaniard on a horse. Beside the Spanish captain, in almost every scene where he appears, stands a woman in a native blouse, larger than he is, speaking for him.
 
+![Line drawing of a scene from the Lienzo de Tlaxcala: a Spanish captain seated, a woman beside him pointing, armed men behind, and men in native dress bringing baskets of food](images/lienzo_malintzin.jpg)
+*A scene from the Lienzo de Tlaxcala, redrawn in line: the Spanish captain sits while the woman beside him speaks to men bringing food. Drawing after the Lienzo de Tlaxcala, public domain.*
+
 This was how the people of Tlaxcala remembered the conquest of Mexico. They had fought a long war against an old enemy and they had won it, with the help of some useful foreigners. They sent the painting to the king to remind him of what he owed them.
 
 ## The city on the lake
@@ -16,9 +19,15 @@ The people we call Aztecs called themselves the Mexica. They had come into the V
 
 By 1500 that island held one of the largest cities on earth. Tenochtitlan had around two hundred thousand people, which was four times as many as Seville, the biggest city in Spain. It was joined to the shore by three raised roads, each wide enough for eight horsemen to ride abreast, with gaps crossed by wooden bridges that could be taken up. Fresh water came across the lake in a stone channel from springs on the mainland. Inside the city, canals served as streets, and the people grew maize and flowers on long garden plots built up from the mud of the lake bed.
 
+![Colour woodcut plan of Tenochtitlan in its lake, with causeways to the shore and a walled temple precinct at the centre, beside a map of the Gulf of Mexico](images/tenochtitlan_1524.jpg)
+*Plan of Tenochtitlan and a map of the Gulf of Mexico, printed in Nuremberg in 1524 with Cortés's letters to the emperor. Map: from Cortés's Praeclara narratio, public domain.*
+
 The Spanish soldiers who first saw it wrote that they wondered whether they were dreaming. One of them, who had grown up in a Spanish market town, remembered the great market square above all. Some of his companions had been to Constantinople and to Rome, he wrote, and they said they had never seen a market so large, so orderly and so full of people.
 
 The city lived on tribute. Starting in 1428, the Mexica and two allied cities on the lake shore had conquered most of central Mexico, from the Gulf coast to the Pacific. For the most part they did not garrison these lands or govern them. They left each defeated town under its own lord and sent it a bill. A painted register of these bills survives, and it lists what several hundred towns had to deliver each year: bales of cotton cloaks by the thousand, sacks of cacao beans, jars of honey, bundles of bright feathers, warriors' costumes, live eagles. A town that failed to pay received a visit from the army.
+
+![Page of painted pictures of cloaks, feather shields, gold and jade beads beside town symbols, with Spanish notes](images/codex_mendoza_tribute.jpg)
+*A page of the Codex Mendoza, a painted register of the tribute that towns owed the Mexica. It lists cloaks, feather shields, gold and jade beads, with Spanish notes added. Codex Mendoza, public domain.*
 
 An empire built this way was rich and brittle. The Mexica had perhaps five million subjects, and a great many of them were waiting for a chance to stop paying.
 
@@ -30,7 +39,13 @@ They believed that the sun was not guaranteed to rise. In their account of the b
 
 At the centre of Tenochtitlan stood a pyramid as tall as a twelve-storey building, with two temples on its summit. There, on the great festivals, priests stretched a living person over a stone, opened the chest with a flint knife and lifted the heart to the sun. The skulls of the dead were threaded on poles in a great rack at the foot of the steps. Spanish writers described this rack, and for centuries some historians suspected them of exaggerating. Then, in 2015, archaeologists digging under a house in Mexico City found it. They have so far uncovered a tower built of several hundred human skulls set in lime, and the holes in the sides of the skulls show where the poles went through.
 
+![Close view of a wall carved with rows of white stone skulls](images/tzompantli.jpg)
+*A tzompantli, a skull rack carved in stone, at the Templo Mayor in Mexico City. Photo: Juan Carlos Fonseca Mata, CC BY-SA 4.0.*
+
 Most of the people who died on the stone were prisoners of war. For that reason a Mexica warrior went into battle hoping above all to capture. His rank, his dress and even his haircut depended on how many prisoners he had taken alive. His weapon was a wooden club edged with blades of volcanic glass, sharp enough to cripple a man with a blow to the legs.
+
+![Two wooden clubs with rows of black obsidian blades set along their edges, on a red background](images/macuahuitl.jpg)
+*Two macuahuitl, the wooden clubs edged with obsidian blades. They are recreations made in 2019 from pictures in the codices and Spanish descriptions. Photo: Arjuno3, CC BY-SA 4.0.*
 
 About a hundred kilometres east of Tenochtitlan, in the middle of conquered territory, lay the small highland state of Tlaxcala, and the Mexica had never conquered it. They said this was deliberate. They kept Tlaxcala, they claimed, in the way a farmer keeps a fishpond, as a convenient place to send young warriors for practice and captives.
 
@@ -76,6 +91,9 @@ One of the men who had landed with the second Spanish force had been carrying sm
 
 It reached Tenochtitlan in the autumn of 1520 and burned through the city for about two months. The Mexica later described it to a Spanish friar who wrote down their words. Sores covered people's faces, heads and chests, they said, so that the sick could not walk, or lie face down, or turn over. Because everyone in a house was ill at once, there was nobody to prepare food, and a great many of those who died were killed by hunger and not by the disease.
 
+![Drawing of people covered in spots lying sick, one of them comforted by a healer](images/smallpox_codex.jpg)
+*Smallpox victims in 1520, drawn in Book 12 of the Florentine Codex, completed in 1577. Florentine Codex: Bernardino de Sahagún, public domain.*
+
 Among the dead was the new emperor, Moctezuma's brother, who had driven the Spaniards out. He had ruled for eighty days. Much of the army's leadership died with him. Nobody counted the victims, but in some towns of the valley half the people were gone by the end of the year.
 
 The disease killed in Tlaxcala too, and among the dead was the old lord who had been Cortés's firmest friend there. In Tenochtitlan, however, it struck a crowded city that was about to be besieged. The Spaniards, who had met the disease as children, were hardly touched. Both sides noticed this, and both drew the same conclusion about which gods were stronger.
@@ -84,11 +102,17 @@ The disease killed in Tlaxcala too, and among the dead was the old lord who had 
 
 Cortés had learned from the night on the western road that the city could not be taken while the Mexica controlled the lake. He therefore ordered boats. In Tlaxcala, under a Spanish shipwright, native carpenters cut the timbers for thirteen small warships, each about twelve metres long, with a sail, oars and a cannon in the bow. The ships were then taken apart. Eight thousand porters carried the pieces on their backs over the mountains to the lake, a march of some eighty kilometres, in a column ten kilometres long.
 
+![Drawing of Spanish boats firing cannon at a causeway of Tenochtitlan while a gun fires from the shore](images/brigantines.jpg)
+*Cortés's boats and a cannon on the shore attacking Tenochtitlan in 1521. Florentine Codex, completed in 1577: Bernardino de Sahagún, public domain.*
+
 Meanwhile the alliance grew. The second city of the empire, Texcoco, on the eastern shore of the lake, had been the Mexica's partner from the beginning. Its royal family was split by a quarrel over the throne, and one of the princes now brought his followers over to Cortés. With Texcoco came a harbour for the boats and tens of thousands more warriors. Town after town around the lake followed, each calculating that the Mexica were finished and that it was wise to be on the winning side early.
 
 The siege began in May 1521. Cortés had about nine hundred Spaniards by then, since more ships had come in. His native allies numbered at least a hundred thousand, and by the end perhaps twice that. For every Spaniard in the attack there were more than a hundred Mexicans.
 
 The first act was to break the stone channel that brought fresh water into the city. The boats then swept the canoes from the lake and cut off the food. After that the allies advanced along the three roads, and it was slow, murderous work. The Mexica fought for every bridge and every rooftop. What the attackers took by day was retaken at night. In the end Cortés adopted a method he said he regretted. As each block of houses was captured, the allies pulled it down and tipped the rubble into the canals, so that horses could cross and there was nothing left to defend. One of the most beautiful cities in the world was taken by being demolished.
+
+![Coloured scene of warriors and armoured Spaniards fighting on a causeway, with a cannon at the right](images/lienzo_siege.jpg)
+*A battle of the siege of Tenochtitlan, in a copy made in 1773 of the Lienzo de Tlaxcala, which was first painted in the 1500s. Copy of the Lienzo de Tlaxcala, public domain.*
 
 The defenders held out for nearly three months, eating lizards, weeds and the leather of their shields, and drinking the salt water of the lake. On 13 August 1521 the last emperor, a cousin of Moctezuma aged about twenty-five, was caught trying to leave by canoe. Tens of thousands had died, most of them from hunger and sickness. The Spaniards wrote that at the end one could not walk in the streets without stepping on the dead.
 
