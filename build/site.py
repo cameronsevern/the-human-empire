@@ -66,11 +66,13 @@ for n, roman, title, span in PARTS:
             os.makedirs(os.path.join(SITE, "downloads"), exist_ok=True)
             name = f"the-human-empire-part-{n}"
             shutil.copy(pdf, os.path.join(SITE, "downloads", name + ".pdf"))
-            entry.update(released=True, pages=len(shots), pdf=f"downloads/{name}.pdf",
+            # v changes whenever the PDF does, so browsers never mix cached pages of an older build with new ones
+            v = int(os.path.getmtime(pdf))
+            entry.update(released=True, v=v, pages=len(shots), pdf=f"downloads/{name}.pdf?v={v}",
                          chapters=chapters(span[0], span[1], pdf))
             if os.path.exists(epub):
                 shutil.copy(epub, os.path.join(SITE, "downloads", name + ".epub"))
-                entry["epub"] = f"downloads/{name}.epub"
+                entry["epub"] = f"downloads/{name}.epub?v={v}"
             size = sum(os.path.getsize(f) for f in glob.glob(os.path.join(pages_dir, "*.webp"))) / 1e6
             print(f"Part {roman}: {len(shots)} pages, {size:.0f} MB of page images")
     data.append(entry)

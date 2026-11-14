@@ -13,7 +13,7 @@ const $ = (id) => document.getElementById(id);
 const canvas = $('stage');
 
 // ------------------------------------------------------------------ data
-const parts = await fetch('parts.json').then((r) => r.json());
+const parts = await fetch('parts.json', { cache: 'no-cache' }).then((r) => r.json());   // always the current list; each part's `v` stamps its files
 
 // plain links first: they work whatever happens to WebGL
 {
@@ -186,7 +186,7 @@ class Book {
     this.hinge = new THREE.Group(); this.lift.add(this.hinge);
     this.cover = add(new THREE.Mesh(new THREE.BoxGeometry(W + 0.05, CT, H + 0.08), board), this.hinge);
     this.cover.position.set(W / 2 + 0.005, CT / 2, 0);
-    const art = part.released ? pageTexture(`pages/${part.n}/001.webp`) : drawnCover(part);
+    const art = part.released ? pageTexture(`pages/${part.n}/001.webp?v=${part.v || 0}`) : drawnCover(part);
     this.art = add(new THREE.Mesh(flat(W + 0.05, H + 0.08), new THREE.MeshStandardMaterial({ map: art, roughness: 0.75 })), this.hinge);
     this.art.position.set(W / 2 + 0.005, CT + 0.002, 0); this.art.castShadow = false;
 
@@ -217,7 +217,7 @@ class Book {
   pageOf(side, s = this.s) { const p = side === 'left' ? 2 * s + 1 : 2 * s + 2; return s < 0 || (s === 0 && side === 'left') ? 0 : (p <= this.pages ? p : 0); }
   tex(p) {
     if (!p) return blankPage;
-    if (!this.textures.has(p)) this.textures.set(p, pageTexture(`pages/${this.part.n}/${String(p).padStart(3, '0')}.webp`));
+    if (!this.textures.has(p)) this.textures.set(p, pageTexture(`pages/${this.part.n}/${String(p).padStart(3, '0')}.webp?v=${this.part.v || 0}`));
     return this.textures.get(p);
   }
   // keep the pages near the reader in memory and let the rest go
