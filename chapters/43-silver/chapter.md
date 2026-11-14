@@ -16,7 +16,7 @@ It was the largest ransom ever paid, and it was nothing beside what came next. W
 
 The state that Pizarro walked into was the largest that the Americas had produced. It ran for four thousand kilometres along the Andes, from what is now Ecuador to the middle of Chile, and held about ten million people. A single family from the valley of Cuzco had put it together in less than a hundred years.
 
-It was run on principles that a Spaniard found hard to grasp. There was no money and there were almost no markets. People paid their taxes in work. Every household owed the state a certain number of days each year, which might be spent farming the ruler's fields, weaving cloth, building roads or serving in the army. In return the state fed its workers from storehouses that stood in rows on the hillsides above every town, stocked with maize, dried potatoes and cloth. Officials kept the accounts on knotted cords, and relays of runners carried messages along forty thousand kilometres of road.
+It was run on principles that a Spaniard found hard to grasp. There was no money and there were almost no markets. People paid their taxes in work. Every household owed the state a certain number of days each year, which might be spent farming the ruler's fields, weaving cloth, building roads or serving in the army. In return the state fed its workers from storehouses that stood in rows on the hillsides above every town, stocked with maize, dried potatoes and cloth. Officials kept the accounts on knotted cords, and relays of runners carried messages along tens of thousands of kilometres of road.
 
 Gold and silver had no value as money in such a place. They were sacred materials, the sweat of the sun and the tears of the moon, and they were used to decorate temples and the bodies of rulers. Atahualpa could offer a room full of them because they were his to command, and because he could see that the strangers wanted them more than anything else he had.
 
@@ -30,9 +30,9 @@ They had learned the method in Mexico: seize the man at the top. In a state wher
 
 The treasure of Cajamarca had been collected over centuries, and it could be taken only once. What the Spaniards wanted was a mine. In 1545 they found one, at a place called Potosí, in the high country of what is now Bolivia.
 
-By the usual account, an Andean man named Diego Gualpa was climbing a bare, cone-shaped mountain when he was knocked down by the wind and put his hand on a ledge of silver ore. The mountain turned out to be the richest body of silver ore ever found. The Spaniards named it the Rich Hill.
+By the usual account, an Andean man named Diego Huallpa was climbing a bare, cone-shaped mountain when he came upon a ledge of silver ore at the surface. The mountain turned out to be the richest body of silver ore ever found. The Spaniards named it the Rich Hill.
 
-It stood in one of the least welcoming places on earth. The foot of the mountain is four thousand metres above the sea, higher than almost any peak in the Alps, and the summit is eight hundred metres higher still. The air has barely more than half the oxygen of air at sea level. Nothing grows there but coarse grass, it freezes on most nights, and newcomers are sick for weeks. Every beam, every sack of flour and every jar of wine had to be carried up on the backs of llamas and mules.
+It stood in one of the least welcoming places on earth. The foot of the mountain is four thousand metres above the sea, as high as the snowfields of the Alps, and the summit is eight hundred metres higher still. The air has about three-fifths of the oxygen of air at sea level. Nothing grows there but coarse grass, it freezes on most nights, and newcomers are sick for weeks. Every beam, every sack of flour and every jar of wine had to be carried up on the backs of llamas and mules.
 
 Within a generation there was a city there of more than a hundred thousand people, with dozens of churches, gambling houses and dancing schools. It was larger than Madrid or Rome. Across the Spanish world, to say that something "was worth a Potosí" meant that it was beyond price.
 
@@ -40,7 +40,7 @@ The first miners simply dug out the richest ore and smelted it in small clay fur
 
 The trick used mercury, the liquid metal, which has the odd property of soaking up silver the way a sponge soaks up water. Poor ore was first crushed to powder under heavy iron hammers, driven by waterwheels. The powder was spread out, wetted with salty water and mixed with mercury, and workers trod the mud with their bare legs for weeks. Bit by bit the mercury found the specks of silver and joined with them into a soft, heavy paste. This was washed out and heated. The mercury boiled away as a vapour, and pure silver was left behind.
 
-With this method, rock that was far too poor to smelt was worth digging. The Spaniards built a chain of reservoirs in the hills to turn more than a hundred crushing mills, and production multiplied sixfold in ten years. By great good luck, the largest mercury mine in the Americas lay in the same mountains, at a place called Huancavelica.
+With this method, rock that was far too poor to smelt was worth digging. The Spaniards built a chain of reservoirs in the hills to turn more than a hundred crushing mills, and production quadrupled in ten years. By great good luck, the largest mercury mine in the Americas lay in the same mountains, at a place called Huancavelica.
 
 ## One man in seven
 
@@ -52,7 +52,7 @@ Consider what it meant for one of them. His village might be two months' walk fr
 
 At Potosí he worked one week in three. On Monday morning he went into the mountain, and he stayed inside until Saturday night, sleeping in the tunnels. The men who cut the ore worked by candlelight with iron bars. Others carried it out. A carrier loaded about twenty-five kilograms of rock into a blanket knotted across his chest, and climbed with it up a series of ladders made of leather and wood, some of them hundreds of metres from bottom to top, with a candle tied to his thumb. He came out of the hot shaft, soaked in sweat, into freezing air.
 
-For this he was paid, but the wage was fixed at about a third of what a free miner earned, and it did not cover his family's food at Potosí prices. During his two weeks off he therefore hired himself out, usually at the mills, for the market wage. Many men never went home, since at home they would only be drafted again. Villages emptied, and the survivors had to supply the same number of men from a shrinking population, or pay silver to be let off.
+For this he was paid, but the wage was fixed well below what a free miner earned, and it did not cover his family's food at Potosí prices. During his two weeks off he therefore hired himself out, usually at the mills, for the market wage. Many men never went home, since at home they would only be drafted again. Villages emptied, and the survivors had to supply the same number of men from a shrinking population, or pay silver to be let off.
 
 The mercury mine was worse. The men at Huancavelica breathed poisoned dust and fumes, and those who came back shook, lost their teeth and died young. Mothers in the provinces that owed service there were said to have lamed their sons to keep them out of it.
 
@@ -70,7 +70,7 @@ The bankers' chief tool was a piece of paper. Suppose that a banking family from
 
 For this service, and for waiting to be repaid, the bankers charged heavily. Sometimes the charge was written into the contract, at one per cent a month. Sometimes it was hidden in the rate at which they changed Spanish money into Flemish money, since the church disapproved of interest on loans. It often came to fifteen or twenty per cent a year.
 
-The taxes of Castile brought the king several times as much as the mines did, but most of that money was already promised as interest on older debts. The silver was the part that bankers would lend against. In this way Philip spent each fleet's silver a year or two before it was mined. He was borrowing against metal that was still inside a mountain in Bolivia, to be dug out by men who had not yet been drafted. When a fleet was late, or a war went badly, he could not pay. Four times in his reign he announced that he was suspending payment on his debts, and forced the bankers to accept slower repayment at lower interest. Each time they came back, because nobody else in Europe had so much silver to pledge, and because lending to him paid well even after the losses. When Philip died, he owed about ten times what his whole empire brought in in a year.
+The taxes of Castile brought the king several times as much as the mines did, but most of that money was already promised as interest on older debts. The silver was the part that bankers would lend against. In this way Philip spent each fleet's silver a year or two before it was mined. He was borrowing against metal that was still inside a mountain in Bolivia, to be dug out by men who had not yet been drafted. When a fleet was late, or a war went badly, he could not pay. Four times in his reign he announced that he was suspending payment on his debts, and forced the bankers to accept slower repayment at lower interest. Each time they came back, because nobody else in Europe had so much silver to pledge, and because lending to him paid well even after the losses. When Philip died, he owed about eight times what his whole empire brought in in a year.
 
 ## The Indies of the foreigner
 
@@ -80,7 +80,7 @@ The reason is that silver is not wealth in itself. It is a claim on things that 
 
 As a result, much of what was made in Spain cost more than the same thing made in France, Italy or the Netherlands, where the silver arrived later and thinner. A Spanish weaver could not match the price of imported cloth, and Spanish merchants found it easier to buy foreign goods with silver than to make their own. The colonists in America wanted linen, knives, paper and wine, and by law they could buy only through Seville. More and more of what Seville sent them had been made abroad. Spaniards put their names on the paperwork, and the profit went north.
 
-Thoughtful Spaniards saw what was happening. Members of the parliament of Castile complained that their country had become a bridge over which silver passed to its enemies. Foreigners, one writer said, treated the Spaniards the way the Spaniards treated the Indians, trading them trinkets for treasure. Another, in 1600, put it as a riddle. Spain was poor, he wrote, because it was rich.
+Thoughtful Spaniards saw what was happening. Members of the parliament of Castile complained that the silver only passed through their country on its way to its enemies. Writers of the time said that Spain had become the Indies of the foreigners, who treated Spaniards the way Spaniards treated the Indians. One of them, in 1600, put it as a riddle: Spain had no wealth because it had so much gold and silver.
 
 By 1650, the textile towns of Castile had shrunk, the countryside was losing people, and the coins in a Spaniard's pocket were made of copper. The silver had gone to Genoa and Antwerp, to pay for loans and for imports, and much of it had not stopped there.
 
@@ -96,7 +96,7 @@ Portuguese ships carried silver east around Africa. The Spaniards found a more d
 
 From then on, for two and a half centuries, one or two large ships left Acapulco in Mexico each year loaded with pieces of eight. The crossing took three months. At Manila a fleet of Chinese trading junks from the province of Fujian was waiting, and the cargoes changed hands on the beach. The silver went on to China. The galleon turned back for Mexico with silk, porcelain and spices, on a voyage of six months that was the longest and deadliest regular crossing in the world.
 
-A merchant in Mexico City who sent ten thousand pesos on the galleon could expect to double his money when the silk came back, or better. The king's officials in Seville hated the trade, since it carried American silver straight to Asia without passing through Spain, and they set a legal limit on it. The merchants shipped four times the limit and bribed the inspectors. In some years, as much silver crossed the Pacific as crossed the Atlantic.
+A merchant in Mexico City who sent ten thousand pesos on the galleon could expect to double his money when the silk came back, or better. The king's officials in Seville hated the trade, since it carried American silver straight to Asia without passing through Spain, and they set a legal limit on it. The merchants shipped several times the limit and bribed the inspectors. In some years, as much silver crossed the Pacific as crossed the Atlantic.
 
 A single metal now tied four continents together. Villagers in the Andes dug it out. Africans, bought with goods that the silver had paid for, worked beside them in the mints and the lowland plantations. It paid German and Italian soldiers to fight in the Netherlands, and in China it paid a farmer's taxes and a weaver's wage. A bar cast in the Andes might be spent, a few years later, in a market on the south coast of China.
 

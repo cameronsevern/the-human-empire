@@ -4,7 +4,7 @@
 
 They did not do it alone. The army that destroyed the Aztec capital was made up mostly of other Mexicans, who had their own reasons to want it destroyed, and an epidemic of smallpox had already killed a great part of the defenders.
 
-Around 1552, the council of Tlaxcala, a city and small province in the highlands of central Mexico, paid for a painting. It was done on a sheet of cotton cloth about five metres high and two wide, and it was laid out like a comic strip, in more than eighty scenes. The councillors had three copies made. They kept one, sent one to the Spanish governor in Mexico City, and sent the third across the ocean to the king of Spain.
+Around 1552, the council of Tlaxcala, a city and small province in the highlands of central Mexico, paid for a painting. It was done on a sheet of cotton cloth about five metres high and two wide, and it was laid out like a comic strip, in more than eighty scenes. The councillors had three copies made. They kept one, sent one to the king's viceroy in Mexico City, and sent the third across the ocean to the king of Spain.
 
 The painting told the story of the war, thirty years earlier, in which the great city of the Aztecs had fallen. In scene after scene, warriors in feathered suits and cotton armour charge the enemy with wooden swords. They carry the banners of Tlaxcala. Here and there among them rides a Spaniard on a horse. Beside the Spanish captain, in almost every scene where he appears, stands a woman in a native blouse, larger than he is, speaking for him.
 
@@ -50,7 +50,7 @@ The Spaniards called her Marina, and the Mexicans called her Malintzin. She was 
 
 On the coast, the local people complained to Cortés about the tax collectors of Tenochtitlan, and from them he learned how the empire worked. He marched inland towards the capital, and his road led through Tlaxcala.
 
-The Tlaxcalans attacked him. They fought the Spaniards for two weeks, by day and by night, and the Spaniards barely survived. Then the council of Tlaxcala stopped to think. These strangers were few, and they could be killed. On the other hand, they fought like nothing the Tlaxcalans had met before, they did not tire of saying that they were on their way to Tenochtitlan, and they were asking for peace. One of the great lords argued for finishing them off. The majority saw something better. Here was a weapon that could be pointed at the Mexica.
+The Tlaxcalans attacked him. They fought the Spaniards for two weeks, by day and by night, and the Spaniards barely survived. Then the council of Tlaxcala stopped to think. These strangers were few, and they could be killed. On the other hand, they fought like nothing the Tlaxcalans had met before, they did not tire of saying that they were on their way to Tenochtitlan, and they were asking for peace. One of their commanders argued for finishing them off. The majority saw something better. Here was a weapon that could be pointed at the Mexica.
 
 Tlaxcala made an alliance with Cortés. When he set out again, several thousand Tlaxcalan warriors went with him.
 
@@ -64,7 +64,7 @@ On 8 November 1519 the Spaniards walked in along the southern road. Moctezuma me
 
 It came apart the following spring. Cortés had to hurry to the coast to deal with a Spanish force that the governor of Cuba had sent to arrest him. He left a hot-headed officer in charge. On the coast he surprised the newcomers in a night attack and talked most of them into joining him, which more than doubled his numbers. During a great festival, when the young nobles of the city were dancing unarmed in the temple courtyard, this officer blocked the gates and had them cut down. He said afterwards that he had feared a plot.
 
-The city rose. When Cortés got back, he found his men besieged in their palace. Moctezuma was killed in the confusion. The Spanish said he was hit by stones thrown by his own people, and the Mexica said that the Spaniards murdered him. On a rainy night at the end of June 1520, the Spaniards and their Tlaxcalan allies tried to slip out along the western road. They were seen. Warriors in canoes closed in on both sides of the road, and the bridges had been taken up. More than half the Spaniards died that night, along with several thousand Tlaxcalans. Many of the Spaniards drowned in the gaps, dragged down by the gold they had tied around their bodies.
+The city rose. When Cortés got back, he found his men besieged in their palace. Moctezuma was killed in the confusion. The Spanish said he was hit by stones thrown by his own people, and the Mexica said that the Spaniards murdered him. On a rainy night at the end of June 1520, the Spaniards and their Tlaxcalan allies tried to slip out along the western road. They were seen. Warriors in canoes closed in on both sides of the road, and the bridges had been taken up. Hundreds of Spaniards died that night, along with thousands of Tlaxcalans. Many of the Spaniards drowned in the gaps, dragged down by the gold they had tied around their bodies.
 
 The survivors limped back to Tlaxcala. This was the moment when the conquest could most easily have ended. The Tlaxcalans had only to close their gates, or to hand the battered strangers over to Tenochtitlan in exchange for peace, and ambassadors from the Mexica came to propose exactly that. The council debated it and refused. They had gone too far to trust any peace with their old enemy. They did, however, set a price for their help. They asked for a share of everything taken, for a stronghold in the conquered city, and for freedom from tribute for ever. Cortés agreed.
 
@@ -74,7 +74,7 @@ While the Spaniards rested in Tlaxcala, their most effective ally was already at
 
 One of the men who had landed with the second Spanish force had been carrying smallpox. The disease was old in Europe, Asia and Africa, where most people caught it as children and the survivors could not catch it again. Nobody on the American mainland had ever had it. When it arrived, therefore, whole households fell ill together, the strong adults with the old and the young.
 
-It reached Tenochtitlan in the autumn of 1520 and burned through the city for about two months. The Mexica later described it to a Spanish friar who wrote down their words. Sores covered people's faces, heads and chests, they said, so that the sick could not walk, or lie face down, or turn over. Because everyone in a house was ill at once, there was nobody to fetch water or grind maize, and a great many of those who died were killed by hunger and not by the disease.
+It reached Tenochtitlan in the autumn of 1520 and burned through the city for about two months. The Mexica later described it to a Spanish friar who wrote down their words. Sores covered people's faces, heads and chests, they said, so that the sick could not walk, or lie face down, or turn over. Because everyone in a house was ill at once, there was nobody to prepare food, and a great many of those who died were killed by hunger and not by the disease.
 
 Among the dead was the new emperor, Moctezuma's brother, who had driven the Spaniards out. He had ruled for eighty days. Much of the army's leadership died with him. Nobody counted the victims, but in some towns of the valley half the people were gone by the end of the year.
 
@@ -82,7 +82,7 @@ The disease killed in Tlaxcala too, and among the dead was the old lord who had 
 
 ## Thirteen boats over the mountains
 
-Cortés had learned from the night on the western road that the city could not be taken while the Mexica controlled the lake. He therefore ordered boats. In Tlaxcala, under a Spanish shipwright, native carpenters cut the timbers for thirteen small warships, each about twelve metres long, with a sail, oars and a cannon in the bow. The ships were then taken apart. Eight thousand porters carried the pieces on their backs over the mountains to the lake, a march of some eighty kilometres, in a column that took six hours to pass.
+Cortés had learned from the night on the western road that the city could not be taken while the Mexica controlled the lake. He therefore ordered boats. In Tlaxcala, under a Spanish shipwright, native carpenters cut the timbers for thirteen small warships, each about twelve metres long, with a sail, oars and a cannon in the bow. The ships were then taken apart. Eight thousand porters carried the pieces on their backs over the mountains to the lake, a march of some eighty kilometres, in a column ten kilometres long.
 
 Meanwhile the alliance grew. The second city of the empire, Texcoco, on the eastern shore of the lake, had been the Mexica's partner from the beginning. Its royal family was split by a quarrel over the throne, and one of the princes now brought his followers over to Cortés. With Texcoco came a harbour for the boats and tens of thousands more warriors. Town after town around the lake followed, each calculating that the Mexica were finished and that it was wise to be on the winning side early.
 
@@ -90,7 +90,7 @@ The siege began in May 1521. Cortés had about nine hundred Spaniards by then, s
 
 The first act was to break the stone channel that brought fresh water into the city. The boats then swept the canoes from the lake and cut off the food. After that the allies advanced along the three roads, and it was slow, murderous work. The Mexica fought for every bridge and every rooftop. What the attackers took by day was retaken at night. In the end Cortés adopted a method he said he regretted. As each block of houses was captured, the allies pulled it down and tipped the rubble into the canals, so that horses could cross and there was nothing left to defend. One of the most beautiful cities in the world was taken by being demolished.
 
-The defenders held out for nearly three months, eating lizards, weeds and the leather of their shields, and drinking the salt water of the lake. On 13 August 1521 the last emperor, a nephew of Moctezuma aged about twenty-five, was caught trying to leave by canoe. Tens of thousands had died, most of them from hunger and sickness. The Spaniards wrote that at the end one could not walk in the streets without stepping on the dead.
+The defenders held out for nearly three months, eating lizards, weeds and the leather of their shields, and drinking the salt water of the lake. On 13 August 1521 the last emperor, a cousin of Moctezuma aged about twenty-five, was caught trying to leave by canoe. Tens of thousands had died, most of them from hunger and sickness. The Spaniards wrote that at the end one could not walk in the streets without stepping on the dead.
 
 ## Letters to the king
 
@@ -104,6 +104,6 @@ Other towns had less success. In 1560 the council of Huejotzingo, a neighbour of
 
 Tlaxcala's privileges were whittled away as well. Within a few decades its people were paying tribute in maize like everyone else, and Spanish ranchers were grazing sheep on its fields. The councillors protested each loss in careful legal Spanish, and cited their services of 1521.
 
-By then there were far fewer people on either side of the old quarrel. Smallpox was the first of the new diseases. Measles followed. Then, in 1545 and again in 1576, came two epidemics of fever and bleeding that the Mexicans called the great pestilence, and each killed more than the smallpox had. A century after Cortés landed, the native population of central Mexico was perhaps a tenth of what it had been. The world that the allies had fought to win a place in had emptied out around them.
+By then there were far fewer people on either side of the old quarrel. Smallpox was the first of the new diseases. Measles followed. Then, in 1545 and again in 1576, came two epidemics of fever and bleeding that the Mexicans called the great pestilence, and the first of them killed more than the smallpox had. A century after Cortés landed, the native population of central Mexico was perhaps a tenth of what it had been. The world that the allies had fought to win a place in had emptied out around them.
 
 Tlaxcala is still on the map. It is the smallest of the states of modern Mexico, and its borders run close to where they ran when it was a besieged republic short of salt.
