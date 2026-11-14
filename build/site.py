@@ -21,7 +21,7 @@ PARTS = [
     (1, "I", "Origins", (1, 7)),
     (2, "II", "Conquest", (8, 22)),
     (3, "III", "Faith", (23, 36)),
-    (4, "IV", "Expansion", None),
+    (4, "IV", "Expansion", (37, 47)),
     (5, "V", "Wealth", None),
     (6, "VI", "War", None),
     (7, "VII", "Dominion", None),

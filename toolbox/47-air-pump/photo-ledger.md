@@ -1,0 +1,3 @@
+| File | What it shows | Commons page | Author | Licence |
+|---|---|---|---|---|
+| toolbox/47-air-pump/photo-boyle-engraving.jpg | Engraving of Boyle's air pump from New Experiments Physico-Mechanicall, Touching the Spring of the Air (Commons dates the plate 1661): the receiver on a three-legged stand housing the cylinder, with the rack, stopcock, valve plug and other parts drawn separately. No original Boyle pump is shown; this is his own published figure. Not the file used in chapter 47 (Wright of Derby's painting). Original size, 706x1116 | https://commons.wikimedia.org/wiki/File:Boyle_air_pump.jpg | Robert Boyle (engraving) | Public domain |
