@@ -16,6 +16,9 @@ The war went on for another fourteen years, and Rome won it.
 
 Half a century later, a Greek named Polybius sat down to explain how that could have happened. He was well placed to ask. He was a cavalry officer and politician who had been shipped to Rome as a hostage, one of a thousand leading Greeks taken to guarantee the good behaviour of their cities. He stayed for seventeen years, made friends in the great Roman families, and watched the city at work. As he put it, the Romans had brought almost the whole of the known world under their rule in less than fifty-three years. He thought that nothing like it had happened before, and he wanted to know how they had done it.
 
+![A worn stone relief of a standing man in a cloak, one arm raised, with a round shield at his side](images/polybius_stele.jpg)
+*A cast of a stone relief found at Kleitor in Greece, thought to show the historian Polybius. It is about 2,100 years old. Photo: German Archaeological Institute at Athens, public domain.*
+
 Part of his answer is a list. A few years before Hannibal arrived, the Romans had taken a count of all the men in Italy who could be called up to fight, their own citizens and those of the peoples bound to them. Polybius copied down the totals. They came to seven hundred thousand men on foot and seventy thousand on horseback.
 
 Hannibal had crossed into Italy with twenty-six thousand.
@@ -46,17 +49,26 @@ The arrangement also had a curious effect on Rome itself. Silver can be collecte
 
 The Romans had plenty of other reasons to keep it running. Their leading families competed fiercely for the consulship, and a consul had twelve months in which to make his name. The surest way was to win a victory large enough for the Senate to grant him a triumph, a parade through the city with his soldiers, his prisoners and his loot. A year of peace was, for an ambitious consul, a year wasted. The ordinary citizens who voted for war were mostly farmers, and they voted for it in the hope of plunder and of land.
 
+![Marble relief of a seated clerk writing on a tablet, citizens in togas, and a Roman soldier in mail and a crested helmet on the right](images/census_relief.jpg)
+*A Roman soldier and citizens at a census, from a marble relief on the altar of Domitius Ahenobarbus, made about 2,100 years ago and now in the Louvre, Paris. Photo: unknown photographer, public domain.*
+
 Rome was also generous, by the standards of the age, with its own citizenship. The most striking case was the slave. In a Greek city, a freed slave became a resident foreigner. In Rome, a slave who was formally freed by a citizen became a citizen, and his children could vote and serve in the legions, the citizen regiments of the Roman army.
 
 The Greeks found this astonishing, and one of them said so in a letter that survives. About the time of Cannae, the king of Macedon wrote to a city in northern Greece that had lost many men in war, urging it to enrol more citizens. He pointed to the Romans. They admit even their slaves to citizenship when they free them, he wrote, and in this way they have not only made their own city greater but have sent out colonies to nearly seventy places. The city had the letter carved in stone. Some years later, that same king went to war with Rome and lost.
 
 The colonies he mentioned were the other half of the system. On land taken from the defeated, Rome planted new towns of soldier-farmers, a few thousand families at a time, at river crossings and mountain passes. Each was a fortress that fed itself. Most of these colonies were given the same standing as the old Latin towns, which meant self-government and a fixed quota of soldiers for Rome. The Romans then joined them to the city with roads, built straight and paved with stone so that an army could march along them in any weather.
 
+![A straight stone-paved road running between pine trees and grass, with the ruined core of a tomb beside it](images/via_appia.jpg)
+*A surviving stretch of the Appian Way, a paved Roman road begun about 2,300 years ago, near Casal Rotondo south of Rome. Photo: Livioandronico2013, CC BY-SA 4.0.*
+
 The people who paid for all this were the ones whose land was taken, and the men, Roman and allied, who were called from their farms each spring. An ally had no say in where he was sent. He did not vote for the consul who commanded him or for the war he fought in.
 
 ## A king who won
 
 The first outsider to test the machine was a Greek king named Pyrrhus. About 2,300 years ago a Greek city in the heel of Italy, alarmed at Rome's advance, invited him across the sea to defend it. Pyrrhus was a distant cousin of Alexander and one of the best generals alive. He brought twenty-five thousand professional soldiers and twenty war elephants, animals that no Roman had ever seen.
+
+![A white marble head of a young man wearing a wreath and a helmet with a chin strap](images/pyrrhus_bust.jpg)
+*A marble bust in the National Archaeological Museum in Naples, traditionally identified as King Pyrrhus. Photo: Marie-Lan Nguyen, CC BY 2.5.*
 
 He met the Romans twice in his first two years and beat them both times. Each victory, however, cost him thousands of trained men whom he could not replace, and each time the Romans simply raised another army. After the first battle he offered peace, and the Senate would not hear of it while he stood on Italian soil. After the second, a friend congratulated him, and Pyrrhus is said to have replied that one more victory like that would ruin him. He went off to fight in Sicily instead, came back, was fought to a standstill in a third battle, and sailed home.
 
@@ -71,6 +83,9 @@ Carthage stood on the coast of what is now Tunisia. Settlers from the trading ci
 In almost every respect it was Rome's opposite. Rome was a land power of farmers, and Carthage was a sea power of merchants. More importantly, the two cities found their soldiers in opposite ways. Carthaginian citizens rowed in the fleet, but they were too few to fill an army, and so the city found its soldiers elsewhere. Its officers were Carthaginian. Its infantry included farmers called up from the African peoples it ruled, and its best horsemen were sent by allied African kings. The rest were foreigners who served for wages: infantry from Spain, slingers from the islands and swordsmen from Gaul, the country that is now France.
 
 An army of that kind has real advantages. Much of it is made up of professionals, and it does not take the city's own people from their work. It also has two weaknesses. It lasts only as long as the money, and its losses are slow and costly to replace.
+
+![A small silver coin showing an elephant walking to the right, pinned to blue cloth](images/shekel_elephant.jpg)
+*A silver shekel of Carthage showing an elephant, struck about 2,200 years ago and now in the British Museum, London. Photo: ArchaiOptix, CC BY-SA 4.0.*
 
 The two cities went to war over Sicily about 2,290 years ago, and the Romans soon saw their difficulty. They could beat Carthaginian armies on the island. They could not stop Carthaginian fleets from supplying its ports, or from raiding the coast of Italy. Rome had hardly any warships, and its people had no tradition of the sea.
 
@@ -88,6 +103,9 @@ The Romans built another fleet, and then another. After the third disaster they 
 
 That fleet met the Carthaginians off the western tip of Sicily and sank or captured more than a hundred of their ships. The site of the battle was found on the seabed about fifteen years ago. Divers have since raised more than two dozen bronze rams from it. Several carry Latin inscriptions naming the Roman officials who had inspected and approved them. One carries a prayer in the language of Carthage, asking the god Baal that this ram should go into the enemy ship.
 
+![Three green and brown bronze ship rams with winged blades, lying on sand in a museum case](images/egadi_rams.jpg)
+*Bronze warship rams raised from the seabed off the Egadi Islands, where the battle was fought, shown in an exhibition on Carthage. Photo: Jamie Heath, CC BY-SA 2.0.*
+
 Carthage sued for peace. It gave up Sicily and agreed to pay Rome a large sum in silver over ten years.
 
 Two things followed that mattered more than the treaty. First, Rome now ruled land outside Italy, and it did not extend the Italian bargain to it. Most Sicilian towns were in time made to hand over a tenth of their grain harvest each year. For the first time Rome had subjects who paid instead of serving, and it found the grain very useful.
@@ -100,9 +118,15 @@ The Carthaginian general who finally crushed the mutiny had a son, who was about
 
 The father went to Spain, and there he and his family carved out a new territory for Carthage, rich in silver mines and in tough soldiers for hire. When Hannibal took command of it he was in his twenties, and he had spent most of his life in army camps. About 2,245 years ago, he besieged and captured a Spanish town that had put itself under Rome's protection. Rome demanded that Carthage hand him over. Carthage refused, and both cities had the war they expected.
 
+![Map of the western Mediterranean in 218 BCE with Roman territory in red, Carthaginian lands in purple and the battle sites in Italy marked](images/map_218.png)
+*Rome and Carthage at the start of the war with Hannibal, 218 BCE. Roman territory is red; Carthage and its allies are purple. Map: William Robert Shepherd, modified, CC BY-SA 4.0.*
+
 Hannibal had studied his enemy, and he understood where Rome's strength came from. He knew that he could not match its numbers. His plan was therefore aimed at the alliance. If he could march into Italy and beat the Romans in front of their allies, the allies might decide that their treaties were no longer worth honouring. Each town that changed sides would take its soldiers out of Rome's column and add them to his. Rome without Italy would be one city among many.
 
 Rome controlled the sea by now, and so he went by land. He led his army out of Spain, across the south of Gaul, and over the Alps in late autumn, through snow and along tracks cut into cliffs, with thirty-seven elephants. About half of his men died or deserted on the way. He came down into the plain of northern Italy with twenty thousand infantry and six thousand cavalry. We have those figures because Hannibal later had them inscribed on a bronze tablet, which Polybius went and read.
+
+![Map showing a green line from southern Spain across Gaul and the Alps, down through Italy to Cannae, and then by sea to Zama near Carthage](images/hannibal_route.png)
+*Hannibal's route from Spain over the Alps and down Italy, with the major battles marked. Map: Pinpin, CC BY-SA 3.0.*
 
 The Gauls of northern Italy, whom Rome had lately conquered, joined him by the thousand. In the first winter he smashed one Roman army on the banks of an icy river. The next spring he hid his men in the hills above a lake, on a morning of thick mist, and fell upon a second army as it marched along the shore. Fifteen thousand Romans died there, many of them driven into the water.
 
@@ -149,6 +173,9 @@ Outside Italy, however, Rome did not repeat its Italian method. It made allies a
 Carthage, meanwhile, recovered. It had lost its empire but not its trade, and it paid off its fifty-year debt on time. That prosperity alarmed some Romans more than its armies had. One old senator, who had fought against Hannibal as a young man, took to ending every speech he made, whatever its subject, with the opinion that Carthage must be destroyed.
 
 About 2,170 years ago he got his way. Rome found a pretext and sent an army. The Carthaginians handed over their weapons when ordered to, and then were told to abandon their city and move inland. At that they chose to fight. They held out behind their walls for three years. When the Romans finally broke in, the fighting went from house to house for six days. The fifty thousand people who were left alive were sold as slaves, and the city was burned to the ground.
+
+![A view over two sheltered lagoons among trees and white houses, with the sea and a mountain beyond, and a ruined stone wall in the foreground](images/carthage_ports.jpg)
+*The harbour basins of Carthage, seen from Byrsa hill in Tunisia. The Romans burned the city about 2,170 years ago. Photo: Youssefbensaad, CC BY-SA 4.0.*
 
 Polybius was there. The Roman commander was a grandson, by adoption, of the Scipio who had beaten Hannibal, and Polybius had been his tutor and was now his friend. The two men stood together and watched the fire. Polybius records that the Roman wept, and recited a line of Homer about the day when Troy would fall. When the Greek asked him what he meant, he said that he was thinking of his own city, and that the same thing would one day be said of Rome.
 

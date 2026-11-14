@@ -1,0 +1,15 @@
+# Image ledger: Chapter 23, How did Rome become so powerful?
+
+All files from Wikimedia Commons. Licences read from the Commons API (extmetadata LicenseShortName), not guessed. All files are at most 1600 px on the long side.
+
+| File | What it shows | Commons page | Author | Licence | Caption |
+|---|---|---|---|---|---|
+| egadi_rams.jpg | Three bronze warship rams from the Egadi Islands battle, in the Carthago exhibition | https://commons.wikimedia.org/wiki/File:Carthago_exhibition_-_Aegadi_Rams_(49340681036).jpg | Jamie Heath | CC BY-SA 2.0 | Bronze rams raised from the seabed off the Egadi Islands. |
+| map_218.png | Rome, Carthage and their dominions at the start of the Second Punic War (English labels) | https://commons.wikimedia.org/wiki/File:Map_of_Rome_and_Carthage_at_the_start_of_the_Second_Punic_War_Modified.svg | William Robert Shepherd (modified) | CC BY-SA 4.0 | Rome and Carthage in 218 BCE. |
+| hannibal_route.png | Hannibal's route from Spain over the Alps to Italy and back to Zama (English labels) | https://commons.wikimedia.org/wiki/File:Hannibal_route_of_invasion-en.svg | Pinpin | CC BY-SA 3.0 | Hannibal's route. |
+| shekel_elephant.jpg | Silver shekel of Carthage, elephant side, British Museum | https://commons.wikimedia.org/wiki/File:Carthago_-_213-210_BC_-_silver_shekel_-_head_of_Melqart_-_elefant_-_London_BM_TC-p74-42-Pan.jpg | ArchaiOptix | CC BY-SA 4.0 | Carthaginian shekel with an elephant. |
+| via_appia.jpg | Paved stretch of the Via Appia near Casal Rotondo | https://commons.wikimedia.org/wiki/File:Appian_Way.jpg | Livioandronico2013 | CC BY-SA 4.0 | The Appian Way. |
+| census_relief.jpg | Left part of the census frieze of the altar of Domitius Ahenobarbus, Louvre | https://commons.wikimedia.org/wiki/File:Altar_Domitius_Ahenobarbus_Louvre_n1.jpg | Unknown (Roman, late 2nd century BC) | Public domain | Census frieze with a Roman soldier. |
+| pyrrhus_bust.jpg | Marble bust traditionally identified as Pyrrhus, Naples museum | https://commons.wikimedia.org/wiki/File:Pyrrhus_MAN_Napoli_Inv6150_n01.jpg | Marie-Lan Nguyen | CC BY 2.5 | Bust traditionally identified as Pyrrhus. |
+| polybius_stele.jpg | Cast of the Kleitor relief stele, thought to show Polybius | https://commons.wikimedia.org/wiki/File:Relief_aus_Kleitor.JPG | German Archaeological Institute at Athens | Public domain | Relief thought to show Polybius. |
+| carthage_ports.jpg | The Punic harbour basins of Carthage from Byrsa hill | https://commons.wikimedia.org/wiki/File:Ports_puniques_de_Carthage_depuis_la_colline_de_Byrsa.jpg | Youssefbensaad | CC BY-SA 4.0 | Harbour basins of Carthage. |
