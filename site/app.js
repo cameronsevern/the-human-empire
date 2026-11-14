@@ -20,7 +20,7 @@ const parts = await fetch('parts.json').then((r) => r.json());
   const ul = document.createElement('ul');
   for (const p of parts) {
     const li = document.createElement('li');
-    li.append(`Part ${p.roman}: ${p.title} `);
+    li.append(p.title ? `Part ${p.roman}: ${p.title} ` : `Part ${p.roman} `);
     if (p.released) {
       const b = document.createElement('button'); b.type = 'button'; b.textContent = 'Read'; b.dataset.part = p.n; li.append(b);
       for (const [k, label] of [['pdf', 'PDF'], ['epub', 'EPUB']]) {
@@ -118,7 +118,7 @@ function drawnCover(part) {
     const label = `PART ${part.roman}`.split('').join('  ');
     g.fillText(label, w / 2, 720);
     g.fillStyle = INK; g.font = `italic 400 30px ${SERIF}`;
-    const words = part.title.split(' '); let line = '', y = 772;
+    const words = (part.title || '').split(' '); let line = '', y = 772;
     for (const word of words) {
       if (g.measureText(line + ' ' + word).width > w - 190 && line) { g.fillText(line, w / 2, y); line = word; y += 40; } else line = (line + ' ' + word).trim();
     }
@@ -343,7 +343,9 @@ const OUT_NOW = released.length
   : 'The first part is on its way.';
 function caption(book) {
   $('caption').innerHTML = book
-    ? `<i>Part ${book.part.roman}</i><b>${book.part.title}</b> &nbsp;&middot;&nbsp; ${book.part.released ? 'click to open' : 'not yet released'}`
+    ? (book.part.released
+      ? `<i>Part ${book.part.roman}</i><b>${book.part.title}</b> &nbsp;&middot;&nbsp; click to open`
+      : `<i>Part ${book.part.roman}</i>not yet released`)
     : OUT_NOW;
 }
 caption(null);

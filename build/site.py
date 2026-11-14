@@ -44,7 +44,8 @@ def chapters(first, last, pdf):
 
 data = []
 for n, roman, title, span in PARTS:
-    entry = {"n": n, "roman": roman, "title": title, "released": False}
+    # the title of a part that is not out yet stays off the site: it may still change
+    entry = {"n": n, "roman": roman, "released": False}
     shutil.rmtree(os.path.join(SITE, "pages", str(n)), ignore_errors=True)
     for ext in ("pdf", "epub"):
         old = os.path.join(SITE, "downloads", f"the-human-empire-part-{n}.{ext}")
@@ -66,7 +67,7 @@ for n, roman, title, span in PARTS:
             os.makedirs(os.path.join(SITE, "downloads"), exist_ok=True)
             name = f"the-human-empire-part-{n}"
             shutil.copy(pdf, os.path.join(SITE, "downloads", name + ".pdf"))
-            entry.update(released=True, pages=len(shots), pdf=f"downloads/{name}.pdf",
+            entry.update(released=True, title=title, pages=len(shots), pdf=f"downloads/{name}.pdf",
                          chapters=chapters(span[0], span[1], pdf))
             if os.path.exists(epub):
                 shutil.copy(epub, os.path.join(SITE, "downloads", name + ".epub"))
