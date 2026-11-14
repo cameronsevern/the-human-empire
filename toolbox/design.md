@@ -75,6 +75,11 @@ A chapter can have more than one tool page: if a tool is interesting, it gets a 
 | 31 | The printing block | A page carved once and printed for centuries |
 | 32 | The fire lance | A tube of powder on a spear, the ancestor of the gun |
 | 32 | The compass needle | North and south under a clouded sky |
+| 33 | The sewn ship | A hull held together with coconut cord |
+| 34 | The stirrup | A loop for the foot that steadied the rider |
+| 35 | The salt slab | The cargo that bought the gold |
+| 36 | The knotted cord | Accounts kept in knots, in tens |
+| 36 | The three sisters | Three crops in one mound, each helping the others |
 
 ## Files
 

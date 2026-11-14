@@ -1,0 +1,3 @@
+| File | What it shows | Commons page | Author | Licence |
+|---|---|---|---|---|
+| toolbox/35-salt-slab/photo-salt-slabs.jpg | About a hundred slabs of rock salt standing on edge in three rows on the harbour at Mopti, Mali, November-December 1993, with traders and covered boats behind (ASC Leiden, van Achterberg Collection 04-22). Not the file used in chapter 35. Cropped top and bottom, 1600x833 | https://commons.wikimedia.org/wiki/File:ASC_Leiden_-_van_Achterberg_Collection_-_04_-_22_-_Deux_femmes_et_deux_hommes_%C3%A0_trois_rang%C3%A9es_de_plaques_de_sel_-_Mopti,_Mali_-_Novembre-d%C3%A9cembre_1993.jpg | Angeline A. van Achterberg | CC BY-SA 4.0 |
