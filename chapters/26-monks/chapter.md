@@ -26,6 +26,9 @@ No class took to this bargain as eagerly as the merchants. In the old order of t
 
 The proof is cut into the mountains of western India. There, on the steep roads that lead up from the seaports to the high plateau, stand hundreds of halls and cells carved straight into the cliffs for communities of monks, beginning a little over two thousand years ago. Many carry short inscriptions that name the people who paid for a pillar, a water tank or a doorway. The donors include traders, a perfume seller, a carpenter and the wives of merchants. Several call themselves by the Indian word for Greeks.
 
+![The inside of a long cave hall cut from rock, with two rows of carved pillars, a ribbed vaulted roof like the hull of a ship, and a rounded stone shrine at the far end](images/karla_hall.jpg)
+*The great hall at Karla, in the hills of western India, one of the cave monasteries cut for monks beginning a little over 2,000 years ago. Photo: Mriganka Das, CC BY-SA 4.0.*
+
 The monasteries sat on the trade routes for good reason, and they were useful to the people who used the roads. A walled house of sober men, a day's march from the last one, is a safe place to sleep and to leave goods. It also became a place to keep money. An inscription in one of the caves, about 1,900 years old, records the gift of a nobleman who wished to provide the resident monks with new robes every year. He did not hand over cloth. He deposited two thousand silver coins with a guild of weavers in the nearby town, at an interest of one per cent a month, and directed that the interest should pay for the robes for ever, while the capital was never to be repaid.
 
 The order had found a way to be rich while each of its members stayed poor. A monk was meant to own nothing but his robe and his bowl. The monastery, meanwhile, had an endowment, a lender's income and a legal standing, and unlike a merchant's family it was never divided among heirs.
@@ -40,9 +43,15 @@ The Kushan kings supported every religion they found, as the Persians had, and t
 
 Under the Kushans, the Buddha acquired a face. For several hundred years his followers had not shown him in human form. Sculptors marked his presence with an empty seat, a footprint or a wheel. In the Kushan lands, workshops began to carve him as a man. Many of those workshops stood in the country where Alexander's Greeks had settled, and they worked in the tradition that those settlers had left behind. The Buddhas from that region have wavy hair, straight noses, and robes that fall in heavy folds like the cloak of a Greek philosopher.
 
+![A standing grey stone Buddha with wavy hair in a topknot and a heavy robe falling in deep folds, in front of a round halo](images/gandhara_buddha.jpg)
+*A standing Buddha from Gandhara, carved in the 200s, in a robe that falls like a Greek cloak. Now in the Indian Museum, Kolkata. Photo: SuvadipSanyal, CC BY-SA 3.0.*
+
 In the same centuries the teaching itself was widening. A new school held that the highest goal was to become a being of perfect compassion, who puts off his own release in order to help all others reach theirs. These beings could be prayed to. A merchant setting out across a desert could call on one of them for protection, which is a more practical comfort than a method for extinguishing desire.
 
 From the Kushan lands, the road ran east through the oasis kingdoms around the desert of dunes. Each of them, in turn, acquired monasteries. Merchants from Central Asia carried silk westward along that road, and the monks went eastward against the flow, from house to house. By about the year 150, a few of them had reached the capital of the Han.
+
+![A map of Asia with coloured arrows leading out from the Ganges valley across Central Asia, China, Korea, Japan, Southeast Asia and Sri Lanka, with English labels for places and a key](images/map_buddhism.png)
+*The spread of Buddhism across Asia, with the main routes and the places named in this chapter, such as Gandhara, Dunhuang, Yungang and Longmen. The dates on the map run on far beyond this chapter. Map: Gunawan Kartapranata, CC BY-SA 3.0.*
 
 ## A religion against the family
 
@@ -54,9 +63,18 @@ For as long as the Han dynasty stood, the new religion remained a curiosity, pra
 
 The books still had to be put into Chinese, which was a harder job than it sounds. They were written in the languages of India, which are built quite differently from Chinese, and Chinese had no words for many of the ideas. The greatest of the translators was a monk named Kumarajiva, born in one of the oasis kingdoms to an Indian father and a local princess. A Chinese general carried him off as a prize of war. He spent years as a captive learning Chinese, and in 401 a ruler in the north installed him in the capital with hundreds of assistants. He would recite a text and explain it aloud, the assistants would argue over the wording, and scribes took down the result. His versions are still the ones chanted in China, Korea and Japan.
 
+![A dark bronze statue of a shaven-headed monk in a robe, sitting with one foot raised and his arm resting on his knee, with dry hills and trees behind](images/kumarajiva.jpg)
+*A modern statue of Kumarajiva at the Kizil caves, near Kucha in the oasis country where he was born. Photo: Yoshi Canopus, CC BY-SA 3.0.*
+
 Meanwhile the religion made its peace with the family. Chinese Buddhists taught that merit could be passed on, and that a son who became a monk, or paid for a statue, could earn a better rebirth for his dead parents. In the cave temples cut into the cliffs of the north, thousands of carved inscriptions say the same thing: this image was made by such a person, for the benefit of his father and mother.
 
+![A stone relief of a group of richly dressed women in long robes walking in procession, one carrying a lotus stem, all carved in low relief](images/binyang_donors.jpg)
+*Donors in stone: the empress and her court in procession, carved for the Binyang cave at Longmen about the year 522. The relief is now in a museum in Kansas City. Photo: Daderot, CC0.*
+
 The rulers of the north found their own uses for it. Many of them were foreigners in Chinese eyes, and a foreign religion suited them well. One dynasty of former herders, the Northern Wei, solved the problem of the bow in a single stroke when its chief monk announced that the emperor was himself a living Buddha. Monks could therefore bow to him with a clear conscience. Around 460 the same dynasty had five colossal Buddhas carved into a sandstone cliff near its capital, each taller than a four-storey house, and it is thought that each stood for one of its emperors.
+
+![A huge seated Buddha carved from a sandstone cliff, with a smaller standing figure beside him and rows of tiny Buddhas on the wall behind](images/yungang_20.jpg)
+*Cave 20 at Yungang, near the Northern Wei capital: one of the five colossal Buddhas carved from about the year 460. Photo: Dudva, CC0.*
 
 In the south, one emperor went further than any king before him. Four times he entered a monastery and declared that he was giving himself to it as a servant. Each time his ministers had to buy him back, and on one occasion the price was a hundred million coins.
 
@@ -71,6 +89,9 @@ Twice, in 446 and again in the 570s, a northern emperor lost patience, ordered t
 Meanwhile, six thousand kilometres to the west, people who had never heard of the Buddha were inventing the same institution.
 
 About the year 270, in a village in Egypt, a young farmer named Antony heard a passage from the gospels read aloud in church. If you would be perfect, Jesus says in it, go and sell all that you have and give to the poor. Antony had inherited a good farm from his parents. He gave the land to his neighbours, sold everything else, gave away the money, and went to live alone at the edge of the desert, and later deep inside it, eating bread and salt and fighting off the demons that he believed came to tempt him. He lived to be over a hundred.
+
+![Walls and domed mud-brick buildings of a monastery on bare desert ground, with rocky brown mountains behind](images/antony_monastery.jpg)
+*The Monastery of Saint Antony in the Egyptian desert, with the Galala mountains behind. It is named for Antony, who took to the desert about the year 270; the buildings seen here are much later. Photo: Alena Belova for Exhibo, CC BY-SA 4.0.*
 
 Others followed him by the thousand. The Greek word for someone who lives alone is *monachos*, and it gives us the word monk. A bishop who wrote Antony's life said that the desert had become a city.
 
@@ -88,7 +109,13 @@ In the 370s, a bishop in central Turkey named Basil brought the monks out of the
 
 The rule that mattered most in the western half of the Roman world was written about 530 by an Italian abbot named Benedict, for his monastery on a hilltop between Rome and Naples. It is a short and sensible book. Benedict divides the monk's day among prayer, reading and manual work, because, as he says, idleness is the enemy of the soul. He has the monks elect their abbot, and tells the abbot to call the whole community together before deciding anything important, since the best advice often comes from the youngest. A monk promises to stay in the one house until he dies.
 
+![A large pale monastery with a green dome standing on a wooded hilltop, with blue mountains behind](images/monte_cassino.jpg)
+*Monte Cassino, the hilltop monastery between Rome and Naples where Benedict wrote his rule. The present buildings are much later than his. Photo: DonGatley, CC0.*
+
 One chapter concerns strangers. All guests who arrive, the rule says, are to be received as if they were Christ himself, and the greatest care is to be taken with the poor and with pilgrims. Another chapter puts a sensible old man at the gate, with a room beside it, so that somebody is always there to answer when a traveller knocks.
+
+![An open old book with brown ink writing on pale parchment, a list of chapter headings on the left page, and a large red initial letter and the opening of the text on the right](images/rule_manuscript.jpg)
+*The Rule of Benedict in a copy made at Reichenau between the years 800 and 833, about three centuries after Benedict wrote it. Photo: Zde, CC BY-SA 4.0.*
 
 Women had their own houses from the beginning, in both religions, and for many of them the attraction is easy to see. A girl in the Roman world or in China was married in her teens to a husband chosen by her family, and she could expect to bear children until she died, quite possibly in childbirth. A house of nuns was a respectable way to refuse. Inside it a woman could learn to read, manage property and hold authority. Some of the largest fortunes given to the early churches came from rich Roman widows who founded such houses and then moved in.
 
