@@ -6,6 +6,9 @@ Because the king of Spain had spent it before it arrived. He fought his wars on 
 
 In the town of Cajamarca, in the mountains of northern Peru, there is a stone room about seven metres long and five wide. In November 1532 a man was held prisoner in it. He noticed how his captors looked at gold, and he made them an offer. He stood against the wall, stretched his hand as high above his head as he could reach, and had a line drawn there. In exchange for his freedom, he said, he would fill the room with gold up to that line, and then fill it twice more with silver.
 
+![A square stone building with a single doorway, protected by a white canopy over an excavated site](images/ransom_room.jpg)
+*The stone room at Cajamarca, Peru, where Atahualpa was held prisoner in 1532 and offered to fill it with gold. Photo: Miguel Francisco Rueda Ñañez, CC BY-SA 4.0.*
+
 The prisoner was Atahualpa, ruler of the Inca empire. His captors were a hundred and sixty-eight Spaniards under a captain named Francisco Pizarro. For the next eight months, strings of llamas and porters came down the mountain roads from every part of the empire, carrying cups, plates, statues, jewellery and sheets of gold stripped from the walls of temples.
 
 The Spaniards kept very little of it as it was. They set up nine furnaces and melted nearly all of it into bars, which were easier to count and divide. It came to about six tonnes of gold and nearly twelve of silver. Each horseman received some forty kilograms of gold, which was more than a labourer in Spain could earn in several lifetimes. When the melting was finished, the Spaniards put Atahualpa on trial for plotting against them, and strangled him.
@@ -32,7 +35,13 @@ The treasure of Cajamarca had been collected over centuries, and it could be tak
 
 By the usual account, an Andean man named Diego Huallpa was climbing a bare, cone-shaped mountain when he came upon a ledge of silver ore at the surface. The mountain turned out to be the richest body of silver ore ever found. The Spaniards named it the Rich Hill.
 
+![Black-and-white woodcut of a steep cone-shaped mountain labelled Cero del Potosi above a town of small houses and churches](images/potosi_1553.jpg)
+*The mountain and town of Potosí, printed in Pedro Cieza de León's Chronicle of Peru in 1553, eight years after the silver was found. Source: Wikimedia Commons, public domain.*
+
 It stood in one of the least welcoming places on earth. The foot of the mountain is four thousand metres above the sea, as high as the snowfields of the Alps, and the summit is eight hundred metres higher still. The air has about three-fifths of the oxygen of air at sea level. Nothing grows there but coarse grass, it freezes on most nights, and newcomers are sick for weeks. Every beam, every sack of flour and every jar of wine had to be carried up on the backs of llamas and mules.
+
+![A brown cone-shaped mountain under a blue sky above the red-tiled roofs of a town](images/cerro_rico.jpg)
+*Cerro Rico, the Rich Hill, above the town of Potosí, Bolivia, where silver was found in 1545. Photo: Jbmurray, CC BY-SA 4.0.*
 
 Within a generation there was a city there of more than a hundred thousand people, with dozens of churches, gambling houses and dancing schools. It was larger than Madrid or Rome. Across the Spanish world, to say that something "was worth a Potosí" meant that it was beyond price.
 
@@ -60,9 +69,18 @@ The mercury mine was worse. The men at Huancavelica breathed poisoned dust and f
 
 Most of the silver left Potosí as coins. The mint there stamped them by hand, roughly, with a cross on one side and the king's arms on the other. The standard coin weighed about twenty-seven grams and was worth eight of the small Spanish coins called reales. English speakers called it a piece of eight, and Spaniards called it a peso.
 
+![Front and back of a worn silver coin with a cross and shields, part of its edge missing, beside a measuring scale](images/potosi_8reales.jpg)
+*A piece of eight struck at Potosí in 1676, under Charles II, found on the Isle of Wight, England; part of the edge is missing. Photo: Isle of Wight Council, CC BY-SA 4.0.*
+
 From Potosí the coins and bars went down to the Pacific on llamas, by ship to Panama, across the narrow neck of land on mules, and by ship again to Spain, together with silver from new mines in Mexico. The crossing of the Atlantic was made in convoy. Once or twice a year a fleet of fifty or more merchant ships, guarded by warships, sailed into the river at Seville, and the bars were counted into the royal warehouse.
 
+![Several dark grey silver bars stacked in a museum case beside an information panel](images/atocha_ingots.jpg)
+*Silver ingots salvaged from the Spanish ship Nuestra Señora de Atocha, wrecked in a storm off Florida in 1622; the silver came mostly from present-day Bolivia. Photo: Daderot, public domain.*
+
 A fifth of everything mined belonged to the king. For most of this period the king was Philip II, who ruled from 1556 to 1598 and governed his empire with his own pen, reading and answering reports late into the night. Philip believed that God had given him this wealth for a purpose, which was to defend the Catholic faith. He fought the Ottoman Turks in the Mediterranean. He fought the Protestant Dutch, who had rebelled against him, for the last thirty years of his reign. He sent a fleet of a hundred and thirty ships against Protestant England and lost a third of it.
+
+![Full-length portrait of a young bearded man in decorated gold armour standing beside a table with a red cloth](images/philip_ii.jpg)
+*Philip II of Spain, in armour, painted by Titian in 1551, five years before he became king. Painting: Titian, public domain.*
 
 Wars had to be paid for month by month, and the silver came once a year, if storms and pirates allowed. Philip's soldiers in the Netherlands, moreover, were at the far end of a road that ran from Italy over the Alps for a thousand kilometres. Shipping chests of coin to them was slow and dangerous. The king therefore turned to bankers, as his father had done before him.
 
@@ -90,11 +108,17 @@ On the other side of the world there was a country that had little use for anyth
 
 China under the Ming emperors had about a hundred and fifty million people, more than all of Europe, and the busiest markets on earth. It had once used paper money, but the government had printed so much of it that people stopped trusting it. By the 1500s Chinese merchants, and then the Chinese tax office, had switched to silver, weighed out in lumps. Copper coins still served for small purchases, but anything large, and every tax, was settled in silver. China's own mines were small. A vast economy was thus short of the metal it used for its serious money, and silver was valued accordingly. In China in the late 1500s an ounce of gold could be had for about six ounces of silver. In Spain the same ounce of gold cost twelve.
 
+![A dark silver ingot shaped like a shallow bowl with stamped marks, on a stand with a Chinese label](images/ming_ingot.jpg)
+*A silver ingot from China's Ming dynasty, labelled in the Shanghai Museum as dated to the 31st year of the Jiajing reign, 1552. Photo: Gary Lee Todd, CC0.*
+
 That difference was one of the great business opportunities in history. Anyone who could carry silver to China would find it worth about twice as much on arrival. He could change it for gold, or, better still, spend it on silk and porcelain that sold in Europe and America for several times their cost.
 
 Portuguese ships carried silver east around Africa. The Spaniards found a more direct way. In 1571 they founded a town at Manila, in the Philippines, a few days' sail from the Chinese coast. A sailor-monk had already worked out how to cross the Pacific in both directions, by going west with the tropical winds and returning far to the north on the westerlies, which was the Portuguese turn of the sea on a larger ocean.
 
 From then on, for two and a half centuries, one or two large ships left Acapulco in Mexico each year loaded with pieces of eight. The crossing took three months. At Manila a fleet of Chinese trading junks from the province of Fujian was waiting, and the cargoes changed hands on the beach. The silver went on to China. The galleon turned back for Mexico with silk, porcelain and spices, on a voyage of six months that was the longest and deadliest regular crossing in the world.
+
+![A round blue-and-white porcelain dish painted with deer and plants inside a border of panels](images/kraak_dish.jpg)
+*A blue-and-white kraak dish from Jingdezhen, China, made about 1580 to 1600, the kind of porcelain that Chinese merchants sold for silver. Photo: Faqscl, CC BY-SA 4.0.*
 
 A merchant in Mexico City who sent ten thousand pesos on the galleon could expect to double his money when the silk came back, or better. The king's officials in Seville hated the trade, since it carried American silver straight to Asia without passing through Spain, and they set a legal limit on it. The merchants shipped several times the limit and bribed the inspectors. In some years, as much silver crossed the Pacific as crossed the Atlantic.
 
