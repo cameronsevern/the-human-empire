@@ -198,7 +198,7 @@ Begin on the northern frontier of Han China, facing the Xiongnu, a confederation
 
 ---
 
-## Part III — What survives an empire?
+## Part III — Believers, scholars and merchants
 *Scale: communities that outlast the governments around them.*
 
 ### 19. How Rome recruited its rivals
@@ -553,7 +553,7 @@ Begin in Myanmar in 2017, where hatred of the Rohingya minority spread through a
 
 ---
 
-## Part VIII — The human empire
+## Part VIII — The end of the human empire
 *Scale: the species and the planet. The book's questions are now asked of humanity as a whole.*
 
 ### 85. What does the empire run on?

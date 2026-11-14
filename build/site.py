@@ -19,12 +19,12 @@ RELEASED = {1}     # parts that are public on the site; add a number here when a
 PARTS = [
     (1, "I", "The rise of a species", (1, 7)),
     (2, "II", "Learning to rule strangers", (8, 22)),
-    (3, "III", "What survives an empire?", None),
+    (3, "III", "Believers, scholars and merchants", None),
     (4, "IV", "When distant worlds met", None),
     (5, "V", "Energy, freedom, and industrial empire", None),
     (6, "VI", "The age of mass mobilization", None),
     (7, "VII", "One intertwined world", None),
-    (8, "VIII", "The human empire", None),
+    (8, "VIII", "The end of the human empire", None),
 ]
 
 
