@@ -15,6 +15,10 @@ carries its name, and routes and frontiers differ in line style.
     m.route([(lon, lat), ...], arrow=True)
     m.key([("red", "Roman land"), ...])          # only when names cannot sit on the map
     m.save("chapters/11-bronze/images/map_near_east.png")
+
+A frame may run past 180 degrees east (or -180 west), for a world map centred on the Pacific: the land,
+rivers and lakes are then repeated 360 degrees over, and places beyond 180 east are given as lon + 360
+(Acapulco, at -99.9, is drawn at 260.1).
 """
 import os, warnings
 import numpy as np
@@ -25,6 +29,8 @@ from matplotlib.patches import Polygon as MplPoly, Rectangle, Patch
 from matplotlib.lines import Line2D
 from matplotlib import patheffects as pe
 from shapely.geometry import box
+from shapely.affinity import translate
+from shapely.ops import unary_union
 warnings.filterwarnings("ignore")
 import geopandas as gpd
 
@@ -83,7 +89,10 @@ class Map:
         for s in ax.spines.values():
             s.set_edgecolor(INK); s.set_linewidth(1.8)
         self.clip = box(west - 2, south - 2, east + 2, north + 2)
-        land = _land.intersection(self.clip)
+        # repeat the world 360 degrees over when the frame runs past the date line
+        self.offs = [0] + ([360] if east > 180 else []) + ([-360] if west < -180 else [])
+        self.land = _land if self.offs == [0] else unary_union([translate(_land, xoff=o) for o in self.offs])
+        land = self.land.intersection(self.clip)
         for p in getattr(land, "geoms", [land]):
             if p.is_empty or p.geom_type != "Polygon":
                 continue
@@ -93,12 +102,20 @@ class Map:
         if lakes:
             span = east - west
             for _, r in _lakes.iterrows():
-                g = r.geometry.intersection(self.clip)
-                if g.is_empty or (r.get("scalerank", 0) or 0) > (1 if span > 60 else 3):
+                if (r.get("scalerank", 0) or 0) > (1 if span > 60 else 3):
+                    continue
+                g = self._wrap(r.geometry)
+                if g.is_empty:
                     continue
                 for p in getattr(g, "geoms", [g]):
                     if p.geom_type == "Polygon":
                         ax.add_patch(MplPoly(np.array(p.exterior.coords), closed=True, fc=SEA, ec=SHORE, lw=0.7, zorder=1.2))
+
+    def _wrap(self, g):
+        """A geometry clipped to the frame, with its copies 360 degrees over if the frame needs them."""
+        if self.offs == [0]:
+            return g.intersection(self.clip)
+        return unary_union([translate(g, xoff=o).intersection(self.clip) for o in self.offs])
 
     # ------------------------------------------------------------------ features
     def river(self, *names, lw=1.6, en=False):
@@ -114,7 +131,7 @@ class Map:
             if rows.empty:
                 print("no river named", name)
             for g in rows.geometry:
-                g = g.intersection(self.clip)
+                g = self._wrap(g)
                 for line in getattr(g, "geoms", [g]):
                     if line.is_empty or line.geom_type != "LineString":
                         continue
@@ -127,7 +144,7 @@ class Map:
         c = smooth(pts, n=smooth_n, closed=True)
         poly = Polygon(c).buffer(0)
         if land_only:
-            poly = poly.intersection(_land)
+            poly = poly.intersection(self.land)
         fc = FILL.get(colour, colour)
         for p in getattr(poly, "geoms", [poly]):
             if p.is_empty or p.geom_type != "Polygon":

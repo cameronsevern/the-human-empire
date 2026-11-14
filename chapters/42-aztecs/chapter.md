@@ -65,6 +65,9 @@ The Spaniards called her Marina, and the Mexicans called her Malintzin. She was 
 
 On the coast, the local people complained to Cortés about the tax collectors of Tenochtitlan, and from them he learned how the empire worked. He marched inland towards the capital, and his road led through Tlaxcala.
 
+![Two maps of central Mexico. Above, the route of Cortés's march in 1519 from Veracruz on the Gulf coast inland to Tlaxcala and Tenochtitlan. Below, a closer view of the last stage, from Tlaxcala by Cholula and Huejotzingo over the pass between the volcanoes Popocatépetl and Iztaccíhuatl, and the lake, with Tenochtitlan on its island joined by three causeways to Tepeyac, Tlacopan and Iztapalapa, and Texcoco on the eastern shore](images/map_mexico_1519.png)
+*Cortés's march from the coast to Tenochtitlan in 1519. Below, the Valley of Mexico, with the lake drawn roughly as it was in 1519, and the island city with its three raised roads. Map: drawn for this book; coastlines and rivers from Natural Earth, public domain.*
+
 The Tlaxcalans attacked him. They fought the Spaniards for two weeks, by day and by night, and the Spaniards barely survived. Then the council of Tlaxcala stopped to think. These strangers were few, and they could be killed. On the other hand, they fought like nothing the Tlaxcalans had met before, they did not tire of saying that they were on their way to Tenochtitlan, and they were asking for peace. One of their commanders argued for finishing them off. The majority saw something better. Here was a weapon that could be pointed at the Mexica.
 
 Tlaxcala made an alliance with Cortés. When he set out again, several thousand Tlaxcalan warriors went with him.
