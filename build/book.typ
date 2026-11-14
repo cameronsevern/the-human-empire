@@ -181,13 +181,12 @@
 }
 
 #let section(title) = {
-  v(5mm, weak: true)
-  block(width: 100%, sticky: true, align(center, {
+  // clear space above a section heading, so the old section visibly ends before the new one starts
+  block(width: 100%, sticky: true, above: 8mm, below: 3.2mm, align(center, {
     caps(size: 8.6pt, tracking: 1.8pt, title)
     v(-1.6mm)
     flourish(width: 22mm, colour: soft)
   }))
-  v(2mm, weak: true)
 }
 
 // a figure floats to the top or bottom of a page, so text fills the space around it.

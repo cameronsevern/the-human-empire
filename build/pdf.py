@@ -107,7 +107,7 @@ def chapter(n):
     def flush():
         nonlocal held, indent_next
         if held is not None:
-            out.append('#block(breakable: false)[\n' + '\n'.join(held) + ']\n')
+            out.append('#block(breakable: false, above: 8mm)[\n' + '\n'.join(held) + ']\n')   # space before a new section
             indent_next = len(held) > 1
             held = None
 
