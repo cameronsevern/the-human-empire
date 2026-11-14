@@ -22,7 +22,7 @@ It came to a head over the appointing of bishops. A bishop in those centuries wa
 
 In January 1077, the king crossed the Alps in midwinter to a castle in northern Italy where the pope was staying. For three days he stood at the gate, barefoot in the snow, in the rough woollen shirt of a penitent, until the pope let him in and lifted the sentence. A few years later, when the king's position had recovered, he marched on Rome and drove the same pope into exile. Each side had learned that it was able to wound the other, and that it lacked the means to finish the matter.
 
-The pope who launched the crusade, Urban, came to office in the middle of this struggle, with a rival pope appointed by the German king sitting in Rome. He badly needed to show that the bishop of Rome was the true leader of the Christian world.
+The pope who launched the crusade, Urban, came to office in the middle of this struggle, with a rival pope appointed by the German king holding much of Rome. He badly needed to show that the bishop of Rome was the true leader of the Christian world.
 
 He also had a second problem, which concerned the knights. Since Charlemagne's time the decisive weapon in the west had been the armoured horseman. A warrior in a mail coat, braced in his saddle by stirrups and carrying a heavy lance, could ride down most things on foot. His horse and gear cost as much as a small farm, and he had to train from boyhood. The lords of Europe paid for such men by granting them land, and housed them in castles, which had spread across the countryside by the thousand.
 
@@ -34,7 +34,7 @@ Far to the east, the other Roman Empire was in trouble.
 
 The emperors in Constantinople had survived the Arab conquests, shorn of Egypt and Syria, and by the year 1000 they were again the strongest Christian power in the world. Then a new people arrived from the steppe. The Turks were mounted herders from Central Asia, kin in their way of life to the Xiongnu and the Huns. As they moved south they became Muslims, and in 1055 one of their clans took control of Baghdad and made its chief the protector of the caliph, with the title of sultan.
 
-In 1071 a Turkish army met the main Roman army in the far east of what is now Turkey, defeated it, and captured the emperor. In the civil wars that followed, bands of Turkish herders rode onto the high plateau of the country with their flocks and stayed. That plateau had supplied most of the empire's soldiers and much of its food. Within twenty years the Turks held towns within sight of Constantinople.
+In 1071 a Turkish army met the main Roman army in the far east of what is now Turkey, defeated it, and captured the emperor. In the civil wars that followed, bands of Turkish herders rode onto the high plateau of the country with their flocks and stayed. That plateau had supplied most of the empire's soldiers and much of its food. Within twenty years the Turks held towns within a few days' march of Constantinople.
 
 The emperor who inherited this disaster, Alexios, was a capable soldier with a shrunken army. For years he had been hiring heavy cavalry from the west, where such men were plentiful, and they had served him well. In the spring of 1095 his envoys attended a church council in Italy, at which Pope Urban presided, and asked for help against the Turks. Relations between the eastern and western churches were poor, since each had condemned the other's leaders forty years earlier, but Alexios was a practical man. What he had in mind, as far as can be told, was a body of knights who would take his pay, swear him an oath, and serve under his generals.
 
@@ -50,7 +50,7 @@ The knight's dilemma was solved in a sentence. The violence that had been endang
 
 Those who vowed to go sewed a cross of cloth on the shoulder of their clothes. The word "crusade" comes from that cross, though it was not coined until much later. At the time they called it the journey, or the pilgrimage.
 
-Urban had expected a force of knights under the great lords, to leave the following August after the harvest. The response went far beyond that. Wandering preachers carried the message to people he had never intended to call. The most famous was a small, barefoot man named Peter, who rode a donkey and was said to carry a letter from heaven. In the spring of 1096, months ahead of the knights, tens of thousands of peasants and townspeople with their wives and children set off behind him towards the east.
+Urban had expected a force of knights under the great lords, to leave the following August after the harvest. The response went far beyond that. Wandering preachers carried the message to people he had never intended to call. The most famous was a small, barefoot man named Peter, who rode a donkey and said that Christ had appeared to him and told him to preach. In the spring of 1096, months ahead of the knights, tens of thousands of peasants and townspeople with their wives and children set off behind him towards the east.
 
 ## The enemy nearer home
 
@@ -66,11 +66,11 @@ The pope had asked for none of this, and the church's own law forbade forcing an
 
 ## Barbarians at dinner
 
-The peasant armies reached Constantinople in the late summer. The emperor shipped them across the strait as fast as he could, and the Turks slaughtered them within weeks.
+The peasant armies reached Constantinople in the late summer. The emperor shipped them across the strait as fast as he could, and the Turks slaughtered them within three months.
 
 The armies of the lords arrived over the following winter and spring, by several roads. There were four main forces, under Godfrey and other great nobles of France and of the Normans who had conquered southern Italy. Together they came to perhaps sixty thousand people, of whom about seven thousand were knights.
 
-The emperor's daughter, Anna, was thirteen at the time, and half a century later she wrote a history of her father's reign in which the westerners appear as a natural disaster. They came, she says, like rivers flowing together from every side, more numerous than the grains of sand. She found them brave, greedy, talkative and unable to keep their word. One of their leaders, a Norman named Bohemond, had spent years trying to conquer her father's empire and now presented himself as its ally. Another knight, at an audience in the palace, sat down on the emperor's own throne.
+The emperor's daughter, Anna, was thirteen at the time, and half a century later she wrote a history of her father's reign in which the westerners appear as a natural disaster. They came, she says, in numbers beyond the stars of heaven or the sand of the seashore. She found them brave, greedy, talkative and unable to keep their word. One of their leaders, a Norman named Bohemond, had spent years trying to conquer her father's empire and now presented himself as its ally. Another knight, at an audience in the palace, sat down on the emperor's own throne.
 
 Alexios dealt with them as well as anyone could have. He received each leader separately, gave him presents, and required him to swear that any city he captured that had once belonged to the empire would be handed back. Then he ferried them over to Asia before the next contingent arrived. He had asked for hired soldiers under his own command. What had come was an independent army, larger than his own, that believed it took its orders from God.
 
@@ -78,15 +78,15 @@ Alexios dealt with them as well as anyone could have. He received each leader se
 
 The crossing of Turkey took the crusaders four months, through a summer in which horses died of thirst and knights rode oxen. In October 1097 they reached Antioch, the great walled city of northern Syria, and sat down outside it for the winter. Food ran out. A Frankish writer who was there says that the poor ate the hides of animals and the seeds they found in dung. Men deserted, including some of the leaders. In June a guard inside the city was bribed to open a tower, and the crusaders took Antioch, only to be shut up in it three days later by a Turkish relief army.
 
-They were starving and trapped. A poor pilgrim announced that Saint Andrew had appeared to him and revealed that the lance which pierced Christ's side lay buried under the floor of a church in the city. They dug, and towards evening a piece of iron was found. Not all the leaders believed in it. The army did. A few days later they marched out of the gates behind the relic, half of them on foot because their horses were dead, and broke the Turkish army in a morning.
+They were starving and trapped. A poor pilgrim announced that Saint Andrew had appeared to him and revealed that the lance which pierced Christ's side lay buried under the floor of a church in the city. They dug, and towards evening a piece of iron was found. Not all the leaders believed in it. The army did. Two weeks later they marched out of the gates behind the relic, half of them on foot because their horses were dead, and broke the Turkish army in a morning.
 
 The emperor, meanwhile, had set out to join them, met some of the deserters on the road, was told that all was lost, and turned back. The crusaders considered that this released them from their oath, and Bohemond kept Antioch for himself.
 
-A year later, in June 1099, what was left of the expedition came in sight of Jerusalem. About twelve hundred knights and twelve thousand foot soldiers remained. The city was held by a garrison from Egypt. The crusaders built two siege towers out of timber brought from the coast, and on 15 July they got a tower against the wall and broke in.
+A year later, in June 1099, what was left of the expedition came in sight of Jerusalem. About twelve hundred knights and twelve thousand foot soldiers remained. The city was held by a garrison from Egypt. The crusaders built two siege towers out of timber hauled in from many kilometres away, and on 15 July they got a tower against the wall and broke in.
 
 Then they killed nearly everyone they found. The Muslims of the city were cut down in the streets and in the great mosque on the platform where the Jewish Temple had once stood, where many had fled. The Jews were burned in their synagogue. A priest who was with the army wrote that in that mosque, which the crusaders called the Temple, men rode in blood up to their knees and the bridles of their horses. He was borrowing a phrase from the Bible, and he was boasting. The victors then went, weeping with joy, to give thanks at the church built over the tomb of Christ.
 
-Godfrey was chosen to rule the city. Most of the survivors, having fulfilled their vow, went home. Those who stayed held a few hundred knights among them. Over the next ten years they and later arrivals pieced together four small states, three along the coast of Syria and Palestine and one inland.
+Godfrey was chosen to rule the city. Most of the survivors, having fulfilled their vow, went home. Those who stayed held a few hundred knights among them. Over the next ten years they and later arrivals pieced together four small states, strung from the upper Euphrates down to the edge of Egypt.
 
 ## One more invader
 
@@ -110,7 +110,7 @@ In July 1187 the king of Jerusalem marched his whole army, some twenty thousand 
 
 Jerusalem had almost no defenders left, and it surrendered three months later. The people inside remembered 1099 and expected the same. Saladin gave them terms instead. Every man could buy his freedom for ten gold coins, every woman for five, and every child for one, and those who paid were escorted to the coast. Thousands who could not pay were let go without payment by Saladin and his brother. Several thousand others were sold as slaves. There was no massacre, and the church of the tomb was left open to Christian pilgrims for a fee.
 
-An earlier expedition led by two kings, forty years before, had achieved nothing. The loss of the city now brought the kings of western Europe east again. The king of England, Richard, proved a better general than any Saladin had faced, and retook the coast. He never managed to take Jerusalem, and after a year of fighting, the two men, who had not once met, agreed to a truce. The Christians would keep the ports, the Muslims would keep the city, and unarmed pilgrims would be allowed to visit it. Saladin died a few months later. His secretary recorded that the treasury of the man who had ruled from the Nile to the Tigris held one piece of gold and forty-seven of silver, since he had given the rest away.
+An earlier expedition led by two kings, forty years before, had achieved nothing. The loss of the city now brought the kings of western Europe east again. The king of England, Richard, proved a better general than any Saladin had faced, and retook the coast. He never managed to take Jerusalem, and after more than a year of fighting, the two men, who had not once met, agreed to a truce. The Christians would keep the ports, the Muslims would keep the city, and unarmed pilgrims would be allowed to visit it. Saladin died a few months later. One of his officials recorded that the treasury of the man who had ruled from the Nile to the Tigris held one piece of gold and forty-seven of silver, since he had given the rest away.
 
 ## Four bronze horses
 
@@ -124,6 +124,6 @@ Then a young prince of Constantinople arrived in the camp. His father, the emper
 
 The crusaders were camped outside the richest city in Christendom, owed a fortune by a dead man. In April 1204 they attacked. They got over the sea walls from the masts of the Venetian ships, and for three days they sacked the city that Urban's crusade had been called to defend. A senator of Constantinople who lived through it wrote that even the Muslims had been merciful by comparison with these men who carried the cross of Christ on their shoulders. Churches were stripped of their gold, and their relics were shared out like any other plunder.
 
-The victors divided the empire among themselves. It was restored in a reduced form sixty years later, and it never recovered its strength. The barrier that had stood between Europe and the powers of the east for eight hundred years had been broken by Christians.
+The victors divided the empire among themselves. It was restored in a reduced form nearly sixty years later, and it never recovered its strength. The barrier that had stood between Europe and the powers of the east for eight hundred years had been broken by Christians.
 
 The Venetians took their share in the form of trading ports, islands and works of art. Among the last were four life-sized horses of gilded bronze, already ancient, that had stood over the starting gates of the city's racecourse. They were shipped home and set up above the main door of the church of Saint Mark, where copies of them stand today.

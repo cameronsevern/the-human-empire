@@ -4,7 +4,7 @@
 
 The usual answer is Mansa Musa, who ruled the empire of Mali in West Africa seven hundred years ago, and it is as good an answer as any. He owned no gold mines. He controlled the markets where the gold of West Africa was exchanged for the salt of the Sahara, and he taxed everything that passed through them.
 
-In 1375, a Jewish mapmaker on the island of Majorca finished an atlas for the king of Aragon. It was painted on sheets of vellum mounted on wooden boards, and it showed what the merchants and sailors of the western Mediterranean knew or had heard about the world, from the Atlantic to China.
+In 1375, a Jewish mapmaker on the island of Majorca finished an atlas, which the king of Aragon sent as a present to the king of France. It was painted on sheets of vellum, and it showed what the merchants and sailors of the western Mediterranean knew or had heard about the world, from the Atlantic to China.
 
 Most of Africa on that map is empty. South of the Atlas mountains the painter has drawn a few oases and a man in a veil riding a camel. Below them, in the middle of the blank, sits a Black king on a throne. He wears a heavy gold crown and holds a gold sceptre in one hand. In the other, he lifts up a lump of gold the size of an orange, as if offering it to the rider. A caption beside him says that this lord is called Musa of Mali, that he is the ruler of the Black people of Guinea, and that he is the richest and noblest lord in all that region, because of the abundance of gold that is gathered in his land.
 
@@ -20,7 +20,7 @@ The best description of the crossing comes from a Moroccan named Ibn Battuta, th
 
 South of the salt mine lay ten days without water, and then a last well. From there, he explains, the custom was to hire a man of the desert people to ride ahead alone to the first town on the southern side. There he arranged for people to come out four days into the desert with water to meet the caravan. If the messenger died on the way, nobody came, and most of the caravan died too. Ibn Battuta's messenger got through.
 
-The salt was worth the journey because of a simple fact of geography. Most of the inland savanna and forest of West Africa has no rock salt. People who work in tropical heat lose salt in their sweat every day and have to replace it or sicken, and their cattle need it as well. The Sahara, by contrast, has beds of pure rock salt lying just under the sand, left by lakes that dried up thousands of years ago. A slab weighed thirty or forty kilograms, and a camel carried two. Arab writers reported that in the far south, where the gold came from, salt was so precious that it was exchanged for gold weight for weight. That was a traveller's tale, but the fact behind it was real. The price of a slab multiplied several times between the mine and the southern markets.
+The salt was worth the journey because of a simple fact of geography. Most of the inland savanna and forest of West Africa has no rock salt. People who work in tropical heat lose salt in their sweat every day and have to replace it or sicken, and their cattle need it as well. The Sahara, by contrast, has beds of pure rock salt lying just under the sand, left by lakes that dried up thousands of years ago. A camel carried two slabs. Arab writers reported that in the far south, where the gold came from, salt was so precious that it was exchanged for gold weight for weight. That was a traveller's tale, but the fact behind it was real. The price of a slab multiplied several times between the mine and the southern markets.
 
 ## Nuggets for the king
 
@@ -30,7 +30,7 @@ Those farmers ran the diggings themselves, under their own village chiefs. The k
 
 Between the miners in the south and the caravans from the north lay a belt of grassland, and whoever ruled that belt held the meeting point. The first state to do so was called Ghana. It lay in what is now the south of Mauritania and the west of Mali, a long way from the modern country that has borrowed its name, and it was at its height from about 800 to 1100.
 
-Almost everything written about it comes from a geographer in Muslim Spain who never left home and who collected the reports of merchants. He wrote in 1068. The capital, he says, consisted of two towns about ten kilometres apart. One was the merchants' town, with stone houses and twelve mosques, where the traders from the north lived. The other was the king's town, with a sacred grove where the priests of the old religion kept their shrines. The king himself was no Muslim, though his treasurer and most of his ministers were.
+Almost everything written about it comes from a geographer in Muslim Spain who never left home and who collected the reports of merchants. He wrote in 1068. The capital, he says, consisted of two towns about ten kilometres apart. One was the merchants' town, with twelve mosques, where the traders from the north lived. The other was the king's town, with a sacred grove where the priests of the old religion kept their shrines. The king himself was no Muslim, though his treasurer and most of his ministers were.
 
 When the king gave audience, the geographer goes on, he sat in a domed pavilion. Around it stood ten horses in cloths of gold. Behind him stood ten pages holding shields and swords mounted in gold, and on his right the sons of his vassal kings, with gold plaited into their hair. The door was guarded by dogs wearing collars of gold and silver.
 
@@ -48,11 +48,11 @@ His successors, who bore the title *mansa*, pushed their rule west to the Atlant
 
 ## Twelve years of cheap gold
 
-Musa came to the throne of Mali about 1312. According to the account that he gave of it later, his predecessor had become convinced that the ocean to the west must have a far shore. The king fitted out a fleet of canoes with water and provisions, sailed off into the Atlantic at the head of it, and was not seen again.
+Musa came to the throne of Mali about 1312. According to the account that he gave of it later, his predecessor had become convinced that the ocean to the west must have a far shore. The king sent out a fleet of canoes with water and provisions. When a single boat came back, he fitted out a far larger fleet, sailed off into the Atlantic at the head of it, and was not seen again.
 
 Musa was a devout Muslim, as the rulers of Mali had been for several generations. In 1324 he set out to perform the pilgrimage to Mecca, a journey of more than six thousand kilometres each way. He travelled as a king, and he took with him enough gold to pay his way in a style that nobody along the route would forget.
 
-The chroniclers of Timbuktu, writing three centuries later, tell of five hundred slaves walking ahead of his horse, each carrying a staff of gold. The best evidence comes from Cairo, where the caravan rested for three months. An official of the Egyptian government, who arrived in the city twelve years afterwards, found that people were still talking about the visit, and wrote down what they told him.
+The chroniclers of Timbuktu, writing three centuries later, tell of five hundred slaves walking ahead of his horse, each carrying a staff of gold. The best evidence comes from Cairo, where the caravan rested for three months. An official of the Egyptian government, who was in the city twelve years afterwards, found that people were still talking about the visit, and wrote down what they told him.
 
 Musa, they said, had flooded the city with his generosity. There was not an officer of the court or a holder of any post who had not received a load of gold from him. His followers bought cloth, slaves and singing girls in the markets and paid whatever was asked. So much gold was spent and given away that its price in Cairo fell, so that a gold coin bought fewer silver ones than before, and twelve years later it had not recovered. Cairo was then the largest city in the Muslim world and the money market of the Mediterranean, and a visitor from beyond the Sahara had upset its currency.
 
@@ -74,15 +74,15 @@ His book mentions, in passing, the other cargo of the desert road. When he went 
 
 ## Cattle against guns
 
-In the 1400s, Mali weakened, and its place was taken by a state further down the river. The Songhai were a people of boatmen and fishermen from the eastern side of the Niger bend. In the 1460s their king, a ruthless soldier with a fleet of war canoes, captured Timbuktu and the other river ports one after another. His successors ruled the largest empire that West Africa had yet seen, about the size of western Europe, with a standing army and a salaried administration. They drew their wealth from the same source as the kings of Ghana and Mali before them.
+In the 1400s, Mali weakened, and its place was taken by a state further down the river. The Songhai were a people of boatmen and fishermen from the eastern side of the Niger bend. In the 1460s their king, a ruthless soldier with a fleet of war canoes, captured Timbuktu and the other river ports one after another. His successors ruled the largest empire that West Africa had yet seen, more than twice the size of France, with a standing army and a salaried administration. They drew their wealth from the same source as the kings of Ghana and Mali before them.
 
 Their neighbours on the far side of the desert had watched that wealth for a long time. In 1590 the sultan of Morocco, who had destroyed a Portuguese invasion a dozen years earlier and was short of money, decided to take the gold trade at its source. His advisers told him that no army could cross the Sahara. He replied that if merchants could cross it, so could soldiers, and that the people of the south fought with spears and swords and had never faced firearms.
 
-He sent about four thousand men, under a commander who had been born a Christian in Spain. Roughly half of them carried muskets, and many of those were Spaniards and other Europeans in Moroccan service. Eight thousand camels carried their powder, their shot and several small cannon. The crossing took about five months, and a large part of the force died on the way.
+He sent about four thousand men, under a commander who had been born a Christian in Spain. More than a third of them carried muskets, and many of those were Spaniards and other Europeans in Moroccan service. Eight thousand camels carried their powder, their shot and several small cannon. The crossing took about four months, and a large part of the force died on the way.
 
 In March 1591, the survivors met the army of Songhai on the bank of the Niger. It outnumbered them several times over and included thousands of armoured horsemen. The Songhai commanders had heard of guns and had devised a plan. They drove a herd of a thousand cattle ahead of their line, to break up the Moroccan ranks and soak up the bullets. The first volleys, however, terrified the animals. The herd turned and stampeded back through the Songhai army. The battle was over within hours, and the empire did not survive it.
 
-The victory gained Morocco very little. The sultan's men held Timbuktu and the river towns, but beyond them the empire dissolved into a patchwork of small states and the roads became unsafe. The gold fields, as ever, remained out of reach, and less gold came north after the conquest than before it.
+The victory gained Morocco very little. The sultan's men held Timbuktu and the river towns, but beyond them the empire dissolved into a patchwork of small states and the roads became unsafe. The gold fields, as ever, remained out of reach, and the conquest cost Morocco more than the gold it brought.
 
 For a century, moreover, Portuguese ships had been anchoring off the shore of what is now Ghana and buying gold from African traders who had brought it down from the forest. The traders of the forest now had a second customer, who did not have to cross a desert. The gold of West Africa had begun to flow towards the sea.
 

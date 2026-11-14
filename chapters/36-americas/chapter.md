@@ -8,7 +8,7 @@ In a river valley in the east of Guatemala, among banana plantations, stand the 
 
 For a long time nobody could read the signs. Today they can be read almost as easily as Latin, and on several of the stones they tell the same story. Quiriguá had been a minor town, subject to a much greater city called Copán, fifty kilometres to the south. Its ruler had been installed by the king of Copán and owed him obedience. Then, on a day that the text gives exactly, the ruler of Quiriguá captured his overlord. Six days later he had him beheaded.
 
-The day works out, in our calendar, as the third of May in the year 738. The victorious ruler lived for another forty-seven years. He celebrated by setting up larger and larger monuments, and the tallest of them stands more than ten metres high, weighs about sixty tonnes, and is the biggest stone the Maya ever raised.
+The day works out, in our calendar, as the third of May in the year 738. The victorious ruler lived for another forty-seven years. He celebrated by setting up larger and larger monuments, and the tallest of them measures more than ten metres from its top to its buried foot, weighs about sixty tonnes, and is the biggest stone the Maya ever raised.
 
 In 738, Charlemagne's grandfather was ruling the Franks, the caliphs of Damascus held an empire from Spain to the Indus, and the Tang court was at the height of its splendour. None of those people knew that the continent where Quiriguá stands existed, and nobody at Quiriguá knew of them. People had first walked into the Americas more than fifteen thousand years earlier, and the sea had then risen behind them. From that time on, the two halves of humanity had gone their separate ways.
 
@@ -44,7 +44,7 @@ The Maya had no empire. Every large city was a kingdom of its own, ruled by a dy
 
 The holy lord's first duty was to keep the world in order through ritual, and the most important offering was his own blood. A carved stone panel from a city on the western rivers shows how it was done. A king stands holding a flaming torch. In front of him kneels his queen, in a magnificent woven robe, pulling a rope studded with thorns through a hole in her tongue. The blood falls onto strips of bark paper in a basket, which will be burned so that the smoke can carry it to the gods.
 
-The Maya were not the largest power of their time in the region. A thousand kilometres to the west, in the high valley where Mexico City now stands, lay a city of a hundred thousand people, laid out on a grid along an avenue several kilometres long, with a pyramid as broad at its base as the largest in Egypt. Its people lived in walled apartment blocks of stone. Its soldiers or its merchants reached far into the Maya country, and in 378, as inscriptions there record, strangers from the west arrived at the greatest Maya city on the very day that its king died, and put a new dynasty on the throne. That western city left no writing that can be read. Nobody knows what language its people spoke or what they called it. The name by which it is known, Teotihuacan, was given to its ruins by people who came there centuries after it had burned.
+The Maya were not the largest power of their time in the region. A thousand kilometres to the west, in the high valley where Mexico City now stands, lay a city of a hundred thousand people, laid out on a grid along an avenue about two kilometres long, with a pyramid as broad at its base as the largest in Egypt. Its people lived in walled apartment blocks of stone. Its soldiers or its merchants reached far into the Maya country, and in 378, as inscriptions there record, strangers from the west arrived at the greatest Maya city on the very day that its king died, and put a new dynasty on the throne. That western city left no writing that can be read. Nobody knows what language its people spoke or what they called it. The name by which it is known, Teotihuacan, was given to its ruins by people who came there centuries after it had burned.
 
 ## A shell for nothing
 
@@ -52,7 +52,7 @@ The Maya were obsessed with time. Every day belonged to two cycles at once, one 
 
 To write such figures the Maya used a method that will sound familiar. They had three signs. A dot meant one, a bar meant five, and combinations of the two gave every number up to nineteen. For anything larger, they used position. Counting on fingers and toes, they worked in twenties where we work in tens, and each place in a number was worth twenty times the place below it. In the count of days they bent the rule once, making the third place worth eighteen times the second, so that it came to three hundred and sixty days, close to a year. A system of positions needs a sign for an empty place. The Maya had one, a drawing of a shell.
 
-They were using it by the fourth century at the latest, and the count of days it served goes back at least four hundred years before that. This zero owed nothing to India, of which the Maya had never heard. Two peoples on opposite sides of the world, faced with the same problem, had found the same solution.
+They were using it by the fourth century at the latest, and the count of days it served goes back nearly four hundred years before that. This zero owed nothing to India, of which the Maya had never heard. Two peoples on opposite sides of the world, faced with the same problem, had found the same solution.
 
 With these tools, Maya astronomers followed the sun, the moon and the planet Venus over centuries. One of their tables predicts the appearances of Venus as morning and evening star, and with the corrections that its makers built in, it keeps step with the planet for centuries.
 
@@ -62,11 +62,11 @@ That table survives in a book, a long strip of bark paper coated with plaster an
 
 In the ninth century, the cities of the southern forest fell silent one after another.
 
-The evidence is the dates. A Maya king marked the turning points of his reign with a carved and dated stone. In city after city, the stones stop. At Copán, a monument begun in 822 was left unfinished, with one side carved and the others blank. The last dated inscription from the old heartland was carved in 909. Building work ceased, and the palaces were taken over by squatters who cooked on the floors of the throne rooms. Within about a century and a half, the population of the southern lowlands fell by something like nine tenths.
+The evidence is the dates. A Maya king marked the turning points of his reign with a carved and dated stone. In city after city, the stones stop. At Copán, a monument begun in 822 was left unfinished, with one side carved and the rest barely begun. The last dated inscription from the old heartland was carved in 909. Building work ceased, and the palaces were taken over by squatters who cooked on the floors of the throne rooms. Within about a century and a half, the southern lowlands lost most of their people.
 
 What caused it has been argued over for a century.
 
-One part of the answer is drought. Mud from the bottoms of lakes in the region and stone from the floors of caves preserve a record of rainfall, year by year. They show that between about 800 and 1000 the region suffered the worst series of dry spells in several thousand years. The Maya of the forest had no great rivers and depended on rain collected in reservoirs. A few failed rainy seasons in a row left a city of fifty thousand without drinking water.
+One part of the answer is drought. Mud from the bottoms of lakes in the region and stone from the floors of caves preserve a record of rainfall, year by year. They show that between about 800 and 1000 the region suffered the worst series of dry spells in two thousand years. The Maya of the forest had no great rivers and depended on rain collected in reservoirs. A few failed rainy seasons in a row left a city of fifty thousand without drinking water.
 
 Another is war. In the last century of the inscriptions, the fighting grows more frequent and more destructive. At one city, the inhabitants pulled the facing stones off their own temples and palaces to throw up a wall across the main plaza, and were overrun all the same.
 
@@ -92,7 +92,7 @@ Those states were administered without writing. No Andean people is known to hav
 
 The device is best known from the last and largest of the Andean empires, though older examples survive. It consisted of a main cord, from which hung dozens or hundreds of thinner cords of spun cotton or wool, dyed in different colours. Knots were tied along each hanging cord, and the knots recorded numbers by position, in tens. A cluster of knots near the bottom of the cord gave the units, a cluster higher up the tens, and a third the hundreds. A gap where a cluster ought to be meant nothing. The colour of the cord, and its place in the row, showed what was being counted, whether llamas, loads of potatoes or men owing labour.
 
-Scholars worked out the numbers a century ago, and they can read the totals on the thousand or so examples that survive. Some of the cords record things other than numbers, possibly names and places, and nobody has yet read those. The officials who made them could keep the accounts of a state of several million people with a bundle of string.
+Scholars worked out the numbers a century ago, and they can read the totals on the fourteen hundred or so examples that survive. Some of the cords record things other than numbers, possibly names and places, and nobody has yet read those. The officials who made them could keep the accounts of a state of several million people with a bundle of string.
 
 ## Fifteen million baskets
 
@@ -104,7 +104,7 @@ All of that earth was dug with hoes of stone and shell and carried in baskets on
 
 The builders left no writing, and even their name for their city is lost. It is called Cahokia, after a people who were living nearby six hundred years later. What they believed has to be read from what they buried. In one small mound, archaeologists found a man and a woman laid among twenty thousand shell beads. Around them lay the offerings that went with them. They included heaps of finely made arrowheads, sheets of copper and mica brought from a thousand kilometres away, and, in a pit nearby, the bodies of more than fifty young women who had been killed and buried in neat rows at the same moment.
 
-Cahokia lasted about three centuries. In its later years it was surrounded by a wall of twenty thousand logs, which was rebuilt three times. By 1350 the place was empty. Why it emptied is still argued over. Floods, dry years, quarrels within the city and the pull of better land elsewhere have all been proposed. No town north of Mexico grew as large again for more than four hundred years.
+Cahokia lasted about three centuries. In its later years it was surrounded by a wall of some twenty thousand logs, which was rebuilt several times. By 1350 the place was empty. Why it emptied is still argued over. Floods, dry years, quarrels within the city and the pull of better land elsewhere have all been proposed. No town north of Mexico grew as large again for more than four hundred years.
 
 ## A toy on wheels
 
@@ -112,4 +112,4 @@ The Americas are the nearest thing that history offers to a second run of an exp
 
 Most of the differences between the two worlds came down to animals. The people of the Americas had never lived among herds of cattle, pigs and sheep. Many of the worst infections of the Old World had first passed to humans from such herds, and had then circulated in its crowded towns for thousands of years. None of them had reached the Americas, and nobody there had ever been exposed to them. They had never seen an animal carry a man into battle.
 
-In museums in Mexico there are small figures of baked clay, about fifteen hundred years old, that were found in graves on the coast of the Gulf. They are dogs and jaguars, the size of a child's hand. Each stands on four clay discs, fixed to wooden axles that have long since rotted away, so that it could be pulled along the ground on a string.
+In museums in Mexico there are small figures of baked clay, between twelve and fifteen hundred years old, that were found in graves on the coast of the Gulf. They are dogs and jaguars, the size of a child's hand. Each stands on four clay discs, fixed to wooden axles that have long since rotted away, so that it could be pulled along the ground on a string.
