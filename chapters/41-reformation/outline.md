@@ -14,7 +14,7 @@ The western church had silenced critics before. In 1517 it could not silence a G
 2. **Letters of lead.** How Gutenberg's method worked, what a book cost before and after, how fast the presses spread, and who had got there first.
 3. **Back to the sources.** The universities, and the scholars who went back to Greek and caught a forgery.
 4. **The coin in the chest.** An archbishop's debt, a banker's agent, a preacher's jingle, and the friar's ninety-five points.
-5. **The price of a hen.** Pamphlets and pictures, readings in taverns, monsters and slander. Why Luther did not burn: the hearing before the emperor, the castle, the Bible in German.
+5. **Read aloud in the tavern.** Pamphlets and pictures, readings in taverns, monsters and slander. Why Luther did not burn: the hearing before the emperor, the castle, the Bible in German.
 6. **Smite, slay and stab.** The peasants' rising of 1525 and Luther's answer.
 7. **The prince's opportunity.** Church land, Henry of England, the rule that the ruler chooses. Rome's reply.
 8. **Out of the window.** Thirty years of war, and a cardinal on the Protestant side.

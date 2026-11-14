@@ -50,7 +50,7 @@ The priest was Martin Luther. He was a miner's son, thirty-three years old, a fr
 
 On 31 October 1517 Luther wrote out ninety-five points for debate, in Latin, and sent them to Archbishop Albrecht with a polite letter. By tradition he also nailed a copy to the door of the castle church, which served as the university's notice board. One of the points asked why the pope, if he really had power to empty purgatory, did not do it for love and not for money. Another observed that the pope was richer than the richest man of ancient Rome and might build St Peter's with his own money.
 
-## The price of a hen
+## Read aloud in the tavern
 
 Nobody came to debate. What happened was that printers in three cities got hold of the ninety-five points and ran them off, and somebody put them into German. Within two weeks they were being talked about all over Germany, and within a month they had reached the rest of Europe. Luther was astonished, and a little alarmed. Then he saw what the press could do, and for the rest of his life he used it better than anyone else alive.
 
