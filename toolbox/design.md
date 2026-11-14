@@ -64,6 +64,11 @@ A chapter can have more than one tool page: if a tool is interesting, it gets a 
 | 21 | The standard measure | One size for a whole empire |
 | 22 | The layered bow | The horse archer's weapon |
 | 22 | The silk reel | The thread the frontier was paid in |
+| 23 | The boarding bridge | How a land power won at sea |
+| 24 | The rods and axe | The power to punish, carried in the street |
+| 25 | The book with pages | The book the Christians chose |
+| 26 | The begging bowl | A monk's whole property, filled by others |
+| 27 | The triple wall | Why the eastern capital held |
 
 ## Files
 

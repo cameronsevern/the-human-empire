@@ -1,0 +1,3 @@
+| File | What it shows | Commons page | Author | Licence |
+|---|---|---|---|---|
+| toolbox/26-begging-bowl/photo-buddha-bowl.jpg | Gandhara slate relief of the Buddha's alms bowl on a draped stand under a canopy, with figures either side, about 300 CE (Commons title: "rappresentazione della ciotola per le elemosine al buddha sotto un baldacchino, in ardesia, gandhara 300 dc ca"), National Museum of Denmark, Copenhagen. Cropped at the bottom to leave out the museum label, resized to 1600x833 | https://commons.wikimedia.org/wiki/File:Pakistan_o_afghanistan,_rappresentazione_della_ciotola_per_le_elemosine_al_buddha_sotto_un_baldacchino,_in_ardesia,_gandhara_300_dc_ca.jpg | Francesco Bini (photographer); ancient sculptor unknown | CC BY-SA 4.0 |

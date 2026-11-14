@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" font-family="Georgia, 'Noto Serif', serif">
+<defs>
+<!-- paper: fine grain plus slow blotches -->
+<filter id="paper" x="0" y="0" width="100%" height="100%">
+<feTurbulence type="fractalNoise" baseFrequency="0.8" numOctaves="3" seed="3" result="grain"/>
+<feColorMatrix in="grain" type="matrix" values="0 0 0 0 0.45  0 0 0 0 0.36  0 0 0 0 0.24  0 0 0 0.9 -0.42" result="g2"/>
+<feTurbulence type="fractalNoise" baseFrequency="0.006" numOctaves="2" seed="8" result="blot"/>
+<feColorMatrix in="blot" type="matrix" values="0 0 0 0 0.55  0 0 0 0 0.42  0 0 0 0 0.25  0 0 0 0.55 -0.2" result="b2"/>
+<feMerge><feMergeNode in="SourceGraphic"/><feMergeNode in="b2"/><feMergeNode in="g2"/></feMerge>
+</filter>
+<!-- ink: a slight wobble in every line, a soft bleed of colour under it, and mottling inside the washes -->
+<filter id="ink" x="-5%" y="-5%" width="110%" height="110%">
+<feTurbulence type="fractalNoise" baseFrequency="0.018" numOctaves="2" seed="5" result="warp"/>
+<feDisplacementMap in="SourceGraphic" in2="warp" scale="5" xChannelSelector="R" yChannelSelector="G" result="drawn"/>
+<feGaussianBlur in="drawn" stdDeviation="7" result="bleed0"/>
+<feComponentTransfer in="bleed0" result="bleed"><feFuncA type="linear" slope="0.38"/></feComponentTransfer>
+<feTurbulence type="fractalNoise" baseFrequency="0.011" numOctaves="2" seed="11" result="wash"/>
+<feColorMatrix in="wash" type="matrix" values="0 0 0 0 0.35  0 0 0 0 0.25  0 0 0 0 0.15  0 0 0 0.75 -0.3" result="w2"/>
+<feComposite in="w2" in2="drawn" operator="in" result="mottle"/>
+<feMorphology in="drawn" operator="erode" radius="2.5" result="inner"/>
+<feComposite in="drawn" in2="inner" operator="out" result="rim0"/>
+<feColorMatrix in="rim0" type="matrix" values="0 0 0 0 0.3  0 0 0 0 0.22  0 0 0 0 0.15  0 0 0 0.16 0" result="rim"/>
+<feOffset in="drawn" dx="5" dy="7" result="off"/>
+<feGaussianBlur in="off" stdDeviation="5" result="sh0"/>
+<feColorMatrix in="sh0" type="matrix" values="0 0 0 0 0.25  0 0 0 0 0.2  0 0 0 0 0.15  0 0 0 0.22 0" result="shadow"/>
+<feMerge><feMergeNode in="shadow"/><feMergeNode in="bleed"/><feMergeNode in="drawn"/><feMergeNode in="mottle"/><feMergeNode in="rim"/></feMerge>
+</filter>
+<radialGradient id="vig" cx="50%" cy="50%" r="75%"><stop offset="60%" stop-color="#6b4a2a" stop-opacity="0"/><stop offset="100%" stop-color="#6b4a2a" stop-opacity="0.22"/></radialGradient>
+</defs>
+<rect width="1200" height="760" fill="#faf6ee" filter="url(#paper)"/>
+<rect width="1200" height="760" fill="url(#vig)"/>
+<rect x="14" y="14" width="1172" height="732" fill="none" stroke="#2f2a26" stroke-width="2"/>
+<rect x="20" y="20" width="1160" height="720" fill="none" stroke="#2f2a26" stroke-width="0.7"/>
+<text x="44" y="64" font-size="30" font-weight="bold" fill="#2f2a26" letter-spacing="3">THE TRIPLE WALL</text>
+<line x1="44" y1="76" x2="104" y2="76" stroke="#b5523b" stroke-width="3"/>
+<text x="44" y="104" font-size="20" font-style="italic" fill="#8a8178">the years 413 to 447</text>
+<g filter="url(#ink)">
+<rect x="569" y="323" width="64" height="169" fill="#ddd6ca" stroke="#8a8178" stroke-width="2"/>
+<path d="M 569.0,314.0 L 578.0,314.0 L 578.0,323.0 L 587.0,323.0 L 587.0,314.0 L 596.0,314.0 L 596.0,323.0 L 605.0,323.0 L 605.0,314.0 L 614.0,314.0 L 614.0,323.0 L 623.0,323.0 L 623.0,314.0 L 632.0,314.0" fill="none" stroke="#8a8178" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<rect x="760" y="216" width="130" height="260" fill="#ddd6ca" stroke="#8a8178" stroke-width="2"/>
+<path d="M 760.0,206.0 L 770.0,206.0 L 770.0,216.0 L 780.0,216.0 L 780.0,206.0 L 790.0,206.0 L 790.0,216.0 L 800.0,216.0 L 800.0,206.0 L 810.0,206.0 L 810.0,216.0 L 820.0,216.0 L 820.0,206.0 L 830.0,206.0 L 830.0,216.0 L 840.0,216.0 L 840.0,206.0 L 850.0,206.0 L 850.0,216.0 L 860.0,216.0 L 860.0,206.0 L 870.0,206.0 L 870.0,216.0 L 880.0,216.0 L 880.0,206.0 L 890.0,206.0" fill="none" stroke="#8a8178" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 60.0,500.0 L 110.0,500.0 L 140.0,617.0 L 364.0,617.0 L 370.0,492.0 L 579.0,492.0 L 579.0,476.0 L 800.0,476.0 L 800.0,466.0 L 1150.0,466.0 L 1150.0,662.0 L 60.0,662.0 Z" fill="#d9c6a0" stroke="#2f2a26" stroke-width="0" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 60.0,500.0 L 110.0,500.0 L 140.0,617.0 L 364.0,617.0 L 370.0,492.0" fill="none" stroke="#2f2a26" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="605" y1="476" x2="800" y2="476" stroke="#2f2a26" stroke-width="3" stroke-linecap="round"/>
+<line x1="865" y1="466" x2="1150" y2="466" stroke="#2f2a26" stroke-width="3" stroke-linecap="round"/>
+<line x1="398" y1="492" x2="579" y2="492" stroke="#2f2a26" stroke-width="3" stroke-linecap="round"/>
+<line x1="60" y1="662" x2="1150" y2="662" stroke="#8a8178" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M 364.0,617.0 L 370.0,617.0 L 370.0,472.0 L 377.0,464.0 L 377.0,472.0 L 384.0,472.0 L 384.0,464.0 L 391.0,464.0 L 391.0,472.0 L 398.0,472.0 L 398.0,472.0 L 398.0,492.0 L 364.0,492.0 Z" fill="#cdc6ba" stroke="#2f2a26" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" />
+<rect x="364" y="472" width="34" height="145" fill="#cdc6ba" stroke="#2f2a26" stroke-width="2.5"/>
+<path d="M 364.0,464.0 L 371.0,464.0 L 371.0,472.0 L 378.0,472.0 L 378.0,464.0 L 385.0,464.0 L 385.0,472.0 L 392.0,472.0 L 392.0,464.0 L 398.0,464.0" fill="none" stroke="#2f2a26" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" />
+<rect x="579" y="375" width="26" height="117" fill="#cdc6ba" stroke="#2f2a26" stroke-width="3"/>
+<path d="M 579.0,365.0 L 588.0,365.0 L 588.0,375.0 L 597.0,375.0 L 597.0,365.0 L 605.0,365.0" fill="none" stroke="#2f2a26" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<rect x="800" y="320" width="65" height="156" fill="#b5523b" stroke="#2f2a26" stroke-width="3"/>
+<path d="M 800.0,308.0 L 811.0,308.0 L 811.0,320.0 L 822.0,320.0 L 822.0,308.0 L 833.0,308.0 L 833.0,320.0 L 844.0,320.0 L 844.0,308.0 L 855.0,308.0 L 855.0,320.0 L 865.0,320.0" fill="none" stroke="#2f2a26" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="803" y1="344" x2="862" y2="344" stroke="#8f3f2c" stroke-width="4" stroke-linecap="round"/>
+<line x1="803" y1="370" x2="862" y2="370" stroke="#8f3f2c" stroke-width="4" stroke-linecap="round"/>
+<line x1="803" y1="396" x2="862" y2="396" stroke="#8f3f2c" stroke-width="4" stroke-linecap="round"/>
+<line x1="803" y1="422" x2="862" y2="422" stroke="#8f3f2c" stroke-width="4" stroke-linecap="round"/>
+<line x1="803" y1="448" x2="862" y2="448" stroke="#8f3f2c" stroke-width="4" stroke-linecap="round"/>
+<line x1="803" y1="474" x2="862" y2="474" stroke="#8f3f2c" stroke-width="4" stroke-linecap="round"/>
+<line x1="240.0" y1="587" x2="120" y2="700" stroke="#2f2a26" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="240.0" cy="587" r="4" fill="#2f2a26" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="120" cy="700" r="19" fill="#faf6ee" stroke="#2f2a26" stroke-width="2"/>
+<line x1="378" y1="468" x2="330" y2="280" stroke="#2f2a26" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="378" cy="468" r="4" fill="#2f2a26" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="330" cy="280" r="19" fill="#faf6ee" stroke="#2f2a26" stroke-width="2"/>
+<line x1="591" y1="422" x2="560" y2="170" stroke="#2f2a26" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="591" cy="422" r="4" fill="#2f2a26" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="560" cy="170" r="19" fill="#faf6ee" stroke="#2f2a26" stroke-width="2"/>
+<line x1="742.5" y1="480" x2="720" y2="700" stroke="#2f2a26" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="742.5" cy="480" r="4" fill="#2f2a26" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="720" cy="700" r="19" fill="#faf6ee" stroke="#2f2a26" stroke-width="2"/>
+<line x1="832.5" y1="380" x2="1150" y2="120" stroke="#2f2a26" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="832.5" cy="380" r="4" fill="#2f2a26" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="1150" cy="120" r="19" fill="#faf6ee" stroke="#2f2a26" stroke-width="2"/>
+</g>
+<text x="70" y="470" text-anchor="start" font-size="19" fill="#8a8178" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-style="italic">Outside</text>
+<text x="1140" y="440" text-anchor="end" font-size="19" fill="#8a8178" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-style="italic">The city</text>
+<text x="120" y="707" text-anchor="middle" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">1</text>
+<text x="150" y="707" text-anchor="start" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">A moat over 20 metres wide and up to 10 deep</text>
+<text x="330" y="287" text-anchor="middle" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">2</text>
+<text x="300" y="287" text-anchor="end" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">A low wall along the</text>
+<text x="300" y="314" text-anchor="end" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">edge of the moat</text>
+<text x="560" y="177" text-anchor="middle" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">3</text>
+<text x="530" y="177" text-anchor="end" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">The outer wall, 9 metres</text>
+<text x="530" y="204" text-anchor="end" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">high, with its own towers</text>
+<text x="720" y="707" text-anchor="middle" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">4</text>
+<text x="750" y="707" text-anchor="start" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">A terrace between the walls</text>
+<text x="1150" y="127" text-anchor="middle" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">5</text>
+<text x="1120" y="127" text-anchor="end" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">The inner wall, 12 metres</text>
+<text x="1120" y="154" text-anchor="end" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">high and 5 thick, with</text>
+<text x="1120" y="181" text-anchor="end" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">towers up to 20 metres</text>
+</svg>

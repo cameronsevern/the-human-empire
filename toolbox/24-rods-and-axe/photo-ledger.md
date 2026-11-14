@@ -1,0 +1,3 @@
+| File | What it shows | Commons page | Author | Licence |
+|---|---|---|---|---|
+| toolbox/24-rods-and-axe/photo-lictors.jpg | Roman marble relief from Iulia Concordia of three lictors in procession; two carry bundles of rods on their shoulders, the left one a shaft with an axe head (Commons description). National Museum of Concordia, Portogruaro. Date not confirmed by the museum (one secondary listing gives 1st century AD), so the caption gives none. Resized to 1600x1383 | https://commons.wikimedia.org/wiki/File:Relief_from_Iulia_Concordia_depicting_three_lictors,_National_Museum_of_Concordia,_Portogruaro,_Italy.jpg | Following Hadrian (photographer); ancient sculptor unknown | CC BY-SA 2.0 |
