@@ -14,7 +14,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 first, last = int(sys.argv[1]), int(sys.argv[2])
 subtitle = sys.argv[3] if len(sys.argv) > 3 else f"Chapters {first} to {last}"
 
-PARTS = [(1, 7), (8, 22)]
+PARTS = [(1, 7), (8, 22), (23, 36)]
 PART_FIRST, PART_LAST = next((a, b) for a, b in PARTS if a <= first <= b)
 
 SPECIAL = re.compile(r'([\\#$*_`<>@~\[\]])')
@@ -46,8 +46,14 @@ def years(where):
         where = re.sub(rf"\b{w} million\b", f"{n} million", where)
     for num, mil in re.findall(r'([\d][\d,\.]*)\s*(million)?\s*years ago', where):
         vals.append(float(num.replace(',', '')) * (1e6 if mil else 1))
-    for num in re.findall(r'from about ([\d][\d,]*) to', where):   # "from about 2,500 to about 2,400 years ago"
-        vals.append(float(num.replace(',', '')))
+    if 'years ago' in where:
+        for num in re.findall(r'from about ([\d][\d,]*) to', where):   # "from about 2,500 to about 2,400 years ago"
+            vals.append(float(num.replace(',', '')))
+        for num in re.findall(r'the year (\d{1,4})\b', where):       # "... to the year 337"
+            vals.append(2025.0 - int(num))
+    else:                                                            # plain years: "from 602 to about 750"
+        for num in re.findall(r'(?<![\d,])(\d{3,4})(?![\d,])', where):
+            vals.append(2025.0 - int(num))
     if 'before our species' in where:
         vals.append(6e6)
     return (max(vals), min(vals)) if vals else (0, 0)
