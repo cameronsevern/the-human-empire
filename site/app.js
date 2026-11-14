@@ -540,10 +540,9 @@ function fillReaderChrome(book) {
   $('heading').innerHTML = `<i>Part ${p.roman}</i>${p.title}`;
   $('dl-pdf').href = p.pdf || '#'; $('dl-pdf').hidden = !p.pdf;
   $('dl-epub').href = p.epub || '#'; $('dl-epub').hidden = !p.epub;
-  // phones and in-app browsers often ignore a forced download: there, open the file and let the phone's own viewer save it
-  if (matchMedia('(pointer: coarse)').matches) for (const id of ['dl-pdf', 'dl-epub']) {
-    const l = $(id); l.removeAttribute('download'); l.target = '_blank'; l.rel = 'noopener';
-  }
+  // phones and in-app browsers often ignore a forced download, and a new tab can come up blank:
+  // there, go straight to the file in this tab and let the phone show or save it
+  if (matchMedia('(pointer: coarse)').matches) for (const id of ['dl-pdf', 'dl-epub']) $(id).removeAttribute('download');
   const ol = $('contents'); ol.replaceChildren();
   for (const c of p.chapters || []) {
     if (!c.page) continue;
