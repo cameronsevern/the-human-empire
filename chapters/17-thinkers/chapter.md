@@ -27,8 +27,8 @@ About three thousand years ago, a royal house called the Zhou conquered the Shan
 
 Loyalty between brothers is strong. Between the great-great-grandsons of brothers it is much weaker. Over the generations, the lords came to treat their lands as countries of their own. In time, the king was left with his title and very little else. There were by then more than a hundred states, large and small, and they began to swallow each other. By about 2,400 years ago, seven large ones were left, with a few small ones caught between them. Chinese historians call the two centuries that followed the age of the Warring States.
 
-![A map of China divided into seven coloured states](images/warring_states_map.jpg)
-*The seven warring states about 2,300 years ago. Qin is in the west, Chu in the south and Qi in the east. Map: Philg88, CC BY-SA 3.0.*
+![A map of northern and central China divided into seven shaded states, each with its name: Qin in the west, Zhao, Yan and Qi in the north and east, Wei and Han in the middle, and Chu in the south; dots mark the Zhou king's city and the small state of Lu](images/map_warring_states.png)
+*The seven warring states about 2,300 years ago, roughly. Qin is in the west, Chu in the south and Qi in the east. The Zhou king kept only his city, and Lu, Confucius's state, survived as a small one between Qi and Chu. Map: drawn for this book; coastlines and rivers from Natural Earth, public domain.*
 
 As the states grew fewer and larger, war changed its nature. It had been an affair of noblemen in chariots. It became a matter of farmers, called up in their tens of thousands and marched off on foot. A state that wanted to survive now had to count its households, tax their grain and drill their sons. That is office work, and a lord's cousins, who held their posts by right of birth, were not always good at it.
 
@@ -87,8 +87,8 @@ Some three thousand kilometres to the south-west, on the far side of the highest
 
 About 2,500 years ago, farmers with iron tools were clearing that plain of its forests and planting rice, and towns were growing into walled cities. The land was divided among about sixteen states. Some were ruled by kings and others by councils of their leading families, and, as in China, the strong were swallowing the weak.
 
-![A map of India with coloured states along the river Ganges](images/mahajanapadas_map.png)
-*The states of northern India about 2,500 years ago. The Buddha's home state is marked Śākya, at the foot of the mountains. Map: Avantiputra7, CC BY-SA 3.0.*
+![A map of the plain of the river Ganges with eleven shaded states, each with its name, among them Kosala, Magadha, Kashi and the small state of Śākya at the foot of the Himalayas; Varanasi and Bodh Gaya are marked](images/map_ganges_states.png)
+*The states of the Ganges plain about 2,500 years ago, roughly. The Buddha's home state, Śākya, lies at the foot of the mountains. Map: drawn for this book; coastlines and rivers from Natural Earth, public domain.*
 
 Religion on the plain was in the hands of the Brahmins, with their sacrifices and their four ranks fixed at birth. That picture did not suit the kings, who did not care to rank below their priests, or the merchants of the new cities, whose wealth had bought them no higher place in it.
 

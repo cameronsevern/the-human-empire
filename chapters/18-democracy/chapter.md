@@ -152,8 +152,8 @@ After that, the pretence wore thin. About twenty-five years after the oath, the 
 
 In one respect Athens asked more of its subjects than the Great King usually asked of his. A city that paid its tribute to the satrap kept its own courts. Athens took its tribute and also required the allies to bring their most serious lawsuits to Athenian juries, and in several cities it replaced the government with one more to its liking.
 
-![A map of the Aegean Sea with Attica in red and a ring of coasts and islands in yellow](images/map_athenian_empire.png)
-*The Athenian empire at the start of the war with Sparta. Attica is red, and the cities that paid tribute are yellow. Map: Marsyas and Once in a Blue Moon, CC BY-SA 3.0.*
+![A map of the Aegean Sea with Attica, around Athens, shaded red, and the islands and a strip of the surrounding coasts, from Chalcidice and Thrace to Byzantium and down the coast of Turkey to Rhodes, shaded yellow; Sparta, Delos, Naxos and Mytilene on Lesbos are marked](images/map_athens_empire.png)
+*The Athenian empire at the start of the war with Sparta, about 2,455 years ago. Attica, Athens's own land, is red, and the islands and coasts where the cities paid tribute are yellow. Map: drawn for this book; coastlines and rivers from Natural Earth, public domain.*
 
 By the time the alliance was fifty years old, about six hundred talents of silver flowed into Athens every year. One talent would pay the whole crew of a warship for a month. That money paid the rowers and built the ships, and it filled the reserve from which the new temples on the Acropolis were paid for.
 
@@ -177,8 +177,8 @@ As Athens grew, the cities allied with Sparta pressed it to act before the whole
 
 For a long time neither side could force the other to give in. Sparta was unbeatable on land and Athens at sea. The Athenians had joined their city to its harbour with long parallel walls, six kilometres from end to end. When a Spartan army marched in each summer to burn the farms, the country people moved inside, and grain ships fed them. In the second year a plague broke out in the packed city and killed about a quarter of its people, Pericles included.
 
-![An old printed map showing Athens joined to its harbour by two long parallel walls](images/long_walls_map.jpg)
-*Athens and its harbour, joined by the long walls, on a map printed in 1876. Map: George W. Cox, public domain.*
+![A map of Athens and its harbour town Piraeus, about six kilometres apart, joined by two long parallel walls, with a dashed third wall running from Athens down to the shore of Phaleron bay](images/map_long_walls.png)
+*Athens and its harbour at Piraeus, joined by the long walls, about 2,450 years ago. The dashed line is a third wall, down to the shore at Phaleron. Map: drawn for this book, after a map printed in 1876 by George W. Cox, public domain.*
 
 For the helots, the war was an opening. The Athenians built a fort on the coast of their country, and helots began to slip away to it.
 

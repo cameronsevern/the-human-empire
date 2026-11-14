@@ -14,8 +14,8 @@ The god of Judah went on to become the God of more than half the people on earth
 
 Judah was one of a cluster of small kingdoms that grew up between Egypt and Syria after the great palaces of the Bronze Age had burned. To its north lay the kingdom of Israel, which was larger and richer. Judah itself was mostly dry, stony hills, and a fit walker could cross it in two or three days. Its capital, Jerusalem, stood on a narrow ridge, with the palace and the temple at the top.
 
-![A map with the kingdom of Israel in blue, the smaller kingdom of Judah in orange below it, and their neighbours around them](images/map_israel_judah.png)
-*Israel and Judah among their neighbours, about 2,850 years ago. Map: FinnWikiNo and Richardprins, CC BY-SA 3.0.*
+![A map of the land between the Mediterranean and the Jordan, with the kingdom of Israel shaded blue in the north and across the Jordan, the smaller kingdom of Judah shaded yellow to the south, west of the Dead Sea, and the names of their neighbours, the Phoenicians, Aram, Ammon, Moab, Edom and the Philistines, around them](images/map_two_kingdoms.png)
+*Israel and Judah among their neighbours, about 2,850 years ago. The borders are rough. Samaria was the capital of Israel, Jerusalem the capital of Judah. Map: drawn for this book; coastlines and rivers from Natural Earth, public domain.*
 
 The people of both kingdoms spoke Hebrew, and both worshipped a god whose name was written with four letters, YHWH. Scholars think it was pronounced Yahweh. Jews later stopped saying the name aloud out of reverence, and most English Bibles print "the LORD" in its place.
 

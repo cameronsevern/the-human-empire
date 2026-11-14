@@ -36,8 +36,8 @@ Cyrus died on campaign in Central Asia. His son Cambyses added Egypt. Within twe
 
 No state so large had existed before. From its western edge to its eastern edge was about four thousand kilometres, roughly the distance from Lisbon to Moscow. Inside it lived dozens of peoples with their own languages, scripts and gods. Some of them, such as the Babylonians and the Egyptians, lived in cities two thousand years older than the Persian kingdom.
 
-![A map of the lands from Greece and Egypt to India, with the Persian empire in yellow and a dotted line running from Sardis to Susa](images/map_achaemenid.jpg)
-*The Persian empire under Darius. The dotted red line is the royal road from Sardis to Susa. The Roman numerals are the tribute districts listed by a Greek writer. Map: Cattette, CC BY 4.0.*
+![A map from Greece and Egypt to India with the Persian empire shaded, and a dashed red line, the royal road, running from Sardis in western Turkey to Susa in south-western Iran; Babylon, Persepolis and Memphis are also marked](images/map_persian_empire.png)
+*The Persian empire under Darius, roughly, about 2,500 years ago. The dashed red line is the royal road from Sardis to Susa. Map: drawn for this book; coastlines and rivers from Natural Earth, public domain.*
 
 Sargon of Akkad, long before, had replaced local kings with his own men and pulled down city walls, and his empire had rebelled every time a king died. The Persians had far more ground to hold and too few men to hold it. They could not even supply the clerks, because their own language was hardly ever written down.
 

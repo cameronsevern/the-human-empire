@@ -104,8 +104,8 @@ While the priests refined their ranks, the people of the hymns were on the move 
 
 One of the priests' manuals remembers the move as a story. A chief, it says, carried the sacred fire in his mouth. When the fire burst out, it ran eastwards along the ground, burning the country before it, and the chief and his priest followed until the fire stopped at a river. The land beyond the river had been too marshy to live on. Then the Brahmins made it sweet with sacrifices, and the chief settled there.
 
-![A map of northern India with a shaded region stretching from the Indus across the upper Ganges, and an arrow pointing east towards a region labelled Videha](images/map_late_vedic.png)
-*Northern India between about 3,100 and 2,500 years ago. The shaded area is the country of the priests and their hymns, and the arrow shows its spread east along the Ganges. Sindhu is the Indus. Map: Avantiputra7, CC BY-SA 3.0.*
+![A map of northern India with a shaded area over the Punjab and the upper Ganges plain, a hatched wider area around it reaching the Indus, and a red arrow pointing east along the Ganges to Videha](images/map_vedic_india.png)
+*Northern India between about 3,100 and 2,500 years ago, roughly. The shaded area is the heartland of the priests and their hymns, and the hatched area the wider land they reached. The arrow shows their spread east along the Ganges to Videha, about 2,700 years ago. Map: drawn for this book; coastlines and rivers from Natural Earth, public domain.*
 
 The plain of the Ganges was thick forest and swamp. It gets far more rain than the Punjab, and herders with a few fields of barley could do little with it. Three things opened it up.
 

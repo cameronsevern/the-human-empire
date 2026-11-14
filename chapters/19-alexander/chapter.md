@@ -50,8 +50,8 @@ The Greeks had a grudge to offer as a reason for war. A hundred and fifty years 
 
 Alexander crossed into Asia with about forty thousand men. In the next four years he fought the Persians in three great battles and won all three.
 
-![A map from Greece to India with the army's route marked](images/map_empire.jpg)
-*Alexander's march, from Macedon at the top left to the Punjab at the right, and back to Babylon. Map: Generic Mapping Tools, CC BY-SA 3.0.*
+![A map from Greece and Egypt to India, with the Persian empire shaded and a red line tracing Alexander's march from Pella in Macedon through Turkey, Syria, Egypt, Babylon and Persepolis to Samarkand and the Punjab, and a dashed red line back along the coast to Babylon; crosses mark four battles](images/map_alexander_march.png)
+*Alexander's march, from Macedon at the top left to the Punjab at the right, where his men turned back, and back to Babylon, between about 2,360 and 2,350 years ago. The dashed line is the way back, and the crosses mark battles. The shaded land is, roughly, the empire he took. Map: drawn for this book; coastlines and rivers from Natural Earth, public domain.*
 
 In the two largest, the method was the same. The pike block held the middle. Alexander himself, at the head of the cavalry, looked for a gap and rode straight at the Persian commander. Both times that commander was the king of Persia himself, the third to bear the name of Darius, and both times he turned his chariot and fled.
 

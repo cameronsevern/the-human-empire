@@ -69,8 +69,8 @@ The same king also began to abolish the more troublesome of the tribute-paying k
 
 By the time Sennacherib came to the throne, Assyria ruled from the Persian Gulf to the Mediterranean and from the mountains of Turkey to the border of Egypt. It was the largest state that had yet existed. His own father, who was not the expected heir, had taken as his throne name that of the same founder of the first empire. He ruled as Sargon.
 
-![A map of the Middle East with a red area reaching from Egypt and the Mediterranean coast across Iraq to western Iran](images/map_assyria.png)
-*The Assyrian empire at its largest, about 2,650 years ago, under Sennacherib's grandson. The paler areas were ruled by kings who answered to Assyria. Map: Ennomus, CC BY-SA 4.0.*
+![A map of the Middle East with the Assyrian provinces shaded from the Mediterranean coast across Syria to the Tigris, and a hatched area of tribute-paying kingdoms around them, from Egypt across north Arabia and Babylon to Elam; Nineveh, Ashur, Babylon, Damascus, Samaria, Jerusalem and Lachish are marked](images/map_assyria_empire.png)
+*The Assyrian empire at its largest, roughly, about 2,650 years ago, under Sennacherib's grandson. The hatched lands were ruled by kings who answered to Assyria. Map: drawn for this book; coastlines and rivers from Natural Earth, public domain.*
 
 From the start, the kings described their wars with a relish for detail. Here is one of them, about 2,900 years ago, on what he did to a town that had rebelled: "I flayed as many nobles as had rebelled against me and draped their skins over the pile." He goes on to list the hands, noses and ears that he cut off, and he had it all carved in stone in a temple of his new capital.
 

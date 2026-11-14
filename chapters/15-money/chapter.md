@@ -46,8 +46,8 @@ All this was worth the trouble for a donkey load of tin. It was far too much tro
 
 Lydia was a rich kingdom, and the Greeks believed that they knew why. The hills behind Sardis held gold, they said, and a small river called the Pactolus, which ran through the middle of the city, washed it down in its sand.
 
-![A map of western and central Turkey with a large shaded area, the capital Sardis marked with a star and Ephesus on the coast below it](images/map_lydia.png)
-*The kingdom of Lydia at its largest, under Croesus. Sardis is marked with a star, and Ephesus lies on the coast to the south-west. Map: Ennomus, CC BY-SA 4.0.*
+![A map of western and central Turkey with the kingdom of Lydia shaded from the Aegean coast to the river Halys, its capital Sardis marked with a star, and Ephesus and Miletus on the coast](images/map_lydia_croesus.png)
+*The kingdom of Lydia at its largest, roughly, under Croesus, about 2,570 years ago. Sardis is marked with a star, and Ephesus lies on the coast to the south-west. The river Halys was the border with the Medes. Map: drawn for this book; coastlines and rivers from Natural Earth, public domain.*
 
 Much of the metal that came out of the hills of western Turkey was not pure gold. It was a natural mixture of gold and silver, paler than gold, which the Greeks called white gold. Its modern name is electrum.
 
