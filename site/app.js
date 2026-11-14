@@ -155,7 +155,9 @@ class Book {
   constructor(part, slot) {
     this.part = part; this.slot = slot;
     this.pages = part.pages || 150;
-    this.T = 0.03 + this.pages * 0.0009;          // thickness of the block of pages
+    // Thickness of the block of pages, true to scale: a leaf of paper is a tenth of a millimetre.
+    // A thicker block would stand nearer the camera and make the right-hand page look larger than the left.
+    this.T = 0.012 + this.pages * 0.0005;
     this.spreads = Math.ceil(this.pages / 2);     // spread s shows page 2s+1 on the left and 2s+2 on the right; page 1 is the cover
     this.s = 0; this.f = 0; this.textures = new Map();
     this.group = new THREE.Group();
@@ -195,7 +197,8 @@ class Book {
   // place every piece for the current opening (0 closed, 1 open) and the share of pages already read
   layout() {
     const o = this.openAmount, T = this.T, f = this.f;
-    const tr = Math.max(0.004, T * (1 - f)), tl = Math.max(0.004, T * f);
+    // Open, the two piles are drawn level, so both pages are the same distance from the eye and the same size.
+    const tr = lerp(T, T / 2, o), tl = T / 2;
     this.right.scale.y = tr; this.right.position.set(W / 2, CT + tr / 2, 0);
     this.left.scale.y = tl; this.left.position.set(-W / 2, CT + tl / 2, 0);
     this.left.visible = this.leftPage.visible = o > 0.98;
@@ -207,7 +210,7 @@ class Book {
     this.hinge.position.set(0, lerp(CT + T, CT, o), 0);
     this.hinge.rotation.z = Math.PI * o;
     const sh = lerp(2 * CT + T, CT, o);
-    this.spine.scale.y = sh; this.spine.position.set(-CT / 2, sh / 2, 0);
+    this.spine.scale.y = sh; this.spine.position.set(lerp(-CT / 2, 0, o), sh / 2, 0);
   }
 
   pageOf(side, s = this.s) { const p = side === 'left' ? 2 * s + 1 : 2 * s + 2; return s === 0 && side === 'left' ? 0 : (p <= this.pages ? p : 0); }
@@ -482,7 +485,7 @@ async function turn(dir, target) {
   if (flipping) { if (target === undefined) queued = Math.max(-3, Math.min(3, queued + dir)); return; }
   flipping = true;
   const fwd = to > book.s, from = book.s;
-  const top = (f) => CT + Math.max(0.004, book.T * f) + 0.003;
+  const top = () => CT + book.T / 2 + 0.003;
   const fa = from / book.spreads, fb = to / book.spreads;
   // the leaf carries the page that is leaving on one face and the page that is arriving on the other
   leaf.front.material.map = book.tex(fwd ? book.pageOf('right', from) : book.pageOf('right', to));

@@ -77,3 +77,4 @@ body.reading #reader { opacity: 1; }
 @media (prefers-reduced-motion: reduce) { #intro, #reader, #caption { transition: none; } }
 
 body.flat #parts button { display: none; }
+#intro .free { margin: .7em 0 0; font-style: italic; font-size: clamp(12px, min(1.8vh, 3.4vw), 16px); color: #d9d0c2; }
