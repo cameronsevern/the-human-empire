@@ -103,29 +103,24 @@ function canvasTexture(w, h, draw) {
 }
 function flat(w, h) { return new THREE.PlaneGeometry(w, h).rotateX(-Math.PI / 2); }   // lies on the desk, top of the image away from the viewer
 
-// a cover for a part that has no PDF yet, in the manner of the real ones
+// a cover for a part that has no PDF yet, laid out like the real ones (cover() in build/book.typ)
 function drawnCover(part) {
   return canvasTexture(740, 1050, (g, w, h) => {
+    const col = part.colour || ACC;
     g.fillStyle = TINT; g.fillRect(0, 0, w, h);
-    g.strokeStyle = INK; g.lineWidth = 3; g.strokeRect(34, 34, w - 68, h - 68);
-    g.strokeStyle = ACC; g.lineWidth = 1.5; g.strokeRect(46, 46, w - 92, h - 92);
-    g.fillStyle = INK; g.textAlign = 'center';
-    g.font = `400 66px ${SERIF}`; g.fillText('The Human', w / 2, 250); g.fillText('Empire', w / 2, 326);
-    g.strokeStyle = ACC; g.lineWidth = 2;
-    g.beginPath(); g.arc(w / 2, 540, 74, 0, Math.PI * 2); g.stroke();
-    g.beginPath(); g.arc(w / 2, 540, 60, 0, Math.PI * 2); g.stroke();
-    g.fillStyle = ACC; g.font = `400 54px ${SERIF}`; g.fillText(part.roman, w / 2, 559);
-    g.font = `400 21px ${SERIF}`;
-    const label = `PART ${part.roman}`.split('').join('  ');
-    g.fillText(label, w / 2, 720);
-    g.fillStyle = INK; g.font = `italic 400 68px ${SERIF}`;
-    const words = (part.title || '').split(' '); let line = '', y = 808;
-    for (const word of words) {
-      if (g.measureText(line + ' ' + word).width > w - 190 && line) { g.fillText(line, w / 2, y); line = word; y += 40; } else line = (line + ' ' + word).trim();
-    }
-    g.fillText(line, w / 2, y);
+    g.fillStyle = col; g.fillRect(0, 0, 45, h);                       // the strip at the spine
+    g.save(); g.globalAlpha = 0.2; g.textAlign = 'right'; g.font = `400 440px ${SERIF}`;
+    g.fillText(part.roman, w + 20, h - 150); g.restore();              // the pale numeral behind
+    g.textAlign = 'left'; g.fillStyle = INK; g.font = `400 20px ${SERIF}`;
+    g.fillText('THE HUMAN EMPIRE'.split('').join('\u200a\u2009'), 100, 118);
+    g.fillStyle = col; g.fillRect(100, 133, 150, 4);
+    g.font = `400 19px ${SERIF}`; g.fillText(`PART ${part.roman}`.split('').join('\u200a\u2009'), 100, 308);
+    g.fillStyle = INK;
+    let size = 124; g.font = `400 ${size}px ${SERIF}`;
+    while (g.measureText(part.title || '').width > w - 130 && size > 60) { size -= 4; g.font = `400 ${size}px ${SERIF}`; }
+    g.fillText(part.title || '', 96, 420);
     g.fillStyle = SOFT; g.font = `400 19px ${SERIF}`;
-    g.fillText('I N   P R E P A R A T I O N', w / 2, 950);
+    g.fillText('IN PREPARATION'.split('').join('\u200a\u2009'), 100, 962);
     g.fillStyle = 'rgba(40, 33, 28, 0.34)'; g.fillRect(0, 0, w, h);   // unopened books sit in shadow
   });
 }

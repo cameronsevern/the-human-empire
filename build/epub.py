@@ -108,12 +108,18 @@ for n in range(first, last + 1):
 
 # cover
 cover = os.path.join(WORK, "img", "cover.jpg")
-subprocess.run(["magick", "-size", "1600x2400", "xc:#faf6ee",
-                "-font", "Liberation-Serif", "-fill", "#2f2a26", "-gravity", "north",
-                "-pointsize", "150", "-annotate", "+0+700", "The Human\nEmpire",
-                "-fill", "#b5523b", "-pointsize", "64", "-annotate", "+0+1150", subtitle,
-                "-fill", "#2f2a26", "-pointsize", "70", "-annotate", "+0+2050", AUTHOR,
-                "-quality", "88", cover], check=True)
+# The designed PDF of the same chapters carries the real cover; use it when it has been built, and a plain one otherwise.
+designed = os.path.join(ROOT, "build", f"the-human-empire-ch{first:02d}-{last:02d}-designed.pdf")
+if os.path.exists(designed):
+    subprocess.run(["pdftoppm", "-f", "1", "-l", "1", "-scale-to-x", "1600", "-scale-to-y", "-1", "-jpeg",
+                    "-singlefile", designed, cover[:-4]], check=True)
+else:
+    subprocess.run(["magick", "-size", "1600x2400", "xc:#faf6ee",
+                    "-font", "Liberation-Serif", "-fill", "#2f2a26", "-gravity", "north",
+                    "-pointsize", "150", "-annotate", "+0+700", "The Human\nEmpire",
+                    "-fill", "#b5523b", "-pointsize", "64", "-annotate", "+0+1150", subtitle,
+                    "-fill", "#2f2a26", "-pointsize", "70", "-annotate", "+0+2050", AUTHOR,
+                    "-quality", "88", cover], check=True)
 docs.insert(0, ("cover.xhtml", "Cover", page("Cover",
     '<figure style="margin:0"><img alt="The Human Empire" src="img/cover.jpg" /></figure>')))
 

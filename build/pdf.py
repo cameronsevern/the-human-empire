@@ -191,7 +191,9 @@ for f in sorted(glob.glob(os.path.join(ROOT, 'chapters', '[0-9][0-9]-*', 'chapte
 body = [f'#import "book.typ": *\n#show: book.with(subtitle: [{inline(subtitle)}], spans: ({", ".join(spans)},), part: (a: {part_a}, b: {part_b}))\n']
 import datetime
 # No preface for now: it will be rewritten before release. book.typ still has preface() for when it returns.
-body.append(f'#cover[{inline(subtitle)}]\n#titlepage([{inline(subtitle)}], [Draft of {datetime.date.today():%-d %B %Y}])\n#contents()\n')
+from partcolours import split
+_roman, _title, _colour = split(subtitle)
+body.append(f'#cover("{_roman}", [{inline(_title)}], rgb("{_colour}"))\n#titlepage([{inline(subtitle)}], [Draft of {datetime.date.today():%-d %B %Y}])\n#contents()\n')
 for n in range(first, last + 1):
     body.append(chapter(n))
     body.append(tool(n))

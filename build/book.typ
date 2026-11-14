@@ -289,32 +289,17 @@
   place(center + horizon, rotate(45deg, square(size: r * 0.16, fill: colour)))
 })
 
-#let cover(subtitle) = page(margin: 12mm, header: none, footer: none, fill: tint, {
-  // two nested frames, so the inner one is always centred inside the outer
-  block(width: 100%, height: 100%, stroke: 0.8pt + ink, inset: 1.8mm,
-    block(width: 100%, height: 100%, stroke: 0.35pt + acc, inset: 6mm, {
-      place(top + left, dx: -6mm, dy: -6mm, corner())
-      place(top + right, dx: 6mm, dy: -6mm, rotate(90deg, corner()))
-      place(bottom + right, dx: 6mm, dy: 6mm, rotate(180deg, corner()))
-      place(bottom + left, dx: -6mm, dy: 6mm, rotate(270deg, corner()))
-      align(center, {
-        v(5mm)
-        band(width: 100%)
-        v(16mm)
-        par(justify: false, leading: 0.5em, text(size: 40pt, tracking: 0.5pt)[The Human\ Empire])
-        v(5mm)
-        flourish(width: 60mm)
-        v(9mm)
-        roundel(r: 21mm)
-        v(9mm)
-        text(fill: acc, caps(size: 9.5pt, tracking: 2.4pt, subtitle))
-        v(1fr)
-        text(size: 13pt)[Claude and Cameron Severn]
-        v(5mm)
-        band(width: 100%)
-        v(3mm)
-      })
-    }))
+// The cover: the part's name set large on the left, a pale numeral behind it, and a strip of the part's colour at the spine.
+#let cover(roman, title, colour) = page(margin: 0mm, header: none, footer: none, fill: tint, {
+  place(left, rect(width: 9mm, height: 100%, fill: colour))
+  place(right + bottom, dx: 4mm, dy: -30mm, text(size: 250pt, fill: colour.transparentize(80%), roman))
+  place(top + left, dx: 20mm, dy: 20mm, caps(size: 11.5pt, tracking: 3.5pt)[The Human Empire])
+  place(top + left, dx: 20mm, dy: 27mm, line(length: 30mm, stroke: 1.2pt + colour))
+  place(top + left, dx: 20mm, dy: 58mm, block(width: 118mm, {
+    if roman != "" { text(fill: colour, caps(size: 11pt, tracking: 3.5pt)[Part #roman]); v(2mm) }
+    par(justify: false, leading: 0.35em, text(size: if roman != "" { 70pt } else { 40pt }, title))
+  }))
+  place(bottom + left, dx: 20mm, dy: -18mm, text(size: 13pt)[Claude and Cameron Severn])
 })
 
 #let titlepage(subtitle, date) = page(header: none, footer: none, {

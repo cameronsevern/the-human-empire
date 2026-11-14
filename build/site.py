@@ -9,6 +9,7 @@ to site/downloads/, and writes site/parts.json, which the page reads.
 The page images and downloads are build outputs and are not committed.
 """
 import glob, json, os, re, shutil, subprocess, tempfile
+from partcolours import COLOURS
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SITE = os.path.join(ROOT, "site")
@@ -44,7 +45,7 @@ def chapters(first, last, pdf):
 
 data = []
 for n, roman, title, span in PARTS:
-    entry = {"n": n, "roman": roman, "title": title, "released": False}
+    entry = {"n": n, "roman": roman, "title": title, "released": False, "colour": COLOURS[roman]}
     shutil.rmtree(os.path.join(SITE, "pages", str(n)), ignore_errors=True)
     for ext in ("pdf", "epub"):
         old = os.path.join(SITE, "downloads", f"the-human-empire-part-{n}.{ext}")
