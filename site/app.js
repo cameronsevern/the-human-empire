@@ -117,8 +117,8 @@ function drawnCover(part) {
     g.font = `400 21px ${SERIF}`;
     const label = `PART ${part.roman}`.split('').join('  ');
     g.fillText(label, w / 2, 720);
-    g.fillStyle = INK; g.font = `italic 400 30px ${SERIF}`;
-    const words = (part.title || '').split(' '); let line = '', y = 772;
+    g.fillStyle = INK; g.font = `italic 400 68px ${SERIF}`;
+    const words = (part.title || '').split(' '); let line = '', y = 808;
     for (const word of words) {
       if (g.measureText(line + ' ' + word).width > w - 190 && line) { g.fillText(line, w / 2, y); line = word; y += 40; } else line = (line + ' ' + word).trim();
     }
@@ -343,9 +343,7 @@ const OUT_NOW = released.length
   : 'The first part is on its way.';
 function caption(book) {
   $('caption').innerHTML = book
-    ? (book.part.released
-      ? `<i>Part ${book.part.roman}</i><b>${book.part.title}</b> &nbsp;&middot;&nbsp; click to open`
-      : `<i>Part ${book.part.roman}</i>not yet released`)
+    ? `<i>Part ${book.part.roman}</i><b>${book.part.title}</b> &nbsp;&middot;&nbsp; ${book.part.released ? 'click to open' : 'not yet released'}`
     : OUT_NOW;
 }
 caption(null);

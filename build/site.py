@@ -17,14 +17,14 @@ DPI = 170          # A5 at 170 dpi is about 990 x 1405 pixels: sharp when a page
 RELEASED = {1}     # parts that are public on the site; add a number here when a part is ready
 
 PARTS = [
-    (1, "I", "The rise of a species", (1, 7)),
-    (2, "II", "Learning to rule strangers", (8, 22)),
-    (3, "III", "Believers, scholars and merchants", None),
-    (4, "IV", "When distant worlds met", None),
-    (5, "V", "Energy, freedom, and industrial empire", None),
-    (6, "VI", "The age of mass mobilization", None),
-    (7, "VII", "One intertwined world", None),
-    (8, "VIII", "The end of the human empire", None),
+    (1, "I", "Origins", (1, 7)),
+    (2, "II", "Conquest", (8, 22)),
+    (3, "III", "Faith", None),
+    (4, "IV", "Expansion", None),
+    (5, "V", "Wealth", None),
+    (6, "VI", "War", None),
+    (7, "VII", "Dominion", None),
+    (8, "VIII", "Decline", None),
 ]
 
 
@@ -44,8 +44,7 @@ def chapters(first, last, pdf):
 
 data = []
 for n, roman, title, span in PARTS:
-    # the title of a part that is not out yet stays off the site: it may still change
-    entry = {"n": n, "roman": roman, "released": False}
+    entry = {"n": n, "roman": roman, "title": title, "released": False}
     shutil.rmtree(os.path.join(SITE, "pages", str(n)), ignore_errors=True)
     for ext in ("pdf", "epub"):
         old = os.path.join(SITE, "downloads", f"the-human-empire-part-{n}.{ext}")
@@ -67,7 +66,7 @@ for n, roman, title, span in PARTS:
             os.makedirs(os.path.join(SITE, "downloads"), exist_ok=True)
             name = f"the-human-empire-part-{n}"
             shutil.copy(pdf, os.path.join(SITE, "downloads", name + ".pdf"))
-            entry.update(released=True, title=title, pages=len(shots), pdf=f"downloads/{name}.pdf",
+            entry.update(released=True, pages=len(shots), pdf=f"downloads/{name}.pdf",
                          chapters=chapters(span[0], span[1], pdf))
             if os.path.exists(epub):
                 shutil.copy(epub, os.path.join(SITE, "downloads", name + ".epub"))

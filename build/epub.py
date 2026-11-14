@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Build an EPUB of the chapters written so far.
 
-    uv run --with markdown build/epub.py 1 7 "Part I: The rise of a species"
+    uv run --with markdown build/epub.py 1 7 "Part I: Origins"
 
 Arguments: first chapter, last chapter, and a subtitle for this edition.
 Each chapter is followed by its

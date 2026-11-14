@@ -79,7 +79,7 @@ Each chapter has a brief and a *working answer*. The working answer is the hypot
 
 ---
 
-## Part I — The rise of a species
+## Part I — Origins
 *Scale: the band and its neighbors.*
 
 ### 1. What is a human?
@@ -120,7 +120,7 @@ Set Egypt's royal claims beside the practical work of feeding laborers along the
 
 ---
 
-## Part II — Learning to rule strangers
+## Part II — Conquest
 *Scale: the city and the first empires.*
 
 ### 6. What changes when one city rules many?
@@ -198,7 +198,7 @@ Begin on the northern frontier of Han China, facing the Xiongnu, a confederation
 
 ---
 
-## Part III — Believers, scholars and merchants
+## Part III — Faith
 *Scale: communities that outlast the governments around them.*
 
 ### 19. How Rome recruited its rivals
@@ -263,7 +263,7 @@ Begin in a Maya city with a carved stone recording one king's capture of another
 
 ---
 
-## Part IV — When distant worlds met
+## Part IV — Expansion
 *Scale: connected hemispheres.*
 
 ### 31. The army that moved with its horses
@@ -323,7 +323,7 @@ Begin with a telescope pointed at Jupiter and the argument over whether to trust
 
 ---
 
-## Part V — Energy, freedom, and industrial empire
+## Part V — Wealth
 *Scale: an industrial globe.*
 
 ### 42. The kingdoms on the other shore
@@ -408,7 +408,7 @@ Begin with two women who answered the revolutionary declarations of chapter 45: 
 
 ---
 
-## Part VI — The age of mass mobilization
+## Part VI — War
 *Scale: whole populations organized for war.*
 
 ### 58. Why did a regional crisis become a world war?
@@ -463,7 +463,7 @@ Begin with the discovery of nuclear fission in 1938 and the letter that warned a
 
 ---
 
-## Part VII — One intertwined world
+## Part VII — Dominion
 *Scale: one economic and strategic system.*
 
 ### 68. What does independence mean in the same town?
@@ -553,7 +553,7 @@ Begin in Myanmar in 2017, where hatred of the Rohingya minority spread through a
 
 ---
 
-## Part VIII — The end of the human empire
+## Part VIII — Decline
 *Scale: the species and the planet. The book's questions are now asked of humanity as a whole.*
 
 ### 85. What does the empire run on?

@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Typeset chapters as a designed PDF with Typst.
 
-    uv run --with typst build/pdf.py 12 12 "Part II: Learning to rule strangers"
+    uv run --with typst build/pdf.py 12 12 "Part II: Conquest"
 
 Everything is generated from the chapter and tool-page markdown, so the layout
 survives edits: nothing is placed by hand. The design lives in build/book.typ.
