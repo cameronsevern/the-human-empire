@@ -69,6 +69,12 @@ A chapter can have more than one tool page: if a tool is interesting, it gets a 
 | 25 | The book with pages | The book the Christians chose |
 | 26 | The begging bowl | A monk's whole property, filled by others |
 | 27 | The triple wall | Why the eastern capital held |
+| 28 | The camel saddle | A seat over the hump, and the desert crossed |
+| 29 | The fire siphon | Fire that burned on water, and a recipe nobody knows |
+| 30 | The paper mould | One sheet a dip, all day long |
+| 31 | The printing block | A page carved once and printed for centuries |
+| 32 | The fire lance | A tube of powder on a spear, the ancestor of the gun |
+| 32 | The compass needle | North and south under a clouded sky |
 
 ## Files
 

@@ -1,0 +1,3 @@
+| File | What it shows | Commons page | Author | Licence |
+|---|---|---|---|---|
+| toolbox/28-camel-saddle/photo-bedouin-rider.jpg | Bedouin spearman on a camel with a saddle over the hump and waterskins slung below, Matson Collection glass negative dated 1900 on Commons. Cropped to the left-hand print of a two-print negative and mirrored, since the scan is reversed (the labels on the plate read backwards). Resized to 1082x1600 and trimmed top and bottom to 1082x1250 | https://commons.wikimedia.org/wiki/File:Costumes,_characters,_etc._Bedouin_spearman,_with_water_skins_on_camel_;_Bedouin_warrior_on_camel-back_LOC_matpc.01308.jpg | Matson Collection (American Colony Photo Department), Library of Congress | Public domain |

@@ -1,0 +1,123 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" font-family="Georgia, 'Noto Serif', serif">
+<defs>
+<!-- paper: fine grain plus slow blotches -->
+<filter id="paper" x="0" y="0" width="100%" height="100%">
+<feTurbulence type="fractalNoise" baseFrequency="0.8" numOctaves="3" seed="3" result="grain"/>
+<feColorMatrix in="grain" type="matrix" values="0 0 0 0 0.45  0 0 0 0 0.36  0 0 0 0 0.24  0 0 0 0.9 -0.42" result="g2"/>
+<feTurbulence type="fractalNoise" baseFrequency="0.006" numOctaves="2" seed="8" result="blot"/>
+<feColorMatrix in="blot" type="matrix" values="0 0 0 0 0.55  0 0 0 0 0.42  0 0 0 0 0.25  0 0 0 0.55 -0.2" result="b2"/>
+<feMerge><feMergeNode in="SourceGraphic"/><feMergeNode in="b2"/><feMergeNode in="g2"/></feMerge>
+</filter>
+<!-- ink: a slight wobble in every line, a soft bleed of colour under it, and mottling inside the washes -->
+<filter id="ink" x="-5%" y="-5%" width="110%" height="110%">
+<feTurbulence type="fractalNoise" baseFrequency="0.018" numOctaves="2" seed="5" result="warp"/>
+<feDisplacementMap in="SourceGraphic" in2="warp" scale="5" xChannelSelector="R" yChannelSelector="G" result="drawn"/>
+<feGaussianBlur in="drawn" stdDeviation="7" result="bleed0"/>
+<feComponentTransfer in="bleed0" result="bleed"><feFuncA type="linear" slope="0.38"/></feComponentTransfer>
+<feTurbulence type="fractalNoise" baseFrequency="0.011" numOctaves="2" seed="11" result="wash"/>
+<feColorMatrix in="wash" type="matrix" values="0 0 0 0 0.35  0 0 0 0 0.25  0 0 0 0 0.15  0 0 0 0.75 -0.3" result="w2"/>
+<feComposite in="w2" in2="drawn" operator="in" result="mottle"/>
+<feMorphology in="drawn" operator="erode" radius="2.5" result="inner"/>
+<feComposite in="drawn" in2="inner" operator="out" result="rim0"/>
+<feColorMatrix in="rim0" type="matrix" values="0 0 0 0 0.3  0 0 0 0 0.22  0 0 0 0 0.15  0 0 0 0.16 0" result="rim"/>
+<feOffset in="drawn" dx="5" dy="7" result="off"/>
+<feGaussianBlur in="off" stdDeviation="5" result="sh0"/>
+<feColorMatrix in="sh0" type="matrix" values="0 0 0 0 0.25  0 0 0 0 0.2  0 0 0 0 0.15  0 0 0 0.22 0" result="shadow"/>
+<feMerge><feMergeNode in="shadow"/><feMergeNode in="bleed"/><feMergeNode in="drawn"/><feMergeNode in="mottle"/><feMergeNode in="rim"/></feMerge>
+</filter>
+<radialGradient id="vig" cx="50%" cy="50%" r="75%"><stop offset="60%" stop-color="#6b4a2a" stop-opacity="0"/><stop offset="100%" stop-color="#6b4a2a" stop-opacity="0.22"/></radialGradient>
+</defs>
+<rect width="1200" height="760" fill="#faf6ee" filter="url(#paper)"/>
+<rect width="1200" height="760" fill="url(#vig)"/>
+<rect x="14" y="14" width="1172" height="732" fill="none" stroke="#2f2a26" stroke-width="2"/>
+<rect x="20" y="20" width="1160" height="720" fill="none" stroke="#2f2a26" stroke-width="0.7"/>
+<text x="44" y="64" font-size="30" font-weight="bold" fill="#2f2a26" letter-spacing="3">THE CAMEL SADDLE</text>
+<line x1="44" y1="76" x2="104" y2="76" stroke="#b5523b" stroke-width="3"/>
+<text x="44" y="104" font-size="20" font-style="italic" fill="#8a8178">northern Arabia, by about 2,000 years ago</text>
+<g filter="url(#ink)">
+<line x1="60" y1="712" x2="1140" y2="712" stroke="#8a8178" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M 338,470 L 326,590 L 335,704 L 349,704 L 346,590 L 362,470 Z" fill="#cdb38a" stroke="#2f2a26" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<ellipse cx="336" cy="590" rx="12" ry="11" fill="#cdb38a" stroke="#2f2a26" stroke-width="2" transform="rotate(0 336 590)"/>
+<ellipse cx="346" cy="707" rx="18" ry="6" fill="#cdb38a" stroke="#2f2a26" stroke-width="2" transform="rotate(0 346 707)"/>
+<path d="M 656,470 L 670,590 L 665,704 L 679,704 L 690,590 L 680,470 Z" fill="#cdb38a" stroke="#2f2a26" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<ellipse cx="680" cy="590" rx="12" ry="11" fill="#cdb38a" stroke="#2f2a26" stroke-width="2" transform="rotate(0 680 590)"/>
+<ellipse cx="676" cy="707" rx="18" ry="6" fill="#cdb38a" stroke="#2f2a26" stroke-width="2" transform="rotate(0 676 707)"/>
+<path d="M 318,318 C 350,270 390,250 428,250 C 470,250 515,290 545,332 C 580,348 620,350 650,356 C 720,370 770,330 800,280 C 815,250 840,236 870,240 C 900,244 918,256 912,270 C 905,280 880,280 868,284 C 850,300 835,340 800,400 C 770,445 720,470 680,478 C 600,496 420,500 340,478 C 270,470 230,430 232,390 C 235,350 280,330 318,318 Z" fill="#dcc39a" stroke="#2f2a26" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<circle cx="884" cy="254" r="3.5" fill="#2f2a26" stroke="#2f2a26" stroke-width="0"/>
+<path d="M 858,244 C 860,232 868,230 874,236" fill="none" stroke="#2f2a26" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 236,382 C 214,400 208,440 214,490" fill="none" stroke="#2f2a26" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 285,462 C 291,522 281,550 283,590 L 292,704 L 308,704 L 309,590 C 311,550 321,522 329,462 Z" fill="#dcc39a" stroke="#2f2a26" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" />
+<ellipse cx="296" cy="590" rx="16" ry="13" fill="#dcc39a" stroke="#2f2a26" stroke-width="2" transform="rotate(0 296 590)"/>
+<ellipse cx="304" cy="707" rx="20" ry="7" fill="#dcc39a" stroke="#2f2a26" stroke-width="2" transform="rotate(0 304 707)"/>
+<path d="M 605,470 C 611,530 625,550 627,590 L 624,704 L 640,704 L 653,590 C 655,550 641,530 649,470 Z" fill="#dcc39a" stroke="#2f2a26" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" />
+<ellipse cx="640" cy="590" rx="16" ry="13" fill="#dcc39a" stroke="#2f2a26" stroke-width="2" transform="rotate(0 640 590)"/>
+<ellipse cx="636" cy="707" rx="20" ry="7" fill="#dcc39a" stroke="#2f2a26" stroke-width="2" transform="rotate(0 636 707)"/>
+<path d="M 318,350 C 340,340 380,338 400,342 L 400,372 C 370,370 340,374 318,380 Z" fill="#cfc0a2" stroke="#2f2a26" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 462,342 C 490,338 530,344 552,354 L 552,384 C 525,376 492,372 462,372 Z" fill="#cfc0a2" stroke="#2f2a26" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 300,286 C 270,300 254,340 262,380 C 270,410 300,412 312,392 C 322,360 318,316 300,286 Z" fill="#a08463" stroke="#2f2a26" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="350" y1="214" x2="300" y2="288" stroke="#2f2a26" stroke-width="1.8" stroke-linecap="round"/>
+<line x1="362" y1="350" x2="346" y2="186" stroke="#2f2a26" stroke-width="13" stroke-linecap="round"/>
+<line x1="362" y1="350" x2="346" y2="186" stroke="#b5523b" stroke-width="8" stroke-linecap="round"/>
+<circle cx="346" cy="182" r="9" fill="#b5523b" stroke="#2f2a26" stroke-width="2.5"/>
+<line x1="492" y1="350" x2="506" y2="186" stroke="#2f2a26" stroke-width="13" stroke-linecap="round"/>
+<line x1="492" y1="350" x2="506" y2="186" stroke="#b5523b" stroke-width="8" stroke-linecap="round"/>
+<circle cx="506" cy="182" r="9" fill="#b5523b" stroke="#2f2a26" stroke-width="2.5"/>
+<line x1="330" y1="300" x2="530" y2="300" stroke="#2f2a26" stroke-width="10" stroke-linecap="round"/>
+<line x1="330" y1="300" x2="530" y2="300" stroke="#e6d6b8" stroke-width="5" stroke-linecap="round"/>
+<line x1="330" y1="336" x2="530" y2="336" stroke="#2f2a26" stroke-width="10" stroke-linecap="round"/>
+<line x1="330" y1="336" x2="530" y2="336" stroke="#e6d6b8" stroke-width="5" stroke-linecap="round"/>
+<path d="M 360,250 C 400,236 450,236 494,250 L 490,276 C 450,264 400,264 364,276 Z" fill="#c9a77a" stroke="#2f2a26" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 520,300 L 600,300 C 612,350 604,400 580,420 L 540,420 C 516,400 510,350 520,300 Z" fill="#b98a5e" stroke="#2f2a26" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="544" y1="420" x2="540" y2="456" stroke="#b98a5e" stroke-width="3" stroke-linecap="round"/>
+<circle cx="540" cy="460" r="4" fill="#b98a5e" stroke="#2f2a26" stroke-width="1.5"/>
+<line x1="564" y1="420" x2="560" y2="456" stroke="#b98a5e" stroke-width="3" stroke-linecap="round"/>
+<circle cx="560" cy="460" r="4" fill="#b98a5e" stroke="#2f2a26" stroke-width="1.5"/>
+<line x1="584" y1="420" x2="580" y2="456" stroke="#b98a5e" stroke-width="3" stroke-linecap="round"/>
+<circle cx="580" cy="460" r="4" fill="#b98a5e" stroke="#2f2a26" stroke-width="1.5"/>
+<line x1="510" y1="214" x2="530" y2="300" stroke="#2f2a26" stroke-width="1.8" stroke-linecap="round"/>
+<line x1="510" y1="214" x2="590" y2="300" stroke="#2f2a26" stroke-width="1.8" stroke-linecap="round"/>
+<line x1="430" y1="350" x2="430" y2="484" stroke="#2f2a26" stroke-width="2" stroke-linecap="round" stroke-dasharray="9 6"/>
+<circle cx="1030" cy="250" r="105" fill="#ffffff" stroke="#2f2a26" stroke-width="2.5"/>
+<path d="M 950,345 C 960,280 995,255 1030,252 C 1065,255 1100,280 1110,345" fill="#dcc39a" stroke="#2f2a26" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" />
+<ellipse cx="974" cy="298" rx="15" ry="24" fill="#cfc0a2" stroke="#2f2a26" stroke-width="2" transform="rotate(-30 974 298)"/>
+<ellipse cx="1086" cy="298" rx="15" ry="24" fill="#cfc0a2" stroke="#2f2a26" stroke-width="2" transform="rotate(30 1086 298)"/>
+<path d="M 970.0,290.0 L 1030.0,210.0 L 1090.0,290.0" fill="none" stroke="#2f2a26" stroke-width="12" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 970.0,290.0 L 1030.0,210.0 L 1090.0,290.0" fill="none" stroke="#b5523b" stroke-width="7" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="1030" y1="210" x2="1030" y2="168" stroke="#2f2a26" stroke-width="11" stroke-linecap="round"/>
+<line x1="1030" y1="210" x2="1030" y2="168" stroke="#b5523b" stroke-width="6" stroke-linecap="round"/>
+<circle cx="1030" cy="164" r="8" fill="#b5523b" stroke="#2f2a26" stroke-width="2.5"/>
+<line x1="985" y1="275" x2="960" y2="450" stroke="#2f2a26" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="985" cy="275" r="4" fill="#2f2a26" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="960" cy="450" r="19" fill="#faf6ee" stroke="#2f2a26" stroke-width="2"/>
+<line x1="345" y1="300" x2="240" y2="230" stroke="#2f2a26" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="345" cy="300" r="4" fill="#2f2a26" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="240" cy="230" r="19" fill="#faf6ee" stroke="#2f2a26" stroke-width="2"/>
+<line x1="360" y1="365" x2="230" y2="560" stroke="#2f2a26" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="360" cy="365" r="4" fill="#2f2a26" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="230" cy="560" r="19" fill="#faf6ee" stroke="#2f2a26" stroke-width="2"/>
+<line x1="440" y1="248" x2="600" y2="170" stroke="#2f2a26" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="440" cy="248" r="4" fill="#2f2a26" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="600" cy="170" r="19" fill="#faf6ee" stroke="#2f2a26" stroke-width="2"/>
+<line x1="582" y1="398" x2="800" y2="600" stroke="#2f2a26" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="582" cy="398" r="4" fill="#2f2a26" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="800" cy="600" r="19" fill="#faf6ee" stroke="#2f2a26" stroke-width="2"/>
+</g>
+<text x="1030" y="131" text-anchor="middle" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-style="italic">Seen from in front</text>
+<text x="960" y="457" text-anchor="middle" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">1</text>
+<text x="990" y="457" text-anchor="start" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">Two wooden</text>
+<text x="990" y="484" text-anchor="start" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">arches stand</text>
+<text x="990" y="511" text-anchor="start" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">over the hump</text>
+<text x="240" y="237" text-anchor="middle" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">2</text>
+<text x="210" y="237" text-anchor="end" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">Side bars</text>
+<text x="210" y="264" text-anchor="end" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">join them</text>
+<text x="230" y="567" text-anchor="middle" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">3</text>
+<text x="200" y="567" text-anchor="end" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">Stuffed pads</text>
+<text x="200" y="594" text-anchor="end" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">keep the wood</text>
+<text x="200" y="621" text-anchor="end" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">off the camel</text>
+<text x="600" y="177" text-anchor="middle" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">4</text>
+<text x="630" y="177" text-anchor="start" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">The rider's cushion,</text>
+<text x="630" y="204" text-anchor="start" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">on top of the frame</text>
+<text x="800" y="607" text-anchor="middle" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">5</text>
+<text x="830" y="607" text-anchor="start" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">Bags and waterskins</text>
+<text x="830" y="634" text-anchor="start" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">hang from the posts</text>
+</svg>

@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" font-family="Georgia, 'Noto Serif', serif">
+<defs>
+<!-- paper: fine grain plus slow blotches -->
+<filter id="paper" x="0" y="0" width="100%" height="100%">
+<feTurbulence type="fractalNoise" baseFrequency="0.8" numOctaves="3" seed="3" result="grain"/>
+<feColorMatrix in="grain" type="matrix" values="0 0 0 0 0.45  0 0 0 0 0.36  0 0 0 0 0.24  0 0 0 0.9 -0.42" result="g2"/>
+<feTurbulence type="fractalNoise" baseFrequency="0.006" numOctaves="2" seed="8" result="blot"/>
+<feColorMatrix in="blot" type="matrix" values="0 0 0 0 0.55  0 0 0 0 0.42  0 0 0 0 0.25  0 0 0 0.55 -0.2" result="b2"/>
+<feMerge><feMergeNode in="SourceGraphic"/><feMergeNode in="b2"/><feMergeNode in="g2"/></feMerge>
+</filter>
+<!-- ink: a slight wobble in every line, a soft bleed of colour under it, and mottling inside the washes -->
+<filter id="ink" x="-5%" y="-5%" width="110%" height="110%">
+<feTurbulence type="fractalNoise" baseFrequency="0.018" numOctaves="2" seed="5" result="warp"/>
+<feDisplacementMap in="SourceGraphic" in2="warp" scale="5" xChannelSelector="R" yChannelSelector="G" result="drawn"/>
+<feGaussianBlur in="drawn" stdDeviation="7" result="bleed0"/>
+<feComponentTransfer in="bleed0" result="bleed"><feFuncA type="linear" slope="0.38"/></feComponentTransfer>
+<feTurbulence type="fractalNoise" baseFrequency="0.011" numOctaves="2" seed="11" result="wash"/>
+<feColorMatrix in="wash" type="matrix" values="0 0 0 0 0.35  0 0 0 0 0.25  0 0 0 0 0.15  0 0 0 0.75 -0.3" result="w2"/>
+<feComposite in="w2" in2="drawn" operator="in" result="mottle"/>
+<feMorphology in="drawn" operator="erode" radius="2.5" result="inner"/>
+<feComposite in="drawn" in2="inner" operator="out" result="rim0"/>
+<feColorMatrix in="rim0" type="matrix" values="0 0 0 0 0.3  0 0 0 0 0.22  0 0 0 0 0.15  0 0 0 0.16 0" result="rim"/>
+<feOffset in="drawn" dx="5" dy="7" result="off"/>
+<feGaussianBlur in="off" stdDeviation="5" result="sh0"/>
+<feColorMatrix in="sh0" type="matrix" values="0 0 0 0 0.25  0 0 0 0 0.2  0 0 0 0 0.15  0 0 0 0.22 0" result="shadow"/>
+<feMerge><feMergeNode in="shadow"/><feMergeNode in="bleed"/><feMergeNode in="drawn"/><feMergeNode in="mottle"/><feMergeNode in="rim"/></feMerge>
+</filter>
+<radialGradient id="vig" cx="50%" cy="50%" r="75%"><stop offset="60%" stop-color="#6b4a2a" stop-opacity="0"/><stop offset="100%" stop-color="#6b4a2a" stop-opacity="0.22"/></radialGradient>
+</defs>
+<rect width="1200" height="760" fill="#faf6ee" filter="url(#paper)"/>
+<rect width="1200" height="760" fill="url(#vig)"/>
+<rect x="14" y="14" width="1172" height="732" fill="none" stroke="#2f2a26" stroke-width="2"/>
+<rect x="20" y="20" width="1160" height="720" fill="none" stroke="#2f2a26" stroke-width="0.7"/>
+<text x="44" y="64" font-size="30" font-weight="bold" fill="#2f2a26" letter-spacing="3">THE COMPASS NEEDLE</text>
+<line x1="44" y1="76" x2="104" y2="76" stroke="#b5523b" stroke-width="3"/>
+<text x="44" y="104" font-size="20" font-style="italic" fill="#8a8178">China, by the 1000s</text>
+<g filter="url(#ink)">
+<line x1="60" y1="650" x2="1140" y2="650" stroke="#8a8178" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M 290.0,626.0 L 700.0,626.0 L 700.0,650.0 L 290.0,650.0 Z" fill="#e6d6b8" stroke="#2f2a26" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="660" y1="626" x2="660" y2="180" stroke="#2f2a26" stroke-width="16" stroke-linecap="round"/>
+<line x1="660" y1="626" x2="660" y2="180" stroke="#e6d6b8" stroke-width="10" stroke-linecap="round"/>
+<line x1="668" y1="190" x2="380" y2="190" stroke="#2f2a26" stroke-width="16" stroke-linecap="round"/>
+<line x1="668" y1="190" x2="380" y2="190" stroke="#e6d6b8" stroke-width="10" stroke-linecap="round"/>
+<line x1="470" y1="196" x2="470" y2="424" stroke="#9a8f80" stroke-width="1.6" stroke-linecap="round"/>
+<path d="M 330.0,430.0 L 470.0,426.0 L 610.0,430.0 L 470.0,434.0 Z" fill="#b5523b" stroke="#2f2a26" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<ellipse cx="470" cy="428" rx="9" ry="7" fill="#e8d38a" stroke="#2f2a26" stroke-width="2" transform="rotate(0 470 428)"/>
+<path d="M 400,626 C 390,590 420,570 460,574 C 505,578 520,600 510,626 Z" fill="#5a5550" stroke="#2f2a26" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" />
+<circle cx="950" cy="330" r="140" fill="#ffffff" stroke="#2f2a26" stroke-width="2.5"/>
+<path d="M 845,320 C 855,420 1045,420 1055,320 Z" fill="#d9b08c" stroke="#2f2a26" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<ellipse cx="950" cy="320" rx="105" ry="22" fill="#c9d6dc" stroke="#2f2a26" stroke-width="2.5" transform="rotate(0 950 320)"/>
+<path d="M 878.0,316.0 L 950.0,313.0 L 1022.0,320.0 L 950.0,323.0 Z" fill="#b5523b" stroke="#2f2a26" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="360" y1="430" x2="250" y2="470" stroke="#2f2a26" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="360" cy="430" r="4" fill="#2f2a26" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="250" cy="470" r="19" fill="#faf6ee" stroke="#2f2a26" stroke-width="2"/>
+<line x1="470" y1="290" x2="380" y2="260" stroke="#2f2a26" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="470" cy="290" r="4" fill="#2f2a26" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="380" cy="260" r="19" fill="#faf6ee" stroke="#2f2a26" stroke-width="2"/>
+<line x1="464" y1="424" x2="250" y2="340" stroke="#2f2a26" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="464" cy="424" r="4" fill="#2f2a26" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="250" cy="340" r="19" fill="#faf6ee" stroke="#2f2a26" stroke-width="2"/>
+<line x1="440" y1="594" x2="250" y2="590" stroke="#2f2a26" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="440" cy="594" r="4" fill="#2f2a26" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="250" cy="590" r="19" fill="#faf6ee" stroke="#2f2a26" stroke-width="2"/>
+<line x1="980" y1="318" x2="860" y2="560" stroke="#2f2a26" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="980" cy="318" r="4" fill="#2f2a26" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="860" cy="560" r="19" fill="#faf6ee" stroke="#2f2a26" stroke-width="2"/>
+</g>
+<text x="318" y="438" text-anchor="end" font-size="20" fill="#8a8178" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-style="italic">N</text>
+<text x="622" y="438" text-anchor="start" font-size="20" fill="#8a8178" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-style="italic">S</text>
+<text x="250" y="477" text-anchor="middle" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">1</text>
+<text x="220" y="477" text-anchor="end" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">A steel needle,</text>
+<text x="220" y="504" text-anchor="end" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">rubbed on a</text>
+<text x="220" y="531" text-anchor="end" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">lodestone</text>
+<text x="380" y="267" text-anchor="middle" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">2</text>
+<text x="350" y="267" text-anchor="end" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">One fibre</text>
+<text x="350" y="294" text-anchor="end" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">of new silk</text>
+<text x="250" y="347" text-anchor="middle" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">3</text>
+<text x="220" y="347" text-anchor="end" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">Fixed at its</text>
+<text x="220" y="374" text-anchor="end" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">middle with a</text>
+<text x="220" y="401" text-anchor="end" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">speck of wax</text>
+<text x="250" y="597" text-anchor="middle" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">4</text>
+<text x="220" y="597" text-anchor="end" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">A lodestone</text>
+<text x="860" y="567" text-anchor="middle" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">5</text>
+<text x="890" y="567" text-anchor="start" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">Ships' pilots floated</text>
+<text x="890" y="594" text-anchor="start" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">it in a bowl of water</text>
+</svg>
