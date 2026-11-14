@@ -60,16 +60,22 @@ for n, roman, title, span in PARTS:
             shutil.rmtree(pages_dir, ignore_errors=True)
             os.makedirs(pages_dir)
             with tempfile.TemporaryDirectory() as tmp:
-                subprocess.run(["pdftoppm", "-r", str(DPI), "-png", pdf, os.path.join(tmp, "p")], check=True)
+                # drawn once at twice the size: that is the sharp copy the reader fetches when zoomed, and halved it is the ordinary one
+                os.makedirs(os.path.join(pages_dir, "hi"))
+                # the -sharp copy of the PDF has the same pages with larger pictures in them (see SUFFIX in build/pdf.py)
+                sharp = pdf[:-4] + "-sharp.pdf"
+                source = sharp if os.path.exists(sharp) and os.path.getmtime(sharp) >= os.path.getmtime(pdf) else pdf
+                subprocess.run(["pdftoppm", "-r", str(2 * DPI), "-png", source, os.path.join(tmp, "p")], check=True)
                 shots = sorted(glob.glob(os.path.join(tmp, "p-*.png")))
                 for i, shot in enumerate(shots, start=1):
-                    subprocess.run(["magick", shot, "-quality", "80", os.path.join(pages_dir, f"{i:03d}.webp")], check=True)
+                    subprocess.run(["magick", shot, "-quality", "78", os.path.join(pages_dir, "hi", f"{i:03d}.webp")], check=True)
+                    subprocess.run(["magick", shot, "-resize", "50%", "-quality", "80", os.path.join(pages_dir, f"{i:03d}.webp")], check=True)
             os.makedirs(os.path.join(SITE, "downloads"), exist_ok=True)
             name = f"the-human-empire-part-{n}"
             shutil.copy(pdf, os.path.join(SITE, "downloads", name + ".pdf"))
             # v changes whenever the PDF does, so browsers never mix cached pages of an older build with new ones
             v = int(os.path.getmtime(pdf))
-            entry.update(released=True, v=v, pages=len(shots), pdf=f"downloads/{name}.pdf?v={v}",
+            entry.update(released=True, hi=True, v=v, pages=len(shots), pdf=f"downloads/{name}.pdf?v={v}",
                          chapters=chapters(span[0], span[1], pdf))
             if os.path.exists(epub):
                 shutil.copy(epub, os.path.join(SITE, "downloads", name + ".epub"))

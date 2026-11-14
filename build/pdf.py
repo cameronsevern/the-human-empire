@@ -203,7 +203,8 @@ os.makedirs(os.path.dirname(src), exist_ok=True)
 open(src, 'w').write('\n'.join(body))
 # book.typ sits beside the generated file so the import resolves
 open(os.path.join(ROOT, 'build', 'work', 'book.typ'), 'w').write(open(os.path.join(ROOT, 'build', 'book.typ')).read())
-out = os.path.join(ROOT, 'build', f'the-human-empire-ch{first:02d}-{last:02d}-designed.pdf')
+# SUFFIX=-sharp names a second copy, built with larger pictures (IMG_MAX), which the site draws its page images from
+out = os.path.join(ROOT, 'build', f'the-human-empire-ch{first:02d}-{last:02d}-designed{os.environ.get("SUFFIX", "")}.pdf')
 # The book is set in P052, a Palatino-style face. FONT=... tries another, into a separately named file.
 DEFAULT_FONT = "P052"
 FONT = os.environ.get("FONT", "") or DEFAULT_FONT

@@ -138,8 +138,8 @@ const gutterShade = canvasTexture(256, 4, (g) => {
 const blankPage = canvasTexture(8, 8, (g) => { g.fillStyle = PAPER; g.fillRect(0, 0, 8, 8); });
 
 const loader = new THREE.TextureLoader();
-function pageTexture(url) {
-  const t = loader.load(url);
+function pageTexture(url, loaded) {
+  const t = loader.load(url, loaded);
   t.colorSpace = THREE.SRGBColorSpace; t.anisotropy = MAX_ANISO;
   return t;
 }
@@ -215,6 +215,21 @@ class Book {
     if (!this.textures.has(p)) this.textures.set(p, pageTexture(`pages/${this.part.n}/${String(p).padStart(3, '0')}.webp?v=${this.part.v || 0}`));
     return this.textures.get(p);
   }
+  // The two pages in view, at twice the resolution, for when they are shown larger than the ordinary images can fill.
+  // Called every frame while reading; it only does work when the pages in view or the need for sharpness change.
+  sharpen(want) {
+    if (!this.hi) this.hi = new Map();
+    const ps = want && this.part.hi ? [this.pageOf('left'), this.pageOf('right')].filter(Boolean) : [];
+    for (const [p, t] of this.hi) if (!ps.includes(p)) { t.dispose(); this.hi.delete(p); }
+    for (const p of ps) if (!this.hi.has(p)) {
+      const t = pageTexture(`pages/${this.part.n}/hi/${String(p).padStart(3, '0')}.webp?v=${this.part.v || 0}`, () => { t.ready = true; });
+      this.hi.set(p, t);
+    }
+    for (const [side, mesh] of [['left', this.leftPage], ['right', this.rightPage]]) {
+      const p = this.pageOf(side), h = this.hi.get(p), m = h && h.ready ? h : this.tex(p);
+      if (mesh.material.map !== m) mesh.material.map = m;
+    }
+  }
   // keep the pages near the reader in memory and let the rest go
   warm() {
     const keep = new Set();
@@ -233,6 +248,7 @@ class Book {
 }
 
 // a single leaf in the air: a strip of quads bent as it turns about the spine
+const PAGE_PX = 1405;            // height in pixels of an ordinary page image (build/site.py)
 const SEG = 48;
 const LIGHT_SLOPE = 0.41;       // how far a shadow falls to the right for each unit of height, from the sun's position
 class Leaf {
@@ -634,6 +650,8 @@ function frame(now) {
     b.lift.position.y = b.hover * 0.22;
     b.lift.rotation.z = b.hover * -0.05;
   }
+  // a page fills about 1/1.2 of the height of the screen at zoom 1; past the size of its image, fetch the sharper one
+  if (current && !flipping) current.sharpen(mode === 'reading' && canvas.height * zoom / 1.2 > PAGE_PX * 1.1);
   camera.position.lerp(camPos, mode === 'moving' ? 1 : 0.18);
   camera.lookAt(camLook);
   renderer.render(scene, camera);
