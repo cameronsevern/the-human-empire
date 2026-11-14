@@ -8,6 +8,9 @@ In the summer of 1096, a duke named Godfrey, who held lands in what is now Belgi
 
 Godfrey was raising money for a journey of about four thousand kilometres, on horseback and on foot, to a city he had never seen, in order to capture it from people he knew nothing about. He would have to feed and equip himself and his followers for at least two years. All over France, the Low Countries and Germany that summer, men of his class were doing the same. Their agreements with monasteries and bishops survive by the hundred. One knight pawns his mill, another sells his vineyards, and a third gives up his claim to a disputed field in return for a horse and a little cash.
 
+![A medieval stone castle with long walls and towers on a wooded rock above a row of town houses and a river](images/bouillon.jpg)
+*The castle of Bouillon above the river Semois in Belgium, the Godfrey family seat that was pledged in 1096. Most of the stonework seen today was built later. Photo: Jean-Pol Grandmont, CC BY 3.0.*
+
 The cost to each of them came to something like four or five times his yearly income. Most could expect to gain nothing by it, and they knew that many would not come home. The old explanation, that these were landless younger sons out to grab estates in the east, does not survive a reading of those documents. The men who went were mostly heads of families, with property to lose, and they said in writing why they were going. They were afraid for their souls.
 
 ## Barefoot in the snow
@@ -22,9 +25,15 @@ It came to a head over the appointing of bishops. A bishop in those centuries wa
 
 In January 1077, the king crossed the Alps in midwinter to a castle in northern Italy where the pope was staying. For three days he stood at the gate, barefoot in the snow, in the rough woollen shirt of a penitent, until the pope let him in and lifted the sentence. A few years later, when the king's position had recovered, he marched on Rome and drove the same pope into exile. Each side had learned that it was able to wound the other, and that it lacked the means to finish the matter.
 
+![A painted manuscript page: a crowned king kneels before a seated countess under an arch, while a monk with a staff sits at the left](images/canossa.jpg)
+*King Henry kneels and begs for help from Abbot Hugh of Cluny, at left, and Countess Matilda of Tuscany, at Canossa in January 1077. Painted about 1115, a generation after the event, for a life of Matilda. Public domain.*
+
 The pope who launched the crusade, Urban, came to office in the middle of this struggle, with a rival pope appointed by the German king holding much of Rome. He badly needed to show that the bishop of Rome was the true leader of the Christian world.
 
 He also had a second problem, which concerned the knights. Since Charlemagne's time the decisive weapon in the west had been the armoured horseman. A warrior in a mail coat, braced in his saddle by stirrups and carrying a heavy lance, could ride down most things on foot. His horse and gear cost as much as a small farm, and he had to train from boyhood. The lords of Europe paid for such men by granting them land, and housed them in castles, which had spread across the countryside by the thousand.
+
+![Embroidered horsemen in chain-mail coats and pointed helmets riding to the left, with archers on foot to the right](images/bayeux_horsemen.jpg)
+*Armoured horsemen in mail coats with spears and kite-shaped shields, from the Bayeux Tapestry, embroidered in the 1070s to show the Norman victory at Hastings in 1066. Photo: Myrabella, public domain.*
 
 With no strong king to restrain them, these men fought one another constantly, over inheritances, boundaries and insults, and the peasants and churches in between were plundered by both sides. The church taught that killing a Christian was a grave sin, for which a man owed years of penance, in fasting, prayer or pilgrimage. A knight could not do his job without sinning, and he could not complete his penance without ceasing to be a knight. Many of them worried about this a great deal, and gave land to monasteries so that monks would pray for them.
 
@@ -42,6 +51,9 @@ The emperor who inherited this disaster, Alexios, was a capable soldier with a s
 
 Urban saw a much larger possibility. That autumn he travelled through France, his own homeland, and summoned a council at the town of Clermont. On 27 November 1095, when the church business was finished, he had a platform set up in a field outside the walls, because no building would hold the crowd, and preached.
 
+![A painted manuscript page showing a pope on a throne at the far end of a tall Gothic church, preaching to rows of seated men, with text and a procession of knights below](images/clermont.jpg)
+*Pope Urban preaching at Clermont, as a French painter imagined it about 1474, nearly four hundred years afterwards. The council actually met in a field, and the church and the clothes are those of the painter's own day. Public domain.*
+
 Nobody took down his words. Several men who were present wrote accounts years later, and they differ. The main points are nevertheless clear. He told the knights that their fellow Christians in the east were being conquered and abused. He told them that Jerusalem, the city where Christ had died and risen, was in the hands of unbelievers. He reproached them with their own wars, in which Christians butchered Christians for scraps of land. Then he offered them a different war. One account says that the crowd interrupted him with a shout of "God wills it!"
 
 What made the offer irresistible was a promise, and its wording has survived in the council's own records. Whoever goes to Jerusalem to free the church of God, out of devotion alone and not for honour or money, may count that journey in place of all penance.
@@ -57,6 +69,9 @@ Urban had expected a force of knights under the great lords, to leave the follow
 Some of those early bands never left Germany before finding someone to attack.
 
 Along the river Rhine stood some of the oldest and richest towns of the German kingdom, and several of them had communities of Jews, who had lived there for generations as merchants, moneylenders and physicians under the protection of the bishops. In May 1096, a count from the region led an army of crusaders against them.
+
+![A weathered red sandstone gravestone carved with lines of Hebrew letters, standing in grass, with small stones and candles left on it](images/worms_maharil.jpg)
+*A Hebrew gravestone in the old Jewish cemetery at Worms on the Rhine, where the community was attacked in 1096. This is the grave of Rabbi Yaakov Moelin, who died in 1427; visitors leave stones and candles. Photo: Dietrich Krieger, CC BY-SA 3.0.*
 
 A Jewish writer of the next generation set down what the attackers said to one another. We are setting out on a long road to take vengeance on the Muslims, they said, and here among us are the Jews, whose ancestors killed and crucified him. Let us take vengeance on them first.
 
@@ -86,6 +101,9 @@ A year later, in June 1099, what was left of the expedition came in sight of Jer
 
 Then they killed nearly everyone they found. The Muslims of the city were cut down in the streets and in the great mosque on the platform where the Jewish Temple had once stood, where many had fled. The Jews were burned in their synagogue. A priest who was with the army wrote that in that mosque, which the crusaders called the Temple, men rode in blood up to their knees and the bridles of their horses. He was borrowing a phrase from the Bible, and he was boasting. The victors then went, weeping with joy, to give thanks at the church built over the tomb of Christ.
 
+![The stone front of a church with two arched doorways, carved arches above two windows, a bell tower on the left and a low dome behind](images/holy_sepulchre.jpg)
+*The front of the Church of the Holy Sepulchre in Jerusalem, in a colour print made from a photograph between 1890 and 1905. The carved doorways were built by the crusaders in the 1100s. Public domain.*
+
 Godfrey was chosen to rule the city. Most of the survivors, having fulfilled their vow, went home. Those who stayed held a few hundred knights among them. Over the next ten years they and later arrivals pieced together four small states, strung from the upper Euphrates down to the edge of Egypt.
 
 ## One more invader
@@ -100,6 +118,9 @@ A Syrian nobleman named Usama, who grew up in those years and wrote his memoirs 
 
 Those knights were Templars, members of a new kind of organisation that the crusade had produced. They were monks who took vows of poverty, chastity and obedience and lived under a rule, and their work was fighting. The Templars and a second brotherhood like them, with estates all over Europe sending them money and recruits, became the standing army of the crusader states and the builders of their enormous castles.
 
+![A huge pale stone castle with round towers and sloping walls on a green hilltop under a blue sky](images/krak.jpg)
+*Krak des Chevaliers in Syria, a castle of the Hospitallers, the other great fighting brotherhood beside the Templars. It was rebuilt on this scale in the 1100s and 1200s. Photo: Ergo, CC BY 2.0.*
+
 The other people who made the conquest last were merchants. The fleets of the Italian trading cities, Venice, Genoa and Pisa, had supplied the armies from the sea, and they took their reward in the form of quarters in every captured port, free of tax. Through those ports, the pepper and silk of the Indian Ocean now reached Europe in Italian ships.
 
 ## Ten dinars a man
@@ -108,7 +129,13 @@ The Muslim answer, when it came, was the work of three rulers in succession, eac
 
 In July 1187 the king of Jerusalem marched his whole army, some twenty thousand men, across a waterless plateau in the heat to relieve a castle. Saladin's horse archers harassed the column until it halted, short of the lake, on a hill with two peaks. His men set fire to the dry grass upwind. The next day the crusader army, mad with thirst, was destroyed. The soldier monks among the prisoners were beheaded. The king was given a cup of iced water and held for ransom.
 
+![A rocky ridge with two peaks over a dry plateau, with the blue Sea of Galilee and a cliff in the distance](images/hattin.jpg)
+*The Horns of Hattin, the two-peaked hill above the Sea of Galilee where the crusader army was destroyed in July 1187. Photo: AVRAMGR, CC BY-SA 4.0.*
+
 Jerusalem had almost no defenders left, and it surrendered three months later. The people inside remembered 1099 and expected the same. Saladin gave them terms instead. Every man could buy his freedom for ten gold coins, every woman for five, and every child for one, and those who paid were escorted to the coast. Thousands who could not pay were let go without payment by Saladin and his brother. Several thousand others were sold as slaves. There was no massacre, and the church of the tomb was left open to Christian pilgrims for a fee.
+
+![Two sides of a dark copper coin, one with a crowned face and the other with a square of Arabic writing](images/saladin_coin.jpg)
+*A copper coin struck in Saladin's name at Nisibin, now in Turkey, in 1182 or 1183, with Arabic inscriptions. Photo: American Numismatic Society, CC0.*
 
 An earlier expedition led by two kings, forty years before, had achieved nothing. The loss of the city now brought the kings of western Europe east again. The king of England, Richard, proved a better general than any Saladin had faced, and retook the coast. He never managed to take Jerusalem, and after more than a year of fighting, the two men, who had not once met, agreed to a truce. The Christians would keep the ports, the Muslims would keep the city, and unarmed pilgrims would be allowed to visit it. Saladin died a few months later. One of his officials recorded that the treasury of the man who had ruled from the Nile to the Tigris held one piece of gold and forty-seven of silver, since he had given the rest away.
 
@@ -124,6 +151,13 @@ Then a young prince of Constantinople arrived in the camp. His father, the emper
 
 The crusaders were camped outside the richest city in Christendom, owed a fortune by a dead man. In April 1204 they attacked. They got over the sea walls from the masts of the Venetian ships, and for three days they sacked the city that Urban's crusade had been called to defend. A senator of Constantinople who lived through it wrote that even the Muslims had been merciful by comparison with these men who carried the cross of Christ on their shoulders. Churches were stripped of their gold, and their relics were shared out like any other plunder.
 
+![A painted manuscript strip showing a ship full of helmeted soldiers beside a walled city with a dome, and mounted knights on the right](images/constantinople_1204.jpg)
+*The crusaders attack Constantinople in 1204, painted about 1330 in a manuscript of Villehardouin, a leader of the crusade who wrote its history. It is a later imagining: the walled town is a generic picture. Public domain.*
+
 The victors divided the empire among themselves. It was restored in a reduced form nearly sixty years later, and it never recovered its strength. The barrier that had stood between Europe and the powers of the east for eight hundred years had been broken by Christians.
 
 The Venetians took their share in the form of trading ports, islands and works of art. Among the last were four life-sized horses of gilded bronze, already ancient, that had stood over the starting gates of the city's racecourse. They were shipped home and set up above the main door of the church of Saint Mark, where copies of them stand today.
+
+
+![Four gilded bronze horses with collars standing in a row, lit against a dark background](images/st_mark_horses.jpg)
+*The four gilded bronze horses brought from Constantinople to Venice, ancient even in 1204. These are the originals, now kept indoors in the basilica of Saint Mark; copies stand outside. Photo: Tteske, public domain.*
