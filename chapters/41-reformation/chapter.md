@@ -22,7 +22,13 @@ He began with a rod of hard steel. On its tip he carved a single letter, back to
 
 To print a page, a second workman picked the letters out of a case one by one and set them in rows in a frame, with blank pieces between the words. The frame was locked tight and dabbed with a sticky ink made from lamp soot and linseed oil. A damp sheet of paper was laid over it, and the whole thing was slid under a heavy screw press of the kind that vineyards used for squeezing grapes. One pull of the lever made one page. When enough copies had been taken, the letters were sorted back into the case and used again.
 
+![Woodcut of a print shop with one man inking type, another pulling the press and compositors working at cases behind them](images/print_shop.png)
+*A print shop, from a woodcut of 1568. One man inks the type while another works the press. Woodcut: Jost Amman, public domain.*
+
 Two men at a press could print more in a day than a copyist wrote in a year. Gutenberg's first great book, a Bible in two volumes, came out around 1455 in about a hundred and eighty copies. It still cost about three years of a clerk's pay. Printing was an expensive business, since a printer had to buy metal, presses and a mountain of paper before he sold a single copy, and Gutenberg himself was ruined by his debts and lost his workshop to the man who had lent him the money.
+
+![First page of Genesis in Gutenberg's Bible, printed in black Gothic type in two columns with a hand-painted initial and border](images/gutenberg_genesis.jpg)
+*The first page of Genesis from Gutenberg's Bible, printed around 1455. The text is printed; the coloured border was painted in by hand. Scan: Jossi, public domain.*
 
 The method spread all the same, carried by his workmen from town to town. By 1500 there were presses in more than two hundred European cities, and they had produced something like twenty million books, which was more than all the copyists of Europe had written in the thousand years before. The price of a book fell to a fraction of what it had been.
 
@@ -44,11 +50,20 @@ Albrecht borrowed the fee from the Fuggers, a family of bankers in Augsburg who 
 
 The selling was put in the hands of a friar named Tetzel, who was good at it. He entered each town in procession, with the pope's document carried on a velvet cushion, and preached in the market square. He told his listeners that this indulgence would work for the dead as well as the living, so that for a few coins they could release a dead mother or father from the fire. A rhyme went around that summed up the offer: as soon as the coin in the coffer rings, the soul from purgatory springs.
 
+![Long iron-bound wooden chest standing on a brick floor in a museum](images/tetzel_chest.jpg)
+*A chest said to have been Tetzel's indulgence chest. Its size suggests how much money the sales brought in. Photo: Falk2, CC BY-SA 4.0.*
+
 Tetzel was not allowed into Saxony, the territory next door, whose prince did not want his subjects' money leaving the country. People crossed the border to buy from him anyway. Some of them brought their certificates home to the town of Wittenberg and showed them to their priest, as proof that they no longer needed to confess.
 
 The priest was Martin Luther. He was a miner's son, thirty-three years old, a friar, and the professor of Bible at Wittenberg's small new university. For years he had been tormented by the fear that nothing he did could make him good enough for God. Reading the letters of Saint Paul, he had come to a conclusion that calmed him. A person is not saved by anything he does or pays. He is saved by trusting God, and that trust is itself a gift. If this was true, the men preaching the indulgence were doing real harm, because they taught people to put their faith in a receipt.
 
+![Painted portrait of Martin Luther in a black cap and gown against a blue background](images/luther_1528.jpg)
+*Martin Luther, painted by Lucas Cranach the Elder in 1528, eleven years after the ninety-five points. Painting: Lucas Cranach the Elder, public domain.*
+
 On 31 October 1517 Luther wrote out ninety-five points for debate, in Latin, and sent them to Archbishop Albrecht with a polite letter. By tradition he also nailed a copy to the door of the castle church, which served as the university's notice board. One of the points asked why the pope, if he really had power to empty purgatory, did not do it for love and not for money. Another observed that the pope was richer than the richest man of ancient Rome and might build St Peter's with his own money.
+
+![Pair of dark bronze doors cast with rows of Latin text, under a Latin inscription](images/wittenberg_door.jpg)
+*The bronze doors of the castle church in Wittenberg, cast in 1858 with the text of the ninety-five points. Photo: Avi1111 dr. avishai teicher, CC BY-SA 4.0.*
 
 ## Read aloud in the tavern
 
@@ -67,6 +82,9 @@ A century earlier, a Czech priest named Jan Hus had said very similar things, be
 The ruler of Saxony, Frederick, was one of the seven men who elected the emperor, and the emperor needed him. Frederick was a pious Catholic who owned one of the largest collections of holy relics in Europe. He was also proud of his university and tired of seeing German silver carried over the Alps. On the road home from the hearing, Luther's wagon was stopped by armed horsemen who dragged him off into the forest. They were Frederick's men. They took him to a castle on a hilltop, where he lived for ten months disguised as a knight.
 
 He spent the time translating. Working from the Greek text that Erasmus had printed, he put the New Testament into German in eleven weeks. It went on sale in September 1522, and the first printing was gone within weeks. German Bibles had been printed before, in stiff, word-for-word versions that few people read. Luther's sounded like speech. A German farmer or shoemaker who could read, or who knew someone who could, was now able to find out for himself what the book said.
+
+![Small timber-panelled room with a plain table holding an open book, a carved chair and a green tiled stove](images/wartburg_room.jpg)
+*Luther's room in the Wartburg castle, where he translated the New Testament into German. Photo: Ingersoll, public domain.*
 
 ## Smite, slay and stab
 
@@ -88,9 +106,15 @@ One after another the rulers of northern Germany did so, followed by the kings o
 
 The most thorough of them was not a follower of Luther at all. Henry VIII of England had written a book against Luther and received a title from the pope for it. In the 1530s, however, he wanted his marriage ended so that he could try for a son with another wife, and the pope would not oblige. Henry had Parliament declare that the king was head of the church in England. He then closed all of the country's monasteries, nunneries and friaries, some eight hundred of them, and took their estates, which together made up the largest landholding in the kingdom after his own. Most of it he sold to pay for his wars. The gentlemen who bought it had from then on the strongest possible reason never to let the old church come back.
 
+![Wide view of the stone ruins of an abbey church tower and a long cloister range on a green lawn](images/fountains_abbey.jpg)
+*Fountains Abbey in Yorkshire, a monastery founded in 1132 and closed in 1539 when Henry VIII shut England's monasteries. Photo: Klaus with K, CC BY-SA 3.0.*
+
 In Germany the emperor fought the Protestant princes and beat them in battle, and still could not stamp out their church. He was at war with France and with the Ottoman sultan, whose army reached the walls of Vienna, and he could never give the matter his full attention. In 1555 the two sides made peace on a simple principle. Each prince would choose between the old church and Luther's, and his subjects would follow him or move away. Faith was to be decided by the ruler.
 
 The old church, meanwhile, set its own house in order. A council of bishops met on and off for eighteen years in the Alpine town of Trent. It forbade the taking of money for indulgences and ordered every bishop to found a school for training priests. On doctrine it gave no ground at all. A new order of priests, the Jesuits, was founded to teach, argue and win back what had been lost, and the pope issued a list of books that no Catholic might print or read. From this point on there were organised camps, each sure that the others were leading souls to hell. The Protestants were themselves divided. A second reforming movement, begun in the Swiss cities and led from Geneva by a French lawyer named John Calvin, differed from Luther on important points, and it was spreading through France, the Netherlands and Scotland.
+
+![A map of Europe about 1600 shaded by religion: Catholic in Spain, France, Italy, Ireland, southern Germany, Austria and Poland; Lutheran in Scandinavia, northern Germany, Bohemia and the Baltic lands; Reformed in Scotland, the Dutch provinces, Switzerland and Transylvania; the Church of England in England; Orthodox in Russia and the east; and Ottoman rule in the south-east, with Wittenberg, Magdeburg, Mainz, Augsburg, Prague, Trent, Geneva, Rome, Paris and London](images/map_religion_1600.png)
+*Europe about 1600 by religion, roughly. A mixed land is shown under its leading church: Bohemia, where most people were Protestant though their king was Catholic, is shaded with the Lutheran north. The Orthodox area includes Moldavia and Wallachia, which paid tribute to the Ottoman sultan. Map: drawn for this book; coastlines and rivers from Natural Earth, public domain.*
 
 ## Out of the window
 
@@ -98,7 +122,13 @@ The peace of 1555 lasted sixty years in Germany. Elsewhere the fighting went on.
 
 The last and worst of these wars began in Prague in May 1618. A crowd of Protestant nobles, angry that their Catholic king was closing their churches, marched into the castle and threw two of his governors and a secretary out of an upstairs window. All three fell about twenty metres and lived. Catholics said that angels had caught them. Protestants said that they had landed in a dung heap.
 
+![Woodcut of men falling from an upper window in Prague while a crowd gathers below](images/defenestration.jpg)
+*A news sheet printed in 1618, showing the officials thrown from the window in Prague. Woodcut: unknown artist, public domain.*
+
 The war that followed lasted thirty years and was fought almost entirely on German soil. Armies of hired soldiers, who were seldom paid, lived by stripping the countryside, and hunger and plague travelled with them. In 1631 a Catholic army stormed the Protestant city of Magdeburg, and of its twenty-five thousand people about five thousand were alive when the fires went out. By the end, Germany had lost about a third of its population, and some regions had lost half.
+
+![Etching of dozens of men hanged from the branches of one large tree while soldiers and a priest stand below](images/callot_hanging.png)
+*"The Hanging", an etching of 1633 from Jacques Callot's series on the miseries of war. Etching: Jacques Callot, public domain.*
 
 Many of those who died believed, sincerely, that the fate of their souls and their children's souls depended on the outcome. The men who directed the war had other things in mind as well. France was a Catholic kingdom, and its government was run by a cardinal of the Roman church. For the second half of the war, this cardinal paid the Protestant armies and then sent French troops to fight beside them, because the emperor was a rival of France and a weak, divided Germany suited him. By then the war was about which kings would dominate Europe.
 
