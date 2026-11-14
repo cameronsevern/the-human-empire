@@ -101,10 +101,14 @@ class Map:
                         ax.add_patch(MplPoly(np.array(p.exterior.coords), closed=True, fc=SEA, ec=SHORE, lw=0.7, zorder=1.2))
 
     # ------------------------------------------------------------------ features
-    def river(self, *names, lw=1.6):
-        """Draw rivers by their Natural Earth names ("Nile", "Euphrates", "Tigris", "Danube"...)."""
+    def river(self, *names, lw=1.6, en=False):
+        """Draw rivers by their Natural Earth names ("Nile", "Euphrates", "Tigris", "Danube"...).
+        en=True also takes every stretch whose English name matches (the upper Euphrates is "Firat")."""
         for name in names:
             rows = _rivers[_rivers["name"].fillna("").str.lower() == name.lower()]
+            if en:
+                rows = _rivers[(_rivers["name"].fillna("").str.lower() == name.lower()) |
+                               (_rivers["name_en"].fillna("").str.lower() == name.lower())]
             if rows.empty:
                 rows = _rivers[_rivers["name_en"].fillna("").str.lower() == name.lower()]
             if rows.empty:
@@ -160,8 +164,9 @@ class Map:
             self.ax.text(lon + dx, lat + dy, name, ha=ha, va="center", fontsize=SIZE.get(size, size), color=INK,
                          fontweight="bold" if bold else "normal", zorder=7, path_effects=HALO)
 
-    def label(self, lon, lat, text, size="region", colour=None, rot=0, ha="center", style=None, spaced=False):
-        """A name on the map. region: bold capitals. sea: blue-grey italic. land: grey italic. small: grey."""
+    def label(self, lon, lat, text, size="region", colour=None, rot=0, ha="center", style=None, spaced=False, fs=None):
+        """A name on the map. region: bold capitals. sea: blue-grey italic. land: grey italic. small: grey.
+        fs overrides the font size (never below 15) and keeps the look of `size`."""
         if spaced:
             text = " ".join(text)
         kw = dict(region=dict(color=INK, fontweight="bold"),
@@ -172,7 +177,7 @@ class Map:
             kw["color"] = FILL.get(colour, colour)
         if style:
             kw["style"] = style
-        self.ax.text(lon, lat, text, ha=ha, va="center", fontsize=SIZE.get(size, size), rotation=rot, zorder=7,
+        self.ax.text(lon, lat, text, ha=ha, va="center", fontsize=max(15, fs) if fs else SIZE.get(size, size), rotation=rot, zorder=7,
                      path_effects=HALO, linespacing=1.05, **kw)
 
     def note(self, lon, lat, text, size=16, ha="center"):

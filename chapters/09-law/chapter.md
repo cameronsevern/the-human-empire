@@ -57,8 +57,8 @@ The laws of Hammurabi, three hundred years later, took a harsher view.
 
 When Hammurabi came to the throne, Babylon was not a great city. It was a middling town on the Euphrates, in the centre of the plain, and its kings ruled only a few towns round about.
 
-![A map of Iraq's two rivers with cities marked, a small dark area around Babylon and a much larger shaded area from Mari to the Gulf](images/map-hammurabi-babylonia.png)
-*Babylon's territory when Hammurabi became king, in the darker shade, and when he died, in the lighter. Map: MapMaster, CC BY-SA 4.0.*
+![A map of Iraq's two rivers with cities marked, a small hatched area around Babylon and a much larger shaded area from Mari to the Gulf](images/map_hammurabi.png)
+*Babylon's land when Hammurabi became king, about 3,800 years ago, hatched, and when he died, about 3,750 years ago. Both areas are rough. Map: drawn for this book; coastlines and rivers from Natural Earth, public domain.*
 
 The plain at that time had no master. Half a dozen kingdoms of about the same strength watched each other, made alliances, broke them, and fought short wars over canals and border towns. A letter written by an official of the time describes the position exactly. No king is strong on his own, he says. Ten or fifteen kings follow Hammurabi of Babylon, as many follow each of three other kings, and twenty follow a fifth.
 

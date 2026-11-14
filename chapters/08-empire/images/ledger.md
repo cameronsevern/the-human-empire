@@ -8,7 +8,7 @@
 | enheduanna-disk.jpg | Alabaster disk of Enheduanna, Penn Museum | Mefman00 | 2015-10-22 12:20:27 | CC0 | https://commons.wikimedia.org/wiki/File:Disk_of_Enheduanna.JPG | Downscaled to 1600x1067 px (original 6000x4000); metadata stripped |
 | naram-sin-stele.jpg | Victory Stele of Naram-Sin, Louvre | Rama | Taken on 20 October 2007, 16:44 (according to Exif data) | CC BY-SA 3.0 fr | https://commons.wikimedia.org/wiki/File:Victory_stele_of_Naram_Sin_9064.jpg | Downscaled to 1067x1600 px (original 2336x3504); metadata stripped |
 | tell-leilan.jpg | Tell Leilan, Khabur plains, north-east Syria | Zoeperkoe | 2005-06-17 | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Tell_Leilan.jpg | Downscaled to 1600x1067 px (original 3072x2048); metadata stripped |
-| akkadian-map.png | Map of the Akkadian Empire | Ennomus | 2023-10-20 | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:The_Akkadian_Empire.png | Downscaled to 1600x1053 px (original 2694x1773); metadata stripped |
+| map_akkad.png | Map of the empire of Akkad at its greatest extent: the land it ruled, the land it raided or took tribute from (hatched), and Kish, Nippur, Uruk, Ur, Lagash, Nineveh, Tell Leilan and Susa | Drawn for this book by build/maps/ch08_akkad.py | 2026-11-14 | Own work; coastlines and rivers Natural Earth (public domain); extents traced from a CC BY-SA 4.0 map | https://www.naturalearthdata.com/ | Replaces the map by Ennomus (https://commons.wikimedia.org/wiki/File:The_Akkadian_Empire.png, CC BY-SA 4.0), from which the extents are traced; its city labels were too small to read |
 
 ## Not found
 

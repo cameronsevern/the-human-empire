@@ -40,8 +40,8 @@ It was a carefully chosen gesture. Every city on the plain honoured that temple.
 
 The other cities fell after that, one campaign at a time. Sargon claimed to have won thirty-four battles. When he reached the shore of the Gulf, he says, he washed his weapons in the sea. There was nothing further south to fight.
 
-![A map of the Middle East with a green band running from the Persian Gulf up the two rivers to Syria](images/akkadian-map.png)
-*The empire of Akkad at its greatest extent. The star is the mapmaker's guess at where the capital stood, since the city has never been found. Map: Ennomus, CC BY-SA 4.0.*
+![A map of the Middle East with the empire of Akkad shaded from Syria down the two rivers to the Gulf and into Iran, and a hatched band to the west reaching the Mediterranean](images/map_akkad.png)
+*The empire of Akkad at its greatest extent, roughly, about 4,250 years ago. The hatched land was raided or made to pay. The capital itself has never been found, so it has no dot. Map: drawn for this book; coastlines and rivers from Natural Earth, public domain.*
 
 ## Keeping it
 

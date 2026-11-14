@@ -23,7 +23,7 @@ OUT = os.path.join(ROOT, "chapters", "02-everywhere", "images")
 INK, PAPER, SOFT, ACC = "#2f2a26", "#faf6ee", "#8a8178", "#b5523b"
 LAND, SEA, SHORE = "#e4d8bd", "#f3eee2", "#a89c86"
 plt.rcParams["font.family"] = ["P052", "serif"]
-HALO = [pe.withStroke(linewidth=3.2, foreground=PAPER)]
+HALO = [pe.withStroke(linewidth=4, foreground=PAPER)]
 
 world = gpd.read_file(gpd.datasets.get_path("naturalearth_lowres"))
 world = world[world.name != "Antarctica"]
@@ -69,17 +69,17 @@ def route(ax, pts, west, lw=2.6, colour=ACC):
                 arrowprops=dict(arrowstyle="-|>,head_width=0.34,head_length=0.7", color=colour, lw=lw, shrinkA=0, shrinkB=0))
 
 
-def date(ax, lon, lat, text, west, size=13):
+def date(ax, lon, lat, text, west, size=19):
     ax.text(L(lon, west), lat, text, ha="center", va="center", fontsize=size, color=INK, fontweight="bold", zorder=7,
             bbox=dict(boxstyle="round,pad=0.28", fc=PAPER, ec=INK, lw=0.9))
 
 
-def name(ax, lon, lat, text, west, size=10.5, ha="center", colour=SOFT, style="italic"):
+def name(ax, lon, lat, text, west, size=16.5, ha="center", colour=SOFT, style="italic"):
     ax.text(L(lon, west), lat, text, ha=ha, va="center", fontsize=size, color=colour, style=style, zorder=6, path_effects=HALO)
 
 
-def dot(ax, lon, lat, west, r=5):
-    ax.plot(L(lon, west), lat, "o", ms=r, mfc=INK, mec=PAPER, mew=1, zorder=6)
+def dot(ax, lon, lat, west, r=8):
+    ax.plot(L(lon, west), lat, "o", ms=r, mfc=INK, mec=PAPER, mew=1.4, zorder=6)
 
 
 def frame(west, east, south, north, width=16.0):
@@ -97,7 +97,7 @@ def frame(west, east, south, north, width=16.0):
 # ---------------------------------------------------------------- the world
 def world_map():
     W = -25
-    fig, ax = frame(W, W + 360, -58, 78)
+    fig, ax = frame(W, W + 360, -78, 78)
     # out of Africa, along the southern coast of Asia, and across the straits to Australia
     route(ax, [(36, 3), (41, 10), (45, 13.5), (55, 18.5), (61, 24.5), (70, 21), (76, 11), (83, 15), (92, 21),
                (99, 12), (104, 2), (112, -6.5), (123, -9.5), (131, -13.5), (134, -23)], W)
@@ -117,42 +117,42 @@ def world_map():
     route(ax, [(-149.5, -17.5), (-165, -29), (178, -38.5)], W, lw=2.0, colour=P)
 
     for lon, lat in [(-155.5, 19.6), (-109.4, -27.1), (-149.5, -17.5), (178, -17.8), (-172, -13.8)]:
-        dot(ax, lon, lat, W, r=4)
+        dot(ax, lon, lat, W, r=6)
 
     date(ax, 22, 2, "300", W)
-    date(ax, 47, 5, "70–50", W)
-    date(ax, 10, 53, "45", W)
-    date(ax, 121, -26, "50", W)
-    date(ax, 118, 68.5, "30", W)
-    date(ax, -122, 36, "20", W)
-    date(ax, -58, -44, "14", W)
-    date(ax, 172, -8, "3", W)
-    date(ax, -143, -9, "1", W)
-    date(ax, -168, 22, "0.8", W)
-    date(ax, -98, -30, "0.8", W)
-    date(ax, 162, -43, "0.7", W)
+    date(ax, 50, 3, "70–50", W)
+    date(ax, 8, 54, "45", W)
+    date(ax, 106, -24, "50", W)
+    date(ax, 118, 70, "30", W)
+    date(ax, -124, 36, "20", W)
+    date(ax, -56, -46, "14", W)
+    date(ax, 170, -6, "3", W)
+    date(ax, -139, -6, "1", W)
+    date(ax, -170, 22, "0.8", W)
+    date(ax, -96, -31, "0.8", W)
+    date(ax, 157, -45, "0.7", W)
 
-    name(ax, 20, 12, "AFRICA", W, size=13)
-    name(ax, 85, 38, "ASIA", W, size=13)
-    name(ax, 22, 59, "EUROPE", W, size=11)
-    name(ax, 134, -30.5, "AUSTRALIA", W, size=11)
-    name(ax, -100, 50, "NORTH\nAMERICA", W, size=11)
-    name(ax, -57, -12, "SOUTH\nAMERICA", W, size=11)
-    name(ax, -168, 60, "the land\nbridge", W, size=9.5)
-    name(ax, -106, 28.5, "New Mexico", W, size=9.5, ha="left")
-    name(ax, -150, 27, "Hawaii", W, size=9.5)
-    name(ax, -109, -22, "Easter Island", W, size=9.5)
-    name(ax, 177, -47.5, "New Zealand", W, size=9.5)
-    name(ax, -150, -24, "Tahiti", W, size=9.5)
-    name(ax, -150, 2, "P A C I F I C   O C E A N", W, size=10.5)
+    name(ax, 18, 14, "AFRICA", W, size=20)
+    name(ax, 88, 38, "ASIA", W, size=20)
+    name(ax, 34, 60, "EUROPE", W, size=20)
+    name(ax, 134, -28.5, "AUSTRALIA", W, size=19)
+    name(ax, -100, 51, "NORTH\nAMERICA", W, size=19)
+    name(ax, -50, -10, "SOUTH\nAMERICA", W, size=19)
+    name(ax, -175, 55.5, "land bridge", W, size=16)
+    name(ax, -101, 33, "New Mexico", W, size=16, ha="left")
+    name(ax, -154, 29, "Hawaii", W, size=16)
+    name(ax, -108, -20, "Easter Island", W, size=16)
+    name(ax, 172, -53, "New Zealand", W, size=16)
+    name(ax, -150, -26, "Tahiti", W, size=16)
+    name(ax, -121, 6, "P A C I F I C   O C E A N", W, size=17)
 
     # key
-    ax.add_patch(plt.Rectangle((W + 6, -55), 96, 22, fc=PAPER, ec=INK, lw=1, zorder=8))
-    ax.text(W + 10, -38.5, "First arrival, in thousands of years ago", fontsize=12.5, color=INK, fontweight="bold", va="center", zorder=9)
-    ax.plot([W + 10, W + 22], [-45, -45], color=ACC, lw=2.6, zorder=9)
-    ax.text(W + 25, -45, "on foot and along the coasts, in the ice age", fontsize=11, color=INK, va="center", zorder=9)
-    ax.plot([W + 10, W + 22], [-50.5, -50.5], color=P, lw=2.0, zorder=9)
-    ax.text(W + 25, -50.5, "by sailing canoe, in the last 3,000 years", fontsize=11, color=INK, va="center", zorder=9)
+    ax.add_patch(plt.Rectangle((W + 4, -76), 128, 33, fc=PAPER, ec=INK, lw=1.2, zorder=8))
+    ax.text(W + 8, -50, "First arrival, in thousands of years ago", fontsize=17, color=INK, fontweight="bold", va="center", zorder=9)
+    ax.plot([W + 8, W + 22], [-60, -60], color=ACC, lw=3, zorder=9)
+    ax.text(W + 25, -60, "on foot and along the coasts, in the ice age", fontsize=16, color=INK, va="center", zorder=9)
+    ax.plot([W + 8, W + 22], [-69, -69], color=P, lw=2.4, zorder=9)
+    ax.text(W + 25, -69, "by sailing canoe, in the last 3,000 years", fontsize=16, color=INK, va="center", zorder=9)
     fig.savefig(os.path.join(OUT, "migration_map.png"), dpi=100)
     plt.close(fig)
 
@@ -184,26 +184,26 @@ def pacific_map():
 
     for k, (lon, lat, dx, dy, ha) in islands.items():
         dot(ax, lon, lat, W)
-        name(ax, lon + dx, lat + dy, k, W, size=12, ha=ha, colour=INK, style="normal")
-    name(ax, 172.5, -47, "New Zealand", W, size=12, colour=INK, style="normal")
-    name(ax, 134, -25, "AUSTRALIA", W, size=13)
-    name(ax, 143, -6.2, "New Guinea", W, size=10.5)
-    name(ax, 117, 22, "Taiwan", W, size=10.5, ha="right")
-    name(ax, 111, 5, "islands of\nsouth-east\nAsia", W, size=10.5)
-    name(ax, -70, -12, "SOUTH\nAMERICA", W, size=13)
-    name(ax, -99, 28, "NORTH\nAMERICA", W, size=13)
-    name(ax, -128, 5, "P A C I F I C   O C E A N", W, size=12)
-    name(ax, -103, -0.5, "sweet potato", W, size=10.5, colour=INK)
+        name(ax, lon + dx, lat + dy, k, W, size=17, ha=ha, colour=INK, style="normal")
+    name(ax, 172.5, -48, "New Zealand", W, size=17, colour=INK, style="normal")
+    name(ax, 134, -25, "AUSTRALIA", W, size=20)
+    name(ax, 143, -6.8, "New Guinea", W, size=16)
+    name(ax, 119, 26, "Taiwan", W, size=16, ha="right")
+    name(ax, 110, 5, "islands of\nsouth-east\nAsia", W, size=16)
+    name(ax, -74, -13, "SOUTH\nAMERICA", W, size=20)
+    name(ax, -99, 30, "NORTH\nAMERICA", W, size=20)
+    name(ax, -122, 6, "P A C I F I C   O C E A N", W, size=18)
+    name(ax, -101, 0, "sweet potato", W, size=16, colour=INK)
 
-    date(ax, 166, -4.5, "about 3,000\nyears ago", W, size=12)
-    date(ax, -150, -26, "about 1,000", W, size=12)
-    date(ax, -171, 12, "about 800", W, size=12)
-    date(ax, -124, -32.5, "about 800", W, size=12)
-    date(ax, 160, -37, "about 700", W, size=12)
+    date(ax, 166, 3.5, "about 3,000\nyears ago", W, size=18)
+    date(ax, -150, -28, "about 1,000", W, size=18)
+    date(ax, -172, 10, "about 800", W, size=18)
+    date(ax, -109.4, -36.5, "about 800", W, size=18)
+    date(ax, 158, -38, "about 700", W, size=18)
 
-    ax.add_patch(plt.Rectangle((W + 4, -51.5), 62, 12, fc=PAPER, ec=INK, lw=1, zorder=8))
-    ax.text(W + 7, -43, "The settlement of the Pacific", fontsize=13.5, color=INK, fontweight="bold", va="center", zorder=9)
-    ax.text(W + 7, -48, "first arrivals, in years before today", fontsize=11.5, color=INK, va="center", zorder=9, style="italic")
+    ax.add_patch(plt.Rectangle((141, 20), 53, 14.5, fc=PAPER, ec=INK, lw=1.2, zorder=8))
+    ax.text(144, 30.3, "The settlement of the Pacific", fontsize=19, color=INK, fontweight="bold", va="center", zorder=9)
+    ax.text(144, 24.2, "first arrivals, in years before today", fontsize=16, color=INK, va="center", zorder=9, style="italic")
     fig.savefig(os.path.join(OUT, "pacific_map.png"), dpi=100)
     plt.close(fig)
 

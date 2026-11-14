@@ -51,8 +51,8 @@ Grain, then, made taxes possible. It did not make them happen. The farmers of th
 
 The place where farmers lost that freedom was the south of what is now Iraq. Two rivers, the Tigris and the Euphrates, come down from the mountains of Turkey and cross a wide, flat plain on their way to the sea. The Greeks later called this country Mesopotamia, which means "the land between the rivers".
 
-![A relief map of southern Iraq with the old cities marked by red dots and the sea reaching far inland](images/map-sumer-sea-level.png)
-*The plain between the two rivers, with its old cities. The sea is drawn where a higher sea level would put it, and Eridu, Uruk and Lagash lie close to its edge. Map: Merikanto, CC BY 4.0.*
+![A map of southern Iraq with the Tigris and Euphrates, the old cities, and the sea reaching inland to Ur, Eridu and Lagash behind a dashed shore](images/map_sumer.png)
+*The plain between the two rivers, with its old cities. The sea is drawn where a higher sea level would put it, and Eridu, Ur and Lagash lie close to its edge. The rivers are shown in their modern courses. Map: drawn for this book; coastlines and rivers from Natural Earth, public domain.*
 
 On the face of it, the southern end of that plain is a dreadful place to live. It has almost no rain, and the summer heat passes forty-five degrees Celsius. There is no stone to build with and no timber worth the name. The whole plain is made of mud, which the rivers have carried down and spread out.
 

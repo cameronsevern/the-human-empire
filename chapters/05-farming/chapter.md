@@ -10,8 +10,8 @@ The natural guess is that it began with a discovery, on the day somebody first n
 
 In 1989, after years of drought, the Sea of Galilee in Israel shrank, and on the newly dry shore archaeologists found the remains of a camp. Six huts of brushwood had stood there twenty-three thousand years ago, in the depths of the ice age. Then the huts had burned, the lake had risen over them, and the mud had sealed in everything on their floors.
 
-![A map of the Sea of Galilee above an aerial photograph of a dig on its shore](images/ohalo-site-map.jpg)
-*The camp on the shore of the Sea of Galilee, seen from the air during the dig. Image: I. Groman-Yaroslavski, E. Weiss and D. Nadel, CC BY 4.0.*
+![An aerial photograph of a dig on a lake shore, with three excavated areas circled and labelled](images/ohalo-aerial.jpg)
+*The camp on the shore of the Sea of Galilee, seen from the air during the dig. Photo: I. Groman-Yaroslavski, E. Weiss and D. Nadel, CC BY 4.0, cropped.*
 
 Among the things on those floors were about a hundred and fifty thousand seeds and scraps of plants. The people of the camp had gathered more than a hundred and forty kinds, and among them were wild wheat and wild barley. In one hut lay a flat stone, and stuck in its surface were grains of barley starch. Somebody had ground grain into flour there.
 
@@ -83,8 +83,8 @@ In northern China, people started growing millet, and along the Yangtze they sta
 
 That makes eight places at least, the earliest eleven thousand years ago and the latest about four thousand. Most of these peoples had never met. They did not know that the others existed, and they were working with entirely different plants.
 
-![A world map with green patches marking the regions where farming began](images/agriculture-centres-map.jpg)
-*The places where farming began independently. Map: Ian Alexander, CC BY-SA 4.0.*
+![A world map with green patches marking the eight places where farming began, each named with its crop](images/map_farming_centres.png)
+*The places where farming began on its own, with the crops the chapter names. The areas are rough. Map: drawn for this book; coastlines and rivers from Natural Earth, public domain.*
 
 When the same thing is invented eight times by strangers, it is not a stroke of genius. It is what humans do when they are settled, crowded and blessed with steady weather.
 
@@ -178,8 +178,8 @@ So farming stayed. Then it began to move, and the way it moved was very simple. 
 
 Repeated for long enough, that carries a people across a continent. From Turkey, farmers crossed into Greece about eight and a half thousand years ago. They advanced through Europe at about a kilometre a year, and reached Britain two and a half thousand years later.
 
-![A map of Europe and the Middle East with coloured zones and dates showing farming moving north-west](images/farming-spread-europe-map.jpg)
-*The spread of farming from the Middle East across Europe, with dates BC. Map: D. Gronenborn, B. Horejs, M. Börner and M. Ober, CC BY-SA 4.0.*
+![A map of Europe and the Middle East with dated patches, from 11,500 years ago in the Middle East to 6,000 years ago in Britain, and an arrow from Turkey to Britain](images/map_farming_europe.png)
+*The spread of farming from the Middle East across Europe. The numbers say roughly how many years ago farming reached each area. Areas and dates after D. Gronenborn, B. Horejs, M. Börner and M. Ober. Map: drawn for this book; coastlines and rivers from Natural Earth, public domain.*
 
 For a long time, scholars argued about what exactly had spread. One possibility was that the idea had travelled: the hunters of Europe had seen their neighbours' fields and copied them. The other was that the people had travelled: the farmers themselves had come and taken the land.
 

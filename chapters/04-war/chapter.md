@@ -8,8 +8,8 @@ One of the oldest wars that we can look at closely took place about ten thousand
 
 Another group of people came to the lagoon and slaughtered them. The remains of at least twenty-seven have been found.
 
-![A map of Kenya with a red dot marking Nataruk, just west of Lake Turkana in the north](images/nataruk-map.jpg)
-*Nataruk, in the north of Kenya. Today it lies about thirty kilometres from Lake Turkana. Ten thousand years ago the lake was larger, and the site was a lagoon on its shore. Map: Uwe Dedering, CC BY-SA 3.0, labels added.*
+![A map of northern Kenya with Nataruk marked a short way west of the southern end of Lake Turkana](images/map_nataruk.png)
+*Nataruk, in the north of Kenya. Today it lies about thirty kilometres from Lake Turkana. Ten thousand years ago the lake was larger, and the site was a lagoon on its shore. Map: drawn for this book; coastlines and rivers from Natural Earth, public domain.*
 
 We know how they died, because the bodies were never buried. They fell into the water or at its edge, and the mud closed over them and kept them as they lay. One man has the tip of a stone blade still stuck in his skull. Others have skulls caved in by clubs, and broken hands, knees and ribs. The pregnant woman was found with her wrists crossed, as if they had been tied.
 

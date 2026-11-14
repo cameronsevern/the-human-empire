@@ -80,8 +80,8 @@ The wheel made a large difference to farmers. On the grasslands it did far more,
 
 Across the middle of Europe and Asia runs a belt of open grassland called the steppe. It begins on the plains of Hungary and goes on eastward, past the Black Sea and the Caspian, across Kazakhstan and Mongolia, to the north-east of China. From end to end it is about eight thousand kilometres long. It is flat or gently rolling, almost treeless, hot in summer and savagely cold in winter.
 
-![A satellite view of Europe and Asia with a long band across the middle coloured blue-green](images/steppe-belt-map.jpg)
-*The steppe, coloured blue-green, from Hungary to the north-east of China. Map: Mdf and Shattered Gnome, public domain.*
+![A map of Europe and Asia with a long shaded band of grassland from Hungary past the Black Sea and the Caspian to Mongolia and the north-east of China](images/map_steppe.png)
+*The steppe, from Hungary to the north-east of China. Map: drawn for this book; coastlines and rivers from Natural Earth, public domain.*
 
 For farmers, the steppe was bad land. There is too little rain for wheat on most of it. For hunters it was hard as well, since the game is fast and there is nowhere to hide. Before the wheel, people lived along the rivers that cross the grassland, where there were trees, fish and shelter. The great spaces between the rivers were left almost empty.
 
