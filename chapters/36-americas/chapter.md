@@ -10,6 +10,9 @@ For a long time nobody could read the signs. Today they can be read almost as ea
 
 The day works out, in our calendar, as the third of May in the year 738. The victorious ruler lived for another forty-seven years. He celebrated by setting up larger and larger monuments, and the tallest of them measures more than ten metres from its top to its buried foot, weighs about sixty tonnes, and is the biggest stone the Maya ever raised.
 
+![A tall carved stone column under a thatched roof on stilts, standing on a green lawn with forest behind and a second roofed stone at the left](images/quirigua_stela_e.jpg)
+*Stela E at Quiriguá, Guatemala, the largest stone the Maya ever raised, set up in 771 and now sheltered by a thatched roof. Its carved king and columns of signs face outward. Photo: Arian Zwegers, CC BY 2.0.*
+
 In 738, Charlemagne's grandfather was ruling the Franks, the caliphs of Damascus held an empire from Spain to the Indus, and the Tang court was at the height of its splendour. None of those people knew that the continent where Quiriguá stands existed, and nobody at Quiriguá knew of them. People had first walked into the Americas more than fifteen thousand years earlier, and the sea had then risen behind them. From that time on, the two halves of humanity had gone their separate ways.
 
 The reading of the stones is a recent achievement, and it overturned what had been believed about their makers. Until the 1950s, the leading scholars held that the Maya inscriptions concerned nothing but the calendar and the stars. The Maya, in this view, were a peaceful people ruled by priests who spent their nights watching the heavens. A Soviet linguist who had never seen a Maya ruin then showed that many of the signs stood for syllables and spelled out words in a language that was still spoken. A few years later, a Russian-born American researcher noticed that the dates on the stones of one city fell into groups, each of which fitted inside a single human lifetime. The stones recorded births, accessions to the throne, and deaths, and the Maya had been writing history.
@@ -38,13 +41,22 @@ On that foundation, the Maya built one of the most elaborate civilisations of th
 
 Between about 250 and 900, that forest held dozens of cities. Each had at its centre a group of plazas, surrounded by steep pyramids of limestone rubble faced with cut stone and white plaster, with a small temple at the top. Beside them stood the palaces of the royal family, and a long narrow court with sloping sides for a ritual game played with a heavy rubber ball.
 
+![A steep grey stone pyramid with a stairway up the front and a small temple with a tall decorated roof comb at the top, above a green plaza](images/tikal_temple_1.jpg)
+*Temple I at Tikal in Guatemala, a steep stone pyramid with a small temple on top, built in the 700s. Photo: Raymond Ostertag, CC BY-SA 2.5.*
+
 For generations, archaeologists mapped those city centres and assumed that the forest around them had been thinly peopled. In 2018 an aircraft survey with lasers, of the kind that revealed the outskirts of Angkor, covered two thousand square kilometres of northern Guatemala. Under the trees it found more than sixty thousand buildings that had not been known, together with raised roads, defensive walls, terraced fields and drained swamps. The whole landscape had been built on and farmed. The Maya lowlands at their height probably held between seven and eleven million people.
 
 The Maya had no empire. Every large city was a kingdom of its own, ruled by a dynasty whose king carried the title "holy lord". The stronger kings made vassals of the weaker, as Copán had of Quiriguá, and two great cities in particular built rival networks of client kingdoms that fought each other for centuries. Wars were fought for tribute and for mastery over weaker neighbours, and the greatest prize was to capture the enemy's king or his nobles, to bring them home in triumph, and in the end to sacrifice them.
 
 The holy lord's first duty was to keep the world in order through ritual, and the most important offering was his own blood. A carved stone panel from a city on the western rivers shows how it was done. A king stands holding a flaming torch. In front of him kneels his queen, in a magnificent woven robe, pulling a rope studded with thorns through a hole in her tongue. The blood falls onto strips of bark paper in a basket, which will be burned so that the smoke can carry it to the gods.
 
+![A carved stone panel: a standing man with a feathered headdress holds a flaming torch over a kneeling woman who pulls a rope through her tongue, with columns of glyphs](images/yaxchilan_lintel_24.jpg)
+*Lintel 24 from Yaxchilán, Mexico, carved about 725 and now in the British Museum. The king holds the torch while his queen pulls the thorned rope through her tongue. Photo: Gary Todd, CC0.*
+
 The Maya were not the largest power of their time in the region. A thousand kilometres to the west, in the high valley where Mexico City now stands, lay a city of a hundred thousand people, laid out on a grid along an avenue about two kilometres long, with a pyramid as broad at its base as the largest in Egypt. Its people lived in walled apartment blocks of stone. Its soldiers or its merchants reached far into the Maya country, and in 378, as inscriptions there record, strangers from the west arrived at the greatest Maya city on the very day that its king died, and put a new dynasty on the throne. That western city left no writing that can be read. Nobody knows what language its people spoke or what they called it. The name by which it is known, Teotihuacan, was given to its ruins by people who came there centuries after it had burned.
+
+![A wide empty avenue running between low stepped platforms towards a huge flat-sided pyramid under a hazy sky](images/teotihuacan.jpg)
+*The Pyramid of the Sun and the Avenue of the Dead at Teotihuacan, Mexico, seen from the top of the Pyramid of the Moon. Photo: Arian Zwegers, CC BY 2.0.*
 
 ## A shell for nothing
 
@@ -57,6 +69,9 @@ They were using it by the fourth century at the latest, and the count of days it
 With these tools, Maya astronomers followed the sun, the moon and the planet Venus over centuries. One of their tables predicts the appearances of Venus as morning and evening star, and with the corrections that its makers built in, it keeps step with the planet for centuries.
 
 That table survives in a book, a long strip of bark paper coated with plaster and folded like a screen. The Maya had libraries of such books. In 1562 a Spanish friar, who had come to convert them, collected all that he could find in one province, judged them to contain nothing but superstition and the lies of the devil, and burned them in the public square. He recorded that the Maya grieved over it to an astonishing degree. Four of their books are known to exist today.
+
+![Six tall panels of a folded book: columns of small Maya signs, bars and dots in black and red, and framed pictures of gods](images/dresden_venus.jpg)
+*The Venus pages of the Dresden Codex, a Maya book made about 1200, in a modern redrawing. Numbers are written with bars and dots, and the shell-shaped sign is the zero. Drawing: Lacambalam, CC BY-SA 4.0.*
 
 ## The last date
 
@@ -84,13 +99,22 @@ The western edge of South America rises from one of the world's driest deserts o
 
 They had bred the potato from a bitter wild root into thousands of varieties, and they invented a way of preserving it that uses the mountain climate as a machine. In the high country in winter, nights freeze hard and days are sunny and dry. Farmers spread small potatoes on the ground and left them out. They froze at night and thawed in the morning, and the families then trampled them with bare feet to squeeze out the water. After several days of this, the potatoes had shrunk into light, hard lumps like pebbles of chalk, which would keep for ten years in a storehouse.
 
+![A yellow sack full of small hard dark lumps like pebbles](images/chuno.jpg)
+*Chuño, the freeze-dried potatoes of the Andes, for sale at a small market in Paucartambo, Peru. Photo: Eric in SF, CC BY-SA 3.0.*
+
 Freeze-dried potatoes, with strips of dried llama meat, were the stored wealth of the Andes, as grain was the wealth of Iraq. They could feed an army, a gang of labourers, or a whole district in a bad year. The llama carried them. It is a small relative of the camel that can bear thirty kilograms or so along a mountain path, and it cannot be ridden or harnessed to anything. Caravans of several hundred, with a few herders, linked the coast, the mountains and the forest.
 
 Large states arose on this basis long before the famous empire of the Incas. Between about 500 and 1000, one of them, Tiwanaku, was centred on a city of stone temples beside Lake Titicaca, nearly four thousand metres above the sea. Another, Wari, built roads and provincial centres across the mountains of Peru, with rows of storehouses at each.
 
+![A grey stone gateway with a carved panel across the top showing a central figure with rays around its head, set on a high grassland plain under a blue sky](images/gate_of_the_sun.jpg)
+*The Gate of the Sun at Tiwanaku in Bolivia, from the city beside Lake Titicaca at its height, between about 500 and 1000. The carved figure above the doorway is flanked by rows of smaller figures. Photo: Sasha India, CC BY 2.0.*
+
 Those states were administered without writing. No Andean people is known to have written down its language. They kept their records on strings.
 
 The device is best known from the last and largest of the Andean empires, though older examples survive. It consisted of a main cord, from which hung dozens or hundreds of thinner cords of spun cotton or wool, dyed in different colours. Knots were tied along each hanging cord, and the knots recorded numbers by position, in tens. A cluster of knots near the bottom of the cord gave the units, a cluster higher up the tens, and a third the hundreds. A gap where a cluster ought to be meant nothing. The colour of the cord, and its place in the row, showed what was being counted, whether llamas, loads of potatoes or men owing labour.
+
+![A khipu in a glass case: a looped main cord with scores of thin cords hanging from it in a fan, many tied with knots](images/khipu.jpg)
+*A khipu in the Museo de Arte de Lima, Peru: a main cord with many hanging cords, each tied with knots that stand for numbers. Photo: TaphonomyMan, CC BY-SA 4.0.*
 
 Scholars worked out the numbers a century ago, and they can read the totals on the fourteen hundred or so examples that survive. Some of the cords record things other than numbers, possibly names and places, and nobody has yet read those. The officials who made them could keep the accounts of a state of several million people with a bundle of string.
 
@@ -99,6 +123,9 @@ Scholars worked out the numbers a century ago, and they can read the totals on t
 Maize spread slowly northward from Mexico, and by about the year 900 the farmers of the Mississippi valley were growing it as their main crop. A century and a half later, a city appeared there.
 
 It stood on the rich flood plain of the river, across from the site of the modern city of St Louis. About the year 1050, within a single generation, a scattering of villages was levelled and rebuilt to a plan. At the centre was a rectangular plaza the size of thirty-five football fields, made perfectly flat. At its northern end rose a platform of earth with four terraces, thirty metres high. Its base covers more ground than the Great Pyramid of Egypt. Around it stood more than a hundred smaller mounds. Some carried the wooden houses of chiefs and temples on their flat tops, and others covered burials. Ten or twenty thousand people lived in the city and its suburbs, which was about as many as London held at the time.
+
+![A huge grassy mound with two wooden staircases climbing its side and tiny people standing on top](images/monks_mound.jpg)
+*Monks Mound at Cahokia, Illinois, the great earth platform built about 1050 and after. The wooden stairs are modern, on the line of the old ones. Photo: Skubasteve834, CC BY-SA 3.0.*
 
 All of that earth was dug with hoes of stone and shell and carried in baskets on people's backs. The great mound alone took something like fifteen million basketloads.
 
@@ -113,3 +140,7 @@ The Americas are the nearest thing that history offers to a second run of an exp
 Most of the differences between the two worlds came down to animals. The people of the Americas had never lived among herds of cattle, pigs and sheep. Many of the worst infections of the Old World had first passed to humans from such herds, and had then circulated in its crowded towns for thousands of years. None of them had reached the Americas, and nobody there had ever been exposed to them. They had never seen an animal carry a man into battle.
 
 In museums in Mexico there are small figures of baked clay, between twelve and fifteen hundred years old, that were found in graves on the coast of the Gulf. They are dogs and jaguars, the size of a child's hand. Each stands on four clay discs, fixed to wooden axles that have long since rotted away, so that it could be pulled along the ground on a string.
+
+
+![A small reddish clay animal with pointed ears and a black nose, standing on four flat clay wheels](images/wheeled_dog.jpg)
+*A clay dog on wheels, probably from Veracruz, Mexico, with black tar on its nose and eyes. The makers knew the wheel but had no animal to pull a cart. Photo: Madman, CC BY 2.5.*
