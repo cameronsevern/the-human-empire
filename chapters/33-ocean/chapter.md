@@ -8,7 +8,13 @@ In 1998, fishermen diving for sea cucumbers off the island of Belitung, between 
 
 The cargo was Chinese. It came to about sixty thousand pieces, most of them glazed bowls from a single group of kilns in the middle of China, painted with quick brown and green designs and packed in coils inside big storage jars, as tightly as eggs in a box. One bowl had a date scratched into it before it was fired, which works out as the year 826. There were also jars of star anise, lumps of lead for ballast, and a small collection of gold cups and silver boxes of a quality fit for a king.
 
+![Glazed bowls with brown and green bird and swirl designs arranged in rows on a dark display](images/belitung_bowls.jpg)
+*Changsha bowls from the Belitung wreck, painted in brown and green, of the kind that made up most of the cargo. ArtScience Museum, Singapore. Photo: Jacklee, CC BY-SA 3.0.*
+
 The ship itself had not been built in China. Its planks were not nailed together. They were sewn, edge to edge, with cord twisted from coconut husk, and the seams were stuffed with wadding. This was the way ships were built on the coasts of Arabia and India, and the timbers turned out to be woods from India and Africa. A ship built on the western side of the Indian Ocean had been sailed some eight thousand kilometres to China, loaded with enough crockery to stock every kitchen in a fair-sized city, and had got as far as the islands of Indonesia on the way back when it sank.
+
+![A large wooden sailing ship with two masts and square cotton sails, on display inside a museum hall](images/jewel_of_muscat.jpg)
+*The Jewel of Muscat, a ship built in Oman between 2008 and 2010 and modelled on the Belitung wreck, a ninth-century Arabian ship. It sailed from Oman to Singapore in 2010. Photo: Jacklee, CC BY-SA 3.0.*
 
 The bowls were ordinary ware, made by the thousand for people of modest means. Somebody in ninth-century China was running potteries that turned out goods in bulk for customers on the far side of Asia, and somebody in Iraq thought it worth a two-year round trip to fetch them. By the time that ship went down, the Indian Ocean carried more long-distance trade than any other sea, and it went on doing so for the next seven hundred years. No empire controlled it.
 
@@ -44,11 +50,17 @@ The coasts and islands of the region were home to boat-dwelling peoples who knew
 
 Holding it together was the difficult part, since a harbour chief who could collect tolls for the king could also collect them for himself. One of the inscriptions, on a stone carved with seven snake heads above a spout, shows how the king dealt with that. It is a curse. It lists the people who must swear loyalty, from princes and army commanders down to ship captains, merchants, clerks and the king's washermen, and calls down death on any of them who rebel or conspire. Water was poured over the stone, so that it ran across the words and out of the spout, and the oath-taker drank it.
 
+![A rounded grey stone covered in lines of script, with a row of snake heads along the top and a spout at the bottom, on a museum plinth](images/telaga_batu.jpg)
+*The Telaga Batu stone of Srivijaya, with its curse on oath-breakers, carved with snake heads above a spout. National Museum of Indonesia, Jakarta. Photo: Gunawan Kartapranata, CC BY-SA 3.0.*
+
 ## A fleet across the bay
 
 Wealth that depends on a narrow passage has a weakness, which is that a rival with ships can come and take it.
 
 Across the Bay of Bengal, in the far south of India, lay the kingdom of the Cholas. Around the year 1000 it was the strongest state in India, ruled by a line of Tamil-speaking kings who had conquered the whole southern end of the subcontinent and the north of Sri Lanka. One of them celebrated by building a temple to the god Shiva in his capital, with a tower more than sixty metres high, capped by a block of granite weighing about eighty tonnes.
+
+![A tall stepped stone tower covered in carving rising behind a low entrance hall, with a tree at the right](images/thanjavur.jpg)
+*The Brihadisvara Temple at Thanjavur in south India, built by a Chola king to Shiva around the year 1000. Its tower is more than sixty metres high. Photo: Matthew T Rader, CC BY-SA 4.0.*
 
 The inscriptions that cover the base of that temple are a ledger. They record how the king endowed it with the revenues of villages as far away as Sri Lanka, and they list its staff of several hundred, including dancers, musicians, goldsmiths, accountants and a superintendent of lamps. They also record that the temple lent its funds to village councils at twelve and a half per cent a year. Like the Buddhist monasteries before it, a great Hindu temple was a bank.
 
@@ -68,9 +80,15 @@ Between about 2,000 and 1,000 years ago, the rulers of nearly every state in Sou
 
 Indian armies had no part in this. The Chola raids were the exception, and they came after the Indian religions were long established. For a long time historians assumed that Indian settlers must have colonised the region, and they found no trace of such colonies. The better explanation runs the other way. The initiative came from the local rulers.
 
+![A wide stepped hill of dark stone topped with a bell-shaped stupa, seen across a lawn with visitors and trees](images/borobudur.jpg)
+*Borobudur in central Java, the stepped Buddhist monument built about the year 800. Photo: Gunawan Kartapranata, public domain.*
+
 A chief in Java or Cambodia who dealt with Indian merchants saw what an Indian king had and he lacked. The Indian king had priests, the Brahmins, who could perform rituals declaring him the earthly partner of a great god. He had a script for recording grants of land and the names of taxpayers. Beyond those, he had a body of ideas about kingship, law and statecraft that had been refined over a thousand years. A chief who invited a few Brahmins or monks to his court acquired all of that. He ceased to be merely the strongest of several local strongmen and became a king whose authority came from the gods. For their part, the Brahmins and monks were glad of a generous patron.
 
 The grandest result stands in the middle of Java, and is called Borobudur. About the year 800, a dynasty there built a monument to the Buddha in the form of a stepped hill of stone, a hundred and twenty metres along each side. A pilgrim climbs it by walking round each terrace in turn, past almost fifteen hundred carved panels that tell stories from the Buddha's lives and teaching. Several of the panels show ships, with outriggers and tripod masts, of the kind that carried the pilgrims and the spices.
+
+![A stone relief of a sailing ship with several masts, outrigger floats and a row of figures on board, carved on blocks of grey stone](images/borobudur_ship.jpg)
+*One of the ships carved on the walls of Borobudur, with masts and outrigger floats, built about the year 800. Photo: Andreas Sihono, CC BY-SA 3.0.*
 
 ## A city of water
 
@@ -82,7 +100,13 @@ On the plain north of that lake, the Khmer people built a kingdom on rice. In th
 
 Each king built a temple to house the god with whom he was identified, and each tried to outdo the last. The most famous, Angkor Wat, was built in the first half of the twelfth century for a king devoted to Vishnu. It is the largest religious building in the world. A moat nearly two hundred metres wide encloses a rectangle of about a square and a half kilometres, and at the centre five towers shaped like lotus buds stand for the peaks of the mountain where the gods live. The walls of its galleries carry some eight hundred metres of carving, on which gods and demons haul on a giant serpent to churn the ocean, and the king's army marches past with its elephants.
 
+![Five stone towers and a long gallery rise behind palm trees, reflected in still water under a blue sky](images/angkor_wat.jpg)
+*Angkor Wat in Cambodia, built in the first half of the 1100s, seen across the water with its reflection. Photo: Satdeep Gill, CC BY-SA 4.0.*
+
 The temples were the smaller part of the engineering. The Khmer kings reshaped the whole plain to manage water. The rains come in a few months and then stop, and a rice farmer has to deal with too much water in one season and too little in the next. The builders of Angkor dug canals, raised embankments, and constructed reservoirs by piling up earth walls on the flat ground. The largest of them is eight kilometres long and two wide, and it still holds water.
+
+![A pale stone bas-relief of crowded figures and elephants carved in layers on a gallery wall](images/churning.jpg)
+*Part of the relief of the churning of the sea of milk, in the east gallery of Angkor Wat, in which gods and demons pull on a serpent. Photo: Jean-Pierre Dalbéra, CC BY 2.0.*
 
 Visitors see stone temples standing in forest. Archaeologists working from the ground and from the air mapped what lay between them, and since 2012 aircraft carrying lasers that can measure the ground through the tree canopy have filled in the detail. Angkor was a vast, low city of wooden houses on mounds, ponds, rice fields, roads and canals, spread over about a thousand square kilometres, ten times the area of modern Paris. Between seven and nine hundred thousand people probably lived in it. No other city of its time covered so much ground.
 
@@ -98,9 +122,15 @@ Down the coast of East Africa, from Somalia to Mozambique, a chain of towns grew
 
 The richest of the towns, in the fourteenth century, was Kilwa, on a small island off the south of what is now Tanzania. A traveller from Morocco who called there in 1331 thought it one of the most beautiful towns he had seen. Its great mosque had a roof of small domes held up on coral-stone columns. On a cliff above the sea its sultan built a palace of more than a hundred rooms, with an eight-sided bathing pool. He also minted his own copper coins. The tombs of Kilwa's merchants had bowls of Chinese porcelain set into the plaster as ornaments.
 
+![Rows of stone arches and short thick columns inside a ruined building with small domes overhead](images/kilwa_mosque.jpg)
+*Inside the ruined Great Mosque of Kilwa in Tanzania, with small domes carried on stone columns and arches. Photo: Halidtz, CC BY-SA 4.0.*
+
 Kilwa's wealth came from its position, like Srivijaya's. It was about as far south as a ship from Arabia could go and still be sure of getting home on the next monsoon, and it controlled the trade of the coast beyond. From there came ivory, which Indian and Chinese carvers preferred to the ivory of their own elephants, and above all gold.
 
 The gold came from far inland, from the high plateau between the Zambezi and Limpopo rivers. There, between about 1100 and 1450, the ancestors of the Shona people built a capital that is now called Great Zimbabwe. At its centre is an oval enclosure whose outer wall stands eleven metres high. It is built of granite blocks laid without any mortar, in courses so even that the wall seems to have been drawn with a ruler. Perhaps eighteen thousand people lived around it. Its rulers were rich in cattle, and they taxed the gold that passed through on its way to the coast. In the ruins, archaeologists have found glass beads from India, a glazed bowl from Persia, pieces of Chinese porcelain, and a coin of the sultan of Kilwa.
+
+![A tall curving wall of even granite blocks beside a grass field, with trees and blue sky beyond](images/zimbabwe_wall.jpg)
+*The outer wall of the Great Enclosure at Great Zimbabwe, built of granite blocks laid without mortar between about 1100 and 1450. Photo: Jens Klinzing, CC BY 3.0.*
 
 When Europeans came upon the site in the nineteenth century, they refused to believe that Africans had built it. They credited it to Phoenicians, to Arabs, or to the Queen of Sheba. Professional archaeologists who excavated there from 1905 onwards showed, beyond any doubt, that the builders were local and the dates medieval. Even so, the white government that ruled the country in the 1960s and 1970s pressed its museums and guidebooks to keep the question open. When that government fell in 1980, the new state named itself after the ruins. *Zimbabwe* means "houses of stone".
 
