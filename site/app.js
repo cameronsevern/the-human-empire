@@ -47,6 +47,7 @@ const MAX_ANISO = renderer.capabilities.getMaxAnisotropy();
 const scene = new THREE.Scene();
 scene.background = new THREE.Color('#1d1815');
 const camera = new THREE.PerspectiveCamera(32, 1, 0.1, 100);
+camera.up.set(0, 0, -1);            // 'up' on screen is the far edge of the desk, so the camera can look straight down
 
 scene.add(new THREE.AmbientLight('#fff4e6', 1.85));
 const sun = new THREE.DirectionalLight('#fff6ea', 1.55);
@@ -313,8 +314,9 @@ function deskView() {
 function readView() {
   const aspect = innerWidth / innerHeight;
   single = aspect < 1.05;
-  const tilt = 0.2, width = single ? W : 2 * W;
-  const dist = Math.max((H / 2) / FOV_T * 1.26, (width / 2) / (FOV_T * aspect) * 1.1) / zoom;
+  // straight down onto the page: a tilted page keeps the eye correcting for perspective, which is tiring to read
+  const tilt = 0, width = single ? W : 2 * W;
+  const dist = Math.max((H / 2) / FOV_T * 1.2, (width / 2) / (FOV_T * aspect) * 1.1) / zoom;
   const cx = single ? (viewSide === 'left' ? -W / 2 : W / 2) : 0;
   const look = new THREE.Vector3(cx + pan.x, 0.1, pan.y);
   const pos = look.clone().add(new THREE.Vector3(0, Math.cos(tilt), Math.sin(tilt)).multiplyScalar(dist));
