@@ -26,6 +26,9 @@ More food meant that more people could do something other than farm. They moved 
 
 A painted scroll survives that shows the city at about its height. It is more than five metres long and is meant to be unrolled an arm's length at a time. It follows the river from the fields into the town, through eight hundred tiny figures, among them boatmen straining to lower a mast before their barge strikes a bridge, a crowd leaning over the rail to shout advice, porters, fortune tellers, a man selling something from a tray, and camels coming in through the city gate.
 
+![A crowded arched wooden bridge over a river, with market stalls on the approach and a large boat passing beneath, painted in ink and colour on silk](images/qingming_bridge.jpg)
+*The bridge in "Along the River During the Qingming Festival", the Song painted scroll of the capital by Zhang Zeduan. Boatmen at the right are lowering the mast of a barge as it nears the arch. Painting: Zhang Zeduan, public domain.*
+
 Kaifeng had also run out of wood. The hills of northern China had been stripped of forest to feed the city's stoves and the furnaces of its workshops. The north, however, sits on top of enormous beds of coal, and in the eleventh century the capital switched over to it. A writer who had known the city recalled that all of its households depended on coal, and that not one burned firewood.
 
 Coal also went into iron. The Chinese had been melting iron and pouring it into moulds since about the time of Confucius, a skill that Europe would not acquire for another eighteen hundred years. Under the Song, ironmasters in the north learned to fire their tall furnaces with coal, and to drive the bellows that blew air into them with waterwheels. The largest ironworks employed hundreds of men each. One much-quoted estimate, worked out from the tax records, puts the country's output of iron in the year 1078 at more than a hundred thousand tonnes, and the lowest estimates still run to several tens of thousands. No other country came near either figure for centuries.
@@ -38,7 +41,13 @@ Chinese coins were small bronze discs with a square hole, strung in bundles of a
 
 Iron is worth far less than bronze, and so an iron coin had to be large to be worth anything. A string of a thousand of them weighed about fifteen kilograms. A woman going to market to buy a bolt of silk would have needed a porter, or a cart, to carry her money.
 
+![A rusted round iron coin with a square hole, on a cloth backing, above a museum label](images/iron_coin.jpg)
+*An iron coin of the Northern Song, of the Yuanyou type, issued between 1086 and 1094. Handan City Museum, Hebei. Photo: Gary Todd, CC0.*
+
 The merchants of the provincial capital found the obvious way out. A customer left his iron coins with a trusted shop for safe keeping, and the shop gave him a paper receipt. In time, people saw that there was no need to go back and collect the coins before paying someone. They could simply hand over the receipt. Around the year 1000, sixteen of the city's richest merchant houses were issuing printed receipts in a common design, with pictures of houses and trees, secret marks, and seals in red and black.
+
+![A rectangular metal printing plate with rows of coin circles above, columns of characters, and a picture of figures in front of a building](images/note_plate.jpg)
+*A printing plate for a Northern Song banknote, with its rows of coins, text and picture. China Printing Museum, Beijing. Photo: Popolon, CC BY-SA 4.0.*
 
 Some of the houses could not resist printing more receipts than they had coins, and when their customers came to cash them the houses failed. After a round of lawsuits and riots, the government stepped in. In 1024 it closed the private issuers and opened an office of its own that printed notes in fixed values, backed by a reserve of coin. These were the first banknotes issued by a government anywhere in the world.
 
@@ -50,11 +59,17 @@ A second invention of these years was taken up in a similar way, with a practica
 
 The Chinese had known for more than a thousand years that a certain black stone, the lodestone, attracts iron, and that a piece of it left free to turn will settle in a north and south line. They used the fact for fortune telling. Specialists in the siting of graves and houses, who held that a family's luck depended on how its buildings lay in relation to the currents of the earth, worked with a spoon carved from lodestone that swivelled on a polished bronze plate.
 
+![A bronze spoon with a long handle resting on a square bronze plate engraved with compass directions and characters](images/south_pointing_spoon.jpg)
+*A modern model of the south-pointing spoon, carved in imitation of the lodestone spoons that Chinese specialists in the siting of graves and houses used. Photo: Hohum, CC BY-SA 3.0.*
+
 By the eleventh century, the spoon had been replaced by a steel needle. The clearest account comes from an official named Shen Kuo, who in his retirement wrote down everything curious that he had learned in a long career. People who work with such things, he says, rub the point of a needle on a lodestone, and it then points south. It can be floated on water, balanced on a fingernail or on the rim of a cup, or, best of all, hung from a single fibre of new silk fixed to its middle with a speck of wax. He adds an observation that shows how carefully he had looked. The needle does not point exactly south. It always leans a little to the east. No European recorded that fact until the fifteenth century.
 
 Shen Kuo wrote in 1088. A generation later, another writer described the port of Guangzhou, where his father had been governor. The ships' pilots there, he says, steer by the stars at night and by the sun in the day, and when the sky is overcast they look at the south-pointing needle.
 
 That is the first mention anywhere of a compass at sea, and it mattered to the Song a great deal. With the overland road to the west in hostile hands, the dynasty turned to the ocean for its foreign trade and taxed it heavily. Chinese shipyards were building the best seagoing vessels of the age. They had rudders hung on the stern in place of steering oars, and their hulls were divided by solid walls into a dozen or more sealed compartments, so that a hole in one flooded only that one. A large ship carried several hundred people and had cabins for merchants. With a needle in a bowl of water, its pilot could hold a course out of sight of land, under cloud, for days.
+
+![A wooden ship hull of overlapping planks resting on a steel cradle in a pool inside a museum hall](images/quanzhou_ship.jpg)
+*A Song seagoing ship recovered at Quanzhou, on the south-east coast, kept in a museum pavilion. It dates from the Song. Photo: meckleychina, CC BY 2.0.*
 
 ## Arrows by the hundred thousand
 
@@ -62,7 +77,13 @@ The fire drug, meanwhile, had found its way to the army.
 
 In 1044 the Song court had a handbook of military knowledge compiled, covering everything from the layout of camps to the building of siege engines. It contains three recipes for gunpowder, the first ever written down, each a list of ingredients by weight. They are still low in saltpetre by later standards, and the mixtures they describe would burn furiously without exploding. They were weapons for setting things on fire. One was packed into a ball with a fuse and hurled over a city wall by a catapult. Another was wrapped round the shaft of an arrow, just behind the head, lit, and shot from a bow.
 
+![Two pages of printed Chinese text in vertical columns, the right-hand page headed with the characters for the method of making fire drug](images/wujing_page.jpg)
+*A page of the Wujing Zongyao, the military handbook compiled by 1044, headed "method for making the fire drug". Printed page: Zeng Gongliang, Ding Du and Yang Weide, public domain.*
+
 Song officials saw the value of the new weapons and organised their manufacture on the scale of everything else in the country. A government arsenal in the capital had separate workshops for gunpowder, for fire arrows and for bombs. In a single order in 1083, the court sent a hundred thousand gunpowder arrows to one frontier garrison and a quarter of a million to another. The export of saltpetre and sulphur to foreigners was forbidden by law.
+
+![Woodcut drawing of a long box with a lid, an arrow, a quiver and perforated plates, with Chinese labels](images/fire_arrow.jpg)
+*A "long serpent" fire-arrow launcher: a box that held a bundle of arrows, as drawn in the Wujing Zongyao, compiled by 1044. Illustration: Zeng Gongliang, Ding Du and Yang Weide, public domain.*
 
 In the following decades the makers raised the share of saltpetre, and the powder grew fiercer. Soldiers defending city walls took up a device called the fire lance, a bamboo tube packed with powder and tied to the end of a spear. When lit, it threw a jet of flame and sparks several metres long, which was enough to clear a ladder. Before long, somebody thought of adding bits of broken pottery or iron to the powder, so that the tube spat them out along with the flame. A tube that throws objects out of its mouth by the force of burning powder is, in principle, a gun.
 
@@ -86,11 +107,17 @@ In the early 1100s a new power appeared behind the Khitan. The Jurchen were hunt
 
 To the Song court, this looked like the chance of a century. The emperor at the time, Huizong, was one of the most gifted men ever to sit on the Chinese throne. He painted birds and flowers with a delicacy that has rarely been equalled, invented a style of handwriting that is still copied, and catalogued a collection of more than six thousand paintings. He had less judgment in the matter of alliances. His envoys went by sea to the Jurchen and proposed that the two should attack the Khitan together, after which the Song would at last recover the passes.
 
+![A flock of cranes in flight over the curved roof of a palace hall, painted in white and red on dark blue-grey silk](images/huizong_cranes.jpg)
+*"Auspicious Cranes", a painting attributed to Emperor Huizong: cranes wheel in the sky above a palace roof. Painting: Emperor Huizong, public domain.*
+
 The Jurchen did nearly all of the fighting. A Song army marched north to take its share and was routed by the already beaten Khitan. The Jurchen commanders drew the conclusion that the richest state in the world could not defend itself. In the winter of 1125 they crossed the frontier.
 
 Kaifeng was besieged twice. Its defenders shot gunpowder arrows from the walls and dropped bombs on the men at the foot of them, and for a time they held. The court, meanwhile, could not decide whether to fight or to pay, dismissed its most capable commander, recalled him, and dismissed him again. At the beginning of 1127 the city fell.
 
 The Jurchen stripped the capital of its treasures. They took the books and the paintings, the palace musicians, and the astronomers' instruments. They also took a wonder that had stood in the palace for thirty-five years, a clock tower twelve metres high, driven by a waterwheel, in which wooden figures came out of doors to strike the hours and a great bronze globe of the stars turned in time with the sky. It was carted north in pieces. Nobody there could make it work. When the Song later tried to build another, the son of the man who had designed it was put in charge, with his father's papers, and he could not do it either.
+
+![Line drawing of a tall wooden frame with a waterwheel inside, a bronze armillary sphere on the roof, and a water tank to the right](images/clock_tower.jpg)
+*Su Song's clock tower, as drawn in his book of 1092. The armillary sphere stands on the roof, and the waterwheel that drove the works is inside the frame. Drawing: Su Song, public domain.*
 
 Huizong had handed the throne to his eldest son when the invasion began. Father and son, with thousands of members of the court and household, including the palace women, were marched to Manchuria as prisoners. The old emperor lived another eight years in captivity and did not see China again.
 
