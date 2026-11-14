@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" font-family="Georgia, 'Noto Serif', serif">
+<defs>
+<!-- paper: fine grain plus slow blotches -->
+<filter id="paper" x="0" y="0" width="100%" height="100%">
+<feTurbulence type="fractalNoise" baseFrequency="0.8" numOctaves="3" seed="3" result="grain"/>
+<feColorMatrix in="grain" type="matrix" values="0 0 0 0 0.45  0 0 0 0 0.36  0 0 0 0 0.24  0 0 0 0.9 -0.42" result="g2"/>
+<feTurbulence type="fractalNoise" baseFrequency="0.006" numOctaves="2" seed="8" result="blot"/>
+<feColorMatrix in="blot" type="matrix" values="0 0 0 0 0.55  0 0 0 0 0.42  0 0 0 0 0.25  0 0 0 0.55 -0.2" result="b2"/>
+<feMerge><feMergeNode in="SourceGraphic"/><feMergeNode in="b2"/><feMergeNode in="g2"/></feMerge>
+</filter>
+<!-- ink: a slight wobble in every line, a soft bleed of colour under it, and mottling inside the washes -->
+<filter id="ink" x="-5%" y="-5%" width="110%" height="110%">
+<feTurbulence type="fractalNoise" baseFrequency="0.018" numOctaves="2" seed="5" result="warp"/>
+<feDisplacementMap in="SourceGraphic" in2="warp" scale="5" xChannelSelector="R" yChannelSelector="G" result="drawn"/>
+<feGaussianBlur in="drawn" stdDeviation="7" result="bleed0"/>
+<feComponentTransfer in="bleed0" result="bleed"><feFuncA type="linear" slope="0.38"/></feComponentTransfer>
+<feTurbulence type="fractalNoise" baseFrequency="0.011" numOctaves="2" seed="11" result="wash"/>
+<feColorMatrix in="wash" type="matrix" values="0 0 0 0 0.35  0 0 0 0 0.25  0 0 0 0 0.15  0 0 0 0.75 -0.3" result="w2"/>
+<feComposite in="w2" in2="drawn" operator="in" result="mottle"/>
+<feMorphology in="drawn" operator="erode" radius="2.5" result="inner"/>
+<feComposite in="drawn" in2="inner" operator="out" result="rim0"/>
+<feColorMatrix in="rim0" type="matrix" values="0 0 0 0 0.3  0 0 0 0 0.22  0 0 0 0 0.15  0 0 0 0.16 0" result="rim"/>
+<feOffset in="drawn" dx="5" dy="7" result="off"/>
+<feGaussianBlur in="off" stdDeviation="5" result="sh0"/>
+<feColorMatrix in="sh0" type="matrix" values="0 0 0 0 0.25  0 0 0 0 0.2  0 0 0 0 0.15  0 0 0 0.22 0" result="shadow"/>
+<feMerge><feMergeNode in="shadow"/><feMergeNode in="bleed"/><feMergeNode in="drawn"/><feMergeNode in="mottle"/><feMergeNode in="rim"/></feMerge>
+</filter>
+<radialGradient id="vig" cx="50%" cy="50%" r="75%"><stop offset="60%" stop-color="#6b4a2a" stop-opacity="0"/><stop offset="100%" stop-color="#6b4a2a" stop-opacity="0.22"/></radialGradient>
+</defs>
+<rect width="1200" height="760" fill="#faf6ee" filter="url(#paper)"/>
+<rect width="1200" height="760" fill="url(#vig)"/>
+<rect x="14" y="14" width="1172" height="732" fill="none" stroke="#2f2a26" stroke-width="2"/>
+<rect x="20" y="20" width="1160" height="720" fill="none" stroke="#2f2a26" stroke-width="0.7"/>
+<text x="44" y="64" font-size="30" font-weight="bold" fill="#2f2a26" letter-spacing="3">THE COIN DIE</text>
+<line x1="44" y1="76" x2="104" y2="76" stroke="#b5523b" stroke-width="3"/>
+<text x="44" y="104" font-size="20" font-style="italic" fill="#8a8178">about 2,600 years ago</text>
+<g filter="url(#ink)">
+<line x1="40" y1="690" x2="1160" y2="690" stroke="#2f2a26" stroke-width="3" stroke-linecap="round"/>
+<path d="M 430.0,690.0 L 450.0,500.0 L 750.0,500.0 L 770.0,690.0 Z" fill="#e6d6b8" stroke="#2f2a26" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="455" y1="540" x2="745" y2="546" stroke="#8a8178" stroke-width="1.5" stroke-linecap="round"/>
+<line x1="455" y1="585" x2="745" y2="591" stroke="#8a8178" stroke-width="1.5" stroke-linecap="round"/>
+<line x1="455" y1="630" x2="745" y2="636" stroke="#8a8178" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M 560.0,600.0 L 560.0,476.0 L 640.0,476.0 L 640.0,600.0 Z" fill="#b5523b" stroke="#2f2a26" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 578,476 Q 600,492 622,476" fill="#faf6ee" stroke="#2f2a26" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" />
+<ellipse cx="600" cy="462" rx="30" ry="12" fill="#d8c98a" stroke="#2f2a26" stroke-width="3" transform="rotate(0 600 462)"/>
+<path d="M 574.0,420.0 L 570.0,250.0 L 630.0,250.0 L 626.0,420.0 Z" fill="#b9c0c4" stroke="#2f2a26" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 584,420 Q 600,410 616,420" fill="#faf6ee" stroke="#2f2a26" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" />
+<ellipse cx="600" cy="250" rx="30" ry="8" fill="#b9c0c4" stroke="#2f2a26" stroke-width="3" transform="rotate(0 600 250)"/>
+<rect x="545" y="135" width="130" height="62" rx="8" fill="#b9c0c4" stroke="#2f2a26" stroke-width="3"/>
+<path d="M 675.0,158.0 L 960.0,118.0 L 962.0,136.0 L 675.0,176.0 Z" fill="#e6d6b8" stroke="#2f2a26" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="520" y1="150" x2="520" y2="225" stroke="#2f2a26" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="520" y1="225" x2="511.75197805085656" y2="211.28977994609684" stroke="#2f2a26" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="520" y1="225" x2="528.2480219491434" y2="211.28977994609684" stroke="#2f2a26" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="990" cy="585" r="62" fill="#d8c98a" stroke="#2f2a26" stroke-width="3"/>
+<circle cx="990" cy="585" r="50" fill="none" stroke="#8a8178" stroke-width="1.5"/>
+<path d="M 962,600 Q 955,570 980,560 Q 1005,548 1022,570 Q 1030,590 1012,598 L 1022,610 Q 990,622 962,600 Z" fill="none" stroke="#2f2a26" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" />
+<circle cx="1000" cy="575" r="4" fill="#2f2a26" stroke="#2f2a26" stroke-width="0"/>
+<line x1="572" y1="540" x2="400" y2="570" stroke="#2f2a26" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="572" cy="540" r="4" fill="#2f2a26" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="400" cy="570" r="19" fill="#faf6ee" stroke="#2f2a26" stroke-width="2"/>
+<line x1="575" y1="462" x2="400" y2="400" stroke="#2f2a26" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="575" cy="462" r="4" fill="#2f2a26" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="400" cy="400" r="19" fill="#faf6ee" stroke="#2f2a26" stroke-width="2"/>
+<line x1="622" y1="330" x2="820" y2="330" stroke="#2f2a26" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="622" cy="330" r="4" fill="#2f2a26" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="820" cy="330" r="19" fill="#faf6ee" stroke="#2f2a26" stroke-width="2"/>
+<line x1="660" y1="185" x2="820" y2="215" stroke="#2f2a26" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="660" cy="185" r="4" fill="#2f2a26" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="820" cy="215" r="19" fill="#faf6ee" stroke="#2f2a26" stroke-width="2"/>
+<line x1="978" y1="524" x2="950" y2="395" stroke="#2f2a26" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="978" cy="524" r="4" fill="#2f2a26" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="950" cy="395" r="19" fill="#faf6ee" stroke="#2f2a26" stroke-width="2"/>
+</g>
+<text x="400" y="577" text-anchor="middle" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">1</text>
+<text x="370" y="577" text-anchor="end" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">The lower die, set in an</text>
+<text x="370" y="604" text-anchor="end" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">anvil, its picture cut hollow</text>
+<text x="370" y="631" text-anchor="end" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">and back to front</text>
+<text x="400" y="407" text-anchor="middle" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">2</text>
+<text x="370" y="407" text-anchor="end" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">The blank: a weighed</text>
+<text x="370" y="434" text-anchor="end" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">lump of metal</text>
+<text x="820" y="337" text-anchor="middle" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">3</text>
+<text x="850" y="337" text-anchor="start" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">The upper die, held</text>
+<text x="850" y="364" text-anchor="start" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">upright like a chisel</text>
+<text x="820" y="222" text-anchor="middle" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">4</text>
+<text x="850" y="222" text-anchor="start" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">A hard blow</text>
+<text x="850" y="249" text-anchor="start" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">of the hammer</text>
+<text x="950" y="402" text-anchor="middle" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">5</text>
+<text x="980" y="402" text-anchor="start" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">The coin comes out</text>
+<text x="980" y="429" text-anchor="start" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">with a picture</text>
+<text x="980" y="456" text-anchor="start" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">on each face</text>
+</svg>

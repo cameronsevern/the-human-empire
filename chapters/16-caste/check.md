@@ -1,0 +1,40 @@
+1. **Factual overreach: the central chronology.** “The custom that made those ranks so hard to escape, marrying only inside one's own group, did not take hold across India until about 1,900 years ago.” (Line 5.) Also: “Then the mixing stopped.” (Line 155.)  
+   The genetic evidence supports a broad transition towards endogamy, with different histories in different communities—not a single nationwide cutoff. The cited study itself reports negligible outside gene flow among the Vysya for roughly **3,000 years**. Its dates measure ancestral mixture, not directly when marriage rules began. This undermines the opening’s neat “two steps” and the later thousand-year interval. **Confidence: high.** [Moorjani et al., 2013](https://reich.hms.harvard.edu/sites/reich.hms.harvard.edu/files/inline-files/2013_AJHG_Priya_India_Date%281%29.pdf).
+
+2. **Factual overreach: what the hymn establishes.** “About three thousand years ago, priests in northern India composed a hymn that sorted society into four ranked orders, fixed by birth.” (Line 5.)  
+   Rigveda 10.90.12 gives the four groups a cosmic origin in the giant’s body. It does **not** state rules about hereditary membership or marriage. Reading hierarchy into the bodily arrangement is reasonable; treating the verse as evidence that hereditary caste was instituted then goes beyond its wording. Distinguish the hymn’s social model from later prescriptions. **Confidence: high about the text; moderate about reconstructing contemporary practice.** [Rigveda 10.90.12](https://www.meluhha.com/rv/verse.pl?acc=no&lang=ved&q=10.&v=10.090.12).
+
+3. **Factual overreach and an internal tension: caste without political power.** “No king had built them, and no king was needed to guard them.” (Line 159.)  
+   Caste could survive changes of dynasty, but kings also helped constitute and uphold caste hierarchies through patronage, landholding and political authority. Nicholas Dirks’s study of Pudukkottai supplies a concrete counterexample to the absolute. The sentence also sits awkwardly beside this chapter’s own account of a bargain between kings and Brahmins. **Confidence: high that the absolute fails.** [Dirks, *The Hollow Crown*, introduction](https://assets.cambridge.org/97805210/53723/excerpt/9780521053723_excerpt.pdf).
+
+4. **Factual error: the genetic study’s coverage.** “Every one of them turned out to be a mixture of the same ancestral populations, in differing shares.” (Line 153.)  
+   The researchers initially assembled 73 South Asian groups, including two Pakistani groups. Their two-population analysis excluded, among others, all Austroasiatic- and Tibeto-Burman-speaking samples; the curated dataset contained 45 groups. “Every one” and the preceding “every part of India” erase consequential exclusions. **Confidence: high.** [Moorjani et al., methods](https://reich.hms.harvard.edu/sites/reich.hms.harvard.edu/files/inline-files/2013_AJHG_Priya_India_Date%281%29.pdf).
+
+5. **Factual error: abandonment of the Indus cities.** “By the time the herders arrived, however, those cities had been empty for centuries.” (Line 25.)  
+   Urban decline was not universal abandonment. Harappa retained Late Harappan occupation into the second millennium BCE, overlapping the chapter’s migration window. Say the great urban system had declined and many settlements had contracted or been abandoned. **Confidence: high.** [Kenoyer, “Changing Settlement at Harappa”](https://www.harappa.com/slide/changing-settlement-harappa).
+
+6. **Factual error and a break of the rule against absolutes.** “Some hold that caste as the modern world knows it, rigid and ranked from top to bottom, is largely the product of those British lists and of British courts that applied the old Brahmin law books to everybody.” (Line 171.)  
+   British courts did not apply Brahmanical law to everybody. Anglo-Hindu law principally governed specified personal-law matters for Hindus; Muslims had a separate legal framework. Even for Hindus, colonial courts did not simply apply the whole ancient legal corpus. **Confidence: high.** [St Andrews Encyclopaedia of Theology, “Law and Religion in Brahmanism”](https://www.saet.ac.uk/Hinduism/LawandReligioninBrahmanism).
+
+7. **Doubtful factual claim: identical chanting.** “Families of reciters in the far south of India and in the north, who had no dealings with each other for many centuries, chant the same words with the same pitch on each syllable.” (Line 55.)  
+   Preservation of textual accents is not the same as identical audible pitch or pronunciation. Regional recitation traditions differ; the assertion of centuries without contact also needs specific evidence. The defensible point is exceptional textual preservation despite regional performance differences. **Confidence: high on regional differences; unverified on the claimed isolation.** [Discussion by Sanskrit scholars of Staal’s findings](https://list.indology.info/pipermail/indology/2024-February/058741.html).
+
+8. **Factual error: census chronology.** “From 1871 they held a census every ten years, and it asked every person for a caste.” (Line 167.)  
+   The first broad enumeration was conducted non-synchronously and is conventionally called the **1872 census**. The synchronous decennial series began in **1881**. “Every person” also overstates the first enumeration’s coverage. **Confidence: high.** [Government of India census history](https://www.pib.gov.in/newsite/erelcontent.aspx?lang=2&reg=48&relid=91509).
+
+9. **Reader loses the distinction on which the argument depends.** “The four orders were the priests' theory, and the jatis were the practice.” (Line 151.)  
+   This distinction arrives almost at the end, although the opening has already connected four ranks with marrying inside “one’s own group.” A reader can reasonably spend most of the chapter imagining four marriage pools. Explain earlier that a *jati* is a much smaller birth community, and that belonging to the same broad order does not necessarily make two communities marriage partners.
+
+10. **Missing step in the explanation.** “The priesthood therefore passed down by birth.” (Line 75.)  
+    The preceding sentence allows instruction by either a father **or a teacher who accepts the pupil**. That does not establish hereditary exclusion. The reader needs the missing restriction: who could be accepted, and how access became tied to descent. Without it, “therefore” conceals the very mechanism the chapter is trying to explain.
+
+11. **An absolute the explanation does not support.** “Nobody can do that by rote.” (Line 51.)  
+    A learner can memorise the rearranged sequences and their altered sounds by rote. Elaborate memorisation does not itself prove that each performance requires fresh calculation. The point about multiple arrangements checking one another survives without this claim.
+
+12. **Explicit signposting prohibited by `style.md`.** “To see where they came from, it helps to know who composed the hymns, how they were kept, and what the men who kept them did for a living.” (Line 13.)  
+    This announces the chapter’s itinerary instead of continuing the story. Likewise: “Their method deserves a close look, because it is one of the cleverest devices that people without writing ever built.” (Line 35.) The following explanation already demonstrates why the method deserves attention.
+
+13. **Unnecessary universal comparison.** “The Rigveda has come down with almost no variant readings, which can be said of no other ancient book of its size.” (Line 55.)  
+    The first clause makes the useful point. The second claims an exhaustive comparison with every other comparably long ancient book, without defining the comparison or supplying evidence. This is precisely the sort of exception-sensitive absolute `style.md` excludes.
+
+I found no clear direct contradiction with chapters 9–11, no hedging stacks, and no explicit chapter self-reference or prohibited cross-reference. Image placeholders were ignored. No files were edited.

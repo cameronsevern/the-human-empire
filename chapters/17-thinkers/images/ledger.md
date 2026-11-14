@@ -1,0 +1,15 @@
+# Image ledger: Chapter 17, Why did so many great thinkers live at the same time?
+
+All files from Wikimedia Commons. Licences read from the Commons API (extmetadata LicenseShortName), not guessed. All files are at most 1600 px on the long side.
+
+| File | What it shows | Commons page | Author | Licence | Caption |
+|---|---|---|---|---|---|
+| guodian_laozi_strips.jpg | The Guodian Laozi A bundle (39 bamboo strips, Chu script) laid out in order in a museum display case. Tomb about 300 BCE. | https://commons.wikimedia.org/wiki/File:郭店楚简《老子甲》.jpg | Cangminzho | CC BY-SA 4.0 | One bundle of the sayings from the tomb at Guodian, set out in order in a museum case. Each strip carries a single column of writing. |
+| warring_states_map.jpg | Political map of China about 260 BCE with the seven states labelled in English. | https://commons.wikimedia.org/wiki/File:EN-WarringStatesAll260BCE.jpg | Philg88 | CC BY-SA 3.0 | The seven warring states about 2,300 years ago. |
+| confucius_tang_print.jpg | Ink rubbing of a stone-engraved portrait of Confucius, after a design attributed to the Tang painter Wu Daozi (685-758). | https://commons.wikimedia.org/wiki/File:Confucius_Tang_Dynasty,_black_print.jpg | After Wu Daozi | Public domain | Confucius as later ages imagined him, after a painter who lived twelve centuries after him. |
+| mahajanapadas_map.png | Map of the states of northern India about 500 BCE, English labels; shows Magadha, Kosala, Sakya, Sravasti. | https://commons.wikimedia.org/wiki/File:Mahajanapadas_(c._500_BCE).png | Avantiputra7 | CC BY-SA 3.0 | The states of northern India about 2,500 years ago. |
+| bodhi_tree.jpg | The Bodhi tree beside the Mahabodhi Temple, Bodh Gaya, Bihar, with worshippers. | https://commons.wikimedia.org/wiki/File:018_Bodhi_Tree_(9219396225).jpg | Photo Dharma (Anandajoti) | CC BY 2.0 | The fig tree at Bodh Gaya, a descendant of the one under which the Buddha is said to have sat. |
+| dhamek_stupa.jpg | The Dhamek Stupa at Sarnath near Varanasi, built about 500 CE. | https://commons.wikimedia.org/wiki/File:Dhamek_Stupa,_2025.jpg | Hardy Explorer | CC0 | The monument at Sarnath marking the place where the Buddha is said to have first taught. |
+| gandhara_scroll.jpg | Fragments of a Gandharan birch-bark scroll, 1st century CE, British Library Or. 14915. | https://commons.wikimedia.org/wiki/File:Fragmentary_Buddhist_text_-_Gandhara_birchbark_scrolls_(1st_C),_part_31_-_BL_Or._14915.jpg | British Library | CC0 | Pieces of a birch-bark scroll about 1,900 years old, among the oldest Buddhist writings that survive. |
+| miletus_theatre.jpg | The theatre at Miletus, Turkey (Hellenistic, rebuilt in Roman times). | https://commons.wikimedia.org/wiki/File:Miletus_-_Ancient_Greek_theatre_02.jpg | Bernard Gagnon | CC BY-SA 3.0 | The theatre of Miletus, rebuilt in Roman times. |
+| socrates_louvre.jpg | Marble head of Socrates, Roman, 1st century CE, perhaps after a lost bronze by Lysippos; Louvre. | https://commons.wikimedia.org/wiki/File:Socrates_Louvre.jpg | Eric Gaba | Public domain | Socrates, in a Roman copy of a Greek portrait. |

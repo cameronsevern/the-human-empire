@@ -1,0 +1,16 @@
+# Image ledger: Chapter 21, How did China become one country?
+
+All files from Wikimedia Commons. Licences read from the Commons API (extmetadata LicenseShortName), not guessed. All files are at most 1600 px on the long side.
+
+| File | What it shows | Commons page | Author | Licence | Caption |
+|---|---|---|---|---|---|
+| fangsheng.jpg | The Shang Yang bronze measure (fangsheng), 344 BCE, Shanghai Museum East. Inscription visible on the side. | https://commons.wikimedia.org/wiki/File:商鞅方升_163842.jpg | Hpppp0527 | CC BY-SA 4.0 | The bronze scoop made for Shang Yang, about 2,370 years old, in the Shanghai Museum. |
+| map_warring_states.jpg | Map of the seven Warring States c. 260 BCE, English labels. | https://commons.wikimedia.org/wiki/File:EN-WarringStatesAll260BCE.jpg | Philg88 | CC BY-SA 3.0 | The seven kingdoms about 2,285 years ago. |
+| letter_home.jpg | Wooden tablet letter of Heifu and Jing, Shuihudi tomb 4, Hubei Provincial Museum, with museum transcription. | https://commons.wikimedia.org/wiki/File:Qin_Wooden_Tablet_of_Letter_to_Home_(10160521875).jpg | Gary Todd | CC0 | One of the two soldiers' letters. |
+| qin_weight_edict.jpg | Qin bronze weight with inscribed edicts, Qin Shihuang Museum, Lintong. | https://commons.wikimedia.org/wiki/File:Qin_Bronze_Weight_with_Inscribed_Edicts_(14183835520).jpg | Gary Todd | CC0 | A Qin bronze weight with the edict cut into its side. |
+| ban_liang.jpg | Qin ban liang coin, both faces, 30 mm. | https://commons.wikimedia.org/wiki/File:026_S-83_Qin_Ban_Liang,_221-208_BC,_30mm.jpg | Gary Lee Todd | CC0 | The Qin coin, front and back. |
+| shuihudi_strips.jpg | Bamboo strips of the Eighteen Qin Statutes from Shuihudi tomb 11, Hubei Provincial Museum, mounted beside printed transcriptions. | https://commons.wikimedia.org/wiki/File:Eighteen_Laws_of_Qin_on_Qin_Bamboo_Slips_(10160622885).jpg | Gary Todd | CC0 | Some of Xi's law strips. |
+| terracotta_pit1.jpg | Ranks of terracotta soldiers in Pit 1, Lintong. | https://commons.wikimedia.org/wiki/File:Terracotta_Army_-_Pit_1,_Xi%27an,_China_(14148051282).jpg | Joe Hart | CC BY 2.0 | Clay soldiers in the largest pit. |
+| kneeling_archer.jpg | Head of a painted terracotta kneeling archer from the mausoleum, Shaanxi museum, 2009. | https://commons.wikimedia.org/wiki/File:2009_Qin_State-_Terracotta_Kneeling_Archer,_Painted.jpg | Gary Todd | CC0 | The head of a kneeling archer with traces of paint. |
+| crossbow_trigger.jpg | Qin bronze crossbow trigger mounted in a replica wooden crossbow, Shaanxi History Museum. | https://commons.wikimedia.org/wiki/File:Qin_State_Bronze_Crossbow_Trigger_Mechanism_with_Replica_Wood_Parts_(40504209223).jpg | Gary Todd | CC0 | A Qin bronze trigger in a modern replica crossbow. |
+| tomb_mound.jpg | The tomb mound of the First Emperor from the north, Lintong. | https://commons.wikimedia.org/wiki/File:秦始皇帝陵·秦始皇陵·西安臨潼·（封土正北側）.jpg | Legolas1024 | CC BY-SA 4.0 | The mound over the First Emperor's tomb. |

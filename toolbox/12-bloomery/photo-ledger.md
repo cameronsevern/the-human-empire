@@ -1,0 +1,3 @@
+| File | What it shows | Commons page | Author | Licence |
+|---|---|---|---|---|
+| toolbox/12-bloomery/photo-bloomery.jpg | Old German postcard captioned "Hochöfen in Banjeli (Nord-Togo) im Betrieb": three tall clay natural-draught iron-smelting furnaces of the Bassar region at work, air holes round the base, heaps of ore, smelters seated nearby. Undated; Commons says late 19th or early 20th century (German Togo ended 1914). Original file, 1599x1027 | https://commons.wikimedia.org/wiki/File:Hoch%C3%B6fen_in_Banjeli_(Nord-Togo)_im_Betrieb.jpg | Unknown (anonymous postcard, private collection) | Public domain |

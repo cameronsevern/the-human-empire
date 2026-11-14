@@ -1,0 +1,16 @@
+# Image ledger: Chapter 22, Why was the Great Wall of China built?
+
+All files from Wikimedia Commons. Licences read from the Commons API (extmetadata LicenseShortName), not guessed. All files are at most 1600 px on the long side (resized locally from the Commons 1920 px rendering where needed).
+
+| File | What it shows | Commons page | Author | Licence | Caption |
+|---|---|---|---|---|---|
+| han_wall_dunhuang.jpg | Han wall of layered reeds and gravel in the desert near Dunhuang | https://commons.wikimedia.org/wiki/File:Western_End_of_the_Great_Wall_Hanchangcheng_Dunhuang_Jiuquan_Gansu_China_%E6%95%A6%E7%85%8C_%E6%B1%89%E9%95%BF%E5%9F%8E%E9%81%97%E5%9D%80_-_panoramio_(3).jpg | Hiroki Ogawa | CC BY 3.0 | The Han wall in the desert near Dunhuang, about 2,100 years old. |
+| badaling.jpg | Ming stone and brick wall at Badaling, north of Beijing | https://commons.wikimedia.org/wiki/File:Badaling_China_Great-Wall-of-China-01.jpg | CEphoto, Uwe Aranas | CC BY-SA 3.0 | The wall on the postcards, north of Beijing, about 500 years old. |
+| rammed_earth_xinzheng.jpg | Layers of rammed earth in a cut through the ancient city wall of Xinzheng, Henan | https://commons.wikimedia.org/wiki/File:Xinzheng_Ancient_City_Wall_of_Rammed_Earth,_Eastern_Zhou,_c._770-230_BC.jpg | Gary Todd | CC0 | Rammed earth in section. |
+| map_xiongnu.png | Extent of the Xiongnu empire about 150 BCE on a relief map of Asia (no labels) | https://commons.wikimedia.org/wiki/File:Map_of_the_Xiongnu,_circa_150_BCE.png | Wikimedia Commons, on a Natural Earth base | CC0 | The Xiongnu empire after Modu's conquests. |
+| cocoons.jpg | Three white cocoons of the silk moth | https://commons.wikimedia.org/wiki/File:Cocoon_-_Bombyx_mori_-_Kolkata_2013-06-04_8547.JPG | Biswarup Ganguly | CC BY 3.0 | Cocoons of the silk moth. |
+| silk_reeling.jpg | Two women soaking cocoons and reeling silk; detail of a Song dynasty handscroll attributed to Liang Kai, 13th century | https://commons.wikimedia.org/wiki/File:Soaking_the_cocoons_and_reeling_the_silk_(Sericulture_by_Liang_Kai,_1200s).jpg | Attributed to Liang Kai | Public domain | Reeling silk, from a Chinese painting about 800 years old. |
+| map_han_hexi.png | The Han empire in 60 BCE with the Hexi corridor highlighted, the Xiongnu and the Western Protectorate; English labels | https://commons.wikimedia.org/wiki/File:Han_dynasty_(60_BC)_with_the_Hexi_Corridor_highlighted.png | Qiushufang | CC BY-SA 4.0 | The Han empire about 2,080 years ago, with the corridor to Dunhuang. |
+| zhang_qian.jpg | Mural of Zhang Qian's mission to the west, Mogao cave 323, Dunhuang, 618 to 712 CE | https://commons.wikimedia.org/wiki/File:Zhang_Qian.jpg | Unknown painter | Public domain | Zhang Qian's journey, painted in a cave temple near Dunhuang. |
+| han_watchtower.jpg | Ruined Han watchtower near Dunhuang with dunes behind | https://commons.wikimedia.org/wiki/File:Summer_Vacation_2007,_263,_Watchtower_In_The_Morning_Light,_Dunhuang,_Gansu_Province.jpg | The Real Bear | CC BY 2.0 | A Han watchtower near Dunhuang. |
+| juyan_slips.jpg | Han wooden strips from Juyan on display at the National Museum of Chinese Writing, Anyang | https://commons.wikimedia.org/wiki/File:Han_Bamboo_Slips_Discovered_at_Juyan_(10195000756).jpg | Gary Todd | CC0 | Strips from the frontier forts at Juyan. |

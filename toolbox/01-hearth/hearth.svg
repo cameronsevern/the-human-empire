@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" font-family="Georgia, 'Noto Serif', serif">
+<defs>
+<!-- paper: fine grain plus slow blotches -->
+<filter id="paper" x="0" y="0" width="100%" height="100%">
+<feTurbulence type="fractalNoise" baseFrequency="0.8" numOctaves="3" seed="3" result="grain"/>
+<feColorMatrix in="grain" type="matrix" values="0 0 0 0 0.45  0 0 0 0 0.36  0 0 0 0 0.24  0 0 0 0.9 -0.42" result="g2"/>
+<feTurbulence type="fractalNoise" baseFrequency="0.006" numOctaves="2" seed="8" result="blot"/>
+<feColorMatrix in="blot" type="matrix" values="0 0 0 0 0.55  0 0 0 0 0.42  0 0 0 0 0.25  0 0 0 0.55 -0.2" result="b2"/>
+<feMerge><feMergeNode in="SourceGraphic"/><feMergeNode in="b2"/><feMergeNode in="g2"/></feMerge>
+</filter>
+<!-- ink: a slight wobble in every line, a soft bleed of colour under it, and mottling inside the washes -->
+<filter id="ink" x="-5%" y="-5%" width="110%" height="110%">
+<feTurbulence type="fractalNoise" baseFrequency="0.018" numOctaves="2" seed="5" result="warp"/>
+<feDisplacementMap in="SourceGraphic" in2="warp" scale="5" xChannelSelector="R" yChannelSelector="G" result="drawn"/>
+<feGaussianBlur in="drawn" stdDeviation="7" result="bleed0"/>
+<feComponentTransfer in="bleed0" result="bleed"><feFuncA type="linear" slope="0.38"/></feComponentTransfer>
+<feTurbulence type="fractalNoise" baseFrequency="0.011" numOctaves="2" seed="11" result="wash"/>
+<feColorMatrix in="wash" type="matrix" values="0 0 0 0 0.35  0 0 0 0 0.25  0 0 0 0 0.15  0 0 0 0.75 -0.3" result="w2"/>
+<feComposite in="w2" in2="drawn" operator="in" result="mottle"/>
+<feMorphology in="drawn" operator="erode" radius="2.5" result="inner"/>
+<feComposite in="drawn" in2="inner" operator="out" result="rim0"/>
+<feColorMatrix in="rim0" type="matrix" values="0 0 0 0 0.3  0 0 0 0 0.22  0 0 0 0 0.15  0 0 0 0.16 0" result="rim"/>
+<feOffset in="drawn" dx="5" dy="7" result="off"/>
+<feGaussianBlur in="off" stdDeviation="5" result="sh0"/>
+<feColorMatrix in="sh0" type="matrix" values="0 0 0 0 0.25  0 0 0 0 0.2  0 0 0 0 0.15  0 0 0 0.22 0" result="shadow"/>
+<feMerge><feMergeNode in="shadow"/><feMergeNode in="bleed"/><feMergeNode in="drawn"/><feMergeNode in="mottle"/><feMergeNode in="rim"/></feMerge>
+</filter>
+<radialGradient id="vig" cx="50%" cy="50%" r="75%"><stop offset="60%" stop-color="#6b4a2a" stop-opacity="0"/><stop offset="100%" stop-color="#6b4a2a" stop-opacity="0.22"/></radialGradient>
+</defs>
+<rect width="1200" height="760" fill="#faf6ee" filter="url(#paper)"/>
+<rect width="1200" height="760" fill="url(#vig)"/>
+<rect x="14" y="14" width="1172" height="732" fill="none" stroke="#2f2a26" stroke-width="2"/>
+<rect x="20" y="20" width="1160" height="720" fill="none" stroke="#2f2a26" stroke-width="0.7"/>
+<text x="44" y="64" font-size="30" font-weight="bold" fill="#2f2a26" letter-spacing="3">THE HEARTH</text>
+<line x1="44" y1="76" x2="104" y2="76" stroke="#b5523b" stroke-width="3"/>
+<text x="44" y="104" font-size="20" font-style="italic" fill="#8a8178">about 400,000 years ago</text>
+<g filter="url(#ink)">
+<ellipse cx="560" cy="470" rx="300" ry="95" fill="#efe3c8" stroke="#8a8178" stroke-width="1.5" transform="rotate(0 560 470)"/>
+<ellipse cx="560" cy="478" rx="120" ry="40" fill="#5a4a40" stroke="#2f2a26" stroke-width="2.5" transform="rotate(0 560 478)"/>
+<ellipse cx="698.0" cy="478.0" rx="30" ry="20" fill="#cdc6ba" stroke="#2f2a26" stroke-width="2.5" transform="rotate(-20 698.0 478.0)"/>
+<ellipse cx="671.6443452237428" cy="505.03812160545374" rx="30" ry="20" fill="#cdc6ba" stroke="#2f2a26" stroke-width="2.5" transform="rotate(17 671.6443452237428 505.03812160545374)"/>
+<ellipse cx="602.6443452237428" cy="521.748599749577" rx="30" ry="20" fill="#cdc6ba" stroke="#2f2a26" stroke-width="2.5" transform="rotate(14 602.6443452237428 521.748599749577)"/>
+<ellipse cx="517.3556547762573" cy="521.7485997495771" rx="30" ry="20" fill="#cdc6ba" stroke="#2f2a26" stroke-width="2.5" transform="rotate(11 517.3556547762573 521.7485997495771)"/>
+<ellipse cx="448.35565477625727" cy="505.0381216054538" rx="30" ry="20" fill="#cdc6ba" stroke="#2f2a26" stroke-width="2.5" transform="rotate(8 448.35565477625727 505.0381216054538)"/>
+<ellipse cx="422.0" cy="478.0" rx="30" ry="20" fill="#cdc6ba" stroke="#2f2a26" stroke-width="2.5" transform="rotate(5 422.0 478.0)"/>
+<ellipse cx="448.3556547762572" cy="450.96187839454626" rx="30" ry="20" fill="#cdc6ba" stroke="#2f2a26" stroke-width="2.5" transform="rotate(2 448.3556547762572 450.96187839454626)"/>
+<ellipse cx="517.3556547762572" cy="434.25140025042293" rx="30" ry="20" fill="#cdc6ba" stroke="#2f2a26" stroke-width="2.5" transform="rotate(-1 517.3556547762572 434.25140025042293)"/>
+<ellipse cx="602.6443452237427" cy="434.25140025042293" rx="30" ry="20" fill="#cdc6ba" stroke="#2f2a26" stroke-width="2.5" transform="rotate(-4 602.6443452237427 434.25140025042293)"/>
+<ellipse cx="671.6443452237427" cy="450.9618783945462" rx="30" ry="20" fill="#cdc6ba" stroke="#2f2a26" stroke-width="2.5" transform="rotate(-7 671.6443452237427 450.9618783945462)"/>
+<line x1="465" y1="485" x2="620" y2="440" stroke="#2f2a26" stroke-width="17" stroke-linecap="round"/>
+<line x1="465" y1="485" x2="620" y2="440" stroke="#8a6a48" stroke-width="12" stroke-linecap="round"/>
+<line x1="655" y1="488" x2="505" y2="442" stroke="#2f2a26" stroke-width="17" stroke-linecap="round"/>
+<line x1="655" y1="488" x2="505" y2="442" stroke="#8a6a48" stroke-width="12" stroke-linecap="round"/>
+<line x1="540" y1="500" x2="570" y2="430" stroke="#2f2a26" stroke-width="17" stroke-linecap="round"/>
+<line x1="540" y1="500" x2="570" y2="430" stroke="#8a6a48" stroke-width="12" stroke-linecap="round"/>
+<path d="M 510,450 C 490,360 550,350 540,270 C 600,320 580,360 620,320 C 640,380 630,420 610,450 Z" fill="#b5523b" stroke="#2f2a26" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 538,448 C 530,400 565,390 560,345 C 590,380 585,420 584,448 Z" fill="#e9b24a" stroke="#2f2a26" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" />
+<circle cx="520" cy="492" r="6" fill="#b5523b" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="570" cy="500" r="6" fill="#b5523b" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="610" cy="490" r="6" fill="#b5523b" stroke="#2f2a26" stroke-width="0"/>
+<line x1="810" y1="510" x2="655" y2="375" stroke="#2f2a26" stroke-width="4" stroke-linecap="round"/>
+<ellipse cx="672" cy="390" rx="26" ry="14" fill="#b98a6a" stroke="#2f2a26" stroke-width="2.5" transform="rotate(-40 672 390)"/>
+<line x1="550" y1="360" x2="330" y2="200" stroke="#2f2a26" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="550" cy="360" r="4" fill="#2f2a26" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="330" cy="200" r="19" fill="#faf6ee" stroke="#2f2a26" stroke-width="2"/>
+<line x1="698" y1="478" x2="930" y2="330" stroke="#2f2a26" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="698" cy="478" r="4" fill="#2f2a26" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="930" cy="330" r="19" fill="#faf6ee" stroke="#2f2a26" stroke-width="2"/>
+<line x1="490" y1="475" x2="250" y2="400" stroke="#2f2a26" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="490" cy="475" r="4" fill="#2f2a26" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="250" cy="400" r="19" fill="#faf6ee" stroke="#2f2a26" stroke-width="2"/>
+<line x1="672" y1="390" x2="880" y2="180" stroke="#2f2a26" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="672" cy="390" r="4" fill="#2f2a26" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="880" cy="180" r="19" fill="#faf6ee" stroke="#2f2a26" stroke-width="2"/>
+<line x1="800" y1="540" x2="720" y2="660" stroke="#2f2a26" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="800" cy="540" r="4" fill="#2f2a26" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="720" cy="660" r="19" fill="#faf6ee" stroke="#2f2a26" stroke-width="2"/>
+</g>
+<text x="330" y="207" text-anchor="middle" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">1</text>
+<text x="300" y="207" text-anchor="end" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">Fire, carried home</text>
+<text x="300" y="234" text-anchor="end" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">and kept alive</text>
+<text x="930" y="337" text-anchor="middle" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">2</text>
+<text x="960" y="337" text-anchor="start" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">A ring of stones</text>
+<text x="960" y="364" text-anchor="start" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">keeps it in one place</text>
+<text x="250" y="407" text-anchor="middle" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">3</text>
+<text x="220" y="407" text-anchor="end" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">Dry wood, fed in</text>
+<text x="220" y="434" text-anchor="end" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">a little at a time</text>
+<text x="880" y="187" text-anchor="middle" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">4</text>
+<text x="910" y="187" text-anchor="start" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">Cooked food gives more</text>
+<text x="910" y="214" text-anchor="start" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">from every mouthful</text>
+<text x="720" y="667" text-anchor="middle" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">5</text>
+<text x="750" y="667" text-anchor="start" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">A circle of warmth and light,</text>
+<text x="750" y="694" text-anchor="start" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">where people sit after dark</text>
+</svg>

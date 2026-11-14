@@ -1,0 +1,7 @@
+build/work/
+build/*.epub
+build/*.pdf
+build/*.jpg
+site/pages/
+site/downloads/
+site/parts.json

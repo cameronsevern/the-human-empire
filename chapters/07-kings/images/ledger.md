@@ -1,0 +1,21 @@
+# Image ledger: Chapter 7, Why did people obey kings?
+
+| File name | What it shows | Creator | Date | Licence | Commons page URL | Changes made |
+|---|---|---|---|---|---|---|
+| ur-puabi-headdress.jpg | Close-up of Queen Puabi's gold leaf and flower headdress, Royal Cemetery of Ur, c. 2550-2450 BCE (Penn Museum) | Mary Harrsch | 2016-04-24 09:24:10 | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Closeup_of_Queen_Puabi's_gold_headdress_recovered_from_the_royal_cemetery_of_Ur,_Iraq_2550-2450_BCE.jpg | None (original 1599 x 1158 px) |
+| ur-queens-lyre.jpg | The Queen's Lyre (bull-headed lyre) from the Royal Cemetery of Ur, c. 2550-2450 BCE (British Museum; modern reconstruction on original fittings) | Osama Shukir Muhammed Amin FRCP(Glasg) | 2019-03-31 | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Queen's_Lyre_Ur_Royal_Cemetery.jpg | Downscaled to 1103 x 1600 px |
+| vultures-phalanx.jpg | Stele of the Vultures, fragment with the block of shielded spearmen and Eannatum (Louvre); photograph published by de Sarzec, 1886 | Ernest de Sarzec - Choquin de Sarzec, Ernest (1832-1901) | 1886-01-01 | Public domain | https://commons.wikimedia.org/wiki/File:Stele_of_the_vultures_(war).jpg | Downscaled to 1510 x 1600 px |
+| vultures-net.jpg | Stele of the Vultures, fragment with the god Ningirsu holding the net of enemies and the Anzu emblem (Louvre); photograph published by de Sarzec, 1886 | Ernest de Sarzec - Choquin de Sarzec, Ernest (1832-1901) | 1886-01-01 | Public domain | https://commons.wikimedia.org/wiki/File:Stele_of_the_vultures_(net).jpg | Downscaled to 1486 x 1600 px |
+| ur-nanshe-relief.jpg | Votive plaque of Ur-Nanshe of Lagash, with the king carrying a basket on his head (upper left) and seated with a cup (lower right), c. 2500 BCE (Louvre AO 2344) | Marie-Lan Nguyen | 2006 | Public domain | https://commons.wikimedia.org/wiki/File:Relief_Ur-Nanshe_Louvre_AO2344.jpg | Downscaled to 1600 x 1280 px |
+| narmer-both-sides.jpg | Narmer Palette, both faces side by side (Egyptian Museum, Cairo) | anonymous | between circa 31st century and circa 30t | Public domain | https://commons.wikimedia.org/wiki/File:Narmer_Palette.jpg | Downscaled to 1600 x 1128 px |
+| khufu-pyramid.jpg | Great Pyramid of Khufu, Giza, from the corner, with visitors at its base for scale; digitised print of a 2002 photograph | Gary Todd from Xinzheng, China | 2002-06-07 21:47 | CC0 | https://commons.wikimedia.org/wiki/File:Giza_Great_Pyramid_of_Khufu_(9793885004).jpg | Downscaled to 1600 x 1078 px |
+| egypt-bread-mould-2.jpg | Old Kingdom baked-clay bread mould, tall bell shape, with scale bar, c. 2543-2305 BCE (Museo Egizio, Turin, Suppl. 1938) |  | between 2543 and 2305 BCdate QS:P,-2500- | CC0 | https://commons.wikimedia.org/wiki/File:Bread_mold,_baked_clay_-_Museo_Egizio,_Turin_S_1938_p02.jpg | Downscaled to 1600 x 1065 px |
+| abydos-umm-el-qaab-map.jpg | Aerial view of the Umm el-Qa'ab royal necropolis at Abydos with the early royal tombs and their rows of subsidiary graves outlined and lettered | AbydosSatMap.jpg: PLstrom derivative work: JMCC1 (talk) | 2011-08-27 11:21 | CC0 | https://commons.wikimedia.org/wiki/File:AbydosSatMap_1stDyn.jpg | None (original 992 x 788 px) |
+| nile-valley-modis.jpg | Satellite image of Egypt: the green Nile valley and delta as a thin strip across desert (NASA MODIS, 2017) | Jeff Schmaltz, MODIS Land Rapid Response Team, NASA GSFC | Taken on 23 September 2017 | Public domain | https://commons.wikimedia.org/wiki/File:Egypt_and_the_Nile_River_(MODIS_2017-09-26).jpg | Downscaled to 1600 x 1323 px |
+
+## Not found
+
+- Woolley's plan or drawing of the Great Death Pit: only Internet Archive scans of "Ur Excavations" plates are on Commons, tagged "No restrictions" rather than public domain or CC; not used.
+- Merer papyrus (Diary of Merer), Wadi al-Jarf: no free image on Commons.
+- Workers' town or workers' tombs at Giza: no usable image on Commons. Only a 504 x 365 Google Earth screenshot of Heit el-Ghurab (File:Heit el-Ghurab.png) and a drawing of Menkaure seal fragments (File:Menkaure-seals cut.jpg, CC BY 4.0) exist; neither downloaded.
+- Photograph of subsidiary graves at Abydos: no clear photograph identified; a plan is supplied instead.

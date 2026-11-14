@@ -1,0 +1,3 @@
+| File | What it shows | Commons page | Author | Licence |
+|---|---|---|---|---|
+| toolbox/14-scroll/photo-scroll.jpg | A section of the Temple Scroll from Qumran Cave 11, late 1st century BCE to early 1st century CE, Israel Museum: several columns of Hebrew on thin parchment. The Commons title says 11Q20; the Israel Museum's Temple Scroll is usually numbered 11Q19, so the caption gives no number. Scaled from 6273x4501 to 1600x1148 | https://commons.wikimedia.org/wiki/File:The_Temple_Scroll_(11Q20)_-_Google_Art_Project.jpg | Unknown photographer; Israel Museum via Google Art Project | Public domain |

@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" font-family="Georgia, 'Noto Serif', serif">
+<defs>
+<!-- paper: fine grain plus slow blotches -->
+<filter id="paper" x="0" y="0" width="100%" height="100%">
+<feTurbulence type="fractalNoise" baseFrequency="0.8" numOctaves="3" seed="3" result="grain"/>
+<feColorMatrix in="grain" type="matrix" values="0 0 0 0 0.45  0 0 0 0 0.36  0 0 0 0 0.24  0 0 0 0.9 -0.42" result="g2"/>
+<feTurbulence type="fractalNoise" baseFrequency="0.006" numOctaves="2" seed="8" result="blot"/>
+<feColorMatrix in="blot" type="matrix" values="0 0 0 0 0.55  0 0 0 0 0.42  0 0 0 0 0.25  0 0 0 0.55 -0.2" result="b2"/>
+<feMerge><feMergeNode in="SourceGraphic"/><feMergeNode in="b2"/><feMergeNode in="g2"/></feMerge>
+</filter>
+<!-- ink: a slight wobble in every line, a soft bleed of colour under it, and mottling inside the washes -->
+<filter id="ink" x="-5%" y="-5%" width="110%" height="110%">
+<feTurbulence type="fractalNoise" baseFrequency="0.018" numOctaves="2" seed="5" result="warp"/>
+<feDisplacementMap in="SourceGraphic" in2="warp" scale="5" xChannelSelector="R" yChannelSelector="G" result="drawn"/>
+<feGaussianBlur in="drawn" stdDeviation="7" result="bleed0"/>
+<feComponentTransfer in="bleed0" result="bleed"><feFuncA type="linear" slope="0.38"/></feComponentTransfer>
+<feTurbulence type="fractalNoise" baseFrequency="0.011" numOctaves="2" seed="11" result="wash"/>
+<feColorMatrix in="wash" type="matrix" values="0 0 0 0 0.35  0 0 0 0 0.25  0 0 0 0 0.15  0 0 0 0.75 -0.3" result="w2"/>
+<feComposite in="w2" in2="drawn" operator="in" result="mottle"/>
+<feMorphology in="drawn" operator="erode" radius="2.5" result="inner"/>
+<feComposite in="drawn" in2="inner" operator="out" result="rim0"/>
+<feColorMatrix in="rim0" type="matrix" values="0 0 0 0 0.3  0 0 0 0 0.22  0 0 0 0 0.15  0 0 0 0.16 0" result="rim"/>
+<feOffset in="drawn" dx="5" dy="7" result="off"/>
+<feGaussianBlur in="off" stdDeviation="5" result="sh0"/>
+<feColorMatrix in="sh0" type="matrix" values="0 0 0 0 0.25  0 0 0 0 0.2  0 0 0 0 0.15  0 0 0 0.22 0" result="shadow"/>
+<feMerge><feMergeNode in="shadow"/><feMergeNode in="bleed"/><feMergeNode in="drawn"/><feMergeNode in="mottle"/><feMergeNode in="rim"/></feMerge>
+</filter>
+<radialGradient id="vig" cx="50%" cy="50%" r="75%"><stop offset="60%" stop-color="#6b4a2a" stop-opacity="0"/><stop offset="100%" stop-color="#6b4a2a" stop-opacity="0.22"/></radialGradient>
+</defs>
+<rect width="1200" height="760" fill="#faf6ee" filter="url(#paper)"/>
+<rect width="1200" height="760" fill="url(#vig)"/>
+<rect x="14" y="14" width="1172" height="732" fill="none" stroke="#2f2a26" stroke-width="2"/>
+<rect x="20" y="20" width="1160" height="720" fill="none" stroke="#2f2a26" stroke-width="0.7"/>
+<text x="44" y="64" font-size="30" font-weight="bold" fill="#2f2a26" letter-spacing="3">THE COPPER SLAB</text>
+<line x1="44" y1="76" x2="104" y2="76" stroke="#b5523b" stroke-width="3"/>
+<text x="44" y="104" font-size="20" font-style="italic" fill="#8a8178">about 3,500 years ago</text>
+<g filter="url(#ink)">
+<path d="M 250,270 Q 300,300 380,305 Q 560,330 740,305 Q 820,300 870,270 Q 850,330 845,420 Q 850,510 870,570 Q 820,540 740,535 Q 560,510 380,535 Q 300,540 250,570 Q 270,510 275,420 Q 270,330 250,270 Z" fill="#b9c0c4" stroke="#2f2a26" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<circle cx="250" cy="270" r="26" fill="none" stroke="#b5523b" stroke-width="4"/>
+<circle cx="870" cy="270" r="26" fill="none" stroke="#b5523b" stroke-width="4"/>
+<circle cx="250" cy="570" r="26" fill="none" stroke="#b5523b" stroke-width="4"/>
+<circle cx="870" cy="570" r="26" fill="none" stroke="#b5523b" stroke-width="4"/>
+<circle cx="340" cy="350" r="5" fill="none" stroke="#2f2a26" stroke-width="1.5"/>
+<circle cx="377" cy="403" r="5" fill="none" stroke="#2f2a26" stroke-width="1.5"/>
+<circle cx="414" cy="456" r="5" fill="none" stroke="#2f2a26" stroke-width="1.5"/>
+<circle cx="451" cy="359" r="5" fill="none" stroke="#2f2a26" stroke-width="1.5"/>
+<circle cx="488" cy="412" r="5" fill="none" stroke="#2f2a26" stroke-width="1.5"/>
+<circle cx="525" cy="465" r="5" fill="none" stroke="#2f2a26" stroke-width="1.5"/>
+<circle cx="562" cy="368" r="5" fill="none" stroke="#2f2a26" stroke-width="1.5"/>
+<circle cx="599" cy="421" r="5" fill="none" stroke="#2f2a26" stroke-width="1.5"/>
+<circle cx="636" cy="474" r="5" fill="none" stroke="#2f2a26" stroke-width="1.5"/>
+<circle cx="673" cy="377" r="5" fill="none" stroke="#2f2a26" stroke-width="1.5"/>
+<circle cx="710" cy="430" r="5" fill="none" stroke="#2f2a26" stroke-width="1.5"/>
+<circle cx="747" cy="483" r="5" fill="none" stroke="#2f2a26" stroke-width="1.5"/>
+<circle cx="344" cy="386" r="5" fill="none" stroke="#2f2a26" stroke-width="1.5"/>
+<circle cx="381" cy="439" r="5" fill="none" stroke="#2f2a26" stroke-width="1.5"/>
+<path d="M 600,400 L 640,400 M 620,380 L 620,420" fill="none" stroke="#2f2a26" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="250" y1="620" x2="870" y2="620" stroke="#2f2a26" stroke-width="3" stroke-linecap="round"/>
+<line x1="250" y1="610" x2="250" y2="630" stroke="#2f2a26" stroke-width="3" stroke-linecap="round"/>
+<line x1="870" y1="610" x2="870" y2="630" stroke="#2f2a26" stroke-width="3" stroke-linecap="round"/>
+<line x1="982.0" y1="540" x2="1000.0" y2="470.0" stroke="#8a8178" stroke-width="5" stroke-linecap="round"/>
+<line x1="1024.0" y1="540" x2="1000.0" y2="470.0" stroke="#8a8178" stroke-width="5" stroke-linecap="round"/>
+<line x1="1000.0" y1="470.0" x2="1007.0" y2="400.3" stroke="#8a8178" stroke-width="5" stroke-linecap="round"/>
+<circle cx="1008.6" cy="380.4" r="13.0" fill="#faf6ee" stroke="#8a8178" stroke-width="4"/>
+<rect x="965" y="385" width="100" height="26" rx="6" fill="#b9c0c4" stroke="#2f2a26" stroke-width="3"/>
+<line x1="480" y1="318" x2="90" y2="170" stroke="#2f2a26" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="480" cy="318" r="4" fill="#2f2a26" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="90" cy="170" r="19" fill="#faf6ee" stroke="#2f2a26" stroke-width="2"/>
+<line x1="870" y1="270" x2="1130" y2="170" stroke="#2f2a26" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="870" cy="270" r="4" fill="#2f2a26" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="1130" cy="170" r="19" fill="#faf6ee" stroke="#2f2a26" stroke-width="2"/>
+<line x1="420" y1="470" x2="60" y2="665" stroke="#2f2a26" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="420" cy="470" r="4" fill="#2f2a26" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="60" cy="665" r="19" fill="#faf6ee" stroke="#2f2a26" stroke-width="2"/>
+<line x1="620" y1="400" x2="560" y2="170" stroke="#2f2a26" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="620" cy="400" r="4" fill="#2f2a26" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="560" cy="170" r="19" fill="#faf6ee" stroke="#2f2a26" stroke-width="2"/>
+<line x1="1015" y1="398" x2="1150" y2="330" stroke="#2f2a26" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="1015" cy="398" r="4" fill="#2f2a26" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="1150" cy="330" r="19" fill="#faf6ee" stroke="#2f2a26" stroke-width="2"/>
+</g>
+<text x="560" y="655" text-anchor="middle" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">about 60 cm</text>
+<text x="90" y="177" text-anchor="middle" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">1</text>
+<text x="120" y="177" text-anchor="start" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">A slab of nearly pure copper,</text>
+<text x="120" y="204" text-anchor="start" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">as heavy as a full suitcase</text>
+<text x="1130" y="177" text-anchor="middle" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">2</text>
+<text x="1100" y="177" text-anchor="end" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">Four corners drawn out</text>
+<text x="1100" y="204" text-anchor="end" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">into handles</text>
+<text x="60" y="672" text-anchor="middle" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">3</text>
+<text x="90" y="672" text-anchor="start" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">One face is rough and blistered,</text>
+<text x="90" y="699" text-anchor="start" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">where the metal cooled</text>
+<text x="90" y="726" text-anchor="start" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">in an open mould</text>
+<text x="560" y="177" text-anchor="middle" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">4</text>
+<text x="590" y="177" text-anchor="start" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">A mark cut in by the</text>
+<text x="590" y="204" text-anchor="start" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">maker or the shipper</text>
+<text x="1150" y="337" text-anchor="middle" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">5</text>
+<text x="1120" y="337" text-anchor="end" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">One man carries it</text>
+<text x="1120" y="364" text-anchor="end" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">on his shoulder</text>
+</svg>

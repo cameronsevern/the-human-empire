@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" font-family="Georgia, 'Noto Serif', serif">
+<defs>
+<!-- paper: fine grain plus slow blotches -->
+<filter id="paper" x="0" y="0" width="100%" height="100%">
+<feTurbulence type="fractalNoise" baseFrequency="0.8" numOctaves="3" seed="3" result="grain"/>
+<feColorMatrix in="grain" type="matrix" values="0 0 0 0 0.45  0 0 0 0 0.36  0 0 0 0 0.24  0 0 0 0.9 -0.42" result="g2"/>
+<feTurbulence type="fractalNoise" baseFrequency="0.006" numOctaves="2" seed="8" result="blot"/>
+<feColorMatrix in="blot" type="matrix" values="0 0 0 0 0.55  0 0 0 0 0.42  0 0 0 0 0.25  0 0 0 0.55 -0.2" result="b2"/>
+<feMerge><feMergeNode in="SourceGraphic"/><feMergeNode in="b2"/><feMergeNode in="g2"/></feMerge>
+</filter>
+<!-- ink: a slight wobble in every line, a soft bleed of colour under it, and mottling inside the washes -->
+<filter id="ink" x="-5%" y="-5%" width="110%" height="110%">
+<feTurbulence type="fractalNoise" baseFrequency="0.018" numOctaves="2" seed="5" result="warp"/>
+<feDisplacementMap in="SourceGraphic" in2="warp" scale="5" xChannelSelector="R" yChannelSelector="G" result="drawn"/>
+<feGaussianBlur in="drawn" stdDeviation="7" result="bleed0"/>
+<feComponentTransfer in="bleed0" result="bleed"><feFuncA type="linear" slope="0.38"/></feComponentTransfer>
+<feTurbulence type="fractalNoise" baseFrequency="0.011" numOctaves="2" seed="11" result="wash"/>
+<feColorMatrix in="wash" type="matrix" values="0 0 0 0 0.35  0 0 0 0 0.25  0 0 0 0 0.15  0 0 0 0.75 -0.3" result="w2"/>
+<feComposite in="w2" in2="drawn" operator="in" result="mottle"/>
+<feMorphology in="drawn" operator="erode" radius="2.5" result="inner"/>
+<feComposite in="drawn" in2="inner" operator="out" result="rim0"/>
+<feColorMatrix in="rim0" type="matrix" values="0 0 0 0 0.3  0 0 0 0 0.22  0 0 0 0 0.15  0 0 0 0.16 0" result="rim"/>
+<feOffset in="drawn" dx="5" dy="7" result="off"/>
+<feGaussianBlur in="off" stdDeviation="5" result="sh0"/>
+<feColorMatrix in="sh0" type="matrix" values="0 0 0 0 0.25  0 0 0 0 0.2  0 0 0 0 0.15  0 0 0 0.22 0" result="shadow"/>
+<feMerge><feMergeNode in="shadow"/><feMergeNode in="bleed"/><feMergeNode in="drawn"/><feMergeNode in="mottle"/><feMergeNode in="rim"/></feMerge>
+</filter>
+<radialGradient id="vig" cx="50%" cy="50%" r="75%"><stop offset="60%" stop-color="#6b4a2a" stop-opacity="0"/><stop offset="100%" stop-color="#6b4a2a" stop-opacity="0.22"/></radialGradient>
+</defs>
+<rect width="1200" height="760" fill="#faf6ee" filter="url(#paper)"/>
+<rect width="1200" height="760" fill="url(#vig)"/>
+<rect x="14" y="14" width="1172" height="732" fill="none" stroke="#2f2a26" stroke-width="2"/>
+<rect x="20" y="20" width="1160" height="720" fill="none" stroke="#2f2a26" stroke-width="0.7"/>
+<text x="44" y="64" font-size="30" font-weight="bold" fill="#2f2a26" letter-spacing="3">THE SHADOW STICK</text>
+<line x1="44" y1="76" x2="104" y2="76" stroke="#b5523b" stroke-width="3"/>
+<text x="44" y="104" font-size="20" font-style="italic" fill="#8a8178">about 2,250 years ago</text>
+<g filter="url(#ink)">
+<clipPath id="f"><rect x="15" y="15" width="1170" height="730"/></clipPath>
+<circle cx="760" cy="1500" r="1000" fill="#d9b08c" stroke="#2f2a26" stroke-width="3" clip-path="url(#f)"/>
+<line x1="500" y1="215" x2="500" y2="530.3913836341351" stroke="#e3b23c" stroke-width="3" stroke-linecap="round"/>
+<line x1="630" y1="215" x2="630" y2="504.4860061501905" stroke="#e3b23c" stroke-width="3" stroke-linecap="round"/>
+<line x1="890" y1="215" x2="890" y2="504.4860061501905" stroke="#e3b23c" stroke-width="3" stroke-linecap="round"/>
+<line x1="1020" y1="215" x2="1020" y2="530.3913836341351" stroke="#e3b23c" stroke-width="3" stroke-linecap="round"/>
+<line x1="1130" y1="215" x2="1130" y2="566.9682459678787" stroke="#e3b23c" stroke-width="3" stroke-linecap="round"/>
+<line x1="760.0" y1="215" x2="760.0" y2="342.0" stroke="#e3b23c" stroke-width="4" stroke-linecap="round"/>
+<line x1="366.67683517548096" y1="215" x2="366.67683517548096" y2="577.5997128494987" stroke="#e3b23c" stroke-width="4" stroke-linecap="round"/>
+<line x1="760.0" y1="500.0" x2="760.0" y2="350.0" stroke="#2f2a26" stroke-width="9" stroke-linecap="round"/>
+<line x1="417.9798566743313" y1="560.3073792140916" x2="366.67683517548096" y2="419.3534860962054" stroke="#b5523b" stroke-width="9" stroke-linecap="round"/>
+<line x1="417.9798566743313" y1="560.3073792140916" x2="366.67683517548096" y2="580.5997128494987" stroke="#2f2a26" stroke-width="8" stroke-linecap="round"/>
+<path d="M 366.7,514.4 A 95,95 0 0 0 399.2,508.6" fill="none" stroke="#2f2a26" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 434.6,571.4 A 984,984 0 0 1 748.2,516.1" fill="none" stroke="#2f2a26" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="3 7"/>
+<line x1="630" y1="270" x2="800" y2="150" stroke="#2f2a26" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="630" cy="270" r="4" fill="#2f2a26" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="800" cy="150" r="19" fill="#faf6ee" stroke="#2f2a26" stroke-width="2"/>
+<line x1="763.0" y1="497.0" x2="880" y2="650" stroke="#2f2a26" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="763.0" cy="497.0" r="4" fill="#2f2a26" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="880" cy="650" r="19" fill="#faf6ee" stroke="#2f2a26" stroke-width="2"/>
+<line x1="386.3283459249061" y1="572.4535460317952" x2="330" y2="520" stroke="#2f2a26" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="386.3283459249061" cy="572.4535460317952" r="4" fill="#2f2a26" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="330" cy="520" r="19" fill="#faf6ee" stroke="#2f2a26" stroke-width="2"/>
+<line x1="378.67683517548096" y1="512.3534860962054" x2="330" y2="290" stroke="#2f2a26" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="378.67683517548096" cy="512.3534860962054" r="4" fill="#2f2a26" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="330" cy="290" r="19" fill="#faf6ee" stroke="#2f2a26" stroke-width="2"/>
+<line x1="589.1301931757405" y1="530.9491710359873" x2="440" y2="690" stroke="#2f2a26" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="589.1301931757405" cy="530.9491710359873" r="4" fill="#2f2a26" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="440" cy="690" r="19" fill="#faf6ee" stroke="#2f2a26" stroke-width="2"/>
+</g>
+<text x="738.0" y="562.0" text-anchor="end" font-size="22" fill="#2f2a26" stroke="#d9b08c" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-style="italic">Syene</text>
+<text x="409.9798566743313" y="652.3073792140916" text-anchor="end" font-size="22" fill="#2f2a26" stroke="#d9b08c" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-style="italic">Alexandria</text>
+<text x="800" y="157" text-anchor="middle" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">1</text>
+<text x="830" y="157" text-anchor="start" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">Sunlight reaches the Earth</text>
+<text x="830" y="184" text-anchor="start" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">in parallel rays</text>
+<text x="880" y="657" text-anchor="middle" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">2</text>
+<text x="910" y="657" text-anchor="start" font-size="21" fill="#2f2a26" stroke="#d9b08c" stroke-width="7" paint-order="stroke" stroke-linejoin="round">At Syene the noon sun</text>
+<text x="910" y="684" text-anchor="start" font-size="21" fill="#2f2a26" stroke="#d9b08c" stroke-width="7" paint-order="stroke" stroke-linejoin="round">is overhead, and a</text>
+<text x="910" y="711" text-anchor="start" font-size="21" fill="#2f2a26" stroke="#d9b08c" stroke-width="7" paint-order="stroke" stroke-linejoin="round">stick casts no shadow</text>
+<text x="330" y="527" text-anchor="middle" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">3</text>
+<text x="300" y="527" text-anchor="end" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">At Alexandria a stick</text>
+<text x="300" y="554" text-anchor="end" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">casts a short shadow</text>
+<text x="330" y="297" text-anchor="middle" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">4</text>
+<text x="300" y="297" text-anchor="end" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">The stick meets the</text>
+<text x="300" y="324" text-anchor="end" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">sunlight at one fiftieth</text>
+<text x="300" y="351" text-anchor="end" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">of a circle</text>
+<text x="440" y="697" text-anchor="middle" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">5</text>
+<text x="470" y="697" text-anchor="start" font-size="21" fill="#2f2a26" stroke="#d9b08c" stroke-width="7" paint-order="stroke" stroke-linejoin="round">The towns are 5,000 stades apart, so</text>
+<text x="470" y="724" text-anchor="start" font-size="21" fill="#2f2a26" stroke="#d9b08c" stroke-width="7" paint-order="stroke" stroke-linejoin="round">the Earth is fifty times that around</text>
+</svg>

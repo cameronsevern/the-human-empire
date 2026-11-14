@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" font-family="Georgia, 'Noto Serif', serif">
+<defs>
+<!-- paper: fine grain plus slow blotches -->
+<filter id="paper" x="0" y="0" width="100%" height="100%">
+<feTurbulence type="fractalNoise" baseFrequency="0.8" numOctaves="3" seed="3" result="grain"/>
+<feColorMatrix in="grain" type="matrix" values="0 0 0 0 0.45  0 0 0 0 0.36  0 0 0 0 0.24  0 0 0 0.9 -0.42" result="g2"/>
+<feTurbulence type="fractalNoise" baseFrequency="0.006" numOctaves="2" seed="8" result="blot"/>
+<feColorMatrix in="blot" type="matrix" values="0 0 0 0 0.55  0 0 0 0 0.42  0 0 0 0 0.25  0 0 0 0.55 -0.2" result="b2"/>
+<feMerge><feMergeNode in="SourceGraphic"/><feMergeNode in="b2"/><feMergeNode in="g2"/></feMerge>
+</filter>
+<!-- ink: a slight wobble in every line, a soft bleed of colour under it, and mottling inside the washes -->
+<filter id="ink" x="-5%" y="-5%" width="110%" height="110%">
+<feTurbulence type="fractalNoise" baseFrequency="0.018" numOctaves="2" seed="5" result="warp"/>
+<feDisplacementMap in="SourceGraphic" in2="warp" scale="5" xChannelSelector="R" yChannelSelector="G" result="drawn"/>
+<feGaussianBlur in="drawn" stdDeviation="7" result="bleed0"/>
+<feComponentTransfer in="bleed0" result="bleed"><feFuncA type="linear" slope="0.38"/></feComponentTransfer>
+<feTurbulence type="fractalNoise" baseFrequency="0.011" numOctaves="2" seed="11" result="wash"/>
+<feColorMatrix in="wash" type="matrix" values="0 0 0 0 0.35  0 0 0 0 0.25  0 0 0 0 0.15  0 0 0 0.75 -0.3" result="w2"/>
+<feComposite in="w2" in2="drawn" operator="in" result="mottle"/>
+<feMorphology in="drawn" operator="erode" radius="2.5" result="inner"/>
+<feComposite in="drawn" in2="inner" operator="out" result="rim0"/>
+<feColorMatrix in="rim0" type="matrix" values="0 0 0 0 0.3  0 0 0 0 0.22  0 0 0 0 0.15  0 0 0 0.16 0" result="rim"/>
+<feOffset in="drawn" dx="5" dy="7" result="off"/>
+<feGaussianBlur in="off" stdDeviation="5" result="sh0"/>
+<feColorMatrix in="sh0" type="matrix" values="0 0 0 0 0.25  0 0 0 0 0.2  0 0 0 0 0.15  0 0 0 0.22 0" result="shadow"/>
+<feMerge><feMergeNode in="shadow"/><feMergeNode in="bleed"/><feMergeNode in="drawn"/><feMergeNode in="mottle"/><feMergeNode in="rim"/></feMerge>
+</filter>
+<radialGradient id="vig" cx="50%" cy="50%" r="75%"><stop offset="60%" stop-color="#6b4a2a" stop-opacity="0"/><stop offset="100%" stop-color="#6b4a2a" stop-opacity="0.22"/></radialGradient>
+</defs>
+<rect width="1200" height="760" fill="#faf6ee" filter="url(#paper)"/>
+<rect width="1200" height="760" fill="url(#vig)"/>
+<rect x="14" y="14" width="1172" height="732" fill="none" stroke="#2f2a26" stroke-width="2"/>
+<rect x="20" y="20" width="1160" height="720" fill="none" stroke="#2f2a26" stroke-width="0.7"/>
+<text x="44" y="64" font-size="30" font-weight="bold" fill="#2f2a26" letter-spacing="3">THE NEEDLE</text>
+<line x1="44" y1="76" x2="104" y2="76" stroke="#b5523b" stroke-width="3"/>
+<text x="44" y="104" font-size="20" font-style="italic" fill="#8a8178">about 40,000 years ago</text>
+<g filter="url(#ink)">
+<path d="M 150.0,610.0 L 151.4,612.7 L 182.4,598.2 L 213.4,583.8 L 244.5,569.4 L 275.5,555.0 L 306.6,540.5 L 337.6,526.1 L 368.7,511.7 L 399.7,497.2 L 430.8,482.8 L 461.8,468.4 L 492.8,453.9 L 523.9,439.5 L 554.7,424.5 L 585.2,409.0 L 615.7,393.5 L 646.2,378.0 L 676.7,362.5 L 707.2,347.0 L 737.7,331.5 L 768.2,316.0 L 777.6,304.5 L 781.3,289.2 L 766.8,283.1 L 751.8,284.0 L 721.3,299.5 L 690.8,315.0 L 660.3,330.5 L 629.8,346.0 L 599.3,361.5 L 568.8,377.0 L 538.3,392.5 L 508.1,408.5 L 478.2,425.1 L 448.2,441.6 L 418.2,458.2 L 388.3,474.8 L 358.3,491.3 L 328.4,507.9 L 298.4,524.5 L 268.5,541.0 L 238.5,557.6 L 208.6,574.2 L 178.6,590.8 L 148.6,607.3 Z" fill="#efe6d0" stroke="#2f2a26" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<ellipse cx="723.4" cy="318.6" rx="22" ry="7" fill="#faf6ee" stroke="#b5523b" stroke-width="5" transform="rotate(-26.9 723.4 318.6)"/>
+<path d="M 717,321 C 763,409 643,469 713,549 S 843,619 783,709" fill="none" stroke="#2f2a26" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 729,317 C 783,279 833,309 873,259" fill="none" stroke="#2f2a26" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="424" y1="470" x2="90" y2="250" stroke="#2f2a26" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="424" cy="470" r="4" fill="#2f2a26" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="90" cy="250" r="19" fill="#faf6ee" stroke="#2f2a26" stroke-width="2"/>
+<line x1="723" y1="311" x2="520" y2="170" stroke="#2f2a26" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="723" cy="311" r="4" fill="#2f2a26" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="520" cy="170" r="19" fill="#faf6ee" stroke="#2f2a26" stroke-width="2"/>
+<line x1="701" y1="534" x2="470" y2="640" stroke="#2f2a26" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="701" cy="534" r="4" fill="#2f2a26" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="470" cy="640" r="19" fill="#faf6ee" stroke="#2f2a26" stroke-width="2"/>
+<circle cx="985" cy="400" r="165" fill="#ffffff" stroke="#2f2a26" stroke-width="2.5"/>
+<clipPath id="c"><circle cx="985" cy="400" r="162"/></clipPath><g clip-path="url(#c)">
+<path d="M 785,200 L 1015,200 C 995,320 1030,460 1005,600 L 785,600 Z" fill="#d8b995" stroke="#2f2a26" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 1185,200 L 960,200 C 940,320 975,460 950,600 L 1185,600 Z" fill="#cfae88" stroke="#2f2a26" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="959.4" y1="243" x2="1011.4" y2="257" stroke="#b5523b" stroke-width="5" stroke-linecap="round"/>
+<line x1="955.3" y1="273" x2="1007.3" y2="287" stroke="#b5523b" stroke-width="5" stroke-linecap="round"/>
+<line x1="953.1" y1="303" x2="1005.1" y2="317" stroke="#b5523b" stroke-width="5" stroke-linecap="round"/>
+<line x1="953.6" y1="333" x2="1005.6" y2="347" stroke="#b5523b" stroke-width="5" stroke-linecap="round"/>
+<line x1="956.6" y1="363" x2="1008.6" y2="377" stroke="#b5523b" stroke-width="5" stroke-linecap="round"/>
+<line x1="961.0" y1="393" x2="1013.0" y2="407" stroke="#b5523b" stroke-width="5" stroke-linecap="round"/>
+<line x1="965.4" y1="423" x2="1017.4" y2="437" stroke="#b5523b" stroke-width="5" stroke-linecap="round"/>
+<line x1="968.4" y1="453" x2="1020.4" y2="467" stroke="#b5523b" stroke-width="5" stroke-linecap="round"/>
+<line x1="968.9" y1="483" x2="1020.9" y2="497" stroke="#b5523b" stroke-width="5" stroke-linecap="round"/>
+<line x1="966.7" y1="513" x2="1018.7" y2="527" stroke="#b5523b" stroke-width="5" stroke-linecap="round"/>
+<line x1="962.6" y1="543" x2="1014.6" y2="557" stroke="#b5523b" stroke-width="5" stroke-linecap="round"/>
+</g>
+<line x1="997" y1="452" x2="1085" y2="640" stroke="#2f2a26" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="997" cy="452" r="4" fill="#2f2a26" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="1085" cy="640" r="19" fill="#faf6ee" stroke="#2f2a26" stroke-width="2"/>
+</g>
+<text x="90" y="257" text-anchor="middle" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">1</text>
+<text x="120" y="257" text-anchor="start" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">A splinter of bone,</text>
+<text x="120" y="284" text-anchor="start" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">ground smooth on</text>
+<text x="120" y="311" text-anchor="start" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">a stone</text>
+<text x="520" y="177" text-anchor="middle" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">2</text>
+<text x="550" y="177" text-anchor="start" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">The eye, bored with</text>
+<text x="550" y="204" text-anchor="start" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">a point of flint</text>
+<text x="470" y="647" text-anchor="middle" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">3</text>
+<text x="500" y="647" text-anchor="start" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">Thread of animal</text>
+<text x="500" y="674" text-anchor="start" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">sinew</text>
+<text x="985" y="605" text-anchor="middle" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-style="italic">A sewn seam</text>
+<text x="1085" y="647" text-anchor="middle" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">4</text>
+<text x="1055" y="647" text-anchor="end" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">Stitches pull two</text>
+<text x="1055" y="674" text-anchor="end" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">skins tight, so no</text>
+<text x="1055" y="701" text-anchor="end" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">wind gets through</text>
+</svg>

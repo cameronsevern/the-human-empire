@@ -1,0 +1,127 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" font-family="Georgia, 'Noto Serif', serif">
+<defs>
+<!-- paper: fine grain plus slow blotches -->
+<filter id="paper" x="0" y="0" width="100%" height="100%">
+<feTurbulence type="fractalNoise" baseFrequency="0.8" numOctaves="3" seed="3" result="grain"/>
+<feColorMatrix in="grain" type="matrix" values="0 0 0 0 0.45  0 0 0 0 0.36  0 0 0 0 0.24  0 0 0 0.9 -0.42" result="g2"/>
+<feTurbulence type="fractalNoise" baseFrequency="0.006" numOctaves="2" seed="8" result="blot"/>
+<feColorMatrix in="blot" type="matrix" values="0 0 0 0 0.55  0 0 0 0 0.42  0 0 0 0 0.25  0 0 0 0.55 -0.2" result="b2"/>
+<feMerge><feMergeNode in="SourceGraphic"/><feMergeNode in="b2"/><feMergeNode in="g2"/></feMerge>
+</filter>
+<!-- ink: a slight wobble in every line, a soft bleed of colour under it, and mottling inside the washes -->
+<filter id="ink" x="-5%" y="-5%" width="110%" height="110%">
+<feTurbulence type="fractalNoise" baseFrequency="0.018" numOctaves="2" seed="5" result="warp"/>
+<feDisplacementMap in="SourceGraphic" in2="warp" scale="5" xChannelSelector="R" yChannelSelector="G" result="drawn"/>
+<feGaussianBlur in="drawn" stdDeviation="7" result="bleed0"/>
+<feComponentTransfer in="bleed0" result="bleed"><feFuncA type="linear" slope="0.38"/></feComponentTransfer>
+<feTurbulence type="fractalNoise" baseFrequency="0.011" numOctaves="2" seed="11" result="wash"/>
+<feColorMatrix in="wash" type="matrix" values="0 0 0 0 0.35  0 0 0 0 0.25  0 0 0 0 0.15  0 0 0 0.75 -0.3" result="w2"/>
+<feComposite in="w2" in2="drawn" operator="in" result="mottle"/>
+<feMorphology in="drawn" operator="erode" radius="2.5" result="inner"/>
+<feComposite in="drawn" in2="inner" operator="out" result="rim0"/>
+<feColorMatrix in="rim0" type="matrix" values="0 0 0 0 0.3  0 0 0 0 0.22  0 0 0 0 0.15  0 0 0 0.16 0" result="rim"/>
+<feOffset in="drawn" dx="5" dy="7" result="off"/>
+<feGaussianBlur in="off" stdDeviation="5" result="sh0"/>
+<feColorMatrix in="sh0" type="matrix" values="0 0 0 0 0.25  0 0 0 0 0.2  0 0 0 0 0.15  0 0 0 0.22 0" result="shadow"/>
+<feMerge><feMergeNode in="shadow"/><feMergeNode in="bleed"/><feMergeNode in="drawn"/><feMergeNode in="mottle"/><feMergeNode in="rim"/></feMerge>
+</filter>
+<radialGradient id="vig" cx="50%" cy="50%" r="75%"><stop offset="60%" stop-color="#6b4a2a" stop-opacity="0"/><stop offset="100%" stop-color="#6b4a2a" stop-opacity="0.22"/></radialGradient>
+</defs>
+<rect width="1200" height="760" fill="#faf6ee" filter="url(#paper)"/>
+<rect width="1200" height="760" fill="url(#vig)"/>
+<rect x="14" y="14" width="1172" height="732" fill="none" stroke="#2f2a26" stroke-width="2"/>
+<rect x="20" y="20" width="1160" height="720" fill="none" stroke="#2f2a26" stroke-width="0.7"/>
+<text x="44" y="64" font-size="30" font-weight="bold" fill="#2f2a26" letter-spacing="3">THE MEMORISED VERSE</text>
+<line x1="44" y1="76" x2="104" y2="76" stroke="#b5523b" stroke-width="3"/>
+<text x="44" y="104" font-size="20" font-style="italic" fill="#8a8178">about 2,500 years ago</text>
+<g filter="url(#ink)">
+<path d="M 58.7,520 Q 130,480.9 201.3,520 Z" fill="#d8b995" stroke="#8a8178" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 95.5,506.2 Q 88.6,410.75 130,400.4 Q 171.4,410.75 164.5,506.2 Z" fill="#efe6d0" stroke="#8a8178" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<circle cx="130" cy="372.8" r="25.299999999999997" fill="#faf6ee" stroke="#8a8178" stroke-width="4"/>
+<path d="M 250.4,520 Q 300,492.8 349.6,520 Z" fill="#d8b995" stroke="#8a8178" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 276.0,510.4 Q 271.2,444.0 300,436.8 Q 328.8,444.0 324.0,510.4 Z" fill="#efe6d0" stroke="#8a8178" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<circle cx="300" cy="417.6" r="17.6" fill="#faf6ee" stroke="#8a8178" stroke-width="4"/>
+<line x1="40" y1="522" x2="390" y2="522" stroke="#8a8178" stroke-width="2" stroke-linecap="round"/>
+<path d="M 181,354 A 26,26 0 0 1 181,390" fill="none" stroke="#8a8178" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 188,344 A 40,40 0 0 1 188,400" fill="none" stroke="#8a8178" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 195,334 A 54,54 0 0 1 195,410" fill="none" stroke="#8a8178" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<rect x="470" y="215" width="92" height="58" rx="6" fill="#efe6d0" stroke="#2f2a26" stroke-width="2.5"/>
+<rect x="588" y="215" width="92" height="58" rx="6" fill="#efe6d0" stroke="#2f2a26" stroke-width="2.5"/>
+<rect x="706" y="215" width="92" height="58" rx="6" fill="#b5523b" stroke="#2f2a26" stroke-width="2.5"/>
+<rect x="824" y="215" width="92" height="58" rx="6" fill="#efe6d0" stroke="#2f2a26" stroke-width="2.5"/>
+<rect x="942" y="215" width="92" height="58" rx="6" fill="#efe6d0" stroke="#2f2a26" stroke-width="2.5"/>
+<rect x="470" y="385" width="38" height="46" rx="6" fill="#efe6d0" stroke="#2f2a26" stroke-width="2.5"/>
+<rect x="508" y="385" width="38" height="46" rx="6" fill="#efe6d0" stroke="#2f2a26" stroke-width="2.5"/>
+<rect x="588" y="385" width="38" height="46" rx="6" fill="#efe6d0" stroke="#2f2a26" stroke-width="2.5"/>
+<rect x="626" y="385" width="38" height="46" rx="6" fill="#b5523b" stroke="#2f2a26" stroke-width="2.5"/>
+<rect x="706" y="385" width="38" height="46" rx="6" fill="#b5523b" stroke="#2f2a26" stroke-width="2.5"/>
+<rect x="744" y="385" width="38" height="46" rx="6" fill="#efe6d0" stroke="#2f2a26" stroke-width="2.5"/>
+<rect x="824" y="385" width="38" height="46" rx="6" fill="#efe6d0" stroke="#2f2a26" stroke-width="2.5"/>
+<rect x="862" y="385" width="38" height="46" rx="6" fill="#efe6d0" stroke="#2f2a26" stroke-width="2.5"/>
+<rect x="470" y="545" width="38" height="46" rx="6" fill="#efe6d0" stroke="#2f2a26" stroke-width="2.5"/>
+<rect x="508" y="545" width="38" height="46" rx="6" fill="#efe6d0" stroke="#2f2a26" stroke-width="2.5"/>
+<rect x="570" y="545" width="38" height="46" rx="6" fill="#efe6d0" stroke="#2f2a26" stroke-width="2.5"/>
+<rect x="608" y="545" width="38" height="46" rx="6" fill="#efe6d0" stroke="#2f2a26" stroke-width="2.5"/>
+<rect x="670" y="545" width="38" height="46" rx="6" fill="#efe6d0" stroke="#2f2a26" stroke-width="2.5"/>
+<rect x="708" y="545" width="38" height="46" rx="6" fill="#efe6d0" stroke="#2f2a26" stroke-width="2.5"/>
+<rect x="794" y="545" width="38" height="46" rx="6" fill="#efe6d0" stroke="#2f2a26" stroke-width="2.5"/>
+<rect x="832" y="545" width="38" height="46" rx="6" fill="#b5523b" stroke="#2f2a26" stroke-width="2.5"/>
+<rect x="894" y="545" width="38" height="46" rx="6" fill="#b5523b" stroke="#2f2a26" stroke-width="2.5"/>
+<rect x="932" y="545" width="38" height="46" rx="6" fill="#efe6d0" stroke="#2f2a26" stroke-width="2.5"/>
+<rect x="994" y="545" width="38" height="46" rx="6" fill="#efe6d0" stroke="#2f2a26" stroke-width="2.5"/>
+<rect x="1032" y="545" width="38" height="46" rx="6" fill="#b5523b" stroke="#2f2a26" stroke-width="2.5"/>
+<line x1="130" y1="350" x2="70" y2="235" stroke="#2f2a26" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="130" cy="350" r="4" fill="#2f2a26" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="70" cy="235" r="19" fill="#faf6ee" stroke="#2f2a26" stroke-width="2"/>
+<line x1="490" y1="215" x2="489" y2="165" stroke="#2f2a26" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="490" cy="215" r="4" fill="#2f2a26" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="489" cy="165" r="19" fill="#faf6ee" stroke="#2f2a26" stroke-width="2"/>
+<line x1="490" y1="385" x2="489" y2="335" stroke="#2f2a26" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="490" cy="385" r="4" fill="#2f2a26" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="489" cy="335" r="19" fill="#faf6ee" stroke="#2f2a26" stroke-width="2"/>
+<line x1="490" y1="545" x2="489" y2="495" stroke="#2f2a26" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="490" cy="545" r="4" fill="#2f2a26" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="489" cy="495" r="19" fill="#faf6ee" stroke="#2f2a26" stroke-width="2"/>
+<line x1="1051" y1="591" x2="1051" y2="668" stroke="#2f2a26" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="1051" cy="591" r="4" fill="#2f2a26" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="1051" cy="668" r="19" fill="#faf6ee" stroke="#2f2a26" stroke-width="2"/>
+</g>
+<text x="516.0" y="252.4" text-anchor="middle" font-size="24" fill="#2f2a26" stroke="none" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">1</text>
+<text x="634.0" y="252.4" text-anchor="middle" font-size="24" fill="#2f2a26" stroke="none" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">2</text>
+<text x="752.0" y="252.4" text-anchor="middle" font-size="24" fill="#faf6ee" stroke="none" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">3</text>
+<text x="870.0" y="252.4" text-anchor="middle" font-size="24" fill="#2f2a26" stroke="none" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">4</text>
+<text x="988.0" y="252.4" text-anchor="middle" font-size="24" fill="#2f2a26" stroke="none" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">5</text>
+<text x="489.0" y="415.0" text-anchor="middle" font-size="20" fill="#2f2a26" stroke="none" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">1</text>
+<text x="527.0" y="415.0" text-anchor="middle" font-size="20" fill="#2f2a26" stroke="none" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">2</text>
+<text x="607.0" y="415.0" text-anchor="middle" font-size="20" fill="#2f2a26" stroke="none" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">2</text>
+<text x="645.0" y="415.0" text-anchor="middle" font-size="20" fill="#faf6ee" stroke="none" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">3</text>
+<text x="725.0" y="415.0" text-anchor="middle" font-size="20" fill="#faf6ee" stroke="none" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">3</text>
+<text x="763.0" y="415.0" text-anchor="middle" font-size="20" fill="#2f2a26" stroke="none" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">4</text>
+<text x="843.0" y="415.0" text-anchor="middle" font-size="20" fill="#2f2a26" stroke="none" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">4</text>
+<text x="881.0" y="415.0" text-anchor="middle" font-size="20" fill="#2f2a26" stroke="none" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">5</text>
+<text x="489.0" y="575.0" text-anchor="middle" font-size="20" fill="#2f2a26" stroke="none" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">1</text>
+<text x="527.0" y="575.0" text-anchor="middle" font-size="20" fill="#2f2a26" stroke="none" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">2</text>
+<text x="589.0" y="575.0" text-anchor="middle" font-size="20" fill="#2f2a26" stroke="none" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">2</text>
+<text x="627.0" y="575.0" text-anchor="middle" font-size="20" fill="#2f2a26" stroke="none" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">1</text>
+<text x="689.0" y="575.0" text-anchor="middle" font-size="20" fill="#2f2a26" stroke="none" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">1</text>
+<text x="727.0" y="575.0" text-anchor="middle" font-size="20" fill="#2f2a26" stroke="none" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">2</text>
+<text x="813.0" y="575.0" text-anchor="middle" font-size="20" fill="#2f2a26" stroke="none" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">2</text>
+<text x="851.0" y="575.0" text-anchor="middle" font-size="20" fill="#faf6ee" stroke="none" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">3</text>
+<text x="913.0" y="575.0" text-anchor="middle" font-size="20" fill="#faf6ee" stroke="none" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">3</text>
+<text x="951.0" y="575.0" text-anchor="middle" font-size="20" fill="#2f2a26" stroke="none" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">2</text>
+<text x="1013.0" y="575.0" text-anchor="middle" font-size="20" fill="#2f2a26" stroke="none" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">2</text>
+<text x="1051.0" y="575.0" text-anchor="middle" font-size="20" fill="#faf6ee" stroke="none" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">3</text>
+<text x="70" y="242" text-anchor="middle" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">1</text>
+<text x="100" y="242" text-anchor="start" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">The teacher chants a line and</text>
+<text x="100" y="269" text-anchor="start" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">the pupil chants it back</text>
+<text x="489" y="172" text-anchor="middle" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">2</text>
+<text x="519" y="172" text-anchor="start" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">The verse is learned again, one word at a time</text>
+<text x="489" y="342" text-anchor="middle" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">3</text>
+<text x="519" y="342" text-anchor="start" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">The step pattern: each word with the next</text>
+<text x="489" y="502" text-anchor="middle" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">4</text>
+<text x="519" y="502" text-anchor="start" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">The braid: each pair forwards, backwards, forwards</text>
+<text x="1051" y="675" text-anchor="middle" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">5</text>
+<text x="1021" y="675" text-anchor="end" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">Word three is said twice in the step</text>
+<text x="1021" y="702" text-anchor="end" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">pattern and six times in the braid</text>
+<text x="1100" y="578" text-anchor="start" font-size="30" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">…</text>
+</svg>

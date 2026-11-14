@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" font-family="Georgia, 'Noto Serif', serif">
+<defs>
+<!-- paper: fine grain plus slow blotches -->
+<filter id="paper" x="0" y="0" width="100%" height="100%">
+<feTurbulence type="fractalNoise" baseFrequency="0.8" numOctaves="3" seed="3" result="grain"/>
+<feColorMatrix in="grain" type="matrix" values="0 0 0 0 0.45  0 0 0 0 0.36  0 0 0 0 0.24  0 0 0 0.9 -0.42" result="g2"/>
+<feTurbulence type="fractalNoise" baseFrequency="0.006" numOctaves="2" seed="8" result="blot"/>
+<feColorMatrix in="blot" type="matrix" values="0 0 0 0 0.55  0 0 0 0 0.42  0 0 0 0 0.25  0 0 0 0.55 -0.2" result="b2"/>
+<feMerge><feMergeNode in="SourceGraphic"/><feMergeNode in="b2"/><feMergeNode in="g2"/></feMerge>
+</filter>
+<!-- ink: a slight wobble in every line, a soft bleed of colour under it, and mottling inside the washes -->
+<filter id="ink" x="-5%" y="-5%" width="110%" height="110%">
+<feTurbulence type="fractalNoise" baseFrequency="0.018" numOctaves="2" seed="5" result="warp"/>
+<feDisplacementMap in="SourceGraphic" in2="warp" scale="5" xChannelSelector="R" yChannelSelector="G" result="drawn"/>
+<feGaussianBlur in="drawn" stdDeviation="7" result="bleed0"/>
+<feComponentTransfer in="bleed0" result="bleed"><feFuncA type="linear" slope="0.38"/></feComponentTransfer>
+<feTurbulence type="fractalNoise" baseFrequency="0.011" numOctaves="2" seed="11" result="wash"/>
+<feColorMatrix in="wash" type="matrix" values="0 0 0 0 0.35  0 0 0 0 0.25  0 0 0 0 0.15  0 0 0 0.75 -0.3" result="w2"/>
+<feComposite in="w2" in2="drawn" operator="in" result="mottle"/>
+<feMorphology in="drawn" operator="erode" radius="2.5" result="inner"/>
+<feComposite in="drawn" in2="inner" operator="out" result="rim0"/>
+<feColorMatrix in="rim0" type="matrix" values="0 0 0 0 0.3  0 0 0 0 0.22  0 0 0 0 0.15  0 0 0 0.16 0" result="rim"/>
+<feOffset in="drawn" dx="5" dy="7" result="off"/>
+<feGaussianBlur in="off" stdDeviation="5" result="sh0"/>
+<feColorMatrix in="sh0" type="matrix" values="0 0 0 0 0.25  0 0 0 0 0.2  0 0 0 0 0.15  0 0 0 0.22 0" result="shadow"/>
+<feMerge><feMergeNode in="shadow"/><feMergeNode in="bleed"/><feMergeNode in="drawn"/><feMergeNode in="mottle"/><feMergeNode in="rim"/></feMerge>
+</filter>
+<radialGradient id="vig" cx="50%" cy="50%" r="75%"><stop offset="60%" stop-color="#6b4a2a" stop-opacity="0"/><stop offset="100%" stop-color="#6b4a2a" stop-opacity="0.22"/></radialGradient>
+</defs>
+<rect width="1200" height="760" fill="#faf6ee" filter="url(#paper)"/>
+<rect width="1200" height="760" fill="url(#vig)"/>
+<rect x="14" y="14" width="1172" height="732" fill="none" stroke="#2f2a26" stroke-width="2"/>
+<rect x="20" y="20" width="1160" height="720" fill="none" stroke="#2f2a26" stroke-width="0.7"/>
+<text x="44" y="64" font-size="30" font-weight="bold" fill="#2f2a26" letter-spacing="3">THE SPOKED WHEEL</text>
+<line x1="44" y1="76" x2="104" y2="76" stroke="#b5523b" stroke-width="3"/>
+<text x="44" y="104" font-size="20" font-style="italic" fill="#8a8178">about 4,000 years ago</text>
+<g filter="url(#ink)">
+<circle cx="560" cy="440" r="215" fill="#e6d6b8" stroke="#2f2a26" stroke-width="3"/>
+<circle cx="560" cy="440" r="185" fill="#faf6ee" stroke="#2f2a26" stroke-width="3"/>
+<line x1="593.6182166498254" y1="445.0808965041024" x2="742.9226494181678" y2="467.6460545076159" stroke="#b5523b" stroke-width="9" stroke-linecap="round"/>
+<line x1="584.2112325567518" y1="463.87082357361976" x2="691.7375889117379" y2="569.8853635623427" stroke="#b5523b" stroke-width="9" stroke-linecap="round"/>
+<line x1="565.5563805365271" y1="473.5429073774666" x2="590.2332470369854" y2="622.5128783773918" stroke="#b5523b" stroke-width="9" stroke-linecap="round"/>
+<line x1="544.7791800057773" y1="470.40274064461084" x2="477.1808323843765" y2="605.426677036853" stroke="#b5523b" stroke-width="9" stroke-linecap="round"/>
+<line x1="529.8158153761766" y1="455.6497603366616" x2="395.7625248409612" y2="525.1531077141881" stroke="#b5523b" stroke-width="9" stroke-linecap="round"/>
+<line x1="526.3817833501746" y1="434.9191034958976" x2="377.0773505818322" y2="412.3539454923842" stroke="#b5523b" stroke-width="9" stroke-linecap="round"/>
+<line x1="535.7887674432482" y1="416.12917642638024" x2="428.26241108826207" y2="310.1146364376573" stroke="#b5523b" stroke-width="9" stroke-linecap="round"/>
+<line x1="554.4436194634729" y1="406.4570926225334" x2="529.7667529630146" y2="257.4871216226082" stroke="#b5523b" stroke-width="9" stroke-linecap="round"/>
+<line x1="575.2208199942227" y1="409.59725935538916" x2="642.8191676156235" y2="274.573322963147" stroke="#b5523b" stroke-width="9" stroke-linecap="round"/>
+<line x1="590.1841846238234" y1="424.3502396633384" x2="724.2374751590388" y2="354.846892285812" stroke="#b5523b" stroke-width="9" stroke-linecap="round"/>
+<circle cx="560" cy="440" r="40" fill="#e6d6b8" stroke="#2f2a26" stroke-width="3"/>
+<circle cx="560" cy="440" r="14" fill="#faf6ee" stroke="#2f2a26" stroke-width="3"/>
+<line x1="627.0361845781846" y1="267.5727690960631" x2="647.8247997900938" y2="243.75575284398798" stroke="#2f2a26" stroke-width="3" stroke-linecap="round"/>
+<circle cx="990" cy="560" r="95" fill="#e6d6b8" stroke="#2f2a26" stroke-width="3"/>
+<line x1="960" y1="470" x2="960" y2="650" stroke="#2f2a26" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="1020" y1="470" x2="1020" y2="650" stroke="#2f2a26" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="902" y1="525" x2="1078" y2="525" stroke="#2f2a26" stroke-width="5" stroke-linecap="round"/>
+<line x1="902" y1="595" x2="1078" y2="595" stroke="#2f2a26" stroke-width="5" stroke-linecap="round"/>
+<circle cx="990" cy="560" r="13" fill="#faf6ee" stroke="#2f2a26" stroke-width="3"/>
+<line x1="590" y1="415" x2="830" y2="150" stroke="#2f2a26" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="590" cy="415" r="4" fill="#2f2a26" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="830" cy="150" r="19" fill="#faf6ee" stroke="#2f2a26" stroke-width="2"/>
+<line x1="440" y1="480" x2="60" y2="560" stroke="#2f2a26" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="440" cy="480" r="4" fill="#2f2a26" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="60" cy="560" r="19" fill="#faf6ee" stroke="#2f2a26" stroke-width="2"/>
+<line x1="360" y1="370" x2="60" y2="200" stroke="#2f2a26" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="360" cy="370" r="4" fill="#2f2a26" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="60" cy="200" r="19" fill="#faf6ee" stroke="#2f2a26" stroke-width="2"/>
+<line x1="735" y1="500" x2="830" y2="250" stroke="#2f2a26" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="735" cy="500" r="4" fill="#2f2a26" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="830" cy="250" r="19" fill="#faf6ee" stroke="#2f2a26" stroke-width="2"/>
+<line x1="990" y1="465" x2="1130" y2="400" stroke="#2f2a26" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="990" cy="465" r="4" fill="#2f2a26" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="1130" cy="400" r="19" fill="#faf6ee" stroke="#2f2a26" stroke-width="2"/>
+</g>
+<text x="830" y="157" text-anchor="middle" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">1</text>
+<text x="860" y="157" text-anchor="start" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">The hub: a block of wood</text>
+<text x="860" y="184" text-anchor="start" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">with a hole for the axle</text>
+<text x="60" y="567" text-anchor="middle" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">2</text>
+<text x="90" y="567" text-anchor="start" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">Ten or twelve thin spokes,</text>
+<text x="90" y="594" text-anchor="start" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">all the same length</text>
+<text x="60" y="207" text-anchor="middle" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">3</text>
+<text x="90" y="207" text-anchor="start" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">The rim: wood soaked or</text>
+<text x="90" y="234" text-anchor="start" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">steamed and bent</text>
+<text x="90" y="261" text-anchor="start" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">into a circle</text>
+<text x="830" y="257" text-anchor="middle" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">4</text>
+<text x="860" y="257" text-anchor="start" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">Each spoke sits in a socket</text>
+<text x="860" y="284" text-anchor="start" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">in the hub and another</text>
+<text x="860" y="311" text-anchor="start" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">in the rim</text>
+<text x="1130" y="407" text-anchor="middle" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">5</text>
+<text x="1100" y="407" text-anchor="end" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">The solid wheel it replaced</text>
+<text x="1100" y="434" text-anchor="end" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">weighs several times as much</text>
+</svg>
