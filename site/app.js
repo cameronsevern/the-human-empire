@@ -233,7 +233,8 @@ class Book {
 }
 
 // a single leaf in the air: a strip of quads bent as it turns about the spine
-const SEG = 28;
+const SEG = 48;
+const LIGHT_SLOPE = 0.41;       // how far a shadow falls to the right for each unit of height, from the sun's position
 class Leaf {
   constructor() {
     const g = new THREE.PlaneGeometry(W, H, SEG, 1).rotateX(-Math.PI / 2).translate(W / 2, 0, 0);
@@ -244,7 +245,23 @@ class Leaf {
     this.front = new THREE.Mesh(g, new THREE.MeshStandardMaterial({ map: blankPage, roughness: 1, side: THREE.FrontSide }));
     this.backM = new THREE.Mesh(gb, new THREE.MeshStandardMaterial({ map: blankPage, roughness: 1, side: THREE.BackSide }));
     this.mesh = new THREE.Group(); this.mesh.add(this.front, this.backM);
-    this.front.castShadow = true;
+    // The shadow the leaf throws on the page beneath is drawn, not computed: a soft band that follows the leaf's edge.
+    // A real shadow map is too coarse at this scale and shows as hard, stepped edges while the page turns.
+    const fade = canvasTexture(256, 64, (c, w, h) => {
+      const img = c.createImageData(w, h);
+      for (let y = 0; y < h; y++) for (let x = 0; x < w; x++) {
+        const u = x / (w - 1), v = y / (h - 1);
+        const along = Math.pow(1 - u, 3);                                   // darkest by the leaf, gone at the far side
+        const ends = Math.min(1, Math.min(v, 1 - v) / 0.04);                  // eased off at the head and foot of the page
+        const i = (y * w + x) * 4;
+        img.data[i] = 30; img.data[i + 1] = 22; img.data[i + 2] = 14; img.data[i + 3] = 255 * along * ends;
+      }
+      c.putImageData(img, 0, 0);
+    });
+    this.shade = new THREE.Mesh(new THREE.PlaneGeometry(1, H).rotateX(-Math.PI / 2).translate(0.5, 0, 0),
+      new THREE.MeshBasicMaterial({ map: fade, transparent: true, depthWrite: false, opacity: 0 }));
+    this.shade.renderOrder = 2;
+    this.mesh.add(this.shade);
     this.mesh.visible = false;
   }
   // theta: 0 lying on the right-hand pages, pi lying on the left-hand pages
@@ -252,6 +269,7 @@ class Leaf {
     const pos = this.geo.attributes.position, step = W / SEG;
     let x = 0, y = y0;
     const curl = 0.95 * Math.sin(theta);
+    let cover = 0, reach = 0;          // how far right the leaf hides the page below, and how far right its shadow falls
     for (let i = 0; i <= SEG; i++) {
       if (i > 0) {
         const r = (i - 0.5) / SEG;
@@ -260,7 +278,14 @@ class Leaf {
       }
       // PlaneGeometry lays its vertices in two rows of SEG + 1
       pos.setXYZ(i, x, y, pos.getZ(i)); pos.setXYZ(i + SEG + 1, x, y, pos.getZ(i + SEG + 1));
+      cover = Math.max(cover, x); reach = Math.max(reach, x + LIGHT_SLOPE * (y - y0));
     }
+    // the band runs from the leaf's edge to where the light, coming from the upper left, is no longer blocked
+    const lift = Math.sin(theta), width = Math.max(0, reach - cover) * 3 + 0.02;
+    this.shade.position.set(Math.max(0, cover - 0.01), y0 + 0.004, 0);
+    this.shade.scale.x = Math.min(width, W - cover);
+    this.shade.material.opacity = 0.5 * Math.min(1, (reach - cover) / 0.12) * (1 - 0.4 * lift);
+    this.shade.visible = reach - cover > 0.002;
     pos.needsUpdate = true; this.geo.computeVertexNormals();
   }
 }
