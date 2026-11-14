@@ -63,8 +63,8 @@ By about 3,400 years ago, the trade had grown from donkey caravans into somethin
 
 The lands around the eastern end of the Mediterranean were by then divided among a handful of great kingdoms. Egypt held the Nile and the coast of what is now Israel and Lebanon. A kingdom called Hatti ruled the middle of Turkey, and in time much of Syria, from a fortress city in the central highlands. Babylon held the south of Iraq, and Assyria, grown from that small trading city of Ashur, held the north. On the mainland of Greece and the island of Crete stood a number of palaces, each ruling its own district. Cyprus sat in the middle of the sea with its copper.
 
-![A map of the eastern Mediterranean and Middle East with coloured regions labelled Hatti, Egypt, Assur, Babylon, Mittani and Achaia](images/map_near_east_1300bce.png)
-*The great kingdoms about 3,300 years ago. Achaia is Greece, and Alašija is Cyprus. Map: Enyavar, CC BY-SA 4.0.*
+![A map of the eastern Mediterranean and Middle East with coloured regions labelled Mycenaean Greece, Hatti, Egypt, Assyria, Babylon and Elam, and the cities of Hattusa, Ugarit, Mycenae, Troy, Memphis, Thebes, Ashur and Babylon](images/map_great_kingdoms.png)
+*The great kingdoms about 3,300 years ago. The coloured areas show roughly how far each one's power reached. Map: drawn for this book; coastlines and rivers from Natural Earth, public domain.*
 
 No one of these powers was strong enough to conquer the others. Instead, they did business.
 
