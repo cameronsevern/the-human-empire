@@ -16,13 +16,22 @@ Guns had been firing in Europe and the Middle East for more than a century by th
 
 The city that Orban left was the capital of what remained of the Roman empire. It had been the capital of the eastern half for eleven hundred years, and for most of that time it had been the largest and richest city in the Christian world, with perhaps half a million people. Its church of Holy Wisdom, Hagia Sophia, was the largest church in the world.
 
+![A great pale domed church with four tall minarets under a clear blue sky](images/hagia.jpg)
+*Hagia Sophia in Istanbul today, a church for about 900 years before 1453 and a mosque afterwards. Photo: Arild Vågen, CC BY-SA 3.0.*
+
 By 1450 very little of that was left. The empire had been shrinking for four hundred years, pressed by Turkish horsemen in the east and by rivals in the Balkans. The worst blow had come from fellow Christians. In 1204 an army of crusaders from western Europe had stormed the city, robbed it and held it for almost sixty years, and it never recovered.
 
 The emperor now ruled the city itself, a few nearby towns and a distant corner of southern Greece. About fifty thousand people lived inside walls made for ten times as many. Whole districts had fallen into ruin, and between the surviving neighbourhoods lay orchards, wheat fields and vineyards. A visitor described it as a city of villages. Almost everything around it for hundreds of kilometres belonged to the sultan.
 
+![Hand-drawn map of a walled triangular city with towers, domed churches and roads, water around it and a walled town on the far shore](images/buondelmonti.jpg)
+*Constantinople in 1422, drawn about thirty years before the siege by the Florentine Cristoforo Buondelmonti. Galata is at the top. Map: Cristoforo Buondelmonti, public domain.*
+
 What the city still had was its position and its walls. It stood on a triangle of land with water on two sides. To the south was the Sea of Marmara. To the north was a long, narrow inlet called the Golden Horn, which was its harbour. Walls ran along both shores.
 
 The third side, the one facing the land, was closed by the wall that had kept the city safe for a thousand years. An attacker came first to a ditch twenty metres wide. Behind it stood a low wall, behind that a higher one, and behind that a third, twelve metres high and five metres thick, with ninety-six towers. Each line overlooked the one in front, so that archers on all three could shoot at the same enemy. More than twenty armies had camped before it over the centuries, among them Avars, Persians, Arabs, Bulgars and Russians, and none had broken through. Even the crusaders had got in from the harbour side.
+
+![A tall wall of stone with bands of red brick and a square tower, grass in front and a blue sky](images/walls.jpg)
+*A stretch of the land wall of Constantinople, built about 1,600 years ago and still standing in Istanbul. Photo: Carole Raddato, CC BY-SA 2.0.*
 
 ## The throat-cutter
 
@@ -34,7 +43,13 @@ This empire had an awkward shape. Half of it lay in Europe and half in Asia, and
 
 Mehmed had been set on the throne once as a boy of twelve, and removed again. He became sultan for good in 1451, at eighteen. He was clever and secretive, and he read history, including the life of Alexander. His father's old advisers thought an attack on the city would unite the Christian kings against them, and told him so. He seems to have decided on it at once.
 
+![Portrait of a bearded man in a white turban and fur-trimmed red robe, framed by a stone arch with a jewelled ledge](images/bellini.jpg)
+*Mehmed II, painted in 1480 by the Venetian artist Gentile Bellini, who was invited to his court. Painting: Gentile Bellini, public domain.*
+
 He began with the water. North of the city, the strait called the Bosphorus leads up to the Black Sea, and through it came the grain that fed Constantinople. At its narrowest point it is about seven hundred metres across. There was already an Ottoman castle on the Asian bank. In the spring of 1452 Mehmed brought some six thousand workmen to the European bank, directly opposite, and built a second in just over four months.
+
+![Stone towers with battlements above a wide strait, a large red tanker passing and wooded hills on the far bank](images/rumeli.jpg)
+*Rumeli Hisari, the Throat-Cutter, on the Bosphorus, built in 1452. The far bank is Asia. Photo: Dosseman, CC BY-SA 4.0.*
 
 He put cannon on the shore below it and announced that every ship would stop and pay a toll. In November a large Venetian ship tried to run past. A single stone ball sank it. The sailors who reached the shore were beheaded, and the captain was impaled on a stake. The Turks called the new castle the Throat-Cutter.
 
@@ -47,6 +62,9 @@ A large cannon of that age was cast in one piece, in the way a church bell was c
 Beside the mould stood two furnaces. Into them went copper and tin, the old recipe for bronze, and charcoal was piled around them. Teams of men worked the bellows for three days and nights. When the metal ran like water, the furnaces were opened and it ran along clay channels into the mould until it was full. After it had cooled, the clay was broken away, and the barrel was scraped and polished.
 
 The finished gun was about eight metres long. A man could crawl into its mouth. It fired a ball of stone that weighed about half a tonne, as much as a large horse.
+
+![Two sections of a green bronze cannon with a ring of sockets at each end, lying on wooden blocks in a hall](images/bombard.jpg)
+*The Dardanelles Gun, a bronze siege gun cast soon after 1453, about five metres long and made in two parts that screw together. It is in England, at Fort Nelson. Photo: Gaius Cornelius, public domain.*
 
 Mehmed had it tested outside his palace, after warning the town so that pregnant women would not be frightened into miscarriage. The ball flew more than a kilometre and buried itself in the ground. The gun then had to be moved to Constantinople, which was about two hundred and twenty kilometres away. It was laid on a train of wagons drawn by sixty oxen. Two hundred men walked on each side of it to keep it from tipping over, and a gang of carpenters went ahead to level the road and strengthen the bridges. The journey took two months.
 
@@ -64,9 +82,15 @@ A city under siege can hold out for as long as food and reinforcements can reach
 
 The defenders had prepared for this. A great iron chain, floating on wooden barrels, was stretched across the mouth of the Golden Horn from the city to the Genoese trading town of Galata on the other side. Behind the chain lay the Christian ships. As long as it held, the harbour was safe, and the long wall along the harbour needed only a few watchmen.
 
+![Painting of a walled harbour with towers, a domed church, a sailing ship and a chain stretched across the water](images/mural.jpg)
+*A modern mural in the Istanbul Archaeology Museums showing the sea walls, the Golden Horn with its chain, and Galata. Photo: Argos'Dad, CC BY-SA 3.0.*
+
 On 20 April, four big sailing ships appeared from the south with soldiers and grain. The whole Ottoman fleet rowed out to stop them. The battle lasted all afternoon, in full view of both armies. The Christian ships stood high out of the water, and their crews threw stones and spears down into the low Turkish galleys. Mehmed watched from the beach. He grew so angry that he rode his horse out into the sea, shouting orders that nobody could hear. Towards evening the wind rose, the four ships broke free, and the chain was lowered to let them in.
 
 Two days later the sultan gave his reply. Behind Galata the ground rises to a ridge and falls again to the upper end of the Golden Horn, beyond the chain. Mehmed's engineers had laid a track of greased logs over this ridge, from the Bosphorus to the harbour. At dawn on 22 April, teams of oxen and men began to drag the Turkish ships up it, one behind another, with their sails set and their oarsmen rowing in the air. By evening about seventy of them were floating inside the Golden Horn.
+
+![Colourful medieval miniature of a walled city by water, ships on the sea, camps of tents and cannon, and men hauling boats over a hill](images/siege.jpg)
+*The siege of Constantinople, painted in France after 1455. It shows the city, the tents and cannon of the Turkish camp, and boats being hauled overland. Miniature: Jean Le Tavernier, public domain.*
 
 The harbour wall now had to be manned, and there were no spare men to do it. The line of defenders, already thin, was stretched thinner.
 
