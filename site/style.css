@@ -70,6 +70,7 @@ body.reading #reader { opacity: 1; }
 #contents .num { color: var(--acc); min-width: 1.6em; text-align: right; }
 .noscript { position: fixed; bottom: 20px; left: 0; right: 0; text-align: center; }
 @media (max-width: 700px) {
+  #intro .eyebrow { letter-spacing: .14em; }
   .hint { display: none; }
   #heading { display: none; }
   .turn { font-size: 26px !important; padding: 10px 8px !important; background: #2b242088 !important; }

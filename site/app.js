@@ -213,7 +213,7 @@ class Book {
     this.spine.scale.y = sh; this.spine.position.set(lerp(-CT / 2, 0, o), sh / 2, 0);
   }
 
-  pageOf(side, s = this.s) { const p = side === 'left' ? 2 * s + 1 : 2 * s + 2; return s === 0 && side === 'left' ? 0 : (p <= this.pages ? p : 0); }
+  pageOf(side, s = this.s) { const p = side === 'left' ? 2 * s + 1 : 2 * s + 2; return s < 0 || (s === 0 && side === 'left') ? 0 : (p <= this.pages ? p : 0); }
   tex(p) {
     if (!p) return blankPage;
     if (!this.textures.has(p)) this.textures.set(p, pageTexture(`pages/${this.part.n}/${String(p).padStart(3, '0')}.webp`));
@@ -353,6 +353,14 @@ canvas.addEventListener('pointermove', (ev) => {
   if (mode === 'desk') {
     const h = pick(ev); const b = h ? h.book : null;
     if (b !== hovered) { hovered = b; caption(b); canvas.style.cursor = b ? 'pointer' : ''; }
+  } else if (mode === 'reading' && pinch && touches.has(ev.pointerId)) {
+    // two fingers: pinch to zoom
+    touches.set(ev.pointerId, { x: ev.clientX, y: ev.clientY });
+    if (touches.size === 2) {
+      zoom = Math.min(3.2, Math.max(1, pinch.zoom * spread() / pinch.d));
+      if (zoom <= 1.01) pan.set(0, 0);
+      clampPan(); applyView();
+    }
   } else if (mode === 'reading' && down) {
     const dx = ev.clientX - down.x, dy = ev.clientY - down.y;
     if (Math.abs(dx) + Math.abs(dy) > 6) dragged = true;
@@ -362,8 +370,18 @@ canvas.addEventListener('pointermove', (ev) => {
     }
   }
 });
-canvas.addEventListener('pointerdown', (ev) => { down = { x: ev.clientX, y: ev.clientY, px: pan.x, py: pan.y }; dragged = false; canvas.setPointerCapture(ev.pointerId); });
+const touches = new Map(); let pinch = null;
+const spread = () => { const [a, b] = [...touches.values()]; return Math.hypot(a.x - b.x, a.y - b.y); };
+canvas.addEventListener('pointerdown', (ev) => {
+  touches.set(ev.pointerId, { x: ev.clientX, y: ev.clientY });
+  canvas.setPointerCapture(ev.pointerId);
+  if (touches.size === 2) { pinch = { d: spread(), zoom }; dragged = true; return; }
+  down = { x: ev.clientX, y: ev.clientY, px: pan.x, py: pan.y }; dragged = false;
+});
+canvas.addEventListener('pointercancel', (ev) => { touches.delete(ev.pointerId); pinch = null; down = null; });
 canvas.addEventListener('pointerup', (ev) => {
+  touches.delete(ev.pointerId);
+  if (pinch) { if (!touches.size) pinch = null; down = null; return; }
   const was = down; down = null;
   if (!was) return;
   if (mode === 'desk') {
@@ -376,6 +394,8 @@ canvas.addEventListener('pointerup', (ev) => {
       if (zoom <= 1.01 && Math.abs(dx) > 50) turn(dx < 0 ? 1 : -1);
       return;
     }
+    // one page on screen: the side of the screen decides; two pages: the page that was clicked
+    if (single) { turn(ev.clientX > innerWidth / 2 ? 1 : -1); return; }
     const h = pick(ev);
     if (h && h.book === current) turn(h.point.x > current.group.position.x ? 1 : -1);
   }
@@ -404,7 +424,7 @@ async function nudge(book) {
 // ------------------------------------------------------------------ opening and closing
 async function openBook(book, startPage) {
   if (mode !== 'desk') return;
-  mode = 'moving'; current = book; hovered = null; zoom = 1; pan.set(0, 0); viewSide = 'right';
+  mode = 'moving'; current = book; hovered = null; zoom = 1; pan.set(0, 0); viewSide = startPage > 2 && startPage % 2 ? 'left' : 'right';
   canvas.style.cursor = '';
   document.body.classList.add('reading');
   $('reader').hidden = false;
@@ -477,8 +497,8 @@ async function turn(dir, target) {
   const book = current;
   // on a narrow screen one page is shown at a time: move across the spread before turning the leaf
   if (single && target === undefined) {
-    if (dir > 0 && viewSide === 'left') { viewSide = 'right'; return glide(); }
-    if (dir < 0 && viewSide === 'right' && book.s > 0) { viewSide = 'left'; return glide(); }
+    if (dir > 0 && viewSide === 'left' && book.pageOf('right')) { viewSide = 'right'; updateFolio(); return glide(); }
+    if (dir < 0 && viewSide === 'right' && book.s > 0) { viewSide = 'left'; updateFolio(); return glide(); }
   }
   const to = target !== undefined ? target : book.s + dir;
   if (to < 0 || to > book.spreads || to === book.s) return;
@@ -532,10 +552,10 @@ function fillReaderChrome(book) {
 function updateFolio() {
   const b = current; if (!b) return;
   const l = b.pageOf('left'), r = b.pageOf('right');
-  const shown = [l, r].filter(Boolean).join('–');
+  const shown = single ? (viewSide === 'left' ? l || r : r || l) : [l, r].filter(Boolean).join('–');
   $('folio').textContent = shown ? `${shown} of ${b.pages}` : '';
   $('prev').disabled = b.s <= 0; $('next').disabled = b.s >= b.spreads;
-  history.replaceState(null, '', `#part-${b.part.n}/${Math.max(l, r, 1)}`);
+  history.replaceState(null, '', `#part-${b.part.n}/${single ? shown || 1 : Math.max(l, r, 1)}`);
 }
 $('back').addEventListener('click', closeBook);
 $('prev').addEventListener('click', () => turn(-1));
