@@ -20,6 +20,9 @@ France in 1789 was the giant of Europe. It had twenty-eight million people, near
 
 In law, his subjects were divided into three orders, called estates. The first was the clergy. The second was the nobility, about one person in a hundred. The third was everybody else, from bankers to beggars. The orders were unequal by design. A noble could not be flogged or hanged like a commoner. The best posts in the army, the church and the courts were kept for nobles. Above all, the nobility and the clergy were excused from the main direct tax, which fell on the peasants.
 
+![Coloured print of a bent peasant carrying a priest and a noble on his back](images/three_orders.jpg)
+*A French print of 1789: the peasant of the Third Estate carries the priest and the noble on his back.*
+
 A French peasant therefore paid the king's tax, paid a tenth of his crop to the church, and paid a tangle of dues to the local lord, for the use of the lord's mill and oven and for the right to sell his own land. The lord's pigeons ate his seed, and he was forbidden to shoot them.
 
 The system could have lasted a good while longer if the government had not run out of money. For a century the kings of France had fought their wars on credit. Because a king who answered to nobody could cancel his debts at will, lenders charged him dearly. The last war, in support of the American rebels, had been a triumph and had cost more than a billion livres. By 1788 half of everything the king collected went on interest.
@@ -36,9 +39,15 @@ Bread was most of what ordinary French people ate. In a normal year a labourer i
 
 Meanwhile the government revived an old custom on a scale that nobody had imagined. In preparation for the Estates-General, it asked every parish and every guild in France to hold a meeting and write down its complaints. Tens of thousands of these lists were compiled. Villagers who had never been asked their opinion about anything gathered in churches and argued over the lord's pigeons and the salt tax. Having been asked what was wrong, a whole country began to expect that it would be put right.
 
+![Handwritten page headed Doleances, plaintes et remontrances des habitants roturiers de la paroisse d'Andel, au Roi](images/cahier.jpg)
+*A list of grievances from the commoners of the parish of Andel, in Brittany, 1788 to 1789. It complains of forced road labour, feudal dues and unequal taxes.*
+
 One question hung over the meeting. By tradition the three orders voted separately, one vote each, so that the clergy and the nobles could always outvote the commoners two to one. The commoners, who were ninety-eight people in every hundred, wanted the delegates to sit together and vote as individuals. A pamphlet by a clergyman put their case in three questions and answers. What is the Third Estate? Everything. What has it been until now in the political order? Nothing. What does it ask? To become something.
 
 The Estates-General met in May and at once stuck on this point. After six weeks of deadlock, the delegates of the Third Estate stopped waiting. They declared that they alone represented the nation, and renamed themselves the National Assembly. Three days later they found the doors of their hall locked. They moved to an indoor tennis court nearby and swore, with their arms raised, not to go home until they had given France a written constitution.
+
+![Pen drawing of deputies raising their arms in a large hall](images/tennis_court.jpg)
+*Jacques-Louis David's drawing for a painting of the Tennis Court Oath of 1789. The painting was never finished.*
 
 ## Seven prisoners
 
@@ -48,13 +57,22 @@ On the morning of 14 July a crowd broke into a military hospital and seized thir
 
 Inside, the victors found seven prisoners: four forgers, two madmen and a nobleman locked up at his family's request. That did not matter. The Bastille had stood for the king's power to imprison anyone without trial, and the people of Paris had taken it with their own hands. A contractor was hired to pull it down, and he made a business of turning the stones into souvenirs.
 
+![Watercolour of the Bastille with smoke, fire and a crowd leading a man away at its foot](images/bastille.jpg)
+*The taking of the Bastille on 14 July 1789, as shown in a watercolour by Jean-Pierre Houel.*
+
 The news ran through the countryside, mixed with rumours that nobles were sending brigands to burn the crops. Peasants armed themselves. Finding no brigands, they marched on the manor houses and burned the records in which their dues were written down, and sometimes the house as well.
 
 To stop this, the National Assembly did something extraordinary. On the night of 4 August, in a session that lasted until two in the morning, noble after noble stood up to renounce his own privileges. Tithes, tax exemptions, the hunting rights and the pigeons were all given up, and the dues were to be bought out. Men wept and embraced. By dawn the legal order of centuries had been voted out of existence. The peasants, for their part, simply stopped paying, and four years later the dues were cancelled without compensation.
 
 Three weeks later the Assembly published the principles of the new one. The Declaration of the Rights of Man and of the Citizen begins: "Men are born and remain free and equal in rights." It goes on to say that all power comes from the nation, that the law must be the same for everyone, and that no one may be troubled for his opinions so long as he does not disturb public order. The first draft was put forward by the nobleman who would send Washington the key to the Bastille, and the American ambassador in Paris, Thomas Jefferson, had looked it over for him.
 
+![Painting of two tablets of text between a seated woman holding broken chains and a winged figure, under an eye in a triangle](images/rights_of_man.jpg)
+*The Declaration of the Rights of Man and of the Citizen, painted as two tablets by Jean-Jacques Le Barbier in 1789.*
+
 The king put off signing it. In October several thousand market women of Paris, furious at the price of bread, walked the twenty kilometres to Versailles in the rain, dragging cannon. They broke into the palace, and the next day they escorted the royal family back to Paris, where it would be under the eyes of the people. They sang as they went that they were bringing the baker, the baker's wife and the baker's boy.
+
+![Engraving of a crowd of women with cannon and carts on a road, labelled in French](images/women_march.jpg)
+*The women of Paris setting out for Versailles on 5 October 1789, in an engraving by Berthault after Prieur.*
 
 ## Left and right
 
@@ -74,13 +92,22 @@ This was the first deep split. Until then a French peasant could welcome the end
 
 The second split was caused by the king. Louis had sworn to uphold the new constitution, and he hated it. On a night in June 1791 he and his family slipped out of Paris in disguise, in a large coach, heading for a fortress on the eastern frontier, where a loyal general was waiting, with the lands of the queen's brother, the emperor of Austria, a few kilometres beyond.
 
+![Printed banknote with a round portrait of Louis XVI at the top](images/assignat100.jpg)
+*A 100-livre assignat of 1790, the revolution's paper money, with the king's portrait at the top.*
+
 They were a day's drive from safety when they stopped to change horses in a small town. The postmaster looked at the stout traveller dressed as a servant, and then at the portrait printed on the paper money in his hand. He rode ahead by a short cut and had the bridge blocked. The royal family was brought back to Paris through silent crowds.
+
+![Painted paper figures of a man in a red coat and an officer with a sash, a woman and two children, and soldiers](images/varennes.jpg)
+*The royal family stopped at Varennes in June 1791, in a painted scene made in 1791 or 1792 by Jean-Baptiste Lesueur.*
 
 After that, nobody could believe that the king accepted the revolution. A constitution with a king at its head was unworkable if the king was waiting to be rescued from it by foreigners.
 
 The foreign kings were alarmed, and they said so. Many of the revolutionaries, for their part, wanted a war. Some hoped to spread liberty, and some hoped that war would force the king to show which side he was on. In April 1792 France declared war on Austria, and Prussia came in on Austria's side. The war went badly, and the enemy commander announced that if the royal family were harmed, Paris would be destroyed. This had the opposite effect to the one intended. In August a crowd stormed the palace and slaughtered the king's guards. In September, as the invaders drew near and a rumour spread that the prisons were full of traitors ready to break out, mobs went from prison to prison and butchered more than a thousand inmates, most of them ordinary criminals.
 
 A new assembly, elected by nearly all men, abolished the monarchy that same month and put the king on trial for treason. He was guillotined in January 1793 in the largest square in Paris.
+
+![Coloured print of a crowd of soldiers around a scaffold with a guillotine, a carriage on the left](images/execution.jpg)
+*A Paris print of 1793 showing the execution of Louis XVI on 21 January.*
 
 ## The whole nation
 
@@ -107,6 +134,9 @@ It went on after the danger had passed. In the spring of 1794 the Committee turn
 The men who did this were not cynics. They believed that they were building a republic of virtue, in which citizens would love the public good more than themselves. Everything was to be made new. The assembly started a new calendar, with twelve months named after the seasons and their work and a week of ten days. The most zealous revolutionaries closed the churches and renamed the cathedral of Paris the Temple of Reason, which was too much even for Robespierre. Since the people's will was by definition good, they reasoned, whoever opposed it was wicked. Robespierre said so plainly. Terror, he told the assembly, was nothing other than justice, prompt, severe and inflexible. It was an outpouring of virtue.
 
 On 26 July 1794 he rose to speak and hinted that there were more traitors to be unmasked among the members. He did not say who. Every man in the hall had reason to think it might be him, and the next day they shouted Robespierre down and voted for his arrest. He was guillotined the evening after that, with a hundred of his followers in the days that followed. Within weeks the prisons were being emptied, and the Terror was over.
+
+![Chalk portrait of a man in profile with a powdered wig, in a round gilt frame](images/robespierre.jpg)
+*Maximilien Robespierre in profile, in a chalk drawing dated 1797, three years after his death.*
 
 ## What was left
 
