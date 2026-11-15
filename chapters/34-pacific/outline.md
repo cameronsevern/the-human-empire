@@ -6,12 +6,12 @@
 
 ## The idea the chapter leaves the reader with
 
-The statues were carved by Polynesians, the ancestors of the people who live on the island today, in the five centuries after their canoes arrived about 1200. Outsiders spent two hundred years giving the credit to someone else, because they could not see how people with stone tools and no large timber had done it. The same people, with the same crops and the same tools, built very different societies on different islands: statue-raising kin groups on Rapa Nui, kings in feather cloaks on Hawaii, a sea empire in Tonga, hill forts in New Zealand. The famous story that the islanders ruined themselves by cutting down their trees does not survive the evidence. The population held steady until ships from outside brought disease and slave raiders.
+The statues were carved by Polynesians, the ancestors of the people who live on the island today, in the three centuries after their canoes arrived about 1200. Outsiders spent two hundred years giving the credit to someone else, because they could not see how people with stone tools and no large timber had done it. The same people, with the same crops and the same tools, built very different societies on different islands: statue-raising kin groups on Rapa Nui, kings in feather cloaks on Hawaii, a sea empire in Tonga, hill forts in New Zealand. The famous story that the islanders ruined themselves by cutting down their trees does not survive the evidence. The population held steady until ships from outside brought disease and slave raiders.
 
 ## The story
 
 1. **Opening: Easter Sunday.** Answer first. A Dutch captain in 1722, the statues, and his puzzle about timber and rope. Two centuries of giving the credit to others: a raft from Peru, visitors from space.
-2. **A word for canoe.** Who the Polynesians were. A Tahitian priest aboard an English ship in 1769 talks to the people of New Zealand. One language family across a triangle of ocean.
+2. **One to ten.** Who the Polynesians were. A Tahitian priest aboard an English ship in 1769 talks to the people of New Zealand. One language family across a triangle of ocean.
 3. **The star that rises over home.** How a navigator found an island: rising stars, swells, birds, clouds, sailing into the wind. The 1976 voyage that proved it could be done.
 4. **What came in the canoe.** The crops and animals carried to every island, and what reached Rapa Nui. The island as the settlers found it.
 5. **The quarry.** Rano Raraku. How a statue was cut, what it was for, the platforms, the eyes and the red hats.
