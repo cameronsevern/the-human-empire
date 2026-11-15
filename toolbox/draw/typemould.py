@@ -49,4 +49,4 @@ s.callout(2,PX-40,540,110,680,"The matrix: copper, with|the letter struck into i
 s.callout(3,470,380,560,680,"Two halves slide: close|for an i, apart for an m")
 s.callout(4,585,262,790,150,"Molten metal poured|into the mouth")
 s.callout(5,1050,460,1160,680,"The same height,|whatever the width",anchor="end")
-s.save(os.path.join(os.path.dirname(__file__),"..","41-type-mould","type-mould"))
+s.save(os.path.join(os.path.dirname(__file__),"..","45-type-mould","type-mould"))

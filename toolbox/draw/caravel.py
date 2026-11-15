@@ -42,4 +42,4 @@ s.callout(2,560,180,250,150,"A long yard,|low in front,|high behind",anchor="end
 s.callout(3,214,600,140,680,"A rudder on|the sternpost")
 s.callout(4,620,600,540,680,"A light hull, about 20 metres|long, drawing little water")
 s.callout(5,CX+40,CY+2,1150,690,"Upwind, by zigzags",anchor="end")
-s.save(os.path.join(os.path.dirname(__file__),"..","40-caravel","caravel"))
+s.save(os.path.join(os.path.dirname(__file__),"..","44-caravel","caravel"))

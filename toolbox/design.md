@@ -76,22 +76,22 @@ A chapter can have more than one tool page: if a tool is interesting, it gets a 
 | 32 | The fire lance | A tube of powder on a spear, the ancestor of the gun |
 | 32 | The compass needle | North and south under a clouded sky |
 | 33 | The sewn ship | A hull held together with coconut cord |
-| 34 | The stirrup | A loop for the foot that steadied the rider |
-| 35 | The salt slab | The cargo that bought the gold |
-| 36 | The knotted cord | Accounts kept in knots, in tens |
-| 36 | The three sisters | Three crops in one mound, each helping the others |
-| 37 | The relay tablet | A metal order that bought a fresh horse at every station |
-| 39 | The great bombard | The gun that broke the walls, in two halves that screw together |
-| 40 | The caravel | The small ship that could work against the wind |
-| 40 | The sea astrolabe | The sun's height, read from a brass wheel hung from the thumb |
-| 41 | The type mould | Thousands of identical letters a day from one small box |
-| 42 | The obsidian sword | A club edged with volcanic glass, made to take men alive |
-| 43 | The piece of eight | Silver cut from a bar and stamped by hand |
-| 45 | The matchlock | A trigger that brings the burning cord to the powder |
-| 45 | The turtle ship | A warship roofed with spikes, so that nobody could board it |
-| 46 | The log fort | A stockade at a river crossing, holding furs and hostages |
-| 47 | The telescope | Two lenses in a tube, and the sky made new |
-| 47 | The air pump | A globe emptied of air, stroke by stroke |
+| 37 | The stirrup | A loop for the foot that steadied the rider |
+| 38 | The salt slab | The cargo that bought the gold |
+| 39 | The knotted cord | Accounts kept in knots, in tens |
+| 39 | The three sisters | Three crops in one mound, each helping the others |
+| 40 | The relay tablet | A metal order that bought a fresh horse at every station |
+| 42 | The great bombard | The gun that broke the walls, in two halves that screw together |
+| 44 | The caravel | The small ship that could work against the wind |
+| 44 | The sea astrolabe | The sun's height, read from a brass wheel hung from the thumb |
+| 45 | The type mould | Thousands of identical letters a day from one small box |
+| 46 | The obsidian sword | A club edged with volcanic glass, made to take men alive |
+| 47 | The piece of eight | Silver cut from a bar and stamped by hand |
+| 49 | The matchlock | A trigger that brings the burning cord to the powder |
+| 49 | The turtle ship | A warship roofed with spikes, so that nobody could board it |
+| 50 | The log fort | A stockade at a river crossing, holding furs and hostages |
+| 51 | The telescope | Two lenses in a tube, and the sky made new |
+| 51 | The air pump | A globe emptied of air, stroke by stroke |
 
 ## Files
 

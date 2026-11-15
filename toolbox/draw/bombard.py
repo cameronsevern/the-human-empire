@@ -52,4 +52,4 @@ s.callout(2,380,C+12,230,660,"The chamber: narrow, with|thick walls, for the pow
 s.callout(3,XJ+40,C-RS+4,560,200,"A screw joins|the two halves")
 s.callout(4,XM-30,C-RO-6,1120,200,"Sockets for the levers|that turned the screw",anchor="end")
 s.callout(5,TX,C-RC-4,230,200,"The touch hole")
-s.save(os.path.join(os.path.dirname(__file__),"..","39-great-bombard","great-bombard"))
+s.save(os.path.join(os.path.dirname(__file__),"..","42-great-bombard","great-bombard"))

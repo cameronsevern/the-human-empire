@@ -1,3 +1,0 @@
-| File | What it shows | Commons page | Author | Licence |
-|---|---|---|---|---|
-| toolbox/46-log-fort/photo-ilimsk.jpg | The Spasskaya (gate) tower of the Ilimsk ostrog (1667), a rebuilt stretch of palisade, a reconstructed second tower and the Kazan church of Ilimsk (1679), moved to the Taltsy museum of wooden architecture near Irkutsk; photographed 10 July 2016. Not the file used in chapter 46 (the Bratsk tower at Kolomenskoye). Resized to 1600x899 | https://commons.wikimedia.org/wiki/File:%D0%98%D0%BB%D0%B8%D0%BC%D1%81%D0%BA%D0%B8%D0%B9_%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B3.jpg | Mankuta | CC BY-SA 4.0 |

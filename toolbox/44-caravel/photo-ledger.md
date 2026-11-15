@@ -1,0 +1,3 @@
+| File | What it shows | Commons page | Author | Licence |
+|---|---|---|---|---|
+| toolbox/44-caravel/photo-caravel-engraving.jpg | Engraving of a Portuguese lateen-rigged caravel flying the royal arms, printed in Album do Seculo (Lisbon, 1900) with the caption "Caravela de um quadro do Convento da Madre de Deus, em Lisboa, seculo XVI". No caravel survives, so this is an early depiction at one remove, captioned as such. Not the file used in chapter 40 (that is the Boa Esperança replica). Cropped to the picture, 946x1080 | https://commons.wikimedia.org/wiki/File:Caravel_from_the_Convent_of_Madre_de_Deus,_Lisbon.jpg | Anonymous (Album do Seculo, 1900) | Public domain |

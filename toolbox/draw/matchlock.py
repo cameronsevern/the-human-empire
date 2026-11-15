@@ -42,4 +42,4 @@ s.callout(2,QX+30,QY-110,640,300,"The serpentine, an arm|holding a burning cord"
 s.callout(3,PX-10,PY-6,330,400,"The pan of fine powder,|its cover swung open",anchor="end")
 s.callout(4,QX-166,QY,440,650,"A brass spring snaps|the arm forward",anchor="end")
 s.callout(5,TX-30,BY+186,700,660,"The trigger|releases it",anchor="end")
-s.save(os.path.join(os.path.dirname(__file__),"..","45-matchlock","matchlock"))
+s.save(os.path.join(os.path.dirname(__file__),"..","49-matchlock","matchlock"))
