@@ -8,7 +8,7 @@ Off the north-east coast of England there is a small, flat island called Lindisf
 
 The monks had chosen an island because they wanted to be left alone. In northern Europe danger had always come by land. Armies marched along roads, and the grey sea to the east was too wide for anyone to cross in force.
 
-In June of that year, ships came out of the open sea and ran up onto the beach. The men who jumped out killed some of the monks, drowned others, and dragged the youngest away to be sold. They took the treasures off the altars, loaded their ships and left.
+In June of that year, ships came out of the open sea and ran up onto the beach. The men who jumped out killed some of the monks and dragged others away to be sold. They took the treasures off the altars, loaded their ships and left.
 
 The news went all over Christian Europe. An English scholar living at the court of the king of the Franks wrote home in horror. In three hundred and fifty years, he said, Britain had never suffered anything like this, and nobody had thought that such a voyage across the sea was possible.
 
@@ -20,7 +20,7 @@ The peoples of the north had built long, open rowing boats for centuries. They m
 
 The result was a hull that was light and that flexed. In a heavy sea it did not fight the waves. It bent with them, a little, like a basket.
 
-In the 700s the northern builders added two things. They gave the boat a proper keel, a long timber along the bottom that kept it steady, and on the keel they stepped a mast with one large square sail of wool. Weaving that sail took the fleece of about two hundred sheep and as much labour as building the hull.
+In the 700s the northern builders added two things. They gave the boat a proper keel, a long timber along the bottom that kept it steady, and on the keel they stepped a mast with one large square sail of wool. The sail was as much work as the hull. Spinning and weaving the cloth for one ship kept five people busy for a year.
 
 A fine Viking ship dug out of a burial mound in Norway is about as long as two buses parked end to end. Ships of its kind carried between thirty and seventy men, who sat on their sea chests to row. With the wind behind it, it crossed the North Sea in a few days. In 1893 a copy of that ship sailed from Norway to North America in four weeks.
 
@@ -30,7 +30,7 @@ Europe was badly placed to meet such a thing. Its richest unguarded buildings we
 
 ## Silver
 
-Many of the men in the ships came from a hard country. Denmark is good farmland, but Norway and most of Sweden are mountain, forest and long winter. In Norway only about three parts in every hundred of the land can be ploughed. A family there lived on a farm, grew barley, kept cattle and fished, and had little to spare.
+Many of the men in the ships came from a hard country. Denmark is good farmland, but Norway and most of Sweden are mountain, forest and long winter. In Norway only about three parts in every hundred of the land can be farmed. A family there lived on a farm, grew barley, kept cattle and fished, and had little to spare.
 
 Power in such a place belonged to chiefs, and a chief was only as strong as the band of fighting men who followed him. He kept them by generosity. He fed them through the winter in his hall and gave them arm rings of silver, good swords and fine cloaks, and a chief who stopped giving soon had no followers. Poets called a great lord a "breaker of rings", because he snapped his silver into pieces and handed it out.
 
@@ -52,27 +52,27 @@ The Rus carried two goods south. The first was fur, from the foxes, beavers and 
 
 What came back was silver. The caliphs of Baghdad struck fine silver coins by the million, and the Rus took their payment in them. More than eighty thousand of these Arab coins have been found buried in the soil of Sweden.
 
-In 922 an envoy from Baghdad, travelling north on the caliph's business, met a party of Rus camped beside the Volga and wrote down what he saw. He thought them the most perfectly built men he had ever seen, tall as palm trees and fair-skinned, each one tattooed from his fingernails to his neck and carrying an axe, a sword and a knife that he never put down. He also thought them the filthiest creatures God had made, because the whole party washed in the morning from one shared bowl. He watched them bury a chief. They hauled the dead man's ship onto the shore, laid him in it in his best clothes, killed one of his slave girls to go with him, and set the whole ship on fire.
+In 922 an envoy from Baghdad, travelling north on the caliph's business, met a party of Rus camped beside the Volga and wrote down what he saw. He thought them the most perfectly built men he had ever seen, tall as palm trees and fair-skinned, each one marked from his toes to his neck with dark green designs and carrying an axe, a sword and a knife that he never put down. He also thought them the filthiest creatures God had made, because the whole party washed in the morning from one shared bowl. He watched them bury a chief. They hauled the dead man's ship onto the shore, laid him in it dressed in silk, killed a slave girl who had agreed to go with him, and set the whole ship on fire.
 
-The trade reached further than any of them knew. In the 1950s archaeologists digging at a Viking-age trading post on an island in a Swedish lake found a small bronze Buddha, seated on a lotus. It had been cast in the far north of India. In the same spot lay the head of a bishop's staff from Ireland and a bronze ladle from Egypt.
+The trade reached further than any of them knew. In the 1950s archaeologists digging at a Viking-age trading post on an island in a Swedish lake found a small bronze Buddha, seated on a lotus. It had been cast in the far north of India about two hundred years before the first raids. In the same spot lay the head of a bishop's staff from Ireland and a bronze ladle from Egypt.
 
-The road also led to steady work. The emperors in Constantinople admired northerners as fighters and trusted them because they had no relatives in the city to plot with. From about 988 the emperor's personal guard was made up of Scandinavians, several thousand of them, armed with long axes. They stood on duty through the long services in Hagia Sophia, the great church of Holy Wisdom. On a marble railing in the upper gallery, somebody scratched a line of runes, the angular letters of the north. Most of it has worn away. The part that can still be read is a name, Halfdan.
+The road also led to steady work. The emperors in Constantinople admired northerners as fighters and trusted them because they were outsiders, bound to the emperor by oath and to nobody else in the city. From about 988 the emperor's personal guard was made up of Scandinavians, several thousand of them, armed with long axes. They stood on duty through the long services in Hagia Sophia, the great church of Holy Wisdom. On a marble railing in the upper gallery, somebody scratched a line of runes, the angular letters of the north. Most of it has worn away. The letters that can still be read are the end of a name, Halfdan.
 
 ## Staying
 
 A man who has crossed the sea to rob a country every summer for ten years knows that country well. He knows where the good land is. Sooner or later, many Vikings decided that the land was the real prize.
 
-In 865 an army of several thousand Danes landed in eastern England. It did not go home in the autumn. England at that time was divided into four kingdoms, and in ten years the army overran three of them. The fourth, Wessex in the south-west, survived under a stubborn king named Alfred, who beat the Danes in battle and then made a treaty with them. He kept the south and west. They kept the north and east, shared out the farmland among themselves, and settled down.
+In 865 a large army of Danes landed in eastern England. It did not go home in the autumn. England at that time was divided into four kingdoms, and in ten years the army overran three of them. The fourth, Wessex in the south-west, survived under a stubborn king named Alfred, who beat the Danes in battle and then made a treaty with them. He kept the south and west. They kept the north and east, shared out the farmland among themselves, and settled down.
 
 They left their mark in the language. English speakers today use the Danes' words for some of the most ordinary things there are, among them *egg*, *sky*, *knife*, *window*, *husband* and *law*. Even *they* and *them* came from the settlers. People borrow the names of spices and machines from foreigners they trade with. They borrow words like *they* from people who have moved in next door and married into the family.
 
 Something similar happened across the Channel. By the early 900s the king of the Franks had despaired of keeping Vikings out of the Seine. In 911 he tried a new idea. He offered the land around the river's mouth to a Viking chief named Rollo, on two conditions: Rollo was to be baptised, and he was to keep all the other Vikings out.
 
-The arrangement worked. Rollo's people married local women and within three generations they had forgotten their language and spoke French. Their territory was called the land of the Northmen, or Normandy.
+The arrangement worked. Rollo's people married local women and within a few generations they had forgotten their language and spoke French. Their territory was called the land of the Northmen, or Normandy.
 
 ## A country without a king
 
-Some of the emigrants wanted empty land, and the Norwegians found it. About 870, ships sailing west into the Atlantic came upon a large island of volcanoes, glaciers and green valleys with nobody living on it except a few Irish hermits. Within sixty years, settlers had taken up every farm site in Iceland that was worth having.
+Some of the emigrants wanted empty land, and the Norwegians found it. About 870, ships sailing west into the Atlantic came upon a large island of volcanoes, glaciers and green valleys with nobody living on it, except perhaps a few Irish hermits. Within sixty years, settlers had taken up every farm site in Iceland that was worth having.
 
 Many of them had left Norway because a king there was gathering the whole country under his own rule, and they did not care to be ruled. They brought no king with them and did not appoint one. In 930 they founded something else instead.
 
@@ -84,7 +84,7 @@ There was no government apart from this. Iceland had no army, no officials and n
 
 Iceland was not the end of the road. About 982 an Icelander called Erik the Red was banished for three years for killing two of his neighbours. He spent his exile exploring a coast that sailors had glimpsed further west. When he came back, he told everyone that he had found a fine country and that it was called Greenland. He chose the name, according to the Icelanders who wrote the story down, because people would be more willing to go to a place that sounded pleasant.
 
-Enough of them believed him to fill twenty-five ships. They found a land that was nearly all ice, with a few sheltered inlets in the south-west where cattle could be kept. They stayed for more than four hundred years, living partly on seals and paying for their imports with the tusks of walruses, which the carvers of Europe used as ivory.
+Enough of them believed him to fill twenty-five ships, of which fourteen arrived. They found a land that was nearly all ice, with a few sheltered inlets in the south-west where cattle could be kept. They stayed for more than four hundred years, living partly on seals and paying for their imports with the tusks of walruses, which the carvers of Europe used as ivory.
 
 From Greenland it is only a few days' sail to Canada. About the year 1000, Erik's son Leif and others after him explored a coast to the south-west, where there was timber, which Greenland lacked, and where wild grapes grew. For centuries almost the only evidence that it had happened was the stories that Icelanders told.
 
@@ -102,11 +102,11 @@ The raids had begun under small chiefs. Two centuries of foreign silver made som
 
 The two boasts go together. The old religion had many gods and no church. Each chief led the sacrifices for his own district, and that suited a world of independent chiefs. Christianity came with bishops who could read and write, who could keep a king's records and who taught that kings were chosen by God. It also turned a northern king from a pagan pirate into a ruler whom other kings would deal with. One by one the kings of the north were baptised, and they saw to it that their subjects followed.
 
-Iceland, having no king, settled the question in its own way. In the year 1000 the assembly was close to splitting into two peoples with two laws. Both sides agreed to let the law-speaker, who was a pagan, decide. He lay down under his cloak for a day and a night. Then he stood on the rock and announced that everyone in Iceland would be Christian, and that anyone who wished to go on sacrificing to the old gods at home, in private, would not be punished.
+Iceland, having no king, settled the question in its own way. In the year 1000 the assembly was close to splitting into two peoples with two laws. Both sides agreed to let the law-speaker, who was a pagan, decide. He lay down under his cloak for a day and a night. Then he stood on the rock and announced that everyone in Iceland would be Christian, and that anyone who wished to go on sacrificing to the old gods could do so at home, as long as nobody saw.
 
 A king with bishops and a treasury had no use for freelance pirates. When such a king went to war, he went to conquer. In 1016 a Danish king took the whole of England and ruled it, as a Christian, together with Denmark and Norway. Meanwhile, the easy targets had gone. The English had fortified their towns and built a fleet. The Franks had blocked their rivers with fortified bridges and covered their country with strongholds. For a chief with a few ships, raiding had stopped paying.
 
-The helmets, incidentally, had no horns. Hardly any Viking helmets have been found, and the best preserved is a plain round cap of iron with a guard for the eyes. The horns were added in 1876 by a costume designer for an opera.
+The helmets, incidentally, had no horns. Hardly any Viking helmets have been found, and the best preserved is a plain round cap of iron with a guard for the eyes. The horns were put there by painters of the 1800s, and fixed in everyone's mind in 1876 by the costumes for a German opera.
 
 Harald Bluetooth is remembered in another way. In the 1990s, engineers looking for a name for a new way of linking telephones and computers without wires borrowed the nickname of the king who had joined Denmark and Norway together. The symbol on every telephone today is made of his two initials, written in runes.
 
