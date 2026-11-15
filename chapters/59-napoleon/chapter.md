@@ -18,7 +18,13 @@ Under the king, the highest ranks of the army had been kept for the great noble 
 
 He was as good at politics as at war. In 1799, with the republic's government despised and bankrupt, he joined a plot to overthrow it and came out of the plot as the head of state. Five years later he had himself made emperor. More than three and a half million Frenchmen voted in favour, and a few thousand against. At the coronation, in the cathedral of Paris, the pope was brought from Rome to bless the crown. Napoleon then picked it up and put it on his own head.
 
+![The Coronation of Napoleon, oil painting, Louvre](images/coronation.jpg)
+*The coronation of Napoleon in Notre-Dame in 1804, painted by Jacques-Louis David in 1807 as an official picture of the new empire. Napoleon holds the crown over the kneeling Josephine. Painting: Jacques-Louis David, public domain.*
+
 He is remembered as a very short man, and he was not. He stood about one metre sixty-eight, which was a little above the average for a Frenchman of his day. The British cartoonists drew him as a tiny figure in an enormous hat, and the cartoons have outlasted the measurements.
+
+![Napoleon on a rearing white horse in an orange cloak crossing the Alps, painting by David](images/alps.jpg)
+*Napoleon crossing the Alps, painted by Jacques-Louis David about 1800 as official propaganda. The rocks in the corner are carved with the names of Hannibal and Charlemagne beside his own. Painting: Jacques-Louis David, public domain.*
 
 ## March divided
 
@@ -34,6 +40,9 @@ In the autumn of 1805, Austria and Russia went to war against him. An Austrian a
 
 Six weeks later, on 2 December, he met the main Russian and Austrian armies near a village called Austerlitz, in what is now the Czech Republic. He was outnumbered. He deliberately left one end of his line looking weak, and let the enemy see it. When they marched off the high ground in the centre to attack the weak end, he sent two divisions up the hill through the morning fog and cut their army in half. By the afternoon a third of it was dead, wounded or captured, and the rest was in flight.
 
+![Painting of Napoleon on a white horse giving orders on the field of Austerlitz](images/austerlitz.jpg)
+*Napoleon at the battle of Austerlitz, 2 December 1805, in a painting by François Gérard made in the 19th century, a later imagining. Painting: François Gérard, public domain.*
+
 The following year he destroyed in a single day the army of Prussia, the strong military kingdom that ruled northern Germany from Berlin. The year after that he beat the Russians again. By 1807 every great power on the continent had either been defeated by him or had made itself his ally.
 
 ## One law
@@ -44,11 +53,20 @@ Wherever the French went, they brought the Revolution's reforms in their baggage
 
 Above all he brought a book. By 1804 four lawyers, with Napoleon himself in the chair for many of the discussions, had boiled the whole tangle of French law on property, contracts and the family down into a single code, short enough to carry in a pocket and written in French that a farmer could read. It said that all men were equal before the law, that a man's property was his own, that a job was open to anyone qualified, and that a contract was binding. It also said that a wife owed obedience to her husband. Napoleon considered it his greatest achievement, and it was imposed from Amsterdam to Naples and Warsaw.
 
+![Title page of the first edition of the Civil Code, Paris, 1804](images/code_civil.jpg)
+*The title page of the Civil Code of the French, the "original and only official edition", printed in Paris in 1804. Book: Imprimerie de la République, public domain.*
+
 For a merchant in the Rhineland or a lawyer in Milan, these were large gains, and many welcomed the French at first. The welcome wore off, because the gifts came with a bill. The conquered lands paid heavy taxes to support the French army. Their young men were conscripted into it. Their churches and palaces were stripped of their paintings and statues, which went to fill the new museum in Paris. From Venice the French took the four bronze horses that had stood over the door of the great church since crusaders stole them from Constantinople, and set them on top of an arch in front of Napoleon's palace.
+
+![Four gilded bronze horses seen in a brick-vaulted museum room](images/horses.jpg)
+*The four bronze horses of Saint Mark's in Venice, ancient statues that crusaders carried from Constantinople. The French took them from Venice and set them up in Paris, and they were returned to Venice after Napoleon's fall. Photo: Zairon, public domain.*
 
 ## The whale
 
 One enemy remained out of reach. In October 1805, the day after the Austrians surrendered in Germany, a British fleet under Admiral Nelson caught the combined French and Spanish fleets off Cape Trafalgar, on the coast of Spain. It captured or wrecked more than half of their ships and lost none of its own. Nelson was killed by a sharpshooter in the hour of victory.
+
+![Painting of Nelson's flagship Victory with torn sails, with sailors in a boat in the foreground](images/trafalgar.jpg)
+*The battle of Trafalgar, 21 October 1805, painted by J. M. W. Turner in 1822 to 1824, many years later. It shows Nelson's flagship Victory, and combines moments from several hours of the fight. Painting: J. M. W. Turner, public domain.*
 
 After Trafalgar, Napoleon could not cross the Channel, and Britain could not land an army big enough to face him. People at the time compared it to a fight between an elephant and a whale.
 
@@ -56,11 +74,17 @@ Each tried to starve the other. Napoleon forbade the whole of Europe to trade wi
 
 Britain's weapon was money. Thanks to its Parliament and its bank, the British government could borrow almost without limit at low interest, and it had invented a new tax on incomes to pay for the war. It used the money to hire allies. Every time Napoleon knocked Austria, Prussia or Russia out of the war, British gold helped to bring it back in.
 
+![Coloured cartoon of two men in huge hats carving a plum pudding shaped like the globe](images/gillray.jpg)
+*"The Plumb-pudding in danger", a British cartoon of 26 February 1805. William Pitt, the British prime minister, and Napoleon carve up the globe between them, and Napoleon is drawn small. Print: James Gillray, Metropolitan Museum of Art, CC0.*
+
 ## The little war
 
 In 1808 Napoleon made the first of his two great mistakes. Spain was his ally, and badly governed. He moved troops into the country and lured its royal family across the border into France.
 
 On 2 May, as the last of the princes were being driven away, the people of Madrid attacked the French garrison with knives and paving stones. The French shot hundreds of prisoners the next day. Napoleon then forced the king to abdicate and gave the Spanish throne to his own brother Joseph. He had expected the Spaniards to be grateful for a modern government. Instead the revolt spread to the whole country.
+
+![Painting of a night execution, with a man in a white shirt raising his arms before a firing squad](images/goya_full.jpg)
+*The Third of May 1808, painted by Francisco de Goya in 1814: French soldiers shoot Spanish prisoners in Madrid the day after the rising. Painting: Francisco de Goya, Prado Museum, public domain.*
 
 The Spanish regular armies won one startling victory and were then beaten again and again, without ever quite giving up. Meanwhile, bands of peasants, smugglers and priests ambushed French convoys, cut the throats of sentries and stragglers, and vanished into the hills. The French burned villages in reprisal, which produced more recruits for the bands. The Spanish called this kind of fighting the *guerrilla*, the "little war", and the word has been used for it ever since.
 
@@ -90,6 +114,9 @@ The city was empty, and that night it began to burn. Napoleon sat in the Kremlin
 
 The retreat is one of the great catastrophes of military history. The snow came early in November. Men froze at night around their fires, horses died by tens of thousands, and Russian horsemen picked off the stragglers. Of the six hundred thousand who had gone in, about a hundred thousand came out.
 
+![Chart with a wide tan band narrowing across a map from Poland to Moscow and a thin black band returning, with a temperature graph beneath](images/minard.jpg)
+*Charles Minard's chart of 1869 of the army in Russia. The tan band is the army marching to Moscow and its width shows its numbers. The black band is the retreat, and the line beneath is the temperature. Chart: Charles Minard, public domain.*
+
 ## The hundred days
 
 All of Europe now turned on him. Prussia, with its new citizen army, changed sides, and Austria followed. In October 1813, near the German city of Leipzig, half a million men fought for four days in what was called the battle of the nations, and Napoleon was beaten. The allies entered Paris the next spring. His own marshals told him that it was over.
@@ -109,3 +136,7 @@ They could not put back what had been learned. The code stayed in force in Franc
 The idea of the nation spread further still. Greeks, Belgians, Poles, Italians and Hungarians all rose in its name over the following decades. The great powers of the continent all adopted conscription sooner or later, since a land army of paid volunteers could no longer face a nation in arms.
 
 Prussia learned the lesson best. In the summer of 1870 its conscript army, moved by railway, destroyed the main French armies in six weeks. The following January the king of Prussia was proclaimed emperor of a united Germany in the palace of the French kings at Versailles, in the Hall of Mirrors, while his guns were still shelling Paris.
+
+
+![Black and white print of a crowd of officers cheering beside steps in the Hall of Mirrors, with a bearded king standing on the steps](images/versailles.jpg)
+*The proclamation of the German Empire in the Hall of Mirrors at Versailles on 18 January 1871, in a printed copy of a painting by Anton von Werner, made later. Print: after Anton von Werner, public domain.*
