@@ -6,6 +6,9 @@ Europe took Africa with three inventions that it had lacked before: a drug again
 
 On 15 November 1884, the representatives of fourteen governments sat down at a horseshoe-shaped table in the official residence of the German chancellor in Berlin. On the wall behind them hung a large map of Africa. Most of its interior was blank.
 
+![Engraving of men seated round a long table in a high room, with a faint large map of Africa on the wall behind](images/berlin.jpg)
+*The conference in session in Berlin, engraved for the German magazine Die Gartenlaube in 1884. A large map of Africa hangs on the wall behind the delegates. Engraving: Die Gartenlaube, 1884, public domain.*
+
 They had been invited to settle a quarrel over who should control the mouth of the river Congo, and to agree on rules for the future. All the great powers of Europe were there, with the United States and the Ottoman empire. No African had been asked. Of the diplomats round the table, few had ever set foot on the continent, and the man who knew it best was an explorer attached to the American delegation as an adviser.
 
 The conference sat for three months. It did not carve up Africa, as is sometimes said. It laid down how the carving was to be done. Any power that claimed a stretch of coast must notify the others, and a claim would count only if the claimant actually occupied the place. That last rule had the effect of a starting pistol. Governments took it to mean that a territory would go to whoever planted a flag and a garrison on it first.
@@ -26,11 +29,20 @@ In 1854 another steamer went up the Niger, under a naval surgeon who made every 
 
 The surgeon's ship was itself the second invention. Africa has few natural harbours and its great rivers are broken by rapids and choked with sandbars, so that sailing ships had never been able to use them as roads. A steamboat with a flat bottom could. It could be built in sections in Britain, shipped to the coast, carried piece by piece past the rapids on the heads of porters, and bolted together on the upper river. From the 1870s such boats were at work on the Niger, the Congo and the Nile, carrying soldiers and towing barges of supplies into the heart of the continent.
 
+![Engraving of a flat paddle steamer with a tall funnel on a river, two men on the bank raising their arms](images/steamer.jpg)
+*The paddle steamer Henry Reed on the Congo, from a book published in 1889. Engraving: Life and Scenes in Congo, 1889, public domain.*
+
 The third invention was the gun. Until the 1860s the firearms of European armies and of African ones were of the same family: muskets loaded down the muzzle, good for two or three shots a minute. Then the armies of Europe changed their weapons three times in thirty years. They adopted rifles loaded from the rear end of the barrel, which a man could do lying down, and then rifles that held a dozen cartridges in a spring-loaded box and fired them one after another. In 1884 an American inventor in London, Hiram Maxim, demonstrated a gun that used the kick of each shot to load and fire the next. As long as the trigger was held down, it fired ten bullets a second.
+
+![Three men in dark suits standing behind a machine gun on a tripod, with a belt of cartridges hanging from it](images/maxim.jpg)
+*Hiram Maxim, the publisher Louis Cassier and the writer J. Bucknall Smith with a Maxim gun, photographed about 1895. Photo: London Stereoscopic and Photographic Company, public domain.*
 
 In 1890 the European powers agreed among themselves to stop the sale of these weapons to Africans across the whole middle belt of the continent.
 
 The result was seen most plainly on 2 September 1898, on a plain beside the Nile outside the city of Omdurman in Sudan. A British and Egyptian army, with gunboats on the river and forty-four Maxim guns, faced an army of the Sudanese state that was twice its size. The Sudanese were brave and disciplined, and they attacked at dawn across open ground. By half past eleven about ten thousand of them were dead and at least as many wounded. The British and Egyptians had lost forty-eight killed.
+
+![Black and white drawing of a line of soldiers in sun helmets firing rifles from behind brush, with distant attackers on a plain below a mountain](images/omdurman.jpg)
+*The opening of the battle of Omdurman on 2 September 1898, drawn for The Graphic by Frank Dadd. The British line fires from behind a thorn fence while the Sudanese attack across open ground. Drawing: Frank Dadd, 1898, public domain.*
 
 A young cavalry officer named Winston Churchill, who was there, wrote that it was the most signal triumph ever gained by the arms of science over barbarians. An English writer put it more shortly that year, in two lines of verse. Whatever happens, he wrote, we have got the Maxim gun, and they have not.
 
@@ -43,6 +55,9 @@ Europe's factories wanted things that grew or lay in Africa: palm oil for soap a
 More than anything, the powers were watching each other. Germany and Italy were new nations and wanted the trappings of great ones. France had been humiliated by Germany and wanted glory elsewhere. None of them was sure that a given stretch of Africa was worth having. Each was sure that it could not afford to let a rival have it, since a territory once taken might be closed to everyone else's trade. Much of the continent was claimed defensively, just in case.
 
 The man who set off the rush was not a great power at all. Leopold II was king of Belgium, a small, new country whose parliament had no interest in colonies. He wanted one for himself. In the 1870s he founded a society for the exploration and civilisation of central Africa, with himself as chairman, and spoke movingly of ending the slave trade. He then hired the most famous explorer of the day, Henry Stanley, who had just traced the river Congo to the sea.
+
+![Black and white portrait of a bearded elderly man in a dark double-breasted coat](images/leopold.jpg)
+*Leopold II, king of the Belgians, photographed in 1889. Photo: Alexander Bassano, public domain.*
 
 Stanley spent five years on the river for the king. He built a road round the rapids, launched steamers on the upper river, and persuaded chiefs by the hundred to put their marks on treaties. The documents, which they could not read, handed over their land and the labour of their people to the king's society for ever, in exchange for a few bales of cloth.
 
@@ -64,13 +79,22 @@ The Congolese knew what was being done to them, and a few missionaries and trave
 
 Morel resigned and started a campaign. A British consul travelled up the river and confirmed everything. A missionary's wife with a box camera photographed the maimed and the bereaved. Mass meetings were held across Britain and America, and famous writers lent their pens. It was the first great international campaign for human rights of the twentieth century. In 1908 the king was made to hand his colony to the Belgian state, and he spent a week burning his archives.
 
+![A man sits on a veranda with his head bowed over a small object, two men standing behind him](images/nsala.jpg)
+*Nsala, of the Nsongo district of the Congo, photographed in 1904 by the missionaries John and Alice Seeley Harris. In front of him lie the hand and foot of his five-year-old daughter, all that was left after rubber sentries killed her, her mother and her brother. Published in Morel's King Leopold's Rule in Africa. Photo: Alice Seeley Harris and John Harris, public domain.*
+
 Nobody counted the dead. Murder, starvation, flight and disease emptied whole districts, and the population of the Congo is thought to have fallen by several million in twenty years.
+
+![Black and white cartoon of a huge snake with a crowned human head coiled round a man, with a woman holding a child in the background](images/punch.jpg)
+*"In the Rubber Coils", a cartoon in Punch on 28 November 1906. King Leopold appears as a snake crushing a Congolese rubber collector while a woman and child flee. Cartoon: Linley Sambourne, public domain.*
 
 ## Spears, water and rifles
 
 Africans fought the conquest in nearly every region, and sometimes they won battles.
 
 In January 1879 a British army invaded the kingdom of the Zulu, the strongest military power in southern Africa. The Zulu army, twenty thousand men trained to run fifty kilometres in a day and fight at the end of it, caught the main British camp unprepared under a hill called Isandlwana. It attacked in a great curve, like the horns of a bull, and overran the camp with stabbing spears. More than thirteen hundred of the invaders were killed. Britain sent reinforcements, and six months later the Zulu capital was burned.
+
+![Old photograph of a man with a headring and a cloth wrapped round his shoulders](images/cetshwayo.jpg)
+*Cetshwayo, king of the Zulu, in a photograph of about 1875, a few years before the war of 1879. Photo: unknown, public domain.*
 
 That was the usual pattern. An African army could win when it surprised the enemy at close quarters. It could not replace its losses or match the invaders' weapons, and the next column was always on its way.
 
@@ -86,9 +110,15 @@ Ethiopia is a highland kingdom in the east of the continent. It had been Christi
 
 Menelik understood what the Maxim meant, and he had something to bargain with. The European powers were rivals, and each was happy to make trouble for the others. He bought rifles from the French, from the Russians, and from the Italians themselves, who hoped to make him their client. By 1895 he had some eighty thousand modern rifles and forty cannon.
 
+![Black and white photograph of a bearded man in a tall crown and heavily embroidered cloak, holding a long staff](images/menelik.jpg)
+*Menelik II, emperor of Ethiopia, in coronation robes, photographed some time between the 1890s and 1900s. Photo: unknown, public domain.*
+
 In 1889 he had signed a treaty of friendship with Italy. It existed in two languages. The version in his own language said that he might use the Italians as a channel for dealing with other powers if he wished. The Italian version said that he must. On the strength of that one verb, Italy informed the world that Ethiopia was its protectorate, a state whose dealings with the outside world it now controlled. When Menelik found out, he denounced the treaty, and Italy sent an army.
 
 The two forces met on 1 March 1896 among the mountains near the town of Adwa. The Italian general had about eighteen thousand men, and his maps were wrong. Menelik had a hundred thousand, armed as well as their enemies. The Italian columns lost touch with one another in the dark and were destroyed one at a time. About six thousand of the invaders were killed, and several thousand taken prisoner. The government in Rome fell within ten days, and Italy signed a treaty recognising Ethiopia as an independent state.
+
+![Brightly coloured painting of lines of riflemen facing each other across a field, horsemen and flags at the top](images/adwa.jpg)
+*The battle of Adwa, 1896, in an undated Ethiopian painting. Ethiopian riflemen and the imperial flag are on the left, the Italian lines and their tricolour on the right. Photo: AralGuillaume, CC0.*
 
 Adwa was celebrated by Black people from Jamaica to South Africa. Menelik had led a united kingdom, played the powers against each other, and bought the same weapons as his enemies in time and in quantity. Hardly any other African ruler had been given the chance to do all three.
 
