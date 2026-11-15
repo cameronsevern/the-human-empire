@@ -8,6 +8,9 @@ In the middle of July 1808 a French warship dropped anchor at the port that serv
 
 Word got out within the hour. A crowd gathered in the main square, shouting for King Ferdinand and death to the French, and the two officers had to be smuggled out of town at night.
 
+![Full-length portrait of King Ferdinand VII in ermine-trimmed robes of state](images/ferdinand.jpg)
+*King Ferdinand VII of Spain in his robes of state, painted by Francisco Goya in 1815, after the king's return. Public domain.*
+
 That same day a British frigate came into the same port. Its captain had a different story. Spain had not submitted. The whole country had risen against the French, councils of patriots had taken charge in the king's name, and Britain, Spain's enemy for the past twelve years, was now its ally.
 
 The governor and the leading citizens of Caracas were left with a question that no one had ever needed to ask. Their king was a prisoner in France. A Frenchman was sitting on his throne. Whom, exactly, were they supposed to obey?
@@ -24,6 +27,9 @@ Its society was ranked by birth, and the ranks were written into law. At the top
 
 Below the creoles were the great majority. There were the people of mixed descent, sorted by the law into a long list of named categories according to their ancestry. There were the Indians, who paid a special head tax and owed forced labour. At the bottom were the enslaved Africans who worked the plantations of the coasts.
 
+![A tall panel of sixteen small painted scenes of couples with children, each with a handwritten label, above a forest scene](images/casta.jpg)
+*A casta painting from New Spain, dated 1777, by Ignacio María Barreda. Each panel names a couple and the rank their children would hold. Photo: Jl FilpoC, CC BY-SA 4.0.*
+
 The creoles resented Spain. In the late 1700s, a reforming government in Madrid had raised their taxes, tightened its control and sent out more Spanish officials than ever. They had read the French philosophers and followed the news from Philadelphia and Paris. They also had a great deal to lose.
 
 ## The last Inca
@@ -31,6 +37,9 @@ The creoles resented Spain. In the late 1700s, a reforming government in Madrid 
 In November 1780, in the mountains of Peru, a local Indian nobleman invited the Spanish district governor to dinner, arrested him, and had him hanged in the village square by his own slave.
 
 The nobleman was a prosperous mule owner who traced his descent from the last Inca emperor, and he took that emperor's name, Túpac Amaru. He announced that he was acting for the king against corrupt officials. He declared an end to the forced labour in the mines and the compulsory purchases by which governors fleeced the Indians. Within weeks he had tens of thousands of followers, and the rising spread down the Andes into what is now Bolivia, where Indian armies twice besieged the city of La Paz.
+
+![A hand-coloured drawing of a man in a dark jacket and feathered headdress on a grey horse, holding a sword, captioned El Rebelde Tupac Amaro](images/tupac.jpg)
+*An anonymous watercolour of the rebel Túpac Amaru, drawn in the decades around his rising of 1780. Public domain.*
 
 At first some creoles sympathised. They changed their minds as the rising spread and hardened into a war of Indians against anyone who looked or dressed like a Spaniard. The rising was crushed after two years, at a cost of more than a hundred thousand lives. Túpac Amaru was made to watch the execution of his wife and son in the great square of the old Inca capital. His executioners then tied his limbs to four horses to pull him apart, failed, and cut off his head.
 
@@ -44,6 +53,9 @@ Spanish law offered an answer to the governor's question. If the king was absent
 
 In 1810, as French armies overran almost all of Spain, city after city in America acted. Caracas removed its governor in April. Buenos Aires followed in May, Bogotá in July and Santiago in September. In each case the leading citizens met at the town hall, deposed the Spanish officials, and set up a council that swore loyalty to King Ferdinand.
 
+![A crowded vaulted hall with men in dark coats and a uniformed officer seated in a chair, a red curtain at the far end](images/cabildo.jpg)
+*The open town council of Buenos Aires, May 1810, as painted by Juan Manuel Blanes decades later, a later imagining. Public domain.*
+
 For many of them the oath was sincere, and for some it was a mask. Either way, the councils soon discovered that they liked governing. They opened their ports to British ships and appointed their friends to the offices that Spaniards had held.
 
 The patriots in Spain then pushed them further. In a city under French siege they had elected a parliament and written a constitution that limited the king's power. They were fighting for their own liberty, but they had no intention of treating Americans as equals, and they offered the colonies a fraction of the seats. Then, in 1814, Napoleon fell and Ferdinand came home. He turned out to be a narrow, vindictive man. He tore up the constitution, brought back the church courts that hunted heretics, and sent ten thousand veterans across the Atlantic to bring his American subjects to heel. For the men who had led the councils, the choice was now between independence and the gallows.
@@ -54,9 +66,15 @@ In one place, events took a different course from the start, and showed the creo
 
 Before dawn on 16 September 1810, in a small town in central Mexico, a parish priest of fifty-seven named Miguel Hidalgo rang his church bell and called on his parishioners to rise. Hidalgo was a creole who read forbidden French books, and he had been plotting with army officers to set up a council like the others. The plot had been betrayed, and he acted on impulse. He appealed to the Indians and the poor.
 
+![A printed oval portrait of a bald, white-haired priest in dark clothes, with a caption honouring Miguel Hidalgo](images/hidalgo.jpg)
+*Miguel Hidalgo, the priest who rang the bell in 1810, on a Mexican broadsheet printed around 1900, long after his death. Image: Metropolitan Museum of Art, CC0.*
+
 They came in a flood. Marching behind a banner of the Virgin of Guadalupe, the dark-skinned Madonna who was Mexico's own saint, his following swelled within weeks to tens of thousands of people armed with machetes, slings and farm tools. At the rich mining city of Guanajuato, the Spaniards and many creoles shut themselves in the stone public granary with their silver. The crowd burned down the door and killed nearly everyone inside.
 
 The creoles of Mexico closed ranks with Spain. The royal army that hunted Hidalgo down was officered largely by Mexican-born men. He was captured and shot, and his head hung in an iron cage on a corner of that granary for ten years.
+
+![A large plain stone building with rows of small windows above a wide flight of stairs under a blue sky](images/alhondiga.jpg)
+*The Alhóndiga de Granaditas, the granary at Guanajuato where Hidalgo's followers stormed the Spanish defenders in 1810. Photo: Jessicatena, CC BY-SA 4.0.*
 
 Mexico's independence came in 1821, and it came from the other direction. A revolution in Spain had brought a liberal government to power there, one that threatened the privileges of the church and the army. Mexico's conservatives decided that they would be safer on their own. The creole colonel who had spent a decade fighting the rebels made a pact with the last rebel bands still holding out in the southern mountains, declared Mexico independent, and briefly made himself its emperor.
 
@@ -68,11 +86,17 @@ He was born in Caracas in 1783 into one of the richest creole families in Venezu
 
 He was small, restless and tireless, a fine horseman who could dictate letters to three secretaries at once, and he was beaten again and again. A congress in Caracas had declared a republic in 1811, the first in Spanish America. It collapsed the next year, after an earthquake flattened its cities and the priests announced that God had passed judgement. Bolívar fought his way back the next year, and that republic fell too.
 
+![A full-length portrait of Simón Bolívar in a dark uniform with gold trim, standing with one hand on his sword](images/bolivar.jpg)
+*Simón Bolívar, painted from life in Lima in 1825 by José Gil de Castro. Public domain.*
+
 It was not Spaniards who destroyed it. South of Caracas lie the great tropical plains of the Orinoco, where half-wild cattle were herded by horsemen of mixed African, Indian and Spanish descent, who lived in the saddle and fought with lances. To these plainsmen, the republic was the project of the rich creoles of the coast, the same people who claimed to own the plains and wanted to turn free herdsmen into hired hands. A Spanish adventurer raised them for the king with a promise of the creoles' property. They took Caracas in 1814 and slaughtered their way through the creole upper class.
 
 For years the wars of independence were civil wars among Americans, in which the poor and the dark-skinned fought as often for the king as against him, because they had more to fear from the local landowner than from a distant monarch.
 
 Bolívar fled to Jamaica, and then to Haiti. The president of the black republic gave him ships, muskets and a printing press, and asked one thing in return: that he free the slaves wherever he was victorious. Bolívar gave his word. He landed in Venezuela in 1816 and declared that every slave who joined his army would be free.
+
+![An engraved portrait of a man in military dress with epaulettes, captioned as the president of the Republic of Haiti](images/petion.jpg)
+*Alexandre Pétion, president of the black republic of Haiti, who gave Bolívar ships, muskets and a printing press. Engraving, 1818. Public domain.*
 
 That promise began to change the war. So did a new alliance. The plainsmen's royalist chief was dead, and a new leader had risen among them, a tough cattle hand who could barely read and who fought for independence. Bolívar treated him as an equal and promised his men land. Horsemen of the kind who had destroyed the republic now became its cavalry.
 
@@ -88,6 +112,9 @@ He was Bolívar's opposite, a quiet, methodical professional, and he had worked 
 
 He spent three years preparing in a town at the foot of the Andes, where he set up workshops to make gunpowder and cloth and had the women of the province sew uniforms. In January 1817 his army of five thousand men set off through passes higher than any in the Alps, with ten thousand mules to carry its food and its dismantled cannon. It crossed in three weeks, losing more than half of the animals, and beat the Spanish in the first valley on the other side.
 
+![Two officers on horseback on a mountain ledge, one on a white horse and one on a black horse, with snowy peaks behind and a guide in a poncho in the foreground](images/sanmartin.jpg)
+*San Martín crossing the Andes in 1817, painted by Julio Vila y Prades in 1909, a later imagining. Public domain.*
+
 A second victory the following year secured Chile. A fleet was assembled, under a Scottish admiral whom the British navy had dismissed, and in 1821 San Martín entered Lima.
 
 The two liberators met once, in July 1822, in the port of Guayaquil in Ecuador. They talked alone for several hours, with no secretary present, and what passed between them has been argued over ever since. When they came out, San Martín went home, resigned all his offices, and sailed for Europe, where he lived quietly for another twenty-six years. Bolívar took over the war in Peru. In December 1824, on a plateau three thousand metres up, his army defeated the last Spanish viceroy. The new country carved out of the highlands to the south was named Bolivia in his honour.
@@ -101,6 +128,9 @@ In November 1807, as a French army approached Lisbon, the prince who ruled Portu
 When the king at last went back to Lisbon in 1821, he left his son Pedro behind as regent. The Portuguese parliament then ordered Brazil to return to the status of a colony and the prince to come home. The city council of Rio brought Pedro a petition begging him not to go. His answer is remembered by one word of it that Brazilians still quote: "*Fico*", I am staying. A few months later, on the bank of a stream near São Paulo, he drew his sword and declared Brazil independent, and by the end of 1822 he had been crowned its emperor.
 
 Hardly anything else changed, and that was the point. Brazil had more slaves than any other country in the Americas, and its planters had watched Haiti with horror. A few northern provinces held out for Lisbon and were brought in by force within a year. Everywhere else, a legitimate monarch on the spot meant that there was no moment when authority lapsed and little opening for anyone below. Brazil kept almost all its territory, and it kept slavery until 1888, longer than any other country in the hemisphere.
+
+![A large painting of a crowned emperor seated on a throne in a red hall as a kneeling man swears on a book before a crowd of officials](images/debret.jpg)
+*Pedro crowned emperor of Brazil in December 1822, painted by the French artist Jean-Baptiste Debret in 1828. Public domain.*
 
 ## Ploughing the sea
 
