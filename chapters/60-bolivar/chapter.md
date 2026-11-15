@@ -8,7 +8,7 @@ On 15 July 1808 a French warship dropped anchor at the port that serves Caracas,
 
 Word got out within the hour. A crowd of several thousand gathered in the main square, shouting for King Ferdinand and death to the French, and the two officers had to be smuggled out of town at night.
 
-That same evening a British frigate came into the same port. Its captain had a different story. Spain had not submitted. The whole country had risen against the French, councils of patriots had taken charge in the king's name, and Britain, Spain's enemy for the past twelve years, was now its ally.
+That same day a British frigate came into the same port. Its captain had a different story. Spain had not submitted. The whole country had risen against the French, councils of patriots had taken charge in the king's name, and Britain, Spain's enemy for the past twelve years, was now its ally.
 
 The governor and the leading citizens of Caracas were left with a question that no one had ever needed to ask. Their king was a prisoner in France. A Frenchman was sitting on his throne. Whom, exactly, were they supposed to obey?
 
@@ -16,11 +16,11 @@ The governor and the leading citizens of Caracas were left with a question that 
 
 The empire in which they lived was the largest in the world. It ran from California to the southern tip of South America, more than ten thousand kilometres, and it had belonged to Spain for three centuries. About seventeen million people lived in it.
 
-It was not built to hold together by itself. The Andes, the Amazon forest and the deserts cut it into regions that had little contact with each other. A letter from Lima to Buenos Aires took months by mule, and it was easier to sail from either city to Spain than to travel between them. Spain had also forbidden the colonies to trade with one another. Each was tied by its own thread to Madrid, like the spokes of a wheel with no rim.
+It was not built to hold together by itself. The Andes, the Amazon forest and the deserts cut it into regions that had little contact with each other. A letter from Lima to Buenos Aires took months by mule, and it was easier to sail from either city to Spain than to travel between them. For most of three centuries Spain had also restricted trade between one colony and another. Each was tied by its own thread to Madrid, like the spokes of a wheel with no rim.
 
-What held it together was the king. He appointed four viceroys to rule its four great divisions, and under them a pyramid of governors, judges and tax collectors, nearly all of them sent out from Spain.
+What held it together was the king. He appointed four viceroys to rule its four great divisions, which were governed from Mexico City, Bogotá, Lima and Buenos Aires. Under them stood a pyramid of governors, judges and tax collectors, and in the last decades before 1808 more and more of these were men sent out from Spain.
 
-Its society was ranked by birth, and the ranks were written into law. At the top stood Spaniards born in Spain, who numbered perhaps one person in a hundred and held almost every high office. In three hundred years, the king had appointed a hundred and seventy viceroys, and four of them had been born in America. Next came the creoles, people of Spanish descent born in the colonies. They owned the great estates, the mines and the herds, and many were far richer than the officials set over them. They were shut out of the best posts all the same, for having been born on the wrong side of the ocean.
+Its society was ranked by birth, and the ranks were written into law. At the top stood Spaniards born in Spain, who numbered perhaps one person in a hundred and held almost every high office. In three hundred years, the king had appointed a hundred and seventy viceroys, and four of them had been born in America. Next came the creoles, people of Spanish descent born in the colonies. They owned the great estates, the mines and the herds, and many were far richer than the officials set over them. They found themselves passed over for the best posts all the same, for having been born on the wrong side of the ocean.
 
 Below the creoles were the great majority. There were the people of mixed descent, sorted by the law into a long list of named categories according to their ancestry. There were the Indians, who paid a special head tax and owed forced labour. At the bottom were the enslaved Africans who worked the plantations of the coasts.
 
@@ -32,7 +32,7 @@ In November 1780, in the mountains of Peru, a local Indian nobleman invited the 
 
 The nobleman was a prosperous mule owner who traced his descent from the last Inca emperor, and he took that emperor's name, Túpac Amaru. He announced that he was acting for the king against corrupt officials. He abolished the forced labour in the mines and the compulsory purchases by which governors fleeced the Indians. Within weeks he had tens of thousands of followers, and the rising spread down the Andes into what is now Bolivia, where Indian armies besieged the city of La Paz for six months.
 
-At first some creoles sympathised. They changed their minds when the rebel armies, which their leader could not control, began killing everyone who wore European clothes. The rising was crushed after two years, at a cost of about a hundred thousand lives. Túpac Amaru was made to watch the execution of his wife and son in the great square of the old Inca capital. His executioners then tied his limbs to four horses to pull him apart, failed, and cut off his head.
+At first some creoles sympathised. They changed their minds as the rising spread and hardened into a war of Indians against anyone who looked or dressed like a Spaniard. The rising was crushed after two years, at a cost of about a hundred thousand lives. Túpac Amaru was made to watch the execution of his wife and son in the great square of the old Inca capital. His executioners then tied his limbs to four horses to pull him apart, failed, and cut off his head.
 
 For the creoles of Peru the lesson was unforgettable, and events in Haiti a decade later taught the same lesson to planters everywhere. They were a thin layer of white landowners on top of a huge population of Indians, people of mixed descent and slaves. Spain was arrogant and grasping. However, Spain's army was also what stood between them and the people they lived off. Any break with Spain would have to be managed so that it stopped with them.
 
@@ -46,7 +46,7 @@ In 1810, as French armies overran almost all of Spain, city after city in Americ
 
 For many of them the oath was sincere, and for some it was a mask. Either way, the councils soon discovered that they liked governing. They opened their ports to British ships and appointed their friends to the offices that Spaniards had held.
 
-Two things then pushed them further. The patriots in Spain, though they were fighting for their own liberty, had no intention of treating Americans as equals, and offered them a fraction of the seats in the new Spanish parliament. Then, in 1814, Napoleon fell and Ferdinand came home. He turned out to be a narrow, vindictive man. He tore up the constitution, restored the Inquisition, and sent ten thousand veterans across the Atlantic to bring his American subjects to heel. After that, the choice was between independence and the gallows.
+The patriots in Spain then pushed them further. In a city under French siege they had elected a parliament and written a constitution that limited the king's power. They were fighting for their own liberty, but they had no intention of treating Americans as equals, and they offered the colonies a fraction of the seats. Then, in 1814, Napoleon fell and Ferdinand came home. He turned out to be a narrow, vindictive man. He tore up the constitution, brought back the church courts that hunted heretics, and sent ten thousand veterans across the Atlantic to bring his American subjects to heel. For the men who had led the councils, the choice was now between independence and the gallows.
 
 ## The priest's bell
 
@@ -58,7 +58,7 @@ They came in a flood. Marching behind a banner of the Virgin of Guadalupe, the d
 
 The creoles of Mexico closed ranks with Spain. The royal army that hunted Hidalgo down was officered largely by Mexican-born men. He was captured and shot, and his head hung in an iron cage on a corner of that granary for ten years.
 
-Mexico's independence came in 1821, and it came from the other direction. A revolution in Spain had brought a liberal government to power there, one that threatened the privileges of the church and the army. Mexico's conservatives decided that they would be safer on their own. The creole colonel who had spent a decade fighting the rebels changed sides, declared Mexico independent, and briefly made himself its emperor.
+Mexico's independence came in 1821, and it came from the other direction. A revolution in Spain had brought a liberal government to power there, one that threatened the privileges of the church and the army. Mexico's conservatives decided that they would be safer on their own. The creole colonel who had spent a decade fighting the rebels made a pact with the last rebel bands still holding out in the southern mountains, declared Mexico independent, and briefly made himself its emperor.
 
 ## The plainsmen
 
@@ -66,17 +66,17 @@ In South America the war was longer, and the man at the centre of it was Simón 
 
 He was born in Caracas in 1783 into one of the richest creole families in Venezuela, owners of cacao plantations, copper mines and more than a thousand slaves. Orphaned young, he was sent to Europe to finish his education, and was in Paris when Napoleon crowned himself. The following year, on a hill outside Rome, at the age of twenty-two, he swore an oath to his tutor that he would not rest until he had broken Spain's hold on America.
 
-He was small, restless and tireless, a fine horseman who could dictate letters to three secretaries at once, and he was beaten again and again. The first Venezuelan republic collapsed in 1812, after an earthquake flattened its cities and the priests announced that God had passed judgement. Bolívar fought his way back the next year, and that republic fell too.
+He was small, restless and tireless, a fine horseman who could dictate letters to three secretaries at once, and he was beaten again and again. The council in Caracas had declared a republic in 1811, the first in Spanish America. It collapsed the next year, after an earthquake flattened its cities and the priests announced that God had passed judgement. Bolívar fought his way back the next year, and that republic fell too.
 
 It was not Spaniards who destroyed it. South of Caracas lie the great tropical plains of the Orinoco, where half-wild cattle were herded by horsemen of mixed African, Indian and Spanish descent, who lived in the saddle and fought with lances. To these plainsmen, the republic was the project of the rich creoles of the coast, the same people who claimed to own the plains and wanted to turn free herdsmen into hired hands. A Spanish adventurer raised them for the king with a promise of the creoles' property. They took Caracas in 1814 and slaughtered their way through the creole upper class.
 
-This was the secret of the wars of independence. For years they were civil wars among Americans, in which the poor and the dark-skinned fought as often for the king as against him, because they had more to fear from the local landowner than from a distant monarch.
+For years the wars of independence were civil wars among Americans, in which the poor and the dark-skinned fought as often for the king as against him, because they had more to fear from the local landowner than from a distant monarch.
 
 Bolívar fled to Jamaica, and then to Haiti. The president of the black republic gave him ships, muskets and a printing press, and asked one thing in return: that he free the slaves wherever he was victorious. Bolívar gave his word. He landed in Venezuela in 1816 and declared that every slave who joined his army would be free.
 
-That promise began to change the war. So did a new alliance. The plainsmen's first leader was dead, and Bolívar won over his successor, a tough cattle hand who could not read, by treating him as an equal and promising his men land. The horsemen who had destroyed the republic now became its cavalry.
+That promise began to change the war. So did a new alliance. The plainsmen's royalist chief was dead, and a new leader had risen among them, a tough cattle hand who could barely read and who fought for independence. Bolívar treated him as an equal and promised his men land. Horsemen of the kind who had destroyed the republic now became its cavalry.
 
-In 1819 he tried a stroke that the Spanish thought impossible. In the rainy season, when no army moved, he led about two thousand five hundred men across the flooded plains, wading for a week in water up to their waists, and then straight up the wall of the Andes by a pass four thousand metres high. His men were lowlanders in cotton clothes. Hundreds died of cold, and every horse was lost. The survivors came down on the far side into what is now Colombia, behind the Spanish army, and three weeks later destroyed it at a bridge on the road to Bogotá.
+In 1819 he tried a stroke that the Spanish thought impossible. In the rainy season, when no army moved, he led about two thousand five hundred men across the flooded plains, wading for a week in water up to their waists, and then straight up the wall of the Andes by a pass four thousand metres high. His men were lowlanders in cotton clothes. Hundreds died of cold, and every horse was lost. The survivors came down on the far side into what is now Colombia, behind the Spanish army, and three weeks later destroyed it at a bridge on the road to Bogotá. Within three years he had freed Venezuela and Ecuador as well, and joined all three in a single republic called Colombia.
 
 ## Ten thousand mules
 
@@ -88,9 +88,9 @@ He was Bolívar's opposite, a quiet, methodical professional, and he had worked 
 
 He spent three years preparing in a town at the foot of the Andes, where he set up workshops to make gunpowder and cloth and had the women of the province sew uniforms. In January 1817 his army of five thousand men set off through passes higher than any in the Alps, with ten thousand mules to carry its food and its dismantled cannon. It crossed in three weeks, losing a third of the animals, and beat the Spanish in the first valley on the other side.
 
-Chile was free within a year. A fleet was assembled, under a Scottish admiral whom the British navy had dismissed, and in 1821 San Martín entered Lima.
+A second victory the following year secured Chile. A fleet was assembled, under a Scottish admiral whom the British navy had dismissed, and in 1821 San Martín entered Lima.
 
-The two liberators met once, in July 1822, in the port of Guayaquil in Ecuador. They talked alone for several hours, and neither left a record of what was said. When they came out, San Martín went home, resigned all his offices, and sailed for Europe, where he lived quietly for another twenty-eight years. Bolívar took over the war in Peru. In December 1824, on a plateau three thousand metres up, his army defeated the last Spanish viceroy. The new country carved out of the highlands to the south was named Bolivia in his honour.
+The two liberators met once, in July 1822, in the port of Guayaquil in Ecuador. They talked alone for several hours, with no secretary present, and what passed between them has been argued over ever since. When they came out, San Martín went home, resigned all his offices, and sailed for Europe, where he lived quietly for another twenty-eight years. Bolívar took over the war in Peru. In December 1824, on a plateau three thousand metres up, his army defeated the last Spanish viceroy. The new country carved out of the highlands to the south was named Bolivia in his honour.
 
 ## "I am staying"
 
@@ -98,17 +98,17 @@ Portugal's colony went a different way, because its royal family had the foresig
 
 In November 1807, as a French army approached Lisbon, the prince who ruled Portugal loaded his court, his treasury, his library and some ten thousand courtiers onto every ship in the harbour. They sailed for Brazil under the escort of the British navy. For the next thirteen years Rio de Janeiro was the capital of the Portuguese empire. Brazil acquired a royal court, a bank, printing presses and open ports, without a shot being fired.
 
-When the king at last went back to Lisbon in 1821, he left his son Pedro behind as regent. The Portuguese parliament then ordered Brazil to return to the status of a colony and the prince to come home. Pedro, urged on by the planters and merchants of Rio, sent a one-word answer that Brazilians still quote: "*Fico*", I am staying. A few months later, on the bank of a stream near São Paulo, he drew his sword and declared Brazil independent, and by the end of 1822 he had been crowned its emperor.
+When the king at last went back to Lisbon in 1821, he left his son Pedro behind as regent. The Portuguese parliament then ordered Brazil to return to the status of a colony and the prince to come home. The city council of Rio brought Pedro a petition begging him not to go. His answer is remembered by one word of it that Brazilians still quote: "*Fico*", I am staying. A few months later, on the bank of a stream near São Paulo, he drew his sword and declared Brazil independent, and by the end of 1822 he had been crowned its emperor.
 
-Hardly anything else changed, and that was the point. Brazil had more slaves than any other country in the Americas, and its planters had watched Haiti with horror. A legitimate monarch, accepted by every province, meant that there was no moment when authority lapsed and no opening for anyone below. Brazil stayed whole, and it kept slavery until 1888, longer than any other country in the hemisphere.
+Hardly anything else changed, and that was the point. Brazil had more slaves than any other country in the Americas, and its planters had watched Haiti with horror. A few northern provinces held out for Lisbon and were brought in by force within a year. Everywhere else, a legitimate monarch on the spot meant that there was no moment when authority lapsed and little opening for anyone below. Brazil kept almost all its territory, and it kept slavery until 1888, longer than any other country in the hemisphere.
 
 ## Ploughing the sea
 
-Bolívar dreamed of something similar on a larger scale. He had joined Venezuela, Colombia and Ecuador in a single republic, and he hoped to bind all the new states into a league that could stand beside the United States and Europe. In 1826 he invited them to a congress in Panama. Four turned up.
+Bolívar dreamed of something similar on a larger scale. He had his republic of three countries, and he hoped to bind all the new states into a league that could stand beside the United States and Europe. In 1826 he invited them to a congress in Panama. Four turned up.
 
-His own republic broke into three parts in 1830. Central America separated from Mexico and then split into five countries. The lands governed from Buenos Aires became four. By the middle of the century, the Spanish empire in America had turned into sixteen states, and the borders between them followed, almost everywhere, the lines of the old colonial districts.
+His own republic broke into three parts in 1830. Central America separated from Mexico and then split into five countries. The lands governed from Buenos Aires became Argentina, Bolivia, Paraguay and Uruguay. By the middle of the century, the Spanish empire in America had turned into sixteen states, and the borders between them followed, almost everywhere, the lines of the old colonial districts.
 
-The reasons had been there from the beginning. The regions had never traded with one another or been governed together. They had no experience of elected assemblies of the kind the English colonies had run for a century and a half. With the king gone, there was no authority that people everywhere accepted, and what took its place, in each region, was the man with the most soldiers. Latin America has a word for the type, *caudillo*, the chief on horseback, and for the next half century most of the new republics were ruled by one.
+The reasons had been there from the beginning. The regions had traded little with one another and had never been governed together. They had nothing like the elected assemblies that the English colonies had run for a century and a half. With the king gone, there was no authority that people everywhere accepted, and what took its place, in each region, was the man with the most soldiers. Latin America has a word for the type, *caudillo*, the chief on horseback, and for the next half century most of the new republics were ruled by one.
 
 For the majority, independence changed less than its heroes had promised. The creoles got what they had wanted: the offices, the open trade and no rival above them. Slavery ended slowly, over the following thirty years. The Indians lost the special tax in most places, and with it the legal protection of their village lands, which the big estates swallowed.
 
