@@ -69,8 +69,8 @@ The kingdom of Benin, in what is now southern Nigeria, was one of the first that
 
 Dahomey, a little to the west, made the opposite choice. It was a new kingdom, built for war. In 1727 its king marched to the coast and conquered the port of Whydah, the busiest slave harbour on that stretch of coast. After that the king was the largest seller in his own port, and private merchants paid him for leave to trade beside him. Each year the army went out to raid its neighbours, and each year the prisoners were marched to the sea.
 
-![Black and white engraving of a crowd of armed women and men marching, with a king under an umbrella at their head](images/dalzel.jpg)
-*The king of Dahomey going to war with his army, which included women soldiers. Engraving from Archibald Dalzel's history of Dahomey, published in 1793. Image: Archibald Dalzel, public domain.*
+![Engraving of a procession of men and women with swords, drums, banners and large umbrellas, with a king in a broad hat at its head](images/dalzel.jpg)
+*The king of Dahomey going to war with armed women at his head, among drums, banners and umbrellas. Engraving from Archibald Dalzel's history of Dahomey, published in 1793. Image: Archibald Dalzel, public domain.*
 
 Between and behind these lay others. The Asante, in the forests of what is now Ghana, built an empire on gold and on the captives of their wars, and received European envoys in a capital with broad, swept streets. The horsemen of Oyo, further east, raided the grasslands and sold south to the sea. Each of these states had its own laws about who could be enslaved and who could not, and each bent those laws as the price of a captive rose.
 
