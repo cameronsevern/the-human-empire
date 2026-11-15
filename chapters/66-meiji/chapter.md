@@ -6,6 +6,9 @@ Japan caught up because a small group of young samurai seized the government in 
 
 In March 1854, on a beach south of the city of Edo, a party of American sailors laid a circle of railway track about a hundred metres round. On it they set a steam locomotive, a tender and a passenger carriage, all perfectly made at a quarter of full size. They lit the boiler, and the little train began to run round the circle at thirty kilometres an hour.
 
+![Handscroll painting of American sailors and marines landing from many boats onto a Yokohama beach, with Japanese officials watching](images/perry_landing.jpg)
+*Part of a Japanese handscroll painted between 1854 and 1858, showing the American landing at Yokohama in 1854, with Perry's men drawn up on the beach and Japanese officials looking on. Painting: Hibata Ōsuke, British Museum, public domain.*
+
 It was a present from the president of the United States to the ruler of Japan. The carriage was too small for a grown man to enter. One of the Japanese officials sent to inspect the gifts was not to be put off. He climbed onto the roof, gripped its edge, and was carried round and round the track with his loose robes flying out behind him, grinning with the effort of holding on.
 
 The Americans were amused by the dignified gentleman on the toy train, and wrote about him in their official report. They did not see the scene quite as the Japanese did. To the men in robes, the train was not a toy. It was a sample. They made careful drawings of it, and of the telegraph that the Americans had strung along the shore.
@@ -15,6 +18,9 @@ Fifty-one years later, a Japanese fleet built on those lessons destroyed the mai
 ## Black ships
 
 The ships had first appeared eight months before. On 8 July 1853, four American warships entered the bay that leads to Edo, the shogun's capital, and anchored with their guns run out. Two of them were steamers, larger than any vessel the Japanese had seen, and they moved against the wind trailing black smoke. The townspeople called them the black ships.
+
+![Black-and-white Japanese news sheet with lists of guarding domains and a large drawing of an American steam warship with a paddle wheel and billowing smoke](images/kawaraban.jpg)
+*A Japanese news sheet printed about 1853, when Perry's ships arrived. It lists the domains guarding Edo bay and shows the American steam flagship with its paddle wheel and smoke. Image: public domain.*
 
 Their commander, Commodore Matthew Perry, carried a letter from his president. It asked that Japan open ports where American ships could buy coal and food, treat shipwrecked sailors kindly, and begin to trade. Perry let it be known that he would come back the following year for an answer, with a larger force. He did, with nine ships.
 
@@ -34,6 +40,9 @@ The barbarians declined to be expelled. That summer a British squadron, sent to 
 
 The young samurai of the two domains drew the conclusion at once, and it was not the one their slogan suggested. The foreigners could not be driven out by courage and swords. They could be matched only by learning how they did it. Within months, Satsuma had made friends with the British and ordered rifles and steamships. Chōshū had already smuggled five young men out of the country, at a time when leaving Japan was a crime punishable by death, to study in London. One of them became Japan's first prime minister, and another founded its railways.
 
+![Old photograph of five young Japanese men in Western suits posed on a balustrade in London](images/choshu_five.jpg)
+*The five young men from Chōshū who left Japan in secret to study in London, photographed in 1863. Itō Hirobumi, later Japan's first prime minister, stands at the top right; Inoue Masaru, who later founded Japan's railways, is in the middle. Photo: Maull & Co., public domain.*
+
 ## Restoration
 
 In January 1868 troops from Satsuma and Chōshū seized the gates of the imperial palace in Kyoto. Their leaders read out a proclamation in the name of the emperor. The office of shogun was abolished, and the government of Japan was restored to the throne.
@@ -47,6 +56,9 @@ They announced as much within three months, in a short statement of principles r
 ## Half the government
 
 The new leaders meant this literally. In December 1871, with the country barely pacified, about fifty officials, among them half the leading men of the government, boarded an American steamer and left Japan for nearly two years. They took with them some fifty students, who were to be left at schools abroad. Among the students were five girls. The youngest, who was six, spent eleven years in America, most of them with a family in Washington, and returned to found a college for women.
+
+![Old photograph of five Japanese men, the one in the centre in Japanese robes with a topknot and the other four in Western suits holding top hats](images/iwakura.jpg)
+*The leaders of the mission abroad, photographed in London in 1872. From left: Kido Takayoshi, Yamaguchi Masuka, Iwakura Tomomi, Itō Hirobumi and Ōkubo Toshimichi. Iwakura, the head of the mission, wears Japanese dress; the others wear Western suits. Photo: unknown photographer, public domain.*
 
 The embassy crossed the United States by the new railway, and then visited Britain, France, Germany, Russia and seven other countries. It had hoped to renegotiate the treaties, and learned at its first stop, in Washington, that nothing would be changed until Japan had laws and courts that Westerners could respect. After that it settled down to its second purpose, which was to look.
 
@@ -64,11 +76,17 @@ Japan had been divided into some two hundred and sixty domains, each with its ow
 
 The old ranking of samurai, farmers, craftsmen and merchants was dismantled in the same years. Farmers, craftsmen and merchants became simply commoners, and everyone was now free to take any job, live anywhere and marry anyone. Men were encouraged to cut off the topknot of hair that had been the mark of the old Japan, and the emperor set the example and appeared in a Western military uniform.
 
+![Photograph of the young Emperor Meiji seated in an embroidered Western-style military uniform with a plumed hat on a table beside him](images/meiji_1873.jpg)
+*Emperor Meiji in a Western-style military uniform, photographed by Uchida Kuichi in October 1873, when he was twenty. Photo: Uchida Kuichi, public domain.*
+
 In 1873 the government introduced three things on which everything else depended. The first was a land tax. Farmers were given title deeds to their fields and required to pay three per cent of the land's value every year, in money, whatever the harvest. It gave the state an income that it could count on in advance, and it weighed heavily on the peasants. The second was conscription. Every man of twenty was liable for three years' service in a new national army, armed with rifles and drilled in the European manner. The third was the Western calendar, which put Japan's offices, schools and railways on the same dates as the countries it traded with.
 
 There were schools as well. A law of 1872 declared that there must be no village with an uneducated family and no family with an uneducated child. Every boy and girl was to go to school, and the requirement was later fixed at four years. Japan already had thousands of small private schools and a great many people who could read, so the buildings and the habit were there to build on. Within thirty years, nearly every Japanese child was in a classroom.
 
 In the same year, 1872, the first railway opened, from Tokyo to the port of Yokohama, built with a loan raised in London and driven by British engineers. The emperor rode on the first train. The telegraph, the postal service, a national bank and a new coinage arrived within a few years of one another.
+
+![Colour woodblock print of a steam locomotive and carriages at Yokohama station with ships in the harbour behind](images/railway_print.jpg)
+*A woodblock print of about 1875 showing a train at Yokohama station, with steamers and sailing ships in the harbour behind. The railway between Tokyo and Yokohama had opened in 1872. Print: Hiroshige III, public domain.*
 
 ## The last charge
 
@@ -78,6 +96,9 @@ The following year the samurai of Satsuma rebelled. Their leader was the most ad
 
 The government sent its new conscript army against them, carried by steamship and directed by telegraph. The fighting lasted eight months. The samurai were skilled, brave and short of ammunition, and they were ground down by peasant boys with breech-loading rifles and artillery. In September the last few hundred were surrounded on a hill outside their own capital. They came down at dawn with drawn swords into the rifle fire. The general, hit in the hip, had a follower cut off his head.
 
+![Colour woodblock print of soldiers in black uniforms with rifles fighting samurai with swords on a hillside](images/shiroyama.jpg)
+*The last battle of the Satsuma rebellion, at Shiroyama in 1877, in a picture made the same year. The government's conscripts in Western uniform, with rifles, face the samurai with their swords. Print: Nagashima Mōsai (Utagawa Yoshitora), public domain.*
+
 No samurai army ever took the field again. The men who had ordered its destruction were samurai too.
 
 ## Rich country, strong army
@@ -86,9 +107,15 @@ The government's motto in these years was four characters long: rich country, st
 
 The state supplied it. It built model factories with imported machines and foreign managers, to show how the thing was done: cotton mills, shipyards, cement and glass works, and a great silk-reeling mill with French equipment, staffed at first by the daughters of samurai to show that the work was respectable. When the factories were running, most of them were sold off cheaply to a few merchant families with good connections, whose firms grew into the giant business groups that still dominate the Japanese economy.
 
+![Long brick warehouse with grey wooden shutters and a timber frame beside a road](images/tomioka.jpg)
+*The East Cocoon Warehouse of the Tomioka silk mill, built in 1872 of brick in a timber frame, part of the government's great silk-reeling mill. Photo: Hasec, public domain.*
+
 The money came from silk and from the peasants. Raw silk was Japan's great export, bought mostly by America, and it was reeled from the cocoons by girls in their teens, who worked long days in steam-filled sheds and slept in the mill's dormitories. The land tax paid for most of the rest. Japan borrowed very little abroad, because its leaders had seen what foreign creditors did to countries that could not repay.
 
 In 1889 the emperor presented his people with a constitution. It was modelled on the German one. There was a parliament with an elected lower house, chosen by the one person in a hundred who paid enough tax to vote, and ministers who answered to the emperor alone. The following year a short decree on education was issued in the emperor's name and read aloud in every school on ceremonial days, before his portrait, while the children bowed. It told them to be loyal and obedient and, should an emergency arise, to offer themselves courageously to the state.
+
+![Painting of a vast palace hall with crowds of uniformed officials, ladies in pink gowns and the emperor standing on a red dais](images/constitution.jpg)
+*The emperor presenting the constitution in the palace on 11 February 1889, in a painting made the following year. Ministers and officials in Western-style uniform fill the hall. Painting: Tokonami Masayoshi, public domain.*
 
 The reformers had carried out one of the most sweeping revolutions in history, and they had presented each step as loyalty to the oldest institution in the country. China's rulers had tried to defend an ancient order, and each reform looked to them like a betrayal of it. Japan's rulers had no such difficulty, since they had come to power by overthrowing the previous government and owed it nothing.
 
@@ -103,6 +130,9 @@ In 1894 Japan went to war with China over which of them should control Korea. Th
 The next rival was Russia, which was pushing its railway and its soldiers into the north of China and towards Korea. In February 1904 Japanese torpedo boats attacked the Russian fleet at its anchorage on the Chinese coast, without a declaration of war. On land, the Japanese army won a series of enormous and bloody battles.
 
 Russia's answer was to send its main fleet from the Baltic Sea to the Pacific. It steamed for seven months round Africa and across the Indian Ocean, more than thirty thousand kilometres, coaling at sea. On 27 May 1905 it entered the strait of Tsushima, between Korea and Japan. The Japanese fleet was waiting. By the following evening, of the thirty-eight Russian ships, twenty-one had been sunk, seven had surrendered, and most of the rest had fled to neutral ports. Japan had lost three torpedo boats.
+
+![Painting of Admiral Tōgō standing on the bridge of a battleship surrounded by his officers, with other warships behind](images/togo_mikasa.jpg)
+*Admiral Tōgō Heihachirō (centre) and his officers on the bridge of the battleship Mikasa, painted by Tōjō Shōtarō in 1906, the year after the battle of Tsushima. Painting: Tōjō Shōtarō, public domain.*
 
 No Asian country had beaten a European great power in a war of fleets and mass armies before. The news ran through Asia like an electric current. A schoolboy from India named Jawaharlal Nehru, who would one day lead his country to independence, followed the war in the newspapers and wrote later of how its victories stirred him. A Chinese revolutionary, passing through the Suez Canal, was stopped by local people who asked whether he was Japanese and told him joyfully that Russia's fleet had been destroyed.
 
