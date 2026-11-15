@@ -16,6 +16,9 @@ The Frenchman was Alexis de Tocqueville, and the book he wrote about America is 
 
 When Britain recognised its independence in 1783, the United States reached from the Atlantic to the Mississippi. Twenty years later it doubled in a single afternoon.
 
+![Map of the growth of the United States: the land recognised by Britain in 1783, Louisiana bought from France in 1803, Florida from Spain in 1819, Texas annexed in 1845, Oregon divided with Britain in 1846, the land taken from Mexico in 1848 and the strip bought from Mexico in 1853, with the Cherokee homeland and a dashed arrow of 1838 to Indian Territory, a dotted outline of the Comanche range, and the railway of 1869 from Omaha by Promontory to Sacramento](images/map_growth.png)
+*How the United States grew, 1783 to 1853, with the Cherokee homeland and their road west in 1838, the range of the Comanche, and the railway finished in 1869. The areas are simplified and the Comanche range is drawn roughly. Map: drawn for this book; coastlines and rivers from Natural Earth, public domain.*
+
 Napoleon held the title to Louisiana, an immense block of the continent between the Mississippi and the Rocky Mountains, which France had recently got back from Spain. He had meant it to feed his sugar colony in the Caribbean. When the army he sent to that colony was being destroyed by the former slaves of Haiti and by yellow fever, the plan collapsed. The American envoys in Paris had come to ask whether they might buy one city, New Orleans, at the river's mouth. They were asked instead what they would give for the whole territory.
 
 They paid fifteen million dollars for about two million square kilometres, which works out at roughly three cents an acre.

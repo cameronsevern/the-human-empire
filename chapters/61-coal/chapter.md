@@ -135,6 +135,9 @@ Follow a single thread of cotton around 1850, and it runs across half the world.
 
 It begins as a white boll in a field in the American South. It is picked, cleaned of its seeds, pressed into a bale, and shipped across the Atlantic to Liverpool. From there it goes by rail or canal to a mill in or near Manchester, where it is spun into thread and woven into cloth. Then much of that cloth is shipped out again, to Europe, to the Americas, to Africa, and to India.
 
+![World map of the cotton trade about 1850: the cotton fields of the American South shaded, a solid arrow carrying raw cotton from New Orleans across the Atlantic to Liverpool, and dashed arrows carrying cloth out again to Europe, to South America, to West Africa, and round the Cape of Good Hope to Bengal in India, with an inset of Liverpool and Manchester joined by the railway of 1830](images/map_cotton_thread.png)
+*The thread of cotton about 1850: raw cotton from the American South to Liverpool, and cloth from the mills around Manchester out again to the world. The cotton fields are drawn roughly, and the sea routes show where the goods went, not the ships' tracks. Map: drawn for this book; coastlines and rivers from Natural Earth, public domain.*
+
 Four people stand along that thread. They would never meet. Each lived the way they did partly because of the others.
 
 The first is a child in a mill. Matthew Crabtree started work at the age of eight, a little before 1820, in a woollen mill in Yorkshire that made blankets. It was not a cotton mill, but the hours and the discipline were of the same kind. He lived two miles from the mill. In ordinary times he worked from six in the morning until eight at night, with an hour off at noon. When trade was brisk, he worked from five in the morning until nine.

@@ -63,6 +63,9 @@ In later years it was often said that the South had fought for the rights of the
 
 On paper the contest was uneven. The states that stayed in the Union, including four slave states on the border, had twenty-two million people. The Confederacy had nine million, of whom three and a half million were enslaved. The North made nine tenths of the country's manufactured goods, including nearly all its guns and locomotives, and it had more than twice the South's length of railway.
 
+![Map of the United States in 1861 with the free states, the four slave states that stayed in the Union (Missouri, Kentucky, Maryland and Delaware), the eleven Confederate states named, and the western territories and Indian Territory, with Fort Sumter and Atlanta, and an inset of Virginia and Maryland showing Washington, Richmond, Fort Monroe, Antietam, Gettysburg and Appomattox](images/map_1861.png)
+*The United States in 1861: the free states, the slave states that stayed in the Union, the Confederacy and the territories, with the places of the war from Fort Sumter in 1861 to Appomattox in 1865. Virginia is shown whole, as it was before West Virginia split from it in 1863. The state lines are simplified. Map: drawn for this book; coastlines and rivers from Natural Earth, public domain.*
+
 The South, however, did not need to conquer anybody. It needed only to hold on until the North grew tired. Its territory was the size of western Europe. Its officers included many of the best in the old army, and its soldiers were defending their homes.
 
 Southern leaders were also counting on cotton. Nearly half a million people worked in the cotton mills of England, and several times that number lived by the trade. If the supply were cut off, they reasoned, the mills would close, the workers would riot, and Britain would be forced to break the Union's naval blockade and recognise the Confederacy. One senator had put it in three words before the war: cotton is king.

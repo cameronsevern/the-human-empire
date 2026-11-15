@@ -76,6 +76,38 @@ def smooth(pts, n=16, closed=False):
     return np.array(out)
 
 
+def course(name, start, stop, step=6):
+    """The Natural Earth line of a river, from the vertex nearest start to the vertex nearest stop. The pieces
+    of the river are chained end to end, beginning with the piece nearest start."""
+    _load()
+    rows = _rivers[_rivers["name"].fillna("").str.lower() == name.lower()]
+    parts = [np.array(l.coords) for g in rows.geometry for l in getattr(g, "geoms", [g])]
+    near = lambda c, p: float(np.min(np.hypot(*(c - p).T)))
+    first = min(parts, key=lambda c: near(c, np.array(start)))
+    parts = [c for c in parts if c is not first]
+    d0, d1 = np.hypot(*(first[0] - start)), np.hypot(*(first[-1] - start))
+    if min(d0, d1) < 0.3:                         # start lies at an end of the first piece: run away from it
+        flip = d0 > d1
+    else:                                         # start lies within it: run towards stop
+        flip = np.hypot(*(first[-1] - np.array(stop))) > np.hypot(*(first[0] - np.array(stop)))
+    if flip:
+        first = first[::-1]
+    chain = [first]
+    while parts:
+        end = chain[-1][-1]
+        best = min(parts, key=lambda c: min(np.hypot(*(c[0] - end)), np.hypot(*(c[-1] - end))))
+        if min(np.hypot(*(best[0] - end)), np.hypot(*(best[-1] - end))) > 0.5:
+            break
+        parts = [c for c in parts if c is not best]
+        chain.append(best if np.hypot(*(best[0] - end)) <= np.hypot(*(best[-1] - end)) else best[::-1])
+    c = np.vstack(chain)
+    i = int(np.argmin(np.hypot(*(c - start).T)))
+    j = int(np.argmin(np.hypot(*(c - stop).T)))
+    seg = c[i:j + 1] if i <= j else c[j:i + 1][::-1]
+    pts = [tuple(p) for p in seg[::step]]
+    return pts + [tuple(seg[-1])]
+
+
 class Map:
     def __init__(self, west, east, south, north, width=16.0, lakes=True):
         _load()
@@ -138,13 +170,24 @@ class Map:
                     xy = np.array(line.coords)
                     self.ax.plot(xy[:, 0], xy[:, 1], color=WATER, lw=lw, solid_capstyle="round", zorder=2.5)
 
-    def region(self, pts, colour="red", alpha=0.42, edge=True, hatch=None, land_only=True, smooth_n=14):
-        """A soft-cornered area through the given (lon, lat) points, clipped to the land."""
+    def region(self, pts, colour="red", alpha=0.42, edge=True, hatch=None, land_only=True, smooth_n=14, cut=None,
+               lakes_out=False):
+        """A soft-cornered area through the given (lon, lat) points, clipped to the land.
+        pts may also be a shapely geometry; cut is a list of geometries (or point lists) taken out of it;
+        lakes_out=True leaves the large lakes unshaded."""
         from shapely.geometry import Polygon
-        c = smooth(pts, n=smooth_n, closed=True)
-        poly = Polygon(c).buffer(0)
+        if hasattr(pts, "geom_type"):
+            poly = pts
+        else:
+            c = smooth(pts, n=smooth_n, closed=True)
+            poly = Polygon(c).buffer(0)
+        for g in cut or []:
+            poly = poly.difference(g if hasattr(g, "geom_type") else Polygon(g).buffer(0))
         if land_only:
             poly = poly.intersection(self.land)
+        if lakes_out:
+            big = _lakes[(_lakes["scalerank"].fillna(0) <= 1)]
+            poly = poly.difference(unary_union([self._wrap(g) for g in big.geometry]))
         fc = FILL.get(colour, colour)
         for p in getattr(poly, "geoms", [poly]):
             if p.is_empty or p.geom_type != "Polygon":

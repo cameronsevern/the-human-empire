@@ -60,6 +60,9 @@ What turned a rebellion into an emancipation was France's own war.
 
 In 1793 the French republic executed its king and found itself fighting Britain and Spain as well as the powers of central Europe. Both had colonies next door to Saint-Domingue. Spain, which held the eastern two thirds of the island, armed the black rebels and gave their leaders Spanish commissions. Britain, invited in by the white planters, prepared to invade from Jamaica and take the richest colony in the world for itself.
 
+![Map of the island of Hispaniola about 1791, with French Saint-Domingue in the west and Spanish Santo Domingo in the east divided by a dashed frontier, the northern plain shaded beside Cap-Français, Port-au-Prince, and an inset showing the island in the Caribbean with Cuba, Jamaica and Louisiana](images/map_hispaniola.png)
+*Hispaniola about 1791: French Saint-Domingue in the west and Spanish Santo Domingo in the east, with the northern plain where the rising began. The frontier and the plain are drawn roughly. Map: drawn for this book; coastlines and rivers from Natural Earth, public domain.*
+
 The French republic's representative on the island was a young lawyer who had been sent out with a few thousand soldiers to restore order. By the summer of 1793 he was facing the planters, the Spanish and the British at once, and his soldiers were dying of fever. There was one large body of fighting men on the island, and it was the people in revolt. In August he issued a decree declaring all the slaves in the north free. He had no authority to do it. By the end of October his fellow commissioner had done the same in the rest of the colony.
 
 He then sent three delegates to Paris to explain himself: a white man, a man of mixed descent, and a black former slave. They arrived in February 1794. When they told the assembly what had been done, a member rose to propose that slavery be abolished in every French colony, and it was voted at once by acclamation.
