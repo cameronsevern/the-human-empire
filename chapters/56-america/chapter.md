@@ -32,6 +32,9 @@ They were also used to running their own affairs. Most colonies had a governor a
 
 In 1765 Parliament passed the Stamp Act. From then on, every legal document, newspaper, pamphlet, licence and pack of playing cards in the colonies had to carry an official stamp, which cost money. Britain had had such a tax for seventy years.
 
+![Sheet of small red-brown stamps marked AMERICA and ONE PENNY, each with a crown, above handwritten notes](images/stamps.jpg)
+*Proof sheet of the one-penny stamps printed for the Stamp Act, 1765.*
+
 The ministers could hardly have chosen worse. The tax fell hardest on lawyers, printers, merchants and tavern keepers, who were the most articulate and best-connected people in America. Within months, crowds had burned the stamp distributors in effigy and pulled down their houses, and nearly all of them had resigned before the tax came into force.
 
 The colonists' argument was a simple one, and they had it from England. In 1689 the English had settled that the king could not take his subjects' money without the consent of their representatives in Parliament. The colonists considered themselves English subjects with all the same rights. They elected nobody to Parliament. Their representatives sat in their own assemblies, and those assemblies alone could tax them. A tax voted in London was money taken without consent, which was the definition of tyranny. The phrase that summed it up was "no taxation without representation".
@@ -44,7 +47,13 @@ For the next ten years the two sides repeated this argument, and each round left
 
 Meanwhile soldiers had been sent to Boston to keep order, and they were about as welcome as an occupying army anywhere. On a snowy night in 1770 a squad of them, cornered by a crowd throwing ice and oyster shells, fired their muskets and killed five men. Boston's printers turned it into a massacre, and engravings of the scene went up in taverns across the colonies.
 
+![Hand-coloured engraving of redcoats firing into a crowd in a Boston street, with verses below](images/massacre.jpg)
+*Paul Revere's engraving of the Boston shooting of 1770, made to turn the event into a cause. It is propaganda, and shows the crowd as peaceful.*
+
 Then came the tea. The government treated its destruction as the last straw. It closed the port of Boston until the tea was paid for, rewrote the colony's charter so that its council was appointed by the king and its town meetings were restricted, and sent a general to govern. This was the mistake that united the colonies. Men in Virginia and Pennsylvania who had thought the Bostonians hot-headed now saw a government tearing up a colony's constitution by an act passed three thousand miles away. Delegates from twelve colonies met in Philadelphia, in a body they called the Continental Congress, to concert their response, and across New England farmers began to drill on village greens.
+
+![Print of men holding down a tarred and feathered man and pouring tea into his mouth, with ships and a Liberty Tree behind](images/excise.jpg)
+*A London print of 1774 attacking Boston's protests. A customs man is tarred, feathered and forced to drink tea, while tea is thrown from a ship behind.*
 
 In April 1775 the general in Boston sent seven hundred soldiers out by night to seize a store of gunpowder in a village twenty miles away. Riders went ahead of them to raise the alarm. At dawn the soldiers found about seventy armed farmers drawn up on the green of a village on their road. Somebody fired. When the smoke cleared, eight Americans were dead. By the time the column got back to Boston that evening, militiamen firing from behind walls and trees along the whole route had killed or wounded about two hundred and fifty of the king's troops.
 
@@ -54,11 +63,17 @@ Even then, most colonists did not want independence. They saw themselves as loya
 
 What changed their minds was forty-seven pages of print. In January 1776 a pamphlet called *Common Sense* appeared in Philadelphia. Its author, Thomas Paine, was an Englishman who had landed in America barely a year before, after failing as a corset maker, a tax collector and a husband. He wrote in the language of the tavern and the pulpit, with no Latin in it.
 
+![Title page of Common Sense, addressed to the inhabitants of America, Philadelphia, 1776](images/common_sense.jpg)
+*The title page of Common Sense, Philadelphia, 1776.*
+
 Paine said what the politicians had been too cautious to say. The quarrel was not with ministers. It was with the king, and with the whole notion of kings. Hereditary monarchy was an absurdity, since nature would not so often give mankind an ass for a lion. It was equally absurd for a continent to be governed for ever by an island. America had a chance that came to few peoples in history, to begin the world over again.
 
 The pamphlet sold something like a hundred thousand copies in a few months, in a country with fewer free adults than a large modern city. It was read aloud to Washington's soldiers.
 
 That July the Congress in Philadelphia voted for independence, and published a declaration to explain themselves. Most of it is a list of complaints against the king. The second paragraph is the part the world remembers. It states, as truths that need no proof, that all men are created equal, that they are born with rights that cannot be taken away, among them life, liberty and the pursuit of happiness, and that governments get their just powers from the consent of the governed. When a government destroys those rights, the people may abolish it.
+
+![Printed broadside headed A Declaration by the Representatives of the United States of America](images/broadside.jpg)
+*The first printed copy of the Declaration of Independence, run off by John Dunlap in Philadelphia on 4 July 1776.*
 
 The ideas were not new. They came from the English philosopher who had justified the removal of a king in 1689, and from a generation of French and Scottish writers who had argued that human affairs could be set in order by reason, as Newton had set in order the planets. The English had acted on them twice and each time ended up with a king. The Americans proposed to build a whole country on them and nothing else.
 
@@ -69,6 +84,9 @@ The man who drafted those sentences, Thomas Jefferson of Virginia, owned nearly 
 One person in five in the thirteen colonies was enslaved. The contradiction was obvious, and the colonists' enemies enjoyed pointing it out. How is it, asked the English writer Samuel Johnson, that we hear the loudest yelps for liberty among the drivers of negroes? Jefferson's draft had included a passage blaming the king for the slave trade. The delegates cut it, at the insistence of the colonies that lived by slavery and those whose ships carried the slaves.
 
 Enslaved people drew their own conclusions about which side stood for liberty. In 1775 the royal governor of Virginia offered freedom to any slave of a rebel master who reached the British lines and would fight. Over the course of the war, tens of thousands tried. Many died of smallpox in the British camps. When the British finally sailed away, they took about three thousand of these men and women with them to Nova Scotia as free people, their names entered one by one in a ledger so that their former owners could claim compensation. Several of those named had belonged to George Washington.
+
+![Printed certificate with handwritten name Cato Ramsay, dated New York, 21 April 1783](images/negroes.png)
+*A British certificate of April 1783, allowing a Black man who had reached British lines to go to Nova Scotia, from the evacuation of New York.*
 
 The Native nations of the interior made the same calculation. The British government had drawn a line along the mountains in 1763 and forbidden the colonists to settle beyond it. That line was one of the colonists' grievances, and most Native peoples therefore judged that the king was the lesser danger. They were right, and it did them no good.
 
@@ -86,6 +104,9 @@ The war was decided by a third party. France had not forgiven its defeat of 1763
 
 In 1781 the main British army in the south marched to the coast of Virginia, to a small tobacco port called Yorktown, expecting the navy to supply it. A French fleet arrived first and shut the bay. Washington marched south with an army half of which was French. After a siege of three weeks the British general surrendered, and more than seven thousand soldiers marched out between the French and American lines and laid down their muskets. Two years later Britain recognised the United States as an independent country.
 
+![Painting of British officers surrendering to mounted American and French officers under a white flag and an American flag](images/yorktown.jpg)
+*The surrender at Yorktown in 1781, painted by John Trumbull in 1820, a later imagining.*
+
 ## A machine on paper
 
 The Americans now had to govern themselves, and their first attempt was a failure. The thirteen states had bound themselves in a loose league, with a Congress that could neither tax nor enforce its decisions. It could not pay the soldiers or the interest on the war debt. By 1786 farmers in Massachusetts, crushed by taxes and debts, had taken up arms against their own state government.
@@ -93,6 +114,9 @@ The Americans now had to govern themselves, and their first attempt was a failur
 In the summer of 1787, fifty-five men met in Philadelphia, in the room where independence had been declared, and kept the windows shut so that nobody could listen. In four months they wrote a constitution.
 
 It is a short document, and it reads like the plan for a machine. Its authors had studied the republics of Greece and Rome and had noticed that they all ended in tyranny or chaos. Their own experience had taught them to fear two things: a ruler with too much power, and a majority with too much power. Their solution was to divide the government into parts and set the parts against one another. A president would carry out the laws, a Congress of two houses would make them, and judges would interpret them. Each could block the others. The president can refuse to sign a law, for example, and Congress can pass it over his refusal only if two thirds of both houses agree. Ambition, one of the authors explained, must be made to counteract ambition.
+
+![First page of the printed Constitution, beginning We the People of the United States](images/constitution.jpg)
+*The first page of the Constitution as printed in Philadelphia in September 1787.*
 
 Nothing in it came from God or from birth. There was to be no king, no nobility and no national church. The first three words, written large, are "We the People".
 
@@ -105,6 +129,9 @@ To get the constitution accepted, its supporters promised a list of rights that 
 ## The key
 
 When the war ended, Washington was the most powerful man in America, at the head of an unpaid and angry army. One of his colonels had written to suggest that he make himself king, and had received a furious reply. When a group of officers began to talk of marching on Congress to get their pay, he called them together and shamed them out of it. A few months later he rode to where Congress was sitting, handed back his commission, and went home to his farm.
+
+![Marble statue of George Washington in uniform, one hand on a bundle of rods, in a domed hall](images/houdon.jpg)
+*George Washington in marble, by the French sculptor Jean-Antoine Houdon, begun in 1785. Photo: AlbertHerring, CC BY 3.0.*
 
 King George, when he was told what Washington meant to do, is reported to have said that if he did it he would be the greatest man in the world. Generals who win revolutions do not usually give the power back.
 
