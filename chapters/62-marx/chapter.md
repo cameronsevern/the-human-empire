@@ -10,13 +10,22 @@ The exile was a doctor of philosophy who had been thrown out of Germany, France 
 
 Most mornings he walked to the library of the British Museum, sat at a desk in the reading room, and worked until it closed. He was reading the reports of the British government's factory inspectors, shelf after shelf of them, and the works of every economist he could find. What kept the family alive was money sent by a friend who managed a cotton mill in Manchester.
 
+![A wood engraving of a large domed building under construction, wrapped in scaffolding, with carts and horses in the foreground](images/readingroom.jpg)
+*The new reading room of the British Museum under construction, in a wood engraving of 1855. The reading room where Marx worked opened in 1857. Print: J. Brown after C. W. Sheeres, Wellcome Collection, CC BY 4.0.*
+
 His name was Karl Marx. The book he was writing argued that the system which produced the cotton mill was doomed, and it would be read, within a lifetime of his death, as holy writ by the rulers of a third of the world.
+
+![Karl Marx seated in a chair, with a full grey beard and a dark coat](images/marx.jpg)
+*Karl Marx, in a photograph made before 1875. Photo: John Jabez Edwin Mayall, public domain.*
 
 ## Eighteen operations
 
 The argument that Marx set out to demolish had been made eighty years earlier by a Scottish professor, and it started with a pin.
 
 In 1776 Adam Smith published a book on what makes a country rich. In its opening pages he took his readers to a workshop where pins were made. A man working by himself, Smith said, could scarcely make one pin in a day, and certainly not twenty. In the workshop, the job was split into about eighteen separate operations. One man drew out the wire, another straightened it, a third cut it, a fourth sharpened the point, and so on. Ten men working in this way made forty-eight thousand pins a day.
+
+![An engraved plate of a pin-making workshop with boys and men at wheels and benches, and drawings of the tools below](images/pins.jpg)
+*Pin-making, from a French encyclopedia of 1762, fourteen years before Smith's book. The workshop at the top shows the work divided among several hands. Engraving: Goussier and Defehrt, public domain.*
 
 From this small example Smith drew a large conclusion. Wealth comes from dividing up work, so that each person does one thing and does it well. Dividing up work means that everybody depends on strangers for nearly everything they use. What makes those strangers serve one another? Their own advantage. It is not from the kindness of the butcher, the brewer or the baker that we expect our dinner, Smith wrote, but from their regard to their own interest. Each of them is trying to make a living. In an open market, where customers can go elsewhere, the way to make a living is to offer people what they want at a price they will pay.
 
@@ -36,6 +45,9 @@ The government then treated the unrest as a rebellion. It made the breaking of a
 
 Peaceful organising fared little better. From 1799 a law forbade workers to combine in order to press for higher wages or shorter hours. It was known that masters met to agree on wages, and they were not prosecuted. In 1819 some sixty thousand people gathered in a field in Manchester to hear speeches calling for ordinary men to have the vote. The magistrates sent in cavalry with drawn sabres. About eighteen people were killed and several hundred hurt. Fifteen years later, six farm labourers in a village in the south of England were shipped to Australia in chains for swearing an oath to a union.
 
+![A coloured print of mounted soldiers with raised sabres cutting down a crowd of men and women on the ground](images/peterloo.jpg)
+*The Manchester meeting of 1819 as a London satirist drew it, in a print published that year. The yeomanry are shown as butchers. Print: George Cruikshank, public domain.*
+
 ## A free bargain
 
 The men who owned the new mills had a clear conscience, and Smith's book, read selectively, supplied it.
@@ -48,6 +60,9 @@ What finished the grain tax was a catastrophe that showed the creed at its harsh
 
 In the same decade a young German arrived in Manchester to learn the family business. Friedrich Engels was twenty-two, tall, cheerful and fond of fox hunting, and his father was part owner of a cotton-thread mill there. By day he worked in the office. In the evenings an Irish mill girl named Mary Burns, with whom he lived for the next twenty years, took him through the districts where the mill hands lived.
 
+![Friedrich Engels in profile, with a full grey beard](images/engels.jpg)
+*Friedrich Engels in later life, long after his years in the Manchester mill. Photo: unknown, public domain.*
+
 He saw cellars where families slept on dirty straw, courts where more than a hundred people shared one privy, and a river that ran black between the factories. On his way home to Germany he stopped in Paris, where he met Marx in a café, and the two talked for ten days. Then he wrote a furious book about what he had seen, full of the British government's own statistics.
 
 ## A mill with a school
@@ -55,6 +70,9 @@ He saw cellars where families slept on dirty straw, courts where more than a hun
 Not everyone who disliked what the factories were doing concluded that the system must go. Some thought that it could be run decently, and one man proved it.
 
 Robert Owen was a Welsh shop assistant who had risen to manage a great cotton mill before he was thirty. In 1800 he took over a large mill beside a waterfall in Scotland, with two thousand workers, many of them orphans supplied by the poorhouses. He stopped employing children under ten and sent them to a school that he built, where there was no beating. He cut the working day, opened a shop that sold good food at cost, and paid wages during a slump when the mill stood idle. The mill went on making handsome profits. Princes and bishops came to look.
+
+![A tall stone mill building and stone workers' houses on a wooded hillside](images/lanark.jpg)
+*The mill and mill village at New Lanark in Scotland, where Robert Owen began running the works in 1800. The buildings stand today. Photo: Phil Barker, CC BY-SA 4.0.*
 
 Owen drew the conclusion that people are made by their surroundings. Give them clean houses, schooling and fair treatment, and they will be healthy and honest. Crowd them into slums and work them like animals, and nobody should be surprised by the result. He tried for years to persuade his fellow manufacturers and Parliament to follow his example. When they would not, he decided that competition itself was the evil, and that people should live in villages where everything was owned and shared in common.
 
@@ -68,11 +86,20 @@ Most working people put their hopes in something simpler. If Parliament made the
 
 In 1838 a group of London craftsmen drew up a document that they called the People's Charter. It made six demands: a vote for every man, voting in secret, pay for members of Parliament so that a poor man could serve, no property requirement for members, districts of equal size, and an election every year. Three times, in 1839, 1842 and 1848, enormous petitions in support of it were carried to Parliament. The second had more than three million signatures. Each time the House of Commons declined to act.
 
+![An early photograph of a huge crowd of men in top hats around a platform, with a tall chimney behind](images/kennington.jpg)
+*The Chartist meeting on Kennington Common in south London, 10 April 1848, photographed by William Kilburn. Photo: William Edward Kilburn, public domain.*
+
 The third petition was presented in the spring of 1848, and Europe was on fire that spring. In February the people of Paris had thrown out their king and declared a republic. Within weeks there were barricades in Vienna, Berlin, Milan and Budapest, and half the monarchs of the continent were promising constitutions. In Paris the new government set up public workshops for the unemployed, and when it closed them in June, the workers of the eastern districts rose. The army killed several thousand of them in four days.
+
+![An oil painting of men in shirtsleeves on a rubble barricade with a red flag, facing soldiers, with the Pantheon dome behind](images/barricade.jpg)
+*A barricade in the rue Soufflot, Paris, on 25 June 1848, during the workers' rising, painted by Horace Vernet in 1848 or 1849. Painting: Horace Vernet, public domain.*
 
 By the end of the following year the revolutionaries had been beaten almost everywhere. The kings took back most of what they had promised.
 
 A few days before the first shots were fired in Paris, a pamphlet of twenty-three pages had been printed in German on a hand press in London. It had been commissioned by a tiny society of exiled German craftsmen, and written in a hurry by Marx, with Engels's help. It was called the *Manifesto of the Communist Party*. Hardly anyone noticed it at the time.
+
+![The green paper cover of the Manifest der Kommunistischen Partei, with a decorated black border and the words printed in black German type](images/manifesto.png)
+*The cover of the first edition of the Manifesto, printed in London in February 1848, in German. Cover: Marx and Engels, public domain.*
 
 ## Nothing to lose
 
@@ -101,3 +128,7 @@ In Germany, where a socialist party that honoured Marx was winning seats, the re
 Capitalism had bent where Marx had expected it to break, and one of the things that bent it was the fear he inspired. He had been right about a good deal all the same. The slumps came as he said they would, the giant firms grew, and the search for markets and materials drove the factory system into every corner of the Earth. He had been wrong about the end of the story in the lands of the factory. When a revolution was finally made in his name, it happened in Russia, a country of peasants.
 
 He died in his armchair in March 1883 and was buried in a cemetery in north London. About a dozen people attended. Engels gave the address, and told them that his friend's name and work would endure through the ages.
+
+
+![A bronze bust of Marx on a granite block with gilt lettering, flowers at its foot, among trees](images/grave.jpg)
+*Marx's grave in Highgate Cemetery, north London. He died in 1883. Photo: Satdeep Gill, CC BY-SA 4.0.*
