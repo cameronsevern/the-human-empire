@@ -30,13 +30,14 @@ The engine served a business that already existed. What was new was what it did 
 
 A boiler at the bottom, rather like a giant copper kettle, makes steam. The steam rises into a tall upright cylinder, a bit like a huge bicycle pump standing on end, and fills the space under a piston. Then a jet of cold water is sprayed inside. The steam turns back into a few drops of water, and since water takes up far less room than steam, it leaves almost nothing behind it. There is now a partial vacuum under the piston.
 
+![Black and white plate of a Newcomen engine in section, with a boiler below, a cylinder above it and a huge wooden beam rocking over the wall](images/newcomen.jpg)
+*A Newcomen engine: boiler below, cylinder above it, and the great rocking beam on the right. From a 1744 book, after an engraving of 1717 of an engine at Griff, Worcestershire. Public domain.*
+
 Above the piston is the ordinary air of the engine house, and air is heavy. We do not notice its weight because it presses on us from every side. But with almost nothing pushing back from below, the weight of the air shoves the piston down hard. The piston is chained to one end of a great wooden beam balanced in the middle like a seesaw. As that end comes down, the other end rises, lifting the long rods that work the pumps at the bottom of the mine. Then steam is let in again, the heavy pump rods pull their end of the beam back down and the piston back up, and the whole thing repeats.
 
 The point to hold on to is that the steam does not push. The atmosphere does. Steam is used only to make an empty space, and the sky does the work.
 
 The flaw is built into the design. Every stroke, the cold spray chills the whole iron cylinder. The next puff of steam has to heat it up again before it can fill it, and most of that steam simply turns back into water on the cold metal. The engine spends nearly all its fuel warming and cooling itself.
-
-*[Diagram: the Newcomen engine, one cycle in four steps]*
 
 Newcomen was not a scholar. He was a dealer in iron goods from Dartmouth in Devon, who worked with a partner, a plumber and glazier. Neither was a member of any learned society.
 
@@ -54,11 +55,12 @@ But there was one place where the waste really hurt. In Cornwall, at the far sou
 
 The better one began with a toy. In the early 1760s the University of Glasgow gave a model Newcomen engine to the instrument maker who looked after its scientific equipment, and asked him to repair it. His name was James Watt.
 
+![Portrait of a white-haired man in a dark coat and white neckcloth against a dark background](images/watt.jpg)
+*James Watt, painted by William Beechey. Public domain.*
+
 Watt got the model going, and was struck by how much steam it swallowed. A small engine could barely keep itself running. He worked out why. Every stroke, the spray of cold water cooled the cylinder, and the next charge of steam wasted itself heating the cylinder back up. It was like warming an oven, throwing a bucket of cold water into it, and warming it again, for every single loaf.
 
 In 1765 he saw the answer. Do the cooling somewhere else. Watt added a second, separate chamber, joined to the cylinder by a pipe and kept cold all the time. When the steam had filled the cylinder, a valve opened, the steam rushed into the cold chamber, and it condensed there. The vacuum still formed under the piston, and the piston was still driven down into it. But the cylinder itself was never chilled. It could be kept hot, even wrapped to keep the heat in, and fresh steam no longer had to warm it up each time.
-
-*[Diagram: Watt's separate condenser beside the Newcomen cylinder]*
 
 Making the idea work took about ten years. Watt patented his condenser in 1769, but his engines would not hold their vacuum. A piston has to fit its cylinder closely, and the craftsmen of the day could not bore a large iron cylinder truly round. Steam and air slipped through the gaps.
 
@@ -73,6 +75,9 @@ Watt had reduced the waste greatly. He had not ended it. His engine still turned
 There was still one strange limit. For seventy years after Dudley Castle, the steam engine did one thing: it rocked a beam up and down. That suits a pump perfectly, and almost nothing else. A few mill owners found a roundabout way to use it. They set an engine to pump water from below their waterwheel back up to the millpond above it, so that the same water could fall over the wheel again. The engine did not drive the mill. It refilled the river.
 
 In the early 1780s, pushed by Boulton, who could see a much bigger market, Watt adapted his engine to turn a shaft round and round, the way a pedal turns a bicycle wheel. Now a steam engine could drive machinery directly.
+
+![Two large toothed iron wheels geared together beside a huge spoked flywheel and heavy timber beams, lit against a brick wall](images/bw.jpg)
+*The sun-and-planet gear that Watt patented in 1781, which turned the beam's up-and-down rocking into a spinning shaft, in the National Museum of Scotland. Photo: dun_deagh, CC BY-SA 2.0.*
 
 But what machinery? Wheels had been turning in Britain for centuries, in corn mills and forges, driven by water, wind and horses. One new kind of machine was about to want more turning than all of them, and it came from a quite different direction: a fashion for Indian cloth.
 
@@ -90,11 +95,15 @@ In the 1760s and 1770s a run of inventions broke the bottleneck. The first, the 
 
 Arkwright found his power in water. In 1771 and 1772 he built a mill at Cromford, in a steep valley in Derbyshire, where a stream turned a waterwheel. The wheel drove hundreds of spindles at once, through shafts and belts that ran up through the building. The mill worked day and night in two twelve-hour shifts. Many of the workers were children, hired because they were cheap, and everyone worked to the clock and to the speed of the wheel.
 
+![A three-storey stone mill with rows of white windows beside a stream, with excavated foundations and a rock face to the right](images/cromford.jpg)
+*Arkwright's first mill at Cromford in Derbyshire, built in 1771, beside the stream that turned its waterwheel. Photo: Humphrey Bolton, CC BY-SA 2.0.*
+
 Cromford was not the first factory of any kind. A silk mill at Derby had used water power to drive machines decades earlier. But Cromford set the pattern for cotton: one big building, one power source, many machines, and many workers kept to a timetable. Arkwright built more mills, was widely copied, and grew very rich.
 
 A few years later came the spinning mule, which combined ideas from the jenny and Arkwright's machine and could make finer thread. Skilled spinners still ran the early mules.
 
-*[Image: a mule-spinning room in a cotton mill]*
+![Engraving of a long cotton mill room under a timbered roof, with iron spinning mules on rails, a man leaning on the machine and a small figure crawling on the floor](images/mule.jpg)
+*A mule-spinning room, engraved for Edward Baines's History of the Cotton Manufacture in 1835. A spinner walks beside the carriage while a small figure crawls on the floor at the right. Public domain.*
 
 The result, over the next two generations, was astonishing. In 1780 it took about 2,000 hours of a worker's time to spin a hundred pounds of fine cotton thread. By 1825 it took about 135. That is the difference between a year of full-time work and three or four weeks.
 
@@ -112,8 +121,6 @@ A steam engine had few of these problems. It needed coal, and some water for its
 
 Coal could now be brought almost anywhere. In 1761 a duke with coal mines near Manchester opened a canal to carry his coal into the town, and within a year the price of coal in Manchester fell by about half. Canals spread across northern England. A barge pulled by a single horse could carry what dozens of packhorses had carried, and coal travelled cheaply to wherever the engines were.
 
-*[Map: British coalfields, canals and cotton towns about 1800, with Cornwall marked]*
-
 Manchester shows how it came together. It was already a cloth town long before steam, the trading centre for the spinners and weavers of the surrounding countryside. But the land around it was poor in good water sites. When the cotton boom came, Manchester's mill owners turned to engines, and from about 1820 the steam engine became the normal power source for cotton mills in general. The town grew from about 23,000 people in the 1770s to about 300,000 by 1851. Its mills stood many storeys high in rows along the canals, each with a tall chimney, and the smoke hung over it so thickly that visitors came from all over the world to stare.
 
 Was there another way? Engineers thought so. A Scottish engineer who ran a water-powered cotton mill showed what could be done. In the 1820s he built a great reservoir in the hills above the port of Greenock, on the Clyde, with an aqueduct several miles long to bring its water down. The water turned wheels that drove a paper mill, cotton and woollen mills, sugar refineries and an iron foundry. James Watt himself had once said such a scheme was impractical.
@@ -128,8 +135,6 @@ Follow a single thread of cotton around 1850, and it runs across half the world.
 
 It begins as a white boll in a field in the American South. It is picked, cleaned of its seeds, pressed into a bale, and shipped across the Atlantic to Liverpool. From there it goes by rail or canal to a mill in or near Manchester, where it is spun into thread and woven into cloth. Then much of that cloth is shipped out again, to Europe, to the Americas, to Africa, and to India.
 
-*[Map: the cotton thread, from the American South to Liverpool to Manchester and out to export markets, about 1850]*
-
 Four people stand along that thread. They would never meet. Each lived the way they did partly because of the others.
 
 The first is a child in a mill. Matthew Crabtree started work at the age of eight, a little before 1820, in a woollen mill in Yorkshire that made blankets. It was not a cotton mill, but the hours and the discipline were of the same kind. He lived two miles from the mill. In ordinary times he worked from six in the morning until eight at night, with an hour off at noon. When trade was brisk, he worked from five in the morning until nine.
@@ -138,13 +143,17 @@ The machines set the pace. The overseer in charge of a group of children had to 
 
 He told this in 1832, as a young man of twenty-two, to a committee of Parliament that had been assembled to make the case for a shorter working day. The questions were chosen to bring out stories like his. That does not make the stories false. It means they were selected, as evidence in politics usually is.
 
-*[Evidence: a page of testimony from the 1832 parliamentary committee on child labour in factories]*
-
 The second is a handloom weaver. He is a skilled man who works at home, with a wooden loom that fills most of his cottage, and his wife and children wind the thread and help with the work. At first the spinning machines were wonderful for him. Suddenly there was more thread than there had ever been, and it all needed weaving. Around 1800 a good weaver could earn far more than a labourer, and people later called those years the weavers' golden age.
 
 It drew people in. By about 1820 there were around 240,000 handloom weavers working in cotton. That was the problem. Too many weavers, and years of bad trade, drove the price of weaving down. A weaver who earned about twenty shillings a week in 1806 earned about six by 1830, while a factory hand earned about ten. The power loom, which had been invented in the 1780s but did not work well until the 1820s, finished the job. By 1850 only forty or fifty thousand handloom weavers were left. They had not been beaten by a machine in a single blow. They had been starved by a crowd of other weavers first, and the machine came to clear away what remained.
 
+![Engraving of a long hall of power looms driven by belts from overhead shafts, with a man standing and a woman kneeling at one loom](images/loom.jpg)
+*A power-loom weaving shed, engraved for Edward Baines's History of the Cotton Manufacture in 1835. Belts from overhead shafts drive every loom. Public domain.*
+
 The third person is enslaved. In 1793 an American named Eli Whitney built the cotton gin, a hand-cranked machine that tore the fibre away from the sticky seeds of the kind of cotton that grew well across the inland South. Cleaning that cotton by hand had been so slow that it hardly paid to grow it. With the gin, it paid enormously. American cotton output rose about a thousandfold between 1790 and 1860, and planters moved west, onto new land, taking enslaved people with them. By 1830 about four-fifths of the raw cotton reaching Britain came from the United States. Most of the cotton Lancashire spun by the middle of the century was grown by enslaved people.
+
+![A worn paper sheet with watercolour drawings of a cotton gin, a toothed saw-blade and a hand crank, headed Eli Whitney Cotton Gin and dated March 14, 1794](images/gin.jpg)
+*Eli Whitney's patent drawing of the cotton gin, dated 14 March 1794. Public domain.*
 
 Solomon Northup was a free Black man from New York who was kidnapped and sold into slavery, and spent twelve years on plantations in the South. He described cotton picking in a book published after he won his freedom. Each picker had a sack hung from the neck and a basket at the end of the row. At night the cotton was carried to the gin-house, the building where it was cleaned, and weighed. An ordinary day's work was two hundred pounds, and a picker who brought in less was whipped. One who brought in more was likely to find the next day's quota raised to match. He wrote that "a slave never approaches the gin-house with his basket of cotton but with fear."
 
@@ -186,6 +195,9 @@ People sometimes argue about whether history is driven by what lies in the groun
 
 Once the engine could turn a wheel, it was only a matter of time before someone put it on wheels. The early locomotives were built for coal. A railway opened in the north-east of England in 1825 to carry coal from the pits to the river, with steam engines pulling the wagons. Five years later, in 1830, the Liverpool and Manchester Railway became the first line to link two cities with steam trains running to a timetable. It carried goods and passengers between the port and the mills.
 
+![A black locomotive with a tall thin chimney and barrel boiler, on a short length of track in a museum hall](images/rocket.jpg)
+*Stephenson's Rocket, built in 1829, in the National Railway Museum at York. The Liverpool and Manchester Railway opened in 1830. Photo: Malcolmxl5, CC0.*
+
 From then on, coal multiplied. Britain dug roughly three million tons in 1700. By 1850 it was digging somewhere between forty and fifty million, and the curve was still climbing. Coal ran the mills, the trains, the steamships and the ironworks. Cotton cloth became Britain's largest export, close to half of everything the country sold abroad.
 
 Something deeper had changed. For the first time in history, a society's growth was no longer held down by the amount of land it could plant. Food and fibre still needed fields, and the cotton still came from American soil. But energy, the thing that lets people move and make, now came mostly from underground. And it kept coming. The British economy grew year after year, and then decade after decade, without hitting the old ceiling. Other countries would follow.
@@ -195,3 +207,7 @@ Not everything changed at once. In 1851 farming was still the largest single occ
 And there was something no one at the time was looking for. All that stored sunlight, released in the furnaces of Manchester and the boilers of the engines, went up the chimneys as smoke and gas. Some of it was carbon dioxide, made from carbon that had been locked away underground since long before there were people. The amount of it in the air, which had held steady for a very long time, began to climb in the 1800s. It has not stopped climbing since.
 
 Stand in Manchester around 1850 and look up. The chimneys rise above the roofs in their hundreds, most of them marking a mill where engines drive thousands of spindles, and all of them breathing out the ancient forests of the coal. The machines are making more cloth than the world has ever seen. The question hanging in the smoke is one the machines cannot answer: who would get the wealth they made, and who would decide the price of a day's work.
+
+
+![Watercolour of green fields in the foreground and a distant city whose horizon is lined with smoking chimneys under a hazy sky](images/wyld.jpg)
+*Manchester from Kersal Moor, a watercolour by William Wyld, 1852, with the chimneys of the mills smoking on the horizon. Public domain.*
