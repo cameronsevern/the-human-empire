@@ -6,9 +6,9 @@ Napoleon conquered Europe with the army that the French Revolution had made. It 
 
 In the autumn of 1793 the great French naval base of Toulon, on the Mediterranean, was in the hands of the British. Royalists in the town had let them in. A British and Spanish fleet lay in the harbour, and a republican army, sent to take the place back, sat outside it getting nowhere under a general who had been a painter.
 
-The officer in charge of the army's few cannon was a captain of twenty-four, thin and sallow, with a strong Italian accent. He studied the map and saw what his seniors had missed. The town itself did not matter. What mattered was a single fort on a headland across the bay, from which guns could reach the anchorage. If the French took that, the fleet would have to leave, and the town would fall by itself.
+The officer in charge of the army's few cannon was a captain of twenty-four, thin and sallow, with a strong Corsican accent. He studied the map and saw what his seniors had missed. The town itself did not matter. What mattered was a single fort on a headland across the bay, from which guns could reach the anchorage. If the French took that, the fleet would have to leave, and the town would fall by itself.
 
-He nagged his superiors until they let him try. He collected a hundred guns from as far away as Monaco, built batteries closer and closer to the fort, and led the final assault on foot, taking a bayonet wound in the thigh. The fort fell in the night. The next morning the British fleet sailed away, exactly as he had predicted. Within the week the young officer was a general. His name was Napoleon Bonaparte.
+He nagged his superiors until they let him try. He collected a hundred guns from up and down the coast, built batteries closer and closer to the fort, and led the final assault on foot, taking a bayonet wound in the thigh. The fort fell in the night. Two days later the British fleet sailed away, exactly as he had predicted. Within the week the young officer was a general. His name was Napoleon Bonaparte.
 
 ## A Corsican
 
@@ -30,7 +30,7 @@ What Napoleon added was a way of moving this mass. An army of the old kind mostl
 
 To the enemy, such an army was hard to read. It was spread across a hundred kilometres, apparently aimed at nothing in particular. Then, on the day Napoleon chose, the corps turned inward and arrived together on the same field.
 
-In the autumn of 1805, Austria and Russia went to war against him. An Austrian army advanced into southern Germany and waited for the Russians to come up. Napoleon's army was on the coast of the English Channel, eight hundred kilometres away. He marched it across France and Germany in about four weeks, swung his corps in a wide arc round the Austrians, and appeared behind them, across their road home. The Austrian general surrendered with twenty-five thousand men. The French soldiers joked that the emperor had found a new way of making war, with their legs instead of their bayonets.
+In the autumn of 1805, Austria and Russia went to war against him. An Austrian army advanced into southern Germany and waited for the Russians to come up. Napoleon's army was on the coast of the English Channel, eight hundred kilometres away. He marched it across France and Germany in a few weeks, swung his corps in a wide arc round the Austrians, and appeared behind them, across their road home. The Austrian general surrendered with twenty-three thousand men. The French soldiers joked that the emperor had found a new way of making war, with their legs instead of their bayonets.
 
 Six weeks later, on 2 December, he met the main Russian and Austrian armies near a village called Austerlitz, in what is now the Czech Republic. He was outnumbered. He deliberately left one end of his line looking weak, and let the enemy see it. When they marched off the high ground in the centre to attack the weak end, he sent two divisions up the hill through the morning fog and cut their army in half. By the afternoon a third of it was dead, wounded or captured, and the rest was in flight.
 
@@ -48,11 +48,11 @@ For a merchant in the Rhineland or a lawyer in Milan, these were large gains, an
 
 ## The whale
 
-One enemy remained out of reach. In October 1805, the day after the Austrians surrendered in Germany, a British fleet under Admiral Nelson caught the combined French and Spanish fleets off Cape Trafalgar, on the coast of Spain. It captured or wrecked two thirds of their ships and lost none of its own. Nelson was killed by a sharpshooter in the hour of victory.
+One enemy remained out of reach. In October 1805, the day after the Austrians surrendered in Germany, a British fleet under Admiral Nelson caught the combined French and Spanish fleets off Cape Trafalgar, on the coast of Spain. It captured or wrecked more than half of their ships and lost none of its own. Nelson was killed by a sharpshooter in the hour of victory.
 
 After Trafalgar, Napoleon could not cross the Channel, and Britain could not land an army big enough to face him. People at the time compared it to a fight between an elephant and a whale.
 
-Each tried to starve the other. Napoleon forbade the whole of Europe to trade with Britain, so as to ruin the nation of shopkeepers, as he called it. The ban leaked from the start. Europeans wanted sugar, coffee and cotton cloth, and smugglers supplied them. His own army marched into Russia in overcoats made of English wool.
+Each tried to starve the other. Napoleon forbade the whole of Europe to trade with Britain, so as to ruin what the French called a nation of shopkeepers. The ban leaked from the start. Europeans wanted sugar, coffee and cotton cloth, and smugglers supplied them. His own officials issued licences to break it when France ran short.
 
 Britain's weapon was money. Thanks to its Parliament and its bank, the British government could borrow almost without limit at low interest, and it had invented a new tax on incomes to pay for the war. It used the money to hire allies. Every time Napoleon knocked Austria, Prussia or Russia out of the war, British gold helped to bring it back in.
 
@@ -64,7 +64,7 @@ On 2 May, as the last of the princes were being driven away, the people of Madri
 
 The Spanish regular armies won one startling victory and were then beaten again and again, without ever quite giving up. Meanwhile, bands of peasants, smugglers and priests ambushed French convoys, cut the throats of sentries and stragglers, and vanished into the hills. The French burned villages in reprisal, which produced more recruits for the bands. The Spanish called this kind of fighting the *guerrilla*, the "little war", and the word has been used for it ever since.
 
-Britain landed an army in Portugal to help. For six years, Spain tied down three hundred thousand French soldiers who were needed elsewhere. Napoleon called it his ulcer.
+Britain landed an army in Portugal to help. For six years, Spain tied down more than two hundred thousand French soldiers who were needed elsewhere. Napoleon called it his ulcer.
 
 ## A nation of Germans
 
@@ -82,29 +82,29 @@ The king of Prussia, whose army had been wiped out in a day, drew the practical 
 
 The second mistake was Russia. The tsar had made peace in 1807 and promised to join the ban on British trade. By 1811 Russian ports were open to British goods again, and Napoleon decided to force him back into line.
 
-In June 1812 he crossed the Russian frontier with the largest single army that Europe had ever seen. Counting the reserves that followed, about six hundred thousand men went in. Only half were French. The rest were Germans, Poles, Italians, Dutchmen and others, conscripts of the lands he ruled.
+In June 1812 he crossed the Russian frontier with the largest single army that Europe had ever seen. Counting the reserves that followed, about six hundred thousand men went in. Little more than half were French. The rest were Germans, Poles, Italians, Dutchmen and others, conscripts of the lands he ruled.
 
 His method depended on a quick, decisive battle and on feeding the army from the country. The Russians gave him neither. Apart from one fight for a burning city on the way, they retreated for a thousand kilometres, destroying the crops and villages as they went. The great army, too large to feed in an empty land, began to fall apart from hunger and typhus within weeks. In September the Russians turned and offered battle at a village outside Moscow, in the bloodiest single day of the whole twenty years of war. About seventy thousand men were killed or wounded. The Russians withdrew in good order, and a week later Napoleon rode into Moscow.
 
 The city was empty, and that night it began to burn. Napoleon sat in the Kremlin for five weeks, waiting for the tsar to ask for terms. The tsar did not answer his letters. In the middle of October, with winter coming and nothing to eat, the army turned for home.
 
-The retreat is one of the great catastrophes of military history. The snow came early in November. Men froze at night around their fires, horses died by tens of thousands, and Russian horsemen picked off the stragglers. Of the six hundred thousand who had gone in, fewer than a hundred thousand came out.
+The retreat is one of the great catastrophes of military history. The snow came early in November. Men froze at night around their fires, horses died by tens of thousands, and Russian horsemen picked off the stragglers. Of the six hundred thousand who had gone in, about a hundred thousand came out.
 
 ## The hundred days
 
-All of Europe now turned on him. Prussia, with its new citizen army, changed sides, and Austria followed. In October 1813, near the German city of Leipzig, half a million men fought for three days in what was called the battle of the nations, and Napoleon was beaten. The allies entered Paris the next spring. His own marshals told him that it was over.
+All of Europe now turned on him. Prussia, with its new citizen army, changed sides, and Austria followed. In October 1813, near the German city of Leipzig, half a million men fought for four days in what was called the battle of the nations, and Napoleon was beaten. The allies entered Paris the next spring. His own marshals told him that it was over.
 
 The victors sent him to rule the small Italian island of Elba, and put a brother of the guillotined king on the throne of France. Ten months later Napoleon slipped away with a thousand men and landed on the French coast. The regiments sent to arrest him went over to him one after another, and he reached Paris without firing a shot.
 
 His second reign lasted a hundred days. In June 1815 he marched into Belgium to strike the British and Prussian armies before the Russians and Austrians could arrive. On the eighteenth he attacked the Duke of Wellington's army of British, Dutch and German troops on a ridge near the village of Waterloo. Wellington's line held all afternoon against his cavalry, and in the evening the Prussians arrived on his flank. The French army broke and ran. Four days later Napoleon gave up his throne for the second time, and soon afterwards he surrendered to the captain of a British warship.
 
-This time the British took no chances. They shipped him to Saint Helena, a rock in the South Atlantic two thousand kilometres from the nearest land, and he died there six years later, dictating his memoirs. The wars that carry his name had killed about a million French soldiers and perhaps three million other people.
+This time the British took no chances. They shipped him to Saint Helena, a rock in the South Atlantic nearly two thousand kilometres from the coast of Africa, and he died there six years later, dictating his memoirs. The wars that carry his name had killed about a million French soldiers and at least two million other people.
 
 ## What stayed
 
 The kings and ministers who met in Vienna to put Europe back together wanted the old world restored. They returned the Bourbons to France, the pope to Rome and the four horses to Venice. They arranged the powers in a careful balance, and the balance held well enough that there was no general European war for ninety-nine years.
 
-They could not put back what had been learned. The code stayed in force in France, Belgium and the Rhineland, where the people who lived under it would not give it up, and the Dutch and the Italians, after a spell under the old laws, wrote new codes on its model. It was later copied from Latin America to Egypt and Japan.
+They could not put back what had been learned. The code stayed in force in France, Belgium and the Rhineland, where the people who lived under it would not give it up, and the Dutch and the Italians, after a spell under the old laws, wrote new codes on its model. It was later borrowed from as far afield as Egypt and Japan.
 
 The idea of the nation spread further still. Greeks, Belgians, Poles, Italians and Hungarians all rose in its name over the following decades. The great powers of the continent all adopted conscription sooner or later, since a land army of paid volunteers could no longer face a nation in arms.
 

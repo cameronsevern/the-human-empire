@@ -6,6 +6,9 @@ The East India Company conquered India with Indian soldiers, paid out of Indian 
 
 In 1615 an English gentleman named Sir Thomas Roe arrived at the court of the Mughal emperor Jahangir, who ruled well over a hundred million people from the richest throne in the world. Roe had been sent by the king of England on behalf of a group of London merchants. His task was to ask the emperor's permission for them to trade.
 
+![A damaged Mughal painting of courtiers and attendants in a pavilion, with a European figure among them](images/roe.jpg)
+*A Mughal court painting of about 1616, catalogued by the British Museum as showing the emperor Jahangir presenting a robe of honour to a courtier while Sir Thomas Roe, the English envoy, looks on. The paint has flaked badly. Photo: British Museum, public domain.*
+
 It did not go smoothly. The presents he had brought were looked over and found shabby. The best of them was an English coach, which the emperor had refitted in richer cloth and then copied by his own craftsmen in about a week. Roe spent nearly three years trailing after the court as it moved about northern India, waiting weeks for an audience, and paying bribes to officials. He went home with leave for the English to keep a trading house in one port.
 
 The emperor's memoirs, which describe those years in detail, do not mention him.
@@ -24,7 +27,13 @@ In 1602 the Dutch government pushed its rival merchants into a single body, the 
 
 More than eleven hundred people signed up in Amsterdam alone, and across the country the company raised more than six million guilders, about nine times what the English company had started with two years before. The Amsterdam list survives. It includes great merchants, and it includes bakers, clergymen and a housemaid, who invested a hundred guilders.
 
+![Two pages of handwritten Dutch text, the first a printed-style certificate and the second a list of payments](images/voc1606.jpg)
+*The oldest surviving share in the Dutch East India Company, issued in 1606 by its Enkhuizen branch, with the record of payments on the second page. Photo: Westfries Archief, public domain.*
+
 The maid could not ask for her hundred guilders back. However, if she needed money, she could sell her share to somebody else, at whatever price the two of them agreed. Within a few years, dealers were gathering every day on a bridge in Amsterdam, and later in a purpose-built courtyard, to buy and sell these shares. The price went up when a fleet came home and down on a rumour of shipwreck. It was the first stock market of the modern kind.
+
+![Men in dark Dutch clothes and wide hats talking in groups under the arches of a courtyard, with a tower behind](images/beurs.jpg)
+*Dealers and merchants in the courtyard of the Amsterdam exchange, painted by Emanuel de Witte in 1653. Painting: Emanuel de Witte, public domain.*
 
 This arrangement solved the investor's problem. A person could own a small piece of a very risky business, could own pieces of several, and could get out at any time without the business having to stop. As a result, money that had been sitting in chests all over the country flowed into one enterprise. The Dutch company soon had more ships than most navies.
 
@@ -33,6 +42,9 @@ This arrangement solved the investor's problem. A person could own a small piece
 It needed them, because its charter gave it the powers of a state. In all the seas east of Africa, the company was allowed to build forts, raise soldiers, sign treaties and make war in the name of the Dutch republic. It was a business with an army, and its directors, sitting in Amsterdam, were open about what the army was for.
 
 In 1600 every nutmeg in the world grew on the Banda Islands, ten specks of land in eastern Indonesia with about fifteen thousand people. The islanders sold to anyone who came. The company wanted them to sell only to the company, at the company's price, and the islanders went on dealing with others.
+
+![An engraving of nutmegs, some whole and some split open to show the kernel](images/nutmeg.jpg)
+*Nutmegs from the Banda Islands, whole and shelled, in a Dutch engraving of 1619 copied from the illustration in the report of a voyage of 1598 to 1600. Photo: Rijksmuseum, CC0.*
 
 In 1621 the company's governor in Asia arrived with a fleet. His soldiers killed the leading men, burned the villages and hunted the rest of the population through the hills. Some were shipped off as slaves and many starved. When it was over, about a thousand of the fifteen thousand islanders were left. The company divided the land into plantations and brought in slaves to pick the nutmegs. Over its two centuries of life it paid its shareholders a dividend that averaged eighteen per cent a year.
 
@@ -43,6 +55,9 @@ The English, who had set up their own East India Company in 1600, could not comp
 The English company had been buying in India since Roe's time, at first to get cloth that it could swap for spices. As the Dutch closed the spice islands to it, India became its main business.
 
 India in the 1600s was the workshop of the world. Its weavers made cotton cloth that was lighter, brighter and cheaper than anything woven in Europe, in colours that did not wash out. The English language still carries the cargo lists: chintz, bandanna, dungaree, khaki and pyjamas are all Indian words, and calico is named after an Indian port. The Company shipped this cloth home by the million pieces, and sold it across Europe and to the slave traders, who used it to buy people on the African coast.
+
+![A roll of cotton cloth printed with flowers and vines in red, blue and brown on a pale ground](images/chintz.jpg)
+*A length of Indian chintz, cotton printed and painted with vines of flowers and fruit, made in the 1700s for sale abroad. Photo: Science Museum Group, CC BY-SA 4.0.*
 
 There was one difficulty. Indians wanted almost nothing that England made. The Company therefore had to pay in silver, and every year its ships carried chests of coin out to India, to the annoyance of English writers who thought the country was being drained.
 
@@ -72,6 +87,9 @@ Clive recovered Calcutta. He then learned something useful. The young ruler had 
 
 The two armies met in June 1757 beside a mango grove at a village called Plassey. Clive had about three thousand men, two thirds of them sepoys. Facing him were fifty thousand. A cloudburst at midday soaked the Bengali army's gunpowder, while the English, who had covered theirs, kept firing. Most of the fifty thousand never moved, because their commander had been bought. By evening the ruler had fled on a camel. The English had lost twenty-two men.
 
+![Clive in a red coat shakes hands with Mir Jafar beside an elephant, with a British flag raised behind them](images/hayman.jpg)
+*Robert Clive meets Mir Jafar after Plassey, painted by Francis Hayman in London about 1760, a few years after the battle: an imagined scene. Painting: Francis Hayman, public domain.*
+
 The general was installed, and he paid. Clive's personal share made him one of the richest men in Britain. Years afterwards, questioned in Parliament about the sums he had taken, he described walking through a treasury piled on either hand with gold and jewels, and said that he stood astonished at his own moderation.
 
 ## The right to collect
@@ -79,6 +97,9 @@ The general was installed, and he paid. Clive's personal share made him one of t
 Plassey made the Company the power behind the throne of Bengal. Eight years later it took the next step, which mattered more.
 
 The new ruler soon fell out with his masters, and in 1764 an alliance of northern princes, with the Mughal emperor himself among them, tried to drive the Company out of Bengal. The Company's sepoys beat them. In 1765 Clive met the emperor, who by then was a wanderer without a capital or an army. The emperor still had one thing to give, which was legitimacy. He signed a decree appointing the East India Company as the collector of the land tax for Bengal and two neighbouring provinces. The Company would keep the revenue, and would pay him a fixed allowance out of it.
+
+![A crowd of Indian and British figures before a raised canopy where the emperor hands a document to Clive](images/west.jpg)
+*The emperor Shah Alam hands the grant of 1765 to Clive, painted by Benjamin West in 1818, more than fifty years later: a later imagining, not an eyewitness view. Painting: Benjamin West, public domain.*
 
 A trading firm had become the treasury of some thirty million people.
 
@@ -94,9 +115,15 @@ The men who came home rich were disliked in England, where they bought country e
 
 The Company was run from a building in Leadenhall Street in the City of London. Its clerks sat there writing letters that took six months to reach India. Its shareholders met to vote on dividends. By 1805 this office commanded an army of more than a hundred and fifty thousand men, larger than the regular British army, and ruled more people than lived in Britain and France together.
 
+![A hand-coloured print of a grand stone building with a columned front on a London street corner](images/eih.jpg)
+*The East India Company headquarters in Leadenhall Street, London, in a print published in 1802. Photo: Yale Center for British Art, CC0.*
+
 Parliament was uneasy about it from the start. After the famine, the Company's finances collapsed and it had to be rescued with a loan from the government, which in return began to appoint its senior officials and to supervise its decisions. From then on it was a strange hybrid, part business and part department of state. Still, the shareholders went on receiving their dividends, paid out of Indian taxes.
 
 In India it did not stop. One by one it broke the states that might have checked it. The ruler of Mysore in the south, who fought it with rockets and kept a mechanical tiger that mauled a wooden Englishman, was killed in the storming of his capital in 1799. The Maratha princes of the centre were beaten by 1818. The Sikh kingdom of the Punjab fell in 1849. In each case most of the men who did the fighting for the Company were Indian.
+
+![A painted wooden tiger with black leaf-shaped stripes crouching over the head of a European figure](images/tipu.jpg)
+*Tipu's Tiger, a mechanical toy made for the ruler of Mysore, showing a tiger mauling a European soldier; it is now in the Victoria and Albert Museum in London. Photo: John, CC BY 2.0.*
 
 ## The cartridge
 
@@ -107,5 +134,8 @@ By the 1850s that care had slipped. In 1856 the Company annexed Awadh, the kingd
 In May, at a garrison town north of Delhi, eighty-five soldiers who refused the cartridge were stripped of their uniforms and put in irons before the whole parade. The next day their regiments rose, killed their officers, and marched on Delhi. There they found the last heir of the Mughal emperors, a poet of eighty-one living in the old palace on a Company pension, and proclaimed him their sovereign.
 
 The rebellion spread across northern India and lasted more than a year. Both sides murdered prisoners, women and children. The British retook Delhi street by street, and their revenge was savage: whole villages were hanged, and captured sepoys were tied across the mouths of cannon. The old emperor was tried, exiled to Burma, and buried there in an unmarked grave.
+
+![An old bearded man in white lying on a bed, holding the pipe of a hookah](images/bahadur.jpg)
+*Bahadur Shah Zafar, the last Mughal emperor, photographed in 1858 after the rebellion, by Robert Tytler and Charles Shepherd. Photo: Robert Tytler and Charles Shepherd, public domain.*
 
 The British government concluded that a country could not be left to a company. In 1858 it took India for the Crown, and the East India Company, after two and a half centuries, was left with nothing to do. Its headquarters in Leadenhall Street was pulled down three years later. The site is now occupied by the offices of Lloyd's, the insurance market that began in a coffee house.
