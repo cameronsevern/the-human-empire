@@ -1,7 +1,7 @@
 # The Human Empire
 ## How Technology, Resources, and Wars Over Ideas Made One Intertwined World
 
-**Book plan · Eight parts · 89 chapters**
+**Book plan · Eight parts · 93 chapters**
 
 ## Preface
 
@@ -75,7 +75,7 @@ These run through the whole book. Each chapter takes up the ones its subject rai
 
 ## The chapters
 
-Each chapter has a brief and a *working answer*. The working answer is the hypothesis the chapter starts from, and the finished chapter says whether it held. This list tracks what the book must say. The order, the titles and where one chapter ends and the next begins are settled as the chapters are written, so the list will drift from the finished book and is brought back into line from time to time. Five indexes after the chapter list show where each technology, conflict, empire, and idea is covered, and where each running thread is picked up.
+Each chapter has a brief and a *working answer*. The working answer is the hypothesis the chapter starts from, and the finished chapter says whether it held. This list tracks what the book must say. The order, the titles and where one chapter ends and the next begins are settled as the chapters are written, so the list will drift from the finished book and is brought back into line from time to time. Five indexes after the chapter list show where each technology, conflict, empire, and idea is covered, and where each running thread is picked up. The entry numbers below are the plan's own and no longer match the chapter numbers in `chapters/`; four entries added later carry a letter (27a to 27c, 33a).
 
 ---
 
@@ -246,6 +246,27 @@ Begin in the Strait of Malacca, the narrow passage that every ship sailing betwe
 
 *Working answer:* Power at sea came from controlling narrow passages and ports, and a rival with a fleet could take it away. Religions and writing systems spread across the region largely through trade and the choices of local rulers, with little conquest. How that happened is debated.
 
+### 27a. Who built the statues on Easter Island?
+*Added after Part IV was drafted. Written: `chapters/34-pacific/chapter.md`.*
+
+The Polynesians as one people across a triangle of ocean. How a navigator found an island without instruments. What the canoes carried, and what Rapa Nui was like. The quarry, the statues and how they were moved. The story of self-inflicted collapse set against the evidence of rats, rock gardens and old DNA. What the same people built on Hawaii, Tonga and New Zealand. Disease, the slave raid of 1862 and the script nobody can read.
+
+*Working answer:* The islanders built them, and the famous collapse did not happen until outsiders arrived. The same settlers with the same kit built very different societies on different islands.
+
+### 27b. Who were the Vikings?
+*Added after Part IV was drafted. Written: `chapters/35-vikings/chapter.md`.*
+
+Lindisfarne. The ship that made the raids possible. Chiefs who needed silver. Paying raiders to go away. The Swedes on the Russian rivers, trading furs and slaves for Arab silver. Settlement in England and Normandy. Iceland's assembly. Greenland and Newfoundland. Kings, conversion and the end of raiding. 1066.
+
+*Working answer:* "Viking" was a job. The raids ended when the targets fortified and the chiefs became Christian kings. Those who stayed abroad became the English, the Russians and the Normans.
+
+### 27c. Why are there so many castles in Europe?
+*Added after Part IV was drafted. Written: `chapters/36-castles/chapter.md`.*
+
+The castle at Hastings. The broken Frankish empire and raiders from three sides. The mound and the tower. What a knight cost and how he was paid in land. The serf's bargain and Domesday Book. The heavy plough, the horse collar, three fields and mills. Towns, charters and the first universities. Gothic cathedrals. Magna Carta and the first parliaments.
+
+*Working answer:* Weak kings left defence and government to whoever held a fortified house. Because the lords kept their walls, kings had to bargain with them, and consent to taxation came out of the bargaining.
+
 ### 28. Why march to Jerusalem?
 Set the scene in western Europe after Rome, where a pope had crowned Charlemagne emperor in 800 and popes and emperors had competed for authority ever since. Then take the pope's call in 1095 and the promise attached to it. Follow a knight who mortgaged his land to go, a Jewish community in the Rhineland attacked by crusaders on their way east, the Byzantine emperor who had asked for help and received an army he could not control, and the Muslim rulers of Syria who at first saw one more invader among many. Trace the capture of Jerusalem, its recapture by Saladin, and the crusade that ended by sacking Christian Constantinople. Ask what each party believed it was fighting for.
 
@@ -280,6 +301,13 @@ Follow the Black Death along commercial routes, then compare surviving workers a
 Begin at Constantinople in 1453. Explain how a large bronze cannon was cast, moved, and fired, and what it did to a wall built for an earlier kind of war. Reconstruct the Ottoman need to feed besiegers alongside the defenders' efforts to repair breaches and get relief by sea. Examine how repopulating the city turned a prize into a capital, and what resettlement meant for those compelled to move.
 
 *Working answer:* Cannon mattered, and so did supply and control of the water. The conquest became permanent through forced resettlement and restored markets.
+
+### 33a. What was the Renaissance?
+*Added after Part IV was drafted. Written: `chapters/43-renaissance/chapter.md`.*
+
+Brunelleschi's dome. Why Florence: cloth, the florin, banks, schooling and no king. Petrarch, the book hunters and the return of Greek. Perspective and the rise of the artist. Why bankers and popes paid. Leonardo's letter and notebooks. The French invasion of 1494, Machiavelli, the sack of Rome and the bill for St Peter's.
+
+*Working answer:* A movement of a few thousand people in rich, kingless, competing cities, who set out to equal the ancients. It left the study of the past as a different world, painting from observation and the cult of talent.
 
 ### 34. How do you cross an ocean and come back?
 Begin with a Portuguese captain off West Africa who must sail far out into the Atlantic to catch a wind home. Explain the ship, its sails, the compass, how latitude was found from the sun and stars, and why longitude could not yet be found at all. Set this beside three other traditions: the monsoon sailing of the Indian Ocean, the vast Chinese fleets of the early 1400s, and the Polynesian navigators who settled the Pacific without instruments. Ask why Portuguese and Spanish courts paid for these voyages and why the Chinese court stopped paying for its own. End with the first voyages to India and the Caribbean, and with guns mounted on ships.
