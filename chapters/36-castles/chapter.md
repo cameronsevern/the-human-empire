@@ -2,7 +2,7 @@
 
 *Western Europe, from about 900 to 1300*
 
-Europe is full of castles because, for about three hundred years, most of it had no government larger than a district. Kings could not protect their people from raiders or from each other, and so power fell to anyone who owned a fortified house and a band of armed horsemen. A castle was that house. The men who held castles ruled the country around them, and there were tens of thousands of them.
+Europe is full of castles because, for about three hundred years, its kings were too weak to protect their people or to control their own great men. Across much of the west, power fell to anyone who owned a fortified house and a band of armed horsemen. A castle was that house. The men who held castles ruled the country around them, and tens of thousands of castles were built.
 
 When Duke William of Normandy landed on the south coast of England in the autumn of 1066, he had an army of several thousand men to feed and an English king marching towards him. The first thing he did was to put his soldiers to work with shovels.
 
@@ -20,7 +20,7 @@ In the year 800 most of western Europe was one empire, ruled by Charlemagne, kin
 
 While they fought, raiders came from three directions at once. Viking ships rowed up the rivers from the north and west. From the south, pirates from Muslim North Africa and Spain raided the Mediterranean coast and for some decades held a base in the south of France, from which they robbed travellers in the passes of the Alps. From the east came the Magyars, horse archers off the steppe who had settled on the plain of Hungary and rode out each summer as far as Burgundy and Italy.
 
-Against enemies like these, a king was nearly useless. His army was made up of landowners who had to be summoned from their homes, and by the time it had gathered the raiders were three valleys away. People learned that nobody was coming to save them. If a district was to be defended, it would be by someone who lived there and had fighting men on the spot.
+Against enemies like these, the Frankish kings were of little use. A royal army was made up of landowners who had to be summoned from their homes, and by the time it had gathered the raiders were three valleys away. In England a determined king organised a defence of walled towns that belonged to the whole kingdom. On the continent, people learned that nobody was coming to save them. If a district was to be defended, it would be by someone who lived there and had fighting men on the spot.
 
 Such men appeared. Some were the old king's officials, the counts, who stopped taking orders and began treating their districts as family property. Others were simply landowners with a strong arm. What they had in common, from about the 900s onwards, was a new kind of building.
 
@@ -38,7 +38,7 @@ His main protection was a knee-length coat of mail, made of about thirty thousan
 
 He also needed years. A knight fought from the saddle with a lance tucked under his arm, and learning to do that began in boyhood. A man who spent his youth practising with horse and sword could not also plough.
 
-Somebody else therefore had to feed him, and there was hardly any coin in circulation to pay him with. The lords of Europe solved the problem in the one way open to them. They paid in land. A lord granted a knight a village or two, with the peasants who farmed it, and the knight lived on what they produced. In exchange he owed his lord service in arms, usually about forty days a year, and a turn of guard duty at the castle.
+Somebody else therefore had to feed him. Some lords kept their knights in the household, at their own table, and a few paid wages. Coin was scarce in the countryside, however, and the usual answer was to pay in land. A lord granted a knight a village or two, with the peasants who farmed it, and the knight lived on what they produced. In exchange he owed his lord service in arms, usually about forty days a year, and a turn of guard duty at the castle.
 
 The bargain was sealed with a ceremony. The knight knelt, bareheaded and unarmed, and placed his joined hands between the hands of his lord. He declared that he became the lord's man. Then he swore on a Bible or a box of holy bones to be faithful. The lord, for his part, promised to protect him.
 
@@ -54,25 +54,25 @@ A typical village belonged to a lord. Its land was divided in two. One part the 
 
 A serf paid for his strips in work. Two or three days in every week he laboured on the lord's part of the land, and at harvest time, when his own crops were also waiting, he owed extra days. He was obliged to grind his grain at the lord's mill and to give the miller a share of the flour. When he died, the lord took his best animal.
 
-In return he got two things. The first was the land itself, which the lord could not easily take from him and which his son would hold after him. A serf was not a slave: he could not be sold away from his village, and custom fixed what he owed. The second was protection. When raiders came, the villagers drove their cattle into the castle yard. It was a bad bargain made under pressure, in a world where a farmer with no lord was at the mercy of everyone else's.
+In return he got two things. The first was the land itself, which the lord could not easily take from him and which his son would hold after him. A serf was not a slave: he went with the land and was rarely sold apart from it, and custom fixed what he owed. The second was protection. When raiders came, the villagers drove their cattle into the castle yard. It was a bad bargain made under pressure, in a world where a farmer with no lord was at the mercy of everyone else's.
 
-The best picture of this world was made on the orders of William of Normandy. Twenty years after his conquest he wanted to know exactly what he had won, and he sent teams of officials into every county of England. They asked the same questions in each village. Who held it before the conquest, and who holds it now? How many ploughs are there? How many serfs, how many slaves, how many mills and fishponds? What was it worth then, and what is it worth now?
+The best picture of this world was made on the orders of William of Normandy. Twenty years after his conquest he wanted to know exactly what he had won, and he sent teams of officials through almost every county of England. They asked the same questions in each village. Who held it before the conquest, and who holds it now? How many ploughs are there? How many serfs, how many slaves, how many mills and fishponds? What was it worth then, and what is it worth now?
 
-The answers were copied into a great book, which survives. It lists more than thirteen thousand places. An English monk complained that the king's men had been so thorough that not one ox, nor one cow, nor one pig had been left out. The book shows that in twenty years nearly all the land of England had passed from several thousand English landowners to about two hundred Norman lords. The English began to call it Domesday Book, the book of the Day of Judgement, because there was no arguing with what it said.
+The answers were copied into a great book, which survives. It lists more than thirteen thousand places. An English monk complained that the king's men had been so thorough that not one ox, nor one cow, nor one pig had been left out. The book shows what the conquest had done. In twenty years the several thousand English landowners had almost all been removed, and about half the wealth of the country now belonged to some two hundred Norman lords. Most of the rest was held by the king and the church. The English began to call it Domesday Book, the book of the Day of Judgement, because there was no arguing with what it said.
 
 ## The eight-ox plough
 
 Lords and knights took a great deal out of the villages. Nevertheless, in these same centuries, the villages were producing more food every generation, because the farmers of northern Europe had found a better way to work their land.
 
-The soil of the north is heavy, wet clay. It is far richer than the thin, dry soil around the Mediterranean, and for thousands of years much of it had been left as forest because the old plough could not deal with it. That plough was little more than a pointed stick dragged through the ground, which scratched a groove and left the earth where it was.
+The best soil of the north is heavy, wet clay. It is far richer than the thin, dry soil around the Mediterranean, and for thousands of years much of it had been left as forest because the old plough could not deal with it. That plough was little more than a pointed stick dragged through the ground, which scratched a groove and left the earth where it was.
 
 The new plough was a machine of three parts. A vertical iron knife in front sliced the turf. An iron blade behind it cut underneath, horizontally. Then a curved wooden board caught the loosened slab and turned it right over, burying the weeds and leaving a deep furrow that carried the water away. It usually ran on wheels.
 
-It was so heavy that it took eight oxen to pull, which was more than any one peasant owned. Villagers pooled their animals to make up a team, and that is one reason they farmed their fields in common. Eight oxen in a line are also very awkward to turn round. Farmers therefore ploughed in strips as long as the animals could manage before they needed a rest. That distance was called a furrow-long, or furlong, and the amount of land one team could plough in a day was called an acre. Both measures are still in use.
+It was so heavy that a full team was eight oxen, which was far more than an ordinary peasant owned. Villagers pooled their animals to make up a team, and that is one reason they farmed their fields in common. Eight oxen in a line are also very awkward to turn round. Farmers therefore ploughed in strips as long as the animals could manage before they needed a rest. That distance was called a furrow-long, or furlong, and the amount of land one team could plough in a day was called an acre. Both measures are still in use.
 
 Two other improvements came with it. The first was a padded collar that sat on a horse's shoulders and let it pull with its whole weight. A horse works half as fast again as an ox and for more hours in the day, and once it could be harnessed properly it began to replace the ox in front of the plough and the cart.
 
-The second was a new timetable. Farmers had always rested half their land each year so that the soil could recover. Now they divided it into three. One field was sown in autumn with wheat or rye, the second in spring with oats, peas or beans, and only the third lay idle. Two thirds of the land was now in crop every year instead of one half.
+The second was a new timetable. In much of Europe, farmers rested half their land each year so that the soil could recover. Many villages of the north now divided their land into three great fields. In any one year, the first was sown in autumn with wheat or rye, the second in spring with oats, peas or beans, and the third lay idle. The next year each field moved on to the next task. Two thirds of the land was now in crop every year instead of one half.
 
 Meanwhile the grinding was being done by water. William's survey counted about six thousand watermills in England, roughly one for every fifty households. In the 1180s the first windmills appeared, for places that had no stream.
 
@@ -88,7 +88,7 @@ What townspeople wanted was to be left out of the system, and they had money to 
 
 Inside the town, each trade governed itself through a guild, a club of masters who set prices and standards and decided who could join. The Latin word for such a body was *universitas*.
 
-About 1100, in the Italian city of Bologna, students who had come from all over Europe to hear lectures on law formed a guild of their own to bargain with their teachers and landlords. In Paris a few decades later the teachers formed one. These were the first universities, and Oxford followed soon after. They gave Europe the degree, the examination, the gown and the lecture, a word that means "reading", because books were so costly that a teacher read his copy aloud while the students wrote it down.
+From about 1100, students came from all over Europe to the Italian city of Bologna to hear lectures on law. In the course of that century they formed guilds of their own, to bargain with their teachers and landlords. In Paris it was the teachers who formed one. These were the first universities, and Oxford followed soon after. They gave Europe the degree, the examination, the gown and the lecture, a word that means "reading", because books were so costly that a teacher read his copy aloud while the students wrote it down.
 
 Much of what they read was new to them. In Spanish cities lately taken from Muslim rulers, scholars were turning the Arabic libraries into Latin, and through them the works of Aristotle, with centuries of Arabic commentary, reached the lecture rooms of Paris.
 
@@ -102,7 +102,7 @@ The towns built churches. In the 1140s the abbot of a monastery outside Paris re
 
 The older churches had been dark. Their stone ceilings were rounded like the inside of a barrel, and a round arch pushes outwards as well as down, so the walls had to be massive and the windows small. The new builders made three changes. They pointed the arch, which sends more of the weight straight down. They carried the ceiling on a skeleton of thin stone ribs that gathered the load onto separate pillars. Finally they propped each pillar from the outside with a slanting stone arm, called a flying buttress, which took the remaining sideways push and carried it to the ground.
 
-After that the walls were holding up nothing. The builders took them away and filled the gaps with coloured glass.
+After that the walls between the pillars had very little to hold up. The builders opened them and filled the gaps with coloured glass.
 
 The cathedral of Chartres burned down in 1194, and the town rebuilt it in about thirty years with a ceiling as high as a twelve-storey building and more than a hundred and fifty windows. Each city wanted to go higher than the last. The people of Beauvais raised their ceiling to forty-eight metres, the highest ever attempted, and in 1284 part of it fell down.
 
@@ -110,20 +110,20 @@ The cathedral of Chartres burned down in 1194, and the town rebuilt it in about 
 
 The kings had not gone away. As the countryside grew richer they grew stronger, and they began to take back what the castle owners had taken from them. They sent out judges, hired soldiers for pay and knocked down castles built without their leave.
 
-The lords, however, still had castles and knights of their own. A king who pushed them too hard could find himself facing all of them together, and in 1215 that happened to King John of England.
+The lords, however, still had castles and knights of their own. A king who pushed them too hard could find himself facing a great many of them together, and in 1215 that happened to King John of England.
 
-John had lost Normandy to the king of France, and he had spent ten years squeezing his barons for money to win it back. He charged them huge sums to inherit their fathers' lands, sold their widows in marriage to the highest bidder, and seized the property of those who annoyed him. In 1214 his great campaign in France failed. The following spring a large party of barons renounced their oaths to him and took London.
+John had lost Normandy to the king of France, and he had spent ten years squeezing his barons, the great lords who held their lands directly from him, for money to win it back. He charged them huge sums to inherit their fathers' lands, sold their widows in marriage to the highest bidder, and seized the property of those who annoyed him. In 1214 his great campaign in France failed. The following spring a large party of barons renounced their oaths to him and took London.
 
 In June the two sides met in a meadow beside the Thames, and the king put his seal to a list of promises that the barons had drawn up. It became known as the Great Charter, Magna Carta.
 
-Most of it is a list of the barons' own complaints. It fixes the fee for inheriting an estate. It says that a widow shall not be forced to remarry, and that the fish traps are to be taken out of the Thames. Buried in the middle, however, are two sentences of a different kind. One says that no free man shall be imprisoned, or stripped of his property, or outlawed, "except by the lawful judgment of his equals or by the law of the land". The other is a promise by the king: "To no one will we sell, to no one deny or delay right or justice."
+Most of it is a list of the barons' own complaints. It fixes the fee for inheriting an estate. It says that a widow shall not be forced to remarry, and that the fish traps are to be taken out of the Thames. In the middle, however, are two sentences that reach further. One says that no free man shall be imprisoned, or stripped of his property, or outlawed, "except by the lawful judgment of his equals or by the law of the land". The other is a promise by the king: "To no one will we sell, to no one deny or delay right or justice."
 
-The barons were not thinking of the serfs, who were not free men and made up about half the country. Nor did the charter work. The pope declared it void within ten weeks, and the war resumed. John died the next year in the middle of it, leaving a son of nine. The boy's guardians reissued the charter to win the barons back, and later kings confirmed it dozens of times, usually when they wanted money.
+The barons were not thinking much about the serfs, who were not free men and made up about half the country. The charter gave them one line, which stopped the king from fining a serf so heavily that he lost his plough and cart. Nor did the charter work. The pope declared it void within ten weeks, and the war resumed. John died the next year in the middle of it, leaving a son of nine. The boy's guardians reissued the charter to win the barons back, and later kings confirmed it dozens of times, usually when they wanted money.
 
 What lasted was the idea that the document stood for. The king was bound by the law like anyone else, and there were things he could not do to his subjects without their consent.
 
-The most important of those things was to tax them. A king who wanted money beyond his regular dues had to call his great men together and ask. Before long the great men were not enough, because the wealth was in the towns and the countryside. In the Spanish kingdom of León, a king summoned representatives of the towns to his council in 1188. In England, in 1265, two knights were called from every county and two citizens from each of the main towns. These meetings came to be called parliaments, from the French word for talking.
+The most important of those things was to tax them. The charter said that the king could not demand certain payments from his barons without calling them together and asking, and over the following century that grew into a general rule. Other kingdoms were moving the same way. In the Spanish kingdom of León, a king short of money had summoned men from the towns to his council as early as 1188, because the towns were where the wealth was. In England, in 1265, a baron who had taken the king prisoner and needed support for his government called two knights from every county and two citizens from each of the main towns. The kings who followed kept the habit. These meetings came to be called parliaments, from the French word for talking.
 
-Rulers in other parts of the world did not have to hold such conversations. The emperor of China appointed his governors after an examination and moved them every few years, and none of them owned a fortress. The kings of Europe were dealing with subjects who had stone walls, and they had to ask.
+The rulers of the great empires of Asia taxed without holding such conversations. The emperor of China appointed his governors after an examination and moved them every few years, and none of them owned a fortress. The kings of Europe were dealing with subjects who had stone walls, and they had to ask.
 
 The walls are still there. In the German lands alone, about twenty-five thousand castles were built. The grandest are museums and hotels now. Most are roofless shells on hilltops, and the oldest of all are harder to spot. They are steep, round, grassy mounds at the edges of villages, each with a ditch around it and usually a few sheep on top.
