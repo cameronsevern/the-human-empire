@@ -10,6 +10,9 @@ The women of Vienna knew this very well. Those who arrived on a first-clinic day
 
 A young Hungarian doctor named Ignaz Semmelweis, an assistant in the first clinic, could not stop thinking about the difference. The two clinics had the same food, the same linen, the same air. He checked each of the accepted explanations and found that none fitted. There was one difference only. The second clinic was staffed by midwives. The first was staffed by doctors and medical students, and they came to the wards each morning straight from the dissecting room, where they had been cutting up the bodies of women who had died the day before.
 
+![Old carte-de-visite photograph of Ignaz Semmelweis in profile, balding with a moustache, in a braided jacket](images/semmelweis.jpg)
+*Ignaz Semmelweis, photographed in 1860, five years before he died. Photo: Borsos és Doctor, public domain.*
+
 In 1847 a friend of his, a professor, was nicked on the finger by a student's knife during a dissection. He died within days, with the same symptoms as the mothers. Semmelweis concluded that something from the corpses was being carried into the wards on the doctors' hands. He put a basin of chlorine solution at the door of the clinic and made everyone scrub until the smell of the dissecting room was gone.
 
 Within a few months the death rate in the first clinic had fallen below that of the second.
@@ -24,13 +27,22 @@ Disease, they held, was caused by bad air. Rotting matter gave off a poisonous v
 
 The cities of the factory age tested the theory hard. London in 1850 had two and a half million people and no sewage system worth the name. The waste of each house drained into a pit in the cellar or the yard, and there were two hundred thousand of these. When the new flushing lavatory became fashionable, the pits overflowed, and the authorities allowed them to be connected to the street drains, which emptied into the Thames. The same river supplied much of the city's drinking water.
 
+![Hand-coloured cartoon of a woman dropping her teacup in horror at the creatures seen in a drop of Thames water through a microscope](images/monster_soup.jpg)
+*"Monster Soup commonly called Thames Water", a cartoon of 1828 by William Heath. A woman looks through a microscope at her drinking water and sees it swarming with monsters. Print: William Heath, public domain.*
+
 Into these cities came a new disease. Cholera had long been at home in the delta of the Ganges. From 1817 it began to travel along the trade routes, with the armies and the steamships, and in 1831 it reached Britain. A healthy person could wake up well, be seized by cramps and uncontrollable diarrhoea, turn blue and shrivelled as the water drained from the body, and be dead by nightfall. It came back in 1848 and killed fifty thousand people in England.
+
+![Black-and-white cartoon of a crowded, filthy London court with a heap of rubbish and children playing in the gutter](images/cholera_court.jpg)
+*"A Court for King Cholera", a cartoon from Punch in 1852, showing a crowded London court of the kind where the disease took hold. Image: Punch, public domain.*
 
 ## The pump
 
 A London doctor named John Snow doubted that cholera could be breathed in. It attacked the gut and left the lungs alone. He suspected that people swallowed it.
 
 At the end of August 1854 the disease broke out in Soho, a few streets from the rooms where Karl Marx was living. More than five hundred people died within ten days, almost all of them inside a circle a few hundred metres across. Snow went from house to house asking where each victim had got their water. Afterwards he marked the deaths on a street map, as small black bars stacked against each address.
+
+![John Snow's street map of Soho with stacked black bars marking cholera deaths and pumps marked "PUMP"](images/snow_map.jpg)
+*John Snow's own map of the cholera deaths in Soho in 1854. Each black bar marks a death at an address, and they cluster around the pump in Broad Street. Map: John Snow, public domain.*
 
 The bars clustered around a public pump in Broad Street, whose water was popular because it tasted clean. The exceptions were as telling as the rule. A workhouse on the next street, with five hundred inmates, had only a handful of deaths. It had its own well. The seventy men at a brewery in Broad Street itself did not fall ill at all. They were given free beer and never touched the pump. A widow who had moved to a village miles away died of cholera that week, and so did her niece. She had liked the Broad Street water so much that she had a bottle of it brought to her by cart every day.
 
@@ -48,9 +60,15 @@ Chemists at that time thought of fermentation as a purely chemical event, in whi
 
 Where did they come from? Many scientists believed that such tiny creatures simply arose, by themselves, out of decaying matter. Pasteur settled the question with an experiment of great elegance. He put broth into glass flasks and then heated and drew out the neck of each flask into a long, thin S-shaped curve, like the neck of a swan, open at the end. He boiled the broth to kill whatever was in it. Air could pass freely in and out. Dust, however, settled in the bend of the neck and could not reach the liquid.
 
+![Photograph of a glass flask with a long S-shaped swan neck, half full of liquid, on a dark background](images/pasteur_flask.jpg)
+*A swan-necked flask used by Pasteur in his experiments to disprove the doctrine of spontaneous generation. Photo: Wellcome Collection, CC BY 4.0.*
+
 The broth stayed clear, for months and then for years. When he tipped a flask so that the liquid touched the dust in the bend and ran back, it was cloudy with life within a day or two. Microbes did not arise from nothing. They rode on the dust in the air, and they were everywhere.
 
 Pasteur put the discovery to work at once. He showed France's wine makers that heating their wine gently, to a temperature well below boiling, killed the microbes that spoiled it without harming the taste. The process, later applied to milk, is called pasteurisation. Then he drew the larger conclusion. If microbes could turn a vat of beet juice sour, they might equally be what turned a wound septic and a healthy body sick.
+
+![Oil painting of Louis Pasteur in his laboratory, holding a glass flask up to the light, with a microscope and bottles on the bench](images/pasteur_edelfelt.jpg)
+*Louis Pasteur in his laboratory, painted by Albert Edelfelt in 1885. Painting: Albert Edelfelt, public domain.*
 
 ## Carbolic
 
@@ -69,6 +87,9 @@ Lister extended the method to everything. Instruments, dressings and the surgeon
 Pasteur and Lister had shown that microbes cause decay and infection. It had still to be proved, for any human disease, that one particular microbe was the cause. That was done by a district doctor in a small town in eastern Germany.
 
 Robert Koch was in his early thirties, with a busy country practice and a microscope that his wife had given him for his birthday. The farmers around him were losing sheep and cattle to anthrax, a disease that could also kill the people who handled the hides. Others had noticed tiny rods in the blood of animals that died of it. Koch set up a laboratory behind a curtain in his consulting room and worked there in the evenings for three years.
+
+![Printed photograph of Robert Koch bent over a microscope at a bench crowded with flasks and stacked glass dishes](images/koch.jpg)
+*Robert Koch at his microscope, in a photograph of about 1885, with glass dishes and flasks of the kind he used for growing germs. Photo: unknown, public domain.*
 
 He took blood from a dead sheep and injected it into a mouse, which died, with the rods in its blood. He grew the rods outside any animal, in a drop of fluid from an ox's eye, watching them through the microscope for hours as they lengthened into threads and formed hard little seeds that could survive for years in the soil. He then gave mice the rods grown in the dish, many generations removed from any sick animal, and they died of anthrax. In 1876 he published the complete life story of the organism. It was the first complete proof that a specific bacterium caused a specific disease.
 
@@ -100,6 +121,9 @@ He applied the idea of a weakened germ to anthrax, and in 1881 he accepted a cha
 
 In July 1885 a woman arrived at his laboratory from Alsace with her nine-year-old son, Joseph Meister, who had been bitten fourteen times by a rabid dog. Rabies takes weeks to develop after a bite, and once its symptoms appear it is always fatal. Pasteur had been working on a treatment made from the dried spinal cords of infected rabbits, meant to build up resistance in that interval, and had tested it thoroughly only on dogs. He was not a doctor and had no licence to treat anyone. He consulted two medical colleagues, and one of them gave the first injection that evening. The boy was given thirteen injections over ten days, each stronger than the last, and went home well.
 
+![Studio photograph of a young boy holding a hat, inscribed "J. Meister 1885"](images/meister.jpg)
+*Joseph Meister, the boy bitten by a rabid dog, in a studio photograph inscribed 1885. Photo: unknown, public domain.*
+
 People bitten by mad dogs came to Paris from as far as Russia and the United States. Donations poured in from all over the world, the emperor of Brazil among the givers, and with the money Pasteur built an institute for research and treatment, which bears his name.
 
 ## The handle
@@ -109,3 +133,7 @@ The largest effects were quieter than any of this. Cities had begun cleaning the
 No single discovery has changed the human condition more. Through most of history, in most places for which there are records, about a quarter of all babies died before their first birthday and nearly half of all children before they grew up, in the palaces of kings as well as in hovels. In the countries that adopted these measures, the deaths of children fell steeply from the late 1800s, and they have kept falling. Life expectancy at birth in England was about forty when John Snow drew his map. A century later it was nearly seventy.
 
 In Soho, a pump stands on the pavement near the spot where the old one stood in Broad Street. It was put up as a memorial, and it has no handle.
+
+
+![Black cast-iron street pump with no handle on a cobbled street, with the John Snow pub behind](images/broad_street_pump.jpg)
+*The memorial pump in Broadwick Street in Soho, a replica with no handle, with the John Snow pub behind it. Photo: Justinc, CC BY-SA 2.0.*
