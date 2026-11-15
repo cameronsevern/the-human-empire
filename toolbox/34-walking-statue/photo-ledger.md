@@ -1,0 +1,3 @@
+| File | What it shows | Commons page | Author | Licence |
+|---|---|---|---|---|
+| toolbox/34-walking-statue/photo-road-statue.jpg | Lantern slide, Mana Expedition to Easter Island (British Museum Oc,G.T.1762): a moai lying face up on the moai road (Ara Moai), a man in a hat seated beside it for scale. Not a file used in chapter 34. Cropped to remove the slide mount, 708x420 | https://commons.wikimedia.org/wiki/File:A_moai_lying_on_the_ground,_face_upwards;_on_the_moai_statue_road(%3F),_with_a_White_man_wearing_a_hat_and_a_moustache,_sitting_in_front_of_it,_for_scale;_Oc,G.T.1762,_Mana_Expedition_to_Easter_Island,_British_Museum.jpg | Unknown (Mana Expedition) | Public domain |

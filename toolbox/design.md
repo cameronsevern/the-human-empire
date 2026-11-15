@@ -76,12 +76,18 @@ A chapter can have more than one tool page: if a tool is interesting, it gets a 
 | 32 | The fire lance | A tube of powder on a spear, the ancestor of the gun |
 | 32 | The compass needle | North and south under a clouded sky |
 | 33 | The sewn ship | A hull held together with coconut cord |
+| 34 | The walking statue | Ten tonnes of stone rocked upright along a road |
+| 35 | The longship | Overlapping planks, one sail, and a metre of water |
+| 36 | The heavy plough | A slab of wet clay cut and turned upside down |
+| 36 | The flying buttress | A stone arm that took the push, so the wall could be glass |
 | 37 | The stirrup | A loop for the foot that steadied the rider |
 | 38 | The salt slab | The cargo that bought the gold |
 | 39 | The knotted cord | Accounts kept in knots, in tens |
 | 39 | The three sisters | Three crops in one mound, each helping the others |
 | 40 | The relay tablet | A metal order that bought a fresh horse at every station |
 | 42 | The great bombard | The gun that broke the walls, in two halves that screw together |
+| 43 | The brick dome | Two shells of brick, raised with no frame beneath |
+| 43 | The vanishing point | Depth on a flat wall, from one point on the horizon |
 | 44 | The caravel | The small ship that could work against the wind |
 | 44 | The sea astrolabe | The sun's height, read from a brass wheel hung from the thumb |
 | 45 | The type mould | Thousands of identical letters a day from one small box |
