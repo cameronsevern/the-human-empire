@@ -88,6 +88,9 @@ Something similar happened across the Channel. By the early 900s the king of the
 
 The arrangement worked. Rollo's people married local women and within a few generations they had forgotten their language and spoke French. Their territory was called the land of the Northmen, or Normandy.
 
+![Two maps of the Viking world. Above, the North Atlantic, with solid arrows by sea from Norway to Iceland about 870, on to the Eastern Settlement in Greenland about 985, with the Western Settlement further north, and on to L'Anse aux Meadows in Newfoundland about 1000. Below, Europe from Ireland to the Caspian: the homelands of Norway, Sweden and Denmark shaded, solid arrows by sea to Lindisfarne, to the Danish-settled part of England with York, to Dublin and up the Seine to Paris, with Normandy shaded; and dashed arrows by river from Sweden to Novgorod, down the Dnieper by Kiev across the Black Sea to Constantinople, and down the Volga to the Caspian Sea, with Baghdad to the south](images/map_vikings.png)
+*The Viking world from 793 to about 1000: the voyages west by sea, to the British Isles, France, Iceland, Greenland and Newfoundland, and the river roads of the Rus to Constantinople and the Caspian. The Danish part of England and Normandy are drawn roughly. Map: drawn for this book; coastlines and rivers from Natural Earth, public domain.*
+
 ## A country without a king
 
 Some of the emigrants wanted empty land, and the Norwegians found it. About 870, ships sailing west into the Atlantic came upon a large island of volcanoes, glaciers and green valleys with nobody living on it, except perhaps a few Irish hermits. Within sixty years, settlers had taken up every farm site in Iceland that was worth having.

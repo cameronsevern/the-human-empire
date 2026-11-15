@@ -55,6 +55,9 @@ One of those crops had come from the other direction. The sweet potato is an Ame
 
 The island did offer two things. The first was a forest of giant palms, close relatives of one of the largest palms in the world, which covered most of the land when the canoes arrived. The second was rock. Rapa Nui is made of three dead volcanoes, and one small crater near the eastern end, called Rano Raraku, is built of a stone unlike the rest. It is volcanic ash that has been pressed into rock, and it is soft enough to cut with a harder stone.
 
+![A map of the triangular island of Rapa Nui, with the volcanoes Terevaka in the north, Poike in the east and the crater of Rano Kau in the south-west, the statue quarry of Rano Raraku near the eastern end with dashed statue roads leading west from it, the red-stone quarry of Puna Pau near Hanga Roa, and Tahai, Anakena and Ahu Tongariki on the coast; an inset shows the Polynesian triangle of Hawaii, New Zealand and Rapa Nui, with Tahiti, Tonga and Samoa inside it and South America at the right edge](images/map_rapanui.png)
+*Rapa Nui, with its three volcanoes, the statue quarry of Rano Raraku, the red-stone quarry of Puna Pau and, roughly, the main roads on which statues left the quarry. The inset shows the island at the far corner of the Polynesian triangle. Map: drawn for this book; inset coastlines from Natural Earth, public domain.*
+
 ## The quarry
 
 Rano Raraku is where nearly every statue on the island was made, and it looks as though the carvers went home yesterday. About four hundred statues are still there. Some stand buried to the shoulders in the rubble on the slope below. Others lie in the cliff itself at every stage of the work, with one a mere outline on the rock face and the next complete except for a strip of stone along its back.

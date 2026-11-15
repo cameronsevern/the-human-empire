@@ -89,6 +89,9 @@ Two other improvements came with it. The first was a padded collar that sat on a
 
 The second was a new timetable. In much of Europe, farmers rested half their land each year so that the soil could recover. Many villages of the north now divided their land into three great fields. In any one year, the first was sown in autumn with wheat or rye, the second in spring with oats, peas or beans, and the third lay idle. The next year each field moved on to the next task. Two thirds of the land was now in crop every year instead of one half.
 
+![A bird's-eye plan of a manor: in the middle a village street lined with houses and a church; beside it the castle, a round mound with a tower inside a ditch, and a fenced yard; next to the castle the lord's own land; around the village three great open fields divided into blocks of long narrow strips, labelled sown in autumn with wheat or rye, sown in spring with oats, peas and beans, and resting this year, with one family's strips picked out in each field; a stream with a watermill and a meadow on the east side, common pasture beyond it, and woodland along the edges](images/plan_manor.png)
+*A typical manor of about 1100, seen from above: the castle and the lord's own land, the village and its church, the three great fields divided into strips, and the mill, meadow, pasture and woods. The strips of one family lay scattered through all three fields. Plan: drawn for this book.*
+
 Meanwhile the grinding was being done by water. William's survey counted more than five and a half thousand watermills in England, roughly one for every fifty households. In the 1180s the first windmills appeared, for places that had no stream.
 
 ![A painted thatched mill building with a water wheel and a pond, at the foot of a page of black Latin writing](images/watermill_luttrell.jpg)
