@@ -8,6 +8,9 @@ In September 1906, visitors to the zoo in the Bronx, in New York City, found a n
 
 On the second Sunday, forty thousand people came. Crowds followed him round the grounds, howling and jeering and poking him to see what he would do. The zoo's director, a respected scientist, saw nothing wrong. He called it an ethnological exhibit. The city's leading newspaper agreed that the man was probably enjoying himself, and observed that people of his kind were very low in the human scale.
 
+![Top of a newspaper column with a headline and the opening of a report](images/ota.jpg)
+*The New York Times of 9 September 1906 reported on the exhibit. The headline uses the ugly label of the day and the report itself says that many visitors found it more than a provocation to laughter. Clipping: The New York Times, 1906, public domain.*
+
 A group of Black clergymen, with one white minister, protested to the mayor. Their race, one of them said, was depressed enough without being exhibited with the apes. After three weeks Ota Benga was released into their care. He learned English, had his teeth capped, and worked in a tobacco factory in Virginia. He wanted to go home. The war that began in 1914 closed the sea routes, and in 1916 he shot himself.
 
 The men who put him in the cage were not ignorant. They were educated people at one of the great scientific institutions of a modern city, and they believed that they were illustrating a fact of nature.
@@ -17,6 +20,9 @@ The men who put him in the cage were not ignorant. They were educated people at 
 People have always divided the world into us and them. A foraging band feared the band over the hill. The Greeks called everyone who did not speak Greek a barbarian, because foreign speech sounded to them like "bar-bar". The Chinese spoke of raw and cooked peoples, according to how far each had adopted Chinese ways.
 
 These divisions were contemptuous, and they could be lethal. They were different in kind, however, from what came later. A barbarian was someone with the wrong language, the wrong gods or the wrong customs, and all of those can be changed. The grandson of a Gaul whom Caesar had conquered could be a Roman senator. One Roman emperor was born in North Africa and spoke Latin with an African accent, and it was no bar to the throne.
+
+![Painted round panel of a bearded man, a woman and a youth in gold-trimmed robes, with a fourth figure smudged out](images/severus.jpg)
+*The emperor Septimius Severus, born in North Africa, with his wife Julia Domna and their son Caracalla, painted about the year 200 and found in Egypt. The face of the other son, Geta, was scrubbed out after his death. Now in Berlin. Photo: Gary Todd, CC0.*
 
 Slavery in the ancient world had nothing to do with colour. Romans enslaved Greeks, Germans, Britons, Syrians and Africans without distinction, and a freed slave's children were citizens. The word "slave" itself comes from the Slavs of eastern Europe, who were sold in such numbers in the Middle Ages that their name became the word for the condition.
 
@@ -30,7 +36,13 @@ Their success was resented. In 1449, during a riot over taxes, the rebels who ha
 
 This was something new. Baptism was supposed to make a new person. Now there was a stain that no sacrament removed, which passed from parent to child in the blood. In 1492, the year Columbus sailed, the Spanish crown expelled every Jew who would not convert, and the suspicion of those who stayed lasted three hundred years.
 
+![A page of handwritten Spanish under a stamped heading](images/blood.jpg)
+*The first page of a proof of clean blood from Mallorca, written in the early 1800s, more than three centuries after the first such rules. Witnesses swear that the applicant's ancestors were old Christians, free of any mixture of Moors, mulattos, Jews or recent converts. Photo: Mollasmac, CC BY 4.0.*
+
 Spain's conquests in America then raised a question on a far larger scale. By what right did Spaniards make war on the people of the new lands and put them to forced labour? In 1550 the king of Spain suspended all further conquests and summoned a panel of theologians to hear the matter argued. A scholar who had never been to America maintained, from the writings of Aristotle, that the Indians were slaves by nature, born to be ruled by their betters. Against him stood a friar, Bartolomé de las Casas, who had spent forty years in the colonies. All the peoples of the world are human, he said, and there is only one definition of a human being. The panel never gave a verdict, and the conquests resumed.
+
+![Title page in red and black with the double-headed imperial eagle and the title in Spanish](images/lascasas.jpg)
+*The title page of A Short Account of the Destruction of the Indies by Bartolome de las Casas, printed in Seville in 1552. Scan: Wikimedia Commons, public domain.*
 
 ## The word "white"
 
@@ -50,9 +62,18 @@ The 1700s presented slave owners with a difficulty that their grandfathers had n
 
 One way out was to end slavery. The other was to decide that the word "men" did not cover everyone. The man who wrote that all men are created equal owned six hundred people in the course of his life. He set down, in a book about his home state, his "suspicion" that Black people were inferior to whites in mind and body. A suspicion of that kind made the contradiction easier to live with.
 
+![A black figure of a kneeling man in chains on a white oval, set in a silver brooch](images/wedgwood.jpg)
+*The anti-slavery medallion made by Josiah Wedgwood in 1787 for the campaign to end the slave trade. Its motto, "Am I not a man and a brother?", is almost hidden by the setting. Photo: Walters Art Museum, public domain.*
+
 The naturalists of the age, meanwhile, were sorting the living world into classes and species, and they sorted humanity with the rest. The great Swedish classifier of plants divided mankind into four varieties, one for each continent, and described each by colour and by character. The European, he wrote, was white, inventive and governed by laws. The African was black, lazy and governed by whim.
 
+![A printed table of the animal kingdom in columns of Latin names](images/linn.jpg)
+*The table of the animal kingdom in the first edition of Linnaeus's Systema Naturae, 1735. Homo, with its human varieties, heads the list of four-footed animals, above the apes. Scan: Wikimedia Commons, public domain.*
+
 A German professor refined the scheme a generation later. He owned a famous collection of human skulls, and from it he proposed five varieties. He thought the most beautiful skull in his cabinet was that of a woman from the Caucasus mountains, and so he named the European variety after it. That is the reason people of European descent are still called "Caucasian" on official forms.
+
+![Five engraved skulls in a row, each labelled in Latin](images/blumenbach.jpg)
+*Five skulls from the collection of Johann Friedrich Blumenbach, drawn for his book of 1795. The third, labelled as a woman of Georgia, is the one that gave the Caucasian variety its name. Plate: Blumenbach, 1795, public domain.*
 
 The professor himself believed that the varieties shaded into one another without a break and that none was superior. His categories outlived his cautions.
 
@@ -69,6 +90,9 @@ In Europe a French count gave the idea its most sweeping form. In four volumes p
 ## The fittest
 
 In 1859 Charles Darwin published his theory that species change over time, by the survival and breeding of the individuals best suited to their surroundings. He said almost nothing in that book about human beings. When he did turn to them, twelve years later, his conclusion was that all humans were a single species, descended from common ancestors, and more alike in mind than they were different. Darwin came from a family of campaigners against slavery, and he hated it. He also shared the assumptions of his class, and wrote calmly of the day when the civilised races would replace the savage ones.
+
+![Old photograph of an elderly bearded man in a coat, on a card mount](images/darwin.jpg)
+*Charles Darwin, photographed in London in 1874 by Elliott and Fry. Photo: Elliott & Fry, public domain.*
 
 His theory was put to uses that went far beyond that. If nature advanced by a struggle in which the weak died out, it seemed to follow that the same law held among human groups. An English philosopher coined the phrase "survival of the fittest" and applied it to society. Rich nations and rich people had won the struggle and were therefore the fittest. The poor, and the peoples whom Europeans were conquering, had lost, and for the state to prop them up was to work against nature.
 
@@ -92,8 +116,15 @@ In 1895 a Jewish journalist from Vienna named Theodor Herzl stood in the courtya
 
 The whole structure was attacked from the beginning by the people it was aimed at. A former slave, Frederick Douglass, told an audience of American students in 1854 that pride and selfishness never want for a theory to justify them. A Haitian lawyer answered the French count in a book of six hundred pages called *The Equality of the Human Races*. In New York, an anthropologist measured the heads of thousands of immigrants and their American-born children, and found that the children's skulls differed in shape from their parents'. The supposedly fixed mark of race, he concluded, could change in one generation with new surroundings.
 
+![Photograph of a grey-haired man with a moustache in an embroidered coat with medals](images/firmin.jpg)
+*Anténor Firmin, the Haitian lawyer who answered the French count in The Equality of the Human Races (1885), photographed in 1889. Photo: C. Liebert, public domain.*
+
 The decisive evidence came a century later, when it became possible to read human DNA. It showed that the human species is unusually uniform. All living people descend from ancestors who lived in Africa within the last few hundred thousand years, which is a short time as species go. Any two humans, chosen from anywhere on Earth, are alike in more than nine hundred and ninety-five of every thousand letters of their genetic code. Of the small differences that exist, by far the greater part is found between individuals within any one group, and only a sliver separates the groups from one another.
 
 The features by which the race scientists set such store turn out to be the shallowest of all. Skin colour is an adjustment to sunlight. It has darkened and lightened several times in different branches of the human family, and it has nothing to do with what lies behind the forehead. A man who lived in the south of England ten thousand years ago, whose skeleton was found in a cave, had dark skin and blue eyes.
 
 Race was a human invention. Its effects, however, were as real as those of any other institution, and they did not end when the science behind them collapsed. In 1903 a Black American scholar named W. E. B. Du Bois, who had studied in Berlin and at Harvard, opened a book of essays with a prediction. The problem of the twentieth century, he wrote, would be the problem of the colour line.
+
+
+![Photograph of a seated man in a dark suit and white collar, with a short beard](images/dubois.jpg)
+*W. E. B. Du Bois in the summer of 1907, four years after The Souls of Black Folk. Photo: unknown, public domain.*
