@@ -14,7 +14,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 first, last = int(sys.argv[1]), int(sys.argv[2])
 subtitle = sys.argv[3] if len(sys.argv) > 3 else f"Chapters {first} to {last}"
 
-PARTS = [(1, 7), (8, 22), (23, 39), (40, 51)]
+PARTS = [(1, 7), (8, 22), (23, 39), (40, 51), (52, 70), (71, 83)]
 PART_FIRST, PART_LAST = next((a, b) for a, b in PARTS if a <= first <= b)
 
 SPECIAL = re.compile(r'([\\#$*_`<>@~\[\]])')
