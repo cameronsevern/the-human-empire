@@ -6,6 +6,9 @@ The Renaissance was a movement that began in the trading cities of northern Ital
 
 In 1418 the cathedral of Florence had a hole in its roof about forty-four metres across.
 
+![The red-tiled dome of Florence cathedral rising above the roofs of the city, with a bell tower beside it and hills behind](images/dome_roofs.jpg)
+*The dome of Florence cathedral, finished in 1436, rising above the roofs of the city. Photo: Stefano Travasci, CC BY 4.0.*
+
 The city had been building its great church for a century. It was to be the largest in the world, and in 1367 a committee had approved the final design. Where the arms of the church met, there would be an eight-sided dome, wider than any that had been built since the Roman Empire and starting higher above the ground than any dome anywhere.
 
 Nobody on the committee knew how to build it. They approved it anyway, and every year afterwards the cathedral's builders swore on the Bible to follow the model. The walls duly rose. By 1418 the eight-sided base stood ready, open to the rain, as high as a fifteen-storey building.
@@ -22,9 +25,15 @@ Rome at that time was a small town of perhaps thirty thousand people, camped in 
 
 One Roman building still had its roof, a temple called the Pantheon, which is covered by a concrete dome almost exactly as wide as the hole in Florence. It had stood for thirteen hundred years. The recipe for Roman concrete had been lost, so Brunelleschi could not copy it. What he took from Rome was the knowledge that the thing could be done.
 
+![The inside of a concrete dome with rings of square sunken panels around a round opening letting in bright light](images/pantheon_dome.jpg)
+*The concrete dome of the Pantheon in Rome, seen from inside, with the round opening at its top. It had stood for thirteen hundred years when Brunelleschi went to Rome. Photo: Wilfredor, CC0.*
+
 His own dome was built of brick, and it was really two domes, a thick one inside and a thin one outside, with a staircase between them. This made it far lighter than a solid shell. To stop it from bursting outwards under its own weight, he buried great chains of stone and iron in the brickwork at intervals, running all the way round, like the hoops on a barrel.
 
 The cleverest part was the laying of the bricks. As the walls curved inwards, each new ring of wet brickwork leaned further over empty air, with nothing underneath to stop it from sliding off. Brunelleschi had the masons lay most bricks flat, and at regular intervals set a brick on end, so that it stuck up through several layers like a bookend. Those upright bricks ran in spirals up the dome, and they locked each short stretch of new work in place until the ring was complete. Once a ring is closed it cannot fall, for the same reason that the stones of an arch cannot: every brick is trying to slide inwards, and its neighbours on either side are in the way.
+
+![The inside of a curved brick vault in which bricks standing on end form a zigzag herringbone pattern, with pink arrows added](images/herringbone_model.jpg)
+*A model dome for the cathedral of Florence, with rows of upright bricks forming a herringbone pattern that spirals upwards. It is kept at the cathedral museum in Florence. Photo: Armin Kleiner, CC BY-SA 4.0.*
 
 He invented the machinery as well. To lift the materials he designed a hoist driven by a pair of oxen walking in a circle, with a gear that could be shifted to raise or lower the load, so that the animals never had to be unhitched and turned round.
 
@@ -52,6 +61,9 @@ The fashion for the ancients had started a century before the dome, with a poet.
 
 Francesco Petrarch was the son of a Florentine notary, and from boyhood he loved the Latin of Cicero, the great orator of the Roman republic. The Latin of his own day, the working language of the church and the universities, seemed to him a clumsy, barbarous thing by comparison. In 1345, in the library of the cathedral at Verona, he found a manuscript that nobody had read for centuries. It contained hundreds of Cicero's private letters.
 
+![A manuscript page with a pen drawing of a hooded man in profile above two columns of red Latin headings](images/petrarch.jpg)
+*Francesco Petrarch in profile, drawn on the contents page of a manuscript of his book on famous Romans, 1379, five years after his death. Drawing attributed to Altichiero, public domain.*
+
 Petrarch copied them out by hand. They upset him, because the philosopher he worshipped turned out to be a vain, changeable politician. He responded by writing Cicero a letter, to tell him so. He went on to write to other ancient authors as well, addressing them as friends who happened to be dead.
 
 He had hit on a new way of seeing the past. People of the Middle Ages had thought of the Romans as more or less their own contemporaries, and painters showed Julius Caesar dressed as a knight. Petrarch saw that the Romans had lived in a different world, that it had ended, and that the centuries between it and himself were a long decline. He called those centuries dark. The idea of a middle age between the ancients and the moderns grew out of that.
@@ -68,11 +80,17 @@ The painters wanted to equal the ancients too, and they had a difficulty that th
 
 Most painters of the Middle Ages were not trying to show what the eye sees. An altar painter set his holy figures against a flat background of gold, and made each as large as its importance required, so that a saint might stand twice as tall as the king kneeling beside him. The picture was a sign pointing at heaven.
 
+![The Virgin and Child enthroned, surrounded by angels and prophets, against a flat gold background](images/cimabue_maesta.jpg)
+*A medieval altarpiece by Cimabue, painted in Florence about 1290: the Virgin and Child, with angels and prophets, against a flat gold background. Painting: Cimabue, public domain.*
+
 A few years before he won the contest, Brunelleschi made a small painting of the eight-sided church that faces Florence's cathedral, and drilled a hole through the middle of it. He stood a viewer in the cathedral doorway, looking through the hole from the back of the panel, and held up a mirror in front. The viewer saw the painting reflected. When the mirror was taken away, he saw the real building in exactly the same place, and could hardly tell the difference.
 
 Brunelleschi had worked out the geometry of sight. The edges of a straight road running directly away from the viewer appear to draw together, and they meet at a single point on the horizon, straight in front of the eye. Once a painter has fixed that point, he can calculate how small every object should be according to its distance. A scholar friend wrote the method down in 1435, and told painters to treat the picture as an open window through which the scene is viewed.
 
 The first painter to use it fully was a young man called Masaccio. About 1427 he painted on the wall of a Florentine church a crucifixion set inside a chapel with a curved ceiling. The chapel is not there. The wall is flat. Nevertheless the ceiling recedes so convincingly that people who saw it thought that a hole had been knocked through the wall.
+
+![A fresco of the crucified Christ in a painted chapel with a coffered round ceiling, with kneeling donors outside and a skeleton on a tomb below](images/trinity.jpg)
+*The Holy Trinity, painted by Masaccio about 1427 on a wall of Santa Maria Novella in Florence. The chapel with the curved ceiling is painted on a flat wall. Painting: Masaccio, public domain.*
 
 The same hunger for the real thing sent artists to the mortuary. To carve or paint a body that looked alive, they needed to know what lay under the skin, and the best of them cut up corpses to find out.
 
@@ -88,7 +106,13 @@ The second reason was rivalry. Every guild, every great family and every city wa
 
 In 1494 the Florentines lost patience with Cosimo's great-grandson, drove the Medici out and governed themselves again. Seven years later the overseers of the cathedral commissioned a statue from a sculptor of twenty-six named Michelangelo. He carved a naked young man, more than five metres tall, out of a single block of marble: David, the shepherd boy who killed a giant. It had been meant for the cathedral roof. When the city's leaders saw it, they set it up in front of the town hall instead, as the image of a small republic that was not afraid of anyone.
 
+![A white marble statue of a naked young man standing with his head turned to one side, in a domed gallery](images/david.jpg)
+*Michelangelo's David, carved from a single block of marble from 1501. It now stands in the Accademia gallery in Florence. Photo: Livioandronico2013, CC BY-SA 4.0.*
+
 A few years afterwards the pope summoned Michelangelo to Rome and ordered him to paint the ceiling of the popes' own chapel. Michelangelo protested that he was a sculptor and not a painter. He then spent four years on a scaffold with his head tipped back, covering a ceiling forty metres long with more than three hundred figures. He wrote a comic poem about what the work had done to his neck.
+
+![A fresco of a reclining naked man reaching out a hand towards a bearded figure carried through the air by angels, their fingers almost touching](images/creation_adam.jpg)
+*One scene from Michelangelo's ceiling in the Sistine Chapel in Rome, painted over four years from about 1508: God reaching out to Adam. Painting: Michelangelo, public domain.*
 
 ## Ten kinds of weapon
 
@@ -100,6 +124,9 @@ The writer was Leonardo da Vinci. He knew his customer. The rulers of Italy were
 
 He finished very little. About twenty paintings by him survive. What he left instead was several thousand pages of notebooks, written from right to left in mirror writing, on every subject that crossed his mind: the flight of birds, the flow of water round an obstacle, the muscles of the shoulder, a machine for grinding lenses, the reason the sky is blue. By his own count he cut up more than thirty corpses, and he worked out how the valves of the heart close, by the swirling of the blood behind them, which doctors did not confirm until the twentieth century.
 
+![A page of pen drawings of the muscles of the shoulder and neck, with notes in mirror writing](images/shoulder.jpg)
+*One of Leonardo's anatomical drawings, a sheet of studies of the muscles of the shoulder, made about 1510, with his notes in mirror writing. Drawing: Leonardo da Vinci, Royal Collection, public domain.*
+
 He published none of it. The notebooks were scattered after his death, and the anatomy was not printed until the 1800s, so the anatomists who came after him had to find it all out again. What he shows is what the age admired. Its hero was the man who could do everything, and it saw no boundary between a painting and a siege engine. Both were problems to be solved by looking hard at the world.
 
 ## Things as they are
@@ -108,8 +135,15 @@ Italy's cities were rich, brilliant and unable to combine. In 1494 that bill cam
 
 One Florentine watched it from close up. Niccolò Machiavelli spent fourteen years as a senior official of the city's republic, riding on missions to kings and warlords. In 1512 the Medici returned with a Spanish army. Machiavelli was dismissed, and a few months later he was arrested on suspicion of plotting and hung by his wrists from a rope. When he was released, he went to his farm and wrote a short book of advice for rulers.
 
+![A portrait of a man with short dark hair and a faint smile, in a black cloak over red sleeves, holding a pair of gloves](images/machiavelli.jpg)
+*Niccolo Machiavelli, in a portrait painted by Santi di Tito in Florence some decades after his death. Painting: Santi di Tito, public domain.*
+
 For centuries, books of that kind had told princes to be just, merciful and pious. Machiavelli wrote about what he had seen to work. A ruler who tries to be good all the time, he said, will come to ruin among so many who are not good. It is best to be both loved and feared, but if a ruler cannot have both, it is much safer to be feared. The book shocked Europe, and it has been read ever since, because it applied to politics the rule that the painters had applied to the body. It described the thing as it is.
 
 In 1527 an army belonging to the king of Spain, who was also emperor in Germany, unpaid and out of control, broke into Rome and looted it for months. The great age of the Italian cities was over. By then, however, the movement had crossed the Alps in the luggage of scholars, artists and invading soldiers, and the rest of Europe was learning Greek and drawing in perspective.
 
 Rome was left with a building site. Back in 1506 the pope had decided to pull down the church of Saint Peter, which had stood since the time of Constantine, and to replace it with the largest church in the world. Michelangelo, in old age, designed its dome, with Brunelleschi's in mind. The building took a hundred and twenty years. To pay for it, the popes sent salesmen north into Germany with printed certificates that promised the buyer a shorter stay in purgatory.
+
+
+![The ribbed stone dome of Saint Peter's in Rome topped by a small lantern, a gold ball and a cross, against a blue sky](images/st_peters_dome.jpg)
+*The dome of Saint Peter's in Rome, designed by Michelangelo with Brunelleschi's dome in mind. Photo: Livioandronico2013, CC BY-SA 4.0.*
