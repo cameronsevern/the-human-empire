@@ -30,7 +30,7 @@ In January 1077, the king crossed the Alps in midwinter to a castle in northern 
 
 The pope who launched the crusade, Urban, came to office in the middle of this struggle, with a rival pope appointed by the German king holding much of Rome. He badly needed to show that the bishop of Rome was the true leader of the Christian world.
 
-He also had a second problem, which concerned the knights. Since Charlemagne's time the decisive weapon in the west had been the armoured horseman. A warrior in a mail coat, braced in his saddle by stirrups and carrying a heavy lance, could ride down most things on foot. His horse and gear cost as much as a small farm, and he had to train from boyhood. The lords of Europe paid for such men by granting them land, and housed them in castles, which had spread across the countryside by the thousand.
+He also had a second problem, which concerned the knights. The armoured horsemen whom the lords of Europe kept in their castles had been trained since boyhood for one thing. A warrior in a mail coat, braced in his saddle by stirrups and carrying a heavy lance, could ride down most things on foot, and there were now tens of thousands of such men.
 
 ![Embroidered horsemen in chain-mail coats and pointed helmets riding to the left, with archers on foot to the right](images/bayeux_horsemen.jpg)
 *Armoured horsemen in mail coats with spears and kite-shaped shields, from the Bayeux Tapestry, embroidered in the 1070s to show the Norman victory at Hastings in 1066. Photo: Myrabella, public domain.*
