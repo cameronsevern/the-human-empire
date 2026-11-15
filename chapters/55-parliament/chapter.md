@@ -10,6 +10,9 @@ He was led through his own palace in London, through the great banqueting hall w
 
 Then he lay down and put his neck on the block. The executioner, who wore a mask and a false beard so that he would not be known afterwards, took off the head with one stroke. A boy of seventeen in the crowd remembered for the rest of his life the sound that came from the thousands of people watching. It was a groan, he said, such as he had never heard before and hoped never to hear again.
 
+![A crowded engraving of a scaffold outside a long palace front, with the king at the block and soldiers ringing it, with three small portraits above](images/execution.jpg)
+*A German print of 1649 showing the execution of Charles I on a scaffold outside the Banqueting House in Whitehall, with soldiers and a crowd below. Print: unknown artist, public domain.*
+
 Kings had been killed before, in battle, in dungeons and in their beds. This was different. Charles had been charged in open court with a crime, tried by a panel of his subjects, and condemned to death as a tyrant and a traitor to his own people.
 
 ## Called gods
@@ -25,6 +28,9 @@ In quiet times that hardly mattered, since the king had lands and customs duties
 ## Twenty shillings
 
 Charles came to the throne in 1625. He was a small, shy, stubborn man with a stammer, a faithful husband and a discerning collector of paintings, and he believed in the divine right of kings with his whole heart. Within four years he had quarrelled with three Parliaments over money and religion. In 1629 he sent the third one home and resolved to manage without.
+
+![Three heads of the same bearded man in lace collars, seen from the left, the front and the right](images/vandyck.jpg)
+*Charles I seen from three sides, painted by Anthony van Dyck in 1635 and 1636 for a sculptor to work from. Painting: Anthony van Dyck, public domain.*
 
 He managed for eleven years. To do it, his lawyers combed through old records for forgotten rights that could be turned into cash. The most productive was called ship money. In time of danger, the king had always been able to order the port towns to supply ships for the navy, or pay for them. Charles demanded the payment every year, in peacetime, and from the inland counties as well.
 
@@ -44,6 +50,9 @@ Charles signed these measures, and waited. He regarded concessions made under pr
 
 On 4 January 1642 the king acted. He came down to the House of Commons in person, with about four hundred armed men at his back, to arrest five of its leading members for treason. No king had ever come there to seize a member. He walked up the floor, sat down in the Speaker's chair, and looked along the benches for the five. They had been warned, and had left by the river a few minutes earlier.
 
+![The king standing in the Commons chamber while members look on and the Speaker kneels in front of him](images/cope.jpg)
+*Charles I in the House of Commons in 1642, painted in the 1860s by Charles West Cope for the Houses of Parliament, more than two hundred years later: a later imagining. Painting: Charles West Cope, public domain.*
+
 "I see all my birds have flown," the king said. He asked the Speaker where they were. The Speaker went down on his knees and answered that he had neither eyes to see nor tongue to speak in that place, except as the House was pleased to direct him.
 
 Charles left empty-handed, to shouts of "Privilege!" from the members. Within a week he had left London, which he did not see again until he was brought back to it as a prisoner. By the summer, both king and Parliament were raising troops.
@@ -56,6 +65,9 @@ For the first two years neither side could win. The king had the better cavalry,
 
 A member of Parliament from the eastern farmlands, a country gentleman of forty-three with no military training, changed that. Oliver Cromwell raised a regiment of cavalry from among his neighbours and picked his officers for their zeal and ability, whatever their birth. He would rather have a plain captain in a rough brown coat who knew what he fought for, he wrote, than what people called a gentleman and was nothing else.
 
+![A man in dark plate armour and a white collar holding a staff, with a young page beside him](images/walker.jpg)
+*Oliver Cromwell in armour, painted by Robert Walker about 1649. Painting: Robert Walker, public domain.*
+
 In 1645 Parliament rebuilt its whole army on that principle. The New Model Army was drilled hard, promoted on merit and, at first, paid on time. Many of its soldiers were fervent Puritans who carried Bibles in their packs, sang psalms on the march, and believed that they were doing God's work. It destroyed the king's main army in a single afternoon that June. In the baggage, the victors found the king's private letters, which showed that he had been trying to bring Irish Catholic and foreign troops into England. Parliament had them printed.
 
 ## The poorest he
@@ -65,6 +77,9 @@ The army had won the war, and it found that it had opinions about the peace. It 
 The soldiers were tradesmen and farmers' sons who had spent four years risking their lives, and they had been reading. A group in London known as the Levellers was publishing pamphlets that asked why, if the king's power came from the people, the people should not choose who governed them. They proposed that Parliament should be elected by nearly all men, and that there should be a written agreement setting out rights that no government could touch.
 
 In the autumn of 1647 the army's leaders met representatives of the common soldiers in a church at Putney, just outside London, to argue it out. A clerk took down the debate in shorthand, and his notes survive.
+
+![A stone church with a square tower beside a river and a stone bridge](images/putney.jpg)
+*St Mary's church at Putney, on the Thames beside Putney Bridge, where the army debates were held in 1647. Photo: Jim Linwood, CC BY 2.0.*
 
 A colonel spoke for the soldiers. The poorest man in England, he said, had a life to live just as the greatest had, and every man who was to live under a government ought first to give his own consent to it. Cromwell's son-in-law answered for the generals. Only men who owned property had a permanent stake in the kingdom, he said. If those with nothing were given the vote, what would stop them from voting to take the property of everyone else?
 
@@ -79,6 +94,9 @@ At the end of 1647 he made a secret agreement with a party among the Scots. He p
 Most of Parliament still wanted a treaty. In December 1648 a colonel stood at the door of the House of Commons with a list and a file of musketeers, and turned away or arrested every member thought likely to vote for one. The two hundred or so who were left set up a special court to try the king.
 
 Charles refused to plead. He asked the court, again and again, by what authority it had brought him there, and it had no good answer, because there was no law under which a king could be tried. He was right about that, and it did not help him. Of the hundred and thirty-five men named as his judges, only about half ever took their seats, and fifty-nine signed the warrant for his death.
+
+![A long sheet of parchment covered in writing, with columns of signatures and red wax seals along the bottom](images/warrant.jpg)
+*The death warrant of Charles I, dated 1649, with the signatures and red wax seals of the men who signed it. Photo: Parliamentary Archives, public domain.*
 
 ## No Christmas
 
@@ -104,6 +122,9 @@ Within three weeks, seven of the most prominent men in England sent a letter to 
 
 William landed in the south-west of England in November with more than four hundred ships, a fleet three times the size of the Spanish Armada. In England hardly a shot was fired, though it took two years of war to make Ireland accept the change. James's officers, and then his other daughter, went over to the invader. James lost his nerve, got rid of the great seal of England, by his enemies' account into the Thames, and fled to France.
 
+![An engraving of a wide bay crowded with ships and landing troops, with a crowd on the shore and a key of numbered captions below](images/torbay2.jpg)
+*William of Orange's fleet and troops arriving at Torbay in November 1688, in a Dutch print of 1691. Photo: Rijksmuseum, CC0.*
+
 Parliament then did something more careful than cutting off a head. It declared that James, by running away, had left the throne empty. It offered the crown to William and Mary jointly, and it attached a document, which they accepted before they were crowned.
 
 ## Three per cent
@@ -116,7 +137,13 @@ Nobody had made England a democracy. Perhaps one man in five could vote, and Par
 
 Two philosophers who lived through these events drew opposite conclusions. Thomas Hobbes, writing just after the execution, argued that the civil war showed what happens without an all-powerful ruler: a war of every man against every man, in which life is "solitary, poor, nasty, brutish, and short". John Locke, whose book came out just after the Dutch invasion, argued that governments exist to protect the lives, liberty and property of the people who set them up, and that a ruler who breaks that trust may be removed. The next century would read Locke.
 
+![An engraved title page with a crowned giant made of tiny people rising over a town, holding a sword and a staff, above the title](images/leviathan.jpg)
+*The title page of Thomas Hobbes's Leviathan, printed in 1651, with a giant crowned figure made of tiny people rising over a town. Photo: British Library, CC0.*
+
 The most practical result was financial. A king who answers to no one can refuse to repay his debts, and kings often did, so lenders charged them heavily. After 1689 the English government's debts were guaranteed by Parliament, and Parliament was full of the people who had lent the money. In 1694 a group of London merchants founded the Bank of England to lend to the government. The change took a generation to work through. In the 1690s the government was paying up to fourteen per cent for its loans. By the 1750s it was paying three.
+
+![A black and white drawing of men in long wigs gathered around a table where a document is being sealed](images/bank.jpg)
+*The sealing of the Bank of England's charter in 1694, as imagined in a drawing of 1905. Drawing: Lady Jane Lindsay, public domain.*
 
 That difference won wars. France had three times Britain's population, but by the middle of the 1700s its kings, who answered to nobody and had defaulted more than once, were paying a good deal more. For the rest of the century Britain was able to outspend it.
 
