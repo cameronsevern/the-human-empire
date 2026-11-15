@@ -4,13 +4,13 @@
 
 The United States crossed the continent in three ways. It bought the claims of France, Spain and Russia. It took half of Mexico in a war. In addition, it removed the Native nations who actually lived on the land, by treaty where it could and by force where it could not. What made all this stick was the number of Americans, which doubled every generation, and a government that gave them the land almost for nothing.
 
-In December 1831 a young French nobleman, travelling in America to study its prisons and its democracy, reached the town of Memphis on the east bank of the Mississippi. The winter was the hardest anyone remembered. Ice was coming down the river.
+In December 1831 a young French nobleman, travelling in America to study its prisons and its democracy, reached the town of Memphis on the east bank of the Mississippi. The cold was severe, and ice was coming down the river.
 
 While he waited for a steamboat, a large party of Choctaw arrived at the landing. They were one of the Native nations of the south-east, farmers who had lived for centuries in what is now the state of Mississippi, and the United States government was moving them across the river to make room for cotton planters. The Frenchman watched them board. There were wounded and sick among them, newborn babies, and old people close to death. They had no tents and no wagons, only some food and a few weapons.
 
 Nobody cried out, he wrote, and nobody wept. They went aboard in silence. Their dogs had been left on the bank, and when the animals understood that they were being abandoned, they set up a terrible howling and plunged into the icy water to swim after the boat.
 
-The Frenchman was Alexis de Tocqueville, and the book he wrote about America is still read. The scene stayed with him. The Americans, he observed, had achieved what the Spanish in Mexico and Peru had not managed with all their massacres. They were taking a continent from its people calmly, legally and with clean hands, without breaking a single principle of morality in the eyes of the world.
+The Frenchman was Alexis de Tocqueville, and the book he wrote about America is still read. The scene stayed with him. The Spaniards, he observed, had not managed to wipe out the Indian peoples with all their atrocities. The Americans were doing it calmly and legally, without shedding blood, and without violating a single great principle of morality in the eyes of the world.
 
 ## Three cents an acre
 
@@ -18,9 +18,9 @@ When Britain recognised its independence in 1783, the United States reached from
 
 Napoleon held the title to Louisiana, an immense block of the continent between the Mississippi and the Rocky Mountains, which France had recently got back from Spain. He had meant it to feed his sugar colony in the Caribbean. When the army he sent to that colony was being destroyed by the former slaves of Haiti and by yellow fever, the plan collapsed. The American envoys in Paris had come to ask whether they might buy one city, New Orleans, at the river's mouth. They were asked instead what they would give for the whole territory.
 
-They paid fifteen million dollars for about two million square kilometres, which works out at roughly three cents an acre. It was the largest sale of land in history.
+They paid fifteen million dollars for about two million square kilometres, which works out at roughly three cents an acre.
 
-France did not control Louisiana. A few thousand French and Spanish colonists lived along the lower river. The rest belonged to the people who lived there, several hundred thousand of them in dozens of nations, who had not been consulted and mostly never heard of the sale. What changed hands in Paris was a claim: the right, as against other European powers, to be the one that dealt with those nations.
+France did not control Louisiana. Some sixty thousand colonists and slaves lived along the lower river. The rest belonged to the people who lived there, in dozens of nations, who had not been consulted and mostly never heard of the sale. What changed hands in Paris was a claim: the right, as against other European powers, to be the one that dealt with those nations.
 
 The government in Washington had only rumours and a few traders' maps of what the territory contained. The president sent two army captains with about forty men to find out. They went up the Missouri river by boat, crossed the Rockies on horses bought from the Shoshone, and reached the Pacific after eighteen months. They survived because Native peoples fed them along the way, and because a Shoshone woman of about seventeen, travelling with them with a baby on her back, could interpret and showed every nation they met that this was not a war party.
 
@@ -38,13 +38,13 @@ There was no shortage of inhabitants. In 1790 the United States had four million
 
 ## A newspaper in two languages
 
-The land they wanted was occupied. East of the Mississippi alone there were more than a hundred thousand Native people, and the most numerous nations lived in the south, on the soil best suited to cotton.
+The land they wanted was occupied. East of the Mississippi alone there were tens of thousands of Native people, and the most numerous nations lived in the south, on the soil best suited to cotton.
 
 American policy, for the first decades, was that Native peoples should become "civilised", by which was meant that they should farm like whites, hold land as private property and become Christians, and that they would then be left in peace. The Cherokee of the southern mountains took the Americans at their word.
 
 By the 1820s the Cherokee lived in log houses and frame houses, grew corn and cotton, ran mills and ferries, and in some cases owned plantations and slaves. A Cherokee silversmith who could not read English spent twelve years inventing a way of writing his own language, with eighty-five signs, one for each syllable. It was so easy to learn that within a few years most of the nation could read. In 1827 the Cherokee adopted a written constitution modelled on that of the United States, with a chief, a two-house legislature and a supreme court. The next year they began publishing a newspaper, printed in Cherokee and English in parallel columns.
 
-None of it helped. The state of Georgia claimed the Cherokee country as its own, and in 1829 gold was found there. Georgia declared Cherokee laws void, forbade Cherokees to testify against whites in court, and held a lottery to give their farms away. In 1830 Congress passed, by five votes, a law enabling the president to move every Native nation in the east to land beyond the Mississippi.
+None of it helped. The state of Georgia claimed the Cherokee country as its own, and in 1829 gold was found there. Georgia declared Cherokee laws void, forbade Cherokees to testify against whites in court, and held a lottery to give their farms away. In 1830 Congress passed, by a handful of votes, a law enabling the president to move every Native nation in the east to land beyond the Mississippi.
 
 The Cherokee did what a law-abiding nation would do. They hired lawyers and went to court. Their own suit was turned away on a technical point. In 1832, in the case of a missionary whom Georgia had jailed for living among them, the Supreme Court of the United States ruled in their favour. The Cherokee nation, said the chief justice, was a distinct community occupying its own territory, in which the laws of Georgia could have no force.
 
@@ -58,9 +58,9 @@ West of the Mississippi the United States met Native powers of a different kind,
 
 The horse had come to North America with the Spanish. In 1680 the Pueblo peoples of New Mexico rose and drove the Spanish out for a dozen years, and the horses left behind passed from nation to nation across the plains. Within a few generations, peoples who had hunted bison on foot were among the finest riders in the world.
 
-The Comanche used the horse to build something very like an empire. From about 1750 they dominated the southern plains, an area larger than France. They owned herds of tens of thousands of horses. They took tribute from Spanish towns, traded captives and stolen stock at great fairs, and absorbed or drove out rival nations. Spanish New Mexico and Texas survived at their pleasure.
+The Comanche used the horse to build something very like an empire. From about 1750 they dominated the southern plains, an area larger than France. They owned enormous herds of horses. They took tribute from Spanish towns, traded captives and stolen stock at great fairs, and absorbed or drove out rival nations. Spanish New Mexico and Texas survived at their pleasure.
 
-When Mexico became independent, the raids went deeper. Each autumn, war parties of several hundred men rode south for a thousand kilometres, burning ranches, killing the men and driving off horses, mules and captive women and children. By the 1840s much of northern Mexico was a wasteland of abandoned farms. Mexicans called the empty zone the desert of the frontier.
+When Mexico became independent, the raids went deeper. Each autumn, war parties of several hundred men rode south for hundreds of kilometres, burning ranches, killing the men and driving off horses, mules and captive women and children. By the 1840s much of northern Mexico was a wasteland of abandoned farms. A Mexican official wrote that the raiders had made a thousand deserts.
 
 In the north the Lakota, moving west out of the lakes country with horses and guns, did the same thing on a smaller scale. They pushed other nations off the best bison ranges and held the centre of the northern plains.
 
@@ -74,9 +74,9 @@ Nine years later the United States took Texas in as a state. The American presid
 
 Not everyone believed him. A young congressman from Illinois named Abraham Lincoln demanded to be shown the exact spot. A lieutenant who fought in the war, Ulysses Grant, wrote at the end of his life that he regarded it as one of the most unjust ever waged by a stronger nation against a weaker one.
 
-It was also one-sided. American forces occupied New Mexico and California after a few small fights, landed an army on the Gulf coast, and marched inland by the road that Cortés had used. In September 1847 the American flag went up over Mexico City. By the peace treaty, signed the following February, Mexico gave up the northern half of its territory, from Texas to the Pacific. The United States paid fifteen million dollars, the same price as for Louisiana. About a hundred thousand Mexicans found that the border had crossed them.
+It was also one-sided. American forces occupied New Mexico and California after a few small fights, landed an army on the Gulf coast, and marched inland by the road that Cortés had used. In September 1847 the American flag went up over Mexico City. By the peace treaty, signed the following February, Mexico gave up the northern half of its territory, from Texas to the Pacific. The United States paid fifteen million dollars, the same price as for Louisiana. About eighty thousand Mexicans found that the border had crossed them.
 
-Nine days before the treaty was signed, a carpenter building a sawmill on a river in California had noticed something shining in the channel. Within two years, eighty thousand gold seekers had arrived from every continent. For the Native peoples of California it was a catastrophe. Miners and militias hunted them like animals, and the state paid the militias' expenses. There had been about a hundred and fifty thousand of them when the gold was found. Twenty-five years later there were thirty thousand.
+Nine days before the treaty was signed, a carpenter building a sawmill on a river in California had noticed something shining in the channel. In 1849 alone, ninety thousand gold seekers arrived from every continent. For the Native peoples of California it was a catastrophe. Miners and militias hunted them like animals, and the state paid the militias' expenses. There had been about a hundred and fifty thousand of them when the gold was found. Twenty-two years later there were thirty thousand.
 
 Americans had a phrase for what was happening. A New York journalist wrote in 1845 that it was the nation's "manifest destiny" to overspread the whole continent, which Providence had given it for the great experiment of liberty.
 
@@ -84,11 +84,11 @@ Each new territory raised a question about that liberty, however. The states wer
 
 ## Seven days
 
-A treaty with Britain in 1846 had already divided the Oregon country in the north-west, so that by 1848 the United States held the Pacific coast from San Diego to the edge of Canada. In practice, California was further from New York than London was. The journey took four to six months, either by ox wagon across the plains and mountains or by ship round the tip of South America.
+A treaty with Britain in 1846 had already divided the Oregon country in the north-west, so that by 1848 the United States held the Pacific coast from San Diego to the edge of Canada. In practice, California was further from New York than London was. The journey took four to six months by ox wagon across the plains and mountains, or by ship round the tip of South America.
 
-The answer was a railway, and in 1862, in the middle of the civil war, Congress chartered two companies to build one, the first starting west from the Missouri river and the second starting east from California. The government lent them money and paid them in land. For every mile of track, a company received a strip of sections in a chessboard pattern on either side of the line, which it could sell to settlers. Over the following decades the railways were given an area larger than Texas.
+The answer was a railway, and in 1862, in the middle of the civil war, Congress chartered two companies to build one, the first starting west from the Missouri river and the second starting east from California. The government lent them money and paid them in land. For every mile of track, a company received a strip of sections in a chessboard pattern on either side of the line, which it could sell to settlers. Over the following decades the railways were given an area larger than California.
 
-The company building from California had to cross the Sierra Nevada, a wall of granite with snow twelve metres deep in winter. It could not find enough workers, and it hired, at first as an experiment, fifty men from China. By the time the line was finished, about twelve thousand Chinese labourers made up nine tenths of its workforce. They cut ledges into cliffs while hanging on ropes, and bored fifteen tunnels through the summit with hand drills and black powder, gaining a few centimetres a day.
+The company building from California had to cross the Sierra Nevada, a wall of granite with snow nine metres deep in winter. It could not find enough workers, and it hired, at first as an experiment, fifty men from China. By the time the line was finished, about twelve thousand Chinese labourers made up most of its workforce. They cut ledges into cliffs, and bored more than a dozen tunnels through the mountains with hand drills and black powder, gaining about thirty centimetres a day.
 
 The two lines met in the desert of Utah on 10 May 1869. A telegraph wire had been attached to the last spike and another to the hammer, so that the blow would close the circuit, and the signal reached the cities of both coasts at the same moment. The journey from coast to coast now took seven days.
 
@@ -98,7 +98,7 @@ The railways changed more than travel. A farmer on the plains could now ship whe
 
 The plains nations had held off the United States for decades, and what broke them in the end was the loss of the animal they lived on.
 
-In 1800 about thirty million bison grazed the plains. They gave the Lakota, the Cheyenne and the Comanche their food, their tents, their clothes and their tools. The railway cut the herds in two. Then, in the early 1870s, tanners in Europe found a way to turn bison hide into good leather, much of which went to make the driving belts for factory machines. The price of a hide rose to three dollars, a week's wages.
+In 1800 tens of millions of bison grazed the plains. They gave the Lakota, the Cheyenne and the Comanche their food, their tents, their clothes and their tools. The railway cut the herds in two. Then, in the early 1870s, tanners in Europe found a way to turn bison hide into good leather, much of which went to make the driving belts for factory machines. The price of a hide rose to as much as three dollars, several days' wages.
 
 Professional hunters with heavy rifles descended on the herds. A good shot could kill a hundred animals in a morning from one position. The hunters took the skins and left the meat to rot, and travellers on the trains rode for hours through the stench. The army could have stopped it and chose otherwise, since its generals understood exactly what the killing meant. By 1889 about a thousand bison were left alive.
 
