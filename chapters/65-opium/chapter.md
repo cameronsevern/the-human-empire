@@ -12,13 +12,22 @@ Before the work began, the official composed a prayer to the spirit of the South
 
 His name was Lin Zexu, and he was one of the ablest and most honest servants the emperor had. He believed that he had just solved a problem. He had in fact started a war, and it would show that the largest and richest empire on Earth could not defend itself against a few British gunboats.
 
+![A painted half-length portrait of an elderly Chinese official with a white moustache and thin beard, wearing a dark robe, long bead necklaces and a cap with a red button](images/lin_zexu.jpg)
+*Lin Zexu, the official who destroyed the opium at Canton in 1839, in a portrait painted in the 19th century. Painting: Lam Qua, public domain.*
+
 ## We possess all things
 
 For three hundred years Europeans had come to China as customers. They wanted its silk, its porcelain and, more and more, its tea, and they had never been able to offer much that the Chinese wanted in return.
 
 The Qing emperors, who ruled about three hundred million people, kept this trade on a short leash. Foreign ships could call at one port, Canton, in the far south. They could deal only with a dozen merchant houses licensed by the government. Their crews lived for the trading season in a row of warehouses on the waterfront, forbidden to enter the city, to bring their wives, or to learn Chinese. Any message for the authorities had to go through the merchants and be headed with the word "petition".
 
+![A row of white colonnaded buildings facing an open square on a riverbank, with an American flag on a tall pole, small figures, and crowded boats on the river at right](images/factories.jpg)
+*The foreign factories on the waterfront at Canton, in a Chinese export painting made between 1825 and 1835. Painting: attributed to Lam Qua, public domain.*
+
 In 1793 the British government sent an ambassador to Beijing to ask for something better: more ports, fixed duties, and a permanent embassy. He travelled with ninety wagons of gifts, chosen to show what British industry could do. There were telescopes, clocks, a planetarium, cannon and fine pottery.
+
+![A coloured caricature in which a British envoy in a purple coat kneels on one knee and holds out a letter to a fat emperor in yellow robes, with Chinese courtiers behind him and gift items on the floor](images/gillray.jpg)
+*"The Reception of the Diplomatique and his Suite at the Court of Pekin", a cartoon by James Gillray, published in London on 14 September 1792, mocking the British embassy to China. Print: James Gillray, public domain.*
 
 The emperor, who was eighty-one and had reigned for nearly sixty years, received him politely. The court expected every envoy to kneel three times and touch his forehead to the ground nine times, and after long negotiation the ambassador was allowed to go down on one knee, as he would to his own king. He was then sent home with a letter for King George. China, the emperor wrote, possessed all things in abundance. He set no value on strange or ingenious objects and had no use for Britain's manufactures. The king was advised to obey in future and tremble.
 
@@ -29,6 +38,9 @@ For Britain this was an expensive attitude. By the 1820s the British were drinki
 There was one product for which China would pay silver in any quantity, and the East India Company controlled the best of the supply.
 
 Opium is the dried sap of a poppy. It had been used in China for centuries as a medicine. In the 1700s people there began to smoke it for pleasure, and the emperors banned it. The poppy grew well in Bengal, and when the Company took over that province, it took over the poppy fields. It made opium a monopoly. Peasants were advanced money to grow the crop and were required to sell it to the Company, which processed it in two enormous factories, packed it in mango-wood chests, and sold it at auction in Calcutta.
+
+![A grey lithograph of a vast hall with walls of shelves holding thousands of round balls, with small figures of workers carrying balls in their arms](images/patna.jpg)
+*The stacking room of the opium factory at Patna, India, where balls of opium were dried and stored on shelves, in a lithograph of about 1850. Print: W. S. Sherwill, Wellcome Collection, public domain.*
 
 The Company was careful not to carry the drug to China itself, since that might cost it the right to buy tea. Private merchants bought the chests at the auction and shipped them to the Chinese coast. There they were unloaded onto armed hulks moored offshore, and Chinese smugglers in fast rowing boats ran them in at night, paying off the coastguard as they went.
 
@@ -56,9 +68,15 @@ Against these the British brought muskets that fired faster and in the rain, art
 
 In January 1841, in the approaches to Canton, she steamed into a shallow bay where a fleet of war junks had taken shelter, and with the boats of the fleet destroyed eleven of them in a morning. One of her first rockets hit a large junk and blew it to pieces. Chinese sailors called her the devil ship.
 
+![A coloured print of a calm bay where a wooden junk is blowing up in a cloud of smoke and flame, other junks with brown sails nearby, a rowing boat in front and a steamship at the right](images/nemesis.jpg)
+*The iron steamship Nemesis and British boats destroying Chinese war junks in Anson's Bay on 7 January 1841, in a print published in 1843. Print: Edward Duncan, public domain.*
+
 The British made no attempt to conquer China. They did not have the men. Instead they used their ships to strike where it would hurt most. In the summer of 1842 the fleet entered the Yangzi, the great river of central China, and steamed more than two hundred kilometres upstream to the point where it is crossed by the Grand Canal. For twelve centuries the barges on that canal had carried the rice of the south to the capital in the north. The British took the city at the crossing and closed the canal.
 
 The emperor sued for peace within weeks. By the treaty signed that August on the deck of a British warship, China handed over the island of Hong Kong, opened five ports to British trade and residence, and paid twenty-one million silver dollars. Further agreements the next year fixed its duties on imports at a low rate, written into the treaty, and provided that a British subject accused of a crime in China would be tried by a British consul under British law. The treaty said nothing about the opium trade. It simply went on, and over the next twenty-five years it nearly doubled.
+
+![A wide coloured print of a ship's cabin with a table at the centre where two Chinese officials in red and brown robes sit, surrounded by British officers in naval and army uniforms](images/nanking.jpg)
+*The signing of the treaty of Nanking on a British warship in August 1842, in a print published in 1846. Print: after Captain John Platt, public domain.*
 
 ## Twenty thousand officials
 
@@ -80,6 +98,9 @@ Six years later he happened to read a Christian pamphlet that a missionary had p
 
 He began to preach, and found his hearers among the poorest people of the hills to the west: charcoal burners, miners, landless farmers and the boatmen thrown out of work. His congregations armed themselves against bandits and landlords' militias, and when the government sent troops to disperse them, they became an army. In 1851 he proclaimed the Heavenly Kingdom of Great Peace, in Chinese *Taiping*, with himself as Heavenly King. Two years later his followers, by then a host of half a million men, women and children, fought their way to the Yangzi and took Nanjing, the old southern capital. They held it for eleven years.
 
+![A black and white engraving of a young man in an ornate tall crown and a robe embroidered with dragons, with Chinese characters and the words Chief of the Insurrection below](images/hong.jpg)
+*An engraving published in 1853 and labelled "Chief of the Insurrection". It is said to show Hong Xiuquan, but nobody can be sure of the likeness. Print: Ford & West, public domain.*
+
 The Taiping programme was the most radical that China had seen. All land was to be shared equally. Opium, alcohol, tobacco and gambling were forbidden. Women received equal shares of land. They were forbidden to bind their feet, and served as soldiers and officials. Temples and Confucian shrines were smashed. Men stopped shaving their foreheads and let their hair grow, in defiance of the pigtail that the Qing required every Chinese man to wear as a sign of submission.
 
 The war that followed was fought across the richest provinces of China for more than a decade, with no quarter given by either side. Cities changed hands several times, and again and again their people were massacred. Famine and plague followed the armies. The best estimates put the dead at twenty million or more, which makes it the bloodiest civil war in history. It was happening at the same time as the American one, and it killed about thirty times as many people.
@@ -92,7 +113,13 @@ While the Qing were fighting for their lives in the south, the British came back
 
 This time the allies went for the capital. A first treaty, signed under their guns in 1858, was not carried out, and the next year the Qing beat off an allied squadron at the forts that guard the river to Beijing. In 1860 an army of British, Indian and French troops landed in the north, broke the Qing cavalry with artillery, and marched into Beijing. The emperor fled.
 
+![A sepia photograph of a long low fort with a damaged mud wall and a flagpole, seen across a wide muddy shore with a single seated figure](images/taku.jpg)
+*The north Taku fort on the river to Beijing after its capture on 21 August 1860, photographed by Felice Beato. Photo: Felice Beato, CC0.*
+
 Outside the city lay his summer palace, a park of several square kilometres filled with lakes, pavilions, libraries and art collected over a hundred and fifty years. Its Chinese name means the Garden of Perfect Brightness. The soldiers looted it for days. Then the British envoy, to punish the emperor for the torture and death of a party of envoys, ordered it burned. It took three and a half thousand men two days. One officer brought home a small dog that he had found in the palace and presented it to Queen Victoria, who named it Looty.
+
+![A black and white photograph of a carved stone wall with a central arched doorway, shell ornaments and urn-shaped niches, open to the sky with trees growing around it](images/palace.jpg)
+*The ruined stonework of the summer palace outside Beijing, burned in 1860, photographed by Thomas Child in the 1870s. Photo: Thomas Child, public domain.*
 
 The new treaties made opium legal, opened ten more ports, let foreign merchants and missionaries travel through the interior, and placed foreign ambassadors in Beijing. Russia, which had not fired a shot, moved troops to the border, offered its services as a mediator, and in two treaties came away with a million square kilometres of Qing territory north of the Amur and along the Pacific coast, where it founded a port and named it Vladivostok, "ruler of the east".
 
