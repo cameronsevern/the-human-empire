@@ -18,7 +18,7 @@ The usual answer was horses. A horse walked round and round in a circle, harness
 
 Notice what a horse is. It is a machine for turning grass and oats into pulling. And grass and oats are sunlight, caught by leaves in a field over the last year or two.
 
-Step back from the mine, and that is true of almost everything people did before Newcomen. For all of history, humans lived on recent sunlight. Bread is sunlight that wheat stored last summer. A carthorse runs on hay and oats. Firewood is sunlight a tree has packed away over a few decades. Even wind and falling water are the sun's work, since the sun heats the air into wind and lifts the rain that fills the rivers. The muscles of a farmer, the fire in a blacksmith's forge, the sails of a windmill: all of it was powered by plants and weather of the recent past.
+Step back from the mine, and that is true of almost everything people did before Newcomen. For nearly all of history, humans lived on recent sunlight. Bread is sunlight that wheat stored last summer. A carthorse runs on hay and oats. Firewood is sunlight a tree has packed away over a few decades. Even wind and falling water are the sun's work, since the sun heats the air into wind and lifts the rain that fills the rivers. The muscles of a farmer, the fire in a blacksmith's forge, the sails of a windmill: all of it was powered by plants and weather of the recent past.
 
 This put a ceiling over every society. The sunlight that falls on a country each year is fixed, and most of it can only be caught by plants growing on land. A field could grow wheat for people, or oats for horses, or trees for fuel. It could not grow all three at once. When a country grew richer and more crowded, its needs began to fight over the same acres. More bread meant fewer forests. More iron, smelted with charcoal, meant cutting more forests. Sooner or later food and fuel grew dear, and growth slowed. However rich a society became, this invisible roof was somewhere above it.
 
@@ -27,8 +27,6 @@ England had already started to cheat. Under its fields lay coal, which is sunlig
 By 1700 London was heating itself with coal shipped down the coast from Newcastle, and coal already supplied about half of all the energy used in England and Wales. The country was digging roughly three million tons a year. So by the time Newcomen came along there was a large coal industry, and it had a water problem.
 
 The engine served a business that already existed. What was new was what it did with the coal. People had burned coal for centuries to warm rooms and feed furnaces. Heat could cook a meal or melt a metal. Making heat lift and push, steadily, all day and all night, was something almost no one had managed.
-
-The engine worked like this.
 
 A boiler at the bottom, rather like a giant copper kettle, makes steam. The steam rises into a tall upright cylinder, a bit like a huge bicycle pump standing on end, and fills the space under a piston. Then a jet of cold water is sprayed inside. The steam turns back into a few drops of water, and since water takes up far less room than steam, it leaves almost nothing behind it. There is now a partial vacuum under the piston.
 
@@ -40,11 +38,11 @@ The flaw is built into the design. Every stroke, the cold spray chills the whole
 
 *[Diagram: the Newcomen engine, one cycle in four steps]*
 
-The surprise is who built it. Newcomen was not a scholar. He was a dealer in iron goods from Dartmouth in Devon, who worked with a partner, a plumber and glazier. Neither was a member of any learned society.
+Newcomen was not a scholar. He was a dealer in iron goods from Dartmouth in Devon, who worked with a partner, a plumber and glazier. Neither was a member of any learned society.
 
 The learned societies had, in fact, been busy with the right questions. In the 1640s an Italian experimenter showed with a tube of mercury that air has weight. "We live submerged at the bottom of an ocean of air," he wrote. A German experimenter fitted two metal half-spheres together, pumped the air out from between them, and showed off that teams of horses could not pull them apart. A French scientist built a small model in 1690 in which condensing steam made a vacuum under a piston.
 
-Did Newcomen know any of this? Nobody can say. A story told long after his death had him writing to one of London's leading scientists, but when historians went looking for the letters they found no trace. He may have read about the experiments, or heard of them, or worked it out with his hands. The engine runs on air pressure whether its builder understood air pressure or not.
+Did Newcomen know any of this? Nobody can say. He may have read about the experiments, or heard of them, or worked it out with his hands. The engine runs on air pressure whether its builder understood air pressure or not.
 
 What is clear is that the science of heat as a source of work came afterwards. The rule for how much work heat can possibly do, which depends on how hot an engine runs and how cool its exhaust is, was worked out in the following century, by people studying steam engines that were already running. The usual picture has scientists discovering a law and engineers applying it. Here it went the other way. The machine came first, and the theory followed, trying to explain why it worked so badly.
 
@@ -100,7 +98,7 @@ A few years later came the spinning mule, which combined ideas from the jenny an
 
 The result, over the next two generations, was astonishing. In 1780 it took about 2,000 hours of a worker's time to spin a hundred pounds of fine cotton thread. By 1825 it took about 135. That is the difference between a year of full-time work and three or four weeks.
 
-So the factory was invented, and it was invented without steam. It ran on a river.
+So the cotton factory was invented, and it was invented without steam. It ran on a river.
 
 ## Leaving the river
 
@@ -154,7 +152,7 @@ The fourth stands in India, and is really two people: a spinner, perhaps a woman
 
 The losses spread to India's home market more slowly. Indian weavers kept supplying most of India's own cloth until at least the 1860s. But British machine-made thread and cloth took a growing share, about a third of the market by the late 1850s, and the hand spinners, whose work was easiest for machines to replace, felt it first. India, which had taught the world to love cotton, became a customer for the cloth made from it.
 
-So much for the people along the thread. What of Britain's own workers, the ones the factories were supposed to enrich?
+Taken all together, Britain's own workers, the ones the factories were supposed to enrich, had to wait a long time.
 
 For the first two generations of the factory age, ordinary British workers did not clearly gain. Between 1780 and 1840 the output of the average British worker rose by nearly half. Over the same years real wages, meaning what a day's pay could actually buy, rose by about an eighth. The extra wealth went mostly to profits. Factory owners, merchants and landlords grew rich. The workers who tended the machines found that each of them was making much more, while being paid little more. One economic historian named this long stall "Engels' pause", after Friedrich Engels, the young German who wrote a famous and furious description of working-class life in Manchester in the 1840s.
 
@@ -174,15 +172,15 @@ The first is about prices. In eighteenth-century Britain, labour was expensive a
 
 The second is about people. Britain was full of tinkerers: smiths, clockmakers, millwrights, instrument makers, men who could file a valve, mend a gear and turn a rough idea into something that ran. Many of them shared a confident belief, spread through books, lectures and clubs, that nature could be understood and put to use. Newcomen and Watt were both of this type. The objection is that the new science was found all over Europe, and most of the cotton inventors had little to do with it.
 
-The third is luck of geography. Britain's coal lay close to its industry and close to the sea and rivers, so it was cheap to move. Its wet mines gave it a reason to invent the steam engine in the first place. China's largest coalfields lay in the far north and west, a long way from its richest region around the mouth of the Yangzi. And Britain could draw on land overseas. The cotton from America, the sugar from the Caribbean, and the timber from Canada would have taken millions of acres of British land to replace. If Lancashire's mills had had to use wool instead of cotton, Britain would have needed more sheep pasture than it had land.
+The third is luck of geography. Britain's coal lay close to its industry and close to the sea and rivers, so it was cheap to move. Its wet mines gave it a reason to invent the steam engine in the first place. China's largest coalfields lay in the far north and west, a long way from its richest region around the mouth of the Yangzi. And Britain could draw on land overseas. The cotton from America, the sugar from the Caribbean, and the timber from Canada would have taken millions of acres of British land to replace. If Lancashire's mills of 1830 had had to use wool instead of cotton, Britain would have needed some twenty million more acres of sheep pasture, which is more than all its farmland in crops.
 
-The fourth is about rules. After a revolution in 1688, Parliament put firm limits on the king. Property was fairly safe from seizure, and the government could borrow cheaply because lenders trusted it to pay. A country like that encouraged people to invest and build. The objection is that the Dutch had much of this earlier, and they did not build the first factories. A century also passed between 1688 and Cromford.
+The fourth is about rules. After a revolution in 1688, Parliament put firm limits on the king. Property was fairly safe from seizure, and over the next half century the government came to borrow cheaply, because lenders trusted it to pay. A country like that encouraged people to invest and build. The objection is that the Dutch had much of this earlier, and they did not build the first factories. More than eighty years also passed between 1688 and Cromford.
 
 The fifth is empire and slavery. Britain's empire, and the Atlantic slave economy it traded with, brought profits from sugar plantations, captive markets for British goods, a flood of slave-grown cotton, a navy to protect the trade, and tariffs to keep Indian cloth out of Britain. The objection is that the profits were modest beside the whole British economy, a few percent of the national income. Supporters answer that they were large beside the amount actually invested in industry, which is what matters for building mills. And other empires had colonies without factories. Spain ruled a vast empire and did not industrialise first.
 
 Each of these ideas explains something, and none of them explains everything. Coal was necessary, but plainly not sufficient, since China had coal and did not build steam engines. Cheap coal and dear labour gave a reason to build the machines, but someone had to be able to build them. Tinkerers needed a market for what they made, and the market was an empire's worth of cotton and customers. Britain had all of these, in the same place, at the same time. That combination was rare.
 
-People sometimes argue about whether history is driven by what lies in the ground or by what goes on in human heads. Britain's case suggests the question is badly put. Without the coal, the tinkerers would have had nothing to burn. Without the tinkerers, the coal would have gone on warming houses and feeding furnaces, as it did in China, and never turned a wheel.
+People sometimes argue about whether history is driven by what lies in the ground or by what goes on in human heads. Britain's case suggests the question is badly put. Without the coal, the tinkerers would have had only wood to burn, and not enough of it. Without the tinkerers, the coal would have gone on warming houses and feeding furnaces, as it did in China, and never turned a wheel.
 
 ## The burning that did not stop
 
@@ -196,4 +194,4 @@ Not everything changed at once. In 1851 farming was still the largest single occ
 
 And there was something no one at the time was looking for. All that stored sunlight, released in the furnaces of Manchester and the boilers of the engines, went up the chimneys as smoke and gas. Some of it was carbon dioxide, made from carbon that had been locked away underground since long before there were people. The amount of it in the air, which had held steady for a very long time, began to climb in the 1800s. It has not stopped climbing since.
 
-Stand in Manchester around 1850 and look up. The chimneys rise above the roofs in their hundreds, each one marking a mill where engines drive thousands of spindles, and each one breathing out the ancient forests of the coal. The machines are making more cloth than the world has ever seen. The question hanging in the smoke is one the machines cannot answer: who would get the wealth they made, and who would decide the price of a day's work.
+Stand in Manchester around 1850 and look up. The chimneys rise above the roofs in their hundreds, most of them marking a mill where engines drive thousands of spindles, and all of them breathing out the ancient forests of the coal. The machines are making more cloth than the world has ever seen. The question hanging in the smoke is one the machines cannot answer: who would get the wealth they made, and who would decide the price of a day's work.
