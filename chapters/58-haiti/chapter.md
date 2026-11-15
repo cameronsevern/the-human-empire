@@ -10,13 +10,22 @@ The northern plain was the most intensively farmed land in the Americas, a carpe
 
 It had been planned. Eight days earlier, drivers and coachmen from estates across the plain, the trusted men who could travel without being questioned, had met on a Sunday at one of the plantations to fix the date. By the end of September the rebels numbered tens of thousands. They had picked the moment well, because the people who owned them were busy fighting each other.
 
+![A black and white print of burning plantation buildings and crowds fighting in cane fields, with a German caption below](images/burning_plain.jpg)
+*A German print of the rising of 1791, drawn far from the colony and from the planters' side. Its German caption speaks of "democratic freedom" and of ruined estates and burned mills. Print: unknown artist, public domain.*
+
 ## The pearl
 
 Saint-Domingue occupied the western third of the island of Hispaniola, an area about the size of Belgium. In 1789 it was the most profitable piece of land on Earth.
 
+![A wide engraved view across a bay to a town beneath mountains, with sailing ships at anchor and people on the shore in the foreground](images/cap_francais.jpg)
+*The port of Cap-Français on the north coast of Saint-Domingue, in a view of 1791 with ships at anchor and mountains behind. Print: Nicolas Ponce after Nicolas Ozanne, public domain.*
+
 It produced about two fifths of all the sugar eaten in Europe and more than half the coffee. A large part of France's overseas trade depended on it. Its produce filled the warehouses of Bordeaux and Nantes, and the fortunes it made paid for a good many of the fine houses in both cities. The French called it the pearl of the Antilles.
 
 Nearly half a million enslaved people did the work. The colony had some forty thousand whites. Between the two stood a third group, about thirty thousand strong, who were free and of mixed or African descent. Most were the children or grandchildren of French planters and enslaved women. Many were rich. Free people of colour owned about a third of the colony's plantations and a quarter of its slaves, and they supplied most of the militia that hunted runaways. However, the law barred them from the professions and from public office, told them what clothes they could wear, and forbade them to sit with whites in church.
+
+![An engraved plan of a sugar works, showing a row of round copper boiling kettles above and the furnace foundations below](images/sugar_plan.jpg)
+*Plan of a sugar works on the northern plain of Saint-Domingue, printed in Paris in 1786. The round shapes are the copper kettles in which cane juice was boiled down to sugar. Print: Bibliothèque nationale de France, public domain.*
 
 The colony consumed its workers at a rate that was high even for the Caribbean. So many died, and so few children were born and lived, that in the 1780s the ships were delivering thirty thousand or more new captives every year to keep the numbers up. As a result, most of the enslaved people in Saint-Domingue in 1791 had been born in Africa. They remembered being free. A large share of them came from the lands of Kongo, where decades of civil war had made soldiers of much of the male population before it made them captives.
 
@@ -42,6 +51,9 @@ Among the men who joined in those months was a small, wiry, plain-featured man o
 
 Within two years he was their best general. He drilled his followers into regiments that could fight in the European manner as well as the African one, he rode enormous distances, and he kept his plans to himself. About this time he began to sign himself Toussaint Louverture. The surname means "the opening".
 
+![An oval engraved portrait of a man in a plumed hat and a uniform with a starred sash, captioned Toussaint Louverture](images/toussaint2.jpg)
+*Toussaint Louverture in an engraving made between about 1802 and 1810, after he had become famous. No portrait of him from life is certain, and this is an artist's idea of him. Print: Rijksmuseum, CC0.*
+
 ## A decree in the north
 
 What turned a rebellion into an emancipation was France's own war.
@@ -53,6 +65,9 @@ The French republic's representative on the island was a young lawyer who had be
 He then sent three delegates to Paris to explain himself: a white man, a man of mixed descent, and a black former slave. They arrived in February 1794. When they told the assembly what had been done, a member rose to propose that slavery be abolished in every French colony, and it was voted at once by acclamation.
 
 France thus became the first European power to abolish slavery. It did so because the slaves of its largest colony had made the old order impossible to restore, and because it needed them. That spring, Toussaint left the Spanish and brought his army over to the republic.
+
+![A handwritten and printed decree on a single sheet headed Décret de la Convention Nationale, with a seal at the bottom left](images/decree_1794.jpg)
+*The decree of 4 February 1794 (16 pluviôse of year II): "The National Convention declares that the slavery of the Negroes in all the colonies is abolished." This is a copy sent out from Paris. Document: Archives nationales, France, public domain.*
 
 ## Fever
 
@@ -74,9 +89,15 @@ At the end of 1801 he sent out an expedition of more than thirty thousand vetera
 
 The French landed early in 1802. Toussaint fought them for three months, burning the towns as he retreated. Then several of his generals went over to the French, and he made peace and retired to his farm. In June a French general invited him to a meeting to discuss troop movements. He went with a small escort and was seized, bound, and put on a ship for France.
 
+![A coloured engraving of hand-to-hand fighting, with Black soldiers in blue coats and straw hats attacking French soldiers around a cannon](images/crete_a_pierrot.jpg)
+*The attack on the Crête-à-Pierrot, a fort held against the French in March 1802, in an engraving published in France in 1839, a later imagining. Print: Auguste Raffet and Ernest Hébert, public domain.*
+
 On the deck he said something to the captain that was written down and remembered. In overthrowing him, he said, they had cut down only the trunk of the tree of liberty. It would grow again from the roots, for they were many and deep.
 
 He was taken to a fortress in the mountains near the Swiss border, nine hundred metres up, and locked in a stone cell. Napoleon did not answer his letters. The winter there is severe, and Toussaint had lived all his life in the tropics. He was found dead in his cell in April 1803.
+
+![A stone fortress with red-tiled roofs on a hill, and a second fort on a white cliff across a wooded valley](images/fort_joux.jpg)
+*The Fort de Joux in the Jura mountains near the Swiss border, where Toussaint Louverture was held in 1802 and 1803 and died. Photo: Patrick Giraud, CC BY-SA 1.0.*
 
 ## Roots
 
@@ -84,9 +105,15 @@ By then his prophecy had come true. In the summer of 1802 news reached Saint-Dom
 
 Bands in the hills rose first. The black generals who had gone over to the French spent some weeks hunting them down on French orders, and then, in October, changed sides themselves. Their leader was Jean-Jacques Dessalines, a former field slave with the scars of the whip on his back, who had been Toussaint's most ruthless commander. Black officers and officers of mixed descent, who had fought each other for a decade, joined forces. At a meeting in 1803 Dessalines is said to have taken the French flag of blue, white and red and torn the white out of it.
 
+![A painted portrait of a man in a tall black plumed hat and a red and gold uniform with epaulettes](images/dessalines.jpg)
+*Jean-Jacques Dessalines, painted in 1873 by Louis Rigaud, long after Dessalines's death in 1806 and so an imagined likeness. Painting: Louis Rigaud, public domain.*
+
 The rains came, and with them the fever. The French commander died of it. So did most of his army. France kept sending reinforcements, and they kept dying, until of the tens of thousands of soldiers and sailors sent to the island more than fifty thousand were dead. The general who took over the command tried terror. He drowned prisoners by the shipload in the bay, and imported hunting dogs from Cuba to tear captives apart in an arena. It made no difference to the outcome.
 
 By then France and Britain were at war again, and British warships had cut the French off from supplies and reinforcements. In November 1803 Dessalines stormed the last French strongpoint outside the northern port. The survivors sailed out of the harbour and surrendered to the British squadron waiting offshore. On 1 January 1804 he proclaimed independence. The new country dropped its French name and took the one that the island's first inhabitants had used before Columbus arrived. They had called it Haiti, the land of mountains.
+
+![A printed sheet in three columns headed Liberté ou la Mort, Armée Indigène](images/declaration.jpg)
+*The printed declaration of independence of 1 January 1804, headed "Liberty or Death" and "Indigenous Army", printed at the government press in Port-au-Prince. Document: National Archives, UK, public domain.*
 
 Dessalines did not mean to leave any chance of a return. In the following weeks he ordered the killing of nearly all the French colonists who remained, several thousand men, women and children. His constitution declared that no white man could own land in Haiti, with an exception for a few hundred Poles and Germans who had deserted from the French army to the Haitian side. All Haitians, whatever their colour, would be known as black.
 
@@ -99,5 +126,8 @@ Slave owners everywhere were terrified. For two generations, the word "Haiti" wa
 In Britain the news cut both ways. At first it frightened Parliament into shelving a campaign against the slave trade that had seemed close to success. Later it supplied the campaigners with their strongest argument, since Haiti had shown what a colony packed with newly landed Africans could become. In 1807 Parliament made it illegal for British ships to carry slaves, and the navy began stopping the ships of other nations. In 1833 it voted to end slavery itself in the Caribbean colonies, and after a further four years of compulsory unpaid work for their old masters, the people were free. Parliament voted twenty million pounds in compensation, which was two fifths of the government's yearly budget. All of it went to the owners.
 
 France found a way to collect compensation as well. In 1825 a French squadron of fourteen warships anchored off the Haitian capital with an offer from the king. France would recognise Haiti's independence, and the country would be able to trade without fear of invasion. In return Haiti would pay a hundred and fifty million francs to the former planters for the property they had lost. The property included the land, the mills, and the people who had freed themselves.
+
+![A handwritten royal ordinance in French with a large yellow wax seal showing a king on a throne](images/ordonnance_1825.jpg)
+*The ordinance of Charles X of 17 April 1825. Article 2 requires the inhabitants of Saint-Domingue to pay 150 million francs to compensate the former colonists. Document: Archives nationales, France, CC BY 4.0.*
 
 Haiti's president signed. The first instalment alone was about six times the government's yearly income, and to pay it Haiti had to borrow from a bank in Paris. The amount was later reduced, but the loans, and the loans taken out to repay the loans, weighed on the country's budget for more than a century. The last payment connected with them was made in 1947.
