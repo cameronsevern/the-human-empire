@@ -40,15 +40,27 @@ A sugar estate was unlike any farm in Europe, and the reason lay in the plant.
 
 Once a stalk of cane is cut, its juice begins to spoil. Within about a day the sugar in it has started to turn into something that will not crystallise. Cane therefore cannot be harvested, stored and processed at leisure, as wheat can. It has to be crushed almost at once and the juice boiled straight away. The mill and the boiling house had to stand in the middle of the fields, and during the harvest, which lasted about five months, they could not stop.
 
+![A tall round tower of grey stone, wider at the base, standing on a grassy slope under a blue sky](images/bettys_hope.jpg)
+*The tower of a windmill that crushed cane at Betty's Hope, a sugar estate on Antigua. Photo: Paul Harrison, CC BY-SA 4.0.*
+
 The work began in the field, and it began long before the harvest. To plant a field, the strongest workers dug it over by hand into a grid of square holes, each wide enough for a person to stand in, and each worker was expected to dig sixty to a hundred of them in a day under the tropical sun. Planters regarded this as the hardest labour on the estate. Then came months of weeding and manuring, carrying dung to the fields in baskets on the head.
 
 At harvest, gangs of men and women cut the cane with heavy knives, stripped the leaves, and loaded it onto carts. Behind each gang walked a driver with a whip. Children of six and seven worked in a gang of their own, gathering grass for the cattle.
 
+![A coloured print of a field of tall cane where men and women cut stalks with knives, with a cart being loaded and a man on horseback at the right](images/cane_cutting.jpg)
+*Enslaved men and women cutting cane on Antigua, in a print of 1823. The driver and the overseer on horseback stand at the right. Print: William Clark, CC0.*
+
 At the mill, the canes were fed by hand between three upright rollers sheathed in iron and turned by wind, water or cattle. This was the most dangerous job on the estate. A tired worker whose fingers were caught was pulled in up to the shoulder, and visitors to the islands reported that a hatchet was kept beside the rollers so that the arm could be cut off before the body followed.
+
+![A black and white engraving of a sugar works under palm trees, with a mill turned by oxen, a boiling house with kettles over a furnace, and men carrying cane](images/sugar_works.jpg)
+*A sugar works in the French West Indies, in an engraving of 1667. On the right, oxen turn the rollers of the mill; in the middle, the boiling house with its furnace and kettles. Print: Le Clerc, public domain.*
 
 The juice ran down a gutter into the boiling house. There it passed through a row of copper kettles, each smaller and hotter than the last, set over a furnace. Men stood over the kettles skimming off the scum and ladling the thickening syrup from one to the next. The head boiler, who was himself enslaved and was valued above anyone else on the property, judged the moment when the last kettle was ready by drawing a thread of syrup between his finger and thumb. A mistake of a minute ruined the batch. The syrup was then run into shallow troughs and stirred as it cooled, until it turned into a mass of brown crystals. This was packed into barrels with holes in the bottom, and over several weeks a dark liquid called molasses drained out of it. The molasses was distilled into rum.
 
 During the harvest the mill and the boilers ran through the night. The workers were divided into shifts, and those who had cut cane all day took their turn in the boiling house for half the night as well. Sixteen or eighteen hours of work in the twenty-four was common.
+
+![A coloured print of a steamy boiling house with a row of kettles over brick furnaces, workers ladling syrup, and two white overseers at the cooling troughs](images/boiling_house.jpg)
+*Inside a boiling house on Antigua, in a print of 1823. The syrup is ladled from kettle to kettle over the furnace, and the cooling troughs stand at the right. Print: William Clark, CC0.*
 
 Europe had very little like this. A plantation brought two or three hundred workers together under one owner, split the work into separate tasks, tied each task to the pace of the machinery, and ran the whole thing by the clock. That is a description of a factory. The sugar islands had factories a hundred years before the first cotton mill was built in England, and they stood in fields and were worked by slaves.
 
@@ -76,6 +88,9 @@ Some of them fought. Every island had its conspiracies and risings, and for a ce
 
 Others simply left. In the mountains of Jamaica, people who had escaped from the estates built villages of their own, farmed, raided the plantations below, and beat off the soldiers sent to catch them. They were called Maroons. After decades of failure the British governor gave up, and in 1739 he signed a treaty with them as though with a foreign power. It recognised their freedom and their land. In return the Maroons agreed to send back any future runaways, and for the most part they did.
 
+![An engraving of a barefoot man in white breeches striding forward with a musket held across his body and a cutlass at his hip](images/parkinson.jpg)
+*Leonard Parkinson, a captain of the Jamaican Maroons, in an engraving published in London in 1796. Print: Abraham Raimbach, public domain.*
+
 ## The bitter cup
 
 The sugar poured into Europe, and it arrived together with a group of other new tastes.
@@ -86,6 +101,9 @@ Rum went the other way. The molasses that drained from the barrels, which the fi
 
 The first coffee house in London opened in 1652, and within fifty years the city had hundreds. For the price of a cup, a man could sit all day, read the newspapers and talk business. Merchants and ship owners met at one kept by a man named Lloyd, and the insurance market that grew up at his tables still carries his name.
 
+![A painting of a room with men in long wigs seated at tables with cups and papers, a fire with coffee pots, and a hostess in a booth at the left](images/coffee_house.jpg)
+*The inside of a London coffee house in the 1600s: customers at long tables with pipes, cups and newspapers, and the hostess at her bar. Painting: anonymous, public domain.*
+
 A fourth new habit came from the Americas, and it was smoked. Tobacco saved the first English colony in Virginia, which had been starving until it found a crop that would sell. The king of England hated the stuff, and wrote a pamphlet calling smoking loathsome to the eye and harmful to the brain. His subjects ignored him.
 
 These were the first goods from other continents that ordinary Europeans bought week after week. Silk and pepper had been for the rich. A pipe of tobacco and a cup of sweet tea were within reach of a servant. They were also habit-forming, which made them a wonderful thing to sell and, for governments, a wonderful thing to tax.
@@ -94,12 +112,21 @@ Sugar bound them together, and the amount of it kept climbing. In 1700 the avera
 
 The poor took to it hardest. By the late 1700s, the breakfast of an English labouring family was bread and tea with sugar, where their grandparents had had porridge and weak beer. It was a worse diet in most respects. However, it was hot, it was quick, it needed no cooking, and the sugar gave a jolt of energy to someone facing a long day's work. The cane fields of the Caribbean had become part of what kept the working people of Europe on their feet.
 
+![A painting of a man, a woman and two small children round a table of silver teapot, bowls and blue-and-white cups, with a spaniel below](images/tea_family.jpg)
+*An English family at tea, painted by Joseph van Aken about 1720. The sugar tongs lie on the table at the left. Painting: Joseph van Aken, public domain.*
+
 ## Two ounces
 
 Very few of those people gave any thought to where it came from. That was one of the plantation's achievements. The work was done four thousand miles away, by people the customer would never meet, and the brown sugar from the barrels was boiled again in a refinery in London or Bristol, so that what arrived in the shop was a clean white cone wrapped in blue paper.
 
 In 1791 a London bookseller published a short pamphlet that set out to close the distance. He asked his readers to do some arithmetic about how many people died to make a given quantity of sugar. So necessarily connected were the eating of the produce and the misery of the slave, he concluded, that in every pound of sugar a person could be considered as consuming two ounces of human flesh.
 
+![A hand-coloured cartoon of a king, a queen and five princesses seated round a tea table, the king sipping and the princesses looking glum](images/gillray.jpg)
+*A cartoon of 1792 by James Gillray, mocking the sugar boycott: the king and queen sip tea without sugar while the princesses look on. Print: James Gillray, public domain.*
+
 The pamphlet sold faster than anything of its kind had sold before. Over the next few years, about three hundred thousand people in Britain stopped buying sugar from the West Indies. Grocers advertised sugar from India instead. When the campaign was revived a generation later, potters sold sugar bowls with a message painted on the side to say that the contents had not been made by slaves.
+
+![A deep blue glass bowl on a foot, lettered in gold: East India Sugar, not made by, Slaves](images/sugar_bowl.jpg)
+*A blue glass sugar bowl in the British Museum, made in England in the 1820s, lettered "East India sugar not made by slaves". Photo: Andreas Praefcke, public domain.*
 
 It was the first time that a great number of shoppers refused to buy something because of how it was produced. The boycott did not end slavery, which had forty more years to run in the British islands. What it showed was that the people at the far end of the chain could be made to look back along it, and that some of them, when they did, lost their appetite.
