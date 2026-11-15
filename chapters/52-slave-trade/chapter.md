@@ -2,9 +2,9 @@
 
 *The Atlantic coast of Africa, from 1482 to about 1800*
 
-Because the plantations of the Americas needed workers by the million, and Africa was the one place where European ships could buy them. The native peoples of the Americas were dying of imported diseases, and Europeans would not come in such numbers and died when they did. In Africa, by contrast, selling war captives was an old business, and the kings and merchants of the coast were willing to sell.
+Because the plantations of the Americas needed workers by the million, and Africa was the one place where European ships could buy people in such numbers. The native peoples of the Americas were dying of imported diseases, and Europeans would not come in such numbers and died when they did. In Africa, by contrast, selling war captives was an old business, and the kings and merchants of the coast were willing to sell.
 
-In 1526 the king of Kongo dictated a letter to the king of Portugal. He addressed him as a brother, because both were Christian monarchs. The king of Kongo had been baptised as a young man, had taken the name Afonso, and had ruled for twenty years a kingdom the size of England on the Atlantic coast of central Africa. He read and wrote Portuguese. One of his sons was a bishop.
+In 1526 the king of Kongo wrote a letter to the king of Portugal, whom he called his brother, because both were Christian monarchs. The king of Kongo had been baptised thirty-five years earlier, when the first Portuguese ships arrived, and had taken the name Afonso. For seventeen years he had ruled a kingdom about the size of England on the Atlantic coast of central Africa. He read and wrote Portuguese. One of his sons was a bishop.
 
 The letter was a complaint. Portuguese merchants, he wrote, were everywhere in his kingdom, and they were buying people. Every day his subjects were being kidnapped and sold, and the victims included the sons of his own nobles and members of his own family. The country was being emptied. He asked the king of Portugal to send him priests, schoolteachers, and wine and flour for the Mass, and to send no more merchants.
 
@@ -18,29 +18,27 @@ The ships came because of a problem on the other side of the ocean.
 
 The Europeans who seized the islands and coasts of the Americas found that the land would grow crops worth a fortune in Europe, above all sugar. They also found that nobody was available to do the work. Growing sugar is brutal labour in tropical heat, and no free person would do it for the wages a planter cared to pay.
 
-At first the conquerors forced the native people to work. The native people died. They had no resistance to smallpox, measles and the other diseases that the newcomers carried, and on the Caribbean islands, where the first plantations were laid out, almost the whole population was gone within two generations.
+In the Caribbean and Brazil, the conquerors at first forced the native people to work. The native people died. They had no resistance to smallpox, measles and the other diseases that the newcomers carried, and on the Caribbean islands, where the first plantations were laid out, almost the whole population was gone within two generations.
 
-The planters then tried poor Europeans. These came as servants bound by contract for a fixed number of years, in return for their passage and the promise of land afterwards. However, there were never enough of them, they could not be held beyond their term, and they had the legal rights of Christians and subjects. They also died. The warm, wet lowlands of the Americas soon swarmed with two diseases carried by mosquitoes, malaria and yellow fever, and a European landed in the Caribbean had a poor chance of seeing out his contract.
+On the English and French islands, the planters also tried poor Europeans. These came as servants bound by contract for a fixed number of years, in return for their passage and the promise of land afterwards. However, there were never enough of them, they could not be held beyond their term, and they had the legal rights of Christians and subjects. They also died. The warm, wet lowlands of the Americas soon swarmed with two diseases carried by mosquitoes, malaria and yellow fever, and a European landed in the Caribbean had a poor chance of seeing out his contract.
 
-Both diseases had come from Africa in the ships. For that reason, people who had grown up in West Africa were the ones most likely to survive them. Many had lived through yellow fever in childhood, which protects for life, and many carried in their blood an inherited defence against the worst kinds of malaria. They also knew how to farm in the tropics.
+Yellow fever and the deadliest kind of malaria had come from Africa in the ships. For that reason, people who had grown up in West Africa were the ones most likely to survive them. Many had lived through yellow fever in childhood, which protects for life, and many carried in their blood an inherited defence against the worst kinds of malaria. They also knew how to farm in the tropics.
 
 The Portuguese already had a source. For half a century before Columbus, their ships had been working down the African coast, buying gold, pepper and people, and they had used African slaves to grow sugar on islands off that coast. When the plantations moved across the Atlantic, the slave ships followed.
 
 ## The white man's grave
 
-A reader who knows what Europeans did in Mexico and Peru might expect that they did the same in Africa: marched inland, overthrew the kings and took what they wanted. They did nothing of the kind. For three hundred years they stayed on the beach.
+A reader who knows what Europeans did in Mexico and Peru might expect that they did the same in Africa: marched inland, overthrew the kings and took what they wanted. With one exception, they did nothing of the kind. For three hundred years they stayed on the beach.
 
-One reason was disease, which in Africa worked in the other direction. The fevers that Africans had some defence against killed Europeans at a terrible rate. Of every hundred Europeans who landed on the West African coast, between a third and a half were dead within the year. Sailors called it the white man's grave. No army could be kept alive there, and none was sent.
+One reason was disease, which in Africa worked in the other direction. The fevers that Africans had some defence against killed Europeans at a terrible rate. Of every hundred men whom the English trading company sent out to its forts on the West African coast, between a third and a half were dead within the year. Sailors called it the white man's grave. An army could not be kept alive there for long.
 
 The other reason was that the African kingdoms were strong. They had iron weapons, cavalry in the grasslands, war canoes on the rivers, and soldiers in tens of thousands. A ship's crew that tried raiding for captives, as the first Portuguese did, was likely to be cut to pieces. The Portuguese learned quickly that it was safer and cheaper to buy.
 
-So the Europeans built forts, and they built them by permission. In 1482 the Portuguese put up a stone castle at a place on the coast of what is now Ghana, where gold was traded, and called it Elmina, "the mine". It stands today. Over the following centuries the Dutch, the English, the Danes, the Swedes and others built about sixty more along the same five hundred kilometres of shore.
+So the Europeans built forts, and they built them by permission. In 1482 the Portuguese put up a stone castle at a place on the coast of what is now Ghana, where gold was traded, and called it Elmina, "the mine". It stands today. Over the following centuries the Dutch, the English, the Danes, the Swedes and others built dozens more along the same five hundred kilometres of shore.
 
-These forts look like the bases of conquerors, but they were closer to warehouses. Their cannon pointed out to sea, at rival Europeans. The ground they stood on was rented from the local ruler, who was paid every year and who could, and sometimes did, cut off the garrison's food and water when it displeased him. Inside the walls was a storeroom for trade goods and a prison for people waiting to be shipped.
+These forts look like the bases of conquerors, but they were closer to warehouses. Their cannon pointed out to sea, at rival Europeans. The ground they stood on was rented from the local ruler, who was paid every year, and the garrison bought its food in his markets and depended on his goodwill. Inside the walls was a storeroom for trade goods and a prison for people waiting to be shipped.
 
 ## Wealth in people
-
-To understand why African rulers sold, it helps to know what a slave was in Africa before the ships came.
 
 In Europe, a rich man was one who owned land. In most of Africa south of the Sahara, land was plentiful and belonged to the community or the king, and nobody could buy a field. What was scarce was people to work it. Wealth and power were therefore counted in dependants: wives, children, clients and slaves. A great man was one with many people.
 
@@ -52,52 +50,58 @@ What the ships offered was manufactured goods. The largest item by far was cloth
 
 The ships also brought guns. By the late 1700s, several hundred thousand muskets a year were being unloaded in West Africa, along with the powder to fire them.
 
+None of this was a simple swap on a beach. A slave ship might spend four or five months on the coast, anchored off one town after another, filling its hold a few people at a time. The captain dealt with African brokers who knew the prices in London as well as he did. He paid customs to the king before he was allowed to open trade, and gave presents to the king's officials. He advanced goods on credit to merchants who went inland to buy, and those merchants sometimes left their own relatives aboard as a pledge that they would return. On parts of the coast, families descended from European traders and African wives grew rich as go-betweens, sending their sons to school in Liverpool and their captives to Jamaica.
+
 ## The kings' choice
 
 African rulers did not respond alike.
 
 The kingdom of Benin, in what is now southern Nigeria, was one of the first that the Portuguese visited. Its craftsmen cast brass plaques for the royal palace, and some of them show the long-nosed foreigners with their guns. Benin sold the Portuguese pepper, ivory and cloth. Early in the 1500s its king forbade the export of male slaves, and the ban held for about two centuries. Benin kept its people because it wanted them.
 
-Dahomey, a little to the west, made the opposite choice. It was a new kingdom, built for war. In 1727 its king marched to the coast and conquered the port of Whydah, through which more captives passed than through any other harbour in West Africa. After that the slave trade was the king's own business. Each year the army went out to raid its neighbours, and each year the prisoners were marched to the sea.
+Dahomey, a little to the west, made the opposite choice. It was a new kingdom, built for war. In 1727 its king marched to the coast and conquered the port of Whydah, the busiest slave harbour on that stretch of coast. After that the king was the largest seller in his own port, and private merchants paid him for leave to trade beside him. Each year the army went out to raid its neighbours, and each year the prisoners were marched to the sea.
 
-In the lands south of Kongo, a queen named Njinga spent forty years doing both. The Portuguese had planted a colony on her coast, the one place where they did try to conquer, and they wanted her kingdom for the captives it could yield. Njinga fought them, made peace with them, allied with the Dutch against them, and fought them again until she died in her eighties. She paid for her wars by selling prisoners to the same ships.
+Between and behind these lay others. The Asante, in the forests of what is now Ghana, built an empire on gold and on the captives of their wars, and received European envoys in a capital with broad, swept streets. The horsemen of Oyo, further east, raided the grasslands and sold south to the sea. Each of these states had its own laws about who could be enslaved and who could not, and each bent those laws as the price of a captive rose.
 
-Her case shows the trap in which every ruler stood. A king who refused to sell did not thereby make his people safe. His neighbour would sell, and would be paid in muskets, and would come for him. The safest course for any one kingdom was to be the one that took captives, and the result for the whole region was that war paid, and kidnapping paid, in a way they never had before. Courts began to punish small offences with enslavement. Gangs seized travellers on the roads.
+In the lands south of Kongo, a queen named Njinga spent forty years doing both. The Portuguese had planted a colony on her coast. It was the one place on the Atlantic side of Africa where they tried to conquer the interior, and they wanted her kingdom for the captives it could yield. Njinga fought them, made peace with them, allied with the Dutch against them, and fought them again. She signed a final treaty at the age of about seventy-three and died seven years later, still a queen. She paid for her wars by selling prisoners to the same ships.
+
+Her case shows the trap in which many rulers stood. A king who refused to sell did not thereby make his people safe. If his neighbour sold, and was paid in muskets, the neighbour might come for him. A strong, well-armed kingdom such as Benin could stay out. A weaker one often judged that the safest course was to be the side that took captives. The result, over wide regions, was that war paid, and kidnapping paid, in a way they never had before. Courts began to punish small offences with enslavement. Gangs seized travellers on the roads.
 
 ## A boy in a field
 
-About 1770 a boy of thirteen named Ottobah Cugoano was playing in the fields with other children, some days' walk from the coast of what is now Ghana. A group of men came up and accused the children of trespassing on a lord's land. They said the children must come and answer for it. The men were Africans, and they were armed.
+About 1770 a boy of thirteen named Ottobah Cugoano was playing in the fields with other children, some days' walk from the coast of what is now Ghana. A group of men came up and accused the children of an offence against their lord. They said the children must come and answer for it. The men were Africans, and they were armed.
 
 The children were marched for days, and passed from one set of hands to another. Cugoano was told that he would soon see his family. He realised what was happening only when he reached a town near the sea and saw white men, whom he had been raised to fear as people who ate children. He was sold for a gun, a piece of cloth and some lead.
 
-He was taken to Cape Coast Castle, the chief English fort. Under its courtyard were vaulted cellars cut into the rock, where more than a thousand people at a time waited in the dark for a ship. Directly above the men's dungeon the English had built their chapel.
+He was held in one of the forts for three days and then put aboard a ship that sailed from Cape Coast, where the chief English castle stood. Under the courtyard of that castle were vaulted cellars where as many as a thousand people at a time waited in the dark for a ship. Directly above the men's dungeon the English had built their chapel.
 
-Cugoano never forgot the rattle of chains and the groans and cries when the prisoners were taken out to the boats. Many years later, as a free man in London, he wrote a book against the trade. He did not spare his own countrymen, who had kidnapped and sold him. However, he added, if there had been no buyers there would have been no sellers.
+Cugoano never forgot the rattle of chains and the groans and cries when the prisoners were taken out to the boats. He was landed on the island of Grenada and put to work in a gang cutting cane. After two years a new owner took him to England, where he gained his freedom, and in 1787, as a servant in London, he published a book against the trade. He did not spare his own countrymen, who had kidnapped and sold him. However, he added, if there had been no buyers there would have been no sellers.
 
-The ship was the worst of it. A slave ship of the 1700s was about thirty metres long, and it carried three or four hundred people below deck on wooden shelves, with less room for each than a coffin gives. The men were chained in pairs at the ankle. In 1788 opponents of the trade published a drawing of one Liverpool ship, the *Brookes*, showing how four hundred and fifty-four bodies could be fitted into her hold according to the rules. On earlier voyages she had carried more than six hundred.
+The ship was the worst of it. A typical slave ship of the 1700s was no longer than a tennis court, and it carried three or four hundred people below deck on wooden shelves, with less room for each than a coffin gives. The men were chained in pairs at the ankle. In 1788 opponents of the trade published a drawing of one Liverpool ship, the *Brookes*, showing how four hundred and fifty-four bodies could be fitted into her hold according to the rules. On earlier voyages she had carried more than six hundred.
 
-The crossing took six to ten weeks. On average about one captive in eight died on the way, of dysentery, of thirst, or of despair. On roughly one voyage in ten the captives rose against the crew, and nets were rigged along the sides of the ships to stop people from throwing themselves into the sea.
+The crossing took six to ten weeks. On average about one captive in seven died on the way, of dysentery, of thirst, or of despair. On roughly one voyage in ten the captives rose against the crew, and nets were rigged along the sides of the ships to stop people from throwing themselves into the sea.
 
 ## The count
 
-The trade was a business, and businesses keep records. Captains kept logs, port officials collected duties, and insurers wrote policies. Historians have gathered these papers for more than thirty-six thousand separate voyages, and the totals are now known about as well as anything in that age can be.
+The trade was a business, and businesses keep records. Captains kept logs, port officials collected duties, and insurers wrote policies. Historians have gathered these papers for about thirty-six thousand separate voyages, and the totals are now known about as well as anything in that age can be.
 
-Between 1501 and 1867, about twelve and a half million people were put aboard ships on the coast of Africa. About ten and a half million were alive when the ships arrived. More than half of them crossed in a single century, the 1700s.
+Between 1501 and 1866, about twelve and a half million people were put aboard ships on the coast of Africa. About ten million seven hundred thousand were alive when the ships arrived. More than half of them crossed in a single century, the 1700s.
 
-Where they went may surprise a reader in the United States. Fewer than four in a hundred were landed in North America. Almost half went to Brazil, and most of the rest to the islands of the Caribbean. They were sent wherever sugar grew, because that was where the labour was used up fastest.
+Fewer than four in a hundred were landed in North America. Almost half went to Brazil, and most of the rest to the islands of the Caribbean. Some went to mines, to tobacco and rice fields and to city households. The great majority were sent where sugar grew, because that was where labour was used up fastest.
+
+The numbers rose with the demand for sugar. In the 1500s a few thousand people a year were shipped. By the 1780s it was about eighty thousand a year, and a ship left the coast of Africa with a human cargo on most days of the year.
 
 They were carried under every flag in western Europe. The Portuguese, and the Brazilians after them, shipped the most, followed by the British, the French, the Spanish and the Dutch. The trade built the fortunes of Liverpool, Bristol and Nantes, and it was financed and insured by respectable men who never saw a ship.
 
 ## What it did
 
-Counting the effect on Africa is harder than counting the ships, and historians disagree about how deep the damage went. Some things are plain.
+Counting the effect on Africa is harder than counting the ships, and historians disagree about how deep the damage went.
 
-The first is the missing people. For every person sold on the coast, others had died in the raid that took them or on the march to the sea. During the 1700s the population of Europe grew by half and went on growing. The population of West Africa barely changed in a hundred and fifty years.
+The first loss is the missing people. For every person sold on the coast, others had died in the raid that took them or on the march to the sea. During the 1700s the population of Europe grew by half and went on growing. Along the coasts of West and Central Africa that fed the ships, the best estimates show the number of people falling from about 1730 for more than a century.
 
-The second is who was taken. The planters wanted young men, and the ships carried about two males for every female. In the regions that lost most, there were villages of women, children and the old.
+The second is who was taken. The planters wanted young men, and the ships carried nearly two males for every female. In the regions that lost most, there were villages of women, children and the old.
 
-The third is what the sale of people did to the societies that sold them. The profit went to kings, to warlords and to the merchants of the coast, in the form of cloth, liquor and guns. None of it was the kind of wealth that grows. In the same centuries that Europe was building mills and banks with the proceeds of the plantations, the African kingdoms that supplied the labour were spending their income on the means of capturing more.
+The third is what the sale of people did to the societies that sold them. The profit went to kings, to warlords and to the merchants of the coast, in the form of cloth, liquor and guns. Little of it was the kind of wealth that grows. In the same centuries that Europe was building mills and banks with the proceeds of the plantations, the African kingdoms that supplied the labour were spending their income on the means of capturing more.
 
-Kongo is the clearest case. A century after Afonso's death the kingdom fell into civil war between rival branches of the royal family, and the war lasted, on and off, for forty years. Each side sold its prisoners to the ships to pay for muskets. The capital was abandoned to the forest.
+Kongo is the clearest case. A hundred and twenty years after Afonso's death the kingdom fell into civil war between rival branches of the royal family, and the war lasted, on and off, for forty years. Each side sold its prisoners to the ships to pay for muskets. The capital was abandoned to the forest.
 
-Those prisoners were soldiers. They had been trained in the Kongo fashion, to fight in loose order with firearms, and many were Catholics who spoke some Portuguese. In 1739, in the English colony of South Carolina, a band of such men broke into a store of guns, raised a banner and marched south towards Spanish territory with drums beating, in the largest slave rising that the mainland colonies ever saw. The planters who bought them had thought that they were buying field hands.
+Many of those prisoners were soldiers, and the wars went on producing them for generations. They had been trained in the Kongo fashion, to fight in loose order with firearms, and many were Catholics who spoke some Portuguese. In 1739, in the British colony of South Carolina, a band of enslaved men from that part of Africa broke into a store of guns, raised a banner and marched south with drums beating. They were heading for Spanish Florida, where the governor had promised freedom to any slave of the British who reached him. It was the largest slave rising that Britain's mainland colonies ever saw, and the way the rebels handled their weapons suggests that some of them had done it before. The planters who bought them had thought that they were buying field hands.
