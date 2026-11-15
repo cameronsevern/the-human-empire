@@ -20,8 +20,8 @@ RELEASED = {1, 2, 3}    # parts that are public on the site; add a number here w
 PARTS = [
     (1, "I", "Origins", (1, 7)),
     (2, "II", "Conquest", (8, 22)),
-    (3, "III", "Faith", (23, 36)),
-    (4, "IV", "Expansion", (37, 47)),
+    (3, "III", "Faith", (23, 39)),
+    (4, "IV", "Expansion", (40, 51)),
     (5, "V", "Wealth", None),
     (6, "VI", "War", None),
     (7, "VII", "Dominion", None),
