@@ -6,6 +6,9 @@ Because the plantations of the Americas needed workers by the million, and Afric
 
 In 1526 the king of Kongo wrote a letter to the king of Portugal, whom he called his brother, because both were Christian monarchs. The king of Kongo had been baptised thirty-five years earlier, when the first Portuguese ships arrived, and had taken the name Afonso. For seventeen years he had ruled a kingdom about the size of England on the Atlantic coast of central Africa. He read and wrote Portuguese. One of his sons was a bishop.
 
+![Engraving of a king of Kongo seated under a chandelier, flanked by attendants with torches, as kneeling Europeans in broad hats offer him a document](images/kongo_dapper.jpg)
+*A king of Kongo receives Dutch envoys. Engraving from Olfert Dapper's book on Africa, published in 1668, about 140 years after Afonso's letter. Image: Olfert Dapper, public domain.*
+
 The letter was a complaint. Portuguese merchants, he wrote, were everywhere in his kingdom, and they were buying people. Every day his subjects were being kidnapped and sold, and the victims included the sons of his own nobles and members of his own family. The country was being emptied. He asked the king of Portugal to send him priests, schoolteachers, and wine and flour for the Mass, and to send no more merchants.
 
 Afonso was not against slavery. His kingdom had slaves, as nearly every kingdom on Earth did, and he had sold captives to the Portuguese himself. His objection was that the trade had escaped his control and was eating his own people. He set up an office to inspect every person the foreigners bought and to check that each had been lawfully enslaved.
@@ -36,6 +39,9 @@ The other reason was that the African kingdoms were strong. They had iron weapon
 
 So the Europeans built forts, and they built them by permission. In 1482 the Portuguese put up a stone castle at a place on the coast of what is now Ghana, where gold was traded, and called it Elmina, "the mine". It stands today. Over the following centuries the Dutch, the English, the Danes, the Swedes and others built dozens more along the same five hundred kilometres of shore.
 
+![A long white fortress with red roofs and a squat tower on the shore, with fishing boats on the beach and a breakwater of rocks in front](images/elmina.jpg)
+*Elmina Castle on the coast of Ghana, first built by the Portuguese in 1482. Photo: JojoYaeger, CC BY-SA 4.0.*
+
 These forts look like the bases of conquerors, but they were closer to warehouses. Their cannon pointed out to sea, at rival Europeans. The ground they stood on was rented from the local ruler, who was paid every year, and the garrison bought its food in his markets and depended on his goodwill. Inside the walls was a storeroom for trade goods and a prison for people waiting to be shipped.
 
 ## Wealth in people
@@ -58,11 +64,20 @@ African rulers did not respond alike.
 
 The kingdom of Benin, in what is now southern Nigeria, was one of the first that the Portuguese visited. Its craftsmen cast brass plaques for the royal palace, and some of them show the long-nosed foreigners with their guns. Benin sold the Portuguese pepper, ivory and cloth. Early in the 1500s its king forbade the export of male slaves, and the ban held for about two centuries. Benin kept its people because it wanted them.
 
+![A dark brass plaque with two bearded men in hats, each holding a chain of heavy open rings](images/benin_plaque.jpg)
+*A brass plaque from the kingdom of Benin, about 400 years old, showing two Portuguese men. Each holds a manilla, a brass bracelet that European ships brought to the coast and that was used as money. Photo: Metropolitan Museum of Art, CC0.*
+
 Dahomey, a little to the west, made the opposite choice. It was a new kingdom, built for war. In 1727 its king marched to the coast and conquered the port of Whydah, the busiest slave harbour on that stretch of coast. After that the king was the largest seller in his own port, and private merchants paid him for leave to trade beside him. Each year the army went out to raid its neighbours, and each year the prisoners were marched to the sea.
+
+![Black and white engraving of a crowd of armed women and men marching, with a king under an umbrella at their head](images/dalzel.jpg)
+*The king of Dahomey going to war with his army, which included women soldiers. Engraving from Archibald Dalzel's history of Dahomey, published in 1793. Image: Archibald Dalzel, public domain.*
 
 Between and behind these lay others. The Asante, in the forests of what is now Ghana, built an empire on gold and on the captives of their wars, and received European envoys in a capital with broad, swept streets. The horsemen of Oyo, further east, raided the grasslands and sold south to the sea. Each of these states had its own laws about who could be enslaved and who could not, and each bent those laws as the price of a captive rose.
 
 In the lands south of Kongo, a queen named Njinga spent forty years doing both. The Portuguese had planted a colony on her coast. It was the one place on the Atlantic side of Africa where they tried to conquer the interior, and they wanted her kingdom for the captives it could yield. Njinga fought them, made peace with them, allied with the Dutch against them, and fought them again. She signed a final treaty at the age of about seventy-three and died seven years later, still a queen. She paid for her wars by selling prisoners to the same ships.
+
+![Engraving of a kneeling woman being baptised over a large basin by a priest, with attendants and onlookers standing around](images/njinga.png)
+*Njinga being baptised in Luanda. Engraving from the book of the Italian priest Giovanni Antonio Cavazzi, published in 1687. Image: Giovanni Antonio Cavazzi, public domain.*
 
 Her case shows the trap in which many rulers stood. A king who refused to sell did not thereby make his people safe. If his neighbour sold, and was paid in muskets, the neighbour might come for him. A strong, well-armed kingdom such as Benin could stay out. A weaker one often judged that the safest course was to be the side that took captives. The result, over wide regions, was that war paid, and kidnapping paid, in a way they never had before. Courts began to punish small offences with enslavement. Gangs seized travellers on the roads.
 
@@ -74,9 +89,18 @@ The children were marched for days, and passed from one set of hands to another.
 
 He was held in one of the forts for three days and then put aboard a ship that sailed from Cape Coast, where the chief English castle stood. Under the courtyard of that castle were vaulted cellars where as many as a thousand people at a time waited in the dark for a ship. Directly above the men's dungeon the English had built their chapel.
 
+![An open double door of black planks under a brick vault, with a sign reading Male Slave Dungeon above it and a brick-vaulted cellar beyond](images/capecoast_male.jpg)
+*The doorway to the men's dungeon at Cape Coast Castle in Ghana, a vaulted brick cellar where captives waited for a ship. Photo: Antorsu10, CC BY-SA 4.0.*
+
 Cugoano never forgot the rattle of chains and the groans and cries when the prisoners were taken out to the boats. He was landed on the island of Grenada and put to work in a gang cutting cane. After two years a new owner took him to England, where he gained his freedom, and in 1787, as a servant in London, he published a book against the trade. He did not spare his own countrymen, who had kidnapped and sold him. However, he added, if there had been no buyers there would have been no sellers.
 
+![A stained printed title page reading Thoughts and Sentiments on the Evil and Wicked Traffic of the Slavery and Commerce of the Human Species, by Ottobah Cugoano, a Native of Africa](images/cugoano_title.jpg)
+*The title page of Ottobah Cugoano's book against the slave trade, printed in London in 1787. He signs himself "a native of Africa". Image: public domain.*
+
 The ship was the worst of it. A typical slave ship of the 1700s was no longer than a tennis court, and it carried three or four hundred people below deck on wooden shelves, with less room for each than a coffin gives. The men were chained in pairs at the ankle. In 1788 opponents of the trade published a drawing of one Liverpool ship, the *Brookes*, showing how four hundred and fifty-four bodies could be fitted into her hold according to the rules. On earlier voyages she had carried more than six hundred.
+
+![Engraved plan of a ship with a side view and two deck plans packed with rows of tiny human figures, under the title Stowage of the British Slave Ship Brookes](images/brookes.jpg)
+*The Liverpool slave ship Brookes in plan and section, from a print of 1788 published by opponents of the trade. Image: Library of Congress, public domain.*
 
 The crossing took six to ten weeks. On average about one captive in seven died on the way, of dysentery, of thirst, or of despair. On roughly one voyage in ten the captives rose against the crew, and nets were rigged along the sides of the ships to stop people from throwing themselves into the sea.
 
