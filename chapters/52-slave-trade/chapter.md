@@ -112,6 +112,9 @@ Between 1501 and 1866, about twelve and a half million people were put aboard sh
 
 Fewer than four in a hundred were landed in North America. Almost half went to Brazil, and most of the rest to the islands of the Caribbean. Some went to mines, to tobacco and rice fields and to city households. The great majority were sent where sugar grew, because that was where labour was used up fastest.
 
+![Map of the Atlantic with three red arrows from Africa: thick ones to Brazil, about 4.9 million, and to the Caribbean and Spanish America, about 5.3 million, and a thin one to North America, about 400,000; below, two close-up panels of the African coast showing Asante, Dahomey, Oyo and Benin with Elmina, Cape Coast and Whydah, and Kongo and Ndongo with Luanda](images/map_slave_trade.png)
+*The Atlantic slave trade. The arrows show roughly how many people were landed in each region between 1501 and 1866; below, the coast of West Africa and of Kongo and Ndongo, with the states roughly as they were in the early 1700s. Map: drawn for this book; coastlines and rivers from Natural Earth, public domain.*
+
 The numbers rose with the demand for sugar. In the 1500s a few thousand people a year were shipped. By the 1780s it was about eighty thousand a year, and a ship left the coast of Africa with a human cargo on most days of the year.
 
 They were carried under every flag in western Europe. The Portuguese, and the Brazilians after them, shipped the most, followed by the British, the French, the Spanish and the Dutch. The trade built the fortunes of Liverpool, Bristol and Nantes, and it was financed and insured by respectable men who never saw a ship.

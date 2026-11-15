@@ -63,6 +63,9 @@ The civil war lasted four years in its first round. It divided counties, towns a
 
 For the first two years neither side could win. The king had the better cavalry, led by dashing noblemen. Parliament had London, the navy and most of the money. What Parliament lacked was generals who really wanted to beat the king, since most of them were great lords who shrank from the thought of what would follow.
 
+![Map of England, Scotland and Ireland with the areas held for the king at the end of 1642 (Wales, Cornwall and the far north of England) and for Parliament (London, the south-east and East Anglia) shaded, and London, Oxford, Naseby, Edinburgh, Dublin, Drogheda and Torbay marked, with William of Orange's crossing from Holland in 1688](images/map_three_kingdoms.png)
+*England, Scotland and Ireland in the 1640s. The shading shows roughly the areas held firmly for the king and for Parliament at the end of 1642; the rest of England was contested. Map: drawn for this book; coastlines and rivers from Natural Earth, public domain.*
+
 A member of Parliament from the eastern farmlands, a country gentleman of forty-three with no military training, changed that. Oliver Cromwell raised a regiment of cavalry from among his neighbours and picked his officers for their zeal and ability, whatever their birth. He would rather have a plain captain in a rough brown coat who knew what he fought for, he wrote, than what people called a gentleman and was nothing else.
 
 ![A man in dark plate armour and a white collar holding a staff, with a young page beside him](images/walker.jpg)

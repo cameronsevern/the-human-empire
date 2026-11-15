@@ -107,6 +107,9 @@ The first consequence was that the Company no longer needed to send silver to Be
 
 The second was the army. The land tax of Bengal brought in more each year than the Company had ever earned by trade, and that money hired sepoys. The sepoys conquered the next province, whose taxes hired more sepoys. Indian bankers, seeing where power lay, lent the Company what it needed between harvests. Each conquest supplied the revenue, and the credit, for the next.
 
+![Map of India about 1765 with Bengal and Bihar shaded as taxed by the Company from 1765, the Maratha lands across the centre and west, Mysore in the south, and Delhi, Calcutta, Plassey, Madras and Bombay; an inset shows the Spice Islands with Batavia on Java and the Banda Islands](images/map_india_1765.png)
+*India about 1765, with the lands taxed by the Company from that year, and the Maratha lands and Mysore, roughly. The inset shows the Spice Islands, from Batavia to the Banda Islands. Map: drawn for this book; coastlines and rivers from Natural Earth, public domain.*
+
 The third consequence fell on Bengal. The Company's servants, who were paid little, had come out to make their fortunes and go home, and they now had a province in their hands. They squeezed it. In 1769 the rains failed. The Company went on collecting the tax in full, and in some districts raised it. Its own governor estimated afterwards that a third of the people of Bengal had died.
 
 The men who came home rich were disliked in England, where they bought country estates and seats in Parliament. They brought a word with them from Hindi, which entered the English language at about this time. The word was "loot".

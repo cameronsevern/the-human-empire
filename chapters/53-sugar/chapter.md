@@ -34,6 +34,9 @@ In their place came Africans. In 1640 enslaved people were a small minority on B
 
 Every other power with an island copied it. The English took Jamaica from Spain and planted it. The French did the same on Martinique, Guadeloupe and, most productive of all, Saint-Domingue, the western end of the island of Hispaniola, where Columbus had planted the first Spanish colony. The Caribbean, which had been a Spanish backwater on the route to the silver mines, became the most valuable farmland on Earth.
 
+![Map of the Caribbean with the islands filled by owner: Cuba, Santo Domingo and Puerto Rico Spanish; Jamaica, Antigua and Barbados British; Saint-Domingue, Guadeloupe and Martinique French; an inset of north-east Brazil shows Recife and Salvador and the coast held by the Dutch from 1630 to 1654](images/map_sugar_islands.png)
+*The sugar islands of the Caribbean about 1750 and the powers that held them. The inset shows the sugar coast of north-east Brazil, with the stretch the Dutch held from 1630 to 1654, roughly. Map: drawn for this book; coastlines and rivers from Natural Earth, public domain.*
+
 ## Before the juice sours
 
 A sugar estate was unlike any farm in Europe, and the reason lay in the plant.

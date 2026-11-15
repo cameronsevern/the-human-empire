@@ -92,6 +92,9 @@ The Native nations of the interior made the same calculation. The British govern
 
 Nor were the white colonists of one mind. About a fifth of them stayed loyal to the king. The war was fought between neighbours as well as between armies, and when it ended, some sixty thousand loyalists left the country for good.
 
+![Map of eastern North America in 1775 with the thirteen colonies shaded and named, the dashed line of 1763 along the mountains, the Iroquois, Shawnee, Cherokee and Creek beyond it, Canada with Quebec, the Ohio and Mississippi rivers, and Boston, New York, Philadelphia, Saratoga and Yorktown](images/map_colonies_1775.png)
+*Eastern North America in 1775: the thirteen colonies, the line of 1763 beyond which settlers were forbidden to go, and some of the Native nations whose lands lay beyond it. The colonies and the line are drawn roughly. Map: drawn for this book; coastlines and rivers from Natural Earth, public domain.*
+
 ## Three thousand miles
 
 On paper Britain could not lose. It had the best navy in the world, a professional army and several times the colonies' population. It rented thirty thousand trained soldiers from German princes to add to its own.
