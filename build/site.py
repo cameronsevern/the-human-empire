@@ -13,6 +13,8 @@ from partcolours import COLOURS
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SITE = os.path.join(ROOT, "site")
+DOWNLOADS = os.path.join(ROOT, "build", "downloads")   # uploaded to the release below by deploy.sh
+RELEASE_URL = "https://github.com/cameronsevern/the-human-empire/releases/download/downloads"
 DPI = 170          # A5 at 170 dpi is about 990 x 1405 pixels: sharp when a page fills the screen
 
 RELEASED = {1, 2, 3}    # parts that are public on the site; add a number here when a part is ready
@@ -48,9 +50,10 @@ for n, roman, title, span in PARTS:
     entry = {"n": n, "roman": roman, "title": title, "released": False, "colour": COLOURS[roman]}
     shutil.rmtree(os.path.join(SITE, "pages", str(n)), ignore_errors=True)
     for ext in ("pdf", "epub"):
-        old = os.path.join(SITE, "downloads", f"the-human-empire-part-{n}.{ext}")
-        if os.path.exists(old):
-            os.remove(old)
+        for folder in (os.path.join(SITE, "downloads"), DOWNLOADS):  # site/downloads is the old place
+            old = os.path.join(folder, f"the-human-empire-part-{n}.{ext}")
+            if os.path.exists(old):
+                os.remove(old)
     if span and n in RELEASED:
         stem = f"the-human-empire-ch{span[0]:02d}-{span[1]:02d}"
         pdf = os.path.join(ROOT, "build", stem + "-designed.pdf")
@@ -68,19 +71,24 @@ for n, roman, title, span in PARTS:
                 subprocess.run(["pdftoppm", "-r", str(2 * DPI), "-png", source, os.path.join(tmp, "p")], check=True)
                 shots = sorted(glob.glob(os.path.join(tmp, "p-*.png")))
                 for i, shot in enumerate(shots, start=1):
-                    subprocess.run(["magick", shot, "-quality", "78", os.path.join(pages_dir, "hi", f"{i:03d}.webp")], check=True)
-                    subprocess.run(["magick", shot, "-resize", "50%", "-quality", "80", os.path.join(pages_dir, f"{i:03d}.webp")], check=True)
-            os.makedirs(os.path.join(SITE, "downloads"), exist_ok=True)
+                    # the sharp copy is AVIF, about a third the size of WebP for the same look; the ordinary copy stays WebP,
+                    # which every browser reads, so a browser without AVIF still shows the book and only loses the zoom detail
+                    subprocess.run(["avifenc", "-q", "45", "-s", "6", "-j", "all", shot, os.path.join(pages_dir, "hi", f"{i:03d}.avif")],
+                                   check=True, stdout=subprocess.DEVNULL)
+                    subprocess.run(["magick", shot, "-resize", "50%", "-quality", "72", "-define", "webp:method=6",
+                                    os.path.join(pages_dir, f"{i:03d}.webp")], check=True)
+            # the PDF and EPUB are not part of the site: deploy.sh uploads them to a GitHub release, which has no size cap
+            os.makedirs(DOWNLOADS, exist_ok=True)
             name = f"the-human-empire-part-{n}"
-            shutil.copy(pdf, os.path.join(SITE, "downloads", name + ".pdf"))
+            shutil.copy(pdf, os.path.join(DOWNLOADS, name + ".pdf"))
             # v changes whenever the PDF does, so browsers never mix cached pages of an older build with new ones
             v = int(os.path.getmtime(pdf))
-            entry.update(released=True, hi=True, v=v, pages=len(shots), pdf=f"downloads/{name}.pdf?v={v}",
+            entry.update(released=True, hi=True, v=v, pages=len(shots), pdf=f"{RELEASE_URL}/{name}.pdf",
                          chapters=chapters(span[0], span[1], pdf))
             if os.path.exists(epub):
-                shutil.copy(epub, os.path.join(SITE, "downloads", name + ".epub"))
-                entry["epub"] = f"downloads/{name}.epub?v={v}"
-            size = sum(os.path.getsize(f) for f in glob.glob(os.path.join(pages_dir, "*.webp"))) / 1e6
+                shutil.copy(epub, os.path.join(DOWNLOADS, name + ".epub"))
+                entry["epub"] = f"{RELEASE_URL}/{name}.epub"
+            size = sum(os.path.getsize(f) for f in glob.glob(os.path.join(pages_dir, "**", "*.*"), recursive=True)) / 1e6
             print(f"Part {roman}: {len(shots)} pages, {size:.0f} MB of page images")
     data.append(entry)
 

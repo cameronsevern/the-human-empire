@@ -6,3 +6,4 @@ site/pages/
 site/downloads/
 site/parts.json
 __pycache__/
+build/downloads/

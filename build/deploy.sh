@@ -6,6 +6,13 @@ set -euo pipefail
 root="$(cd "$(dirname "$0")/.." && pwd)"
 remote="$(git -C "$root" remote get-url origin)"
 email="$(git -C "$root" config user.email)"; name="$(git -C "$root" config user.name)"
+# The PDF and EPUB of each released part go to the "downloads" release, outside the 1 GB limit on the site.
+if ls "$root"/build/downloads/* >/dev/null 2>&1; then
+  gh release view downloads -R cameronsevern/the-human-empire >/dev/null 2>&1 ||
+    gh release create downloads -R cameronsevern/the-human-empire --target main --title "Downloads" \
+      --notes "The PDF and EPUB of each released part of The Human Empire. These files are replaced whenever a part is rebuilt."
+  gh release upload downloads -R cameronsevern/the-human-empire --clobber "$root"/build/downloads/*
+fi
 tmp="$(mktemp -d)"; trap 'rm -rf "$tmp"' EXIT
 cp -r "$root/site/." "$tmp/"
 touch "$tmp/.nojekyll"

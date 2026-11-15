@@ -222,7 +222,7 @@ class Book {
     const ps = want && this.part.hi ? [this.pageOf('left'), this.pageOf('right')].filter(Boolean) : [];
     for (const [p, t] of this.hi) if (!ps.includes(p)) { t.dispose(); this.hi.delete(p); }
     for (const p of ps) if (!this.hi.has(p)) {
-      const t = pageTexture(`pages/${this.part.n}/hi/${String(p).padStart(3, '0')}.webp?v=${this.part.v || 0}`, () => { t.ready = true; });
+      const t = pageTexture(`pages/${this.part.n}/hi/${String(p).padStart(3, '0')}.avif?v=${this.part.v || 0}`, () => { t.ready = true; });
       this.hi.set(p, t);
     }
     for (const [side, mesh] of [['left', this.leftPage], ['right', this.rightPage]]) {
