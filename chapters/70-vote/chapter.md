@@ -8,7 +8,13 @@ In July 1893 a member of the New Zealand parliament had an enormous roll of pape
 
 It was two hundred and seventy metres long. With a dozen smaller petitions handed in beside it, it carried the signatures of nearly thirty-two thousand women, about a quarter of all the adult women of European descent in the colony. It asked that they be allowed to vote for the men who made their laws.
 
+![A tall printed sheet headed as a petition to Parliament, with columns of handwritten names and addresses](images/petition.jpg)
+*One sheet of the 1893 petition, with the printed appeal at the top and the handwritten names and addresses of the women who signed below. Image: Archives New Zealand, public domain.*
+
 The woman who had organised it, Kate Sheppard, had already sent Parliament two smaller petitions and had been refused twice. For months her volunteers had carried the sheets to farms, sheep stations and mining camps. The upper house passed the bill that September by two votes. Ten weeks later, on a fine spring day, two thirds of the women of New Zealand turned out to vote in a general election, and reporters noted with some surprise that the polling places were more orderly than usual.
+
+![Black and white portrait of a woman with upswept hair in a high-collared beaded blouse](images/sheppard.jpg)
+*Kate Sheppard, who organised the petition, photographed about 1905 by H. H. Clifford. Photo: H. H. Clifford, public domain.*
 
 It was the first time that all the women of a country had been free to vote for its parliament. A century had passed since the revolutions that declared all men equal.
 
@@ -22,6 +28,9 @@ The consequences were exact. Unless her family had been rich enough to tie her p
 
 In 1836 a London society beauty named Caroline Norton, who was also a successful novelist, left her violent husband. He took their three sons, the youngest still a small child, and sent them to relatives in Scotland. He then claimed the money that her publishers owed her, since her writings, like everything else of hers, were his property. She discovered that she had no legal remedy for either.
 
+![Pen drawing of a young woman seated at a tea table under a framed portrait, with her signature below](images/norton.jpg)
+*Caroline Norton, drawn by Daniel Maclise and published in London by James Fraser, labelled as the author of The Undying One. Lithograph: Daniel Maclise, public domain.*
+
 Norton had no interest in equality, and said so. She merely thought that the law was monstrous. She wrote pamphlets, lobbied her friends in Parliament, and three years later won a small change that let a judge grant a mother access to her young children. It took until 1870 for a married woman in England to gain the right to keep what she earned, and until 1882 to own property on the same terms as a single woman.
 
 ## All men and women
@@ -30,9 +39,15 @@ A few people had seen from the first that the new talk of rights could not logic
 
 In 1792, just after the French had written a constitution that gave women no part, an Englishwoman named Mary Wollstonecraft published a reply to those who had left them out. Women, she agreed, were often frivolous, ignorant and weak, exactly as their critics said. They had been raised to be. Denied any education beyond dancing and needlework, and taught that their one business was to please, they were no more a fair sample of their sex than a caged bird was of birds. Educate girls like boys, she argued, and then see what they can do. Five years later she died of an infection after giving birth to a daughter.
 
+![Printed title page of an eighteenth-century book](images/vindication.jpg)
+*The title page of the first edition of Mary Wollstonecraft's A Vindication of the Rights of Woman, 1792. Scan: Wikimedia Commons, public domain.*
+
 The organised movement began half a century afterwards, and it grew out of the campaign against slavery. Women had done much of the work of that campaign in Britain and America. They had gathered petitions, raised money and learned to speak in public. In 1840 a world convention against slavery met in London, and the American delegation included several women. The convention voted not to seat them. They were shown to a gallery at the side, where they could listen in silence.
 
 One of the women turned away was a Quaker preacher from Philadelphia. Walking back to her lodgings that evening with a young bride who had come along on her honeymoon, Elizabeth Cady Stanton, she agreed that something must be done about the condition of women as well. Eight years later, in July 1848, they called a meeting in a chapel in Seneca Falls, a small mill town in the state of New York. About three hundred people came.
+
+![Two elderly women in dark and white dress sitting at a table, one reading a book and the other writing](images/stanton.jpg)
+*Susan B. Anthony (left) and Elizabeth Cady Stanton, photographed about 1891. Photo: David B. Edmonston, public domain.*
 
 Stanton had written a declaration for the meeting to adopt. She took the most sacred text in American politics and changed it by two words. We hold these truths to be self-evident, it began, that all men and women are created equal. A list of grievances followed, modelled on the list against King George. The meeting passed every resolution unanimously except one, the demand for the vote, which many thought too extreme and likely to make the whole movement ridiculous. It passed narrowly after a speech in its favour by Frederick Douglass, the escaped slave, who was the only Black person present.
 
@@ -47,6 +62,9 @@ In Britain the question reached Parliament in 1867. A bill was going through to 
 The mover was John Stuart Mill, the most celebrated philosopher in the country, who had been persuaded by his wife that the subjection of women was the last great injustice left over from the past. He argued the case at length. The amendment was lost by a hundred and ninety-six votes to seventy-three, amid a good deal of laughter.
 
 The arguments against were repeated, with little change, for the next fifty years. Women did not need the vote because their husbands and fathers represented them. Nature had made the sexes for different spheres, his the world and hers the home, and politics would coarsen her and break up the family. Women were too emotional for public affairs. Doctors added that mental effort drew blood from the organs of reproduction, and a former Harvard professor of medicine published a much-reprinted book to show that a girl who studied as hard as a boy would damage her ability to bear children.
+
+![Colour postcard of a policeman gripping a woman in a feathered hat, with a prison behind and a printed verse](images/postcard.jpg)
+*An anti-suffrage postcard of about 1908. It mocks a suffragette arrested by a policeman outside Holloway prison. Postcard: People's History Museum, public domain.*
 
 Some of the firmest opponents were women. Queen Victoria, who ruled a quarter of the world, wrote in 1870 that she was most anxious to enlist everyone who could speak or write to join in checking "this mad, wicked folly of 'Woman's Rights'", and that one titled lady who had spoken for it ought to get a good whipping.
 
@@ -72,11 +90,17 @@ New kinds of work appeared that were neither domestic service nor the factory. T
 
 Then there was the bicycle. In the 1890s the modern safety bicycle, with two wheels of equal size and air-filled tyres, became cheap enough for a shop assistant. A young woman who owned one could go where she pleased, without a chaperone or a carriage, and she could not comfortably ride it in a floor-length skirt and a tight corset. The American campaigner Susan Anthony, who had been arrested in 1872 for casting a vote, said that the bicycle had done more to emancipate women than anything else in the world.
 
+![Black and white photograph of a woman in a long skirt and blouse riding a bicycle on an unsealed road](images/cycle.jpg)
+*A woman cycling in Brisbane, Australia, between 1890 and 1900. Photo: State Library of Queensland, public domain.*
+
 ## Deeds, not words
 
 In Britain, forty years of polite petitioning had won women a vote for town councils and nothing more. The main suffrage society had tens of thousands of members and friends in every party. Bills to give women the vote were introduced almost every year, praised in debate, and allowed to lapse.
 
 In 1903 a widow in Manchester named Emmeline Pankhurst, with her daughters, founded a new organisation with a new approach. Its motto was "Deeds, not words". Its members interrupted ministers at public meetings, chained themselves to the railings of government buildings, and marched on Parliament. A newspaper sneeringly called them "suffragettes", and they adopted the name.
+
+![Black and white photograph of a woman in a hat held round the waist by a uniformed policeman, with a man in a straw hat beside them](images/pankhurst.jpg)
+*Emmeline Pankhurst arrested outside Buckingham Palace on 21 May 1914, while trying to present a petition to the king. Photo: unknown, public domain.*
 
 When that failed they turned to violence against property. On one afternoon in 1912, well-dressed women walked down the main shopping streets of London, took out hammers that they had hidden in their muffs, and smashed hundreds of plate-glass windows. Others poured acid into letter boxes, cut telegraph wires, and burned down empty houses, a railway station and the tea pavilion at a botanical garden. Their rule was that nobody was to be hurt, and with a few exceptions nobody was.
 
@@ -89,6 +113,9 @@ On 4 June 1913, at the most famous horse race in England, a forty-year-old suffr
 Whether the militants helped their cause or hurt it is still argued. They had made it impossible to ignore, and they had hardened many against it. The deadlock was broken by something else.
 
 In August 1914 the great powers of Europe went to war. Pankhurst called off her campaign the same week and told her followers to serve their country. As millions of men left for the trenches, women took their places. They drove buses and ambulances, worked the farms, and staffed the offices. Nearly a million went into the munitions factories, where they filled artillery shells with high explosive. The chemicals turned their skin and hair bright yellow, and they were nicknamed canaries. Several hundred were killed by explosions and by the poison.
+
+![Black and white photograph of women in caps and overalls handling large shells, one pushing a trolley](images/munitions.jpg)
+*Women workers at the Chilwell shell-filling factory in Nottinghamshire, 1917. Photo: Horace Nicholls, public domain.*
 
 After that, it was difficult to argue that women had no stake in the nation's affairs. The voting registers had to be redrawn in any case, since millions of soldiers had lost their qualification by leaving home. In 1918 Parliament gave the vote to women over thirty who were householders or the wives of householders, about eight and a half million of them.
 
