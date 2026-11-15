@@ -6,7 +6,7 @@ The colonies rebelled because Britain tried to tax them, and they had come to be
 
 On the evening of 16 December 1773, about a hundred men walked down to the wharves of Boston, in the colony of Massachusetts. Some had smeared their faces with soot and wrapped themselves in blankets, to look like Mohawk Indians. They boarded three merchant ships, hoisted the cargo out of the holds, split open the chests with hatchets and tipped the contents over the side. It took three hours. By the end, more than forty tonnes of tea were floating in the harbour.
 
-The men were oddly careful. They harmed nothing on the ships except the tea. When one of them was caught stuffing some into his pockets, the others threw him off the ship. A padlock belonging to one of the captains had been broken, and the next day somebody sent him a new one.
+The men were oddly careful. They harmed nothing on the ships except the tea. When one of them was caught stuffing some into his pockets, the others stripped off his coat and kicked him ashore. A padlock belonging to one of the captains had been broken, and the next day somebody sent him a new one.
 
 The tea belonged to the East India Company, and the strangest thing about the affair is that it was a bargain. A new law had just allowed the Company to ship its tea directly to America, which made it cheaper than the smuggled Dutch tea that most colonists drank. The men of Boston destroyed it for that reason. The price included a small tax, laid on by the Parliament in London, and anyone who bought the tea would be admitting that Parliament had the right to tax him. They preferred to throw away a fortune in tea than to concede three pennies a pound.
 
@@ -14,9 +14,9 @@ The tea belonged to the East India Company, and the strangest thing about the af
 
 The quarrel had begun with a war, and the war had begun in America.
 
-In 1754 the British colonies were a strip of settlements along the Atlantic coast. Behind them, across the mountains, lay the valley of the Ohio river, which both Britain and France claimed, and where neither had many people. That spring the governor of Virginia sent a small force of militia into the valley to warn the French off. Its commander was a tall, ambitious landowner of twenty-two named George Washington. He found a party of French soldiers camped in a wooded hollow, surrounded them at dawn, and opened fire. Ten Frenchmen were killed, among them an officer who had been carrying a diplomatic message.
+In 1754 the British colonies were a strip of settlements along the Atlantic coast. Behind them, across the mountains, lay the valley of the Ohio river, which both Britain and France claimed, and where neither had many people. That spring the governor of Virginia sent a small force of militia into the valley to warn the French off. Its commander was a tall, ambitious landowner of twenty-two named George Washington. He found a party of French soldiers camped in a wooded hollow, surrounded them early in the morning, and opened fire. Ten Frenchmen were killed, among them an officer who had been carrying a diplomatic message.
 
-The shots in the forest grew into a war fought around the whole world. Britain and France fought in Europe, in the Caribbean, in West Africa, in India and at sea. An English writer of the time remarked that a volley fired by a young Virginian in the backwoods of America had set the world on fire.
+The shots in the forest grew into a war fought around the whole world. Britain and France fought in Europe, in the Caribbean, in West Africa, in India and at sea. An English writer who lived through it looked back and wrote that a volley fired by a young Virginian in the backwoods of America had set the world on fire.
 
 Britain won nearly everywhere. When peace was made in 1763, France had lost Canada and all its claims east of the Mississippi river, and the East India Company had become the strongest power in Bengal. Britain had never stood so high.
 
@@ -28,7 +28,7 @@ To the ministers in London, the next step seemed plain. A large part of the war 
 
 By the standards of the age, the colonists were fortunate people. There were about two and a half million of them, in thirteen colonies, and their numbers doubled every twenty-five years. Land was cheap, food was plentiful, and wages were high. American-born soldiers were several centimetres taller than soldiers born in Britain, which is a reliable sign of who had eaten better as a child.
 
-They were also used to running their own affairs. Most colonies had a governor appointed in London, and every one had an assembly elected by its own property owners. The governor's salary was usually voted by the assembly, which gave it the same hold over him that Parliament had over the king. For a century and a half London had mostly left them alone. The colonists paid taxes to their own assemblies and duties on their trade. To the government in London the average colonist paid about one fiftieth of what a person in Britain paid.
+They were also used to running their own affairs. Most colonies had a governor appointed in London, and every one had an assembly elected by its own property owners. The governor's salary was usually voted by the assembly, which gave it the same hold over him that Parliament had over the king. For a century and a half London had mostly left them alone. The colonists paid taxes to their own assemblies and duties on their trade. To the government in London the average colonist paid about one twenty-fifth of what a person in Britain paid.
 
 In 1765 Parliament passed the Stamp Act. From then on, every legal document, newspaper, pamphlet, licence and pack of playing cards in the colonies had to carry an official stamp, which cost money. Britain had had such a tax for seventy years.
 
@@ -42,11 +42,11 @@ Parliament's answer was that it represented every subject of the Crown, whether 
 
 For the next ten years the two sides repeated this argument, and each round left them further apart. Parliament repealed the stamp tax, and at the same time declared that it had the right to make laws for the colonies in every case. It then put duties on glass, paper, paint and tea. The colonists organised a boycott of British goods, and women gave up imported cloth and held spinning parties in public. Parliament withdrew all the duties except the one on tea, which it kept to make the point.
 
-Meanwhile soldiers had been sent to Boston to keep order, and they were about as welcome as an occupying army anywhere. On a snowy night in 1770 a squad of them, cornered by a crowd throwing ice and oyster shells, fired their muskets and killed five men. Boston's printers turned it into a massacre, and engravings of the scene went up in taverns from New Hampshire to Georgia.
+Meanwhile soldiers had been sent to Boston to keep order, and they were about as welcome as an occupying army anywhere. On a snowy night in 1770 a squad of them, cornered by a crowd throwing ice and oyster shells, fired their muskets and killed five men. Boston's printers turned it into a massacre, and engravings of the scene went up in taverns across the colonies.
 
 Then came the tea. The government treated its destruction as the last straw. It closed the port of Boston until the tea was paid for, rewrote the colony's charter so that its council was appointed by the king and its town meetings were restricted, and sent a general to govern. This was the mistake that united the colonies. Men in Virginia and Pennsylvania who had thought the Bostonians hot-headed now saw a government tearing up a colony's constitution by an act passed three thousand miles away. Delegates from twelve colonies met in Philadelphia, in a body they called the Continental Congress, to concert their response, and across New England farmers began to drill on village greens.
 
-In April 1775 the general in Boston sent seven hundred soldiers out by night to seize a store of gunpowder in a village twenty miles away. Riders went ahead of them to raise the alarm. At dawn the soldiers found about seventy armed farmers drawn up on the green of a village on their road. Somebody fired. When the smoke cleared, eight Americans were dead. By the time the column got back to Boston that evening, militiamen firing from behind walls and trees along the whole route had killed or wounded more than two hundred and fifty of the king's troops.
+In April 1775 the general in Boston sent seven hundred soldiers out by night to seize a store of gunpowder in a village twenty miles away. Riders went ahead of them to raise the alarm. At dawn the soldiers found about seventy armed farmers drawn up on the green of a village on their road. Somebody fired. When the smoke cleared, eight Americans were dead. By the time the column got back to Boston that evening, militiamen firing from behind walls and trees along the whole route had killed or wounded about two hundred and fifty of the king's troops.
 
 ## Common sense
 
@@ -56,7 +56,7 @@ What changed their minds was forty-seven pages of print. In January 1776 a pamph
 
 Paine said what the politicians had been too cautious to say. The quarrel was not with ministers. It was with the king, and with the whole notion of kings. Hereditary monarchy was an absurdity, since nature would not so often give mankind an ass for a lion. It was equally absurd for a continent to be governed for ever by an island. America had a chance that came to few peoples in history, to begin the world over again.
 
-The pamphlet sold more than a hundred thousand copies in a few months, in a country with fewer free adults than a large modern city. It was read aloud to Washington's soldiers.
+The pamphlet sold something like a hundred thousand copies in a few months, in a country with fewer free adults than a large modern city. It was read aloud to Washington's soldiers.
 
 That July the Congress in Philadelphia voted for independence, and published a declaration to explain themselves. Most of it is a list of complaints against the king. The second paragraph is the part the world remembers. It states, as truths that need no proof, that all men are created equal, that they are born with rights that cannot be taken away, among them life, liberty and the pursuit of happiness, and that governments get their just powers from the consent of the governed. When a government destroys those rights, the people may abolish it.
 
@@ -64,7 +64,7 @@ The ideas were not new. They came from the English philosopher who had justified
 
 ## The loudest yelps
 
-The man who drafted those sentences, Thomas Jefferson of Virginia, owned about two hundred human beings at the time, and over his life he owned six hundred.
+The man who drafted those sentences, Thomas Jefferson of Virginia, owned nearly two hundred human beings at the time, and over his life he owned six hundred.
 
 One person in five in the thirteen colonies was enslaved. The contradiction was obvious, and the colonists' enemies enjoyed pointing it out. How is it, asked the English writer Samuel Johnson, that we hear the loudest yelps for liberty among the drivers of negroes? Jefferson's draft had included a passage blaming the king for the slave trade. The delegates cut it, at the insistence of the colonies that lived by slavery and those whose ships carried the slaves.
 
@@ -98,7 +98,7 @@ Nothing in it came from God or from birth. There was to be no king, no nobility 
 
 The people it had in mind were not everyone. The word "slave" appears nowhere in the document, but slavery is in it three times. States were allowed to count three fifths of their slaves when working out how many seats they got in Congress, which gave slave owners extra votes. Congress was forbidden to stop the import of slaves from abroad for twenty years. A slave who escaped to another state had to be sent back.
 
-Who could vote was left to each state, and nearly all of them restricted the vote to men with some property. Even so, about two thirds of white men qualified, which was three times the share in England. In one state, New Jersey, the law said "inhabitants", and for thirty years women who owned property voted too, until the men of both parties agreed in 1807 to stop it.
+Who could vote was left to each state, and nearly all of them restricted the vote to men with some property. Even so, about two thirds of white men qualified, which was nearly three times the share in England. In one state, New Jersey, the law said "inhabitants", and for thirty years women who owned property voted too, until the men of both parties agreed in 1807 to stop it.
 
 To get the constitution accepted, its supporters promised a list of rights that the new government could never infringe. It was added in 1791 as ten amendments, known as the Bill of Rights. They guarantee free speech, a free press, freedom of worship and trial by jury, and one of them forbids "cruel and unusual punishments", in the words that the English Parliament had used a century earlier.
 

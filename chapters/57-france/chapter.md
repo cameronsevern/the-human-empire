@@ -4,7 +4,7 @@
 
 The revolution turned to terror because, within four years of beginning, its leaders were at war with most of Europe and with half of their own country at once. They had swept away the old rules about who held power and why, and they had no new rules that their opponents accepted. In those conditions anyone who disagreed looked like a traitor, and the government began to kill people for what they were suspected of thinking.
 
-King Louis XVI of France kept a diary. It was a brief record, mostly of his hunting, in which he noted each day how many stags or boars had been killed. On days when he did not hunt he wrote one word. The entry for Tuesday, 14 July 1789, reads "*Rien*": nothing.
+King Louis XVI of France kept a diary. It was a brief record, mostly of his hunting, in which he noted each day how many stags or boars had been killed. On days when there was no hunt, or nothing was killed, he wrote one word. The entry for Tuesday, 14 July 1789, reads "*Rien*": nothing.
 
 That afternoon, twenty kilometres away, a crowd of Parisians had stormed the royal fortress of the Bastille, killed its governor, and carried his head through the streets on a pike. A duke rode out to the palace that night and had the king woken to tell him.
 
@@ -16,9 +16,9 @@ Four years later the king was dead on a scaffold, France was a republic, the chu
 
 ## Twenty-eight million
 
-France in 1789 was the giant of Europe. It had twenty-eight million people, three times as many as Britain, and its language, its fashions and its writers set the tone for the continent. Its king ruled, in theory, by the will of God alone.
+France in 1789 was the giant of Europe. It had twenty-eight million people, nearly three times as many as Britain, and its language, its fashions and its writers set the tone for the continent. Its king ruled, in theory, by the will of God alone.
 
-In law, his subjects were divided into three orders, called estates. The first was the clergy. The second was the nobility, about one person in a hundred. The third was everybody else, from bankers to beggars. The orders were unequal by design. A noble could not be flogged or hanged like a commoner. The best posts in the army, the church and the courts were kept for nobles. Above all, the nobility and the clergy were excused from the main tax on land and income, which fell on the peasants.
+In law, his subjects were divided into three orders, called estates. The first was the clergy. The second was the nobility, about one person in a hundred. The third was everybody else, from bankers to beggars. The orders were unequal by design. A noble could not be flogged or hanged like a commoner. The best posts in the army, the church and the courts were kept for nobles. Above all, the nobility and the clergy were excused from the main direct tax, which fell on the peasants.
 
 A French peasant therefore paid the king's tax, paid a tenth of his crop to the church, and paid a tangle of dues to the local lord, for the use of the lord's mill and oven and for the right to sell his own land. The lord's pigeons ate his seed, and he was forbidden to shoot them.
 
@@ -32,9 +32,9 @@ In the summer of 1788, with the treasury empty and nobody willing to lend, the k
 
 The timing was terrible. A few weeks before, a hailstorm had flattened the wheat across northern France, and the harvest was the worst in forty years. The winter that followed froze the rivers, so that the mills could not grind what grain there was.
 
-Bread was most of what ordinary French people ate. In a normal year a labourer in Paris spent about half his wages on it. By the spring of 1789 he was spending nearly nine tenths. Crowds attacked bakers and grain wagons, and it was widely believed that the nobles were hoarding flour to starve the people into obedience.
+Bread was most of what ordinary French people ate. In a normal year a labourer in Paris spent about half his wages on it. By the summer of 1789 he was spending nearly nine tenths. Crowds attacked bakers and grain wagons, and it was widely believed that the nobles were hoarding flour to starve the people into obedience.
 
-Meanwhile the government revived an old custom on a scale that nobody had imagined. In preparation for the Estates-General, it asked every parish and every guild in France to hold a meeting and write down its complaints. Some forty thousand of these lists were compiled. Villagers who had never been asked their opinion about anything gathered in churches and argued over the lord's pigeons and the salt tax. Having been asked what was wrong, a whole country began to expect that it would be put right.
+Meanwhile the government revived an old custom on a scale that nobody had imagined. In preparation for the Estates-General, it asked every parish and every guild in France to hold a meeting and write down its complaints. Tens of thousands of these lists were compiled. Villagers who had never been asked their opinion about anything gathered in churches and argued over the lord's pigeons and the salt tax. Having been asked what was wrong, a whole country began to expect that it would be put right.
 
 One question hung over the meeting. By tradition the three orders voted separately, one vote each, so that the clergy and the nobles could always outvote the commoners two to one. The commoners, who were ninety-eight people in every hundred, wanted the delegates to sit together and vote as individuals. A pamphlet by a clergyman put their case in three questions and answers. What is the Third Estate? Everything. What has it been until now in the political order? Nothing. What does it ask? To become something.
 
@@ -46,7 +46,7 @@ The king hesitated, and then began to move troops towards Paris. The city, hungr
 
 On the morning of 14 July a crowd broke into a military hospital and seized thirty thousand muskets. It had guns now, and no powder. The powder was stored in the Bastille, a medieval fortress with eight towers that loomed over the working-class districts in the east of the city and served as a prison for people locked up on the king's personal order. The crowd marched there and demanded that the governor hand it over. The governor stalled, then panicked, and his men fired. About a hundred of the besiegers were killed before soldiers who had joined the crowd brought up cannon and the drawbridge came down.
 
-Inside, the victors found seven prisoners: four forgers, two madmen and a nobleman locked up at his family's request. That did not matter. The Bastille had stood for the king's power to imprison anyone without trial, and the people of Paris had taken it with their own hands. A contractor was hired to pull it down, and he sold the stones as souvenirs.
+Inside, the victors found seven prisoners: four forgers, two madmen and a nobleman locked up at his family's request. That did not matter. The Bastille had stood for the king's power to imprison anyone without trial, and the people of Paris had taken it with their own hands. A contractor was hired to pull it down, and he made a business of turning the stones into souvenirs.
 
 The news ran through the countryside, mixed with rumours that nobles were sending brigands to burn the crops. Peasants armed themselves. Finding no brigands, they marched on the manor houses and burned the records in which their dues were written down, and sometimes the house as well.
 
@@ -54,7 +54,7 @@ To stop this, the National Assembly did something extraordinary. On the night of
 
 Three weeks later the Assembly published the principles of the new one. The Declaration of the Rights of Man and of the Citizen begins: "Men are born and remain free and equal in rights." It goes on to say that all power comes from the nation, that the law must be the same for everyone, and that no one may be troubled for his opinions so long as he does not disturb public order. The first draft was put forward by the nobleman who would send Washington the key to the Bastille, and the American ambassador in Paris, Thomas Jefferson, had looked it over for him.
 
-The king would not sign it. In October several thousand market women of Paris, furious at the price of bread, walked the twenty kilometres to Versailles in the rain, dragging cannon. They broke into the palace, and the next day they escorted the royal family back to Paris, where it would be under the eyes of the people. They sang as they went that they were bringing the baker, the baker's wife and the baker's boy.
+The king put off signing it. In October several thousand market women of Paris, furious at the price of bread, walked the twenty kilometres to Versailles in the rain, dragging cannon. They broke into the palace, and the next day they escorted the royal family back to Paris, where it would be under the eyes of the people. They sang as they went that they were bringing the baker, the baker's wife and the baker's boy.
 
 ## Left and right
 
@@ -64,7 +64,7 @@ It wiped away the old provinces, each with its own laws and tolls, and divided t
 
 The Assembly also gave politics two of its most useful words. In its debates, the members who wanted to keep a strong king took to sitting together on the chairman's right, and those who wanted to go further sat on his left.
 
-There was still the debt. The Assembly's answer was to take over all the land owned by the church, about a tenth of France, and to sell it. In the meantime it printed paper notes backed by the land. The notes solved the problem for a year, then the government printed more of them, and more, and prices began to climb.
+There was still the debt. The Assembly's answer was to take over all the land owned by the church, somewhere between a twentieth and a tenth of France, and to sell it. In the meantime it printed paper notes backed by the land. The notes solved the problem for a year, then the government printed more of them, and more, and prices began to climb.
 
 Having taken the church's property, the state had to pay the priests, and it decided to reorganise them too. Bishops and priests would be elected by the citizens and would swear an oath of loyalty to the new order. The pope condemned the scheme. About half the clergy of France refused the oath, and millions of their parishioners sided with them.
 
@@ -90,9 +90,9 @@ Then the west exploded. When the government tried to conscript three hundred tho
 
 The assembly gave emergency powers to a committee of its members, which soon numbered twelve, the Committee of Public Safety. Its most influential member was a small, neat lawyer of thirty-five named Maximilien Robespierre. He was known as the Incorruptible, because he could not be bought. Two years earlier he had argued for abolishing the death penalty.
 
-In August 1793 the Committee issued a decree unlike any before it. Until the enemy was driven from the soil of the republic, it said, every French person was in permanent service to the armies. The young men would fight. The married men would forge weapons. The women would make tents and serve in hospitals, the children would turn old linen into bandages, and the old men would be carried to the public squares to rouse the courage of the soldiers.
+In August 1793, at the Committee's urging, the assembly passed a decree unlike any before it. Until the enemy was driven from the soil of the republic, it said, every French person was in permanent service to the armies. The young men would fight. The married men would forge weapons. The women would make tents and serve in hospitals, the children would turn old linen into bandages, and the old men would be carried to the public squares to rouse the courage of the soldiers.
 
-Kings had fought their wars with long-serving professionals and whatever men could be pressed into the ranks. France now put the nation into the field. Within a year it had about eight hundred thousand men under arms, the largest army Europe had ever seen, led by officers of twenty-five who had been sergeants or students when the revolution began. By the summer of 1794 they had thrown the invaders out.
+Kings had fought their wars with long-serving professionals and whatever men could be pressed into the ranks. France now put the nation into the field. Within a year it had about eight hundred thousand men under arms, the largest army Europe had ever seen, led by officers in their twenties who had been sergeants or students when the revolution began. By the summer of 1794 they had thrown the invaders out.
 
 ## A humane machine
 
@@ -100,7 +100,7 @@ The same emergency government ran the Terror. A law passed in September 1793 ord
 
 The instrument was new. Before the revolution, a condemned noble had been beheaded with a sword and a commoner had been hanged, or broken on a wheel. In 1789 a doctor in the Assembly had proposed that executions should be the same for everyone and as painless as possible, by means of a simple machine. The condemned person lay face down on a plank with his neck between two tall posts, and a heavy slanted blade, released by a cord, fell down grooves in the posts and took off the head in an instant. The doctor was an opponent of the death penalty, and he lived to see his name attached to the device. His family later asked permission to change theirs.
 
-In about a year the courts sentenced some seventeen thousand people to death. Perhaps as many again died in prison or were shot without trial. The victims were not, for the most part, aristocrats. Fewer than one in ten was a noble. Most were peasants and working people from the regions that had rebelled.
+In about a year the courts sentenced some seventeen thousand people to death. Perhaps twice as many again died in prison or were killed without trial, most of them in the rebel west. The victims were not, for the most part, aristocrats. Fewer than one in ten was a noble. Most were peasants and working people from the regions that had rebelled.
 
 It went on after the danger had passed. In the spring of 1794 the Committee turned on its own allies. Among those it executed was Danton, the big, loud orator who had rallied Paris against the invaders in 1792, and who had begun to say that the killing should slow down. In June a new law took away the right to a defence lawyer and left the court two choices, acquittal or death. In the seven weeks that followed, about fourteen hundred people were beheaded in Paris alone.
 
