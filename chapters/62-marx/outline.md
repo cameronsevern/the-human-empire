@@ -17,7 +17,7 @@ Marx wanted the factories, mines and land to belong to everyone in common, and h
 5. **A mill with a school.** A manufacturer shows that it can be done differently, and then crosses the ocean to found a perfect village.
 6. **Six points.** The workers ask for the vote: three giant petitions. The year of revolutions, 1848, and a pamphlet nobody noticed.
 7. **Nothing to lose.** What Marx actually argued, step by step.
-8. **Ending: eleven mourners.** What happened instead: wages, votes, unions, and a German chancellor's insurance. What Marx got right. The funeral.
+8. **Ending: a dozen mourners.** What happened instead: wages, votes, unions, and a German chancellor's insurance. What Marx got right. The funeral.
 
 ## Left for later
 
