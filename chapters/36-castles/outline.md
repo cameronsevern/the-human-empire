@@ -18,7 +18,7 @@ Europe is full of castles because for about three hundred years it had almost no
 6. **Town air.** Charters and the year and a day. Guilds, and the guilds of teachers and students that became universities.
 7. **Walls of glass.** Stone castles and the cathedrals: the pointed arch and the flying buttress. A vault that fell down.
 8. **The meadow by the river.** Kings against barons. Magna Carta, what it said and whom it left out. The king has to ask: parliaments.
-9. **Ending.** Twenty-five thousand castles in the German lands alone, and what became of them.
+9. **Ending.** More than ten thousand castles in the German lands alone, and what became of them.
 
 ## Left for later
 
