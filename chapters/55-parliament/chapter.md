@@ -4,9 +4,9 @@
 
 King Charles I was beheaded because he fought a war against his own Parliament over which of them had the last word, lost it, and then started it again. The army that had beaten him twice decided that there would be no peace in England while he was alive. It put him on trial in the name of the people, which nobody had done to a king before.
 
-The morning of 30 January 1649 was so cold that the river Thames had frozen over. Before he left his room, the king asked for a second shirt to wear under his doublet. If he shivered on the scaffold, he explained, the crowd might think that he was afraid, and he was not.
+The morning of 30 January 1649 was bitterly cold. Before he left his room, the king asked for a second shirt to wear under his doublet. If he shivered on the scaffold, he explained, the crowd might think that he was afraid, and he was not.
 
-He was led through his own palace in London, through the great banqueting hall whose ceiling he had commissioned, and out of a window onto a wooden platform draped in black. Soldiers stood several ranks deep around it, so that the crowd in the street could see him and could not hear him. He spoke for a few minutes anyway to the men on the scaffold. A subject and a sovereign, he told them, were clean different things, and the people had no business sharing in government.
+He was led through his own palace in London, through the great banqueting hall whose ceiling he had commissioned, and out of a window onto a wooden platform draped in black. Soldiers on foot and on horseback ringed it, so that the crowd in the street could see him and could not hear him. He spoke for a few minutes anyway to the men on the scaffold. A subject and a sovereign, he told them, were clean different things, and the people had no business sharing in government.
 
 Then he lay down and put his neck on the block. The executioner, who wore a mask and a false beard so that he would not be known afterwards, took off the head with one stroke. A boy of seventeen in the crowd remembered for the rest of his life the sound that came from the thousands of people watching. It was a groan, he said, such as he had never heard before and hoped never to hear again.
 
@@ -42,9 +42,9 @@ The Parliament that met in November 1640 knew that it had the king in its grip, 
 
 Charles signed these measures, and waited. He regarded concessions made under pressure as not binding on a king. For their part, the leaders of the Commons did not trust him to keep his word, and a rebellion in Ireland brought the question to a point. An army had to be raised to put it down. Whoever commanded that army would be master of England, and neither side would let the other have it.
 
-On 4 January 1642 the king acted. He came down to the House of Commons in person, with about four hundred armed men at his back, to arrest five of its leading members for treason. No king had ever entered the chamber. He walked up the floor, sat down in the Speaker's chair, and looked along the benches for the five. They had been warned, and had left by the river a few minutes earlier.
+On 4 January 1642 the king acted. He came down to the House of Commons in person, with about four hundred armed men at his back, to arrest five of its leading members for treason. No king had ever come there to seize a member. He walked up the floor, sat down in the Speaker's chair, and looked along the benches for the five. They had been warned, and had left by the river a few minutes earlier.
 
-"I see the birds have flown," the king said. He asked the Speaker where they were. The Speaker went down on his knees and answered that he had neither eyes to see nor tongue to speak in that place, except as the House was pleased to direct him.
+"I see all my birds have flown," the king said. He asked the Speaker where they were. The Speaker went down on his knees and answered that he had neither eyes to see nor tongue to speak in that place, except as the House was pleased to direct him.
 
 Charles left empty-handed, to shouts of "Privilege!" from the members. Within a week he had left London, which he did not see again until he was brought back to it as a prisoner. By the summer, both king and Parliament were raising troops.
 
@@ -76,21 +76,21 @@ The king, meanwhile, was a prisoner, and he was negotiating with everybody. He t
 
 At the end of 1647 he made a secret agreement with a party among the Scots. He promised to set up their kind of church in England for a trial period, and they promised him an army. In the spring of 1648, as royalist risings broke out across England, the officers of the army held a prayer meeting and resolved that if God gave them victory again they would call "that man of blood" to account. The Scots invaded that summer, and Cromwell crushed them in a few weeks. For the army, this second war settled the matter. Charles had caused fresh bloodshed after God had plainly given judgement against him.
 
-Most of Parliament still wanted a treaty. In December 1648 a colonel stood at the door of the House of Commons with a list and a file of musketeers, and turned away or arrested every member thought likely to vote for one. The hundred or so who were left set up a special court to try the king.
+Most of Parliament still wanted a treaty. In December 1648 a colonel stood at the door of the House of Commons with a list and a file of musketeers, and turned away or arrested every member thought likely to vote for one. The two hundred or so who were left set up a special court to try the king.
 
-Charles refused to plead. He asked the court, again and again, by what authority it had brought him there, and it had no good answer, because there was no law under which a king could be tried. He was right about that, and it did not help him. Of the hundred and thirty-five men named as his judges, only half were present to hear the sentence, and fifty-nine signed the warrant for his death.
+Charles refused to plead. He asked the court, again and again, by what authority it had brought him there, and it had no good answer, because there was no law under which a king could be tried. He was right about that, and it did not help him. Of the hundred and thirty-five men named as his judges, only about half ever took their seats, and fifty-nine signed the warrant for his death.
 
 ## No Christmas
 
-England was now a republic. Parliament abolished the monarchy and the House of Lords, and declared that the people were the source of all just power.
+England was now a republic. Parliament, which had already declared that the people were the source of all just power, abolished the monarchy and the House of Lords.
 
 In practice, power lay with the army, and it soon lay with Cromwell. He took the army to Ireland, where his soldiers stormed towns that would not surrender and killed the garrisons and many of the townspeople. Afterwards the republic confiscated most of the land owned by Irish Catholics and gave it to English soldiers and investors. In 1653 he lost patience with what remained of Parliament, marched in with a squad of musketeers, and cleared the chamber, just as the king had tried to do.
 
-He ruled for five years under the title of Lord Protector, with more power than Charles had ever held and a standing army to enforce it. For a time the country was divided into districts under major-generals. The Puritans had already closed the theatres and forbidden the celebration of Christmas, and soldiers went through the streets of London on Christmas Day taking dinners out of ovens.
+He ruled for five years under the title of Lord Protector, with more power than Charles had ever held and a standing army to enforce it. For a time the country was divided into districts under major-generals. The Puritans had already closed the theatres and forbidden the celebration of Christmas, and soldiers went through the streets of London on Christmas Day seizing the meat that people were cooking.
 
 The republic depended on one man. When Cromwell died in 1658, his son lasted eight months. The generals fell out among themselves, and in 1660 one of them marched to London and invited the dead king's son home from exile. The crowds that welcomed Charles II were as large as any the city had seen.
 
-The new king pardoned nearly everyone except the men who had condemned his father. A dozen of them were hanged and cut in pieces, and others died in prison or in hiding abroad. Cromwell's body was dug out of its tomb and hanged, and his head was set on a pole on the roof of the hall where the trial had been held. It stayed there for about twenty-five years.
+The new king pardoned nearly everyone except the men who had condemned his father. Thirteen were hanged and cut in pieces, and others died in prison or in hiding abroad. Cromwell's body was dug out of its tomb and hanged, and his head was set on a pole on the roof of the hall where the trial had been held. It stayed there for about twenty-five years.
 
 ## An invitation
 
@@ -102,7 +102,7 @@ For three years the English put up with it, because James was in his fifties and
 
 Within three weeks, seven of the most prominent men in England sent a letter to Holland. It was addressed to William of Orange, the Dutch head of state, who was a Protestant and was married to James's elder daughter Mary. It invited him to come over with an army.
 
-William landed in the south-west of England in November with about five hundred ships, a fleet several times the size of the Spanish Armada. In England hardly a shot was fired, though it took two years of war to make Ireland accept the change. James's officers, and then his other daughter, went over to the invader. James lost his nerve, dropped the great seal of England into the Thames, and fled to France.
+William landed in the south-west of England in November with more than four hundred ships, a fleet three times the size of the Spanish Armada. In England hardly a shot was fired, though it took two years of war to make Ireland accept the change. James's officers, and then his other daughter, went over to the invader. James lost his nerve, got rid of the great seal of England, by his enemies' account into the Thames, and fled to France.
 
 Parliament then did something more careful than cutting off a head. It declared that James, by running away, had left the throne empty. It offered the crown to William and Mary jointly, and it attached a document, which they accepted before they were crowned.
 
@@ -118,6 +118,6 @@ Two philosophers who lived through these events drew opposite conclusions. Thoma
 
 The most practical result was financial. A king who answers to no one can refuse to repay his debts, and kings often did, so lenders charged them heavily. After 1689 the English government's debts were guaranteed by Parliament, and Parliament was full of the people who had lent the money. In 1694 a group of London merchants founded the Bank of England to lend to the government. The change took a generation to work through. In the 1690s the government was paying up to fourteen per cent for its loans. By the 1750s it was paying three.
 
-That difference won wars. France had three times Britain's population, but by the middle of the 1700s its kings, who answered to nobody and had defaulted more than once, were borrowing at about twice the price. For the rest of the century Britain was able to outspend it.
+That difference won wars. France had three times Britain's population, but by the middle of the 1700s its kings, who answered to nobody and had defaulted more than once, were paying a good deal more. For the rest of the century Britain was able to outspend it.
 
-One ceremony preserves the memory of the day it all began. Whenever the monarch comes to open a new session of Parliament, a royal messenger walks to the House of Commons to summon the members. As he approaches, the door of the chamber is slammed in his face. He has to knock three times before he is let in.
+One ceremony is said to preserve the memory of the day it all began. Whenever the monarch comes to open a new session of Parliament, a royal messenger walks to the House of Commons to summon the members. As he approaches, the door of the chamber is slammed in his face. He has to knock three times before he is let in.
