@@ -8,6 +8,9 @@ When Duke William of Normandy landed on the south coast of England in the autumn
 
 A long strip of embroidery made a few years afterwards shows the scene. Men dig and heave earth into a pile, while a foreman stands over them and two of the workers hit each other with their spades. On top of the pile rises a wooden stockade. The Latin caption says that he ordered a castle to be dug at Hastings.
 
+![Embroidered scene of men digging and heaping earth with spades while a foreman stands over them, two of the workers hitting each other with spades, beside a striped mound topped with a wooden fence](images/bayeux_hastings.jpg)
+*Men digging and heaping up earth for William's castle at Hastings, from the Bayeux Tapestry, made a few years after 1066. The Latin caption above them mentions Hastings and the castle. Photo: Université de Caen Normandie, CNRS, ENSICAEN, public domain.*
+
 It was standing before the battle, which came a little more than two weeks after the landing. William won, and over the next twenty years he and his followers repeated the trick across the whole of England. Wherever the Normans took a town or a river crossing, they rounded up the local people, made them pile up a mound, and put a tower on it. Within a generation there were five hundred castles or more in a country that had contained almost none.
 
 A Norman monk writing a lifetime later thought this explained the whole conquest. The English, he said, were brave and loved to fight, but they had hardly any castles, and so they could put up only a feeble resistance.
@@ -28,6 +31,9 @@ Forts were as old as cities, but nearly all earlier forts had been public. A Rom
 
 The early ones were built of earth and timber. The builders dug a circular ditch and threw the soil into the middle to make a steep, flat-topped mound as high as a two-storey house or higher. On the top they built a wooden tower with a fence around it. At the foot they fenced in a yard for the stables, the smithy, the storehouses and the hall. A few dozen men behind those fences could keep out several hundred, because the attackers had to climb a slippery slope with nothing over their heads.
 
+![A tall grassy mound with a long staircase up its side, with a dry ditch around its foot, under a blue sky](images/thetford_motte.jpg)
+*The grassed-over castle mound at Thetford in Norfolk, England. Mounds like this one, built of heaped earth, carried the wooden towers of the first castles. Photo: Geni, CC BY-SA 4.0.*
+
 A castle did not need to block anything in order to control it. Its garrison was mounted. From the gate, horsemen could reach any farm or road within a morning's ride and be home by dark. Everything inside that circle belonged, in practice, to the man in the tower. He could protect it from raiders, and nobody could protect it from him.
 
 ## A man on a horse
@@ -36,11 +42,17 @@ The men who rode out of the gate were knights, and the knight was the most expen
 
 His main protection was a knee-length coat of mail, made of about thirty thousand small iron rings, each one linked through four others and closed with a tiny rivet. In addition he needed a helmet, a shield, a sword, a lance, and above all a horse that was strong enough to carry an armoured man and had been trained not to bolt from noise and blood. The whole outfit cost about as much as twenty oxen, at a time when a peasant family was lucky to own two.
 
+![A long-sleeved, knee-length shirt of fine metal ring mail on a stand against a grey background](images/mail_shirt.jpg)
+*A mail shirt made in Germany in the 1400s, now in the Metropolitan Museum of Art in New York. It is later than the knights in this chapter, but it is made the same way, from thousands of small linked metal rings. Photo: Metropolitan Museum of Art, CC0.*
+
 He also needed years. A knight fought from the saddle with a lance tucked under his arm, and learning to do that began in boyhood. A man who spent his youth practising with horse and sword could not also plough.
 
 Somebody else therefore had to feed him. Some lords kept their knights in the household, at their own table, and a few paid wages. Coin was scarce in the countryside, however, and the usual answer was to pay in land. A lord granted a knight a village or two, with the peasants who farmed it, and the knight lived on what they produced. In exchange he owed his lord service in arms, usually about forty days a year, and a turn of guard duty at the castle.
 
 The bargain was sealed with a ceremony. The knight knelt, bareheaded and unarmed, and placed his joined hands between the hands of his lord. He declared that he became the lord's man. Then he swore on a Bible or a box of holy bones to be faithful. The lord, for his part, promised to protect him.
+
+![A crowned king kneeling in a gold-patterned robe, placing his hands between the hands of another crowned king in a blue robe, with courtiers standing on both sides](images/homage_edward.jpg)
+*A king doing homage: Edward III of England kneels and places his hands between those of Philip VI of France, who held the overlordship of Edward's lands in France. The scene took place in 1329 and was painted in the late 1300s in a French chronicle. Image: Bibliothèque nationale de France, public domain.*
 
 The lord had usually done the same thing to someone greater, a count or a duke, from whom he held his own lands. The count had knelt to the king. On parchment this made a tidy pyramid with the king at the top. In life it was a web of private promises between individuals, and a man's loyalty was to the person whose hands had held his, and not to a country. A duke of Normandy could be the sworn man of the king of France and spend most of his life at war with him.
 
@@ -60,6 +72,9 @@ The best picture of this world was made on the orders of William of Normandy. Tw
 
 The answers were copied into a great book, which survives. It lists more than thirteen thousand places. An English monk complained that the king's men had been so thorough that not one ox, nor one cow, nor one pig had been left out. The book shows what the conquest had done. In twenty years the several thousand English landowners had almost all been removed, and about half the country now belonged to fewer than two hundred Norman lords. The king and the church held the rest. The English began to call it Domesday Book, the book of the Day of Judgement, because there was no arguing with what it said.
 
+![A page of Latin script in two columns of small dense lines under a red heading, with red initials and red underlining](images/domesday_cambs.jpg)
+*A page of Domesday Book, from the survey of 1086, listing land and its holders in Cambridgeshire. Each entry gives the same facts: the owner, the ploughs, the people and the value. Image: Open Domesday, public domain.*
+
 ## The eight-ox plough
 
 Lords and knights took a great deal out of the villages. Nevertheless, in these same centuries, the villages were producing more food every generation, because the farmers of northern Europe had found a better way to work their land.
@@ -76,6 +91,9 @@ The second was a new timetable. In much of Europe, farmers rested half their lan
 
 Meanwhile the grinding was being done by water. William's survey counted more than five and a half thousand watermills in England, roughly one for every fifty households. In the 1180s the first windmills appeared, for places that had no stream.
 
+![A painted thatched mill building with a water wheel and a pond, at the foot of a page of black Latin writing](images/watermill_luttrell.jpg)
+*A watermill with its wheel and millpond, painted in the margin of the Luttrell Psalter, an English prayer book made between 1325 and 1335. Image: British Library, CC0.*
+
 The result was the longest boom that Europe had known. Between the years 1000 and 1300 its population roughly doubled. Forests were cut down, marshes were drained, and thousands of new villages were founded on land that had been wild.
 
 ## Town air
@@ -90,6 +108,9 @@ Inside the town, each trade governed itself through a guild, a club of masters w
 
 From about 1100, students came from all over Europe to the Italian city of Bologna to hear lectures on law. In the course of that century they formed guilds of their own, to bargain with their teachers and landlords. In Paris it was the teachers who formed one. These were the first universities, and Oxford followed soon after. They gave Europe the degree, the examination, the gown and the lecture, a word that means "reading", because books were so costly that a teacher read his copy aloud while the students wrote it down.
 
+![A teacher at a raised desk lecturing to rows of students on benches, who hold open books](images/bologna_lecture.jpg)
+*A lecture at the university of Bologna, painted in the second half of the 1300s by Laurentius de Voltolina. The teacher reads from a raised desk, and the students follow in their own copies of the book. Image: Laurentius de Voltolina, Staatliche Museen zu Berlin, public domain.*
+
 Much of what they read was new to them. In Spanish cities lately taken from Muslim rulers, scholars were turning the Arabic libraries into Latin, and through them the works of Aristotle, with centuries of Arabic commentary, reached the lecture rooms of Paris.
 
 ## Walls of glass
@@ -98,13 +119,22 @@ The new wealth went, above all, into stone.
 
 Lords rebuilt their wooden towers as square stone keeps with walls four metres thick, and then surrounded the keeps with rings of stone wall and round towers. A great castle of the 1200s took years to build and cost more than most lords would see in a lifetime.
 
+![A huge square stone tower with battlements and flat buttresses, seen across a lawn under a blue sky](images/dover_keep.jpg)
+*The great stone keep of Dover Castle in Kent, England, built for Henry II in the 1100s. Photo: DeFacto, CC BY-SA 4.0.*
+
 The towns built churches. In the 1140s the abbot of a monastery outside Paris rebuilt his church in a new manner, and for the next two centuries the cities of northern France, and then of all western Europe, tried to outdo him and one another.
 
 The older churches had been dark. Their stone ceilings were rounded like the inside of a barrel, and a round arch pushes outwards as well as down, so the walls had to be massive and the windows small. The new builders made three changes. They pointed the arch, which sends more of the weight straight down. They carried the ceiling on a skeleton of thin stone ribs that gathered the load onto separate pillars. Finally they propped each pillar from the outside with a slanting stone arm, called a flying buttress, which took the remaining sideways push and carried it to the ground.
 
+![The side of a grey stone cathedral with stone buttresses rising between tall windows to a green roof](images/chartres_buttresses.jpg)
+*Buttresses along the side of Chartres Cathedral, whose slanting stone arms carry the sideways push of the high ceiling down to the ground. They were built in the years after 1194. Photo: Andreas F. Borchert, CC BY-SA 4.0.*
+
 After that the walls between the pillars had very little to hold up. The builders opened them and filled the gaps with coloured glass.
 
 The cathedral of Chartres burned down in 1194, and the town rebuilt it in about twenty-five years with a ceiling as high as a twelve-storey building and more than a hundred and fifty windows. Each city wanted to go higher than the last. The people of Beauvais raised their ceiling to forty-eight metres, the highest ever attempted, and in 1284 part of it fell down.
+
+![The inside of a very tall Gothic church, with a pointed ribbed ceiling high overhead, tall windows and rows of chairs on a chequered floor](images/beauvais_choir.jpg)
+*The choir of Beauvais Cathedral in France, the tallest ceiling ever attempted in stone at the time. Part of it fell down in 1284. Photo: Diliff, CC BY-SA 3.0.*
 
 ## The meadow by the river
 
@@ -115,6 +145,9 @@ The lords, however, still had castles and knights of their own. A king who pushe
 John had lost Normandy to the king of France, and he had spent ten years squeezing his barons, the great lords who held their lands directly from him, for money to win it back. He charged them huge sums to inherit their fathers' lands, sold their widows in marriage to the highest bidder, and seized the property of those who annoyed him. In 1214 his great campaign in France failed. The following spring a large party of barons renounced their oaths to him and took London.
 
 In June the two sides met in a meadow beside the Thames, and the king put his seal to a list of promises that the barons had drawn up. It became known as the Great Charter, Magna Carta.
+
+![A single sheet of parchment filled with dense lines of small Latin handwriting](images/magna_carta.jpg)
+*One of the surviving copies of Magna Carta from 1215, a single sheet of parchment, now in the British Library. Image: British Library, public domain.*
 
 Most of it is a list of the barons' own complaints. It fixes the fee for inheriting an estate. It says that a widow shall not be forced to remarry, and that the fish traps are to be taken out of the Thames and the Medway. In the middle, however, are two sentences that reach further. One says that no free man shall be imprisoned, or stripped of his property, or outlawed, "except by the lawful judgment of his equals or by the law of the land". The other is a promise by the king: "To no one will we sell, to no one deny or delay right or justice."
 
