@@ -10,13 +10,22 @@ A family that the system flagged was investigated, and thousands of them then re
 
 About twenty-six thousand families were treated in this way over six years. People lost their homes and their jobs. Marriages broke up. More than a thousand children were taken into care. It took a small group of parents, one lawyer and two journalists years to establish what had happened. In January 2021 the entire Dutch government resigned over it.
 
+![A black sticker on a lamp post beside a road crossing, with white Dutch text asking where the 1675 missing children are](images/dutch.jpg)
+*A protest sticker on a lamp post in Rotterdam in December 2022. It asks in Dutch where the 1675 missing children are, and refers to the children of families in the benefits scandal who were taken from their homes. Photo: Donald Trung Quoc Don, CC BY-SA 4.0.*
+
 ## A summer's work
 
 The idea that a machine might think is as old as the computer. In 1950 Alan Turing, the English mathematician who had described the universal computing machine, published a paper that began with the question: can machines think? He proposed a test. If a person exchanging typed messages with a machine could not tell that it was not another person, the question was settled as far as it ever could be.
 
+![A statue of a seated man made of layers of slate, working at a small desk, with a plaque reading Alan Turing 1912 to 1954](images/turing.jpg)
+*A statue of Alan Turing in slate, made by Stephen Kettle in 2007, in the museum at Bletchley Park, where Turing worked on German ciphers in the war. Photo: DeFacto, CC BY-SA 4.0.*
+
 Six years later ten American scientists gathered for a summer at a college in New Hampshire to study what one of them had named artificial intelligence. Their proposal said that they thought a significant advance could be made if a carefully selected group worked on it together for a summer.
 
 It took rather longer. For thirty years most researchers tried to build intelligence by writing down rules. A program for medical diagnosis would be given thousands of statements of the form: if the patient has a fever and a rash, consider measles. This worked for tasks with clear rules, such as chess. In 1997 a machine that could examine two hundred million positions a second beat the world champion. It failed at almost everything that a small child does without effort. Nobody could write down the rules for telling a cat from a dog, or for understanding a joke, because nobody knows what rules they follow when they do it.
+
+![A tall black computer cabinet marked IBM, standing in a museum beside a label with a photograph of a computer chip](images/deepblue.jpg)
+*A cabinet of Deep Blue, the IBM machine that beat the world chess champion in 1997, on display at the Computer History Museum in California. Photo: Erik Pitti, CC BY 2.0.*
 
 ## Learning
 
@@ -31,6 +40,9 @@ At the start the weights are random and the answer is rubbish. The machine is th
 
 The first and far simpler machine of this kind was built in 1958, and a leading newspaper reported that the navy expected it to walk, talk, see, write, reproduce itself and be conscious of its existence. It could barely tell left from right. The method fell out of favour for decades. A handful of researchers kept at it, among them an English psychologist in Canada, Geoffrey Hinton, who was told repeatedly that he was wasting his career.
 
+![A man working at a machine with two lamps shining on a large black card that shows a white letter C, with racks of electrical equipment behind him](images/perceptron.jpg)
+*The Mark I Perceptron, the first machine of this kind, built at the Cornell Aeronautical Laboratory in Buffalo, New York, in a United States Navy photograph. It could be trained to pick out letters of the alphabet. Photo: United States Navy, public domain.*
+
 ## Two video-game cards
 
 The method needed far more examples and far more arithmetic than anyone had been able to give it.
@@ -41,7 +53,13 @@ Speed came from an unexpected quarter. The arithmetic of a neural network consis
 
 In 2012 two of Hinton's students trained a network on that collection of photographs, using two video-game cards in a bedroom, and entered it in the annual competition for recognising objects in pictures. The next best entry failed on one picture in four. Theirs failed on one in seven. Within three years such networks were making fewer mistakes on that test than people did.
 
+![An elderly man with grey hair in a dark jacket and a patterned tie, standing behind a wooden lectern marked Royal Swedish Academy of Sciences](images/hinton.jpg)
+*Geoffrey Hinton at the Nobel Lectures in Stockholm in December 2024, after he shared the Nobel Prize in Physics for his work on neural networks. Photo: Jay Dixit, CC BY-SA 4.0.*
+
 After that the results came quickly. In March 2016, in a hotel in Seoul, a program beat one of the world's strongest players at Go, an ancient board game with more possible positions than there are atoms in the universe, which experts had thought was a decade beyond any machine. Two hundred million people watched. In the second game the program made a move so strange that the commentators took it for a blunder. It was the move that won. The program itself reckoned that a human player would have made it one time in ten thousand.
+
+![Two tall glass-fronted racks of computer equipment, with a label on the left one that reads AlphaGo](images/alphago.jpg)
+*Racks of computers from the AlphaGo project, which produced the program that beat a leading Go player in 2016, on display after being taken out of service. Photo: Immigrant laborer, CC0.*
 
 In 2020 a network solved a problem that biologists had been working on for half a century, which is how to predict the folded shape of a protein from the list of its parts. Proteins are the molecules that do nearly all the work in a living cell, and what each one does depends on its shape. Predicted shapes for two hundred million of them were soon published free. In 2024 the Nobel prizes for both physics and chemistry went to people who work on these systems, Hinton among them.
 
@@ -75,6 +93,9 @@ The most capable models belong to a handful of companies. In 2025 the four large
 
 Each great change in technology has altered who does what. Writing created the clerk. The printing press put the copyists of manuscripts out of work and made a living for typesetters. New machines destroyed the trades of the stocking knitters and handloom weavers of England, some of whom, in 1811 and 1812, took hammers to them. Those craftsmen were right about what would happen to them. Their grandchildren were better off, but it took two generations for the gains from the factories to reach the people who worked in them.
 
+![A hand-coloured print of a man in a blue spotted gown and black hat pointing across a hillside, with a burning building behind him and men waving hats and swords](images/luddite.jpg)
+*The Leader of the Luddites, a hand-coloured print published in London in May 1812, in the year of the machine-breaking. The artist is unknown. Print: British Museum, public domain.*
+
 What is different this time is the kind of work. Earlier machines replaced muscle and then routine. This one produces text, pictures, computer code and analysis, which are what office workers, translators, illustrators, programmers and call-centre staff are paid for. An international body estimated in 2024 that two jobs in five in the world, and three in five in the rich countries, involve tasks that such systems could change.
 
 What has actually been measured so far is modest. When a large company gave a language model to five thousand of its customer-service agents, they resolved about a seventh more customers' problems an hour, and the improvement was largest among the newest and least skilled, who were in effect being handed the habits of the best. Whether that means better jobs or fewer jobs depends on who owns the system and who decides how the gain is shared, as it did with the loom.
@@ -106,6 +127,9 @@ Nothing in the record so far settles which of these is right.
 For the present, the decisions are being made by the companies. They choose what the systems are trained on, what they will refuse to do, and when they are safe enough to release, and they are racing one another.
 
 Governments have begun to assert themselves. In November 2023 the representatives of twenty-eight countries, including the United States and China, met for two days at the country house north of London where Turing and his colleagues had broken the German ciphers, and signed a declaration that the most advanced systems posed risks that no country could manage alone. Institutes to test the systems and a yearly scientific report have followed, and no binding rules. The United States withdrew the main safety order of its previous government in 2025. China requires its companies to keep their models in line with the views of the party.
+
+![Four people seated in armchairs on a stage beneath a banner reading AI Safety Summit, hosted by the UK, 1 to 2 November 2023](images/bletchley.jpg)
+*A panel at the AI Safety Summit held at Bletchley Park on 1 and 2 November 2023. Photo: UK Government, CC BY 2.0.*
 
 The choice is among the futures that every powerful technology in this story has offered: control by a few owners, oversight by public bodies, or agreement among nations. Printing, the railway and the atom each went through some version of all three.
 
