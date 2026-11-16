@@ -42,7 +42,7 @@ Stalin gave his consent with a condition. The Soviet Union would supply weapons 
 
 ## Sunday morning
 
-Before dawn on the morning of Sunday, 25 June 1950, in heavy rain, the northern artillery opened fire along the parallel. Ninety thousand soldiers followed, behind a hundred and fifty Soviet tanks. The southern army had nothing that could stop a tank, and many of its soldiers were away on weekend leave.
+Before dawn on Sunday, 25 June 1950, in heavy rain, the northern artillery opened fire along the parallel. Ninety thousand soldiers followed, behind a hundred and fifty Soviet tanks. The southern army had nothing that could stop a tank, and many of its soldiers were away on weekend leave.
 
 Seoul fell in three days. As the northern tanks entered the city, southern engineers blew up the main bridge over the river to the south of it, without warning, while it was crowded with refugees and their own retreating soldiers. Several hundred people went into the water.
 
@@ -54,7 +54,7 @@ Sixteen countries eventually sent troops under the flag of the United Nations. N
 
 The first American units, rushed over from garrison duty in Japan, were soft and badly armed, and were brushed aside. By August the southern and American forces had been driven into a pocket around the port of Pusan, in the far south-east corner, with their backs to the sea. Ninety per cent of Korea was in northern hands.
 
-The commander of the United Nations forces was General Douglas MacArthur, who had ruled Japan since its surrender. He was seventy, vain, theatrical, and had not spent a night in Korea. He now proposed to land an army at Inchon, the port of Seoul, two hundred miles behind the northern lines. The harbour there has some of the highest tides in the world, and for most of the day its approaches are miles of mud. His admirals and the chiefs in Washington told him that it was too great a risk. On 15 September the marines went in on the high tide, and found the place almost undefended. Seoul was retaken within two weeks. The northern army, cut off from its supplies, fell apart.
+The commander of the United Nations forces was General Douglas MacArthur, who had ruled Japan since its surrender. He was seventy, vain, theatrical, and had not spent a night in Korea. He now proposed to land an army at Inchon, the port of Seoul, a hundred and fifty miles behind the northern lines. The harbour there has some of the highest tides in the world, and for most of the day its approaches are miles of mud. His admirals and the chiefs in Washington told him that it was too great a risk. On 15 September the marines went in on the high tide, and found the place almost undefended. Seoul was retaken within two weeks. The northern army, cut off from its supplies, fell apart.
 
 The purpose of the war had been achieved in three months. The invader had been driven out. The temptation to go further was too strong. Truman authorised MacArthur to cross the parallel, destroy the northern army and unite Korea under Rhee. By late October American and southern troops were approaching the Yalu, the river that forms the border between Korea and China.
 
@@ -90,7 +90,7 @@ Stalin died in March 1953, and his successors wanted the war closed. The armisti
 
 It was a ceasefire, and no peace treaty has ever followed it. The two armies each drew back two kilometres from the line where they stood. The strip between them runs for two hundred and fifty kilometres from sea to sea, fenced and mined on both sides, and most of it has been left to itself for seventy years. Cranes and wild deer live in it.
 
-About three million Koreans had died, one in ten of the population, most of them civilians. China lost several hundred thousand soldiers, among them Mao's eldest son. Thirty-six thousand Americans were killed. The border had moved a few miles.
+About three million Koreans had died, one in ten of the population, most of them civilians. China lost about two hundred thousand soldiers by its own count, among them Mao's eldest son. Thirty-six thousand Americans were killed. The border had moved a few miles.
 
 ## What it settled
 
