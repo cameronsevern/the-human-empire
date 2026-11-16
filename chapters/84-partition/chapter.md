@@ -12,13 +12,13 @@ He was given a bungalow, four Indian judges for each province, two Muslims and t
 
 India and Pakistan became independent at midnight on 14 August. The lines were not published until the 17th. For those two days, millions of people in Punjab and Bengal celebrated, or hid, without knowing which country they were in.
 
-Radcliffe burned his papers, refused his fee, and flew home the same week. He never went back. He told a journalist years afterwards that people on both sides of his line would have shot him on sight.
+Radcliffe burned his papers, refused his fee, and flew home before the lines were published. He never went back. He told a journalist years afterwards that people on both sides of his line would have shot him on sight.
 
 ## A quarter of India
 
 About one Indian in four was a Muslim. Muslims lived in every part of the country, speaking the same languages as their Hindu neighbours and often sharing their saints and festivals. They were a majority only in the north-west and in the east of Bengal, a thousand miles apart.
 
-For centuries before the British, Muslim dynasties had ruled most of India, and the memory of that mattered to both communities. What turned it into a political question was the slow arrival of elections. If the country was to be governed by votes, the larger group would win, and Hindus outnumbered Muslims three to one.
+For centuries before the British, Muslim dynasties had ruled most of India, and the memory of that mattered to both communities. What turned it into a political question was the slow arrival of elections. If the country was to be governed by votes, the larger group would win, and Hindus outnumbered Muslims nearly three to one.
 
 The British had met this problem in 1909 in a way that fixed it in place. When they first allowed Indians to elect a few members to the councils that advised the government, they gave Muslims a separate list of voters and seats reserved for them. A Muslim politician from then on needed only Muslim votes, and a Hindu only Hindu ones. Religion had become the unit of politics.
 
@@ -38,7 +38,7 @@ What Jinnah truly wanted is still disputed. He never said exactly where the bord
 
 ## The last chance
 
-The war gave him his opening. In 1939 the British declared war on India's behalf without asking any Indian, and the Congress governments resigned in protest. In 1942 Gandhi launched a campaign to drive the British out at once, and most of the Congress leadership spent the rest of the war in prison. Jinnah supported the war and was left free to organise. When elections were held in the winter of 1945, the Muslim League won nearly nine tenths of the Muslim vote. Jinnah could now claim to be the sole spokesman of a hundred million people.
+The war gave him his opening. In 1939 the British declared war on India's behalf without asking any Indian, and the Congress governments resigned in protest. In 1942 Gandhi launched a campaign to drive the British out at once, and most of the Congress leadership spent the rest of the war in prison. Jinnah supported the war and was left free to organise. When elections were held in the winter of 1945, the Muslim League won nearly nine tenths of the Muslim vote. Jinnah could now claim to be the sole spokesman of nearly a hundred million people.
 
 In the spring of 1946 three British ministers came to Delhi to find a way of handing over power. They proposed an India of three tiers. A central government would deal only with defence, foreign affairs and communications. The provinces would run everything else, and would be sorted into groups, so that the Muslim-majority provinces of the north-west and the east could govern themselves together. There would be no Pakistan, and the Muslims would have their own house inside a common wall. An assembly elected by the provinces would write the constitution.
 
@@ -46,7 +46,7 @@ Both parties accepted, each with its own reading of the small print. The League 
 
 It lasted a few weeks. Nehru, who had just become president of Congress, wanted a strong central government that could plan the economy and lift the country out of poverty. In July he told a press conference that Congress would enter the assembly free to change whatever it wished, including the groups. Jinnah took this to mean that any agreement would be torn up once the British had gone. He withdrew his acceptance and called on Muslims to show their strength by "direct action" on 16 August.
 
-In Calcutta, the largest city in the country, the day began with a mass meeting and ended in murder. For four days, gangs of Muslims and Hindus hunted each other through the streets with iron bars and knives, and the police did little. About four thousand people were killed. The killing spread to the villages of east Bengal, where Muslims attacked Hindus, and then to the neighbouring province, where Hindus killed several thousand Muslims in revenge. Each massacre was reported, with embellishments, in the next place.
+In Calcutta, the largest city in the country, the day began with a mass meeting and ended in murder. For three days, gangs of Muslims and Hindus hunted each other through the streets with iron bars and knives, and the police did little. About four thousand people were killed. The killing spread to the villages of east Bengal, where Muslims attacked Hindus, and then to the neighbouring province, where Hindus killed several thousand Muslims in revenge. Each massacre was reported, with embellishments, in the next place.
 
 ## Ten weeks
 
@@ -54,43 +54,43 @@ Britain could not hold the ring. It had come out of the war owing money to half 
 
 Mountbatten was handsome, energetic and impatient. Within weeks he had decided that the parties could not be reconciled and that every month of delay brought civil war closer. Congress, for its part, had concluded that a smaller India that it could govern firmly was better than a large one paralysed by quarrels. On 3 June 1947 the viceroy announced that British India would be divided. At a press conference the next day, he was asked for a date. He had not fixed one. He said 15 August, which was ten weeks away, and explained afterwards that it had come into his head because it was the anniversary of Japan's surrender.
 
-In those ten weeks a government that had taken two centuries to build was taken apart. Committees divided the railway engines, the printing presses, the typewriters and the chairs, roughly four to India for each one to Pakistan. The army was split regiment by regiment. Officials were asked which country they chose to serve. The contents of the treasury were shared out after an argument that nearly led to blows.
+In those ten weeks a government that had taken two centuries to build was taken apart. Committees divided the railway engines, the printing presses, the typewriters and the chairs, roughly four and a half to India for each one to Pakistan. The army was split regiment by regiment. Officials were asked which country they chose to serve. The contents of the treasury were shared out after an argument that nearly led to blows.
 
 Hardly any thought was given to the people. The plan assumed that the minorities would stay where they were, as hostages for one another's good treatment. A special force of soldiers was assembled to keep order along the new border in Punjab. It had, on a generous count, one man for every square mile.
 
 ## Trains
 
-Punjab was the worst place in India in which to draw a line. It was the home of the Sikhs, a community of six million with their own faith, neither Hindu nor Muslim, and a proud military tradition. Their farms and holy places were scattered across the whole province, and any border would cut them in half. They had resolved not to live under Muslim rule.
+Punjab was the worst place in India in which to draw a line. It was the home of the Sikhs, a community of nearly six million with their own faith, neither Hindu nor Muslim, and a proud military tradition. Their farms and holy places were scattered across the whole province, and any border would cut them in half. They had resolved not to live under Muslim rule.
 
 The killing had started there in March. In one village near the city of Rawalpindi, as a Muslim mob closed in, some ninety Sikh women and girls drowned themselves in a well, to avoid being taken. Their families spoke of it afterwards with pride.
 
-When the line was published, in the third week of August, minorities on both sides understood that they were in the wrong country. Armed bands, many of them led by former soldiers, set out to make sure that they left. Villages were surrounded at night and burned. Hindus and Sikhs fled east, and Muslims fled west, on foot and in bullock carts, in columns that filled the roads from edge to edge. One of them was fifty miles long and took eight days to pass a given point. The columns were attacked as they went, and those who fell behind were left.
+When the line was published, in the third week of August, minorities on both sides understood that they were in the wrong country. Armed bands, many of them led by former soldiers, set out to make sure that they left. Villages were surrounded at night and burned. Hindus and Sikhs fled east, and Muslims fled west, on foot and in bullock carts, in columns that filled the roads from edge to edge. One of them held four hundred thousand people. The columns were attacked as they went, and those who fell behind were left.
 
 Others went by rail. Trains crossed the new border with people packed into the wagons and clinging to the roofs. Gangs stopped them in open country and killed everyone aboard. Trains pulled into the stations of Lahore and Amritsar in silence, with blood running from under the doors. Then a train going the other way would be attacked in reprisal.
 
-Neighbours who had lived side by side for generations took part. So did the police. About seventy-five thousand women were abducted, raped, and in many cases kept as wives by their captors. Fathers killed their own daughters to prevent it.
+Neighbours who had lived side by side for generations took part. So did the police. More than eighty thousand women were abducted, raped, and in many cases kept as wives by their captors. Fathers killed their own daughters to prevent it.
 
-Within four years about fifteen million people had crossed the borders, most of them in the first few months, in one of the largest forced migrations ever recorded. Between half a million and a million were dead. Delhi, the Indian capital, filled with Hindu and Sikh refugees who had lost everything, and they turned on the city's Muslims, tens of thousands of whom took shelter inside the walls of the old Mughal monuments. Karachi, the capital of Pakistan, was a port with a Hindu majority in 1947. Three years later most of its Hindus had gone, and its population had doubled with Muslims from India.
+Within four years about fifteen million people had crossed the borders, most of them in the first few months, in one of the largest forced migrations ever recorded. Between half a million and a million were dead. Delhi, the Indian capital, filled with Hindu and Sikh refugees who had lost everything, and they turned on the city's Muslims, tens of thousands of whom took shelter inside the walls of the old Mughal monuments. Karachi, the capital of Pakistan, was a port where Hindus were half the people in 1947. Three years later most of its Hindus had gone, and its population had doubled with Muslims from India.
 
 ## A fast
 
 One man had more effect on the killing than the special force did.
 
-Gandhi had opposed partition to the end, and called it the cutting up of a living body. In August 1947 he was in Calcutta, where everyone expected the worst slaughter of all. He moved into a house in a Muslim slum together with the Muslim politician whom many Hindus blamed for the riots of the year before. The city stayed calm through independence, and Mountbatten wrote to him that in Punjab he had fifty-five thousand soldiers and large-scale rioting, and in Bengal he had one man and peace. When the violence began again, at the start of September, Gandhi announced that he would eat nothing until it stopped. He was seventy-seven. On the fourth day the leaders of the gangs came to his bedside and laid their weapons on the floor. Bengal stayed quiet.
+Gandhi had opposed partition to the end, and called it vivisection, the cutting up of a living body. In August 1947 he was in Calcutta, where everyone expected the worst slaughter of all. He moved into a house in a Muslim slum together with the Muslim politician whom many Hindus blamed for the riots of the year before. The city stayed calm through independence, and Mountbatten wrote to him that in Punjab he had fifty-five thousand soldiers and large-scale rioting, and in Bengal he had one man and peace. When the violence began again, at the start of September, Gandhi announced that he would eat nothing until it stopped. He was seventy-seven. On the fourth day the leaders of the gangs came to his bedside and laid their weapons on the floor. Bengal stayed quiet.
 
 In January 1948 Gandhi fasted again, in Delhi. He demanded that the city's Muslims be left in safety, and that the Indian government hand over Pakistan's share of the treasury, which it had been holding back. The government gave way.
 
-To some Hindus this was treachery. On the evening of 30 January, as Gandhi walked across a garden to his daily prayer meeting, a young man stepped out of the crowd, bowed to him, and shot him three times in the chest. The killer was a Hindu nationalist, the editor of a small newspaper, who believed that Gandhi had weakened the Hindus and appeased the Muslims. Nehru went on the radio that night and said that the light had gone out of their lives.
+To some Hindus this was treachery. On the evening of 30 January, as Gandhi walked across a garden to his daily prayer meeting, a man stepped out of the crowd, bowed to him, and shot him three times in the chest. The killer was a Hindu nationalist, the editor of a small newspaper, who believed that Gandhi had weakened the Hindus and appeased the Muslims. Nehru went on the radio that night and said that the light had gone out of their lives.
 
 The murder shocked the country into stillness. The organisations that had preached hatred were banned, and the attacks on Muslims in India largely stopped.
 
 ## The maharaja's choice
 
-A third of India had never been ruled by the British directly. It belonged to more than five hundred princes, whose states ranged from a few villages to kingdoms the size of Britain. They were told to join one country or the other. Nearly all did, persuaded by a mixture of flattery, pensions and threats.
+Two fifths of India had never been ruled by the British directly. It belonged to more than five hundred princes, whose states ranged from a few villages to kingdoms the size of Britain. They were told to join one country or the other. Nearly all did, persuaded by a mixture of flattery, pensions and threats.
 
 One hesitated too long. Kashmir, a mountain kingdom in the far north, touched both new countries. Three quarters of its people were Muslims. Its ruler was a Hindu, and he dreamed of independence. In October 1947 several thousand armed tribesmen from Pakistan's frontier crossed into Kashmir, with the help of Pakistani officers, and marched on his capital, stopping to loot on the way. The maharaja appealed to India. India answered that it could send soldiers only to its own territory, and he signed. Indian troops were flown in the next morning and held the town.
 
-The two new armies, which had been one army four months before and whose officers had trained together, fought in the mountains for a year. The ceasefire left India with two thirds of Kashmir, including its central valley, and Pakistan with the rest. India promised that the people would be asked by vote which country they wished to join. The United Nations ruled that Pakistan's fighters must first withdraw and India's army be reduced. Neither side would move first, and the vote has never been held. The ceasefire line is still there. The two countries went to war over it again in 1965 and in 1999, and both now have nuclear weapons.
+The two new armies, which had been one army a few months before and whose officers had trained together, fought in the mountains for a year. The ceasefire left India with two thirds of Kashmir, including its central valley, and Pakistan with the rest. India promised that the people would be asked by vote which country they wished to join. The United Nations ruled that Pakistan's fighters must first withdraw and India's army be reduced. Neither side would move first, and the vote has never been held. The ceasefire line is still there. The two countries went to war over it again in 1965 and in 1999, and both now have nuclear weapons.
 
 ## Two wings
 
@@ -98,7 +98,7 @@ Pakistan was born in two pieces, with a thousand miles of India between them. Ji
 
 Its two halves had little in common except their faith. The western wing held the capital, the army and the civil service. The eastern wing, the Muslim half of Bengal, held more than half the people. They spoke Bengali, a language with its own alphabet and a great literature, and they were told that the only national language would be Urdu. In February 1952 the police in the eastern city of Dhaka fired on students who were demonstrating for their language, and killed several. The day is still kept as a day of mourning.
 
-For twenty years the east supplied most of the country's export earnings and received the smaller share of its spending. In 1970, in Pakistan's first free national election, a Bengali party won an outright majority in parliament. The army had ruled Pakistan since 1958, and the generals, all from the west, refused to let it take office. In March 1971 the army moved into Dhaka and began killing students, professors, and Hindus. Over nine months hundreds of thousands of people were killed, and ten million fled across the border into India.
+For twenty years the east supplied most of the country's export earnings and received the smaller share of its spending. In 1970, in Pakistan's first free national election, a Bengali party won an outright majority in parliament. The army had ruled Pakistan since 1958, and the generals, all from the west, refused to let it take office. In March 1971 the army moved into Dhaka and began killing students, professors, and Hindus. Over nine months at least three hundred thousand people were killed, and by Bangladesh's count three million, and ten million fled across the border into India.
 
 India armed the Bengali rebels, and in December, after Pakistani aircraft bombed its airfields, it invaded. The war lasted thirteen days, and ended with the surrender of the whole Pakistani army in the east. India took ninety thousand prisoners. The eastern wing became a new country, Bangladesh. A state founded on the idea that a shared religion made a nation had been broken by a difference of language.
 
@@ -108,6 +108,6 @@ India took a different road. About thirty-five million Muslims had stayed, and t
 
 Few outsiders believed that it could work. Four Indians in five could not read. In the winter of 1951 the country held its first general election, with a hundred and seventy-three million voters, which made it the largest ever held anywhere. Since most could not read a name, each party was given a picture: a pair of oxen, a hut, a lamp, an ear of corn. Two million steel ballot boxes were made. Officials carried them to the polling stations on camels and elephants, and across rivers by boat. Nearly half of them turned out.
 
-India has held elections ever since, and has changed its government by them many times. It now has about as many Muslim citizens as Pakistan has people.
+India has held elections ever since, and has changed its government by them many times. It now has more than two hundred million Muslim citizens, nearly as many as Pakistan has people.
 
 On the main road between Lahore and Amritsar, where the trains once crossed, there is a gate in Radcliffe's line. Every evening at sunset, soldiers of the two countries, chosen for their height and dressed in plumed turbans, march up to it from either side. They stamp, glare and kick their legs above their heads, in front of crowds who cheer from grandstands. The two flags are lowered at exactly the same speed, so that neither is above the other. Then the gates are slammed shut for the night.
