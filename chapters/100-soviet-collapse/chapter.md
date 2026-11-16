@@ -46,7 +46,7 @@ His first reform showed the difficulty. To raise the productivity of labour he c
 
 ## Reactor four
 
-A little after one in the morning on 26 April 1986, during a badly run safety test, on a reactor whose design had a flaw that its operators had never been told about, of the nuclear power station at Chernobyl, in Ukraine, exploded. The blast blew the thousand-ton lid off the core and threw burning graphite onto the roofs. Firemen who went up to put it out, without protection, were dead within weeks. A cloud of radioactive dust rose a kilometre into the air and drifted north-west across Europe.
+A little after one in the morning on 26 April 1986, during a badly run safety test, the fourth reactor of the nuclear power station at Chernobyl, in Ukraine, exploded. Its design had a flaw that its operators had never been told about. The blast blew the thousand-ton lid off the core and threw burning graphite onto the roofs. Firemen who went up to put it out, without protection, were dead within weeks. A cloud of radioactive dust rose a kilometre into the air and drifted north-west across Europe.
 
 The government said nothing. The first that the world knew of it was two days later, when alarms went off at a nuclear plant in Sweden, eleven hundred kilometres away, and the Swedes traced the fallout back on the wind. The town beside the reactor, with fifty thousand people, was not evacuated for thirty-six hours. In Kyiv, a hundred kilometres to the south, the May Day parade went ahead five days after the explosion, and children marched through the streets carrying flowers while the party leaders' own families were sent out of the city.
 
