@@ -2,7 +2,7 @@
 
 *Rwanda, Bosnia and the Congo, from 1990 to 2003*
 
-Nobody stopped it because the countries that could have done so had no interests in Rwanda and had just lost soldiers in another African war. A United Nations force was in the country when the killing began. Its commander had warned his superiors three months before, and was told to do nothing, and within two weeks most of his soldiers had been taken away from him.
+Nobody stopped it because the countries that could have done so either had no interest in Rwanda or were friends of its government, and the strongest of them had just lost soldiers in another African war. A United Nations force was in the country when the killing began. Its commander had warned his superiors three months before, and was forbidden to act, and within two weeks most of his soldiers had been taken away from him.
 
 At twenty past eight on the evening of 6 April 1994, an aircraft carrying the president of Rwanda was coming in to land at Kigali, the capital, when two missiles fired from a hillside struck it. It crashed in the garden of his own palace. Everyone on board was killed.
 
@@ -24,11 +24,11 @@ As independence approached, the Belgians changed sides. The Tutsi elite was aski
 
 ## Those who attack together
 
-In 1990 an army formed by the sons of those refugees invaded from Uganda. Its commander was a thin, austere officer in his thirties named Paul Kagame. After three years of civil war the president, under pressure from foreign donors, signed a peace agreement that would bring the rebels into the government and the army.
+In 1990 an army formed by the sons of those refugees invaded from Uganda. Its commander, from the first weeks, was a thin, austere officer in his thirties named Paul Kagame. After three years of civil war the president, under pressure from foreign donors, signed a peace agreement that would bring the rebels into the government and the army.
 
-A circle of powerful men around the president and his wife saw in that agreement the end of their own position, and they began to prepare a different solution. They put it about that the Tutsi inside the country were all agents of the invaders, a fifth column that planned to enslave the Hutu once more. A newspaper published ten commandments for Hutu, which declared that any Hutu who married a Tutsi woman or did business with a Tutsi was a traitor. The ruling party's youth wing was turned into a militia called "those who attack together", thirty thousand strong, trained by the army.
+A circle of powerful men around the president and his wife saw in that agreement the end of their own position. They had been preparing a different solution since the war began. They put it about that the Tutsi inside the country were all agents of the invaders, who planned to make the Hutu their serfs once more. A newspaper had published ten commandments for Hutu, which declared that any Hutu who married a Tutsi woman or did business with a Tutsi was a traitor. The ruling party's youth wing was turned into a militia called "those who attack together", thirty thousand strong, trained by the army.
 
-In 1993 Rwanda imported more than half a million machetes from China, which was enough for one in every three adult men. The same circle founded the radio station, and radios were handed out free in the villages.
+In the fifteen months before the killing, Rwanda imported nearly six hundred tons of machetes from China, enough for one in every three Hutu men. The same circle founded the radio station, and radios were handed out free in the villages.
 
 ## A fax
 
@@ -44,19 +44,19 @@ The planners had studied the outside world carefully. In October 1993 American t
 
 On the morning after the plane was shot down, soldiers went to the house of the prime minister, a Hutu woman who supported the peace agreement, and murdered her. The ten Belgian peacekeepers who had been guarding her were disarmed, taken to an army camp, and beaten and hacked to death.
 
-It worked exactly as intended. Belgium pulled out its whole contingent within a week and urged other countries to do the same. French, Belgian and Italian paratroopers flew in, well armed, and for a few days there were more than enough good soldiers in Kigali to have stopped the killing in the capital. They had come to collect their own citizens. They drove to the airport past the roadblocks, with the expatriates and in some cases their dogs, and flew out again.
+It worked exactly as intended. Belgium announced within a week that it was pulling out its whole contingent, and urged other countries to do the same. French, Belgian and Italian paratroopers flew in, well armed, and for a few days there were more than enough good soldiers in Kigali to have stopped the killing in the capital. They had come to collect their own citizens. They drove to the airport past the roadblocks, with the expatriates and in some cases their dogs, and flew out again.
 
 At a technical school in Kigali, two thousand Tutsi had taken refuge under the guard of ninety Belgian soldiers. On 11 April the soldiers were ordered to the airport. People lay down in the road in front of their trucks. The Belgians fired over their heads and left, and the militia, which had been waiting outside the gate drinking beer, came in. On 21 April the Security Council voted to cut Dallaire's force to two hundred and seventy men.
 
 ## Work
 
-The first to die were those on the lists: politicians, lawyers, journalists and priests, including Hutu who opposed the plan. Then it spread to the hills, and it became the task of the whole population.
+The first to die were those on the lists: politicians, lawyers, journalists and priests, including Hutu who opposed the plan. Then it spread to the hills, and the whole population was called on to take part.
 
 It was organised through the ordinary machinery of a tightly governed country. Mayors and village heads called the men together, as they did for communal road-mending, and told them that there was work to do. Those who hung back were fined, beaten or killed. At the roadblocks, people were asked for their identity cards. Farmers killed the families on the next plot, with whom they had shared beer. Teachers killed their pupils, and doctors their patients. Husbands were forced to kill their Tutsi wives. In all, some two hundred thousand people took part in the killing.
 
 In earlier massacres Tutsi had been safe in churches, and so in 1994 they crowded into them, and were trapped. At one church south of the capital, about five thousand people were killed in a day with grenades, machetes and clubs. At another the militia knocked holes in the brick walls to throw the grenades in. Priests and nuns in several places handed over those who had come to them.
 
-Something like a quarter of a million women were raped. The dead were being added to at a rate of eight thousand a day, which is faster than the gas chambers had managed.
+Something like a quarter of a million women were raped. The dead were being added to at a rate of eight thousand a day.
 
 ## Acts of genocide
 
@@ -66,7 +66,7 @@ In 1948 the world's governments had signed a convention that named the crime of 
 
 The United States had no intention of sending soldiers so soon after Somalia, and it argued against anyone else's being sent, since it would be asked to pay. France had armed and trained the Rwandan army for years and regarded the rebels as tools of its English-speaking rivals. Britain was not interested. The African states that offered troops had no aircraft to carry them and no armoured vehicles, and the vehicles that the Americans agreed to lease them were still being haggled over when the killing ended.
 
-Dallaire said then, and military experts have since agreed, that five thousand well-equipped soldiers with orders to use force could have stopped most of it. The killers were not an army. They were gangs with knives, who ran when anyone stood up to them.
+Dallaire said then, and military experts have since agreed, that five thousand well-equipped soldiers with orders to use force could have stopped most of it. The army and the police led the killing, but most of the killers were gangs with knives, and where anyone stood up to them they often ran.
 
 ## A captain with a car
 
@@ -76,19 +76,19 @@ One of his unarmed observers was a tall, cheerful captain from Senegal named Mba
 
 ## Two million
 
-The genocide was ended by the rebel army. Kagame's troops advanced steadily from the north, took the capital on 4 July, and held the whole country two weeks later. They killed as they came, in reprisal, some tens of thousands of Hutu civilians.
+The genocide was ended by the rebel army. Kagame's troops advanced steadily from the north, took the capital on 4 July, and two weeks later held everything except a zone in the south-west, where French troops had landed in June and behind whose lines many of the killers got away. They killed as they came, in reprisal, some tens of thousands of Hutu civilians.
 
-Ahead of them went one of the fastest mass flights ever seen. The defeated government ordered the population to leave, and in a few days two million Hutu walked across the border into Zaire, the huge country to the west, carrying their mattresses and cooking pots. Among them, and in command of them, were the army, the militia and the officials who had organised the slaughter.
+Ahead of them went one of the fastest mass flights ever seen. The defeated government ordered the population to leave, and two million Hutu walked out of the country, more than half of them, in a few days, across the border into Zaire, the huge country to the west, carrying their mattresses and cooking pots. Among them, and in command of them, were the army, the militia and the officials who had organised the slaughter.
 
 They settled on a field of black volcanic rock beside a lake, where no latrine could be dug, and cholera broke out. Fifty thousand died in a month. Now the world acted. Television showed the dying, aid poured in, and American soldiers arrived to purify water. The camps that the aid sustained were run by the killers, who taxed the food and used it to rebuild their army.
 
 ## Africa's world war
 
-From those camps the militia raided back into Rwanda. In 1996 Kagame's government sent its army across the border to break them up. It did, and it hunted the refugees who fled westwards through the forest, killing a great many. Then it kept going. With allies from Uganda and Angola, it marched across a country the size of western Europe and overthrew the old dictator who had ruled Zaire since the murder of its first prime minister in 1961. The country was renamed the Democratic Republic of the Congo.
+From those camps the militia raided back into Rwanda. In 1996 Kagame's government sent its army across the border to break them up. It did, and it hunted the refugees who fled westwards through the forest, killing a great many. Then it kept going. With allies from Uganda and Angola, it marched across a country the size of western Europe and overthrew Mobutu, the old dictator who had ruled Zaire for thirty-two years. A veteran rebel named Kabila was installed in his place, and the country was renamed the Democratic Republic of the Congo.
 
-The man whom Rwanda had installed soon quarrelled with his sponsors, and in 1998 a second war began. Nine African countries sent armies. They stayed to help themselves to the gold, the diamonds and a dull metallic ore, used in every mobile telephone, that could be dug out of hillsides by hand. Dozens of local militias fought over the mines.
+Kabila soon quarrelled with his sponsors, and in 1998 a second war began. Nine African countries sent armies. They stayed to help themselves to the gold, the diamonds and a dull metallic ore, used in every mobile telephone, that could be dug out of hillsides by hand. Dozens of local militias fought over the mines.
 
-Few people outside Africa could have said who was fighting whom. Most of the dying was not done in battle. Villagers driven into the forest again and again died of malaria, diarrhoea and hunger, far from any clinic. A count by a medical charity put the dead between 1998 and 2007 at more than five million. Other researchers think the figure too high by half. Even at the lower number, it was the deadliest war anywhere since 1945, and it has never fully stopped.
+Few people outside Africa could have said who was fighting whom. Most of the dying was not done in battle. Villagers driven into the forest again and again died of malaria, diarrhoea and hunger, far from any clinic. A medical charity estimated that between 1998 and 2007 more than five million people died who would otherwise have lived. Other researchers think that figure far too high. On any count it was one of the deadliest wars since 1945, and it has never fully stopped.
 
 ## A safe area
 
@@ -98,22 +98,22 @@ Yugoslavia was a federation of six republics in the Balkans, held together for t
 
 In 1992 the republic of Bosnia, where Muslims, Serbs and Croats lived mixed together in the same towns and often the same families, voted for independence. Serb forces, armed by the Yugoslav army, set about carving out a territory of their own and removing everyone else from it. Their phrase for this entered every language: ethnic cleansing. Villages were shelled and burned, men were held in camps where they were starved and beaten to death, and women were raped systematically, as a method. The capital, Sarajevo, which had hosted the winter Olympics eight years before, was besieged for nearly four years, while gunners in the hills shot at people queuing for water.
 
-The United Nations sent peacekeepers with the same orders as in Rwanda. It declared six towns to be safe areas under its protection. One was Srebrenica, a small mining town in a valley in the east, crammed with forty thousand Muslim refugees and guarded by four hundred Dutch soldiers.
+The United Nations sent peacekeepers, lightly armed as in Rwanda. It declared six towns to be safe areas under its protection. One was Srebrenica, a small mining town in a valley in the east, crammed with forty thousand Muslim refugees and guarded by four hundred Dutch soldiers.
 
 On 11 July 1995 the Bosnian Serb army walked in. Its general had himself filmed handing out sweets to the children and telling the crowd that nobody would be harmed. The Dutch asked for air strikes, which came too late and were called off. Their commander was filmed drinking a toast with the general. The Dutch then helped to separate the men from the women, on the general's orders, and watched as the men were driven away in buses.
 
 Over the next five days about eight thousand men and boys were shot in fields, warehouses and a school gymnasium, and bulldozed into pits. It was the worst massacre in Europe since the Second World War, and international courts have ruled that it was genocide.
 
-Srebrenica finally shamed the Western governments into acting. The alliance of the Cold War, which had never fired a shot in anger, bombed the Bosnian Serb army for two weeks, and within three months the war was over. A hundred thousand people had died in it.
+Srebrenica finally shamed the Western governments. When a Serb shell killed forty-three people in a Sarajevo market six weeks later, the alliance of the Cold War, NATO, which had never fought a campaign, bombed the Bosnian Serb army for two weeks, and within three months the war was over. A hundred thousand people had died in it.
 
 ## Courts
 
 The governments that had not sent soldiers sent lawyers. Two international tribunals were set up, the first since the trials of the Nazi leaders. The one for Rwanda convicted a small-town mayor in 1998, in the first verdict of genocide ever handed down by an international court, and it later convicted the founders of the radio station. The one for Yugoslavia tried the Serbian president, who died in his cell before the verdict, and sentenced the general of Srebrenica to prison for life. A permanent court was founded in 2002. The United States, Russia and China have not joined it.
 
-Rwanda itself had more than a hundred thousand suspects in its jails and a few dozen surviving judges. It turned to an old custom. In every village the accused were brought before their neighbours, sitting on the grass, and those who confessed fully and asked forgiveness received lighter sentences. Twelve thousand such courts heard more than a million cases in ten years. The new government abolished the identity cards and made it an offence to speak of Hutu and Tutsi at all. It has given the country order and one of the fastest-growing economies in Africa, and Kagame, who still rules it, does not tolerate opposition.
+Rwanda itself had more than a hundred thousand suspects in its jails and a few dozen surviving judges. It turned to an old custom. In every village the accused were brought before their neighbours, sitting on the grass, and those who confessed fully and asked forgiveness received lighter sentences. Twelve thousand such courts heard more than a million cases in ten years. The new government removed the ethnic label from the identity cards and made it an offence to stir up division between Hutu and Tutsi. It has given the country order and one of the fastest-growing economies in Africa, and Kagame, who still rules it, does not tolerate opposition.
 
 In March 1998 the American president stopped at Kigali airport. He told an audience of survivors that the world had not acted quickly enough, and had not called the crimes by their rightful name. He stayed three and a half hours, and the engines of his aircraft were kept running.
 
 Dallaire went home to Canada. He could not stop seeing what he had seen. In 2000 he was found unconscious under a park bench, after trying to kill himself with drink and pills.
 
-In the villages of Rwanda today, the people who survived live beside the people who killed their families, who have served their sentences and come home. There is nowhere else for either to go. They farm neighbouring plots, and they draw water at the same pump.
+In the villages of Rwanda today, the people who survived live beside the people who killed their families, who have served their sentences and come home. Land is too scarce for either to move. They farm neighbouring plots, and they draw water at the same pump.
