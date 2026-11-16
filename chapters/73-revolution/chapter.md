@@ -111,6 +111,9 @@ The elections for the long-promised assembly were held a few weeks later, and th
 
 Lenin had always said that a revolution in backward Russia could not survive alone. It was to be the spark that set off the workers of Germany, France and Britain. He made peace with Germany in March 1918 at a terrible price, giving up Poland, the Baltic lands and Ukraine, and waited for Europe to catch fire.
 
+![Map of Russia in the civil war: a red area labelled Reds round Moscow, Petrograd and Yekaterinburg, blue areas labelled Whites in the south, in Siberia, in the far north and near Petrograd, arrows marking foreign landings at Murmansk, Arkhangelsk, Odessa and Vladivostok, the lands to the west hatched as given up by the treaty of 1918, and the Trans-Siberian railway running east to Vladivostok](images/map_civil_war.png)
+*Russia in the civil war, roughly as it stood in October 1919: the Reds in the centre, the Whites round the edge, and the ports where foreign troops landed in 1918. The hatched lands in the west were given up by the treaty of March 1918. Map: drawn for this book; coastlines and rivers from Natural Earth, public domain.*
+
 Revolutions did break out in Germany and Hungary at the end of the war, and each was put down within months. Russia, meanwhile, had fallen into civil war. Former tsarist officers raised armies in the south, in Siberia and on the Baltic. They were called the Whites. Britain, France, the United States and Japan landed troops at the ports to help them. The Bolsheviks, who now called themselves Communists, held the middle of the country: Moscow, Petrograd and the railways that ran out from them.
 
 ![Red and black poster of a soldier in a red cap pointing at the viewer, with factory chimneys behind him and Russian lettering](images/poster.jpg)

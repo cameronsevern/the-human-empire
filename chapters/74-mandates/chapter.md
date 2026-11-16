@@ -95,6 +95,9 @@ Hussein's family thus received two thrones, and lost the one they started with. 
 
 One large people came away with nothing. The Kurds, who live in the mountains where Turkey, Iraq, Syria and Iran now meet, had been offered self-rule, and the prospect of a state, in the first peace treaty with the Ottomans. The offer was dropped from the final one. They number more than thirty million today, divided among four countries.
 
+![Two maps side by side. Left, 1916: the Ottoman empire of 1914 with a French-ruled zone on the Syrian coast and in south-eastern Anatolia, a British-ruled zone in southern Iraq, an international zone in Palestine, and areas A and B of French and British influence divided by a dashed line from Acre to Kirkuk. Right, 1923: Turkey, the French mandates of Syria and Lebanon, the British mandates of Iraq, Palestine and Transjordan, the Hejaz, Nejd and Persia, with the land of the Kurds cross-hatched across the borders of Turkey, Syria, Iraq and Persia](images/map_mandates.png)
+*Left, the Ottoman empire of 1914 with the zones agreed in secret by Britain and France in 1916, and the line from Acre to Kirkuk between them. Right, the same lands in 1923, with the area where Kurds live hatched; zones and areas are drawn roughly. Map: drawn for this book; coastlines and rivers from Natural Earth, public domain.*
+
 ## The father of the Turks
 
 The victors had meant to carve up Turkey itself in the same way. A treaty signed by the sultan's government in 1920 put the great port of Smyrna and the country around it under Greek administration, set aside zones for France and Italy, and left the Turks a rump state without control of its own straits or finances.

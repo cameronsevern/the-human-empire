@@ -60,6 +60,9 @@ While the Germans poured men into the ruins, the Soviet command quietly assemble
 
 The German army attacked once more, the following summer, and was beaten in the largest tank battle ever fought. From then on it went backwards, all the way to Berlin. The scale of that fighting has no parallel. Most of the German soldiers killed in the whole war died on the eastern front. The price was paid by the Soviet people. About twenty-seven million of them died, soldiers and civilians, which was one person in seven.
 
+![Two maps, one above the other. Above, Europe in November 1942: Germany, its allies and the lands they occupied shaded red from France to the front line, which runs from near Murmansk past Leningrad and west of Moscow to Stalingrad and the Caucasus; the Soviet Union and Britain shaded blue, the neutral countries hatched, oilfields marked in the Caucasus and Romania, and a dashed convoy route crossing the Atlantic to Britain. Below, Asia and the Pacific in mid 1942: the land held by Japan shaded red from Burma and Manchuria to New Guinea, with a dashed line around its furthest advance, oilfields in Sumatra and Borneo, and Midway marked beyond the line](images/map_furthest_advance.png)
+*The furthest advance of Germany, in November 1942, and of Japan, in mid 1942, with the oil each was reaching for, roughly. Map: drawn for this book; coastlines and rivers from Natural Earth, public domain.*
+
 ## Fire in a cylinder
 
 All of this turned on a machine that had been a novelty at the start of the previous war.
@@ -89,6 +92,9 @@ Meanwhile, in American shipyards, a standard cargo ship was designed to be built
 What happened in American factories in those years had no precedent. The country had been in a depression for a decade, with millions out of work and plants standing idle. Within three years of Pearl Harbor it was making two fifths of all the weapons in the world.
 
 Car makers stopped making cars. Near Detroit the Ford company built a factory to make four-engined bombers on an assembly line a mile long, in the same way that it had made its cars. The aircraft industry said that it could not be done, since a bomber had over a million parts. By 1944 a finished bomber rolled out of the door every sixty-three minutes. In that year American factories built ninety-six thousand aircraft, far more than Germany and Japan together.
+
+![Line chart of aircraft built each year from 1939 to 1945. The United States line rises from about two thousand to ninety-six thousand in 1944; the Soviet Union, Germany, Britain and Japan stay below about forty thousand; all five fall in 1945](images/chart_aircraft.png)
+*Aircraft built each year, 1939 to 1945, by the five largest powers. Figures from John Ellis, The World War II Databook (1993), and other standard sources, as tabulated in English Wikipedia's "World War II aircraft production". Chart: drawn for this book.*
 
 The workers were found wherever they could be. Twelve million men were in uniform, and six million women took jobs for the first time, many of them in shipyards and aircraft plants, driving rivets and welding. More than a million Black Americans left the farms of the South for the factories of the North and the West.
 
