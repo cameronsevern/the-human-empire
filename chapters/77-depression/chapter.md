@@ -24,6 +24,9 @@ The war of 1914 broke the system, since no government could fight such a war wit
 
 Germany had been ordered to pay for the damage of the war, and it did not have the money. In 1923, when it fell behind and France seized its main industrial region, the German government paid its bills by running the printing presses day and night. The currency dissolved. In 1914 a dollar had bought about four marks. By November 1923 it bought four trillion. A loaf of bread cost two hundred billion marks. Workers were paid twice a day, and their wives waited at the factory gate to run to the shops before the afternoon prices were posted. A lifetime's savings would not buy a postage stamp. The German middle class never forgot it, and neither did the bankers of the world, who drew the lesson that the one thing worse than any slump was inflation.
 
+![A pink and grey German banknote reading Einhundert Billionen Mark, dated 26 October 1923](images/inflation_note.jpg)
+*A German banknote for 100 trillion marks, dated 26 October 1923, from the year the currency dissolved. Photo: Deutsche Reichsbank, public domain.*
+
 Germany was rescued by a new currency at the end of 1923, and by American loans from 1924. Those loans completed a curious circle. American banks lent money to Germany. Germany used it to pay France and Britain what it owed them for the war. France and Britain used it to repay what they had borrowed from the United States during the war. The money went round and round, and the whole arrangement depended on Americans continuing to lend.
 
 ## A permanently high plateau
@@ -38,6 +41,9 @@ The trouble with borrowed money is that it works in both directions. If that sam
 
 That is what happened in the last week of October 1929. On Thursday the twenty-fourth, prices began to slide, and by midday the selling was a stampede. A group of bankers calmed things by buying ostentatiously. On the following Tuesday there was no stopping it. Sixteen million shares were dumped in a day, a record that stood for almost forty years, and the machines that printed the prices ran hours behind. Within three weeks the market had lost more than a third of its value. It kept falling for almost three years, until nine tenths was gone, and it did not regain the level of September 1929 until 1954.
 
+![A crowd of men in hats and overcoats standing in a Wall Street canyon between tall buildings, some raising their arms](images/wall_street_crowd.jpg)
+*A crowd in Wall Street in the days after the crash, October 1929. Photo: Associated Press, public domain.*
+
 ## Twenty-five thousand banks
 
 Only a small minority of Americans owned shares. The crash wiped out the paper fortunes of the rich and the hopeful, and it frightened everyone. People put off buying a car. Factories that made cars laid off men, who then could not pay their instalments. That is an ordinary slump, of the kind that had come every ten years or so for a century, and it should have run its course in a year or two.
@@ -50,6 +56,9 @@ The effect was to drain money out of the whole economy. A country's money is mos
 
 In 1929, three American workers in a hundred had no job. By 1933 it was one in four, about thirteen million people, and a great many of the rest were on short hours. There was no national system of relief. Men who had been foremen and clerks queued for soup, sold apples on street corners, and rode freight trains from town to town looking for a day's work. On the edges of the cities, families lived in shacks made of packing cases and flattened tins. They named these settlements Hoovervilles, after the president.
 
+![A long line of men in overcoats outside a shop front with a sign offering free soup, coffee and doughnuts for the unemployed](images/soup_kitchen.jpg)
+*Unemployed men queue outside a soup kitchen opened by the gangster Al Capone in Chicago, February 1931. Photo: unknown, US National Archives, public domain.*
+
 ## Liquidate
 
 President Herbert Hoover was an intelligent and humane man who had made his name organising food relief in wartime Europe. He did more than any president before him had done in a slump. He urged employers to keep wages up, brought forward public building works, and in 1932 set up an agency to lend to banks in trouble. However, he and nearly everyone who advised him held a set of beliefs that made all of it too little.
@@ -59,6 +68,9 @@ His secretary of the treasury, one of the richest men in America, put the orthod
 Hoover did not go quite so far. He did, however, hold to three articles of faith. The first was that the government must balance its budget, as a household must. As tax revenues fell, he therefore fought to hold spending down, and in 1932, deep in the slump, he raised taxes. The second was that the dollar must remain tied to gold. The American central bank had been founded in 1913 for the purpose of lending to sound banks in a panic. It stood by while a third of the banks failed, and at one point raised interest rates to defend the currency. The third was that American jobs should be protected from foreign goods.
 
 In June 1930 Congress passed one of the highest tariffs in the country's history, raising the duty on some twenty thousand imported items. A thousand economists had signed a petition begging the president not to sign it. Other countries retaliated within months, with tariffs and quotas of their own. Over the next four years, the value of world trade fell by two thirds.
+
+![Two elderly men in suits standing side by side outside a stone building](images/smoot_hawley.jpg)
+*Representative Willis Hawley (left) and Senator Reed Smoot, whose names the tariff law of 1930 bears, photographed on 11 April 1929. Photo: National Photo Company, public domain.*
 
 Each of these policies made sense for one household, one bank or one country acting alone. Applied by everyone at the same time, they turned a recession into a catastrophe.
 
@@ -80,11 +92,17 @@ In November 1932 the American voters turned Hoover out by a huge margin. The win
 
 By the time he took office, on 4 March 1933, the banking system had stopped. The governors of most of the states had closed their banks, or limited withdrawals, to halt the runs. In his first speech as president, heard on the radio by tens of millions, Roosevelt told the country that the only thing it had to fear was fear itself.
 
+![Franklin Roosevelt seated at a desk before radio microphones marked NBC, CBS and ABC](images/roosevelt_radio.jpg)
+*President Roosevelt at the microphones of the radio networks for one of his fireside chats, dated 1935 by the National Archives. Photo: unknown, US National Archives, public domain.*
+
 Two days later he closed every bank in the United States by decree. Government examiners went through their books, and only those judged sound were to reopen. On the eighth evening he spoke on the radio again, this time sitting at a desk in the White House, in the tone of a man talking to a neighbour. He explained how a bank works, and why no bank can pay all its depositors at once. He said that it was safer to keep one's money in a reopened bank than under the mattress.
 
 The next morning the banks opened, and there were queues outside them once more. This time, people were bringing their money back. That June Congress passed a law under which the government insured ordinary bank deposits, at first up to two and a half thousand dollars each. Runs on American banks by small savers all but ceased.
 
 Roosevelt then tried everything at once, without much regard for consistency. He took the dollar off gold. He sent young men to work in the forests, three million of them over nine years, planting trees and cutting firebreaks. Other programmes hired the unemployed by the million to build roads, schools, airports and dams. Farmers were paid to grow less, so as to raise prices. Unions were given the legal right to bargain. In 1935 a law set up pensions for the old and insurance for the unemployed, paid for by a tax on wages.
+
+![A poster of a farmer with a rake and a labourer with a sledgehammer shaking hands across an ear of wheat, under the words Work Pays America](images/wpa_poster.jpg)
+*A Works Progress Administration poster, made between 1936 and 1941. The agency hired the unemployed by the million. Poster: Vera Bock, Federal Art Project, public domain.*
 
 It was a partial success. The economy grew fast from 1933, and unemployment fell, though it was still above one in seven in 1937. Roosevelt had not abandoned the old religion entirely. That year, thinking the emergency over, he cut spending to balance the budget, the central bank tightened credit, and the economy promptly fell back into recession.
 
@@ -93,6 +111,9 @@ It was a partial success. The economy grew fast from 1933, and unemployment fell
 The man who explained what had gone wrong was an English economist who had been warning of it since 1919.
 
 John Maynard Keynes was a Cambridge economist, a successful speculator and an adviser to the British treasury, with a gift for the wounding phrase. Economists of the old school said that slumps cured themselves in the long run. In the long run, Keynes replied, we are all dead.
+
+![John Maynard Keynes seated in an armchair with an open book on his knee](images/keynes.jpg)
+*John Maynard Keynes in 1929, seven years before he published his argument in full. Photo: unknown, public domain.*
 
 In 1936 he set out his argument in full. The accepted theory held that an economy always tends back towards full employment. If workers are idle, wages fall until it pays to hire them. Keynes said that this was false. An economy can settle into a state in which factories and workers stand idle for years, because nobody is buying. Businesses will not invest when there are no customers, however cheap borrowing becomes, and the workers they lay off are the customers they are missing.
 
@@ -105,6 +126,9 @@ The record bears him out, and it also shows how much the gold standard was to bl
 ## What it left
 
 The Depression changed what people expected of their rulers. Before 1929, most people regarded a slump as something like the weather. After it, voters in every democracy held the government responsible for whether they had work, and no government has been allowed to forget it.
+
+![A worn woman looking away from the camera, with two children turned away and leaning on her shoulders](images/migrant_mother.jpg)
+*Florence Thompson, aged thirty-two, a pea picker with seven children, in a camp at Nipomo, California, March 1936. Photo: Dorothea Lange, public domain.*
 
 It also left an argument that is still going on. One school holds that the central banks caused the disaster by letting the banks fail and the money supply collapse. Another, following Keynes, holds that the heart of it was the collapse of spending. A third puts the blame on the gold standard, which forced every country to deepen the slump in order to defend its currency. They agree on more than they admit. No central banker since has knowingly let the banking system go down.
 
