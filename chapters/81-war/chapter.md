@@ -6,6 +6,9 @@ It was won by factories and by Soviet soldiers. Germany and Japan struck first a
 
 On the evening of 30 November 1943, the three men who commanded the alliance against Hitler sat down to dinner at the British legation in Tehran, the capital of Iran. It was the sixty-ninth birthday of the British prime minister, Winston Churchill, and he was the host. His guests were the American president, Franklin Roosevelt, and Joseph Stalin. The conference was the first at which the three had met.
 
+![Stalin, Roosevelt and Churchill seated side by side on a veranda, with two officers standing behind them](images/tehran.jpg)
+*Stalin, Roosevelt and Churchill on the veranda of the Soviet legation in Tehran, during the first conference of the three leaders, late November 1943. Photo: Dennis Charles Oulds, public domain.*
+
 The dinner went on for hours, with toast after toast in the Russian manner. Late in the evening Stalin rose once more. He wished to say, from the Russian point of view, what the president and his country had done. The most important things in this war, he said, are machines. The United States can build far more aircraft each month than Russia can. The United States is therefore a country of machines, and without those machines we would lose this war.
 
 Stalin was not a man given to generosity, and he was speaking as the leader of the country that had done most of the fighting. Both halves of his remark were true.
@@ -19,6 +22,9 @@ In August 1939 Hitler wanted to invade Poland without having to fight the Soviet
 What the German army did in Poland, and then in the west, was something new. Every army had tanks and aircraft. The French in fact had more tanks than the Germans, and better ones. They used most of them in the old way, spread along the line to support the infantry, and directed them by flags and messengers. The Germans gathered theirs into armoured divisions, gave each tank a radio, and sent them through a single weak point with dive bombers overhead in place of artillery. Once through, the tanks did not stop to fight. They drove on, deep into the rear, cutting telephone lines and supply roads, so that the armies in front of them were surrounded before their generals understood what had happened. The newspapers called it lightning war.
 
 In May 1940 that method was turned on France. The German tanks came through the wooded hills of the Belgian border, where the French had thought that no tank could pass, and reached the Channel coast in ten days. The British army escaped from the beaches at Dunkirk in a fleet of destroyers, ferries and pleasure boats, leaving its guns behind. France surrendered in six weeks. In the war of 1914 it had held out for four years.
+
+![A column of German tanks moving across an open field, soldiers sitting on the nearest ones](images/panzer.jpg)
+*German tanks on the move in France in 1940: a Panzer 35(t) in front and a Panzer IV behind it. Photo: Erich Borchert, German Federal Archive, CC BY-SA 3.0 de.*
 
 Italy, under the dictator Mussolini, who had ruled it since 1922 and invented the word fascism, now joined what looked like the winning side. Britain and its empire were left to fight on with no ally in Europe, and most of the world expected them to make terms. Its new prime minister refused. Through the summer of 1940 the German air force tried to destroy the British one as the first step to an invasion, and failed, in part because the British had built a chain of radar stations along their coast and could see each raid coming. The Germans turned to bombing London and the other cities by night, and killed forty-three thousand civilians in eight months. The invasion was put off.
 
@@ -36,6 +42,9 @@ By the first week of December, German officers could see the towers of Moscow th
 
 The German army was not the machine that its enemies imagined. Its armoured divisions were a spearhead, and behind them the greater part of the army walked, as armies always had, with its guns and supplies pulled by six hundred thousand horses. In the vast spaces of Russia the spearhead outran the rest, and the roads turned to mud and then to ice.
 
+![A covered German tracked tractor stuck in a muddy field with two harnessed horses beside it and soldiers looking on](images/horses.jpg)
+*A German tracked tractor with horses harnessed to it in the mud in Russia, March 1943. Photo: Johannes Bergmann, German Federal Archive, CC BY-SA 3.0 de.*
+
 Meanwhile the Soviet government had done something that the Germans had not thought possible. In the summer and autumn of 1941, as the front came nearer, more than fifteen hundred factories were unbolted from their floors, loaded onto railway wagons with their workers, and carried east, to the Ural mountains, Siberia and central Asia. Machines were set up in the open and running before the walls had been built around them. By the next year they were making more tanks than Germany.
 
 ## Tanya's notebook
@@ -43,6 +52,9 @@ Meanwhile the Soviet government had done something that the Germans had not thou
 The city of Leningrad, the old capital, was cut off by land in September 1941. The one way in or out lay across a great lake to the east of it, by boat in summer and by a road of ice in winter, under German guns. Hitler did not want it captured, since he would then have had to feed it. He ordered that it should be sealed off and left to starve.
 
 Three million people were inside. By November the daily ration for anyone who was not a worker or a soldier was a hundred and twenty-five grams of bread, a slice the size of a pack of cards, and the bread was bulked out with wood pulp and the sweepings of oil mills. There was no heating, and the water pipes had frozen. People burned their furniture and their books. They boiled leather belts and scraped the paste from wallpaper. They pulled their dead to the cemeteries on children's sledges, until they were too weak to pull.
+
+![Bundled-up people with pails and pans queueing in the snow on a wide street in Leningrad, taking water from a hole in the ice, with tall buildings behind](images/leningrad_water.jpg)
+*Residents of Leningrad taking water from a shell hole on the Nevsky Prospect, December 1941, with the water pipes frozen. Photo: Boris Kudoyarov, RIA Novosti, CC BY-SA 3.0.*
 
 A girl of eleven named Tanya Savicheva kept a record in a small address book, one page for each entry, filed under the letter of the name. Zhenya died on 28 December at twelve in the morning, 1941. Grandmother died on 25 January. Leka died on 17 March. Uncle Vasya died on 13 April. Uncle Lesha, on 10 May. Mama, on 13 May, at half past seven in the morning. Then three more pages: The Savichevs are dead. Everyone is dead. Only Tanya is left. She was taken out of the city that summer, across the lake, and died two years later of the effects of starvation.
 
@@ -55,6 +67,9 @@ Hunger was a weapon everywhere in this war, and it killed more people than bombs
 In 1942 Hitler tried again, and this time he aimed at fuel. Germany had almost no oil of its own. It made a costly substitute from coal, and bought the rest from Romania, and its tanks and aircraft were always short. The Soviet oilfields lay in the Caucasus, between the Black Sea and the Caspian. An army that took them would supply itself and cut off the enemy at a stroke.
 
 The German columns drove south-east across the steppe all summer. To protect their flank they had to take a city on the river Volga, an industrial town thirty miles long that bore Stalin's name. He ordered that it be held, and for five months Stalingrad was fought over house by house and floor by floor. Soldiers fought with grenades and sharpened spades for a staircase or a sewer. The railway station changed hands more than a dozen times.
+
+![A German officer in a camouflaged helmet crouching with a submachine gun among wrecked machinery and rubble, with ruined buildings behind](images/stalingrad.jpg)
+*A German officer sheltering among the wreckage in Stalingrad in the autumn of 1942. The picture was taken by a German propaganda unit. Photo: German Federal Archive, CC BY-SA 3.0 de.*
 
 While the Germans poured men into the ruins, the Soviet command quietly assembled a million soldiers to the north and south. The long lines on either side of the city were held by the armies of Germany's ally Romania, which had few guns that could stop a tank. On 19 November the Soviet forces broke through on both sides, and in four days their two arms met behind the city. A quarter of a million Germans and their allies were caught inside the ring. Hitler forbade them to break out. They were starved and frozen through the winter, and at the beginning of February 1943 the ninety thousand survivors surrendered. About five thousand of them ever saw Germany again.
 
@@ -83,6 +98,9 @@ Britain is an island that imported half of its food and all of its oil. If the s
 
 They were beaten by a combination of things. Aircraft were given the range to cover the whole ocean, and radar sets small enough to carry, which could find a submarine on the surface in the dark. German commanders sent their orders by radio in a cipher produced by a machine like a typewriter, which scrambled each letter through a set of rotating wheels and could be set in billions of ways. They believed it unbreakable. Three Polish mathematicians had worked out its principles before the war and handed their results to the British. At a country house north of London, a team of mathematicians and chess players built electrical machines that tested thousands of possible settings a minute. For long stretches the British navy read the submarines' orders within hours and steered the convoys around them.
 
+![An Enigma cipher machine in its wooden case with the lid open, showing three rotors, a lamp board and the keys](images/enigma.jpg)
+*A German Enigma cipher machine, open to show its keys, lamps and rotating wheels, as used in the 1930s and 1940s. Photo: Arnold Reinhold, CC BY-SA 4.0.*
+
 In May 1943 the Germans lost forty-one submarines in a month and withdrew from the North Atlantic. Of the forty thousand men who served in them, three out of four died.
 
 Meanwhile, in American shipyards, a standard cargo ship was designed to be built in sections in different places and welded together at the shipyard, in place of the old method of riveting plate by plate on the slipway. The first took two hundred and thirty days to build. Within two years the average was about forty days, and one was put together, as a stunt, in under five. The yards launched twenty-seven hundred of them. By 1943 the Allies were building ships faster than any navy could sink them.
@@ -90,6 +108,9 @@ Meanwhile, in American shipyards, a standard cargo ship was designed to be built
 ## A bomber an hour
 
 What happened in American factories in those years had no precedent. The country had been in a depression for a decade, with millions out of work and plants standing idle. Within three years of Pearl Harbor it was making two fifths of all the weapons in the world.
+
+![The floor of a huge one-storey factory seen from above, with rows of workbenches and enormous fixtures for holding bomber wings](images/willow.jpg)
+*Part of the Ford bomber plant at Willow Run, Michigan, in July 1942, with fixtures for holding bomber wings during assembly. Photo: Ann Rosener, Library of Congress, public domain.*
 
 Car makers stopped making cars. Near Detroit the Ford company built a factory to make four-engined bombers on an assembly line a mile long, in the same way that it had made its cars. The aircraft industry said that it could not be done, since a bomber had over a million parts. By 1944 a finished bomber rolled out of the door every sixty-three minutes. In that year American factories built ninety-six thousand aircraft, far more than Germany and Japan together.
 
@@ -103,6 +124,9 @@ The Allies also understood something about machines that the Germans did not. In
 One product of those years saved lives. In 1928 a London doctor had noticed that a mould growing by accident on a dish of bacteria had killed the bacteria around it. He could not extract the substance, and the discovery lay unused for ten years. In 1940 a team at Oxford purified a few grams, and early the next year they tried it on a policeman who was dying of an infection that had begun with a scratch. He rallied within a day. The supply was so small that the doctors recovered the drug from his urine to give to him again. After five days it ran out, and he died.
 
 Britain, under bombardment, had no factories to spare. The Oxford scientists took the mould to America, to a government laboratory in the farm town of Peoria. Staff there searched the world for a more productive strain, and found it on a rotting melon from a market down the road. Drug companies learned to grow it in tanks the size of a house. In June 1944 there were more than two million doses ready for the armies that landed in France. In earlier wars, more soldiers had died of infected wounds and disease than had been killed outright.
+
+![A wartime poster showing a soldier's helmet on a wooden grave marker, with the words "Penicillin, the new life-saving drug"](images/penicillin.jpg)
+*An American poster urging builders to finish a penicillin plant quickly: "The faster this building is completed, the quicker our wounded men get penicillin." Made between 1941 and 1945. U.S. National Archives, public domain.*
 
 ## Firestorm
 
@@ -120,6 +144,9 @@ The war in Asia had started first, in 1937, and China fought it for eight years.
 
 In the Pacific the turn came early. Six months after Pearl Harbor, almost to the day, the Japanese fleet sailed to seize the island of Midway and finish off the American carriers. American code-breakers had read the plan. The carriers were waiting, and on the morning of 4 June 1942 their dive bombers caught the Japanese carriers while fuelled and armed aircraft crowded their hangars. Three were ablaze within six minutes, and the fourth was hit that afternoon. All four sank. They were four of the six that had attacked Pearl Harbor.
 
+![An aerial view of a Japanese cruiser burning and heavily damaged, with white smoke drifting across the sea](images/midway.jpg)
+*The Japanese cruiser Mikuma, wrecked and burning on 6 June 1942 after attack by American dive bombers during the battle of Midway. Photo: Royal Netherlands Navy, CC BY-SA 4.0.*
+
 After that it was a matter of arithmetic. Japan launched a handful of large carriers during the rest of the war, and the United States launched more than twenty. American forces advanced across the ocean from island to island, against garrisons that mostly fought until almost every man was dead. American submarines did to Japan what the Germans had failed to do to Britain. They sank most of its merchant ships, and the oil of the Dutch islands, for which Japan had gone to war, could no longer be carried home.
 
 The empires fought with soldiers from every continent. Two and a half million Indians served in the British forces, the largest army of volunteers ever raised. Africans fought in Burma, and Brazilians in Italy. Many of those men had been told that they were fighting for freedom, and they did not forget it when they went home.
@@ -129,6 +156,9 @@ The empires fought with soldiers from every continent. Two and a half million In
 In June 1944 the Germans were struck from both sides within three weeks.
 
 On the sixth, British, American and Canadian troops landed on the coast of Normandy, in northern France. Stalin had been demanding it for two years. Seven thousand ships and boats crossed the Channel, and a hundred and fifty-six thousand men landed on the first day, from the sea and by parachute. They brought two floating harbours in pieces, since the Germans held all the ports, and later laid a fuel pipe along the sea bed. By the end of August they were in Paris.
+
+![American soldiers wading ashore through the surf from the open ramp of a landing craft toward a smoky beach](images/normandy.jpg)
+*American troops wading ashore from a landing craft at Omaha Beach, Normandy, on the morning of 6 June 1944. Photo: Robert F. Sargent, U.S. Coast Guard, public domain.*
 
 On the twenty-second, three years to the day after the invasion of the Soviet Union, the Red Army attacked in the forests and marshes of Belarus with more than a million and a half men. In five weeks it destroyed the central group of German armies, some thirty divisions, and advanced four hundred miles to the gates of Warsaw. It was a larger defeat than Stalingrad, and it is hardly known in the West.
 
