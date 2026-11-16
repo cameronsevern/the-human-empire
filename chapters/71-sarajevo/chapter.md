@@ -4,21 +4,21 @@
 
 The war started because the great powers of Europe had bound themselves into two armed camps, and the strongest of them had a war plan that worked only if it struck first. When a young Serb nationalist shot the heir to the throne of Austria, the governments of Austria and Germany decided to risk a great war in order to crush Serbia, and the government of Russia decided to risk one in order to protect it. Each side expected the other to back down. Five weeks later, all of them were at war.
 
-On the morning of 28 June 1914, the Archduke Franz Ferdinand, heir to the empire of Austria-Hungary, drove into the Bosnian city of Sarajevo in an open car with his wife Sophie beside him. It was a Sunday, three days short of their wedding anniversary. Seven young men were waiting along the route with bombs and pistols.
+On the morning of 28 June 1914, the Archduke Franz Ferdinand, heir to the empire of Austria-Hungary, drove into the Bosnian city of Sarajevo in an open car with his wife Sophie beside him. It was a Sunday, three days short of their wedding anniversary. Six young men were waiting along the route with bombs and pistols.
 
 The first two lost their nerve as the car went by. The third threw his bomb. It bounced off the folded roof of the archduke's car and blew up under the car behind, wounding two officers. The thrower swallowed a capsule of poison, which was old and only made him sick, and jumped into the river, which at that season was a few centimetres deep. The police pulled him out.
 
 The archduke drove on to the town hall, where he interrupted the mayor's speech of welcome. He had come on a friendly visit, he said, and had been greeted with bombs. Then he recovered his temper, and after the ceremony he announced that he wished to go to the hospital to see the wounded officers. That meant a change of route, and nobody told the driver.
 
-A few minutes later the car turned off the riverside road into a side street, following the original plan. A general in the front seat shouted that this was the wrong way. The driver braked and began, slowly, to back the heavy car out. It had stopped in front of a delicatessen, and standing on the pavement outside, a metre and a half away, was one of the conspirators, a nineteen-year-old named Gavrilo Princip, who had missed his chance on the riverside road an hour before.
+A few minutes later the car turned off the riverside road into a side street, following the original plan. A general in the front seat shouted that this was the wrong way. The driver braked and began, slowly, to back the heavy car out. It had stopped in front of a delicatessen, and standing on the pavement outside, a metre and a half away, was one of the conspirators, a nineteen-year-old named Gavrilo Princip, who had missed his chance on the riverside road earlier that morning.
 
-He fired twice. The first bullet hit the archduke in the neck and the second hit Sophie in the stomach. The archduke was heard to beg his wife to live for their children. Both were dead within a quarter of an hour.
+He fired twice. The first bullet hit the archduke in the neck and the second hit Sophie in the stomach. The archduke was heard to beg his wife to live for their children. Both were dead within half an hour.
 
 ## Two camps
 
 A murder in a provincial town does not ordinarily lead to the deaths of sixteen million people. This one did because of how Europe had arranged itself over the previous forty years.
 
-There were five great powers on the continent, and the newest was the strongest. Germany had been made in 1871, when Prussia defeated France and united the German states under its king. By 1914 it had sixty-five million people, the best army in Europe, and an industry that produced more steel than Britain, France and Russia put together.
+There were five great powers on the continent, and the newest was the strongest. Germany had been made in 1871, when Prussia defeated France and united the German states under its king. By 1914 it had sixty-seven million people, the best army in Europe, and an industry that produced more steel than Britain, France and Russia put together.
 
 The chancellor who created it understood that so powerful a newcomer would frighten its neighbours into combining against it. He spent twenty years preventing this, with a web of treaties that kept France, which burned to recover its lost provinces, without a single ally. In 1890 a new, young emperor, Wilhelm II, dismissed him. Wilhelm was impulsive and vain, with a withered left arm that he hid in photographs, and he wanted Germany to have its "place in the sun". He let the treaty with Russia lapse.
 
@@ -32,7 +32,7 @@ So by 1914 the powers stood in two groups. Germany was allied with Austria-Hunga
 
 The weakest of the five was Germany's ally, and it was where the trouble started.
 
-Austria-Hungary was an empire of an old-fashioned kind. It had fifty million people who spoke eleven main languages, among them German, Hungarian, Czech, Polish, Croatian and Serbian, and what held them together was an army, a civil service and an emperor, Franz Joseph, who was eighty-three and had been on the throne since 1848. In an age when every people was coming to believe that it ought to have a country of its own, such a state was an awkward survival. Its rulers knew that if one of its nations broke away, the others would follow.
+Austria-Hungary was an empire of an old-fashioned kind. It had fifty million people who spoke a dozen languages, among them German, Hungarian, Czech, Polish, Croatian and Serbian, and what held them together was an army, a civil service and an emperor, Franz Joseph, who was eighty-three and had been on the throne since 1848. In an age when every people was coming to believe that it ought to have a country of its own, such a state was an awkward survival. Its rulers knew that if one of its nations broke away, the others would follow.
 
 The nation that worried them most lay just across the southern border. Serbia was a small, poor kingdom of peasants, which had won its independence from the Turks and dreamed of uniting all the South Slavs in one state: the Serbs, Croats and Slovenes, peoples of closely related speech. Millions of them lived inside Austria-Hungary. In 1908 the empire had annexed Bosnia, where many of the people were Serbs, and Serbia had been forced to swallow it. Since then, in two short wars against the Turks and its neighbours, Serbia had doubled in size.
 
@@ -48,7 +48,7 @@ The wars of the 1800s had taught every army the same lesson. The side that got i
 
 Germany's plan was the most rigid of all, because of the two-front nightmare. The general staff reckoned that Russia, with its huge distances and few railways, would need about six weeks to bring its full strength to the border. Germany therefore had six weeks in which to knock out France. It would then turn its armies round, send them east by train, and deal with the Russians.
 
-France could not be beaten in six weeks by a head-on attack, since its frontier with Germany was a wall of fortresses. The plan was to go round. Seven eighths of the German army would be sent west, and the strongest part of it would wheel through neutral Belgium, sweep down towards Paris, and pin the French armies against their own forts. The railway schedule for the opening days ran to eleven thousand trains.
+France could not be beaten in six weeks by a head-on attack, since its frontier with Germany was a wall of fortresses. The plan was to go round. Seven eighths of the German army would be sent west, and the strongest part of it would wheel through neutral Belgium, sweep down towards Paris, and pin the French armies against their own forts. The railway schedule ran to eleven thousand trains.
 
 The plan had a consequence that few civilian ministers had thought through. For Germany, there could be no pause between calling up the army and starting the war. If Russia began to mobilise, the six weeks began to run, and Germany had to attack France at once, through Belgium, whatever the quarrel was about and whether or not France had done anything.
 
@@ -92,7 +92,7 @@ Most people hoped, and many believed, that it would be short. The German emperor
 
 The generals of 1914 had been trained to believe in attack. Their soldiers went forward in the open, in dense lines, with bands playing and officers on horseback. The French infantry wore blue coats and bright red trousers, as their grandfathers had.
 
-They met weapons whose effect most of their generals had only read about, in reports from colonial wars and from Japan's war with Russia. A machine gun fired ten bullets a second. A modern field gun could put twenty shells a minute onto a target several kilometres away, and the commonest kind of shell burst in the air and sprayed the ground with steel balls. Men in the open simply could not live under that fire.
+They met weapons whose effect most of their generals had only read about, in reports from colonial wars and from Japan's war with Russia. A machine gun fired ten bullets a second. A modern field gun could put fifteen shells a minute onto a target several kilometres away, and the commonest kind of shell burst in the air and sprayed the ground with steel balls. Men in the open simply could not live under that fire.
 
 On a single day, 22 August, in a string of clashes along the Belgian border, twenty-seven thousand French soldiers were killed. It remains the bloodiest day in the history of France. By the end of the month a quarter of a million French soldiers were dead, wounded or missing, and the rest were in full retreat.
 

@@ -6,9 +6,9 @@ The war lasted four years because the weapons of the time made defending a trenc
 
 On Christmas Eve 1914, the British soldiers in the trenches near the Belgian town of Ypres noticed lights along the German line opposite. The Germans had set small fir trees on the edge of their trench, with candles on them. Then they began to sing a carol, and the British recognised the tune of "Silent Night". When it ended, the British sang one back.
 
-The next morning a German walked out into the open with his hands empty, and nobody fired. By noon, along some thirty kilometres of the front, thousands of men from both armies were standing in the frozen mud between the lines. They shook hands, and swapped cigarettes, buttons and tins of jam. They buried the dead who had been lying out there for weeks. A British officer had his hair cut by a German who had been a barber in London. In a few places somebody produced a ball.
+The next morning a German walked out into the open with his hands empty, and nobody fired. By noon, along much of the British part of the front, thousands of men from both armies were standing in the frozen mud between the lines. They shook hands, and swapped cigarettes, buttons and tins of jam. They buried the dead who had been lying out there for weeks. A British machine-gunner who had been a hairdresser cut the hair of a German who knelt on the ground in front of him. In a few places somebody produced a ball.
 
-It was a fine thing, and it could not last. The generals on both sides were appalled. Orders went out that any officer who allowed such a thing again would be court-martialled, and the following Christmas the artillery was told to fire all day. The men went back to their trenches. They would be in them, or in others like them a few kilometres away, for four more years.
+It was a fine thing, and it could not last. The generals on both sides were appalled. Orders went out forbidding any such contact with the enemy, and the following Christmas the artillery was told to fire all day. The men went back to their trenches. They would be in them, or in others like them a few kilometres away, for four more years.
 
 ## The ditch
 
@@ -32,7 +32,7 @@ That summer the British, with the French on their right, made their own great at
 
 At half past seven on the morning of 1 July the guns lifted their fire onto targets further back, whistles blew, and a hundred thousand men climbed out and went forward, most of them walking in lines. The Germans had sat through the week in shelters dug deep into the chalk. They came up, set their machine guns on the edge of the trench, and found the wire in front of them largely uncut.
 
-By nightfall nearly twenty thousand British soldiers were dead and almost forty thousand wounded. It was the worst day in the history of the British army. A battalion raised in one Lancashire mill town went into the attack about seven hundred strong, and in half an hour nearly six hundred of them had been killed or wounded. The battle went on for another four and a half months, cost the three armies more than a million casualties, and advanced the British line about ten kilometres.
+By nightfall nearly twenty thousand British soldiers were dead and more than thirty-five thousand wounded. It was the worst day in the history of the British army. A battalion raised in one Lancashire mill town went into the attack about seven hundred strong, and in half an hour nearly six hundred of them had been killed or wounded. The battle went on for another four and a half months, cost the three armies more than a million casualties, and advanced the British line about ten kilometres.
 
 ## Clouds
 
@@ -40,7 +40,7 @@ Both sides hunted for a device that would break the deadlock, and the war became
 
 On an April evening in 1915, French soldiers near Ypres saw a greenish-yellow cloud drifting towards them along the ground. It was chlorine, released from six thousand steel cylinders. Men who breathed it choked as their lungs filled with fluid, and the line broke for several kilometres. The Germans had not expected such success and had no reserves ready to exploit it. Within months both sides had gas, and gas masks, and the weapon became one more misery of the trenches.
 
-The man who had organised the attack was Fritz Haber, one of the leading chemists in Germany. A few years before the war he had made a discovery of the first importance, a way of combining the nitrogen of the air with hydrogen to make ammonia. Ammonia can be turned into fertiliser, and it can equally be turned into explosives. Until then, the makers of modern explosives had depended on nitrate dug from the deserts of Chile, and when the war began, the British navy cut Germany off from Chile. Without Haber's process, Germany would have run out of shells within a year. With it, the war could go on. A few days after the gas attack, Haber's wife, who was a chemist too, shot herself with his army pistol.
+The man who had organised the attack was Fritz Haber, one of the leading chemists in Germany. A few years before the war he had made a discovery of the first importance, a way of combining the nitrogen of the air with hydrogen to make ammonia. Ammonia can be turned into fertiliser, and it can equally be turned into explosives. Until then, the makers of modern explosives had depended on nitrate dug from the deserts of Chile, and when the war began, the British navy cut Germany off from Chile. Without Haber's process, Germany would have run out of shells within a year. With it, the war could go on. Ten days after the gas attack, Haber's wife, who was a chemist too, shot herself with his army pistol.
 
 The British answer to the trench was a machine. In September 1916, on the Somme, the Germans saw armoured steel boxes crawling towards them on moving tracks, crushing the wire and spitting bullets. The British had built them in secret, calling them water tanks to disguise their purpose. Most of the first ones broke down or stuck in the mud, and it was two more years before there were enough of them, used properly, to help decide a campaign.
 
@@ -70,13 +70,13 @@ The Ottoman empire had joined Germany in the autumn of 1914, which opened fronts
 
 By the end of 1916 the German high command had concluded that it could not win on land before the blockade strangled it. It turned to the sea.
 
-Britain imported two thirds of its food. Germany had a new weapon, the submarine, which could sink merchant ships without warning. It had tried this in 1915, and had drawn back after a submarine torpedoed the British liner *Lusitania* off Ireland, drowning nearly twelve hundred people, among them a hundred and twenty-eight Americans. The United States was the richest neutral country, and it had made its anger plain.
+Britain imported most of its food. Germany had a new weapon, the submarine, which could sink merchant ships without warning. It had tried this in 1915, and had drawn back after a submarine torpedoed the British liner *Lusitania* off Ireland, drowning nearly twelve hundred people, among them a hundred and twenty-eight Americans. The United States was the richest neutral country, and it had made its anger plain.
 
 In January 1917 the German admirals presented a calculation. If their submarines were allowed to sink every ship approaching Britain, of any nation, they would destroy six hundred thousand tons of shipping a month. Within six months Britain would be starving and would sue for peace. America would certainly declare war, but it had almost no army, and could not train and ship one in time. The emperor signed the order.
 
-For three months the admirals were right. In April 1917 one ship in four that left a British port did not come back, and the country was down to six weeks' supply of wheat. Then the British navy began gathering merchant ships into large groups guarded by warships. A submarine that attacked a convoy revealed itself to the escorts, and the losses fell by half.
+For three months the admirals were right. In April 1917 one ship in four that left a British port did not come back, and the country was down to six weeks' supply of wheat. Then the British navy began gathering merchant ships into large groups guarded by warships. A submarine that attacked a convoy revealed itself to the escorts, and the losses fell steeply.
 
-America, meanwhile, had come in. What turned American opinion was the sinking of American ships, together with a secret telegram from the German foreign minister to his ambassador in Mexico, which British codebreakers intercepted and passed to Washington. It proposed that if the United States entered the war, Mexico should attack it, and receive in return its lost territories of Texas, New Mexico and Arizona. The American newspapers printed it on 1 March. After three more American ships had been sunk, Congress declared war.
+America, meanwhile, had come in. What turned American opinion was the sinking of American ships, together with a secret telegram from the German foreign minister to his ambassador in Mexico, which British codebreakers intercepted and passed to Washington. It proposed that if the United States entered the war, Mexico should attack it, and receive in return its lost territories of Texas, New Mexico and Arizona. The American newspapers printed it on 1 March. After German submarines had sunk several more American ships, Congress declared war.
 
 ## The black day
 
@@ -88,7 +88,7 @@ It opened on 21 March 1918, in fog, with the heaviest bombardment yet seen, more
 
 They could not finish it. The assault troops were the best men Germany had left, and they were being used up. The horses were dying of hunger and the supply lorries ran on steel tyres, since there was no rubber. When the famished soldiers overran British supply dumps and found white bread, tinned meat and wine, whole units stopped to eat and drink, and they understood for the first time how much better fed their enemies were.
 
-By the summer, ten thousand American soldiers were landing in France every day. On 8 August, British, Australian and Canadian troops attacked near the Somme with five hundred tanks, hundreds of aircraft and guns that had been aimed by calculation, without the usual warning shots. They advanced twelve kilometres by evening. What shocked the German commander was not the ground lost. It was that whole battalions had surrendered to a handful of men. He called it the black day of the German army.
+By the summer, ten thousand American soldiers were landing in France every day. On 8 August, British, Australian and Canadian troops attacked near the Somme with five hundred tanks, hundreds of aircraft and guns that had been aimed by calculation, without the usual warning shots. They advanced eleven kilometres by evening. What shocked the German commander was not the ground lost. It was that whole battalions had surrendered to a handful of men. He called it the black day of the German army.
 
 After that the Allies attacked somewhere every few days, and the Germans fell back steadily. Their allies gave up one by one. At the end of October the sailors of the German fleet, ordered out for a last suicidal battle, mutinied and raised red flags. The revolt spread to the cities. On 9 November the emperor's abdication was announced. He fled to Holland the next morning, and the day after that, in a railway carriage in a forest north of Paris, a German delegation signed an armistice. It was five in the morning. The guns were to stop at eleven.
 
@@ -96,7 +96,7 @@ On that last day nearly three thousand more men were killed.
 
 ## The mirrors
 
-About ten million soldiers had died, and something like seven million civilians. France had lost one in four of its men between eighteen and twenty-seven.
+Between nine and ten million soldiers had died, and at least six million civilians. France had lost one in four of its men between eighteen and twenty-seven.
 
 The war's last gift was a disease. In 1918 a new and vicious strain of influenza appeared in the army camps, and the troopships and trains carried it round the world. It was known as the Spanish flu, because Spain was neutral and its newspapers, unlike those of the countries at war, were free to report it. Unusually, it killed young adults. Within two years it had killed about fifty million people, several times as many as the fighting, with the worst losses in India.
 
@@ -104,6 +104,6 @@ The victors met in Paris in 1919 to make the peace. The American president had p
 
 The treaty was signed on 28 June 1919, five years to the day after the shots in Sarajevo. The place chosen was the Hall of Mirrors at Versailles, where the German empire had been proclaimed in 1871. Germany lost a tenth of its people and all its colonies. Its army was limited to a hundred thousand men, with no tanks or aircraft. It was required to pay for the damage of the war, and to sign a clause accepting that it and its allies had caused it.
 
-To Germans the terms were an outrage. Their army had still been standing on foreign soil when the fighting stopped, and many of them never believed that it had been beaten. To the French commander-in-chief, the terms were far too mild, since they left Germany united and larger than France. This is not a peace, he said when he read them. It is an armistice for twenty years.
+To Germans the terms were an outrage. Their army had still been standing on foreign soil when the fighting stopped, and many of them never believed that it had been beaten. To the French marshal who had commanded the Allied armies, the terms were far too mild, since they left Germany united and larger than France. This is not a peace, he said when he read them. It is an armistice for twenty years.
 
 The next war began on 1 September 1939. He was out by sixty-five days.
