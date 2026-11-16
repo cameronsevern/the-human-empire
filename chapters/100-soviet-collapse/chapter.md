@@ -12,6 +12,9 @@ The briefing was being shown live. Within an hour, people were gathering at the 
 
 By midnight every crossing was open. Berliners from both sides climbed onto the wall with hammers and bottles of sparkling wine. It had stood for twenty-eight years, and people had been shot at its foot that same February.
 
+![Crowds standing on top of the graffiti-covered Berlin Wall in front of the columns of the Brandenburg Gate, one man being helped up from below, with a warning sign in the foreground](images/berlin_wall.jpg)
+*Berliners on top of the Wall at the Brandenburg Gate, November 1989. The sign below them reads: Attention! You are now leaving West Berlin. Photo: Sue Ream, CC BY 3.0.*
+
 ## Chandeliers by the ton
 
 The system that was coming apart that night had been failing quietly for twenty years.
@@ -34,6 +37,9 @@ In October 1978 the cardinals of the Catholic Church, to general astonishment, e
 
 Fourteen months later the government raised the price of meat, and strikes broke out across the country. In August the management of the great shipyard at Gdańsk, on the Baltic, sacked a crane driver who had been organising the workers, and the whole yard laid down its tools. An unemployed electrician with a large moustache, Lech Wałęsa, climbed over the wall to join them and became their leader. They did not march out, since they remembered what the police had done to marchers ten years before. They locked themselves in and demanded the right to form a trade union that the party did not control. The government, astonishingly, agreed.
 
+![Black-and-white photograph of a crowd gathered outside the closed gate of the Lenin Shipyard in Gdańsk, under a sign with the yard's name, with a crane behind](images/gdansk_1980.jpg)
+*The gate of the Lenin Shipyard in Gdańsk during the strike of August 1980, with people gathered outside. Photo: Jacek Awakumowski, CC BY-SA 3.0 pl.*
+
 Within a year the union, which called itself Solidarity, had ten million members, a third of all the working people in the country. A state that claimed to rule in the name of the workers was being defied by the workers. In December 1981 the Polish army declared martial law, arrested the leaders, and drove the movement underground. It did not die.
 
 ## A man you can do business with
@@ -48,9 +54,15 @@ His first reform showed the difficulty. To raise the productivity of labour he c
 
 A little after one in the morning on 26 April 1986, during a badly run safety test, the fourth reactor of the nuclear power station at Chernobyl, in Ukraine, exploded. Its design had a flaw that its operators had never been told about. The blast blew the thousand-ton lid off the core and threw burning graphite onto the roofs. Firemen who went up to put it out, without protection, were dead within weeks. A cloud of radioactive dust rose a kilometre into the air and drifted north-west across Europe.
 
+![A white industrial building with two tall chimneys and a yellow crane beside it, seen over a fence under a grey sky](images/chernobyl4.jpg)
+*The ruined fourth reactor at Chernobyl in the Ukraine, enclosed in its concrete shelter, in 2013. Photo: Clay Gilliland, CC BY-SA 2.0.*
+
 The government said nothing. The first that the world knew of it was two days later, when alarms went off at a nuclear plant in Sweden, eleven hundred kilometres away, and the Swedes traced the fallout back on the wind. The town beside the reactor, with fifty thousand people, was not evacuated for thirty-six hours. In Kyiv, a hundred kilometres to the south, the May Day parade went ahead five days after the explosion, and children marched through the streets carrying flowers while the party leaders' own families were sent out of the city.
 
 Gorbachev finally spoke on television after eighteen days. For him and for millions of his people, the accident was the proof of everything that was wrong. A system in which nobody dared report bad news had nearly poisoned half a continent. He wrote years later that Chernobyl, even more than his own reforms, was perhaps the real cause of the collapse.
+
+![Empty concrete apartment blocks rising above overgrown trees, with a large silver arch over the reactor in the distance](images/pripyat.jpg)
+*Apartment blocks in Pripyat, the town beside the reactor, empty since 1986 and now overgrown, with the arch built over the ruined reactor behind them. Photo: Hnapel, CC0.*
 
 ## Speaking
 
@@ -58,11 +70,17 @@ After Chernobyl, openness became real. Censorship was relaxed and then abandoned
 
 In March 1989 the Soviet Union held an election in which, for the first time since 1917, voters choosing a national assembly had in many districts a choice of candidates. Party bosses who ran unopposed were defeated by voters crossing out their names. The new assembly was shown live on television, and for two weeks factories stood idle while the whole country watched deputies say things that had been unsayable for seventy years.
 
+![Colour photograph of an elderly bald man in glasses, Andrei Sakharov, speaking among reporters holding tape recorders and microphones toward him](images/sakharov.jpg)
+*Andrei Sakharov, the physicist and dissident, answering reporters at a conference of the Soviet Academy of Sciences, March 1989. Photo: Vladimir Fedorenko, RIA Novosti, CC BY-SA 3.0.*
+
 Gorbachev had counted on gratitude. He had not reckoned with what people would say when they could. They did not ask for a better socialism. They asked why they were poor, who had lied to them, and by what right the party ruled at all.
 
 ## My way
 
 Abroad he was ending the Cold War almost single-handed. He needed to cut the cost of the arms race, and in the American president, an old enemy of communism who had a horror of nuclear weapons, he found a partner. At a meeting in Iceland in 1986 the two came within a sentence of agreeing to scrap all their nuclear arms. The following year they signed a treaty that destroyed a whole class of missiles. He pulled the army out of Afghanistan.
+
+![Gorbachev on the left and Reagan on the right sit at a dark table, each signing a bound document, with an American flag and a Soviet flag behind](images/inf_treaty.jpg)
+*Mikhail Gorbachev and President Reagan signing the treaty that banned medium-range missiles, in the East Room of the White House, 8 December 1987. Photo: US National Archives, public domain.*
 
 He also let it be known that the Soviet Union would no longer send tanks to keep the governments of eastern Europe in power, as it had done in 1956 and again in 1968. His spokesman, asked on American television what had replaced the old policy, said that it was the Frank Sinatra doctrine. Each country could do it its way.
 
@@ -70,7 +88,13 @@ Those governments had never had anything else to stand on. In Poland the general
 
 On 9 October seventy thousand people marched in the East German city of Leipzig, carrying candles and chanting: we are the people. The hospitals had been told to prepare for gunshot wounds. Eight thousand armed police and soldiers were waiting, and the order to fire did not come. A month later the wall was open.
 
+![Black-and-white night photograph of a dense column of marchers filling a wide street in Leipzig, with a few banners](images/leipzig_1989.jpg)
+*The Monday demonstration in Leipzig on 23 October 1989, two weeks after the march of 9 October. Photo: Friedrich Gahlbeck, German Federal Archive, CC BY-SA 3.0 de.*
+
 In Prague, students were beaten by police on 17 November, and within ten days hundreds of thousands of people were jingling their keys in the main square to tell the government that it was time to go home. On 29 December a playwright who had been in prison in the spring was president of Czechoslovakia. Only in Romania was there serious bloodshed. Its dictator was booed at his own rally on live television, fled by helicopter from the roof, and was caught and shot with his wife on Christmas Day.
+
+![Black-and-white photograph of a crowd around the statue of St Wenceslas in Prague, hung with posters of Václav Havel and banners reading Havel president](images/prague_1989.jpg)
+*Wenceslas Square in Prague in 1989, with portraits of Václav Havel and banners calling for him to be president. Photo: Pavel L., CC BY-SA 4.0.*
 
 Six governments had fallen in six months. Within a year East Germany had ceased to exist, absorbed into the West, and Soviet troops were packing to go home.
 
@@ -82,6 +106,9 @@ The Soviet Union was itself an empire, the old Russian empire under another name
 *The six satellite states, marked with the year in which communist rule ended, and the fifteen Soviet republics, with the year in which each declared itself independent; below, the republics of Central Asia. Map: drawn for this book; coastlines and rivers from Natural Earth, public domain.*
 
 The three small Baltic nations had been independent between the wars and were seized by Stalin in 1940 under his pact with Hitler. On the fiftieth anniversary of that pact, in August 1989, two million of their people joined hands in a human chain six hundred and seventy-five kilometres long, across all three countries. The next spring Lithuania declared itself independent. In the Caucasus, Armenians and Azerbaijanis began fighting over a disputed mountain district. In Georgia, soldiers killed twenty demonstrators with shovels and gas.
+
+![Black-and-white photograph of men, women and children holding hands across a country road, with buses and cars parked beside it](images/baltic_way.jpg)
+*People holding hands on the road between Vilnius and Ukmergė during the Baltic Way, 23 August 1989. Photo: Saulius Gruodis, Lithuanian State Central Archives, CC BY 4.0.*
 
 Gorbachev was caught between two fires. In January 1991 Soviet troops stormed the television tower in the Lithuanian capital and killed fourteen unarmed people, and he neither admitted giving the order nor punished those who had. He had lost the reformers, and the hardliners despised him.
 
@@ -96,6 +123,9 @@ On 19 August 1991 Russians turned on their televisions and found every channel s
 Gorbachev was on holiday in the Crimea. The evening before, the head of the secret police, the minister of defence and the vice-president had cut his telephones and put him under guard. He had been due to sign, two days later, a treaty that would hand most of the central government's powers to the republics. They announced that he was ill and that a committee had taken power to save the country. Columns of tanks rolled into Moscow.
 
 The plotters had left Yeltsin free. He drove to the white marble building that housed the Russian parliament, walked out to one of the tanks that had been sent to surround it, climbed onto it, and read a statement calling the takeover a crime. The tank crew did not stop him. Tens of thousands of Muscovites came to ring the building with barricades of trolleybuses and scrap iron, and stood there through two nights in the rain.
+
+![Armoured vehicles with numbers painted on their sides, parked in a line along a Moscow street with a tall Stalinist tower behind](images/yeltsin_tanks.jpg)
+*Armoured vehicles at the Russian parliament building in Moscow, 20 August 1991, the second day of the coup. Photo: Ole Husby, CC BY-SA 2.0.*
 
 The committee held a press conference at which the hands of its chairman shook so badly that the whole country could see that he was drunk or terrified. Its commanders were ordered to storm the parliament and declined. Three young men died in a clash with armoured cars in an underpass. On the third day the tanks drove out of the city.
 
