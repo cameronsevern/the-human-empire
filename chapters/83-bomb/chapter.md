@@ -10,6 +10,9 @@ At a quarter past eight he heard an aircraft and looked up. He saw a single bomb
 
 The bomber had come from an island in the Pacific, fifteen hundred miles away. It carried one bomb, three metres long, which exploded six hundred metres above the centre of Hiroshima with the force of fifteen thousand tons of ordinary explosive. For an instant the ground beneath it was hot enough to melt the surface of roof tiles. Nearly every building within a mile and a half was flattened and then burned. On the granite steps of a bank, a person who had been sitting waiting for it to open left a shadow printed on the stone.
 
+![Tall column of smoke topped by a billowing white cloud rising over a flat landscape, seen from an aircraft](images/hiroshima_cloud.jpg)
+*The cloud over Hiroshima on 6 August 1945, after the bomb. Photo: George R. Caron, US Army Air Forces, public domain.*
+
 About three hundred and fifty thousand people were in Hiroshima that morning. Seventy thousand of them were dead by nightfall, and twice that number by the end of the year.
 
 ## A walk in the snow
@@ -19,6 +22,9 @@ The path to that morning began seven years earlier, in a laboratory in Berlin.
 Physicists had known since before the war of 1914 that the atom is mostly empty space, with a tiny, dense nucleus at its centre, and that the nucleus holds enormous energy. Nobody could see a way to get it out. In 1932 a particle was discovered that carries no electric charge, the neutron, and since it is not repelled by the charge of the nucleus it can be fired straight into one. Laboratories across Europe began shooting neutrons at every element to see what would happen.
 
 In December 1938 a German chemist, bombarding the heaviest element, uranium, found among the products a much lighter element that had no business being there. He could not explain it, and wrote to his former partner. She was an Austrian physicist who had worked with him for thirty years, and who had fled to Sweden a few months before because she was Jewish.
+
+![A young woman in a long white laboratory dress and a moustached man in a lab coat reading from a small board, standing at a bench in a laboratory with tall windows](images/hahn_meitner.jpg)
+*Lise Meitner and Otto Hahn in their laboratory at the Kaiser Wilhelm Institute for Chemistry in Berlin, 1913. Photo: unknown, public domain.*
 
 The letter reached her at Christmas, when her nephew, also a physicist and also a refugee, was visiting. The two of them went for a walk in the snow, he on skis and she on foot, and sat down on a log to work it out on scraps of paper. The uranium nucleus, they concluded, had split in two. The two halves together weighed slightly less than the original, and the missing mass had turned into energy, in accordance with an equation that Einstein had published in 1905. They borrowed a word from biology, for the way a cell divides, and called it fission.
 
@@ -36,6 +42,9 @@ The news of fission crossed the Atlantic within weeks. To the refugee scientists
 In July 1939 Szilard and a friend drove out to Long Island, near New York, to find the one scientist whose name every politician knew. Albert Einstein was spending the summer in a rented cottage. They got lost, and in the end asked a small boy in the street, who knew where the famous professor lived. Einstein had not considered a chain reaction. He grasped it in a few minutes, and agreed to sign a letter to the president.
 
 The letter said that a new kind of bomb had become conceivable, that a single one carried into a port by boat might destroy the whole port, and that Germany had stopped the sale of uranium. An economist who knew Roosevelt read it aloud to him in October. This requires action, the president said. The action was a committee, with a budget of six thousand dollars.
+
+![The two typed pages of the letter from Albert Einstein to President Roosevelt, dated 2 August 1939, signed at the bottom of the second page](images/einstein_letter.png)
+*The letter to President Roosevelt, signed by Albert Einstein and dated 2 August 1939, warning that bombs of a new kind might be built from uranium. Scan: Wikimedia Commons, public domain.*
 
 For two years little happened. What moved the Americans was a report from Britain in 1941. Two refugee physicists working there had calculated the year before that a bomb would need only a few kilograms of the right kind of uranium, and not the tons that everyone had assumed. A weapon was practical, and whoever built it first would win the war.
 
@@ -55,6 +64,9 @@ Three secret cities were built. In the hills of Tennessee, a town of seventy-fiv
 
 At its peak the project employed a hundred and thirty thousand people, and very few of them had any idea what they were making. Young women sat at control panels in Tennessee, keeping needles centred on dials, and were told only that it would help to win the war. The whole effort cost two billion dollars, when a new car cost about a thousand. A Danish physicist had said in 1939 that a bomb could never be built unless you turned the whole country into a factory. When he visited in 1943, he told his hosts that they had done just that.
 
+![A long hall lined on both sides with tall metal control panels, with young women sitting on stools at the panels](images/oak_ridge_operators.jpg)
+*Operators at the control panels of the uranium separation plant at Oak Ridge, Tennessee, about 1943. Photo: Ed Westcott, US Army, public domain.*
+
 ## The desert
 
 In the last months of 1944, American intelligence officers following the armies across France captured the papers of a German physicist, and the next spring they found the laboratories themselves. The German effort had barely begun. Hitler's scientists had never achieved a chain reaction, and the government had lost interest in 1942. The bomb that the project had been built to forestall did not exist.
@@ -66,6 +78,9 @@ President Roosevelt had died in April. His successor, Harry Truman, had been vic
 A lump of bomb metal below a certain size is harmless, because too many neutrons escape from its surface before they can split another atom. The uranium bomb was a gun that fired one such lump into another, to make a single mass large enough to explode, and it was simple enough that its designers were sure of it. Plutonium reacts too fast for that. The plutonium bomb was a far more intricate device, in which a ball of the metal had to be squeezed evenly from all sides by a shell of explosives, and it needed a test. At half past five on the morning of 16 July 1945, in the desert of New Mexico, one was set off on top of a steel tower. The scientists watched from shelters several miles away through welder's glass. The light was brighter than noon, and the heat on their faces was like an open oven. The tower vanished. The sand beneath it had melted into a sheet of green glass.
 
 Oppenheimer said afterwards that a line from Hindu scripture came into his mind: Now I am become Death, the destroyer of worlds. The man in charge of the test turned to him and put it differently. Now, he said, we are all sons of bitches.
+
+![A group of men in hats and uniforms gathered around a small mound of earth and twisted metal, with a desert and mountains behind](images/oppenheimer_groves.jpg)
+*J. Robert Oppenheimer (in the light hat, with his foot on the rubble) and General Leslie Groves (in uniform, to his right) at the remains of the Trinity test tower, 9 September 1945, two months after the explosion. Photo: US Army Signal Corps, public domain.*
 
 ## A boy on a toboggan
 
@@ -85,6 +100,9 @@ A list of target cities was drawn up, chosen because they had so far been little
 
 On 26 July the Allies issued an ultimatum calling on Japan to surrender or face "prompt and utter destruction". It did not mention the bomb. The Japanese prime minister told reporters that his government would take no notice of it. The order had already gone out. It told the air force to deliver the first bomb as soon as the weather allowed after 3 August, and further bombs as they became ready. No second decision was required for a second city.
 
+![Winston Churchill, Harry Truman and Joseph Stalin sitting side by side in wicker chairs in a garden, with two microphones on the ground in front of them](images/potsdam_leaders.jpg)
+*Churchill, Truman and Stalin at the Potsdam conference, 25 July 1945. Photo: unknown, US National Archives, public domain.*
+
 The general said later that Truman's part in it had been that of a small boy on a toboggan. He had been put on at the top of the hill, and his decision was one of not interfering.
 
 ## Flash and boom
@@ -92,6 +110,9 @@ The general said later that Truman's part in it had been that of a small boy on 
 The people of Hiroshima had no word for what had happened to them, and they made one from the two things that they remembered. They called it the *pikadon*, the flash-boom.
 
 Those who had been in the open near the centre were gone. Farther out, people had been burned on whichever side had faced the light, and the pattern of their clothing was printed on their skin. They walked out of the city in silent lines, holding their arms away from their bodies. Thousands went down to the seven rivers to escape the fires and to drink, and drowned there. Nine in ten of the city's doctors and nurses were dead or injured. At the main hospital one surgeon, with broken glasses, worked for three days without sleep, moving along corridors packed with ten thousand wounded and able to do little more than paint burns with iodine.
+
+![A view over a flat plain of rubble where a city stood, with a river and a bridge, a few concrete buildings still standing and hills beyond](images/hiroshima_ruins.jpg)
+*Hiroshima in ruins after the bomb, looking across the river. The signature on the print is that of Paul Tibbets, the pilot of the bomber. Photo: US Navy, public domain.*
 
 Then something began that nobody understood. People who had come through without a scratch, and had spent the days helping others, fell ill a week or two later. Their hair came out in handfuls. Purple spots appeared under their skin, their gums bled, and they died. A doctor who kept a diary in the ruins of his hospital recorded the rumours that the bomb had released a poison gas. It was radiation, which had passed invisibly through their bodies in the first second. The general who had built the bomb told the American Senate that autumn that, as he understood from the doctors, it was a very pleasant way to die.
 
@@ -108,6 +129,9 @@ A few hours later a second bomber took off, carrying a plutonium bomb. Its targe
 
 Yamaguchi, the engineer, had reached home the day before, by train, with his burns bandaged. That morning he had gone to his office to report. His manager was telling him that he must have lost his mind, since no single bomb could destroy a city, when the window filled with the same white light.
 
+![A large mushroom-shaped cloud rising above a lower column of dark smoke, seen above a layer of clouds](images/nagasaki_cloud.jpg)
+*The cloud over Nagasaki on 9 August 1945, seen from the north-west. Photo: Charles Levy, US Army Air Forces, public domain.*
+
 ## A voice on the radio
 
 Even then, the six men who governed Japan could not agree. Three were ready to surrender, provided the emperor kept his throne. Three, the army minister and the chiefs of the army and navy staffs, wanted to fight on unless Japan could also disarm its own soldiers, try its own war criminals and avoid being occupied. They met through the day of the Nagasaki bomb and were still deadlocked at midnight.
@@ -119,6 +143,9 @@ Japan offered to surrender on the one condition. The Allied reply said only that
 Not everyone obeyed. That night a group of young officers killed the general commanding the palace guard, forged orders in his name, and searched the palace for the recording that the emperor had made that evening, in order to stop it from being broadcast. It was hidden in a safe under a pile of papers. They did not find it, and by morning the mutiny had collapsed.
 
 At noon on 15 August the people of Japan stood by their radios and heard, for the first time in their lives, the voice of their emperor. He spoke in the ancient language of the court, which many could barely follow, and he did not use the word surrender. The war, he said, had developed not necessarily to Japan's advantage. The enemy had begun to employ a new and most cruel bomb. Japan would accept the terms of the Allies.
+
+![A Japanese general in uniform bending over a table covered in documents to sign, while American officers stand beside him and a crowd of Allied officers watches](images/surrender_umezu.jpg)
+*General Umezu Yoshijiro signing the instrument of surrender for the Japanese army on the battleship Missouri in Tokyo Bay, 2 September 1945. Photo: unknown, public domain.*
 
 Whether it was the bomb or the Soviet attack that ended the war has been argued ever since. The emperor named the bomb when he spoke to his people, and two days later, in a message to his soldiers, he named the Soviet Union and did not mention the bomb. It took both. What can be said is that the war ended in a week, without an invasion, and that every week it lasted, people were dying across the lands that Japan still held. In northern Vietnam that year, with the rice taken for the army, as many as a million had starved.
 
