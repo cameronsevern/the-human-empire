@@ -34,7 +34,7 @@ Their ideas were first tried in an unhappy place. On 11 September 1973 the armed
 
 In May 1979 the British elected a grocer's daughter named Margaret Thatcher. At a meeting of her party's researchers she had once pulled a book by Hayek from her bag, banged it on the table and said: this is what we believe.
 
-She set out to break inflation by making money scarce. Interest rates were pushed to seventeen per cent. A fifth of British manufacturing closed in two years, and unemployment passed three million, the highest since the 1930s. She did not change course. There is no alternative, she said, so often that it became her nickname.
+She set out to break inflation by making money scarce. Interest rates were pushed to seventeen per cent. British manufacturing shrank by a seventh in two years, and unemployment passed three million, the highest since the 1930s. She did not change course. There is no alternative, she said, so often that it became her nickname.
 
 Then she turned on the unions. In 1984 the coal miners, the strongest of them, struck against the closure of pits. She had stockpiled coal for the purpose, and after a year of pitched battles between pickets and police, the miners went back with nothing. She sold the state telephone company, the gas, electricity and water industries, the airline and the steelworks to the public as shares, and a million and a half council houses to their tenants. The top rate of income tax fell from eighty-three per cent to forty. In 1986 the rules that had governed the financial district of London for a century were swept away in a day.
 
