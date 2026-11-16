@@ -8,7 +8,7 @@ On the morning of Saturday, 11 January 2020, a virologist in Shanghai named Zhan
 
 Zhang asked for a minute to think. Then, as the aircraft doors were closing, he said yes. Within the hour the code, a string of about thirty thousand letters, was posted on a website used by virologists, free for anyone to download. The next day his laboratory was closed by official order, for "rectification".
 
-That weekend, in an office near Boston, scientists at a small American drug company, Moderna, fed the code into their computers and designed a vaccine against the virus. They had it finished by the Monday. Two weeks later the husband and wife who ran a German company, BioNTech, in the city of Mainz did the same over a weekend at their kitchen table. Nobody at either firm had a sample of the virus, or needed one.
+That weekend, in an office near Boston, scientists at a small American drug company, Moderna, fed the code into their computers and designed a vaccine against the virus. They had it finished by the Monday. Two weeks later the husband and wife who ran a German company, BioNTech, in the city of Mainz did the same over a weekend at home. Nobody at either firm had a sample of the virus, or needed one.
 
 By then a man in Wuhan had died of the disease, and a woman carrying it had landed in Thailand.
 
@@ -42,7 +42,7 @@ On 11 March the World Health Organization declared a pandemic, a disease spreadi
 
 ## Old tools
 
-There was no medicine and no vaccine. What governments had was a set of methods that were centuries old. The word quarantine comes from the forty days for which fourteenth-century Venice kept ships at anchor during the plague. Keep the sick apart from the well. Find out who has been near the sick, and keep them apart too. Stop people from gathering.
+There was no medicine and no vaccine. What governments had was a set of methods that were centuries old. The word quarantine comes from the forty days for which Venice kept ships at anchor during the plague. Keep the sick apart from the well. Find out who has been near the sick, and keep them apart too. Stop people from gathering.
 
 One tool was new. A laboratory test could detect the genetic material of the virus in a swab from the nose, by copying it over and over until there was enough to see. Countries that could run such tests in great numbers could find the infected before they knew it themselves.
 
@@ -80,7 +80,7 @@ Governments had paid for much of the research and had ordered hundreds of millio
 
 The vaccines were shared out much as wealth is. The rich countries had placed their orders first, in several cases for many times what their populations needed. An international scheme set up to buy doses for the poor found itself at the back of the queue. By the end of 2021 about three people in four in the rich countries had been vaccinated. In the poorest countries it was fewer than one in ten.
 
-India was meant to be the exception. It has the largest vaccine factory in the world, which had been contracted to supply the international scheme. In the spring of 2021 a new and more contagious form of the virus tore through the country. Hospitals in Delhi put up notices saying that they had no oxygen, and families drove from one to another with relatives gasping in the back seat. Cremation grounds overflowed into car parks. The government banned the export of vaccines, and the poor countries that had been waiting for them went without for another six months. India's official count for that wave was four thousand deaths a day. Studies of the overall rise in deaths put the true figure several times higher.
+India was meant to be the exception. It has the largest vaccine factory in the world, which had been contracted to supply the international scheme. In the spring of 2021 a new and more contagious form of the virus tore through the country. Hospitals in Delhi put up notices saying that they had no oxygen, and families drove from one to another with relatives gasping in the back seat. Cremation grounds overflowed into car parks. The government banned the export of vaccines, and the poor countries that had been waiting for them went without for another six months. India's official count for that wave was four thousand deaths a day at its peak. Studies of the overall rise in deaths put the true figure several times higher.
 
 ## Masts
 
