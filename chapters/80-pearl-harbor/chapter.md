@@ -10,7 +10,13 @@ At two minutes past seven a mark appeared on the screen that was larger than any
 
 The aircraft were Japanese. They had taken off from six aircraft carriers that had crossed the northern Pacific unseen, and at five to eight they arrived over Pearl Harbor, the base of the United States Pacific Fleet. Seven of the fleet's eight battleships were moored in a row beside an island in the middle of the harbour, and the sailors were at breakfast or getting ready for church.
 
+![Japanese fighter aircraft with propellers turning on a pitching carrier deck, deck crew around them, in rough seas](images/carrier_takeoff.jpg)
+*Japanese naval aircraft preparing to take off from an aircraft carrier, reportedly the Shokaku, for the attack on Pearl Harbor, 7 December 1941. Photo: unknown, public domain.*
+
 In two hours the Japanese aircraft sank four of the battleships and damaged the rest. A bomb went through the deck of the *Arizona* and exploded in the forward magazine, where the ammunition was stored. The ship was torn apart, and nearly twelve hundred of her crew died. Altogether twenty-four hundred Americans were killed. The Japanese lost twenty-nine aircraft.
+
+![Heavy smoke and flame rising around the dark shape of a battleship's tower and masts in a harbour](images/arizona_burning.jpg)
+*The battleship Arizona burning at Pearl Harbor on 7 December 1941, just after her forward magazine exploded. Photo: US Navy, public domain.*
 
 No declaration of war had been delivered. Japan and the United States had been at peace when the first bomb fell.
 
@@ -34,6 +40,9 @@ The place to get it was Manchuria, the cold north-eastern corner of China, which
 
 The officers of that army did not wait to be asked. On the night of 18 September 1931, a lieutenant set off a small charge of explosive beside the track near the city of Mukden. It did so little damage that an express train passed over the spot a few minutes later. The army announced that Chinese soldiers had blown up the railway, attacked the local Chinese barracks that same night, and went on to occupy the whole of Manchuria in five months.
 
+![Japanese soldiers in steel helmets kneeling and lying behind rifles beside an old city wall](images/mukden_1931.jpg)
+*Japanese soldiers at the Little West Gate of Mukden on 19 September 1931, the morning after the explosion beside the railway. Photo: unknown, public domain.*
+
 The plot had been laid by two officers on the staff. The government in Tokyo had not approved it, and when the news arrived the cabinet voted to stop the fighting from spreading. The army in Manchuria ignored it. The newspapers were jubilant, the public cheered every advance, and ministers who had tried to restrain the soldiers found that they had no means of doing so and no support. Within months they had resigned.
 
 Manchuria was turned into a state that was independent on paper, with the last emperor of China brought out of retirement to be its head, and later its emperor. The League of Nations sent a commission, which reported that the new state was a Japanese creation and that the army's actions that night could not be regarded as self-defence. In February 1933 the League voted to accept the report, forty-two to one. The Japanese delegation stood up and walked out of the hall, and Japan left the League.
@@ -54,6 +63,9 @@ The mutiny failed, because the emperor was furious and ordered it crushed. Its l
 
 Above all of this stood the emperor, Hirohito, a shy man of thirty-five whose passion was marine biology. Every Japanese child was taught that he was descended from the sun goddess and that to die for him was the highest honour. The constitution made him supreme commander, and the army and navy answered to him alone and not to the cabinet. By long custom, however, the emperor did not rule. He approved what his ministers and commanders had agreed. He asked questions, and gave his assent. The armed forces therefore answered in practice to no minister and no parliament, and each new step was presented to the country as the emperor's will.
 
+![A man in a military uniform and cap and round glasses sitting on a white horse in a park](images/hirohito_horse.jpg)
+*Emperor Hirohito on his white horse Shirayuki, in a photograph of about 1935. Photo: unknown, public domain.*
+
 ## The bridge
 
 In July 1937 the army got the war that it had been edging towards. Japanese troops had been stationed near Beijing, by treaty, since 1901. On the night of the seventh, during an exercise beside an old stone bridge outside the city, shots were exchanged with a Chinese unit in the dark, and a Japanese soldier was missing at roll call. He turned up twenty minutes later. By then both sides were sending reinforcements.
@@ -63,6 +75,9 @@ The generals promised the emperor a quick victory. It took them three months to 
 The Japanese army then marched up the river to the Chinese capital, Nanjing, which fell on 13 December. For six weeks the soldiers were let loose on the city. They shot prisoners in batches of thousands on the river bank, used others for bayonet practice, and raped tens of thousands of women. The court that tried the Japanese commanders after the war found that more than two hundred thousand people had been killed.
 
 About two dozen foreigners had stayed in the city, and they marked out a district of a few square kilometres as a safety zone. Its chairman was a German businessman, the local manager of an electrical firm, who was a member of the Nazi party and used his swastika armband to order Japanese soldiers out of houses. About two hundred thousand Chinese survived inside the zone. He wrote to Hitler to tell him what his ally was doing. The letter was stopped, and the secret police called him in for questioning.
+
+![Five men in dark overcoats, three with white Red Cross armbands, on the steps of a house beside two cars](images/safety_zone.jpg)
+*Members of the International Committee for the Nanking Safety Zone, including its chairman John Rabe (centre), on 13 December 1937, the day the city fell. Photo: Memorial Hall of the Victims in Nanjing Massacre by Japanese Invaders, public domain.*
 
 Chiang did not surrender. He moved his government a thousand miles up the river, behind the mountain gorges, and held on. The Japanese took every large city on the coast and the main railways, and found that they controlled little beyond the range of their guns. By 1941 they had a million men in China and had lost well over a hundred thousand dead. They had no plan to end the war, and the army would not hear of leaving, because to leave would be to admit that those men had died for nothing.
 
@@ -92,11 +107,17 @@ At a conference in September the emperor, who by custom said nothing at such mee
 
 General Tojo put the mood more plainly to the prince before he resigned. There are times, he said, when a man must shut his eyes and jump from the terrace of the temple.
 
+![Portrait of General Tojo Hideki, a bald man with round glasses and a moustache, in uniform with many medals](images/tojo_1941.jpg)
+*General Tojo Hideki in 1941, the year he became prime minister. Photo: unknown, public domain.*
+
 ## The gambler
 
 The plan for the opening blow was the work of the commander of the fleet, Admiral Yamamoto Isoroku, and no one in Japan was more opposed to the war.
 
 Yamamoto knew the enemy. He had studied at Harvard and served as naval attaché in Washington, and he had made a point of travelling to see the car factories of Detroit and the oilfields of Texas. He had fought the alliance with Germany so hard that the navy sent him to sea to keep him out of reach of assassins. A year before the attack, the prime minister asked him what the navy's chances would be. If I am told to fight, Yamamoto said, I shall run wild for the first six months or a year. For the second and third years I have no confidence at all.
+
+![Painted portrait of Admiral Yamamoto Isoroku in dress uniform with a red sash and decorations, his gloved hand on a sword hilt](images/yamamoto_portrait.jpg)
+*A painted portrait of Admiral Yamamoto Isoroku, undated. Painting: unknown artist, public domain.*
 
 He was also a famous gambler, at poker and at the Japanese game of chess, and since war was coming he proposed to stake everything on the first hand. The one force strong enough to stop the seizure of the southern oilfields was the American fleet at Pearl Harbor. It must be destroyed on the first morning, from the air, before it knew that it was at war.
 
@@ -117,6 +138,13 @@ The trouble lay in what the raid had missed. The American fleet had three aircra
 
 The largest miscalculation was about people. Before that Sunday, four Americans in five wanted to stay out of the war, and Roosevelt had not been able to find a way to bring them in. Japan's leaders had counted on that reluctance. The next day the president told Congress that 7 December was a date that would live in infamy, and Congress voted for war with one dissenting voice. Three days later Hitler, who was under no obligation to do so, declared war on the United States himself.
 
+![President Roosevelt, wearing a black armband, writing his signature on a document at a desk](images/roosevelt_signing.jpg)
+*President Roosevelt signing the declaration of war on Japan on 8 December 1941. Photo: unknown, US National Archives, public domain.*
+
 The British prime minister heard the news on the radio at dinner. He wrote afterwards that he went to bed thinking that the war was now won, and slept the sleep of the saved and thankful.
 
 The *Arizona* was never raised. She lies where she sank, in twelve metres of water, with more than a thousand of her crew still inside. She had filled her tanks the day before the attack. A few litres of that oil still rise to the surface every day and spread in rings on the water above her.
+
+
+![A small patch of dark oil with rainbow colours spreading on green harbour water](images/arizona_oil.jpg)
+*Oil still rising from the wreck of the Arizona, photographed in December 2024. Photo: Shellcreek, CC BY-SA 4.0.*
