@@ -8,6 +8,9 @@ Before dawn on 18 August 1966, a million young people began filing into the grea
 
 As the sun came up, Mao appeared on the balcony of the gate above them, in a soldier's uniform that he had not worn for years. The square shook with the chant of ten thousand years to Chairman Mao. Hundreds of the guards were chosen to go up and meet him. One of them, a girl of nineteen with glasses and plaits, the daughter of a general, pinned a red armband on his sleeve.
 
+![A colour photograph of Mao Zedong in a green army cap and tunic with a red armband, being smiled at by a young woman with glasses and a ponytail, with a vast crowd behind them](images/binbin.jpg)
+*Song Binbin pinning a Red Guard armband on Mao Zedong's sleeve at Tiananmen, 18 August 1966. Photographer unknown, public domain.*
+
 He asked her name. It was Binbin, she said, which means refined and gentle. Mao smiled. Be martial, he told her.
 
 Thirteen days earlier, at the girls' school that she attended, the pupils had turned on their teachers. They poured ink over the deputy headmistress, a woman of fifty and a mother of four, made her kneel, and beat her for hours with wooden clubs studded with nails. She was left to die on a rubbish cart in the school yard. She was the first teacher in Beijing to be killed by her students. In the two months that followed, more than seventeen hundred people in the city had died in the same way.
@@ -26,9 +29,15 @@ In 1958 Mao announced that China would make a Great Leap Forward. It would overt
 
 The collective farms were merged into twenty-six thousand "people's communes", each of about five thousand families. Private plots were abolished, and so, in many places, were private kitchens. Families handed in their cooking pots and ate in communal canteens, where at first the food was free and people were told to eat as much as they liked. Men and women were marched to work in squads, and sent for months to dig canals and reservoirs with hand tools.
 
+![Men and women in padded jackets and caps sitting round a long table in a plain room, eating steamed buns and soup from bowls, under a wall slogan in Chinese characters](images/canteen.jpg)
+*A people's commune canteen in 1958, where members were told that they could eat as much as they wanted. The slogan on the wall reads, "Eating meals costs no money, work hard at production." Photographer unknown, public domain.*
+
 Steel was to come from everywhere. Ninety million people, among them farmers, schoolteachers and doctors, built small furnaces of brick and clay in village squares and schoolyards, and fed them day and night. When the ore ran out, they melted down the cooking pots, the door hinges, the bicycles and the farm tools. The lumps of brittle iron that came out were useless. The work was done in the autumn of 1958, and in many districts the best harvest in years was left to rot in the fields because the men were at the furnaces.
 
 Farming was reorganised by decree. Seed was sown five or ten times more thickly than before, on the theory that plants of the same kind would not compete with one another, and the seedlings choked. A national campaign was launched against sparrows, which ate grain. The whole population turned out to bang pots and wave flags, so that the birds could not land and fell dead from exhaustion. Hundreds of millions were killed. The next year the insects that sparrows had eaten devoured the crops.
+
+![A colour poster with a woman holding a broom and a man holding a spray gun on either side of a red diamond with a character made of fruit and grain, children with drums and flags behind them, and a rat, a mosquito, a fly and a beetle at the foot](images/pests.jpg)
+*A poster from the campaign against pests during the Great Leap Forward, issued by the Red Cross in Fujian province in 1960. Its title is "Eradicate pests and diseases and build happiness for ten thousand generations". Poster: Red Cross and Health Propaganda Office of Fujian Province, CC BY-SA 4.0.*
 
 ## Sputnik fields
 
@@ -51,6 +60,9 @@ In three years about thirty million people died. One historian, working from pro
 
 By 1961 the men who ran the party from day to day had had enough. The head of state, Liu Shaoqi, a pale, methodical organiser who had been Mao's deputy for twenty years, visited his own home district and came back shaken. At the start of 1962 he told a conference of seven thousand officials that the disaster was three parts natural and seven parts man-made. To Mao's face he said that history would record the part that the two of them had played, and that the eating of human flesh would go into the books.
 
+![A black-and-white photograph of three men in overcoats talking closely: Liu Shaoqi in a cap on the left, Mao Zedong in the middle and the American writer Edgar Snow on the right](images/snow.jpg)
+*Liu Shaoqi (left), Mao Zedong and the American writer Edgar Snow in conversation in October 1960. Photographer unknown, public domain.*
+
 Mao withdrew from daily affairs. Liu and the party's general secretary, a short, tough veteran named Deng Xiaoping, set about repairing the damage. They broke up the canteens, gave families back their small plots, reopened the village markets, and shut down the furnaces. Deng quoted a proverb from his home province: it does not matter whether a cat is black or white, so long as it catches mice. Within three years the country was eating again.
 
 Mao watched this from the sidelines and drew his own conclusions. He believed that his colleagues were leading China down the road that the Soviet Union had taken. There, as he saw it, the revolution had hardened into a new ruling class of officials with cars, villas and special shops, who cared only for their comforts. The two communist powers had quarrelled bitterly, and in 1960 Moscow had called home all its engineers. He also remembered that three years after Stalin's death, his successor had stood up and denounced him as a tyrant and a murderer. He had no doubt that there were men around him who would do the same.
@@ -61,9 +73,15 @@ He could not use the party against itself, since the party was the problem. He t
 
 The army had compiled a pocket book of his sayings for its soldiers, bound in red plastic. It was now printed for everyone, and over the following years a billion copies were made. Children learned it by heart. His portrait hung in almost every home, and in many workplaces people began each day by bowing to it and reporting their thoughts.
 
+![A wooden tray of small red plastic-covered books with Mao Zedong's portrait in a golden sunburst on the covers, titled in Chinese, English, French, Russian and Spanish](images/book.jpg)
+*Copies of Quotations from Chairman Mao, the "little red book", in Chinese, English, French, Russian and Spanish editions, photographed in 2013. Photo: Chris Brown, CC BY-SA 2.0.*
+
 In July 1966, to show that he was fit for a fight, Mao swam in the Yangtze river, and the newspapers reported that he had covered fifteen kilometres in little more than an hour. In August he wrote a short poster of his own and had it handed round the party's leaders. Its title was "Bombard the headquarters". Word spread within days, and the country understood that the chairman of the party was calling on the people to attack the party's leaders. To rebel is justified, he told the students.
 
 Schools and universities were closed, and stayed closed for years. Red Guards were given free travel on the railways, and eleven million of them came to Beijing that autumn to see Mao at eight great rallies. They then spread out across China to make revolution, sleeping in schools and temples and fed at public expense. For teenagers who had been raised on stories of the Long March and had never been allowed to decide anything, it was intoxicating.
+
+![A dense crowd of young Red Guards sitting on the ground in Tiananmen Square in green and blue jackets with red armbands, many holding up small red books, under a long red banner](images/guards.jpg)
+*Red Guards waiting for Mao in Tiananmen Square on 15 September 1966, one of the eight great rallies of that autumn. Many hold the little red book. Photo: Meng Zhaorui, public domain.*
 
 ## The four olds
 
@@ -87,17 +105,26 @@ The army had been ordered in to support the left, and had ended by arming one fa
 
 The guards themselves were now a nuisance. Mao announced that educated young people should go to the countryside and learn from the peasants. Over the next twelve years seventeen million city teenagers were sent to villages and state farms, some near home and millions in the remotest parts of the country, with no date of return. Most were there for years. They are known in China as the lost generation. The universities, when they reopened, took students by political recommendation. There was no entrance examination until 1977, when nearly six million people, some of them thirty years old, sat for a quarter of a million places.
 
+![A cheerful group of young men and women resting under a tree on a hillside with hoes and baskets, listening to a woman in a straw hat who speaks and gestures](images/sentdown.jpg)
+*Educated city youths resting during farm work in Changli County, Hebei, in July 1964, in an earlier version of the campaign that from 1968 sent seventeen million city teenagers to the countryside. Photo: People's Pictorial, public domain.*
+
 ## A plane in Mongolia
 
 Lin Biao, the army chief who had made the cult of Mao, was named in the party's constitution as his successor. In September 1971 he died when his aircraft crashed in Mongolia in the middle of the night. The official explanation, when it came, was that he had plotted to assassinate Mao and had been fleeing to the Soviet Union. People who had been told for five years that he was the chairman's closest comrade were now told to curse him. For many Chinese that was the moment at which belief gave out.
 
 In 1969 Chinese and Soviet troops had fought on their frozen border river, and Moscow had sounded out other governments about a strike on China's nuclear plants. Mao concluded that the nearer enemy was the more dangerous one. In 1971 he invited an American table-tennis team to tour China. An American envoy flew to Beijing in secret that July, and in February 1972 the American president, a man who had built his career on hostility to communism, walked into Mao's study and shook his hand. Four months before, the United Nations had given China's seat to the government in Beijing. The two countries had fought each other in Korea twenty years earlier. They were now, in effect, partners against the Soviet Union.
 
+![Mao Zedong in a plain jacket and Richard Nixon in a suit shaking hands and smiling, in a room with a dark wooden door](images/nixon.jpg)
+*Mao Zedong and President Richard Nixon shaking hands in Beijing, 21 February 1972. Photographer unknown, US National Archives, public domain.*
+
 ## Seventy per cent
 
 Mao died on 9 September 1976, a few weeks after an earthquake that killed a quarter of a million people in a city east of Beijing. Chinese tradition holds that such disasters announce the end of a dynasty.
 
 Within a month his widow, a former film actress who had led the radicals, was arrested with her three closest allies. At her trial she was defiant. I was Chairman Mao's dog, she told the judges. I bit whomever he told me to bite. Deng Xiaoping had been brought back by Mao in 1973 and thrown out again in 1976. He returned once more, and within two years he was leading the country.
+
+![Four black-and-white head-and-shoulders photographs side by side, numbered 1 to 4: a woman with glasses and three men, in a courtroom](images/gang.jpg)
+*The "Gang of Four" on trial in November 1980, left to right: Jiang Qing, Zhang Chunqiao, Yao Wenyuan and Wang Hongwen. Photo: China Publications Centre, public domain.*
 
 The party had to decide what to say about the man whose portrait hung over the gate of the old palace. In 1981 it declared that the Cultural Revolution had been a catastrophe, for which Mao was chiefly responsible, and that it had caused the heaviest losses since the founding of the state. It also ruled that his merits outweighed his errors. Deng's private formula was that Mao had been seventy per cent right and thirty per cent wrong. Between one and two million people had been killed in those ten years, and tens of millions had been persecuted.
 
