@@ -14,9 +14,15 @@ In 2014, when a false report of a rape set off riots in the country's second cit
 
 On 25 August 2017, after attacks on police posts by a small Rohingya armed group, the army moved into the Rohingya villages. Soldiers and local mobs burned more than three hundred of them, shot those who fled, and raped the women. A medical charity, from surveys in the refugee camps, estimated at least six thousand seven hundred killed in the first month. Seven hundred thousand people walked and waded across the border into Bangladesh, where they still live in the largest refugee camp on Earth.
 
+![Rohingya families, some carrying children and bundles, walking along a flooded path beside rice fields](images/refugees.jpg)
+*Rohingya refugees walking into Bangladesh in 2017, after being driven out of Myanmar. Photo: Zlatica Hoke, Voice of America, public domain.*
+
 ## Old lies
 
 None of the hatred was new, and neither was the use of a new medium to spread it. The printing press, within decades of its invention, was turning out pamphlets accusing Jews of murdering children. The most successful forgery of modern times, the supposed minutes of a Jewish plot to rule the world, was proved a fake in 1921 and went on being printed by the million. In Rwanda in 1994 a popular radio station read out the names of people to be killed.
+
+![Paper cover of a pamphlet titled The Jewish Peril, Protocols of the Learned Elders of Zion, London, 1920](images/protocols.jpg)
+*The cover of the first British edition of the Protocols, published in London in 1920. The text was a forgery, proved so in 1921. Photo: public domain.*
 
 For most of the twentieth century, however, reaching a large audience was expensive. It took a printing plant, or a broadcasting licence, of which there were few. Those who owned them were a small group who could be identified, sued, regulated and shamed, and between a rumour and the public stood editors whose job was to ask whether it was true. They were often wrong, biased or bought. They were also a filter.
 
@@ -29,6 +35,9 @@ The student's site had a billion users by 2012 and three billion by 2023. People
 ## The product
 
 These services are free to the people who use them. Their income comes from advertisers, and what they sell is the attention of their users, together with a detailed knowledge of who each user is. A company that knows a person's age, town, friends, the pages she lingers on and the things she has searched for can show an advertisement for pushchairs only to women who are probably pregnant. No newspaper could ever do that. The two largest, the owners of Google and of Facebook, took in more than four hundred billion dollars from advertising in 2024.
+
+![Aerial view of a group of large low buildings in flat green countryside](images/datacentre.jpg)
+*A data centre of Google outside Pryor, Oklahoma, in 2019. Photo: Xpda, CC BY-SA 4.0.*
 
 That money used to go elsewhere. In 2005 American newspapers earned forty-nine billion dollars a year from advertising, which paid for most of their reporters. Twenty years later they earned less than a fifth of that. More than a third of the country's newspapers have closed, most of them small local ones, and the number of journalists employed by those that remain has fallen by more than half. In a great many towns nobody is now paid to sit through the meetings of the council.
 
@@ -55,11 +64,17 @@ The same principle chooses the next film. On the largest video service, five hun
 
 At first all this looked like a gift to freedom. In 2010 an Egyptian who worked for an American internet company set up an anonymous page in memory of a young man who had been beaten to death by the police in Alexandria. Hundreds of thousands joined it. In January 2011 the page named a date and a square, and the protest that it called brought down a president who had ruled for thirty years.
 
+![Young Egyptian men sitting on the ground around a tangle of cables, charging mobile telephones](images/tahrir.jpg)
+*Protesters charging their mobile telephones from a shared bundle of cables in Tahrir Square, Cairo, on 10 February 2011. Photo: Alisdare Hickson, CC BY-SA 2.0.*
+
 Governments were watching, and they learned quickly. The same networks that let protesters find one another let the police find the protesters. Within a few years the security services of the region were using them to identify dissidents, to flood discussions with their own supporters, and to spread stories that set their opponents against each other.
 
 ## A building in St Petersburg
 
 In 2016 it was the turn of the country where the networks had been invented. During that year's presidential election, several hundred employees of a private company in the Russian city of St Petersburg, working shifts in an office block, posed online as American activists of every kind: Black campaigners against police violence, Texas separatists, evangelical Christians, Muslim community groups. They organised real rallies by remote control and spent about a hundred thousand dollars on advertisements. The largest network later told Congress that their posts had reached a hundred and twenty-six million Americans.
+
+![A modern grey office building on a wet street at dusk](images/savushkina.jpg)
+*The building at 55 Savushkina Street in St Petersburg that housed the Internet Research Agency, photographed in 2018. Photo: Charles Maynes, public domain.*
 
 Two years later it came out that a political consultancy had obtained the personal details of eighty-seven million users of that network, through a personality quiz, in order to target voters. Facebook paid a penalty of five billion dollars for its carelessness with its users' data.
 
@@ -77,9 +92,15 @@ What the companies choose to leave up or take down is largely their own affair. 
 
 That leaves decisions affecting billions in very few hands. In January 2021, after a crowd of his supporters stormed the American Congress, the outgoing president was removed from the main networks within a week, on the judgement of a few executives. The following year the richest man in the world bought one of those networks for forty-four billion dollars, dismissed most of the staff who dealt with abuse, and restored the accounts. In 2025 the largest company announced that it would stop employing fact-checkers in the United States.
 
+![A crowd with flags in front of the United States Capitol, with people standing on the terrace above](images/capitol.jpg)
+*A crowd outside the United States Capitol on 6 January 2021. Photo: TapTheForwardAssist, CC BY-SA 4.0.*
+
 ## The other internet
 
 One large country chose a different road from the beginning. China sealed its internet off from the world's. The largest foreign search engine and social networks are blocked, and their Chinese equivalents, which are as large and as inventive, are required by law to police what their users say.
+
+![The rear entrance of a concrete building with a green sign and the characters for internet cafe painted on a wall](images/cafe.jpg)
+*The back entrance to an internet cafe on the second floor of a building in Qufu, China, in 2011. Internet cafes were long the way many Chinese went online. Photo: Vmenkov, CC BY-SA 3.0.*
 
 They do it thoroughly. Posts containing banned terms disappear within minutes, and the list changes daily. It has included the date of the killings in Beijing in 1989, the candle symbol, and for a time the name of a honey-loving cartoon bear, to whom the country's leader had been compared. State media have put the number of people employed to watch online opinion at two million.
 
@@ -98,5 +119,8 @@ The deeper effect may be the reverse of the obvious one. When any recording can 
 ## An admission
 
 In 2018 a United Nations mission that had investigated the killings in Myanmar said that Facebook had played a determining role in spreading the hatred that led to them. In November of that year the company published the findings of an inquiry that it had commissioned itself. We weren't doing enough, it said, to help prevent our platform from being used to foment division and incite offline violence. We agree that we can and should do more.
+
+![Rows of huts with thatch and plastic roofs on a dusty hillside, a small child on the path](images/kutupalong.jpg)
+*Kutupalong refugee camp in Bangladesh, photographed in March 2017, before the arrivals of that August made it the largest in the world. Photo: John Owens, Voice of America, public domain.*
 
 That summer it had removed the pages of the army's commanders, and it was hiring a hundred reviewers who could read Burmese. By then most of the Rohingya were in Bangladesh. In 2021 a group of the refugees sued the company in a Californian court for a hundred and fifty billion dollars. In 2024 the court dismissed the case. It had been brought too late.
