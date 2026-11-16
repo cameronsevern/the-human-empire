@@ -92,6 +92,9 @@ By the beginning of 1949 Israel had driven the Egyptian army back into the deser
 
 The lines drawn there stood for eighteen years. Israel had seventy-eight per cent of what had been Palestine. Transjordan kept the hill country, which came to be called the West Bank, and the eastern half of Jerusalem, and renamed itself Jordan. Egypt kept a strip of coast forty kilometres long around the town of Gaza. The Arab state proposed by the United Nations did not come into existence.
 
+![Two maps of Palestine side by side. Left, the United Nations plan of 1947: the Jewish state, in blue, takes most of the coast, the east of Galilee and the Negev desert down to the Red Sea; the Arab state, in red, has three pieces joined at their corners, western Galilee, the hill country of the centre and a strip of the southern coast round Gaza, with Jaffa as a small enclave; Jerusalem, hatched, is under the United Nations. Right, the armistice lines of 1949: Israel, in blue, holds most of the country; the West Bank, in red, is held by Jordan and the Gaza strip by Egypt. Tel Aviv, Jaffa, Haifa, Lydda, Ramle and Jerusalem are marked. An inset of Jerusalem shows the line dividing the city, with the Old City and East Jerusalem on the Jordanian side, West Jerusalem and Deir Yassin on the Israeli side, and Mount Scopus as an Israeli island](images/map_partition.png)
+*Left, the United Nations plan of 1947, drawn roughly. Right, the armistice lines of 1949, with the West Bank held by Jordan and the Gaza strip by Egypt; inset, Jerusalem divided. Plan traced from a public-domain map by AnonMoos; lines of 1949 after OpenStreetMap contributors. Map: drawn for this book; coastlines and rivers from Natural Earth, public domain.*
+
 ## Keys
 
 More than half the Arabs of Palestine, about seven hundred thousand people, were now outside the lines, in the West Bank, Gaza, Lebanon, Syria and Jordan. More than four hundred of their villages stood empty.
