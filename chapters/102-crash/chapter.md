@@ -6,6 +6,9 @@ The crisis was caused by banks that lent enormous sums to people who could not r
 
 On the morning of Monday, 15 September 2008, the staff of an investment bank called Lehman Brothers arrived at its glass tower in the middle of New York and were told to clear their desks. They came out through the revolving doors past the television cameras, carrying cardboard boxes with their family photographs and pot plants. The firm was a hundred and fifty-eight years old. It had survived the American civil war and the Depression. It owed more than six hundred billion dollars, and it was the largest bankruptcy in history.
 
+![A glass office tower lit by large white screens at night, with a bus passing, onlookers on the pavement and a television reporter speaking to camera](images/lehman.jpg)
+*The Lehman Brothers building in Times Square, New York, on the night of 15 September 2008, the day the bank failed, with television crews working on the pavement. Photo: Robert Scoble, CC BY 2.0.*
+
 The American government had spent the weekend looking for another bank to buy it, had found none, and had let it fail. Within hours it was plain that this had been a mistake. No bank could be sure which others were owed money by Lehman, or which were in the same condition, and so banks all but stopped lending to one another. The next day the largest insurance company in the world had to be taken over by the state. An ordinary savings fund, of the kind that Americans treated as equivalent to cash, announced that it could not pay its investors in full, and people began pulling their money out of all such funds. Companies with perfectly sound businesses found that they could not borrow to pay that week's wages.
 
 On the Thursday evening the head of the American central bank, Ben Bernanke, and the treasury secretary went to see the leaders of Congress. They asked for hundreds of billions of dollars to rescue the banks. One of the politicians asked what would happen if they refused. If we don't do this, Bernanke said, we may not have an economy on Monday.
@@ -24,11 +27,20 @@ A different explanation had been waiting for thirty years.
 
 In 1944 an Austrian economist living in London, Friedrich Hayek, published a short book arguing that the planned economy, however well meant, led by stages to tyranny. His deeper point was about knowledge. An economy consists of millions of people, each of whom knows something that nobody else does: what he wants, what he can make, what he would give up for it. No office of planners can gather all of that. Prices can. When the price of tin rises, everyone who uses tin economises on it, without needing to know why. Interfere with prices, Hayek said, and you blind the whole system.
 
+![Black-and-white studio portrait of a man in a pinstriped suit and round glasses](images/hayek.jpg)
+*The economist Friedrich Hayek, in a portrait released by the Mises Institute. Photo: Mises Institute, CC BY-SA 3.0.*
+
 His American ally was Milton Friedman, a small, combative professor at Chicago and a gifted debater. Friedman argued that inflation had one cause, which was governments creating too much money. Attempts to buy lower unemployment with a little inflation would work only for as long as people were fooled, and would then need a larger dose. The remedy was to control the supply of money, cut taxes and regulations, sell what the state owned, and leave the rest to free choice.
 
 For decades the two men were treated as cranks. In the 1970s each was given the Nobel prize.
 
+![An elderly man in glasses shakes hands with President Reagan at a lectern while Nancy Reagan looks on, in front of gold curtains](images/friedman.jpg)
+*Milton Friedman shaking hands with President Ronald Reagan, with Nancy Reagan beside them, at the White House on 17 October 1988, when Friedman received the Presidential Medal of Freedom. Photo: White House Photographic Office, public domain.*
+
 Their ideas were first tried in an unhappy place. On 11 September 1973 the armed forces of Chile, with the encouragement of the United States, overthrew an elected socialist president, who died in the palace as it was bombed. The general who took power had about three thousand of his opponents killed. He handed the economy to a group of Chilean economists who had studied under Friedman at Chicago. They cut tariffs, sold off state firms and privatised the pension system. The experiment showed that free markets did not need free politics, which troubled some of the school's followers more than others.
+
+![Black-and-white photograph of a long pale stone palace on a street corner, with thick dark smoke rising from behind its far end](images/moneda.jpg)
+*La Moneda, the presidential palace in Santiago, with smoke rising from it during the bombardment of 11 September 1973. Photo: Biblioteca del Congreso Nacional de Chile, CC BY 3.0 CL.*
 
 ## There is no alternative
 
@@ -38,7 +50,13 @@ She set out to break inflation by making money scarce. Interest rates were pushe
 
 Then she turned on the unions. In 1984 the coal miners, the strongest of them, struck against the closure of pits. She had stockpiled coal for the purpose, and after a year of pitched battles between pickets and police, the miners went back with nothing. She sold the state telephone company, the gas, electricity and water industries, the airline and the steelworks to the public as shares, and a million and a half council houses to their tenants. The top rate of income tax fell from eighty-three per cent to forty. In 1986 the rules that had governed the financial district of London for a century were swept away in a day.
 
+![Margaret Thatcher, Ronald Reagan and George Bush sitting in armchairs in a drawing room with a flower arrangement in front](images/thatcher.jpg)
+*Prime Minister Margaret Thatcher with President Ronald Reagan and Vice-President George Bush at the White House on 26 February 1981. Photo: White House Photographic Office, public domain.*
+
 In the United States, Ronald Reagan, a former film actor, took office in 1981 with the words that government was not the solution to the problem. Government was the problem. When the country's air traffic controllers went on strike, he dismissed eleven thousand of them and banned them from federal employment for life. He cut the top rate of tax from seventy per cent to twenty-eight. The head of the central bank, Paul Volcker, had meanwhile raised interest rates to twenty per cent, and put one worker in ten out of a job.
+
+![An elderly man in glasses and a dark jacket speaks with one hand raised, in a wood-panelled room](images/volcker.jpg)
+*Paul Volcker, who ran the American central bank from 1979 to 1987, speaking in 2012. Photo: Edmond J. Safra Center for Ethics, CC BY 2.0.*
 
 It worked, on its own terms. Inflation fell from thirteen per cent to four and stayed down. Growth returned. The price was paid by the industrial towns, and by a change in who received the rewards. In 1980 the richest hundredth of Americans took a tenth of the national income. By 2007 they took more than a fifth, which was the same share as in 1928.
 
@@ -96,13 +114,22 @@ House prices stopped rising in 2006. In 2007 they began to fall, across the whol
 
 Now the cleverness of the system turned against it. The bad loans had been chopped up and repackaged so many times that nobody could say where the losses lay. A bank could not know whether the bank across the street was sound, and would no longer lend it the overnight money on which they all depended. In August 2007 a French bank froze three of its funds because it could not put a value on them. In September depositors queued round the block outside a British mortgage lender to take out their savings, in the first run on a British bank for a hundred and forty years. In March 2008 one of the five great American investment banks collapsed in a week and was sold to a rival for a tenth of its value. In September it was Lehman's turn.
 
+![Customers queueing on the pavement outside a Northern Rock bank branch with a black shopfront](images/rock.jpg)
+*Savers queueing outside a branch of Northern Rock in Brighton on 14 September 2007. Photo: Dominic Alves, CC BY 2.0.*
+
 ## Not 1931
 
 What happened next was different from the first years of the Depression, and the reason was that the men in charge had studied them. Bernanke had made his name as a historian of the Depression, and he knew what it had cost to let the banks go down.
 
+![Three officials in suits seated at a long wooden witness table in a hearing room, with photographers behind them](images/bernanke.jpg)
+*Treasury Secretary Henry Paulson (left) and Federal Reserve chairman Ben Bernanke (centre) at a House hearing on the mortgage crisis, 20 September 2007. Photo: David Valdez, U.S. Department of Housing and Urban Development, public domain.*
+
 This time the governments did the opposite of what had been done in 1930 and 1931. They put public money into the banks, on a scale without precedent, and guaranteed their debts. Central banks cut interest rates to nothing and then created money by the trillion to buy bonds. Governments borrowed and spent. China, whose exports had fallen off a cliff, launched a vast programme of building.
 
 It worked. There was no second Great Depression. There was the worst slump since the first one. World trade fell by an eighth in a year. In the United States nearly nine million jobs disappeared, and several million families lost their homes.
+
+![A large yellow and black yard sign reading Lender Foreclosure, Public Home Auction in front of a pink two-storey house](images/foreclosed.jpg)
+*A foreclosure auction sign outside a house in Salinas, California, in February 2008. The file is 640 pixels wide. Photo: Brendel, CC BY-SA 3.0.*
 
 The rescue left a taste that has not gone away. The banks had been saved with the money of taxpayers who were themselves losing their jobs and houses. The bankers kept the fortunes that they had made in the good years, and the firms that had been bailed out paid billions in bonuses for 2008 itself. In the United States no head of a large Wall Street bank was prosecuted.
 
@@ -111,6 +138,9 @@ The rescue left a taste that has not gone away. The banks had been saved with th
 The crisis moved on to governments. At the end of 2009 it emerged that Greece had been borrowing far more than it had admitted. The other European states lent it the money to pay its creditors, most of them French and German banks, on condition that it cut wages, pensions and public services by amounts that no rich country had attempted in peacetime. A quarter of Greek workers and half of the young were left without jobs.
 
 In September 2011 a few hundred people pitched tents in a small park near the New York stock exchange. Their slogan was that they were the ninety-nine per cent. The camp was cleared after two months. The feeling behind it spread to left and right alike, and within five years voters in Britain and America, in the towns that had lost their factories, had turned against the parties, the experts and the open borders of the previous thirty years.
+
+![Protesters and onlookers gathered round a blue tarpaulin and piles of cardboard in a park with yellow autumn trees, behind metal barriers and a police car](images/occupy.jpg)
+*The Occupy Wall Street camp in Zuccotti Park, New York, on 11 November 2011. Photo: Debra M. Gaines, CC BY 3.0.*
 
 In November 2008 Queen Elizabeth went to open a new building at the London School of Economics. A professor showed her a set of charts explaining the collapse. She listened, and asked a question that the professors found hard to answer. If these things were so large, she said, how come everyone missed them?
 
