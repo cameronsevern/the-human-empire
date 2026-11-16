@@ -4,7 +4,7 @@
 
 China became communist because eight years of war with Japan ruined the government that the Communists were fighting, and because the Communists offered the peasants, who were four fifths of the nation, the thing that they most wanted, which was land. In 1946 the government had four times as many soldiers, and American aircraft, trucks and guns. Three years later it had lost the whole of the mainland.
 
-At three o'clock on the afternoon of 1 October 1949, a tall, heavy man of fifty-five in a plain brown suit buttoned to the neck stepped up to a row of microphones on the balcony of the great red gate that leads into the old imperial palace in Beijing. Below him the square was packed with soldiers, students and workers, about three hundred thousand of them, under a cold blue sky.
+At three o'clock on the afternoon of 1 October 1949, a tall, heavy man of fifty-five in a plain suit buttoned to the neck stepped up to a row of microphones on the balcony of the great red gate that leads into the old imperial palace in Beijing. Below him the square was packed with soldiers, students and workers, about three hundred thousand of them, under a cold blue sky.
 
 Mao Zedong spoke in the thick accent of his native province, which many in the crowd could barely follow. The Central People's Government of the People's Republic of China, he said, is founded today. Then he pressed a button, and a red flag with five gold stars went up a pole in the middle of the square.
 
@@ -28,7 +28,7 @@ He took the survivors to the mountains on the border of two southern provinces, 
 
 Chiang, who now governed most of China from the city of Nanjing, sent five expeditions against it. The fifth, in 1934, ringed the Communist area with thousands of concrete forts and tightened the circle month by month. In October about eighty-six thousand men, and a few dozen women, broke out to the west and began walking.
 
-They walked for a year, in a vast loop through the mountains and marshes of western China, fighting most of the way. They crossed rivers under fire and snow passes five thousand metres high in cotton clothes and straw sandals. In the high grasslands on the edge of Tibet, where the ground was a bog and there was nothing to eat, men boiled their leather belts. About eight thousand reached the dry hills of the north-west. In later years this retreat, the Long March, became the founding legend of the new China, and to have been on it was the highest of honours.
+They walked for a year, in a vast loop through the mountains and marshes of western China, fighting most of the way. They crossed rivers under fire and snow passes four thousand metres high in cotton clothes and straw sandals. In the high grasslands on the edge of Tibet, where the ground was a bog and there was nothing to eat, men boiled their leather belts. About eight thousand reached the dry hills of the north-west. In later years this retreat, the Long March, became the founding legend of the new China, and to have been on it was the highest of honours.
 
 During the march Mao became the dominant figure in the party, and within a few years he was its unchallenged leader, which he remained until his death. The survivors settled in the bare hills of the north-west, and soon made their capital in the dusty town of Yan'an, where they lived in caves cut into the hillsides. An American journalist reached them in 1936 and wrote a book that described a band of cheerful, honest young men who shared everything and meant to fight Japan. It was the first that most of the world had heard of them.
 
@@ -48,7 +48,7 @@ His armies did most of the fighting. In the first year he lost the best of them,
 
 To slow the Japanese advance in 1938, he ordered the dikes of the Yellow River to be blown open. The flood covered thousands of villages without warning and drowned or starved half a million of his own people.
 
-An army of several million had to be kept in the field with little industry and less revenue. The government found the men by force. Press gangs seized peasants from the fields and marched them to the front roped together, and so many died of hunger and disease on the way that some units arrived at half strength. It found the food by taxing the harvest in grain. In 1942 the crop failed in the province of Henan, and the collectors took their quota all the same. Two or three million people starved. An American reporter rode through the province and saw dogs eating corpses by the roadside, and then was served a banquet by the local officials.
+An army of several million had to be kept in the field with little industry and less revenue. The government found the men by force. Press gangs seized peasants from the fields and marched them to the front roped together, and so many died of hunger and disease on the way that some units arrived at half strength. It found the food by taxing the harvest in grain. In 1942 the crop failed in the province of Henan, and the collectors took their quota all the same. More than a million people starved. An American reporter rode through the province and saw dogs eating corpses by the roadside, and then was served a banquet by the local officials.
 
 It found the money by printing it. Prices doubled, and doubled again, year after year. A civil servant or an officer could no longer live on his pay, and so he lived on bribes, or sold his unit's rations and petrol. By 1945 the Nationalist government, which had begun with a real following among educated and patriotic Chinese, was known for its corruption above all else.
 
@@ -62,7 +62,7 @@ In the areas they controlled, the Communists were careful. They had stopped seiz
 
 There was another side to Yan'an, which the visiting journalists did not see. From 1942 Mao put the whole party through a campaign of what he called rectification. Members were made to study his writings, to criticise themselves in front of their comrades, and to write and rewrite confessions of their wrong thoughts until they were accepted. Thousands were locked up as suspected spies, and some were tortured. The party that came out of it was disciplined and obedient to one man.
 
-It was also enormous. In 1937 the Communists had about forty thousand soldiers. In 1945 they had nearly a million, and governed almost a hundred million people.
+It was also enormous. In 1937 the Communists had about forty thousand soldiers. In 1945 they had about a million, and governed almost a hundred million people.
 
 ## The transport officer
 
@@ -72,7 +72,7 @@ On paper the outcome was not in doubt. Chiang had more than four million soldier
 
 The Nationalist generals used their troops to hold the cities and the railways, as the Japanese had, and were cut off in them in the same way. Their soldiers were conscripts who had been beaten and cheated of their pay, and when they were surrounded they changed sides, whole divisions at a time, bringing their American trucks and guns with them. Mao remarked that Chiang was his transport officer.
 
-Behind the lines the money died. The government was now printing banknotes to cover almost its whole budget. In Shanghai in the summer of 1948, prices rose tenfold in two months. Workers were paid daily and ran to spend their wages before noon. People carried banknotes to market in sacks and wheelbarrows, and a wad of them was worth less than the paper as fuel. The middle classes of the cities, who had been the Nationalists' strongest supporters, lost their savings and their faith together.
+Behind the lines the money died. The government was now printing banknotes to cover almost its whole budget. In Shanghai in the autumn of 1948, prices rose more than tenfold in three months. Workers were paid daily and ran to spend their wages before noon. People carried banknotes to market in sacks and wheelbarrows, and a wad of them was worth less than the paper as fuel. The middle classes of the cities, who had been the Nationalists' strongest supporters, lost their savings and their faith together.
 
 ## Speak bitterness
 
@@ -82,7 +82,7 @@ A team of party workers would arrive in a village and live for weeks with its po
 
 It was often savage. Landlords were beaten to death by the crowd, and so were people who had merely been a little better off than their neighbours, or who had enemies. The party sometimes restrained the violence and often encouraged it, since it bound the village to the revolution. A family that had taken a share of the landlord's land knew what would happen if the Nationalist army came back and brought the landlord with it. Its sons joined the Communist army to make sure that it did not.
 
-The decisive battles were fought in the winter of 1948. In the largest of them, on the plain north of the Yangtze, half a million Nationalist soldiers were surrounded and destroyed. The Communist army was supplied by several million peasants, who carried grain and shells to the front on shoulder poles and wheelbarrows. Its commander said afterwards that the victory had been pushed there on wheelbarrows.
+The decisive battles were fought in the winter of 1948. In the largest of them, on the plain north of the Yangtze, half a million Nationalist soldiers were surrounded and destroyed. The Communist army was supplied by several million peasants, who carried grain and shells to the front on shoulder poles and wheelbarrows. One of its commanders said afterwards that the victory had been pushed there on wheelbarrows.
 
 The war was not won by kindness. That same year the Communists besieged the north-eastern city of Changchun for five months, and refused to let its civilians leave, so that they would eat the garrison's food. More than a hundred thousand of them starved.
 
@@ -90,7 +90,7 @@ The war was not won by kindness. That same year the Communists besieged the nort
 
 In January 1949 the general defending Beijing surrendered the city without a fight. In April the Communists crossed the Yangtze, and the great cities of the south fell one after another. Only Shanghai was seriously defended, for two weeks.
 
-Chiang had prepared a refuge. The island of Taiwan, a hundred miles off the coast, had been a Japanese colony for fifty years and had just been returned to China. Through 1949 he moved his government there, with about two million soldiers, officials and their families. He also took the gold reserves of the central bank and six hundred thousand of the finest objects from the imperial palace collection, crated up years before to save them from the Japanese. He ruled the island under martial law until his death, still claiming to be the government of all China. The Communists had no fleet that could carry an army after him, and from 1950 an American one stood in the way. Taiwan has governed itself ever since, and the question of whom it belongs to has never been closed.
+Chiang had prepared a refuge. The island of Taiwan, a hundred miles off the coast, had been a Japanese colony for fifty years and had just been returned to China. Through 1949 he moved his government there, with about two million soldiers, officials and their families. He also took the gold reserves of the central bank and nearly four thousand crates of the finest objects from the imperial palace collection, packed years before to save them from the Japanese. He ruled the island under martial law until his death, still claiming to be the government of all China. The Communists had no fleet that could carry an army after him, and from 1950 an American one stood in the way. Taiwan has governed itself ever since, and the question of whom it belongs to has never been closed.
 
 In the United States the news set off a bitter argument over who had "lost" China, as though it had been America's to keep. In Moscow, Mao signed a treaty of alliance with Stalin. The largest country in the world by population had joined the largest by area, and a third of humanity now lived under communist governments.
 
@@ -102,7 +102,7 @@ The new government ended the inflation within a year, by balancing its budget an
 
 One of its first laws dealt with marriage. It banned the sale of brides, the betrothal of children and the keeping of concubines, and declared that a marriage required the free consent of both partners. Women had held the right to ask for a divorce on paper for twenty years. Now village courts enforced it, and in the next few years more than a million used it.
 
-Land reform was carried to the whole country. By the end of 1952 nearly half the farmland of China had been taken from landlords and distributed to three hundred million peasants. It was the largest transfer of property in history. Somewhere between one and two million landlords were killed in the process. In the same years a campaign against "counter-revolutionaries", who included former Nationalist officials, bandits and members of religious sects, ended with the execution of more than seven hundred thousand people. Mao set quotas for it, province by province, as a proportion of the population.
+Land reform was carried to the whole country. By the end of 1952 nearly half the farmland of China had been taken from landlords and distributed to three hundred million peasants. It was one of the largest transfers of property in history. Hundreds of thousands of landlords were killed in the process, and by some counts two million. In the same years a campaign against "counter-revolutionaries", who included former Nationalist officials, bandits and members of religious sects, ended with the execution of more than seven hundred thousand people. Mao set quotas for it, province by province, as a proportion of the population.
 
 At the end of the reform, each family was given a deed to its new fields, a sheet of paper printed with the national flag and stamped with the red seal of the county government. In many houses it was pasted on the wall beside the door. For a people who had rented land for generations, it was the most valuable thing that they had ever owned.
 
