@@ -113,4 +113,4 @@ if os.environ.get("CHECK"):
         m.ax.axhline(y, color="k", lw=0.2, zorder=19)
 
 m.save("chapters/42-constantinople/images/map_constantinople.png" if not os.environ.get("CHECK")
-       else "/tmp/claude-1000/-home-cameron-Projects-human-empire/880837ba-c81e-4e6b-a385-d5025f3c2f35/scratchpad/check39.png")
+       else os.environ["CHECK"])
