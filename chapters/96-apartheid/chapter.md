@@ -26,6 +26,9 @@ The first step was to decide who was what. Every person in the country was enter
 
 On that register the whole structure was built. Marriage and sex across the colour line became crimes. Every town was divided into zones, and each race could live only in its own. Buses, benches, beaches, post office counters and hospital entrances were marked with signs. An African over sixteen had to carry a booklet stamped with permission to be in a white area, and to show it to any policeman who asked. A quarter of a million people a year were arrested for not having it in order.
 
+![A white sign on a post on a beach, with waves and a small boy with a bat behind it. It carries the same notice in three languages, English, Afrikaans and Zulu, reserving the bathing area for the white race group](images/durban_sign.jpg)
+*A sign on a beach in Durban, 1989, in English, Afrikaans and Zulu, reserving the bathing area for the white race group. Photo: Guinnog, CC BY-SA 3.0.*
+
 The schools were remade to fit. The minister responsible, who later became prime minister, explained that there was no place for the African in white society above the level of certain forms of labour. What is the use, he asked, of teaching a Bantu child mathematics when it cannot use it in practice? The state spent ten times as much on a white pupil as on a Black one.
 
 The last step was to make Africans foreigners. The old reserves, now about thirteen per cent of the land, were declared to be ten separate "homelands", one for each African people. Every African was assigned to one of them, whether or not he had ever seen it, and when a homeland was pronounced independent its people lost their South African citizenship. They could then be treated as migrant workers in their own country. Between 1960 and 1983 three and a half million people were moved by force. Police arrived with trucks, loaded the families and their furniture, and flattened the houses with bulldozers. In the middle of Cape Town a lively mixed district of sixty thousand people was declared white and demolished. Much of the ground stayed empty for decades, because few developers cared to build on it.
@@ -41,6 +44,9 @@ There was another tradition to draw on. An Indian lawyer named Gandhi had worked
 
 On 21 March 1960, at the call of a rival movement that had broken away from the Congress, several thousand people gathered outside the police station in the township of Sharpeville, without their pass books, and offered themselves for arrest. The police opened fire. They killed sixty-nine people, and most of the dead were shot in the back as they ran. The government declared an emergency, arrested eighteen thousand people, and banned both movements outright. To belong to it was now a crime.
 
+![Black-and-white photograph of a column of men walking along a path, the man at the front raising an open hand and smiling, with others behind him doing the same and police and onlookers in the background](images/sobukwe.jpg)
+*Robert Sobukwe, who led the movement that called the Sharpeville protest, at the head of a march in 1960 or shortly before. Photo: unknown, public domain.*
+
 ## The spear
 
 Mandela was then forty-one. He came from a royal family of the Thembu people in the rural east, had run away to Johannesburg to escape an arranged marriage, and with a partner had opened a law practice that defended Black clients against the pass laws. He was a commanding, good-humoured man who liked fine suits and had boxed as an amateur.
@@ -51,13 +57,22 @@ He was caught in 1962, after seventeen months on the run. The following year the
 
 The judge gave him life. He was sent to Robben Island, a windy scrap of rock within sight of Cape Town. His cell was about two metres square. For thirteen years he broke stones and dug lime in a quarry whose white glare permanently damaged his eyes. At first he was allowed one letter and one visitor every six months. The prisoners turned the island into a school, in which the graduates taught the others, and the younger men who arrived later called it the university.
 
+![A small bare cell with grey walls, a high window, a low wooden stool with a tin plate and mug on it, a lidded bucket and a rolled blanket on a mat on the concrete floor](images/cell.jpg)
+*The cell on Robben Island where Nelson Mandela was held, photographed in 2007: a stool, a bucket and a mat and blankets on the floor. Photo: Paul Mannix, CC BY-SA 2.0.*
+
 ## Children
 
 For a decade the country was quiet, and it boomed. Foreign money poured in, and white South Africans enjoyed one of the highest standards of living in the world.
 
 Black workers began to strike again in 1973. Then the quiet was broken for good, by schoolchildren. On the morning of 16 June 1976 about twenty thousand pupils in Soweto, the vast Black township outside Johannesburg, marched in their uniforms to protest at an order that half their lessons be taught in Afrikaans, which to them was the language of the police. The police fired into them. One of the first to die was a boy of twelve, and a photograph of a weeping teenager carrying his body, with the boy's sister running alongside, was printed around the world. The townships rose. In the following months several hundred young people were killed, and thousands slipped over the border to join the exiled Congress.
 
+![Newspaper photograph of schoolchildren holding hand-painted placards that read To hell with Afrikaans](images/soweto_signs.jpg)
+*Pupils in Soweto carrying placards that read 'To hell with Afrikaans', June 1976, from a newspaper printed the next day. Photo: unknown, public domain.*
+
 The young had a hero of their own. Steve Biko, a former medical student, taught that Black people must first free their own minds from the belief that they were inferior. In 1977 he was arrested and beaten into a coma. The police drove him, naked and chained, more than a thousand kilometres in the back of a truck to a prison hospital, where he died. The minister of justice told a party meeting that the death left him cold.
+
+![Close newspaper photograph of the face of Steve Biko, a young man with a moustache and short beard](images/biko.jpg)
+*Steve Biko, in a newspaper photograph of about 1977, the year he died in police custody. Photo: Cape Argus, public domain.*
 
 ## Ungovernable
 
@@ -70,6 +85,9 @@ The government sent the army into the townships and declared a state of emergenc
 In August 1985 the president announced that he would make a major speech, and the world expected him to free Mandela. He wagged his finger at the camera and said that he would not lead white South Africans on a road to abdication and suicide. A large American bank had just declined to renew its loans, and now the others followed. South African firms had borrowed heavily for short periods, and were suddenly asked to repay it all. The currency lost a third of its value, and the stock exchange closed.
 
 The pressure from outside had been building for years. Students abroad forced their universities to sell shares in companies that did business in South Africa. Customers boycotted its fruit and its banks. In 1986 the American Congress banned new investment and many imports, overriding the veto of a president who regarded the African National Congress as terrorists. White South Africans, who loved sport above almost everything, had been shut out of world cricket and rugby and the Olympic Games. In 1988 a rock concert in London for Mandela's seventieth birthday was broadcast to more than sixty countries.
+
+![Black-and-white photograph of seven people standing and reading outside the gate of a brick building with a coat of arms, two of them holding posters showing a typewriter and the words Schrijvers tegen apartheid, while a policeman looks on](images/outspan.jpg)
+*Dutch writers outside the South African embassy in The Hague, 18 June 1980, reading poems against apartheid during a boycott of South African oranges. Photo: Rob Croes, Nationaal Archief, CC0.*
 
 ## Tea with the president
 
@@ -89,9 +107,15 @@ The most dangerous day came at Easter in 1993. Chris Hani, the leader of the Com
 
 The bargain that was finally struck gave each side its minimum. There would be one person, one vote, in an undivided country. For the first five years the parties would share power in a single cabinet. White civil servants and soldiers would keep their jobs and pensions, and property would not be seized.
 
+![Black-and-white photograph of two men in suits, F. W. de Klerk on the left and Nelson Mandela on the right, shaking hands in front of a World Economic Forum banner](images/davos.jpg)
+*Nelson Mandela and F. W. de Klerk shaking hands at the World Economic Forum in Davos, Switzerland, January 1992. Photo: World Economic Forum, CC BY-SA 2.0.*
+
 ## The queue
 
 The election was held over four days at the end of April 1994. Nearly twenty million people voted. They stood in lines that wound for kilometres across the hillsides and through the streets, old women in their church clothes, farm workers, servants beside their employers, and many waited all day and came back the next. There was almost no violence. The Congress won sixty-three per cent.
+
+![Black-and-white photograph of Nelson Mandela, smiling, pushing a folded ballot paper into a slot in a white ballot box, with two men standing behind him](images/voting.jpg)
+*Nelson Mandela casting his vote at Ohlange School near Durban, April 1994, the first time he had ever voted. Photo: Paul Weinberg, CC BY-SA 3.0.*
 
 Mandela was sworn in on 10 May, in front of the buildings from which apartheid had been run, and the generals who had hunted him saluted. Among his invited guests was one of his former warders.
 
@@ -102,6 +126,9 @@ He spent his presidency persuading white South Africans that they had a place in
 There remained the question of the past. A defeated regime can be put on trial, but this one had not been defeated. It had negotiated its own departure, and its police and army were still in place.
 
 The answer was a commission, chaired by the Anglican archbishop Desmond Tutu, which sat for more than two years. It offered a trade. Anyone who had committed a political crime, on any side, could apply for amnesty. To receive it, he had to tell the whole truth, and for the worst crimes to tell it at a public hearing. Twenty-one thousand victims gave statements. Mothers learned in the hearing room how their sons had been killed and where the bodies had been burned or buried. Policemen demonstrated their methods of torture on volunteers. The archbishop at one point put his head on the table and wept. Of some seven thousand people who applied for amnesty, about one in eight received it.
+
+![Colour portrait of Archbishop Desmond Tutu, an elderly smiling man with white hair and glasses, in a dark clergyman's shirt with a white collar, with a stained-glass window behind him](images/tutu.jpg)
+*Archbishop Desmond Tutu, who chaired the Truth and Reconciliation Commission, photographed about 2004. Photo: Benny Gool, public domain.*
 
 Many victims felt cheated of justice, and hardly any of those who were refused amnesty, or never applied, were prosecuted. The country did learn what had been done, from the mouths of those who did it, which few nations in such a case have managed.
 
