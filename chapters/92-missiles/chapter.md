@@ -2,13 +2,13 @@
 
 *Cuba, the United States and the Soviet Union, from 1954 to 1963*
 
-The world came closest in the last week of October 1962, after the Soviet Union secretly placed nuclear missiles on the island of Cuba and the United States sent its navy to stop any more from arriving. The two governments settled the matter thirteen days after the American president first saw the evidence. On the most dangerous of those days, the decision passed for a few minutes out of their hands and into those of the officers of a submarine.
+The world came closest in the last week of October 1962, after the Soviet Union secretly placed nuclear missiles on the island of Cuba and the United States sent its navy to stop any more from arriving. The two governments settled the matter within thirteen days of the American president first seeing the evidence. On the most dangerous of those days, the decision passed for a few minutes out of their hands and into those of the officers of a submarine.
 
-On the afternoon of 27 October 1962, the Soviet submarine B-59 was lying a hundred metres down in the Atlantic, north-east of Cuba, and she was in a bad way. She had been at sea for four weeks. Her batteries were almost flat, and her air conditioning had failed. The temperature inside the hull was above forty-five degrees, the air was thick with carbon dioxide, and men on watch were fainting at their posts. She had been out of radio contact with Moscow for days.
+On the afternoon of 27 October 1962, the Soviet submarine B-59 was lying deep in the Atlantic, north-east of Cuba, and she was in a bad way. She had been at sea for four weeks. Her batteries were almost flat, and her air conditioning had failed. The temperature inside the hull was above forty-five degrees, the air was thick with carbon dioxide, and men on watch were fainting at their posts. She had been out of radio contact with Moscow for days.
 
 Above her were eleven American destroyers and an aircraft carrier. They had found her that morning and were dropping small explosive charges into the water to force her to the surface. The American navy had told Moscow that these would be harmless signals. The message had not reached the submarine. To the men inside, each blast sounded like a sledgehammer on an oil drum.
 
-Her captain, exhausted and furious, concluded that the war had already begun over their heads. The submarine carried one torpedo with a nuclear warhead, as powerful as the bomb that had destroyed Hiroshima. An officer who was on board recalled that he ordered it made ready. We will blow them up now, he shouted. We will die, but we will sink them all, and we will not disgrace the navy.
+Her captain, exhausted and furious, concluded that the war had already begun over their heads. The submarine carried one torpedo with a nuclear warhead, nearly as powerful as the bomb that had destroyed Hiroshima. An officer who was on board recalled that he ordered it made ready. We will blow them up now, he shouted. We will die, but we will sink them all, and we will not disgrace the navy.
 
 His orders allowed him to use the weapon without asking Moscow if his boat was attacked and her hull broken open. He was not the senior man aboard. The chief of staff of the flotilla, a quiet officer of thirty-six named Vasili Arkhipov, happened to be travelling in her, and the captain needed his consent. Arkhipov would not give it. He argued that the Americans were signalling and not attacking, and that they should surface and ask Moscow for orders.
 
@@ -22,9 +22,9 @@ In 1944 German engineers had fired the first long-range rockets at London. A roc
 
 That changed the arithmetic of survival. A bomber took eight or ten hours to reach its target and could be called back. A missile took thirty minutes and could not. A leader who believed that he was being attacked would have a quarter of an hour in which to decide whether to fire his own missiles before they were destroyed on the ground.
 
-The Soviet leader, Nikita Khrushchev, boasted that his factories were turning out missiles like sausages. Americans believed him. John Kennedy won the presidency in 1960 partly by accusing the outgoing government of allowing a "missile gap". There was a gap, and it ran the other way. In 1960 the United States had begun launching satellites that photographed the Soviet Union from space and dropped the film by parachute, to be caught in the air by aircraft. By 1962 the pictures showed that the Soviets had only a few dozen long-range missiles. The United States had several times as many, and nine times as many nuclear warheads of all kinds.
+The Soviet leader, Nikita Khrushchev, boasted that his factories were turning out missiles like sausages. Americans believed him. John Kennedy won the presidency in 1960 partly by accusing the outgoing government of allowing a "missile gap". There was a gap, and it ran the other way. In 1960 the United States had begun launching satellites that photographed the Soviet Union from space and dropped the film by parachute, to be caught in the air by aircraft. By 1962 the pictures showed that the Soviets had only a few dozen long-range missiles. The United States had several times as many, and eight times as many nuclear warheads of all kinds.
 
-Khrushchev knew it, and knew by 1961 that the Americans knew it. He also had to look at American missiles stationed just across the Black Sea in Turkey, which could reach Moscow in ten minutes.
+Khrushchev knew it, and knew by 1961 that the Americans knew it. He also had to look at American missiles stationed just across the Black Sea in Turkey, which could reach Moscow in minutes.
 
 ## Bananas
 
@@ -36,7 +36,7 @@ A young Argentine doctor who was living in Guatemala that summer watched it happ
 
 Guevara fled to Mexico, where he met a Cuban lawyer named Fidel Castro.
 
-Cuba lies a hundred and fifty kilometres from the coast of Florida, and since its independence from Spain it had been an American dependency in all but name. American companies owned most of its sugar mills, its telephones, its electricity and its railways. Havana was a playground of casinos and brothels run by American gangsters. The country was ruled by a former sergeant, Fulgencio Batista, who had seized power in a coup and kept it with torture.
+Cuba lies a hundred and fifty kilometres from the coast of Florida, and since its independence from Spain it had been an American dependency in all but name. American companies owned its largest sugar mills, its telephones, its electricity and half its railways. Havana was a playground of casinos and brothels run by American gangsters. The country was ruled by a former sergeant, Fulgencio Batista, who had seized power in a coup and kept it with torture.
 
 In December 1956 Castro, Guevara and eighty others sailed from Mexico in a leaking motor yacht built for twelve. The army was waiting. About twenty survived to reach the mountains at the eastern end of the island. From there, over two years, they built a guerrilla army among the peasants, while Batista's forces, which nobody wished to die for, fell apart. On New Year's Day 1959 the dictator fled, and Castro entered Havana a week later, at thirty-two, as the most popular man in Latin America.
 
@@ -52,7 +52,7 @@ It was to be done in secret and announced when the missiles were ready. Through 
 
 ## Photographs
 
-On 14 October an American spy plane flying at twenty-one kilometres above western Cuba photographed a clearing in a palm forest. The film showed long canvas-covered trailers, launch stands and fuel trucks, laid out in a pattern that the analysts recognised from pictures of missile bases in the Soviet Union.
+On 14 October an American spy plane flying more than twenty kilometres above western Cuba photographed a clearing in a palm forest. The film showed long canvas-covered trailers, launch stands and fuel trucks, laid out in a pattern that the analysts recognised from pictures of missile bases in the Soviet Union.
 
 Kennedy was shown the photographs in his bedroom on the morning of the sixteenth. For six days he met in secret with about a dozen advisers. Nearly all of them began by favouring an air strike to destroy the missiles, followed by an invasion. The chief of the air force told the president that anything less would be almost as bad as the surrender to Hitler before the war.
 
@@ -74,7 +74,7 @@ The next morning a second letter was broadcast on Moscow radio, colder in tone. 
 
 That day, the twenty-seventh, was the one on which control began to slip.
 
-In the morning an American spy plane over eastern Cuba was hit by a Soviet anti-aircraft missile, and its pilot was killed. The order to fire had been given by a Soviet general on the island, on his own authority, against instructions. Kennedy's advisers had agreed beforehand that if a plane was shot down, the battery responsible would be bombed. The president held off.
+In the morning an American spy plane over eastern Cuba was hit by a Soviet anti-aircraft missile, and its pilot was killed. The order to fire had been given by Soviet officers on the island, on their own authority, against instructions. Kennedy's advisers had agreed beforehand that if a plane was shot down, the battery responsible would be bombed. The president held off.
 
 At about the same hour another American spy plane, on a flight to the North Pole to sample the air for traces of nuclear tests, was blinded by the northern lights, lost its way, and wandered deep into Soviet airspace over Siberia. Soviet fighters rose to shoot it down. American fighters were sent to escort it home, armed, because of the alert, with nuclear-tipped missiles. The pilot glided back to Alaska with empty tanks.
 
@@ -92,13 +92,13 @@ Castro heard the news from a journalist. Nobody had asked him. He kicked a wall 
 
 The world was told that Kennedy had stood firm and that Khrushchev had backed down. The American government did not admit the Turkish half of the bargain for more than twenty-five years. A generation of American politicians therefore learned that the way to deal with Moscow was to refuse all compromise, when in fact the crisis had ended in a trade.
 
-The men who had advised an invasion did not learn until 1992 what it would have met. At a meeting in Havana that year, a retired Soviet general told Kennedy's former secretary of defence about the hundred battlefield nuclear weapons, and said that the local commander had been prepared to use them on the landing beaches. The American turned pale. He said afterwards that it had been luck that prevented nuclear war, and nothing else.
+The men who had advised an invasion did not learn until 1992 what it would have met. At a meeting in Havana that year, a retired Soviet general told Kennedy's former secretary of defence about the hundred battlefield nuclear weapons, and said that the local commander had been prepared to use them on the landing beaches. The American said afterwards that it had been luck that prevented nuclear war, and nothing else.
 
 ## Afterwards
 
 Both leaders had been sobered. During the crisis their messages had taken up to twelve hours to encode, deliver and translate. In 1963 a direct teleprinter line was installed between Washington and Moscow. That summer the two countries and Britain signed a treaty banning nuclear tests in the air, in space and under the sea, which put a stop to most of the fallout that had been turning up in children's milk teeth all over the world.
 
-Kennedy was shot dead in November 1963. Khrushchev was removed by his colleagues a year later, and the list of his offences included the reckless adventure in Cuba. His successors resolved never again to bargain from weakness. Over the next twenty years they built missiles until the Soviet Union had as many as the United States, and then more. At the peak, in the 1980s, the two countries held about sixty thousand nuclear warheads.
+Kennedy was shot dead in November 1963. Khrushchev was removed by his colleagues a year later, and the list of his offences included the reckless adventure in Cuba. His successors resolved never again to bargain from weakness. Over the next twenty years they built missiles until the Soviet Union had as many as the United States, and then more. At the peak, in the 1980s, the two countries held more than sixty thousand nuclear warheads.
 
 Cuba was not invaded. Castro governed it for almost fifty years, through ten American presidents, and the ban on trade that was meant to bring him down is still in force.
 
