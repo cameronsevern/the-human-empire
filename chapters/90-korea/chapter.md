@@ -66,6 +66,9 @@ It was the coldest winter in years. Around a frozen reservoir in the northern mo
 
 Then the Chinese outran their supplies in turn. By the spring of 1951 Seoul had changed hands for the fourth time, and the front had come to rest close to the thirty-eighth parallel, where it had all started.
 
+![Four maps of the Korean peninsula, with the land held by the North shaded red and by the South and the United Nations shaded blue. June 1950: the front on the 38th parallel, with arrows of the northern invasion towards Seoul. September 1950: the North holds all but a small pocket round Pusan, and an arrow shows the landing at Inchon. November 1950: the United Nations forces hold almost everything up to a line near the Yalu, and arrows show the Chinese attack. July 1953: the armistice line runs near the 38th parallel past Panmunjom, a little south of it in the west and north of it in the east](images/map_korea_fronts.png)
+*The front in Korea in June 1950, September 1950, November 1950 and July 1953, roughly, with the 38th parallel dashed. Map: drawn for this book; coastlines and rivers from Natural Earth, public domain.*
+
 ## The general
 
 MacArthur could not accept a draw. He wanted to bomb the bases and factories of China, blockade its coast, and bring Chiang Kai-shek's army over from Taiwan. In confidential messages he asked for atomic bombs. He criticised the policy of his own government in public, and in a letter to a congressman that was read out in the House, he declared that there was no substitute for victory.

@@ -36,6 +36,9 @@ Germany was where the two pressed hardest against each other, and it split along
 
 That same year the United States and its allies signed the treaty that bound them to defend one another. It is known as NATO. The Soviet Union later formed an alliance of its own from the states that it controlled, the Warsaw Pact. For the next forty years, the two largest armies ever assembled in peacetime faced each other across a fence that ran through the fields and forests of the middle of Germany.
 
+![Map of Europe in 1955. NATO countries, from Iceland, Norway and Britain to Portugal, Italy, Greece, Turkey and West Germany, are shaded blue; the Warsaw Pact, from East Germany, Poland and Czechoslovakia to Hungary, Romania, Bulgaria, Albania and the Soviet Union, is shaded red; Sweden, Finland, Ireland, Switzerland and Austria are hatched as neutral; Spain and Yugoslavia are in neither. A dashed iron curtain runs from the Baltic through Germany to the Black Sea, with West Berlin as a blue dot inside East Germany. Below, one panel shows the two Germanies and the three air corridors from West Berlin to Hamburg, Hanover and Frankfurt; another shows Berlin's Soviet, American, British and French sectors, with Tempelhof airfield](images/map_europe_1955.png)
+*Europe in 1955, roughly: the two alliances, the neutral states, the iron curtain and the border between the two Germanies; below, West Berlin's three air corridors through East Germany, and the four sectors of Berlin. Map: drawn for this book; coastlines and rivers from Natural Earth, public domain. Berlin's districts from OpenStreetMap.*
+
 ## Duck and cover
 
 Many American leaders had assumed that their monopoly of the atomic bomb would last for ten years or more. It lasted four. In August 1949 the Soviet Union exploded a copy of the bomb that had been dropped on Nagasaki, built with the help of designs passed to Moscow by a physicist who had worked on the original.

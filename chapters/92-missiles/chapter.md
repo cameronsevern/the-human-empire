@@ -58,6 +58,9 @@ Kennedy was shown the photographs in his bedroom on the morning of the sixteenth
 
 Kennedy was not persuaded. The air force could not promise to hit every missile, and those left might be fired. Soviet soldiers would be killed, and Khrushchev would have to answer, most likely by seizing West Berlin. Then it would be America's turn. He chose something slower. The navy would stop ships bound for Cuba and turn back any that carried missiles or bombers. A blockade is an act of war in law, so it was called a quarantine.
 
+![Map of Cuba, Florida and the south-eastern United States. Missile sites are marked in western and central Cuba, near Havana; a dashed circle of 2,000 kilometres around them reaches past Washington; a dotted arc in the Atlantic north-east of Cuba marks the quarantine line. The Bay of Pigs is marked on Cuba's south coast and the American base at Guantánamo at its eastern end. An inset shows Turkey, with a dashed line from the Jupiter missiles near Izmir to Moscow, about 2,100 kilometres away](images/map_cuba_1962.png)
+*Cuba in October 1962: the Soviet missile sites and the range of the medium-range missiles, the quarantine line, roughly, the Bay of Pigs and Guantánamo; inset, the American Jupiter missiles in Turkey, within range of Moscow. Map: drawn for this book; coastlines and rivers from Natural Earth, public domain.*
+
 On the evening of 22 October he told the country on television. He said that any missile launched from Cuba would be treated as an attack by the Soviet Union on the United States, requiring a full response. Two days later, for the only time in its history, the American bomber and missile command was moved to the last stage of alert before war. Bombers loaded with hydrogen bombs circled over the Arctic and the Mediterranean in shifts, waiting for a code word.
 
 ## Eyeball to eyeball

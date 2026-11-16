@@ -32,6 +32,9 @@ They walked for a year, in a vast loop through the mountains and marshes of west
 
 During the march Mao became the dominant figure in the party, and within a few years he was its unchallenged leader, which he remained until his death. The survivors settled in the bare hills of the north-west, and soon made their capital in the dusty town of Yan'an, where they lived in caves cut into the hillsides. An American journalist reached them in 1936 and wrote a book that described a band of cheerful, honest young men who shared everything and meant to fight Japan. It was the first that most of the world had heard of them.
 
+![Map of eastern China, 1934 to 1949. A small Communist base on the Jiangxi-Fujian border in the south-east; the dashed route of the Long March looping west through Guizhou and Yunnan, north along the edge of Tibet and east to Yan'an; the land held by Japan in 1940, covering Manchuria, Korea, Taiwan and the north and east of China to the lower Yangtze; hatched Communist areas of 1945 around Yan'an and scattered behind the Japanese lines in the north and east; crosses for the battles of 1948 near Changchun and Shenyang, round Xuzhou and at Tianjin; and an arrow from Shanghai to Taiwan for Chiang's retreat in 1949. Beijing, Nanjing, Chongqing and Xi'an are marked](images/map_china_1949.png)
+*China, 1934 to 1949, roughly: the Communist base in the south-east until 1934, the Long March to the north-west, the land held by Japan in 1940, the Communist areas of 1945, the great battles of 1948 and 1949, and the Nationalist retreat to Taiwan. Map: drawn for this book; coastlines and rivers from Natural Earth, public domain.*
+
 ## Kidnapped
 
 Japan had seized the north-eastern provinces in 1931 and was pressing steadily south. Chiang had decided that he could not fight Japan until he had finished with the Communists. The Japanese, he said, were a disease of the skin, and the Communists a disease of the heart.

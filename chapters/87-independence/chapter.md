@@ -22,6 +22,9 @@ The war had also changed the colonial soldiers. Millions of Indians, Africans an
 
 Finally there was money. Britain and France came out of the war deep in debt, with their cities to rebuild and their voters demanding houses, pensions and hospitals. India, the largest colony of all, went in 1947. After that the question for the others was when, and how.
 
+![Map of Africa and Asia with modern borders, each country shaded by the decade in which it left colonial rule: India, Pakistan, Burma, Indonesia and the Philippines in the late 1940s; Ghana, Sudan and the countries of Indochina in the 1950s; most of Africa, including Algeria, Congo and Kenya, in the 1960s; Angola, Mozambique and Zimbabwe in the 1970s. Namibia, Eritrea and Western Sahara are hatched as later; Egypt, Ethiopia, Liberia, South Africa, Turkey, Iran, China and Japan are grey as already independent. Bandung is marked in Java](images/map_independence.png)
+*Africa and Asia, with each country shaded by the decade in which colonial rule there ended, 1945 to 1980, on modern borders; Bangladesh and South Sudan are dated with Pakistan and Sudan, of which they were then part. Map: drawn for this book; coastlines and rivers from Natural Earth, public domain.*
+
 ## Prison graduate
 
 The Gold Coast was thought to be the most contented colony in Africa. It grew more cocoa than any other country in the world, on farms owned by Africans. It had good schools, an educated class of lawyers and clergymen, and no white settlers.

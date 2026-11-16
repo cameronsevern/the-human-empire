@@ -44,6 +44,9 @@ By the winter of 1959 the canteens were empty. People ate bark, roots and a whit
 
 In three years about thirty million people died. One historian, working from provincial archives and counting those who were beaten or worked to death over four years, puts the figure at forty-five million. It was the worst famine in history, and it happened in peacetime, in weather no worse than China had often known, under a government that controlled every part of the country.
 
+![Line chart of births and deaths per thousand people in China from 1950 to 1970. Births fall from about 37 in the mid 1950s to 18 in 1961, then leap to 43 in 1963; deaths fall to about 11 by 1957, then rise to 25.4 in 1960, above the birth rate, before falling to under 10. The years 1959 to 1961 are shaded as the famine](images/chart_famine.png)
+*Births and deaths per thousand people in China, 1950 to 1970; in 1960 deaths outnumbered births. Chart: drawn for this book; data from China's State Statistical Bureau, China Statistical Yearbook and China Population Statistical Yearbook, as tabulated in English Wikipedia's "Demographics of China".*
+
 ## A black cat or a white cat
 
 By 1961 the men who ran the party from day to day had had enough. The head of state, Liu Shaoqi, a pale, methodical organiser who had been Mao's deputy for twenty years, visited his own home district and came back shaken. At the start of 1962 he told a conference of seven thousand officials that the disaster was three parts natural and seven parts man-made. To Mao's face he said that history would record the part that the two of them had played, and that the eating of human flesh would go into the books.
