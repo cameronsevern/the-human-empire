@@ -8,7 +8,7 @@ A little before five o'clock on the morning of 24 February 2022, Russian state t
 
 Nearly every government in the world expected Ukraine to be beaten in a week. The Americans had moved their embassy out and had offered to fly the Ukrainian president to safety. Russian officers were found afterwards to have packed their parade uniforms.
 
-On the second night a short video appeared on the internet. It had been filmed on a telephone, in the dark, in the street outside the presidential offices in the middle of Kyiv. Five unshaven men in olive-green fleeces stood facing the camera. The one in front was Volodymyr Zelensky, the president. He pointed to each of the others in turn: the leader of his party in parliament, the head of his office, the prime minister. We are all here, he said. Our soldiers are here. The citizens are here. We are defending our independence.
+On the second night a short video appeared on the internet. It had been filmed on a telephone, in the dark, in the street outside the presidential offices in the middle of Kyiv. Five unshaven men in olive-green fleeces stood facing the camera. The one in front was Volodymyr Zelensky, the president. He pointed to each of the others in turn: the leader of his party in parliament, the head of his office, the prime minister, an adviser. We are all here, he said. Our soldiers are here. The citizens are here. We are defending our independence.
 
 ## The same cradle
 
