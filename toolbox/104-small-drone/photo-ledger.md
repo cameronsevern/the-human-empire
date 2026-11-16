@@ -1,0 +1,3 @@
+| File | What it shows | Commons page | Author | Licence |
+|---|---|---|---|---|
+| toolbox/104-small-drone/photo-fpv-crew.jpg | Two soldiers of Ukraine's 25th Sicheslav Airborne Brigade kneeling on a sandy track among grass, 21 July 2023: on the left one in a blue-covered helmet holds a small black four-rotor FPV strike drone with tall aerials; on the right the pilot, FPV goggles on his head, holds a hand controller with an aerial. Not a file used in chapter 104 (which has only a drawn map). Original size 1200x658 | https://commons.wikimedia.org/wiki/File:UA_FPV_strike_drones_01.jpg | ArmyInform (АрміяInform) | CC BY 4.0 |

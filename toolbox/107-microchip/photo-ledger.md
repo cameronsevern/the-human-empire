@@ -1,0 +1,3 @@
+| File | What it shows | Commons page | Author | Licence |
+|---|---|---|---|---|
+| toolbox/107-microchip/photo-micrologic.jpg | Close-up of two Fairchild Milliwatt Micrologic integrated circuits (resistor-transistor logic, series designed by Don Farina in 1963) in round metal-can packages standing on long gold-plated legs against a dark background, caps lettered in white (one reads 1428), April 2017. Not a file used in chapter 107 (which has only a drawn diagram and chart). Commons thumbnail 1280x853 | https://commons.wikimedia.org/wiki/File:Fairchild_Milliwatt_Micrologic_series_(01).jpg | 155LA3 | CC BY 4.0 |

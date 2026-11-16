@@ -1,0 +1,3 @@
+| File | What it shows | Commons page | Author | Licence |
+|---|---|---|---|---|
+| toolbox/101-shipping-container/photo-sealand-danang.jpg | US Army colour photograph, 29 September 1967 (NARA 111-CCV-154-CC43894): a weathered grey Sea-Land 35-foot container, number 24 302, just lowered onto a red Fruehauf truck chassis on a wooden quay at Da Nang, Vietnam, seen from the rear corner; part of the crane's lifting frame on its roof, the side of a Sea-Land ship behind, a soldier by the cab. Not a file used in chapter 101 (which has only a drawn chart). Commons thumbnail 1280x1020 | https://commons.wikimedia.org/wiki/File:Sea-land_35-foot_container_loaded_onto_a_truck_at_Danang.jpg | SSG James I. Hatton, US Army | Public domain |

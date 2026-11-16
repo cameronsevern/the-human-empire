@@ -1,0 +1,119 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" font-family="Georgia, 'Noto Serif', serif">
+<defs>
+<!-- paper: fine grain plus slow blotches -->
+<filter id="paper" x="0" y="0" width="100%" height="100%">
+<feTurbulence type="fractalNoise" baseFrequency="0.8" numOctaves="3" seed="3" result="grain"/>
+<feColorMatrix in="grain" type="matrix" values="0 0 0 0 0.45  0 0 0 0 0.36  0 0 0 0 0.24  0 0 0 0.9 -0.42" result="g2"/>
+<feTurbulence type="fractalNoise" baseFrequency="0.006" numOctaves="2" seed="8" result="blot"/>
+<feColorMatrix in="blot" type="matrix" values="0 0 0 0 0.55  0 0 0 0 0.42  0 0 0 0 0.25  0 0 0 0.55 -0.2" result="b2"/>
+<feMerge><feMergeNode in="SourceGraphic"/><feMergeNode in="b2"/><feMergeNode in="g2"/></feMerge>
+</filter>
+<!-- ink: a slight wobble in every line, a soft bleed of colour under it, and mottling inside the washes -->
+<filter id="ink" x="-5%" y="-5%" width="110%" height="110%">
+<feTurbulence type="fractalNoise" baseFrequency="0.018" numOctaves="2" seed="5" result="warp"/>
+<feDisplacementMap in="SourceGraphic" in2="warp" scale="5" xChannelSelector="R" yChannelSelector="G" result="drawn"/>
+<feGaussianBlur in="drawn" stdDeviation="7" result="bleed0"/>
+<feComponentTransfer in="bleed0" result="bleed"><feFuncA type="linear" slope="0.38"/></feComponentTransfer>
+<feTurbulence type="fractalNoise" baseFrequency="0.011" numOctaves="2" seed="11" result="wash"/>
+<feColorMatrix in="wash" type="matrix" values="0 0 0 0 0.35  0 0 0 0 0.25  0 0 0 0 0.15  0 0 0 0.75 -0.3" result="w2"/>
+<feComposite in="w2" in2="drawn" operator="in" result="mottle"/>
+<feMorphology in="drawn" operator="erode" radius="2.5" result="inner"/>
+<feComposite in="drawn" in2="inner" operator="out" result="rim0"/>
+<feColorMatrix in="rim0" type="matrix" values="0 0 0 0 0.3  0 0 0 0 0.22  0 0 0 0 0.15  0 0 0 0.16 0" result="rim"/>
+<feOffset in="drawn" dx="5" dy="7" result="off"/>
+<feGaussianBlur in="off" stdDeviation="5" result="sh0"/>
+<feColorMatrix in="sh0" type="matrix" values="0 0 0 0 0.25  0 0 0 0 0.2  0 0 0 0 0.15  0 0 0 0.22 0" result="shadow"/>
+<feMerge><feMergeNode in="shadow"/><feMergeNode in="bleed"/><feMergeNode in="drawn"/><feMergeNode in="mottle"/><feMergeNode in="rim"/></feMerge>
+</filter>
+<radialGradient id="vig" cx="50%" cy="50%" r="75%"><stop offset="60%" stop-color="#6b4a2a" stop-opacity="0"/><stop offset="100%" stop-color="#6b4a2a" stop-opacity="0.22"/></radialGradient>
+</defs>
+<rect width="1200" height="760" fill="#faf6ee" filter="url(#paper)"/>
+<rect width="1200" height="760" fill="url(#vig)"/>
+<rect x="14" y="14" width="1172" height="732" fill="none" stroke="#2f2a26" stroke-width="2"/>
+<rect x="20" y="20" width="1160" height="720" fill="none" stroke="#2f2a26" stroke-width="0.7"/>
+<text x="44" y="64" font-size="30" font-weight="bold" fill="#2f2a26" letter-spacing="3">THE PAYMENT CARD</text>
+<line x1="44" y1="76" x2="104" y2="76" stroke="#b5523b" stroke-width="3"/>
+<text x="44" y="104" font-size="20" font-style="italic" fill="#8a8178">A card, back and front, and the path of one payment, 2020s</text>
+<g filter="url(#ink)">
+<path d="M 78,168 L 442,168 Q 460,168 460,186 L 460,402.2 Q 460,420.2 442,420.2 L 78,420.2 Q 60,420.2 60,402.2 L 60,186 Q 60,168 78,168 Z" fill="#5b7a90" stroke="#2f2a26" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 60.0,194.0 L 460.0,194.0 L 460.0,244.0 L 60.0,244.0 Z" fill="#b5523b" stroke="#2f2a26" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="64" y1="210.66666666666666" x2="456" y2="210.66666666666666" stroke="#8e3c2b" stroke-width="1" stroke-linecap="round"/>
+<line x1="64" y1="227.33333333333334" x2="456" y2="227.33333333333334" stroke="#8e3c2b" stroke-width="1" stroke-linecap="round"/>
+<path d="M 84.0,260.0 L 290.0,260.0 L 290.0,292.0 L 84.0,292.0 Z" fill="#f2efe6" stroke="#2f2a26" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 128,268 L 492,268 Q 510,268 510,286 L 510,502.20000000000005 Q 510,520.2 492,520.2 L 128,520.2 Q 110,520.2 110,502.20000000000005 L 110,286 Q 110,268 128,268 Z" fill="#6f8fa6" stroke="#2f2a26" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 166,346 L 220,346 Q 228,346 228,354 L 228,392 Q 228,400 220,400 L 166,400 Q 158,400 158,392 L 158,354 Q 158,346 166,346 Z" fill="#d9b25a" stroke="#2f2a26" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="193" y1="346" x2="193" y2="400" stroke="#2f2a26" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="158" y1="364" x2="182" y2="364" stroke="#2f2a26" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="204" y1="364" x2="228" y2="364" stroke="#2f2a26" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="158" y1="382" x2="182" y2="382" stroke="#2f2a26" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="204" y1="382" x2="228" y2="382" stroke="#2f2a26" stroke-width="1.2" stroke-linecap="round"/>
+<path d="M 182.0,360.0 L 204.0,360.0 L 204.0,386.0 L 182.0,386.0" fill="none" stroke="#2f2a26" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 455.0,318 A 10 10 0 0 1 455.0,338" fill="none" stroke="#f4f1ea" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 459.0,310 A 18 18 0 0 1 459.0,346" fill="none" stroke="#f4f1ea" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 463.0,302 A 26 26 0 0 1 463.0,354" fill="none" stroke="#f4f1ea" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="150" y1="454" x2="242" y2="454" stroke="#b5523b" stroke-width="3" stroke-linecap="round"/>
+<path d="M 30.0,610.0 L 240.0,610.0 L 240.0,676.0 L 30.0,676.0 Z" fill="#efe6d0" stroke="#2f2a26" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 320.0,610.0 L 530.0,610.0 L 530.0,676.0 L 320.0,676.0 Z" fill="#efe6d0" stroke="#2f2a26" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 610.0,610.0 L 820.0,610.0 L 820.0,676.0 L 610.0,676.0 Z" fill="#efe6d0" stroke="#2f2a26" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 900.0,610.0 L 1110.0,610.0 L 1110.0,676.0 L 900.0,676.0 Z" fill="#efe6d0" stroke="#2f2a26" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="247" y1="626" x2="313" y2="626" stroke="#2f2a26" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="313" y1="626" x2="299.2897799460968" y2="634.2480219491434" stroke="#2f2a26" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="313" y1="626" x2="299.2897799460968" y2="617.7519780508566" stroke="#2f2a26" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="313" y1="662" x2="247" y2="662" stroke="#2f2a26" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="247" y1="662" x2="260.71022005390313" y2="653.7519780508566" stroke="#2f2a26" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="247" y1="662" x2="260.7102200539032" y2="670.2480219491434" stroke="#2f2a26" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="537" y1="626" x2="603" y2="626" stroke="#2f2a26" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="603" y1="626" x2="589.2897799460968" y2="634.2480219491434" stroke="#2f2a26" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="603" y1="626" x2="589.2897799460968" y2="617.7519780508566" stroke="#2f2a26" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="603" y1="662" x2="537" y2="662" stroke="#2f2a26" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="537" y1="662" x2="550.7102200539032" y2="653.7519780508566" stroke="#2f2a26" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="537" y1="662" x2="550.7102200539032" y2="670.2480219491434" stroke="#2f2a26" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="827" y1="626" x2="893" y2="626" stroke="#2f2a26" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="893" y1="626" x2="879.2897799460968" y2="634.2480219491434" stroke="#2f2a26" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="893" y1="626" x2="879.2897799460968" y2="617.7519780508566" stroke="#2f2a26" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="893" y1="662" x2="827" y2="662" stroke="#2f2a26" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="827" y1="662" x2="840.7102200539032" y2="653.7519780508566" stroke="#2f2a26" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="827" y1="662" x2="840.7102200539032" y2="670.2480219491434" stroke="#2f2a26" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="440" y1="218" x2="560" y2="190" stroke="#2f2a26" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="440" cy="218" r="4" fill="#2f2a26" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="560" cy="190" r="19" fill="#faf6ee" stroke="#2f2a26" stroke-width="2"/>
+<line x1="218" y1="392" x2="560" y2="310" stroke="#2f2a26" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="218" cy="392" r="4" fill="#2f2a26" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="560" cy="310" r="19" fill="#faf6ee" stroke="#2f2a26" stroke-width="2"/>
+<line x1="160" y1="454" x2="560" y2="447" stroke="#2f2a26" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="160" cy="454" r="4" fill="#2f2a26" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="560" cy="447" r="19" fill="#faf6ee" stroke="#2f2a26" stroke-width="2"/>
+<line x1="715" y1="676" x2="700" y2="714" stroke="#2f2a26" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="715" cy="676" r="4" fill="#2f2a26" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="700" cy="714" r="19" fill="#faf6ee" stroke="#2f2a26" stroke-width="2"/>
+<line x1="1060" y1="610" x2="1150" y2="520" stroke="#2f2a26" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="1060" cy="610" r="4" fill="#2f2a26" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="1150" cy="520" r="19" fill="#faf6ee" stroke="#2f2a26" stroke-width="2"/>
+</g>
+<text x="150" y="446" font-size="27" fill="#f4f1ea" font-family="DejaVu Sans Mono, monospace" letter-spacing="1">4000 1234 5678 9010</text>
+<text x="150" y="480" font-size="16" fill="#f4f1ea" font-family="DejaVu Sans Mono, monospace">VALID 09/29   A N OTHER</text>
+<text x="310" y="558.2" text-anchor="middle" font-size="18" fill="#8a8178" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-style="italic">a card, 85.6 by 54 mm</text>
+<text x="135" y="638" text-anchor="middle" font-size="19" fill="#2f2a26" stroke="#efe6d0" stroke-width="7" paint-order="stroke" stroke-linejoin="round">the shop's</text>
+<text x="135" y="665" text-anchor="middle" font-size="19" fill="#2f2a26" stroke="#efe6d0" stroke-width="7" paint-order="stroke" stroke-linejoin="round">terminal</text>
+<text x="425" y="638" text-anchor="middle" font-size="19" fill="#2f2a26" stroke="#efe6d0" stroke-width="7" paint-order="stroke" stroke-linejoin="round">the shop's</text>
+<text x="425" y="665" text-anchor="middle" font-size="19" fill="#2f2a26" stroke="#efe6d0" stroke-width="7" paint-order="stroke" stroke-linejoin="round">bank</text>
+<text x="715" y="638" text-anchor="middle" font-size="19" fill="#2f2a26" stroke="#efe6d0" stroke-width="7" paint-order="stroke" stroke-linejoin="round">the card</text>
+<text x="715" y="665" text-anchor="middle" font-size="19" fill="#2f2a26" stroke="#efe6d0" stroke-width="7" paint-order="stroke" stroke-linejoin="round">network</text>
+<text x="1005" y="638" text-anchor="middle" font-size="19" fill="#2f2a26" stroke="#efe6d0" stroke-width="7" paint-order="stroke" stroke-linejoin="round">the cardholder's</text>
+<text x="1005" y="665" text-anchor="middle" font-size="19" fill="#2f2a26" stroke="#efe6d0" stroke-width="7" paint-order="stroke" stroke-linejoin="round">bank</text>
+<text x="570" y="596" text-anchor="middle" font-size="17" fill="#8a8178" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-style="italic">the question goes out, the answer comes back</text>
+<text x="560" y="197" text-anchor="middle" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">1</text>
+<text x="590" y="197" text-anchor="start" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">The stripe holds the number</text>
+<text x="590" y="224" text-anchor="start" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">in three magnetic tracks</text>
+<text x="560" y="317" text-anchor="middle" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">2</text>
+<text x="590" y="317" text-anchor="start" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">The chip works out a fresh</text>
+<text x="590" y="344" text-anchor="start" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">code for every payment</text>
+<text x="560" y="454" text-anchor="middle" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">3</text>
+<text x="590" y="454" text-anchor="start" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">The first digits name</text>
+<text x="590" y="481" text-anchor="start" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">the bank that issued it</text>
+<text x="700" y="721" text-anchor="middle" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">4</text>
+<text x="670" y="721" text-anchor="end" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">The network routes the question to that bank</text>
+<text x="1150" y="527" text-anchor="middle" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">5</text>
+<text x="1120" y="527" text-anchor="end" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">The cardholder's bank</text>
+<text x="1120" y="554" text-anchor="end" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">says yes or no</text>
+</svg>

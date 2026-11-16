@@ -1,0 +1,140 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" font-family="Georgia, 'Noto Serif', serif">
+<defs>
+<!-- paper: fine grain plus slow blotches -->
+<filter id="paper" x="0" y="0" width="100%" height="100%">
+<feTurbulence type="fractalNoise" baseFrequency="0.8" numOctaves="3" seed="3" result="grain"/>
+<feColorMatrix in="grain" type="matrix" values="0 0 0 0 0.45  0 0 0 0 0.36  0 0 0 0 0.24  0 0 0 0.9 -0.42" result="g2"/>
+<feTurbulence type="fractalNoise" baseFrequency="0.006" numOctaves="2" seed="8" result="blot"/>
+<feColorMatrix in="blot" type="matrix" values="0 0 0 0 0.55  0 0 0 0 0.42  0 0 0 0 0.25  0 0 0 0.55 -0.2" result="b2"/>
+<feMerge><feMergeNode in="SourceGraphic"/><feMergeNode in="b2"/><feMergeNode in="g2"/></feMerge>
+</filter>
+<!-- ink: a slight wobble in every line, a soft bleed of colour under it, and mottling inside the washes -->
+<filter id="ink" x="-5%" y="-5%" width="110%" height="110%">
+<feTurbulence type="fractalNoise" baseFrequency="0.018" numOctaves="2" seed="5" result="warp"/>
+<feDisplacementMap in="SourceGraphic" in2="warp" scale="5" xChannelSelector="R" yChannelSelector="G" result="drawn"/>
+<feGaussianBlur in="drawn" stdDeviation="7" result="bleed0"/>
+<feComponentTransfer in="bleed0" result="bleed"><feFuncA type="linear" slope="0.38"/></feComponentTransfer>
+<feTurbulence type="fractalNoise" baseFrequency="0.011" numOctaves="2" seed="11" result="wash"/>
+<feColorMatrix in="wash" type="matrix" values="0 0 0 0 0.35  0 0 0 0 0.25  0 0 0 0 0.15  0 0 0 0.75 -0.3" result="w2"/>
+<feComposite in="w2" in2="drawn" operator="in" result="mottle"/>
+<feMorphology in="drawn" operator="erode" radius="2.5" result="inner"/>
+<feComposite in="drawn" in2="inner" operator="out" result="rim0"/>
+<feColorMatrix in="rim0" type="matrix" values="0 0 0 0 0.3  0 0 0 0 0.22  0 0 0 0 0.15  0 0 0 0.16 0" result="rim"/>
+<feOffset in="drawn" dx="5" dy="7" result="off"/>
+<feGaussianBlur in="off" stdDeviation="5" result="sh0"/>
+<feColorMatrix in="sh0" type="matrix" values="0 0 0 0 0.25  0 0 0 0 0.2  0 0 0 0 0.15  0 0 0 0.22 0" result="shadow"/>
+<feMerge><feMergeNode in="shadow"/><feMergeNode in="bleed"/><feMergeNode in="drawn"/><feMergeNode in="mottle"/><feMergeNode in="rim"/></feMerge>
+</filter>
+<radialGradient id="vig" cx="50%" cy="50%" r="75%"><stop offset="60%" stop-color="#6b4a2a" stop-opacity="0"/><stop offset="100%" stop-color="#6b4a2a" stop-opacity="0.22"/></radialGradient>
+</defs>
+<rect width="1200" height="760" fill="#faf6ee" filter="url(#paper)"/>
+<rect width="1200" height="760" fill="url(#vig)"/>
+<rect x="14" y="14" width="1172" height="732" fill="none" stroke="#2f2a26" stroke-width="2"/>
+<rect x="20" y="20" width="1160" height="720" fill="none" stroke="#2f2a26" stroke-width="0.7"/>
+<text x="44" y="64" font-size="30" font-weight="bold" fill="#2f2a26" letter-spacing="3">THE MICROCHIP</text>
+<line x1="44" y1="76" x2="104" y2="76" stroke="#b5523b" stroke-width="3"/>
+<text x="44" y="104" font-size="20" font-style="italic" fill="#8a8178">A chip in its package, lid cut away, and one transistor enlarged, 1970s</text>
+<g filter="url(#ink)">
+<path d="M 131.0,284.0 L 149.0,284.0 L 149.0,330.0 L 131.0,330.0 Z" fill="#c4c9cc" stroke="#2f2a26" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 131.0,500.0 L 149.0,500.0 L 149.0,546.0 L 131.0,546.0 Z" fill="#c4c9cc" stroke="#2f2a26" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 193.0,284.0 L 211.0,284.0 L 211.0,330.0 L 193.0,330.0 Z" fill="#c4c9cc" stroke="#2f2a26" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 193.0,500.0 L 211.0,500.0 L 211.0,546.0 L 193.0,546.0 Z" fill="#c4c9cc" stroke="#2f2a26" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 255.0,284.0 L 273.0,284.0 L 273.0,330.0 L 255.0,330.0 Z" fill="#c4c9cc" stroke="#2f2a26" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 255.0,500.0 L 273.0,500.0 L 273.0,546.0 L 255.0,546.0 Z" fill="#c4c9cc" stroke="#2f2a26" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 317.0,284.0 L 335.0,284.0 L 335.0,330.0 L 317.0,330.0 Z" fill="#c4c9cc" stroke="#2f2a26" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 317.0,500.0 L 335.0,500.0 L 335.0,546.0 L 317.0,546.0 Z" fill="#c4c9cc" stroke="#2f2a26" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 379.0,284.0 L 397.0,284.0 L 397.0,330.0 L 379.0,330.0 Z" fill="#c4c9cc" stroke="#2f2a26" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 379.0,500.0 L 397.0,500.0 L 397.0,546.0 L 379.0,546.0 Z" fill="#c4c9cc" stroke="#2f2a26" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 441.0,284.0 L 459.0,284.0 L 459.0,330.0 L 441.0,330.0 Z" fill="#c4c9cc" stroke="#2f2a26" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 441.0,500.0 L 459.0,500.0 L 459.0,546.0 L 441.0,546.0 Z" fill="#c4c9cc" stroke="#2f2a26" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 503.0,284.0 L 521.0,284.0 L 521.0,330.0 L 503.0,330.0 Z" fill="#c4c9cc" stroke="#2f2a26" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 503.0,500.0 L 521.0,500.0 L 521.0,546.0 L 503.0,546.0 Z" fill="#c4c9cc" stroke="#2f2a26" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 90.0,330.0 L 560.0,330.0 L 560.0,500.0 L 90.0,500.0 Z" fill="#2f3033" stroke="#2f2a26" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 90,399.0 A 16 16 0 0 1 90,431.0" fill="#45474b" stroke="#2f2a26" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 175.0,344.0 L 475.0,344.0 L 475.0,486.0 L 175.0,486.0 Z" fill="#e9e3d3" stroke="#2f2a26" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 195.0,344.0 L 209.0,344.0 L 274.6,367.0 L 264.6,367.0 Z" fill="#c4c9cc" stroke="#2f2a26" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 195.0,486.0 L 209.0,486.0 L 274.6,463.0 L 264.6,463.0 Z" fill="#c4c9cc" stroke="#2f2a26" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 257.0,344.0 L 271.0,344.0 L 302.6,367.0 L 292.6,367.0 Z" fill="#c4c9cc" stroke="#2f2a26" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 257.0,486.0 L 271.0,486.0 L 302.6,463.0 L 292.6,463.0 Z" fill="#c4c9cc" stroke="#2f2a26" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 319.0,344.0 L 333.0,344.0 L 330.4,367.0 L 320.4,367.0 Z" fill="#c4c9cc" stroke="#2f2a26" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 319.0,486.0 L 333.0,486.0 L 330.4,463.0 L 320.4,463.0 Z" fill="#c4c9cc" stroke="#2f2a26" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 381.0,344.0 L 395.0,344.0 L 358.4,367.0 L 348.4,367.0 Z" fill="#c4c9cc" stroke="#2f2a26" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 381.0,486.0 L 395.0,486.0 L 358.4,463.0 L 348.4,463.0 Z" fill="#c4c9cc" stroke="#2f2a26" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 443.0,344.0 L 457.0,344.0 L 386.2,367.0 L 376.2,367.0 Z" fill="#c4c9cc" stroke="#2f2a26" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 443.0,486.0 L 457.0,486.0 L 386.2,463.0 L 376.2,463.0 Z" fill="#c4c9cc" stroke="#2f2a26" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 291.0,381.0 L 359.0,381.0 L 359.0,449.0 L 291.0,449.0 Z" fill="#9aa3ab" stroke="#2f2a26" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="302.3333333333333" y1="385.0" x2="302.3333333333333" y2="445.0" stroke="#6f7a83" stroke-width="0.8" stroke-linecap="round"/>
+<line x1="295.0" y1="392.3333333333333" x2="355.0" y2="392.3333333333333" stroke="#6f7a83" stroke-width="0.8" stroke-linecap="round"/>
+<line x1="313.6666666666667" y1="385.0" x2="313.6666666666667" y2="445.0" stroke="#6f7a83" stroke-width="0.8" stroke-linecap="round"/>
+<line x1="295.0" y1="403.6666666666667" x2="355.0" y2="403.6666666666667" stroke="#6f7a83" stroke-width="0.8" stroke-linecap="round"/>
+<line x1="325.0" y1="385.0" x2="325.0" y2="445.0" stroke="#6f7a83" stroke-width="0.8" stroke-linecap="round"/>
+<line x1="295.0" y1="415.0" x2="355.0" y2="415.0" stroke="#6f7a83" stroke-width="0.8" stroke-linecap="round"/>
+<line x1="336.3333333333333" y1="385.0" x2="336.3333333333333" y2="445.0" stroke="#6f7a83" stroke-width="0.8" stroke-linecap="round"/>
+<line x1="295.0" y1="426.3333333333333" x2="355.0" y2="426.3333333333333" stroke="#6f7a83" stroke-width="0.8" stroke-linecap="round"/>
+<line x1="347.6666666666667" y1="385.0" x2="347.6666666666667" y2="445.0" stroke="#6f7a83" stroke-width="0.8" stroke-linecap="round"/>
+<line x1="295.0" y1="437.6666666666667" x2="355.0" y2="437.6666666666667" stroke="#6f7a83" stroke-width="0.8" stroke-linecap="round"/>
+<path d="M 290.56,386.0 Q 280.105,359.0 269.65,369.0" fill="none" stroke="#d4a63a" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 290.56,444.0 Q 280.105,471.0 269.65,461.0" fill="none" stroke="#d4a63a" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 307.92,386.0 Q 302.735,359.0 297.55,369.0" fill="none" stroke="#d4a63a" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 307.92,444.0 Q 302.735,471.0 297.55,461.0" fill="none" stroke="#d4a63a" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 325.28,386.0 Q 325.365,359.0 325.45,369.0" fill="none" stroke="#d4a63a" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 325.28,444.0 Q 325.365,471.0 325.45,461.0" fill="none" stroke="#d4a63a" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 342.64,386.0 Q 347.995,359.0 353.35,369.0" fill="none" stroke="#d4a63a" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 342.64,444.0 Q 347.995,471.0 353.35,461.0" fill="none" stroke="#d4a63a" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 360.0,386.0 Q 370.625,359.0 381.25,369.0" fill="none" stroke="#d4a63a" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 360.0,444.0 Q 370.625,471.0 381.25,461.0" fill="none" stroke="#d4a63a" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 331.0,409.0 L 343.0,409.0 L 343.0,421.0 L 331.0,421.0" fill="none" stroke="#b5523b" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="343.0" y1="409.0" x2="746.0" y2="330.0" stroke="#8a8178" stroke-width="1.2" stroke-linecap="round" stroke-dasharray="5 5"/>
+<line x1="343.0" y1="421.0" x2="746.0" y2="490.0" stroke="#8a8178" stroke-width="1.2" stroke-linecap="round" stroke-dasharray="5 5"/>
+<circle cx="930" cy="410" r="200" fill="#ffffff" stroke="#2f2a26" stroke-width="2.5"/>
+<path d="M 750.0,420.0 L 1110.0,420.0 L 1080.0,560.0 L 780.0,560.0 Z" fill="#c7ccd1" stroke="#2f2a26" stroke-width="0" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="750" y1="420" x2="1110" y2="420" stroke="#2f2a26" stroke-width="2" stroke-linecap="round"/>
+<path d="M 780,420 L 875,420 L 875,460 Q 827.5,490 780,460 Z" fill="#8fb2c9" stroke="#2f2a26" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 985,420 L 1080,420 L 1080,460 Q 1032.5,490 985,460 Z" fill="#8fb2c9" stroke="#2f2a26" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="878" y1="430" x2="982" y2="430" stroke="#2f2a26" stroke-width="2" stroke-linecap="round" stroke-dasharray="6 5"/>
+<line x1="890" y1="446" x2="970" y2="446" stroke="#2f2a26" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="970" y1="446" x2="956.2897799460968" y2="454.24802194914344" stroke="#2f2a26" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="970" y1="446" x2="956.2897799460968" y2="437.75197805085656" stroke="#2f2a26" stroke-width="2.5" stroke-linecap="round"/>
+<path d="M 870.0,410.0 L 990.0,410.0 L 990.0,420.0 L 870.0,420.0 Z" fill="#eef2f0" stroke="#2f2a26" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 875.0,358.0 L 985.0,358.0 L 985.0,410.0 L 875.0,410.0 Z" fill="#b5523b" stroke="#2f2a26" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 807.0,358.0 L 843.0,358.0 L 843.0,420.0 L 807.0,420.0 Z" fill="#b9c0c4" stroke="#2f2a26" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="825" y1="358" x2="825" y2="320" stroke="#2f2a26" stroke-width="3" stroke-linecap="round"/>
+<path d="M 1017.0,358.0 L 1053.0,358.0 L 1053.0,420.0 L 1017.0,420.0 Z" fill="#b9c0c4" stroke="#2f2a26" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="1035" y1="358" x2="1035" y2="320" stroke="#2f2a26" stroke-width="3" stroke-linecap="round"/>
+<line x1="930" y1="358" x2="930" y2="320" stroke="#2f2a26" stroke-width="3" stroke-linecap="round"/>
+<line x1="930" y1="380" x2="1150" y2="170" stroke="#2f2a26" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="930" cy="380" r="4" fill="#2f2a26" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="1150" cy="170" r="19" fill="#faf6ee" stroke="#2f2a26" stroke-width="2"/>
+<line x1="960" y1="446" x2="1150" y2="690" stroke="#2f2a26" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="960" cy="446" r="4" fill="#2f2a26" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="1150" cy="690" r="19" fill="#faf6ee" stroke="#2f2a26" stroke-width="2"/>
+<line x1="325.0" y1="441.0" x2="430" y2="690" stroke="#2f2a26" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="325.0" cy="441.0" r="4" fill="#2f2a26" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="430" cy="690" r="19" fill="#faf6ee" stroke="#2f2a26" stroke-width="2"/>
+<line x1="265.0" y1="367.0" x2="180" y2="170" stroke="#2f2a26" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="265.0" cy="367.0" r="4" fill="#2f2a26" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="180" cy="170" r="19" fill="#faf6ee" stroke="#2f2a26" stroke-width="2"/>
+<line x1="140" y1="540" x2="140" y2="640" stroke="#2f2a26" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="140" cy="540" r="4" fill="#2f2a26" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="140" cy="640" r="19" fill="#faf6ee" stroke="#2f2a26" stroke-width="2"/>
+</g>
+<text x="420.0" y="250" text-anchor="middle" font-size="18" fill="#8a8178" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-style="italic">the package, about 2 cm long</text>
+<text x="930" y="650" text-anchor="middle" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-style="italic">one transistor, cut across</text>
+<text x="825" y="528" text-anchor="middle" font-size="17" fill="#8a8178" stroke="#c7ccd1" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-style="italic">source</text>
+<text x="1035" y="528" text-anchor="middle" font-size="17" fill="#8a8178" stroke="#c7ccd1" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-style="italic">drain</text>
+<text x="1150" y="177" text-anchor="middle" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">1</text>
+<text x="1120" y="177" text-anchor="end" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">The gate: a small voltage</text>
+<text x="1120" y="204" text-anchor="end" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">here turns the switch on</text>
+<text x="1150" y="697" text-anchor="middle" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">2</text>
+<text x="1120" y="697" text-anchor="end" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">Current then flows from</text>
+<text x="1120" y="724" text-anchor="end" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">source to drain beneath it</text>
+<text x="430" y="697" text-anchor="middle" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">3</text>
+<text x="460" y="697" text-anchor="start" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">The chip: a square of silicon</text>
+<text x="460" y="724" text-anchor="start" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">a few millimetres across</text>
+<text x="180" y="177" text-anchor="middle" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">4</text>
+<text x="210" y="177" text-anchor="start" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">Gold wires finer than a hair</text>
+<text x="210" y="204" text-anchor="start" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">join the chip to the legs</text>
+<text x="140" y="647" text-anchor="middle" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">5</text>
+<text x="170" y="647" text-anchor="start" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">Legs carry signals</text>
+<text x="170" y="674" text-anchor="start" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">to the circuit board</text>
+</svg>

@@ -1,0 +1,3 @@
+| File | What it shows | Commons page | Author | Licence |
+|---|---|---|---|---|
+| toolbox/109-smartphone/photo-first-iphone.jpg | A first-generation Apple iPhone (8 GB, 2007) lying face down on a white surface, July 2009: curved brushed-aluminium back with the camera lens at the top corner, the Apple logo and "iPhone 8GB" lettering, and the black plastic cap over the antenna at the bottom end. Not a file used in chapters 107 or 109 (which have only drawn diagrams and a chart). Original size 1024x683 | https://commons.wikimedia.org/wiki/File:IPhone_First_Generation_8GB_(3680480234).jpg | Carl Berkeley | CC BY-SA 2.0 |

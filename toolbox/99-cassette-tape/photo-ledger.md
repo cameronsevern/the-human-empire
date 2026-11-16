@@ -1,0 +1,3 @@
+| File | What it shows | Commons page | Author | Licence |
+|---|---|---|---|---|
+| toolbox/99-cassette-tape/photo-philips-c60.jpg | A cream-coloured Philips C60 compact cassette (a design introduced in 1966, per the Commons description; the original 1963 cassette was all black), side B, standing upright on a white background: label with red B, PHILIPS C-60 Compact Cassette, red border line, Made in England, a handwritten title, two white toothed hubs in the window, the raised lower panel with four holes. Not a file used in chapter 99 (which has only a drawn map). Commons thumbnail 1280x853 | https://commons.wikimedia.org/wiki/File:Philips_C60_-_Tape_-_Labelled_-_Face_(13844231833).jpg | stuart.childs | CC BY 2.0 |

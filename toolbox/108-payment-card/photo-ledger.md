@@ -1,0 +1,3 @@
+| File | What it shows | Commons page | Author | Licence |
+|---|---|---|---|---|
+| toolbox/108-payment-card/photo-card-backlit.jpg | Back of a Maestro debit card photographed with a light behind it, May 2017: dark magnetic stripe across the top, the copper wire of the contactless (NFC) aerial looping round the card's edge, the EMV chip on the right with copper coils either side; the personal details covered with black bars by the photographer; a bright reflection in the middle. Not a file used in chapter 108 (which has no images yet). Commons thumbnail 1280x836 | https://commons.wikimedia.org/wiki/File:Maestro_EMV_Paypass_NFC.jpg | iToms | CC BY-SA 3.0 DE |

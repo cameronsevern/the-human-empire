@@ -135,6 +135,12 @@ A chapter can have more than one tool page: if a tool is interesting, it gets a 
 | 93 | The guidance computer | Programs woven into wire, read by a computer of 32 kilograms |
 | 94 | The helicopter | A turbine engine that made the helicopter a workhorse |
 | 97 | The oil tanker | A floating box of oil, made bigger because bigger was cheaper |
+| 99 | The cassette tape | A voice anyone with two machines could copy, out of the state's reach |
+| 101 | The shipping container | One box, the same at every corner, for ship, crane, lorry and train |
+| 104 | The small drone | A hobbyist's drone, a camera and a grenade, steered through goggles |
+| 107 | The microchip | A whole circuit printed in one piece of silicon |
+| 108 | The payment card | A number on a stripe, then a chip, and a question sent to the bank |
+| 109 | The smartphone | A computer under a sheet of glass that feels a finger |
 
 ## Files
 
