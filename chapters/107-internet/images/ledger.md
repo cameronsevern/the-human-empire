@@ -1,0 +1,8 @@
+# Image ledger: Chapter 107, Who invented the internet?
+
+All files from Wikimedia Commons unless the row says otherwise. Licences read from the Commons API (extmetadata LicenseShortName), not guessed.
+
+| File | What it shows | Commons page | Author | Licence | Caption |
+|---|---|---|---|---|---|
+| diagram_packets.png | Diagram of a message (LO AND BEHOLD) chopped into three numbered, addressed packets, sent by different routes across a mesh of machines round one that is busy or broken, arriving out of order and put back together; schematic, not a real network | Drawn for this book by build/maps/ch107_diagram_packets.py | Drawn for this book; sequence after the chapter's text | Own work | How a message travels in packets: chopped into pieces, each marked with its address and its place in the order, sent by whatever route is free, and put back together at the other end. Diagram: drawn for this book. |
+| chart_transistors.png | Chart, on a scale of tens, of the number of transistors on named chips, 1971 to 2024: Intel 4004 to Core i7 (1971 to 2008), Apple A7 to A17 (2013 to 2023), Apple M4 (2024) | Drawn for this book by build/maps/ch107_chart_transistors.py | Drawn for this book; data from English Wikipedia, "Transistor count", table of microprocessors (read November 2026) | Own work; published figures | The number of transistors on a chip, 1971 to 2024: the main chips of Intel's personal computers, then Apple's chips for telephones, and Apple's M4 of 2024. Each step up the scale is ten times as many. Chart: drawn for this book; data from the table of microprocessors in English Wikipedia's "Transistor count". |

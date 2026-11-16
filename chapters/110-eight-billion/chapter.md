@@ -8,6 +8,9 @@ At twenty-nine minutes past one on the morning of 15 November 2022, a girl was b
 
 It had taken the whole of human existence, until about 1804, for the number of people on Earth to reach one billion. The second billion took a hundred and twenty-three years. The eighth took eleven.
 
+![Line chart of the number of people in the world from 1700 to 2100, in billions. The line rises slowly from about 600 million in 1700 past Malthus's essay of 1798 to 1 billion in 1804 and 2 billion in 1927, then climbs steeply: 3 billion in 1960, 4 billion in 1974, 5 billion in 1987, 6 billion in 1999, 7 billion in 2011 and 8 billion in 2022. A dashed line, the United Nations forecast, flattens to a peak of about 10.3 billion in 2084 and falls slightly to 2100](images/chart_population.png)
+*The number of people in the world, 1700 to 2023, with the year in which each billion was reached, and the United Nations' forecast to 2100. Chart: drawn for this book; data from Our World in Data (HYDE 3.3 before 1800, Gapminder 1800 to 1949) and the UN World Population Prospects 2024 (from 1950; forecast, medium variant).*
+
 ## Half the children
 
 For most of history, the number of people hardly changed from one century to the next.
@@ -61,6 +64,9 @@ It was not free. The new seeds needed fertiliser, pesticides and above all water
 The population explosion of the twentieth century was a matter of timing.
 
 When the death rate falls in a society, the birth rate does not fall with it at once. For a generation or two, families go on having the six or seven children that their grandparents had, and now five or six of them live. Each of those then has children of their own. In Europe this gap opened slowly in the nineteenth century, and the surplus emigrated to the Americas. In Asia, Africa and Latin America, where the vaccines and the antibiotics arrived all together after 1945, death rates fell in twenty years by as much as they had in two centuries in Europe. The world's population grew faster in the 1960s than at any time before or since, by two per cent a year, which doubles it in thirty-five years.
+
+![Line chart of births and deaths per thousand people in the world each year from 1950 to 2023, with the gap between them shaded. Births are about 37 per thousand in the 1950s and early 1960s, then fall steadily to 16 in 2023. Deaths fall from 19 in 1950 to about 8 by the 2000s, with a rise during the famine in China in 1959 to 1961 and a smaller one during Covid in 2020 and 2021. The gap is widest in the early 1960s](images/chart_births_deaths.png)
+*Births and deaths in the world each year per thousand people, 1950 to 2023. The shaded gap between them is the rate at which the population grows. Chart: drawn for this book; data from the UN World Population Prospects 2024.*
 
 ## Choosing
 
