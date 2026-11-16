@@ -14,17 +14,17 @@ It was over in three years and two months. In February 1912 the boy's guardians 
 
 ## Fists
 
-The dynasty, the Qing, had been failing in front of the whole world since the British gunboats came up its rivers in the 1840s. The blow that broke its confidence came in 1895, when China was beaten in a few months by Japan, a country that the Chinese had always regarded as a small and backward pupil.
+The dynasty, the Qing, had been failing in front of the whole world since the British gunboats came up its rivers in the 1840s. The blow that broke its confidence came in 1895, when China was beaten in under a year by Japan, a country that the Chinese had always regarded as a small and backward pupil.
 
 The powers concluded that China was finished, and moved in to claim their shares. Within three years Germany, Russia, Britain and France had each forced the court to lease them a port and to grant them the right to build railways and open mines in the country behind it. Cartoonists in Europe drew China as a cake being sliced.
 
-In 1898 the young emperor of the day tried to answer as Japan had. Advised by a group of reforming scholars, he issued a flood of decrees in a hundred days, ordering modern schools, a modern army, railways and a free press. He had not reckoned with his aunt. The Empress Dowager Cixi had been the real ruler of China for almost forty years, governing from behind a silk screen on behalf of one child emperor after another. She had the reformers beheaded and the emperor shut up on an island in the palace lake.
+In 1898 the young emperor of the day tried to answer as Japan had. Advised by a group of reforming scholars, he issued a flood of decrees in a hundred days, ordering modern schools, a modern army, railways and a free press. He had not reckoned with his aunt. The Empress Dowager Cixi had been the real ruler of China for almost forty years, governing from behind a silk screen on behalf of one child emperor after another. She had six of the reformers beheaded and the emperor shut up on an island in the palace lake.
 
 Two years later the anger in the country found its own outlet, among the peasants of the north. Drought had ruined the harvest. Foreign missionaries were building churches in the villages, and their converts could call on foreign consuls in any lawsuit. A movement spread from village to village, combining martial arts with spirit possession. Its members called themselves the Fists of Righteous Harmony, and foreigners called them the Boxers. They believed that a hundred days of training and the right charms made a man's body proof against bullets.
 
 In the summer of 1900 Boxer bands poured into Beijing, burning churches and killing Chinese Christians wherever they found them. The Empress Dowager, after hesitating, decided to use them, and declared war on all the foreign powers at once. For fifty-five days the diplomats, missionaries and their families were besieged in the embassy quarter of the capital.
 
-They were rescued by an army of twenty thousand men from eight nations, the largest part of them Japanese. The charms did not work. The foreign troops then looted Beijing for a month, from the palaces down to the pawnshops, and punitive columns shot and beheaded suspected Boxers across the northern countryside. The court fled a thousand kilometres inland disguised as peasants.
+They were rescued by an army of twenty thousand men from eight nations, the largest part of them Japanese. The charms did not work. The foreign troops then looted Beijing, from the palaces down to the pawnshops, and punitive columns shot and beheaded suspected Boxers across the northern countryside. The court fled a thousand kilometres inland disguised as peasants.
 
 The peace terms required China to pay the foreign powers a sum in silver that came to about one coin's weight for every person in the country, with interest, over thirty-nine years. It was several times the government's annual income.
 
@@ -32,7 +32,7 @@ The peace terms required China to pay the foreign powers a sum in silver that ca
 
 After that even the Empress Dowager accepted that the old ways could not continue. In her last years she ordered most of the reforms for which she had executed men in 1898.
 
-Students were sent abroad, above all to Japan, where ten thousand of them were studying by 1906. A new army was formed, drilled by foreign instructors and armed with modern rifles. Each province was to elect an assembly, and the court promised a constitution and a national parliament within nine years.
+Students were sent abroad, above all to Japan, where some eight thousand of them were studying by 1905. A new army was formed, drilled by foreign instructors and armed with modern rifles. Each province was to elect an assembly, and the court promised a constitution and a national parliament within nine years.
 
 One reform went deeper than the court understood. For thirteen hundred years, China had chosen its officials by examination in the Confucian classics. The system was the cement of the empire. In every district, the families of landowners and merchants had their sons spend twenty years memorising the old books, because that was the high road to office, honour and wealth. Whoever sat on the throne, those families had a stake in him.
 
@@ -46,19 +46,19 @@ The best-known enemy of the dynasty had been working to bring it down for fiftee
 
 Sun Yat-sen was a farmer's son from the far south, near the Portuguese colony of Macau. An elder brother who had emigrated to Hawaii sent for him at thirteen and put him in a missionary school, where he learned English and was drawn to Christianity. He later qualified as a doctor in Hong Kong. Having seen how things were done elsewhere, he concluded that China's weakness was the fault of its rulers, a foreign dynasty from Manchuria that was too corrupt to be reformed and would have to be overthrown.
 
-From 1895 he organised one rising after another, ten in all, funded by Chinese shopkeepers and laundrymen in Honolulu, San Francisco and Singapore. Each was betrayed or crushed, and he spent sixteen years in exile with a price on his head. In 1896 he was lured into the Chinese embassy in London by its officials, who locked him in an upstairs room and planned to ship him home in a crate to be executed. He got a note out by a servant, the newspapers took up the story, and he was released a famous man.
+From 1895 he organised one rising after another, ten in all, funded by Chinese shopkeepers and laundrymen in Honolulu, San Francisco and Singapore. Each was betrayed or crushed, and he spent sixteen years in exile with a price on his head. In 1896 he was lured into the Chinese legation in London by its officials, who locked him in an upstairs room and planned to ship him home to be executed. He got a note out by a servant, the newspapers took up the story, and he was released a famous man.
 
 He summed up his programme as three principles. The first was nationalism: China should belong to the Chinese, free of the Manchus and of foreign control. The second was democracy, in the form of a republic. The third he called the people's livelihood, by which he meant that the land and its wealth should be shared more fairly. All three ideas owed a great deal to the West, and that was true of most of the remedies that young Chinese were now discussing. They wanted to learn from the foreigners in order to be rid of them.
 
 ## Double Ten
 
-When the revolution came, Sun was changing trains in the American city of Denver, and read about it in a newspaper.
+When the revolution came, Sun was in the American city of Denver, and read about it in a newspaper.
 
-It began with an accident. On 9 October 1911, in a city on the middle Yangzi, a group of revolutionaries who had been recruiting in the local garrison were making bombs in a rented house. One of them dropped a cigarette. The explosion brought the police, and the police found the membership lists.
+It began with an accident. On 9 October 1911, in a city on the middle Yangzi, a group of revolutionaries who had been recruiting in the local garrison were making bombs in a rented house. One went off. The explosion brought the police, and the police found the membership lists.
 
 The soldiers named on those lists now had a choice between being arrested and executed or acting first. On the evening of 10 October they shot their officers and seized the arsenal. They had no leader, so they dragged their brigade commander out of the house where he was hiding and told him, at gunpoint, that he was now in charge of the revolution. He turned out to be quite good at it.
 
-The court sent its best troops, and they retook part of the city. It made no difference, because province after province simply declared that it no longer recognised the dynasty. The new assemblies and the new army units, the very bodies that the court had created to strengthen itself, took over the provincial capitals. Within seven weeks fifteen provinces had left.
+The court sent its best troops, and they retook part of the city. It made no difference, because province after province simply declared that it no longer recognised the dynasty. The new assemblies and the new army units, the very bodies that the court had created to strengthen itself, took over the provincial capitals. Within two months some fifteen provinces had left.
 
 Sun came home, and on 1 January 1912 he was sworn in as president of a Chinese republic, elected by the delegates of the rebel provinces. He had a title and no soldiers of his own. The strongest army in China was the northern one, and it obeyed a general named Yuan Shikai, whom the court had just called out of retirement to save it.
 
@@ -72,7 +72,7 @@ The republic was a disappointment almost from its first month. In the winter of 
 
 Yuan then outlawed the party, dissolved parliament, and ruled by decree. At the end of 1915 he took the last step and announced that he would become emperor, the founder of a new dynasty. He had misjudged. His own generals refused to follow him, provinces rose in revolt, and after eighty-three days he cancelled the monarchy. He died a few months later, of kidney failure and humiliation.
 
-With him went the last authority that the whole country obeyed. His generals each took a province or two and ruled it as private property. For the next twelve years China was a patchwork of warlords, who fought more than a hundred wars among themselves, made and broke alliances, and passed the capital from hand to hand.
+With him went the last authority that the whole country obeyed. His generals each took a province or two and ruled it as private property. For the next twelve years China was a patchwork of warlords, who fought one another almost without pause, made and broke alliances, and passed the capital from hand to hand.
 
 Some were former bandits and some were scholars. One had himself and his troops baptised as Christians. Another was said not to know how many soldiers, how much money or how many wives he had. They paid for their armies by taxing the peasants, sometimes collecting the land tax years in advance, and by forcing them to grow opium. Ordinary Chinese came to say that under the emperors there had been one tyrant, and now there was one in every county.
 
@@ -82,13 +82,13 @@ The foreign powers went on helping themselves. During the world war, Japan took 
 
 China had joined the Allies and sent a hundred and forty thousand labourers to the Western Front, and it expected to get Shandong back at the peace conference. In the spring of 1919 the news reached Beijing that the victors had awarded Germany's port, railway and mines in Shandong to Japan.
 
-On the afternoon of 4 May, three thousand students from the capital's universities gathered in front of the Gate of Heavenly Peace. They marched on the embassy quarter, and then to the house of a minister who was thought to have sold out to Japan, which they burned. The police arrested dozens. Within weeks there were student strikes in two hundred towns, merchants were boycotting Japanese goods, and workers in Shanghai had walked out. The government gave way, and China's delegates in Paris refused to sign the treaty.
+On the afternoon of 4 May, three thousand students from the capital's universities gathered in front of the Gate of Heavenly Peace. They marched on the embassy quarter, and then to the house of a minister who was thought to have sold out to Japan, which they burned. The police arrested dozens. Within weeks there were student strikes in cities across the country, merchants were boycotting Japanese goods, and workers in Shanghai had walked out. The government gave way, and China's delegates in Paris refused to sign the treaty.
 
 The date gave its name to a movement that went far beyond one province. The students and their teachers had decided that China's sickness lay in its whole inherited culture. Confucian respect for elders and rulers had made the Chinese a nation of slaves, they said. A short story of 1918 imagined a madman who reads the classic books of virtue and finds, between the lines, two words repeated on every page: eat people.
 
 In place of Confucius they proposed two foreign gentlemen, whom one professor named Mr Science and Mr Democracy. They began to write in the language that people actually spoke, where essays, laws and learned books had always been written in a classical style as remote from speech as Latin. They attacked arranged marriage and the binding of girls' feet.
 
-Some of them, impatient with liberal democracy, which seemed to have produced only the treaty of Versailles, looked to a newer foreign model. Russia had just shown that a backward country could have a revolution, and its new rulers had offered to give up the tsar's privileges in China. In July 1921 thirteen young men met in a house in the French quarter of Shanghai to found a Chinese Communist party. When a police spy looked in, they moved to a hired boat on a lake outside the city and finished the meeting there. They represented about fifty members. One of the thirteen was a tall library assistant of twenty-seven from the inland province of Hunan, named Mao Zedong.
+Some of them, impatient with liberal democracy, which seemed to have produced only the treaty of Versailles, looked to a newer foreign model. Russia had just shown that a backward country could have a revolution, and its new rulers had offered to give up the tsar's privileges in China. In July 1921 thirteen young men met in a house in the French quarter of Shanghai to found a Chinese Communist party. When a police spy looked in, they moved to a hired boat on a lake outside the city and finished the meeting there. They represented about fifty members. One of the thirteen was a tall schoolteacher of twenty-seven from the inland province of Hunan, named Mao Zedong.
 
 ## The academy
 
@@ -102,12 +102,12 @@ Then the alliance broke. Chiang feared the Communists, and so did the bankers an
 
 Chiang went on to bring most of China under a Nationalist government in Nanjing. The surviving Communists fled to the mountains of the interior. Mao, who was among them, drew a conclusion that went against everything the Russian advisers had taught. In China the revolution would not begin in the cities at all. It would be made by peasants, from bases in the remote countryside, and it would surround the cities and take them last.
 
-In the hills of the south they shared out the landlords' fields, built an army of peasants, and governed several million people. In 1934, hard pressed by Chiang's armies, eighty-six thousand of them broke out of their base in the south and set off on foot. A year later, having walked nine thousand kilometres across rivers, mountains and swamps, about eight thousand of them reached a remote region in the north-west. Mao was by then their leader.
+In the hills of the south they shared out the landlords' fields, built an army of peasants, and governed several million people. In 1934, hard pressed by Chiang's armies, eighty-six thousand of them broke out of their base in the south and set off on foot. A year later, having walked nine thousand kilometres across rivers, mountains and swamps, about eight thousand of them reached a remote region in the north-west. Mao was by then their dominant figure.
 
 ## The gardener
 
 Puyi, meanwhile, had grown up inside the palace walls among a thousand eunuchs, forbidden to go out. A Scottish tutor taught him English and gave him a bicycle, and he had the high wooden thresholds of the palace doorways sawn off so that he could ride from courtyard to courtyard. He had a telephone installed and rang up strangers. In 1924 a warlord's soldiers gave him three hours to leave.
 
-The Japanese took him in. When their army seized Manchuria, the homeland of his ancestors, in 1931, they set up a puppet state there and put him at its head, and from 1934 he was once more an emperor. For eleven years he signed whatever was put in front of him. Soviet troops captured him at an airfield in 1945 and later handed him to the Chinese Communists, who put him in a prison for war criminals and spent ten years re-educating him. He learned, for the first time in his life, to tie his own shoelaces.
+The Japanese took him in. When their army seized Manchuria, the homeland of his ancestors, in 1931, they set up a puppet state there and put him at its head, and from 1934 he was once more an emperor. For eleven years he signed whatever was put in front of him. Soviet troops captured him at an airfield in 1945 and later handed him to the Chinese Communists, who put him in a prison for war criminals and spent nearly ten years re-educating him. He learned, for the first time in his life, to tie his own shoelaces.
 
 They released him in 1959. He was given a job in the botanical garden in Beijing, and later in a government office, where he wrote his memoirs. He married a nurse, queued for buses, and was by all accounts hopeless at housework. Visitors to the Forbidden City, which had become a museum, sometimes found themselves standing beside a thin, stooping man in spectacles who had bought a ticket at the gate like everyone else.

@@ -4,21 +4,21 @@
 
 Gandhi fought by getting Indians to stop cooperating with the people who ruled them. He had seen that a few thousand British officials could govern three hundred million Indians only with Indian help. His followers broke unjust laws in the open, took the beatings and prison sentences that followed without striking back, and made it plain to the world, and to the British themselves, that the empire rested on force.
 
-At half past six on the morning of 6 April 1930, a thin, bald man of sixty in a loincloth walked down a beach on the west coast of India, bent over, and picked up a lump of mud and salt that the tide had left behind.
+Early on the morning of 6 April 1930, a thin, bald man of sixty in a loincloth walked down a beach on the west coast of India, bent over, and picked up a lump of mud and salt that the tide had left behind.
 
 He had walked for twenty-four days to get there, nearly four hundred kilometres, with seventy-eight companions. They had set out from his religious community near the city of Ahmedabad and gone from village to village along the dusty roads. By the time they reached the sea, a crowd of several thousand was walking with them, and reporters from three continents were filing daily stories.
 
 What he did on the beach was a crime. The British government of India held a monopoly on salt. It was illegal for an Indian to make it or to collect it from the shore without a licence, and every grain that was sold carried a government tax. The tax was small, and everyone paid it, since nobody can live without salt, and in a hot country a labourer who sweats all day needs more of it than a rich man. With this, the man on the beach said, holding up the lump, I am shaking the foundations of the British empire.
 
-It sounded absurd. Within a month, all over India, people were boiling sea water in pans and selling illegal salt in the streets, and the prisons held sixty thousand of them.
+It sounded absurd. Within weeks, all over India, people were boiling sea water in pans and selling illegal salt in the streets, and before the year was out the prisons held sixty thousand of them.
 
 ## A thousand officials
 
-The empire that he proposed to shake was the largest in the world, and India was the heart of it. A fifth of the human race lived there.
+The empire that he proposed to shake was the largest in the world, and India was the heart of it. Nearly a fifth of the human race lived there.
 
-The British governed it with remarkably few people. At the top was a civil service of about a thousand men, nearly all British, each of whom might be the judge, tax collector and police chief of a district of a million people. Behind them stood about sixty thousand British soldiers. In all of India there was roughly one Briton for every two thousand Indians.
+The British governed it with remarkably few people. At the top was a civil service of about a thousand men, nearly all British, each of whom might be the judge, tax collector and police chief of a district of a million people. Behind them stood about sixty thousand British soldiers. In all of India there was roughly one Briton for every two or three thousand Indians.
 
-Nearly everything else was done by Indians. Indians were the clerks who kept the files and the policemen who made the arrests. Two thirds of the army was Indian. Indian landowners collected the rent, Indian lawyers argued in the courts, and Indian peasants paid the taxes that supported the whole structure. As long as they went on doing these things, the empire was secure, and not much force was needed.
+Nearly everything else was done by Indians. Indians were the clerks who kept the files and the policemen who made the arrests. More than two thirds of the army was Indian. Indian landowners collected the rent, Indian lawyers argued in the courts, and Indian peasants paid the taxes that supported the whole structure. As long as they went on doing these things, the empire was secure, and not much force was needed.
 
 Educated Indians had been asking for a share in their own government since 1885, when a group of lawyers and journalists founded the Indian National Congress. For its first twenty years it met once a year, in English, passed respectful resolutions, and was ignored. A fiercer wing appeared after 1905, with boycotts and bombs, and the movement split. It remained a movement of the educated, in suits, and most Indians had never heard of it.
 
@@ -76,7 +76,7 @@ The march to the sea filled the newspapers of the world for three weeks. The Bri
 
 Before his arrest he had announced the next step, a raid on a government salt works north of Bombay. It went ahead without him on 21 May, led by a woman poet. About two and a half thousand volunteers in white homespun approached the works, which was guarded by four hundred police armed with long clubs tipped with steel. An American reporter watched what happened.
 
-The volunteers walked forward in columns of twenty-five. As each column reached the fence, the police struck the men on the head. Not one of the marchers, the reporter wrote, even raised an arm to fend off the blows. They went down like ninepins. From where he stood he could hear the sickening whacks of the clubs on unprotected skulls. Stretcher bearers carried the injured away, and the next column walked up. It went on for hours. Two men died and three hundred and twenty were taken to hospital.
+The volunteers walked forward in columns. As each column reached the fence, the police struck the men on the head. Not one of the marchers, the reporter wrote, even raised an arm to fend off the blows. They went down like ninepins. From where he stood he could hear the sickening whacks of the clubs on unprotected skulls. Stretcher bearers carried the injured away, and the next column walked up. It went on for hours. Two men died and three hundred and twenty were taken to hospital.
 
 His report was printed in more than a thousand newspapers. It did what Gandhi had always said the method would do. The British public had been told for a century that its rule in India was a benefit kindly conferred, and the pictures from the salt works were hard to square with that.
 
@@ -100,7 +100,7 @@ In 1942, with Japanese armies on India's eastern border, Gandhi launched his las
 
 The following year a famine in the province of Bengal killed about three million people. A cyclone had damaged the crop, but there was rice in the province. It was being bought up for the army and the war factories, Japan had taken Burma, from which Bengal had imported rice, and the government in London, with its mind on the war, declined to divert ships to bring grain.
 
-By 1945 Britain had won the war and was bankrupt. It owed India itself more than a billion pounds. Its soldiers wanted to go home. In 1946 Indian sailors mutinied in Bombay harbour, and the government in London concluded that it could no longer count on the Indian forces to hold the country down. It announced that Britain would leave.
+By 1945 Britain had won the war and was bankrupt. It owed India itself more than a billion pounds. Its soldiers wanted to go home. In 1946 Indian sailors mutinied in Bombay harbour, and the government in London concluded that it could no longer count on the Indian forces to hold the country down. In February 1947 it announced that Britain would leave.
 
 ## Barefoot in Bengal
 
@@ -108,4 +108,4 @@ How much of this was Gandhi's doing has been argued ever since. Britain left Ind
 
 Independence came at midnight on 14 August 1947. It came to two countries, India and a new Muslim state called Pakistan. In Delhi the new prime minister made a speech about India's meeting with destiny.
 
-Gandhi was not there. He was a thousand miles away, in a slum district of Calcutta, where Hindus and Muslims had been murdering each other for a year. He was seventy-seven. He spent the day of independence fasting and spinning, in a house that he had chosen to share with a Muslim politician. That winter he had walked for seven weeks through the villages of eastern Bengal, barefoot, asking the people to stop.
+Gandhi was not there. He was more than a thousand kilometres away, in a slum district of Calcutta, where Hindus and Muslims had been murdering each other for a year. He was seventy-seven. He spent the day of independence fasting and spinning, in a house that he had chosen to share with a Muslim politician. That winter he had walked for seven weeks through the villages of eastern Bengal, barefoot, asking the people to stop.
