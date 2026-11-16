@@ -1,0 +1,118 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" font-family="Georgia, 'Noto Serif', serif">
+<defs>
+<!-- paper: fine grain plus slow blotches -->
+<filter id="paper" x="0" y="0" width="100%" height="100%">
+<feTurbulence type="fractalNoise" baseFrequency="0.8" numOctaves="3" seed="3" result="grain"/>
+<feColorMatrix in="grain" type="matrix" values="0 0 0 0 0.45  0 0 0 0 0.36  0 0 0 0 0.24  0 0 0 0.9 -0.42" result="g2"/>
+<feTurbulence type="fractalNoise" baseFrequency="0.006" numOctaves="2" seed="8" result="blot"/>
+<feColorMatrix in="blot" type="matrix" values="0 0 0 0 0.55  0 0 0 0 0.42  0 0 0 0 0.25  0 0 0 0.55 -0.2" result="b2"/>
+<feMerge><feMergeNode in="SourceGraphic"/><feMergeNode in="b2"/><feMergeNode in="g2"/></feMerge>
+</filter>
+<!-- ink: a slight wobble in every line, a soft bleed of colour under it, and mottling inside the washes -->
+<filter id="ink" x="-5%" y="-5%" width="110%" height="110%">
+<feTurbulence type="fractalNoise" baseFrequency="0.018" numOctaves="2" seed="5" result="warp"/>
+<feDisplacementMap in="SourceGraphic" in2="warp" scale="5" xChannelSelector="R" yChannelSelector="G" result="drawn"/>
+<feGaussianBlur in="drawn" stdDeviation="7" result="bleed0"/>
+<feComponentTransfer in="bleed0" result="bleed"><feFuncA type="linear" slope="0.38"/></feComponentTransfer>
+<feTurbulence type="fractalNoise" baseFrequency="0.011" numOctaves="2" seed="11" result="wash"/>
+<feColorMatrix in="wash" type="matrix" values="0 0 0 0 0.35  0 0 0 0 0.25  0 0 0 0 0.15  0 0 0 0.75 -0.3" result="w2"/>
+<feComposite in="w2" in2="drawn" operator="in" result="mottle"/>
+<feMorphology in="drawn" operator="erode" radius="2.5" result="inner"/>
+<feComposite in="drawn" in2="inner" operator="out" result="rim0"/>
+<feColorMatrix in="rim0" type="matrix" values="0 0 0 0 0.3  0 0 0 0 0.22  0 0 0 0 0.15  0 0 0 0.16 0" result="rim"/>
+<feOffset in="drawn" dx="5" dy="7" result="off"/>
+<feGaussianBlur in="off" stdDeviation="5" result="sh0"/>
+<feColorMatrix in="sh0" type="matrix" values="0 0 0 0 0.25  0 0 0 0 0.2  0 0 0 0 0.15  0 0 0 0.22 0" result="shadow"/>
+<feMerge><feMergeNode in="shadow"/><feMergeNode in="bleed"/><feMergeNode in="drawn"/><feMergeNode in="mottle"/><feMergeNode in="rim"/></feMerge>
+</filter>
+<radialGradient id="vig" cx="50%" cy="50%" r="75%"><stop offset="60%" stop-color="#6b4a2a" stop-opacity="0"/><stop offset="100%" stop-color="#6b4a2a" stop-opacity="0.22"/></radialGradient>
+</defs>
+<rect width="1200" height="760" fill="#faf6ee" filter="url(#paper)"/>
+<rect width="1200" height="760" fill="url(#vig)"/>
+<rect x="14" y="14" width="1172" height="732" fill="none" stroke="#2f2a26" stroke-width="2"/>
+<rect x="20" y="20" width="1160" height="720" fill="none" stroke="#2f2a26" stroke-width="0.7"/>
+<text x="44" y="64" font-size="30" font-weight="bold" fill="#2f2a26" letter-spacing="3">THE EARLY-WARNING SATELLITE</text>
+<line x1="44" y1="76" x2="104" y2="76" stroke="#b5523b" stroke-width="3"/>
+<text x="44" y="104" font-size="20" font-style="italic" fill="#8a8178">A Soviet satellite of the 1980s, watching from high over the north (not to scale)</text>
+<g filter="url(#ink)">
+<ellipse cx="511.8" cy="417.7" rx="385.7" ry="125" fill="none" stroke="#8a8178" stroke-width="2" transform="rotate(-31.7 511.8 417.7)"/>
+<circle cx="330" cy="530" r="150" fill="#bcd3df" stroke="#2f2a26" stroke-width="3"/>
+<ellipse cx="330" cy="430" rx="111.8" ry="20.1" fill="none" stroke="#8a8178" stroke-width="1" transform="rotate(0 330 430)"/>
+<ellipse cx="330" cy="480" rx="141.4" ry="25.5" fill="none" stroke="#8a8178" stroke-width="1" transform="rotate(0 330 480)"/>
+<ellipse cx="330" cy="530" rx="150.0" ry="27.0" fill="none" stroke="#8a8178" stroke-width="1" transform="rotate(0 330 530)"/>
+<ellipse cx="330" cy="580" rx="141.4" ry="25.5" fill="none" stroke="#8a8178" stroke-width="1" transform="rotate(0 330 580)"/>
+<ellipse cx="330" cy="630" rx="111.8" ry="20.1" fill="none" stroke="#8a8178" stroke-width="1" transform="rotate(0 330 630)"/>
+<circle cx="316.5" cy="398.3" r="3" fill="#2f2a26" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="330.5" cy="401.3" r="3" fill="#2f2a26" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="344.5" cy="404.3" r="3" fill="#2f2a26" stroke="#2f2a26" stroke-width="0"/>
+<ellipse cx="130.4" cy="434.8" rx="70" ry="34" fill="#2c3440" stroke="#2f2a26" stroke-width="1.5" transform="rotate(-31.7 130.4 434.8)"/>
+<path d="M 304.5,390.3 L 298.5,360.3 L 302.5,334.3 L 308.5,360.3 Z" fill="#e8a23a" stroke="#2f2a26" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 302.5,334.3 L 306.5,334.3 L 306.5,320.3 L 302.5,320.3 Z" fill="#2f2a26" stroke="#2f2a26" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="840" y1="215" x2="130.4" y2="434.8" stroke="#2f2a26" stroke-width="1.6" stroke-linecap="round" stroke-dasharray="9 6"/>
+<circle cx="471.7" cy="504.0" r="6" fill="#2f2a26" stroke="#2f2a26" stroke-width="0"/>
+<line x1="829.8" y1="223.0" x2="799.1" y2="247.1" stroke="#b5523b" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="788.9" y1="255.1" x2="758.2" y2="279.2" stroke="#b5523b" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="747.9" y1="287.2" x2="717.2" y2="311.3" stroke="#b5523b" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="707.0" y1="319.3" x2="676.3" y2="343.4" stroke="#b5523b" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="666.1" y1="351.4" x2="635.4" y2="375.5" stroke="#b5523b" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="625.2" y1="383.6" x2="594.5" y2="407.6" stroke="#b5523b" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="584.3" y1="415.7" x2="553.6" y2="439.7" stroke="#b5523b" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="543.3" y1="447.8" x2="512.6" y2="471.8" stroke="#b5523b" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="502.4" y1="479.9" x2="471.7" y2="504.0" stroke="#b5523b" stroke-width="2.5" stroke-linecap="round"/>
+<path d="M 826.0,206.0 L 854.0,206.0 L 854.0,224.0 L 826.0,224.0 Z" fill="#b9c0c4" stroke="#2f2a26" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 824.0,210.0 L 800.0,210.0 L 800.0,220.0 L 824.0,220.0 Z" fill="#3b5272" stroke="#2f2a26" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 856.0,210.0 L 880.0,210.0 L 880.0,220.0 L 856.0,220.0 Z" fill="#3b5272" stroke="#2f2a26" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" />
+<circle cx="1000" cy="545" r="140" fill="#ffffff" stroke="#2f2a26" stroke-width="2.5"/>
+<path d="M 940.0,505.0 L 1070.0,505.0 L 1070.0,585.0 L 940.0,585.0 Z" fill="#b9c0c4" stroke="#2f2a26" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" />
+<ellipse cx="1070" cy="545" rx="12" ry="40" fill="#a1a8ac" stroke="#2f2a26" stroke-width="2" transform="rotate(0 1070 545)"/>
+<line x1="972" y1="505" x2="972" y2="585" stroke="#2f2a26" stroke-width="1" stroke-linecap="round"/>
+<line x1="1004" y1="505" x2="1004" y2="585" stroke="#2f2a26" stroke-width="1" stroke-linecap="round"/>
+<line x1="1036" y1="505" x2="1036" y2="585" stroke="#2f2a26" stroke-width="1" stroke-linecap="round"/>
+<path d="M 970.0,497.0 L 1040.0,497.0 L 1040.0,427.0 L 970.0,427.0 Z" fill="#3b5272" stroke="#2f2a26" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="970" y1="479.5" x2="1040" y2="479.5" stroke="#8fa3bf" stroke-width="1" stroke-linecap="round"/>
+<line x1="970" y1="462.0" x2="1040" y2="462.0" stroke="#8fa3bf" stroke-width="1" stroke-linecap="round"/>
+<line x1="970" y1="444.5" x2="1040" y2="444.5" stroke="#8fa3bf" stroke-width="1" stroke-linecap="round"/>
+<line x1="1005" y1="505" x2="1005" y2="497" stroke="#2f2a26" stroke-width="2" stroke-linecap="round"/>
+<path d="M 970.0,593.0 L 1040.0,593.0 L 1040.0,663.0 L 970.0,663.0 Z" fill="#3b5272" stroke="#2f2a26" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="970" y1="610.5" x2="1040" y2="610.5" stroke="#8fa3bf" stroke-width="1" stroke-linecap="round"/>
+<line x1="970" y1="628.0" x2="1040" y2="628.0" stroke="#8fa3bf" stroke-width="1" stroke-linecap="round"/>
+<line x1="970" y1="645.5" x2="1040" y2="645.5" stroke="#8fa3bf" stroke-width="1" stroke-linecap="round"/>
+<line x1="1005" y1="585" x2="1005" y2="593" stroke="#2f2a26" stroke-width="2" stroke-linecap="round"/>
+<path d="M 870.0,515.0 L 940.0,521.0 L 940.0,569.0 L 870.0,575.0 Z" fill="#b5523b" stroke="#2f2a26" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" />
+<ellipse cx="870" cy="545" rx="8" ry="30" fill="#7a3324" stroke="#2f2a26" stroke-width="2" transform="rotate(0 870 545)"/>
+<line x1="1082" y1="545" x2="1112" y2="515" stroke="#2f2a26" stroke-width="2.5" stroke-linecap="round"/>
+<path d="M 1100,497 Q 1124,503 1124,527" fill="none" stroke="#2f2a26" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="178.0" y1="605.5" x2="60" y2="680" stroke="#2f2a26" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="178.0" cy="605.5" r="4" fill="#2f2a26" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="60" cy="680" r="19" fill="#faf6ee" stroke="#2f2a26" stroke-width="2"/>
+<line x1="878" y1="555" x2="890" y2="360" stroke="#2f2a26" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="878" cy="555" r="4" fill="#2f2a26" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="890" cy="360" r="19" fill="#faf6ee" stroke="#2f2a26" stroke-width="2"/>
+<line x1="158.8" y1="426.0" x2="80" y2="200" stroke="#2f2a26" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="158.8" cy="426.0" r="4" fill="#2f2a26" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="80" cy="200" r="19" fill="#faf6ee" stroke="#2f2a26" stroke-width="2"/>
+<line x1="302.52587924322063" y1="340.30365369248545" x2="395" y2="200" stroke="#2f2a26" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="302.52587924322063" cy="340.30365369248545" r="4" fill="#2f2a26" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="395" cy="200" r="19" fill="#faf6ee" stroke="#2f2a26" stroke-width="2"/>
+<line x1="655.9" y1="359.5" x2="760" y2="440" stroke="#2f2a26" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="655.9" cy="359.5" r="4" fill="#2f2a26" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="760" cy="440" r="19" fill="#faf6ee" stroke="#2f2a26" stroke-width="2"/>
+</g>
+<text x="364.52587924322063" y="426.30365369248545" text-anchor="middle" font-size="16" fill="#2f3f4c" stroke="#bcd3df" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-style="italic">missile fields</text>
+<text x="457.72116295183116" y="509.95277334996047" text-anchor="end" font-size="16" fill="#2f3f4c" stroke="#bcd3df" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-style="italic">Moscow</text>
+<text x="1000" y="719" text-anchor="middle" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-style="italic">the satellite, enlarged</text>
+<text x="60" y="687" text-anchor="middle" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">1</text>
+<text x="90" y="687" text-anchor="start" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">A looping orbit,</text>
+<text x="90" y="714" text-anchor="start" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">twice a day</text>
+<text x="890" y="367" text-anchor="middle" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">2</text>
+<text x="920" y="367" text-anchor="start" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">A half-metre telescope</text>
+<text x="920" y="394" text-anchor="start" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">that sees in infrared</text>
+<text x="80" y="207" text-anchor="middle" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">3</text>
+<text x="110" y="207" text-anchor="start" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">It looks at the fields</text>
+<text x="110" y="234" text-anchor="start" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">edge-on, against space</text>
+<text x="395" y="207" text-anchor="middle" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">4</text>
+<text x="425" y="207" text-anchor="start" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">A rocket's hot flame</text>
+<text x="760" y="447" text-anchor="middle" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">5</text>
+<text x="730" y="447" text-anchor="end" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">Pictures sent</text>
+<text x="730" y="474" text-anchor="end" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">by radio</text>
+</svg>

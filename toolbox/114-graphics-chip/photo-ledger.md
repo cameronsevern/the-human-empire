@@ -1,0 +1,3 @@
+| File | What it shows | Commons page | Author | Licence |
+|---|---|---|---|---|
+| toolbox/114-graphics-chip/photo-geforce256.jpg | A VisionTek GeForce 256 DDR graphics card (board NV990.0 rev. A) photographed flat on a white background, 2010: green circuit board, metal bracket with DVI, S-video and blue VGA connectors on the left, a small MEI fan on a black heat sink over the GPU in the middle, four Infineon SGRAM memory chips around it, gold AGP contacts along the bottom edge. Not a file used in chapter 114 (which has only a drawn network diagram). Commons thumbnail 1280x760 | https://commons.wikimedia.org/wiki/File:VisionTek_GeForce_256.jpg | Hyins | Public domain |

@@ -1,0 +1,3 @@
+| File | What it shows | Commons page | Author | Licence |
+|---|---|---|---|---|
+| toolbox/111-solar-panel/photo-vanguard-backup.jpg | The flight backup of the Vanguard 1 satellite in a glass case at the Smithsonian's Steven F. Udvar-Hazy Center, Chantilly, Virginia, 6 April 2008: a polished aluminium sphere with six long aerials and small square boxes of solar cells set into its surface, on a stepped post; other satellites and the museum hall reflected in and seen through the glass. Not a file used in chapter 111 (which has only drawn charts). Commons thumbnail 1280x960 | https://commons.wikimedia.org/wiki/File:Vanguard_1_satellite_(flight_backup)_-_Udvar-Hazy_Center.JPG | Daderot | Public domain |

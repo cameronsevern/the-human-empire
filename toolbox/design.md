@@ -141,6 +141,11 @@ A chapter can have more than one tool page: if a tool is interesting, it gets a 
 | 107 | The microchip | A whole circuit printed in one piece of silicon |
 | 108 | The payment card | A number on a stripe, then a chip, and a question sent to the bank |
 | 109 | The smartphone | A computer under a sheet of glass that feels a finger |
+| 110 | The ammonia converter | Air and hydrogen squeezed over hot iron, and fertiliser from the sky |
+| 110 | The rehydration sachet | Salt and sugar in water, carried into the body together |
+| 111 | The solar panel | A slice of silicon that turns light into current |
+| 113 | The early-warning satellite | A telescope high over the north, watching for the flame of a launch |
+| 114 | The graphics chip | Thousands of small sums at once, built for games and used for neural networks |
 
 ## Files
 

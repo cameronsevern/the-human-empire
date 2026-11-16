@@ -1,0 +1,218 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" font-family="Georgia, 'Noto Serif', serif">
+<defs>
+<!-- paper: fine grain plus slow blotches -->
+<filter id="paper" x="0" y="0" width="100%" height="100%">
+<feTurbulence type="fractalNoise" baseFrequency="0.8" numOctaves="3" seed="3" result="grain"/>
+<feColorMatrix in="grain" type="matrix" values="0 0 0 0 0.45  0 0 0 0 0.36  0 0 0 0 0.24  0 0 0 0.9 -0.42" result="g2"/>
+<feTurbulence type="fractalNoise" baseFrequency="0.006" numOctaves="2" seed="8" result="blot"/>
+<feColorMatrix in="blot" type="matrix" values="0 0 0 0 0.55  0 0 0 0 0.42  0 0 0 0 0.25  0 0 0 0.55 -0.2" result="b2"/>
+<feMerge><feMergeNode in="SourceGraphic"/><feMergeNode in="b2"/><feMergeNode in="g2"/></feMerge>
+</filter>
+<!-- ink: a slight wobble in every line, a soft bleed of colour under it, and mottling inside the washes -->
+<filter id="ink" x="-5%" y="-5%" width="110%" height="110%">
+<feTurbulence type="fractalNoise" baseFrequency="0.018" numOctaves="2" seed="5" result="warp"/>
+<feDisplacementMap in="SourceGraphic" in2="warp" scale="5" xChannelSelector="R" yChannelSelector="G" result="drawn"/>
+<feGaussianBlur in="drawn" stdDeviation="7" result="bleed0"/>
+<feComponentTransfer in="bleed0" result="bleed"><feFuncA type="linear" slope="0.38"/></feComponentTransfer>
+<feTurbulence type="fractalNoise" baseFrequency="0.011" numOctaves="2" seed="11" result="wash"/>
+<feColorMatrix in="wash" type="matrix" values="0 0 0 0 0.35  0 0 0 0 0.25  0 0 0 0 0.15  0 0 0 0.75 -0.3" result="w2"/>
+<feComposite in="w2" in2="drawn" operator="in" result="mottle"/>
+<feMorphology in="drawn" operator="erode" radius="2.5" result="inner"/>
+<feComposite in="drawn" in2="inner" operator="out" result="rim0"/>
+<feColorMatrix in="rim0" type="matrix" values="0 0 0 0 0.3  0 0 0 0 0.22  0 0 0 0 0.15  0 0 0 0.16 0" result="rim"/>
+<feOffset in="drawn" dx="5" dy="7" result="off"/>
+<feGaussianBlur in="off" stdDeviation="5" result="sh0"/>
+<feColorMatrix in="sh0" type="matrix" values="0 0 0 0 0.25  0 0 0 0 0.2  0 0 0 0 0.15  0 0 0 0.22 0" result="shadow"/>
+<feMerge><feMergeNode in="shadow"/><feMergeNode in="bleed"/><feMergeNode in="drawn"/><feMergeNode in="mottle"/><feMergeNode in="rim"/></feMerge>
+</filter>
+<radialGradient id="vig" cx="50%" cy="50%" r="75%"><stop offset="60%" stop-color="#6b4a2a" stop-opacity="0"/><stop offset="100%" stop-color="#6b4a2a" stop-opacity="0.22"/></radialGradient>
+</defs>
+<rect width="1200" height="760" fill="#faf6ee" filter="url(#paper)"/>
+<rect width="1200" height="760" fill="url(#vig)"/>
+<rect x="14" y="14" width="1172" height="732" fill="none" stroke="#2f2a26" stroke-width="2"/>
+<rect x="20" y="20" width="1160" height="720" fill="none" stroke="#2f2a26" stroke-width="0.7"/>
+<text x="44" y="64" font-size="30" font-weight="bold" fill="#2f2a26" letter-spacing="3">THE AMMONIA CONVERTER</text>
+<line x1="44" y1="76" x2="104" y2="76" stroke="#b5523b" stroke-width="3"/>
+<text x="44" y="104" font-size="20" font-style="italic" fill="#8a8178">A converter of the 1910s cut open, with the loop of gas around it</text>
+<g filter="url(#ink)">
+<path d="M 44.0,590.0 L 140.0,590.0" fill="none" stroke="#2f2a26" stroke-width="18" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 44.0,590.0 L 140.0,590.0" fill="none" stroke="#9aa2a7" stroke-width="14" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 1080.0,530.0 L 1080.0,150.0 L 110.0,150.0 L 110.0,590.0" fill="none" stroke="#2f2a26" stroke-width="18" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 1080.0,530.0 L 1080.0,150.0 L 110.0,150.0 L 110.0,590.0" fill="none" stroke="#9aa2a7" stroke-width="14" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 180.0,540.0 L 180.0,250.0 L 580.0,250.0" fill="none" stroke="#2f2a26" stroke-width="18" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 180.0,540.0 L 180.0,250.0 L 580.0,250.0" fill="none" stroke="#9aa2a7" stroke-width="14" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 640.0,640.0 L 640.0,690.0 L 870.0,690.0 L 870.0,560.0" fill="none" stroke="#2f2a26" stroke-width="18" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 640.0,640.0 L 640.0,690.0 L 870.0,690.0 L 870.0,560.0" fill="none" stroke="#9aa2a7" stroke-width="14" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 870.0,380.0 L 870.0,340.0 L 1040.0,340.0 L 1040.0,530.0" fill="none" stroke="#2f2a26" stroke-width="18" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 870.0,380.0 L 870.0,340.0 L 1040.0,340.0 L 1040.0,530.0" fill="none" stroke="#9aa2a7" stroke-width="14" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 1080.0,670.0 L 1080.0,722.0" fill="none" stroke="#2f2a26" stroke-width="14" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 1080.0,670.0 L 1080.0,722.0" fill="none" stroke="#9aa2a7" stroke-width="10" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="1050" y1="680" x2="1050" y2="720" stroke="#2f2a26" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="1050" y1="720" x2="1041.7519780508567" y2="706.2897799460968" stroke="#2f2a26" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="1050" y1="720" x2="1058.2480219491433" y2="706.2897799460968" stroke="#2f2a26" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="50" y1="624" x2="100" y2="624" stroke="#2f2a26" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="100" y1="624" x2="86.28977994609684" y2="632.2480219491434" stroke="#2f2a26" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="100" y1="624" x2="86.28977994609684" y2="615.7519780508566" stroke="#2f2a26" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="420" y1="122" x2="360" y2="122" stroke="#2f2a26" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="360" y1="122" x2="373.71022005390313" y2="113.75197805085656" stroke="#2f2a26" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="360" y1="122" x2="373.7102200539032" y2="130.24802194914344" stroke="#2f2a26" stroke-width="2.5" stroke-linecap="round"/>
+<path d="M 140.0,540.0 L 280.0,540.0 L 280.0,640.0 L 140.0,640.0 Z" fill="#7d858a" stroke="#2f2a26" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<circle cx="210" cy="590" r="36" fill="#c9ced1" stroke="#2f2a26" stroke-width="2.5"/>
+<line x1="210" y1="590" x2="240.0" y2="590.0" stroke="#2f2a26" stroke-width="2" stroke-linecap="round"/>
+<line x1="210" y1="590" x2="225.0" y2="615.9807621135332" stroke="#2f2a26" stroke-width="2" stroke-linecap="round"/>
+<line x1="210" y1="590" x2="195.0" y2="615.9807621135332" stroke="#2f2a26" stroke-width="2" stroke-linecap="round"/>
+<line x1="210" y1="590" x2="180.0" y2="590.0" stroke="#2f2a26" stroke-width="2" stroke-linecap="round"/>
+<line x1="210" y1="590" x2="195.0" y2="564.0192378864668" stroke="#2f2a26" stroke-width="2" stroke-linecap="round"/>
+<line x1="210" y1="590" x2="225.0" y2="564.0192378864668" stroke="#2f2a26" stroke-width="2" stroke-linecap="round"/>
+<path d="M 150.0,640.0 L 270.0,640.0 L 276.0,656.0 L 144.0,656.0 Z" fill="#6f777c" stroke="#2f2a26" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 578.0,220.0 L 702.0,220.0 L 702.0,620.0 L 578.0,620.0 Z" fill="#7d858a" stroke="#2f2a26" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 566.0,200.0 L 714.0,200.0 L 714.0,230.0 L 566.0,230.0 Z" fill="#7d858a" stroke="#2f2a26" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<circle cx="574" cy="215" r="4" fill="#2f2a26" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="706" cy="215" r="4" fill="#2f2a26" stroke="#2f2a26" stroke-width="0"/>
+<path d="M 566.0,610.0 L 714.0,610.0 L 714.0,640.0 L 566.0,640.0 Z" fill="#7d858a" stroke="#2f2a26" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<circle cx="574" cy="625" r="4" fill="#2f2a26" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="706" cy="625" r="4" fill="#2f2a26" stroke="#2f2a26" stroke-width="0"/>
+<path d="M 594.0,230.0 L 686.0,230.0 L 686.0,610.0 L 594.0,610.0 Z" fill="#c9ced1" stroke="#2f2a26" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 602.0,230.0 L 678.0,230.0 L 678.0,610.0 L 602.0,610.0 Z" fill="#f2f0ea" stroke="#2f2a26" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 602.0,300.0 L 678.0,300.0 L 678.0,540.0 L 602.0,540.0 Z" fill="#b5523b" stroke="#2f2a26" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" />
+<circle cx="623.1" cy="329.5" r="3" fill="#7a3324" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="633.3" cy="341.3" r="3" fill="#7a3324" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="612.3" cy="397.6" r="3" fill="#7a3324" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="666.7" cy="488.5" r="3" fill="#7a3324" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="657.0" cy="356.6" r="3" fill="#7a3324" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="642.3" cy="369.1" r="3" fill="#7a3324" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="619.1" cy="330.2" r="3" fill="#7a3324" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="621.7" cy="517.5" r="3" fill="#7a3324" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="661.1" cy="489.9" r="3" fill="#7a3324" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="659.2" cy="350.1" r="3" fill="#7a3324" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="627.8" cy="449.0" r="3" fill="#7a3324" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="654.8" cy="500.9" r="3" fill="#7a3324" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="664.3" cy="325.8" r="3" fill="#7a3324" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="646.8" cy="459.1" r="3" fill="#7a3324" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="640.4" cy="346.5" r="3" fill="#7a3324" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="638.3" cy="326.4" r="3" fill="#7a3324" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="667.8" cy="503.3" r="3" fill="#7a3324" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="643.0" cy="374.5" r="3" fill="#7a3324" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="666.2" cy="436.5" r="3" fill="#7a3324" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="664.5" cy="499.4" r="3" fill="#7a3324" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="640.5" cy="400.4" r="3" fill="#7a3324" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="646.3" cy="404.3" r="3" fill="#7a3324" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="618.3" cy="375.6" r="3" fill="#7a3324" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="660.0" cy="315.9" r="3" fill="#7a3324" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="611.0" cy="448.8" r="3" fill="#7a3324" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="625.9" cy="427.9" r="3" fill="#7a3324" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="638.2" cy="384.2" r="3" fill="#7a3324" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="671.8" cy="350.6" r="3" fill="#7a3324" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="634.4" cy="352.2" r="3" fill="#7a3324" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="648.5" cy="369.0" r="3" fill="#7a3324" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="630.8" cy="476.3" r="3" fill="#7a3324" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="628.5" cy="433.3" r="3" fill="#7a3324" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="665.9" cy="329.0" r="3" fill="#7a3324" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="611.9" cy="358.2" r="3" fill="#7a3324" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="657.0" cy="446.3" r="3" fill="#7a3324" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="623.2" cy="381.5" r="3" fill="#7a3324" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="619.4" cy="410.7" r="3" fill="#7a3324" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="610.7" cy="465.0" r="3" fill="#7a3324" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="665.3" cy="523.7" r="3" fill="#7a3324" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="655.0" cy="524.8" r="3" fill="#7a3324" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="609.2" cy="371.9" r="3" fill="#7a3324" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="669.8" cy="482.8" r="3" fill="#7a3324" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="634.3" cy="521.1" r="3" fill="#7a3324" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="647.7" cy="492.5" r="3" fill="#7a3324" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="626.8" cy="349.6" r="3" fill="#7a3324" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="636.4" cy="337.1" r="3" fill="#7a3324" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="632.4" cy="525.3" r="3" fill="#7a3324" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="629.2" cy="308.1" r="3" fill="#7a3324" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="610.9" cy="344.7" r="3" fill="#7a3324" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="658.2" cy="388.7" r="3" fill="#7a3324" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="626.6" cy="328.1" r="3" fill="#7a3324" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="670.8" cy="402.7" r="3" fill="#7a3324" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="621.3" cy="319.5" r="3" fill="#7a3324" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="611.5" cy="344.5" r="3" fill="#7a3324" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="651.3" cy="340.1" r="3" fill="#7a3324" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="610.6" cy="417.9" r="3" fill="#7a3324" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="623.9" cy="533.5" r="3" fill="#7a3324" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="615.8" cy="426.7" r="3" fill="#7a3324" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="657.5" cy="399.3" r="3" fill="#7a3324" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="671.2" cy="414.9" r="3" fill="#7a3324" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="623.5" cy="399.6" r="3" fill="#7a3324" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="610.4" cy="402.0" r="3" fill="#7a3324" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="623.9" cy="508.8" r="3" fill="#7a3324" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="661.2" cy="419.7" r="3" fill="#7a3324" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="610.0" cy="364.0" r="3" fill="#7a3324" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="623.5" cy="353.4" r="3" fill="#7a3324" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="622.8" cy="504.3" r="3" fill="#7a3324" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="617.1" cy="317.7" r="3" fill="#7a3324" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="667.4" cy="434.9" r="3" fill="#7a3324" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="671.4" cy="397.9" r="3" fill="#7a3324" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="586.0" cy="250" r="3" fill="#faf6ee" stroke="#2f2a26" stroke-width="1"/>
+<circle cx="694.0" cy="250" r="3" fill="#faf6ee" stroke="#2f2a26" stroke-width="1"/>
+<circle cx="586.0" cy="286" r="3" fill="#faf6ee" stroke="#2f2a26" stroke-width="1"/>
+<circle cx="694.0" cy="286" r="3" fill="#faf6ee" stroke="#2f2a26" stroke-width="1"/>
+<circle cx="586.0" cy="322" r="3" fill="#faf6ee" stroke="#2f2a26" stroke-width="1"/>
+<circle cx="694.0" cy="322" r="3" fill="#faf6ee" stroke="#2f2a26" stroke-width="1"/>
+<circle cx="586.0" cy="358" r="3" fill="#faf6ee" stroke="#2f2a26" stroke-width="1"/>
+<circle cx="694.0" cy="358" r="3" fill="#faf6ee" stroke="#2f2a26" stroke-width="1"/>
+<circle cx="586.0" cy="394" r="3" fill="#faf6ee" stroke="#2f2a26" stroke-width="1"/>
+<circle cx="694.0" cy="394" r="3" fill="#faf6ee" stroke="#2f2a26" stroke-width="1"/>
+<circle cx="586.0" cy="430" r="3" fill="#faf6ee" stroke="#2f2a26" stroke-width="1"/>
+<circle cx="694.0" cy="430" r="3" fill="#faf6ee" stroke="#2f2a26" stroke-width="1"/>
+<circle cx="586.0" cy="466" r="3" fill="#faf6ee" stroke="#2f2a26" stroke-width="1"/>
+<circle cx="694.0" cy="466" r="3" fill="#faf6ee" stroke="#2f2a26" stroke-width="1"/>
+<circle cx="586.0" cy="502" r="3" fill="#faf6ee" stroke="#2f2a26" stroke-width="1"/>
+<circle cx="694.0" cy="502" r="3" fill="#faf6ee" stroke="#2f2a26" stroke-width="1"/>
+<circle cx="586.0" cy="538" r="3" fill="#faf6ee" stroke="#2f2a26" stroke-width="1"/>
+<circle cx="694.0" cy="538" r="3" fill="#faf6ee" stroke="#2f2a26" stroke-width="1"/>
+<circle cx="586.0" cy="574" r="3" fill="#faf6ee" stroke="#2f2a26" stroke-width="1"/>
+<circle cx="694.0" cy="574" r="3" fill="#faf6ee" stroke="#2f2a26" stroke-width="1"/>
+<line x1="640" y1="260" x2="640" y2="286" stroke="#2f2a26" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="640" y1="286" x2="631.7519780508566" y2="272.28977994609687" stroke="#2f2a26" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="640" y1="286" x2="648.2480219491434" y2="272.2897799460968" stroke="#2f2a26" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="640" y1="554" x2="640" y2="590" stroke="#2f2a26" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="640" y1="590" x2="631.7519780508566" y2="576.2897799460968" stroke="#2f2a26" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="640" y1="590" x2="648.2480219491434" y2="576.2897799460968" stroke="#2f2a26" stroke-width="2.5" stroke-linecap="round"/>
+<path d="M 820.0,380.0 L 920.0,380.0 L 920.0,560.0 L 820.0,560.0 Z" fill="#cfdde3" stroke="#2f2a26" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 840,400 Q 870,414 900,400" fill="none" stroke="#2f2a26" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 840,426 Q 870,440 900,426" fill="none" stroke="#2f2a26" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 840,452 Q 870,466 900,452" fill="none" stroke="#2f2a26" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 840,478 Q 870,492 900,478" fill="none" stroke="#2f2a26" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 840,504 Q 870,518 900,504" fill="none" stroke="#2f2a26" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 840,530 Q 870,544 900,530" fill="none" stroke="#2f2a26" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 1020.0,530.0 L 1140.0,530.0 L 1140.0,670.0 L 1020.0,670.0 Z" fill="#c9ced1" stroke="#2f2a26" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 1024.0,610.0 L 1136.0,610.0 L 1136.0,666.0 L 1024.0,666.0 Z" fill="#a9c6d4" stroke="#2f2a26" stroke-width="0" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="1024" y1="610" x2="1136" y2="610" stroke="#2f2a26" stroke-width="1.5" stroke-linecap="round"/>
+<line x1="60" y1="590" x2="90" y2="690" stroke="#2f2a26" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="60" cy="590" r="4" fill="#2f2a26" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="90" cy="690" r="19" fill="#faf6ee" stroke="#2f2a26" stroke-width="2"/>
+<line x1="250" y1="560" x2="330" y2="620" stroke="#2f2a26" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="250" cy="560" r="4" fill="#2f2a26" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="330" cy="620" r="19" fill="#faf6ee" stroke="#2f2a26" stroke-width="2"/>
+<line x1="620" y1="420" x2="470" y2="330" stroke="#2f2a26" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="620" cy="420" r="4" fill="#2f2a26" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="470" cy="330" r="19" fill="#faf6ee" stroke="#2f2a26" stroke-width="2"/>
+<line x1="586.0" y1="556" x2="490" y2="480" stroke="#2f2a26" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="586.0" cy="556" r="4" fill="#2f2a26" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="490" cy="480" r="19" fill="#faf6ee" stroke="#2f2a26" stroke-width="2"/>
+<line x1="950" y1="150" x2="1000" y2="230" stroke="#2f2a26" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="950" cy="150" r="4" fill="#2f2a26" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="1000" cy="230" r="19" fill="#faf6ee" stroke="#2f2a26" stroke-width="2"/>
+</g>
+<text x="1035" y="712" text-anchor="end" font-size="18" fill="#8a8178" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-style="italic">liquid ammonia</text>
+<text x="640" y="188" text-anchor="middle" font-size="18" fill="#8a8178" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-style="italic">the converter</text>
+<text x="980" y="470" text-anchor="middle" font-size="18" fill="#8a8178" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-style="italic">the cooler</text>
+<text x="90" y="697" text-anchor="middle" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">1</text>
+<text x="120" y="697" text-anchor="start" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">Nitrogen from the air and</text>
+<text x="120" y="724" text-anchor="start" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">hydrogen, one part to three</text>
+<text x="330" y="627" text-anchor="middle" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">2</text>
+<text x="360" y="627" text-anchor="start" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">Squeezed to about</text>
+<text x="360" y="654" text-anchor="start" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">200 atmospheres</text>
+<text x="470" y="337" text-anchor="middle" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">3</text>
+<text x="440" y="337" text-anchor="end" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">Hot iron catalyst joins</text>
+<text x="440" y="364" text-anchor="end" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">them into ammonia</text>
+<text x="490" y="487" text-anchor="middle" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">4</text>
+<text x="460" y="487" text-anchor="end" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">Holes in the steel shell</text>
+<text x="460" y="514" text-anchor="end" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">let stray hydrogen out</text>
+<text x="1000" y="237" text-anchor="middle" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">5</text>
+<text x="970" y="237" text-anchor="end" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">Unchanged gas</text>
+<text x="970" y="264" text-anchor="end" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">goes round again</text>
+</svg>

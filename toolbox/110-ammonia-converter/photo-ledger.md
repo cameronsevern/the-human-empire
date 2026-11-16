@@ -1,0 +1,3 @@
+| File | What it shows | Commons page | Author | Licence |
+|---|---|---|---|---|
+| toolbox/110-ammonia-converter/photo-rjukan-converter.jpg | A Haber-Bosch synthesis reactor, a long rusty steel cylinder with heavy bolted flanges at both ends, lying on a riveted Norsk Hydro railway wagon of 1928 (a transformer wagon converted to carry synthesis furnaces when fertiliser production at Rjukan was phased out), on a short track at Rjukan, Norway, September 2010, birch woods behind. Not a file used in chapter 110 (which has only drawn charts). Commons thumbnail 1280x851 | https://commons.wikimedia.org/wiki/File:Synthesis_Furnace_Rjukan.jpg | David Aasen Sandved | CC BY-SA 3.0 |
