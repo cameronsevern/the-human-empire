@@ -2,7 +2,7 @@
 
 *China, from 1978 to 2020*
 
-China got rich by letting its people work for themselves, while the party that ruled them kept every lever of political power. It began when peasants were allowed to farm their own plots. It continued when foreign companies were invited to make goods for export on the coast, using the labour of some two hundred million people who left the villages. In forty years, eight hundred million Chinese climbed out of extreme poverty, which is the largest escape from poverty ever recorded.
+China got rich by letting its people work for themselves, while the party that ruled them kept every lever of political power. It began when peasants were allowed to farm their own plots. It continued when foreign companies were invited to make goods for export on the coast, using the labour of more than two hundred million people who left the villages. In forty years, eight hundred million Chinese climbed out of extreme poverty, which is the largest escape from poverty ever recorded.
 
 On a cold night near the end of 1978, the heads of eighteen families met in a mud-walled house in Xiaogang, a village in the eastern province of Anhui. Xiaogang was one of the poorest places in China. In the great famine twenty years earlier, sixty-seven of its hundred and twenty people had starved. In most winters since, the villagers had gone out on the roads to beg.
 
@@ -20,7 +20,7 @@ Deng Xiaoping was born in 1904, the son of a landowner in the inland province of
 
 For that he was thrown out as a follower of the capitalist road, and spent years repairing tractors while his son lay paralysed after a fall from a window in the custody of Red Guards. He was brought back, and thrown out again. By 1978, two years after Mao's death, he had outmanoeuvred Mao's chosen heir and become the man who decided.
 
-He had no grand theory. He described his method as crossing the river by feeling for the stones. What he had was a clear view of how far China had fallen behind. That year a Chinese person was poorer than the average African. Deng went to see the alternatives for himself. In Japan he rode the bullet train and said that it felt as if someone were pushing you from behind. In America, early in 1979, he toured a car plant and the space centre, and at a rodeo in Texas he put on a ten-gallon hat, which did more than any speech to tell the Chinese that the Americans were now to be learned from.
+He had no grand theory. He described his method as crossing the river by feeling for the stones. What he had was a clear view of how far China had fallen behind. That year a Chinese person was poorer than the average African south of the Sahara. Deng went to see the alternatives for himself. In Japan he rode the bullet train and said that it felt as if someone were pushing you from behind. In America, early in 1979, he toured a car plant and the space centre, and at a rodeo in Texas he put on a ten-gallon hat, which did more than any speech to tell the Chinese that the Americans were now to be learned from.
 
 In December 1978 he told a meeting of the party's leaders that it was time to stop arguing about doctrine and to seek truth from facts. Some people and some regions, he said later, should be allowed to get rich first.
 
@@ -42,7 +42,7 @@ Shenzhen had about thirty thousand people in its market town in 1980. Its builde
 
 ## One child
 
-The same pragmatists who freed the farmers took another decision in those years, and it was the harshest of all. They had concluded that China could not become prosperous if its population kept growing, and their engineers calculated that it must be held to about a billion.
+The same pragmatists who freed the farmers took another decision in those years, and it was the harshest of all. They had concluded that China could not become prosperous if its population kept growing, and their engineers calculated that it must be held to about 1.2 billion by the end of the century.
 
 From 1980 most couples were permitted one child. Women had to register their pregnancies and apply for permission to give birth. Those who conceived without permission were pressed, and often forced, to have an abortion, sometimes late in pregnancy, and in 1983 alone twenty million people were sterilised. Families who evaded the rules had their houses pulled down.
 
@@ -52,9 +52,9 @@ In the countryside a son was a family's only pension. When they could have only 
 
 Deng had loosened the economy, and he had no intention of loosening anything else. In the spring of 1989 that was put to the test.
 
-A decade of reform had brought inflation, which touched twenty per cent, and it had brought corruption. Steel, coal and many other goods now had two prices, a low one fixed by the state for the planned part of production and a higher one in the market for the rest. Officials and their children used their positions to buy at the first and sell at the second. Students, whose prospects depended on connections that they did not have, were angry, and so were workers on fixed wages.
+A decade of reform had brought inflation, which neared twenty per cent, and it had brought corruption. Steel, coal and many other goods now had two prices, a low one fixed by the state for the planned part of production and a higher one in the market for the rest. Officials and their children used their positions to buy at the first and sell at the second. Students, whose prospects depended on connections that they did not have, were angry, and so were workers on fixed wages.
 
-In April a popular reforming leader died, and students from Beijing's universities marched to the great square in the middle of the capital to mourn him. They stayed. They asked for a free press, for dialogue with the leaders, and for officials to disclose what they owned. In May several thousand began a hunger strike, timed for a visit by the Soviet leader Mikhail Gorbachev, which the government had to move out of the square in embarrassment. Workers, journalists and even policemen marched in support, and at the peak a million people filled the square. Art students built a statue of white plaster ten metres high, a woman holding a torch in both hands, facing the portrait of Mao.
+In April a popular reforming leader died, and students from Beijing's universities marched to the great square in the middle of the capital to mourn him. They stayed. They asked for a free press, for dialogue with the leaders, and for officials to disclose what they owned. In May several thousand began a hunger strike, timed for a visit by the Soviet leader Mikhail Gorbachev, which the government had to move out of the square in embarrassment. Workers, journalists and even policemen marched in support, and at the peak a million people filled the square. Art students built a statue of white foam and plaster ten metres high, a woman holding a torch in both hands, facing the portrait of Mao.
 
 The party's general secretary, Zhao Ziyang, who was its formal head and Deng's own choice for the post, wanted to talk to them. Deng and the old soldiers around him remembered the Red Guards, and saw chaos. On 20 May martial law was declared. The first troops sent into the city were blocked by crowds of ordinary citizens, who lectured the young soldiers and fed them.
 
@@ -98,9 +98,9 @@ Shoppers in the West got a generation of falling prices. The towns that had made
 
 For thirty years the Chinese economy grew at about ten per cent a year, which doubles it every seven. In 1981 nearly nine Chinese in ten lived on less than what two dollars a day would buy in America. By 2015 fewer than one in a hundred did. A child born in China today can expect to live to seventy-eight.
 
-The physical change is hard to grasp. China opened its first purpose-built high-speed railway in 2008, and now has more than the rest of the world put together. In the three years from 2011 it poured more cement than the United States used in the whole of the twentieth century.
+The physical change is hard to grasp. China opened its first 350-kilometre-an-hour railway in 2008, and now has more than the rest of the world put together. In the three years from 2011 it poured more cement than the United States used in the whole of the twentieth century.
 
-The costs were of the same order. For years the air of the northern cities in winter was dangerous to breathe, and China now puts more carbon into the atmosphere than all the other rich countries combined. Farmers were pushed off their land for a fraction of its value. A country that had been one of the most equal on Earth became one of the least.
+The costs were of the same order. For years the air of the northern cities in winter was dangerous to breathe, and China now puts more carbon into the atmosphere than all the other rich countries combined. Farmers were pushed off their land for a fraction of its value. A country that had been one of the most equal on Earth became one of the more unequal.
 
 What did not change was who governed. Many in the West had been sure that trade and wealth would bring democracy. In 2000 an American president said that China's attempt to control the internet was like trying to nail jelly to a wall. China nailed it. It built a filtered network of its own, behind a barrier that blocks foreign news and social media, and a system of cameras and data that follows its citizens more closely than any state has before.
 
