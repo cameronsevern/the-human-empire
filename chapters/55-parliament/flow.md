@@ -1,0 +1,4 @@
+Flow pass. Body prose 3,394 words before, 4,330 after.
+Main changes: connecting and consequence sentences after each step of the quarrel (tax custom, ship money, Hampden, the 1640 Parliaments, the army question, the second war, the Bill of Rights, the loans); long paragraphs split; "republic" and "bought safe loans" reasoning spelled out.
+check2 flags applied: softened new absolutes, removed three signpost or repeated sentences, softened the loan sentence to "safer ... in time cheaper". Also fixed a flagged order-of-events error in old text: the Scots now raise an army in 1637 to 1639 and march into England only after the spring 1640 Parliament is dismissed.
+Left unapplied: "cleared the chamber, just as the king had tried to do" (old text; the check says Charles came to arrest five members, not to clear the House; the comparison is the author's, so reported, not changed). "His brother James ... was not" (old text, slightly loose reference; left).
