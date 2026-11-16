@@ -42,7 +42,7 @@ On 11 January Dallaire sent a coded fax to the peacekeeping department at United
 
 The planners had studied the outside world carefully. In October 1993 American troops serving with a United Nations mission in Somalia had been caught in a street battle. Eighteen were killed, and the body of one was dragged through the streets in front of television cameras. Within days the American president announced that his forces would leave. The informant had told Dallaire what lesson the plotters drew from that. If some Belgian soldiers were killed, he said, Belgium would withdraw, and the mission would collapse.
 
-On the morning after the plane was shot down, soldiers went to the house of the prime minister, a Hutu woman who supported the peace agreement, and murdered her. The ten Belgian peacekeepers who had been guarding her were disarmed, taken to an army camp, and beaten and hacked to death.
+On the morning after the plane was shot down, soldiers went to the house of the prime minister, a Hutu woman who supported the peace agreement, and murdered her. The ten Belgian peacekeepers who had been guarding her were disarmed, taken to an army camp, and tortured and killed.
 
 It worked exactly as intended. Belgium announced within a week that it was pulling out its whole contingent, and urged other countries to do the same. French, Belgian and Italian paratroopers flew in, well armed, and for a few days there were more than enough good soldiers in Kigali to have stopped the killing in the capital. They had come to collect their own citizens. They drove to the airport past the roadblocks, with the expatriates and in some cases their dogs, and flew out again.
 
@@ -78,7 +78,7 @@ One of his unarmed observers was a tall, cheerful captain from Senegal named Mba
 
 The genocide was ended by the rebel army. Kagame's troops advanced steadily from the north, took the capital on 4 July, and two weeks later held everything except a zone in the south-west, where French troops had landed in June and behind whose lines many of the killers got away. They killed as they came, in reprisal, some tens of thousands of Hutu civilians.
 
-Ahead of them went one of the fastest mass flights ever seen. The defeated government ordered the population to leave, and two million Hutu walked out of the country, more than half of them, in a few days, across the border into Zaire, the huge country to the west, carrying their mattresses and cooking pots. Among them, and in command of them, were the army, the militia and the officials who had organised the slaughter.
+Ahead of them went one of the fastest mass flights ever seen. The defeated government ordered the population to leave, and two million Hutu walked out of the country, nearly a million of them, in a few days, across the border into Zaire, the huge country to the west, carrying their mattresses and cooking pots. Among them, and in command of them, were the army, the militia and the officials who had organised the slaughter.
 
 They settled on a field of black volcanic rock beside a lake, where no latrine could be dug, and cholera broke out. Fifty thousand died in a month. Now the world acted. Television showed the dying, aid poured in, and American soldiers arrived to purify water. The camps that the aid sustained were run by the killers, who taxed the food and used it to rebuild their army.
 
@@ -88,11 +88,11 @@ From those camps the militia raided back into Rwanda. In 1996 Kagame's governmen
 
 Kabila soon quarrelled with his sponsors, and in 1998 a second war began. Nine African countries sent armies. They stayed to help themselves to the gold, the diamonds and a dull metallic ore, used in every mobile telephone, that could be dug out of hillsides by hand. Dozens of local militias fought over the mines.
 
-Few people outside Africa could have said who was fighting whom. Most of the dying was not done in battle. Villagers driven into the forest again and again died of malaria, diarrhoea and hunger, far from any clinic. A medical charity estimated that between 1998 and 2007 more than five million people died who would otherwise have lived. Other researchers think that figure far too high. On any count it was one of the deadliest wars since 1945, and it has never fully stopped.
+Few people outside Africa could have said who was fighting whom. Most of the dying was not done in battle. Villagers driven into the forest again and again died of malaria, diarrhoea and hunger, far from any clinic. An aid agency estimated that between 1998 and 2007 more than five million people died who would otherwise have lived. Other researchers think that figure far too high. On any count it was one of the deadliest wars since 1945, and it has never fully stopped.
 
 ## A safe area
 
-Rwanda was not the only place where the world watched, and the other was two hours by air from Vienna.
+Rwanda was not the only place where the world watched, and the other was an hour by air from Vienna.
 
 Yugoslavia was a federation of six republics in the Balkans, held together for thirty-five years by a communist leader who had kept its Serbs, Croats, Muslims and others in careful balance. He died in 1980. When communism collapsed across eastern Europe, politicians in each republic found a new source of power in the grievances of their own nation. The most skilful was the leader of the Serbs, the largest group, who told them that they must all live in one state, whatever borders stood in the way.
 
@@ -104,13 +104,13 @@ On 11 July 1995 the Bosnian Serb army walked in. Its general had himself filmed 
 
 Over the next five days about eight thousand men and boys were shot in fields, warehouses and a school gymnasium, and bulldozed into pits. It was the worst massacre in Europe since the Second World War, and international courts have ruled that it was genocide.
 
-Srebrenica finally shamed the Western governments. When a Serb shell killed forty-three people in a Sarajevo market six weeks later, the alliance of the Cold War, NATO, which had never fought a campaign, bombed the Bosnian Serb army for two weeks, and within three months the war was over. A hundred thousand people had died in it.
+Srebrenica finally shamed the Western governments. When a Serb shell killed forty-three people in a Sarajevo market seven weeks later, the alliance of the Cold War, NATO, which had never fought a campaign, bombed the Bosnian Serb army for three weeks, and within three months the war was over. A hundred thousand people had died in it.
 
 ## Courts
 
 The governments that had not sent soldiers sent lawyers. Two international tribunals were set up, the first since the trials of the Nazi leaders. The one for Rwanda convicted a small-town mayor in 1998, in the first verdict of genocide ever handed down by an international court, and it later convicted the founders of the radio station. The one for Yugoslavia tried the Serbian president, who died in his cell before the verdict, and sentenced the general of Srebrenica to prison for life. A permanent court was founded in 2002. The United States, Russia and China have not joined it.
 
-Rwanda itself had more than a hundred thousand suspects in its jails and a few dozen surviving judges. It turned to an old custom. In every village the accused were brought before their neighbours, sitting on the grass, and those who confessed fully and asked forgiveness received lighter sentences. Twelve thousand such courts heard more than a million cases in ten years. The new government removed the ethnic label from the identity cards and made it an offence to stir up division between Hutu and Tutsi. It has given the country order and one of the fastest-growing economies in Africa, and Kagame, who still rules it, does not tolerate opposition.
+Rwanda itself had more than a hundred thousand suspects in its jails and hardly a judge left alive. It turned to an old custom. In every village the accused were brought before their neighbours, sitting on the grass, and those who confessed fully and asked forgiveness received lighter sentences. Twelve thousand such courts heard more than a million cases in ten years. The new government removed the ethnic label from the identity cards and made it an offence to stir up division between Hutu and Tutsi. It has given the country order and one of the fastest-growing economies in Africa, and Kagame, who still rules it, does not tolerate opposition.
 
 In March 1998 the American president stopped at Kigali airport. He told an audience of survivors that the world had not acted quickly enough, and had not called the crimes by their rightful name. He stayed three and a half hours, and the engines of his aircraft were kept running.
 
