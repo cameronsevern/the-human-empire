@@ -10,13 +10,22 @@ A man of forty-seven stood on a small wooden platform above the crowd. Kwame Nkr
 
 Ghana was the first country in Africa south of the Sahara to win its freedom from a European empire, and guests had come from all over the world. Among them were the vice-president of the United States and, in the crowd on the polo ground, a young Black minister from Alabama named Martin Luther King, who wept as well. When the two Americans met at a reception, King told the vice-president that he wanted him to come and visit them down in Alabama, where they were seeking the same kind of freedom that the Gold Coast was celebrating.
 
+![A very large white and yellow concrete arch on pillars above a stand overlooking an empty square, with the sea behind](images/arch.jpg)
+*The Independence Arch and the stand of Independence Square in Accra, built beside the sea near the place where Ghana's independence was celebrated in 1957. Photo: George Appiah, CC BY 2.0.*
+
 ## The spell
 
 Fifty years earlier, the empires had looked permanent to rulers and ruled alike. A few thousand European officials governed hundreds of millions of people, and they did it largely by reputation. Most of their subjects had come to believe that the Europeans could not be dislodged.
 
 The war broke the spell. In February 1942 a Japanese army captured Singapore, Britain's great fortress in Asia, and eighty thousand British, Indian and Australian soldiers laid down their arms. Within months the Japanese had driven the British from Burma and Malaya, the Dutch from Indonesia and the Americans from the Philippines. An Asian power had humbled the Europeans in front of the whole of Asia. The Japanese proved to be harsher masters than those they replaced. However, they armed and trained local nationalists, and when they surrendered in 1945 they left behind them countries that had seen the old rulers run.
 
+![Japanese officers seated and standing around a table at the surrender talks, with the backs of British officers in the foreground](images/singapore.jpg)
+*Japanese commanders at the table where the British surrendered Singapore, 15 February 1942. Photographer unknown, Japanese official photograph, public domain.*
+
 Two days after that surrender, in Jakarta, the nationalist leader Sukarno read out a declaration of two sentences proclaiming the independence of Indonesia. The Dutch, who had themselves just been freed from German occupation, sent an army to take their colony back. They fought for four years. They gave up in 1949, when the United States threatened to cut off the aid on which the Dutch economy depended.
+
+![Sukarno in a white suit and black cap reading from a sheet into a microphone, with onlookers behind him](images/sukarno.jpg)
+*Sukarno reading the proclamation of Indonesian independence in Jakarta, 17 August 1945. Photo: Frans Mendur, public domain.*
 
 The war had also changed the colonial soldiers. Millions of Indians, Africans and Arabs had fought for Britain and France, in Burma, Italy and the desert. They had seen white men afraid, and had been told that they were fighting for freedom. In 1941 the British prime minister and the American president had signed a declaration promising to respect the right of all peoples to choose their own form of government. Churchill explained afterwards that he had meant the peoples conquered by Hitler, and not those of the British empire. The peoples of the empire had read it for themselves.
 
@@ -57,6 +66,9 @@ The British answer was on another scale. More than a million Kikuyu were moved i
 
 Jomo Kenyatta, whom the British had jailed as the leader of the rising, led Kenya to independence in 1963 and became its first president a year later. Fifty years after that, the British government expressed its regret in parliament and paid compensation to five thousand elderly survivors of the camps.
 
+![An elderly bearded man in a dark jacket and a chain of office, raising a finger](images/kenyatta.jpg)
+*Jomo Kenyatta, president of Kenya, in 1978, the year of his death. Photo: Nationaal Archief, Anefo, CC BY-SA 3.0 nl.*
+
 ## Part of France
 
 The hardest of all these wars was fought across the Mediterranean from France.
@@ -68,6 +80,9 @@ On 8 May 1945, the day that Germany surrendered, Muslims in the town of Sétif j
 On 1 November 1954 a new movement, the National Liberation Front, set off bombs and attacked police posts across the country. It had a few hundred fighters. France answered that Algeria was France and that there would be no negotiation, and in time sent four hundred thousand soldiers, most of them young conscripts.
 
 Both sides fought without restraint. The Front murdered settlers and cut the throats of Muslims who cooperated with the French. In 1956 it carried the war into the city of Algiers, where young women in European dress left bombs in cafés and a dance hall. The government handed the city to the paratroopers, who broke the network in nine months. They did it by arresting thousands of people and torturing them with electricity and water for the names of others. Three thousand of those arrested were never seen again. A French general admitted, more than forty years later, that he had tortured and killed prisoners there, and said that he did not regret it.
+
+![A French officer in white uniform holding up a device from a table covered in bombs and parts, with journalists looking on](images/algiers.jpg)
+*A French officer shows journalists bombs recovered in searches of the Casbah of Algiers during the battle of Algiers. Photographer unknown, public domain.*
 
 The army won the battle and France lost the war. News of the torture divided the country. In May 1958 the settlers and the generals in Algiers, fearing that Paris was about to give in, rose in revolt, and the government of France collapsed. Charles de Gaulle, the leader of France's wartime resistance, was called back to power as the one man the army would obey. He flew to Algiers and told a vast crowd of settlers from a balcony: I have understood you.
 
@@ -81,11 +96,17 @@ The Suez Canal, which runs through Egypt and joins the Mediterranean to the Red 
 
 The American president had not been consulted, and was furious. Investors were selling pounds, and Britain needed an emergency loan. Washington let it be known that there would be no loan until the troops left. They left. The prime minister resigned. Nasser, who had lost every battle, became the hero of the Arab world.
 
+![An aerial view of a harbour town with a huge column of black smoke rising from burning oil tanks, ships lying offshore](images/suez.jpg)
+*Smoke rising from oil tanks beside the Suez Canal at Port Said after the Anglo-French assault of 5 November 1956. Photo: Fleet Air Arm official photographer, public domain.*
+
 ## Neither side
 
 In April 1955 the leaders of twenty-nine Asian and African countries met in the Indonesian hill town of Bandung. Between them they governed more than half of humanity. Sukarno, their host, told them that it was the first conference of coloured peoples across continents in the history of mankind.
 
 Most of those present had been subjects of an empire ten years before. They did not agree on much. Some were allies of the United States, China was communist, and India wanted to side with neither. What they shared was a refusal to accept that the world's only quarrel was the one between Washington and Moscow. They condemned colonialism "in all its manifestations", demanded a voice in world affairs, and resolved to stand together.
+
+![A crowded conference hall seen from above, delegates in suits, robes and headdresses seated at long tables](images/bandung.png)
+*A plenary session of the Asian-African conference at Bandung, April 1955. Photo: Foreign Ministry of Indonesia, public domain.*
 
 A French writer had found a name for them three years earlier. Before the French Revolution, he pointed out, the common people, who were nearly everyone, had been called the third estate. They had been ignored, exploited and despised, and they had wanted to become something. The poor countries, which belonged by rights to neither the capitalist nor the communist camp whatever alliances their governments had signed, were a third world.
 
@@ -96,6 +117,9 @@ The worst handover of all took place in the middle of Africa.
 Belgium had run the Congo, a territory the size of western Europe, as a business. It built mines, railways and clinics, and taught a great many Congolese to read. It allowed them no politics and almost no higher education. As late as 1955 a Belgian professor who proposed independence in thirty years was thought a radical. Then riots broke out in the capital, and the Congolese parties, summoned to Brussels at the start of 1960, stood together and demanded independence at once. The Belgians lost their nerve and agreed to leave in five months. On independence day, 30 June 1960, the country had fifteen million people. A few dozen of them had university degrees. It had no African doctors, and no African officers in its army.
 
 The king of the Belgians came to the ceremony. He made a speech praising the genius of his great-great-uncle, the king who had founded the colony, and advising the Congolese not to spoil what Belgium had given them. The new prime minister, a former postal clerk of thirty-four named Patrice Lumumba, had not been due to speak. He rose and replied. We have known mockery, insults and blows, he said, morning, noon and night, because we were Negroes. We have seen our lands taken. Who will forget the shootings, or the cells into which those who would not submit were thrown?
+
+![Patrice Lumumba in a bow tie, pen in hand over a document, beside Belgian prime minister Gaston Eyskens, who is gesturing as he speaks](images/signing.jpg)
+*Patrice Lumumba signing the document of independence next to the Belgian prime minister Gaston Eyskens, 30 June 1960. Photo: Congopresse, public domain.*
 
 Within a week the army mutinied against its Belgian officers. Belgian troops flew back in. The province of Katanga, which held the copper mines, declared itself a separate country with the support of Belgian mining interests. Lumumba asked the United Nations to expel the Belgians. Its soldiers arrived within days, and refused to move against Katanga, so he turned to the Soviet Union, which sent aircraft and trucks.
 
@@ -110,6 +134,9 @@ The new countries began with heavy handicaps. Their borders were the lines that 
 Their economies had been built to supply Europe with a single crop or metal, and the price was set elsewhere. Ghana lived by cocoa. Nkrumah borrowed heavily to build a great dam, factories and schools, and dreamed of uniting the whole continent in one federation. Then the price of cocoa fell by more than half. He grew dictatorial, jailed his opponents without trial, and in 1966 was overthrown by his own army while on a visit to China. In the next forty years African armies carried out about eighty successful coups.
 
 Nkrumah spent his exile writing about what he called the new colonialism. The flags had changed, he argued, and little else. The mines and plantations still belonged to foreign companies, the former rulers still trained the armies and lent the money, and a government that stepped out of line could expect to be removed, as Lumumba had been.
+
+![President John F. Kennedy and Kwame Nkrumah, in dark suits, standing before microphones beneath the seal of the President of the United States](images/nkrumah.jpg)
+*Kwame Nkrumah with President John F. Kennedy at the White House, 8 March 1961, four years after Ghana's independence. Photo: Abbie Rowe, public domain.*
 
 There was truth in it, and there were also gains. In the first decades of independence, the number of African children in school multiplied many times over, and people lived longer. No country that won its freedom has asked for its old rulers to return.
 
