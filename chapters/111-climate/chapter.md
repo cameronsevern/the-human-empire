@@ -6,9 +6,15 @@ We know because the physics was worked out more than a century and a half ago, b
 
 In March 1958 a chemist of twenty-nine named Charles David Keeling set up an instrument in a small concrete hut near the top of Mauna Loa, a volcano in Hawaii. He had chosen the place with care. It stands in the middle of the Pacific, nearly three and a half thousand metres up, as far as possible from any factory, city or forest, and the air that blows across it has been thoroughly mixed by thousands of kilometres of ocean. The instrument measured, several times an hour, how much of that air was carbon dioxide.
 
+![Low white and grey observatory buildings on black lava rock, reached by a wooden boardwalk, with a bank of cloud and a distant mountain beyond](images/mlo.jpg)
+*The Mauna Loa Observatory in Hawaii in 2004, on bare lava high above the clouds. The carbon dioxide measurements began here in 1958. Photo: Forrest M. Mims III, NOAA, public domain.*
+
 The first reading was three hundred and thirteen parts in a million. Over the following months the figure rose a little, and then fell, and Keeling worried that the machine was faulty. It was not. He was watching the planet breathe. Most of the world's land, and so most of its trees, lies in the northern half. Each spring their new leaves draw carbon dioxide out of the air, and each autumn, when the leaves fall and rot, it goes back.
 
 After two years he had something else. The zigzag was climbing. Every year's peak was a little higher than the last. He went on measuring for the rest of his life, through cuts in his funding and officials who told him that the work was routine. He died in 2005, and his son took it over. No year's average has ever been lower than the year before. In 2025 the reading passed four hundred and thirty.
+
+![Two smiling men stand either side of a bronze plaque on a white block wall; the plaque is headed Keeling Building and shows a rising graph of carbon dioxide](images/keeling.jpg)
+*Charles David Keeling (left) and John Chin, who took the measurements on Mauna Loa from 1964 to 2000, outside the building named for Keeling, in 1997. The plaque shows the rising curve. Photo: John Miller, NOAA, public domain.*
 
 ## A blanket
 
@@ -16,11 +22,17 @@ Keeling knew what he was looking for, because the reason to look had been unders
 
 In 1856 an American woman named Eunice Foote, who had studied science and had no post at any university, filled glass cylinders with different gases, put a thermometer in each, and stood them in the sun. The one that held carbon dioxide grew much hotter than the others and took far longer to cool. An atmosphere of that gas, she wrote, would give our Earth a high temperature. Her paper was read out to a scientific meeting by a man, and was forgotten.
 
+![Two facing pages of a printed journal, with the title Circumstances affecting the Heat of the Sun's Rays by Eunice Foote, and two small tables of temperatures](images/foote.png)
+*Eunice Foote's paper of 1856 as printed in the American Journal of Science. The table on the right shows the receiver with carbonic acid gas, as carbon dioxide was then called, reaching 125 degrees in the sun, against 106 for common air. Image: Eunice Foote, public domain.*
+
 Three years later an Irish physicist in London, John Tyndall, showed why. He measured how different gases absorb the invisible rays of heat. The main gases of the air, nitrogen and oxygen, let heat pass straight through them. Carbon dioxide and water vapour, although they make up a tiny part of the air, absorb it strongly.
 
 That is the whole mechanism. Sunlight passes through the atmosphere and warms the ground. The warm ground gives off heat, as invisible rays, back towards space. Molecules of carbon dioxide catch some of those rays and send them out again in all directions, including downwards. The gas works like a blanket, which does not make heat and only slows its escape. Without it the Earth's surface would average eighteen degrees below freezing. Add to the blanket and the surface must grow warmer.
 
 In 1896 a Swedish chemist, Svante Arrhenius, spent a year doing the arithmetic by hand, in tens of thousands of calculations, to distract himself from a divorce. He concluded that if the carbon dioxide in the air were doubled, the Earth would warm by five or six degrees. Modern estimates, made with the largest computers in the world, put it at about three. He also noticed that industry was burning coal fast enough to matter. He thought that the doubling would take three thousand years, and that for Sweden it would be rather pleasant.
+
+![Black and white portrait of a middle-aged man with a high forehead and moustache, in a dark suit](images/arrhenius.jpg)
+*Svante Arrhenius, in a portrait printed in 1909, thirteen years after his calculations on carbon dioxide. Image: Meisenbach Riffarth & Co., public domain.*
 
 ## Buried sunlight
 
@@ -31,6 +43,9 @@ Burning it reverses the process. The carbon joins with oxygen and goes back into
 ## Fingerprints
 
 It might be thought that the extra carbon dioxide in Keeling's flasks could have come from somewhere else, from volcanoes, say, or the sea. It carries a kind of fingerprint that shows otherwise. A small fraction of the carbon in every living thing is a radioactive form, made high in the atmosphere by rays from space, which decays away over tens of thousands of years. Carbon that has been underground for a hundred million years has none left. As fossil fuel is burned, the carbon dioxide in the air is being diluted with carbon of that dead kind. The oxygen in the air is also falling, by the amount that the burning uses up, and the sea, far from giving off the gas, is absorbing a quarter of what is emitted.
+
+![A thin slice of ice lit in polarised light, a mosaic of pink, blue and green crystals dotted with hundreds of black oval and round air bubbles](images/icecore.jpg)
+*A sliver of Antarctic ice photographed in polarised light, which gives the colours. Each dark spot is a bubble of air that was sealed in when the snow fell. Photo: CSIRO Atmospheric Research, CC BY 3.0.*
 
 How unusual the present level is can be read from a record. In the middle of Antarctica the snow never melts, and each year's fall presses down on the last until it becomes ice, sealing in tiny bubbles of the air of its day. Scientists have drilled out cylinders of that ice more than three kilometres long. The deepest bubbles are eight hundred thousand years old. Through all that time, across eight ice ages and the warm spells between them, the carbon dioxide in the air moved up and down between about a hundred and eighty and three hundred parts in a million, and the temperature moved with it. It was two hundred and eighty when James Watt improved the steam engine. It has not been as high as it is now for at least three million years, since before there were human beings.
 
@@ -58,6 +73,9 @@ The Earth's surface is now about one and a third degrees warmer than it was in t
 
 The rest follows from the heat. Warm water expands and ice on land melts, and so the sea has risen by about twenty centimetres since 1900 and is now rising at more than four millimetres a year. The floating ice that covers the Arctic Ocean at the end of each summer has shrunk by two fifths since satellites began to photograph it in 1979. Mountain glaciers have retreated on every continent. Warm air draws more water out of the soil and holds more of it, and so droughts are drier and downpours heavier. In 2022 a summer of heat killed more than sixty thousand people in Europe, and a monsoon of unheard-of violence flooded the homes and fields of thirty-three million Pakistanis. In 2023 forests burned in Canada over an area larger than England. Between 2023 and 2025 more than four fifths of the world's coral reefs were struck by heat severe enough to turn them white.
 
+![False-colour satellite image of a wide river plain, with bright green fields and dark blue flood water spreading over a large area along the river](images/pakistan.jpg)
+*A satellite image of the Indus plain in Sindh, Pakistan, on 22 September 2022, in false colour: the flood water is dark blue and the living plants are green. Image: NASA MODIS, public domain.*
+
 No single storm or fire can be blamed on the warming with certainty. What can now be calculated is how much more likely the warming has made it, and for the worst of them the answer is often many times.
 
 ## Whose carbon
@@ -74,6 +92,9 @@ The damage runs the other way. It falls first on those who live on river deltas,
 
 The idea that industrial civilisation might be damaging the world that it depends on became a popular cause in 1962, with a book by an American marine biologist. Rachel Carson described what the new chemical insecticides were doing as they passed from sprayed fields into worms, from worms into birds, and from fish into the people who ate them. She called it *Silent Spring*, after a town where no birds sang. The chemical industry spent a quarter of a million dollars attacking her as a hysterical woman. She was dying of cancer as she defended it, and the most notorious of the chemicals, DDT, which had also saved millions from malaria, was banned from American farms ten years later.
 
+![Black and white portrait of a woman with short dark wavy hair, in a jacket and blouse, looking at the camera](images/carson.jpg)
+*Rachel Carson in an official photograph taken about 1940, when she worked for the United States Fish and Wildlife Service. Photo: U.S. Fish and Wildlife Service, public domain.*
+
 On 22 April 1970 twenty million Americans, one in ten, took part in demonstrations, clean-ups and teach-ins on the first Earth Day. Within three years the United States had passed laws on clean air, clean water and endangered species, and created an agency to enforce them. Most other rich countries did the same. Their rivers and their city air are far cleaner now than they were then. That was the easy part, since the pollution and its victims were in the same country.
 
 ## Paris
@@ -86,6 +107,9 @@ The agreement that was reached in Paris on 12 December 2015 took a different app
 
 In August 2018 a fifteen-year-old Swedish girl stopped going to school and sat instead on the pavement outside her country's parliament, alone, with a hand-painted sign that read "School strike for climate". A year later, on a single day, between four and six million people in a hundred and fifty countries walked out of schools and workplaces to join her.
 
+![Two girls on a stone pavement outside a large stone building, one crouching and one sitting, beside a white sign with black hand-painted letters reading Skolstrejk for klimatet](images/greta2.jpg)
+*Greta Thunberg (right) with the sign "Skolstrejk för klimatet", School strike for climate, outside the Swedish parliament in Stockholm in April 2019, eight months after she began. Photo: Frankie Fouganthin, CC BY-SA 4.0.*
+
 ## The price of sunlight
 
 Measured by the thing that matters, the diplomacy has failed. Emissions have risen in almost every year since the first conference, and in 2024 they were the highest ever recorded. The world still gets four fifths of its energy from fossil fuel.
@@ -93,6 +117,9 @@ Measured by the thing that matters, the diplomacy has failed. Emissions have ris
 Measured against what would have happened, there has been a real change. Before the Paris meeting, the policies then in force pointed to a warming of about three and a half degrees by the end of this century, which would mean a different planet. Present policies point to something under three. That is still far beyond what any human society has lived through, and it is a degree better.
 
 The larger cause of the change is that the alternatives became cheap. The cost of electricity from solar panels fell by nine tenths between 2010 and 2023, because governments, first in Germany and then in China, paid for them to be made in ever greater numbers, and each doubling of production brought the price down by a fifth. Wind turbines and batteries fell in price in the same way. In most of the world a new solar farm now produces power more cheaply than a new coal station. In 2023 China installed more solar panels in a single year than the United States had in its whole history. More than one new car in five sold in the world is electric. Twice as much money is now invested each year in clean energy as in oil, gas and coal.
+
+![Satellite view of pale sand dunes with dark rectangular blocks of solar panels, surrounded by farmland and circular irrigated fields](images/solar.jpg)
+*Solar farms, the dark rectangles, spread across the dunes of the Kubuqi Desert in Inner Mongolia, China, seen from space on 8 December 2024. Image: NASA Earth Observatory, using Landsat data, public domain.*
 
 The carbon dioxide already in the air will stay there for hundreds of years, and the warming will not stop until no more is being added than is taken out. Whether that comes soon enough to avoid the worst is the question on which the rest of the century turns.
 
