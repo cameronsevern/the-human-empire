@@ -1,7 +1,7 @@
 # The Human Empire
 ## How Technology, Resources, and Wars Over Ideas Made One Intertwined World
 
-**Book plan · Eight parts · 93 chapters**
+**Book plan · Eight parts · 115 chapters as written**
 
 ## Preface
 
