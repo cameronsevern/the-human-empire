@@ -6,11 +6,17 @@ It happened in steps, and each one made the next possible. The Jews of Europe we
 
 On 20 January 1942, fifteen men met in a villa beside a lake on the edge of Berlin. They were senior officials of the German state. Some came from the security police and the party, and the others from the ministries of justice, the interior and foreign affairs, the office that planned the economy, and the German administrations of occupied Poland and the occupied Soviet lands. Eight of them had doctorates, most of them in law.
 
+![A large pale villa seen through trees from a gravel drive, with statues on either side of the path](images/wannsee_villa.jpg)
+*The villa at Wannsee, on the edge of Berlin, where the meeting of 20 January 1942 was held. It is now a memorial and museum. Photo: Franek Vetulani, CC BY-SA 4.0.*
+
 The chairman was Reinhard Heydrich, the head of the security police. He told them that he had been given the task of organising a "final solution of the Jewish question" for the whole of Europe, and that he required the cooperation of their departments. A table was handed round listing the Jews of every European country, including those that Germany had not conquered, such as England, with three hundred and thirty thousand, and Ireland, with four thousand. The total came to eleven million.
 
 The discussion took about an hour and a half. The officials raised points of detail, such as how to treat people with only one Jewish parent, and which workers in arms factories might be spared for the time being. Nobody objected. Afterwards cognac was served, and there was lunch.
 
 Thirty copies of the minutes were made, in careful language about "evacuation to the east". One survived, and was found in the files of the foreign ministry after the war. The man who wrote them, an official named Adolf Eichmann who ran the office for Jewish affairs, said at his trial many years later that the words actually used around the table had been much plainer.
+
+![Page 6 of the Wannsee minutes, a typed table of countries and numbers of Jews, in a museum display case beside a printed English translation](images/wannsee_list.jpg)
+*Page 6 of the minutes of the Wannsee meeting, a typed table of the Jews in each country of Europe, ending in a total of over eleven million, shown with a translation in the museum at the villa. Photo: unknown, public domain.*
 
 By the day of that meeting the killing had been going on for seven months, and about a million Jews were already dead. The conference did not decide on murder. Its purpose was to make sure that every branch of the government took part.
 
@@ -22,7 +28,13 @@ The first measures went further than anything yet tried in Germany. Jews were ma
 
 The largest was in Warsaw. In November 1940 it was sealed behind a brick wall three metres high, which the Jews themselves were made to pay for. More than four hundred thousand people were packed into a little over three square kilometres, seven or more to a room. The official ration came to fewer than two hundred calories a day, a tenth of what a person needs. Children slipped through holes in the wall to smuggle in potatoes, and were shot if they were caught. Typhus spread through the crowded buildings. In a year and a half, more than eighty thousand people in the ghetto died of hunger and disease, and each morning carts went round to collect the bodies from the pavements.
 
+![A surviving stretch of red brick wall in a courtyard, with two small plaques and planters of orange flowers in front](images/ghetto_wall.jpg)
+*A surviving stretch of the wall of the Warsaw ghetto, in a courtyard at Sienna Street 55, photographed in 2008. Photo: Cezary p, CC BY-SA 4.0.*
+
 Inside the wall, life was kept up with great determination. There were secret schools, soup kitchens run by committees in each building, lectures, an orchestra, and underground newspapers. A historian named Emanuel Ringelblum decided that the ghetto must leave its own record. He gathered a group of teachers, writers and rabbis, who met on Saturdays and gave themselves a harmless name, the Joy of the Sabbath. They collected everything: diaries, essays by schoolchildren, ration cards, tram tickets, German decrees, the wrappers of sweets, reports of what refugees from other towns had seen. Ringelblum wanted the history of what was happening to be written by the people it was happening to, and not by those who were doing it.
+
+![A crowd of children and some adults in caps and coats standing on a wide street, looking at the camera, with ruined and tall buildings behind](images/ghetto_children.jpg)
+*Children in the Warsaw ghetto in 1941, on Mariańska Street, looking towards Twarda Street. Photographer unknown, public domain.*
 
 ## The shower room
 
@@ -75,15 +87,24 @@ In July 1942 the call-up notices began to arrive by post, for "labour in Germany
 
 From the transit camp a train left for the east, through most of 1943 and 1944 on a Tuesday morning. The German railway treated these as ordinary charter traffic. It charged the security police the third-class group fare, one way, per head. Children under ten went at half price, and children under four went free. The fares were paid out of the money taken from the passengers.
 
+![The face of a girl in a headscarf looking out through the gap in a wagon door](images/settela.jpg)
+*Settela Steinbach, a Sinti girl from the Netherlands, at the door of a wagon leaving Westerbork for Auschwitz-Birkenau on 19 May 1944. A still from a film of the camp made in 1944 by Rudolf Breslauer. Public domain.*
+
 Ninety-three trains made the journey, carrying a hundred and seven thousand people. Five thousand came back.
 
 About twenty-five thousand Dutch Jews went into hiding, in attics, cellars and barns, kept alive by people who shared their ration cards with them at the risk of their own lives. Two thirds of those who hid survived. Among those who did not was a girl who spent twenty-five months with her family behind a bookcase in the back rooms of her father's office in Amsterdam, writing in a diary. In August 1944 the police raided the building. Anne Frank was put on the last train to leave that transit camp for Auschwitz, and died of typhus in another camp, in Germany, two months before it was freed. She was fifteen.
+
+![A tall wooden bookcase filled with office files, standing out from the wall to show it is hinged](images/bookcase.jpg)
+*A reconstruction of the hinged bookcase that hid the entrance to the back rooms of the Anne Frank House in Amsterdam, photographed in 2008. Photo: Bungle, CC BY-SA 3.0.*
 
 ## Fishing boats
 
 None of it was inevitable, and the proof is the places where it did not work.
 
 In Denmark, in September 1943, a German shipping official learned that the Jews were to be rounded up on the night of the Jewish new year, and told a Danish politician. The warning was read out in the synagogue. Over the next three weeks the Danes hid their Jewish neighbours in hospitals, churches and summer houses, and then ferried them across the narrow strait to neutral Sweden in fishing boats, a dozen at a time under the nets. More than seven thousand escaped. The Germans caught fewer than five hundred.
+
+![A white wooden fishing boat with a small wheelhouse moored at a quay under a blue sky with clouds](images/danish_boat.jpg)
+*The fishing boat Elisabeth, which took part in the rescue of the Danish Jews in 1943, when about seven hundred of them fled through Dragør harbour to Sweden. The boat is shown at Dragør in recent years. Photo: Jens Cederskjold, CC BY 4.0.*
 
 In Bulgaria, an ally of Germany, the trains had already been ordered when members of parliament and the heads of the Orthodox Church protested, and one bishop threatened to lie down on the tracks. The king gave way, and the country's forty-eight thousand Jews survived the war. The same government handed over eleven thousand Jews from the territories that it had occupied, and they were all killed.
 
@@ -117,7 +138,13 @@ Jews were not the only people killed for what they were. The Nazis murdered the 
 
 On 27 January 1945 Soviet soldiers walked through the gate of Auschwitz. The SS had marched most of the prisoners away on foot, through the snow, and blown up the gas chambers. Seven thousand people too sick to walk had been left behind.
 
+![Snow-covered railway tracks running toward a brick gatehouse with a central tower, seen across an empty snowy field](images/gate.jpg)
+*The gate of Auschwitz II-Birkenau and the railway line that ran through it, seen from inside the camp in 2007. Photo: Logaritmo, public domain.*
+
 The soldiers also found the storerooms, which the SS had not had time to burn. They held about three hundred and fifty thousand men's suits. They held more than eight hundred thousand women's coats and dresses, heaps of spectacles and children's shoes, and seven tons of human hair, packed in sacks for sale to a textile firm.
+
+![A heap of old leather suitcases, each marked in white paint with a name, behind a glass screen](images/suitcases.jpg)
+*Suitcases taken from people brought to Auschwitz, each marked in white paint with its owner's name, on display in the Auschwitz museum. Photo: Oleg Yunakov, CC BY-SA 4.0.*
 
 The law had no name for what had been done. A Polish lawyer who had escaped to America, and who lost forty-nine members of his family, had made one up in 1944 out of the Greek for a people and the Latin for killing. In 1948 the United Nations adopted a convention declaring genocide a crime under the law of nations.
 
@@ -126,3 +153,6 @@ The leading Nazis who could be found were tried by the Allies, and a number were
 In the first days of August 1942, as the trains were leaving Warsaw for Treblinka, Ringelblum's helpers packed the first part of the ghetto's archive into ten metal boxes and buried them under the cellar of a school. One of those who dug the hole, a boy of nineteen, slipped a note of his own into a box. What we could not cry out to the world, he wrote, we buried in the ground. He added that he would love to see the moment when the treasure was dug up and screamed the truth, and that he did not expect to.
 
 Ringelblum, his wife and his son were shot in 1944. Of the sixty people who had worked on the archive, three lived. One of them led a search party into the rubble in 1946 and found the ten boxes. A second part, sealed in two milk cans, was turned up by builders four years later. The third part has never been found.
+
+![Three stacked metal boxes beside two corroded milk cans on a draped table](images/milk_cans.jpg)
+*The metal boxes and milk cans in which the Warsaw ghetto archive was hidden, after they were dug up. Photographer unknown, public domain.*
