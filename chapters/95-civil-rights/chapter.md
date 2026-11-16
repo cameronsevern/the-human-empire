@@ -8,6 +8,9 @@ On the evening of 1 December 1955, in Montgomery, the capital of the state of Al
 
 The story was told for years as that of a tired seamstress who had simply had enough. She said herself that the only tired she was, was tired of giving in. She had been the secretary of the local branch of the main Black civil rights organisation for twelve years, and that summer she had attended a training school for activists. A schoolgirl of fifteen had been arrested for the same offence on the same bus line nine months before, and the city's Black leaders had been waiting for the right case.
 
+![A police officer bends over to roll the finger of Rosa Parks, who wears glasses and a tweed jacket, across a fingerprint card](images/parks.jpg)
+*Rosa Parks being fingerprinted in Montgomery on 22 February 1956, during the bus boycott. Photo: Gene Herrick, Associated Press, restored by Adam Cuerden, public domain.*
+
 They were ready. That night a professor at the local Black college, who led a council of professional women, let herself into her office and ran off tens of thousands of leaflets on a duplicating machine. They called on every Black person in the city to stay off the buses the following Monday. She and two of her students spent the next day delivering them.
 
 ## Separate
@@ -15,6 +18,9 @@ They were ready. That night a professor at the local Black college, who led a co
 Ninety years earlier a civil war had ended slavery, and the constitution had been amended to make the freed people citizens with equal protection of the law and the vote. In the South those promises had held for about a decade. Then the federal troops went home, and white southerners took back control.
 
 By 1900 they had built a complete system. Laws required separate schools, hospitals, railway carriages, waiting rooms, drinking fountains and cemeteries. In 1896 the highest court in the country had approved this, on the theory that separate facilities could be equal. They never were. A Black child's school got a fraction of the money and the white school's cast-off books.
+
+![A hanging sign with the word COLORED in large letters and WAITING ROOM on an arrow, above a brick wall and wires](images/waiting_sign.jpg)
+*A sign for the Black waiting room at a bus station in Rome, Georgia, in 1943. Photo: Esther Bubley, Library of Congress, public domain.*
 
 The vote was removed without mentioning race. A would-be voter had to pay a tax, and to pass a test set by a white official, who might ask a Black teacher to explain a clause of the state constitution to his satisfaction, or to say how many bubbles there are in a bar of soap. In the state of Mississippi, where nearly half the population was Black, about one Black adult in fifteen was registered to vote.
 
@@ -29,6 +35,9 @@ The first breach was made by lawyers. For twenty years the legal staff of the sa
 In 1954 they reached the heart of it. Among their evidence was an experiment by two Black psychologists, a husband and wife, who had shown Black children a brown doll and a white one and asked which was the nice doll and which was the bad one. Most of the children preferred the white doll. Asked which doll was like them, some burst into tears.
 
 On 17 May the Supreme Court ruled, with all nine judges agreeing, that separate schools were inherently unequal and violated the constitution. A year later it added that they should be integrated "with all deliberate speed". Southern politicians took the second word as their text. They announced a policy of massive resistance, and ten years later ninety-eight Black children in a hundred in the South were still in all-Black schools.
+
+![A Black girl in sunglasses and a white blouse carries her books past a crowd of white people, one young woman shouting at her](images/eckford.jpg)
+*Elizabeth Eckford, a Black student, walking through a jeering crowd as she tries to enter Central High School in Little Rock, Arkansas, on 4 September 1957. Photo: Will Counts, Associated Press, public domain.*
 
 In August 1955 a fourteen-year-old boy from Chicago named Emmett Till went to stay with his great-uncle in Mississippi. He was accused of whistling at a white woman in a shop. Her husband and his half-brother took him from his bed at night, beat him until his face was unrecognisable, shot him, and threw him into a river with a heavy fan tied to his neck with barbed wire.
 
@@ -52,6 +61,9 @@ It had to be learned. In the city of Nashville, a young Black minister who had s
 
 On 1 February 1960, in the town of Greensboro in North Carolina, four Black first-year students sat down at the lunch counter of a Woolworth's store and asked for coffee. They were refused, and stayed until the store closed. The next day they came back with twenty more. Within two months there were sit-ins in more than fifty cities, and by the end of the year seventy thousand people had taken part. They were punched, burned with cigarettes and had ketchup poured over their heads, and thousands went to jail. Store after store gave in.
 
+![Four young Black men in overcoats walk side by side along a pavement](images/greensboro.jpg)
+*The four students who began the Greensboro sit-in: David Richmond, Franklin McCain, Ezell Blair Jr. and Joseph McNeil, in February 1960. Photo: Jack Moebes, Greensboro Daily News, public domain.*
+
 The next year small groups of Black and white volunteers set out to ride long-distance buses through the South, sitting together, to test a court ruling that the bus stations must be integrated. In Alabama a mob set one bus on fire and held the doors shut. At the next two cities the riders were beaten with iron pipes while the police stayed away by arrangement. The pictures went round the world, and the government in Washington, which had hoped to avoid the whole subject, had to send federal marshals.
 
 ![Map of the south-eastern United States, with the states named in grey: Mississippi, Alabama, Georgia, Tennessee, the Carolinas and Virginia. Marked are Montgomery, Selma, Birmingham, Anniston, Atlanta, Albany, Nashville, Memphis, Jackson, Greensboro and Washington. A dashed red line traces the bus rides of 1961 from Washington through Virginia and the Carolinas to Atlanta, then to Anniston, where a bus was burned, Birmingham, Montgomery and Jackson. A short blue arrow marks the march of 1965 from Selma towards Montgomery](images/map_south.png)
@@ -69,21 +81,36 @@ The adults of Birmingham were running out of volunteers willing to lose their jo
 
 It led the television news across America that night. The president said that the pictures made him sick. In June he went on television and called civil rights a moral issue, as old as the scriptures and as clear as the constitution, and asked Congress for a law to end segregation. A few hours after that speech, the leader of the movement in Mississippi was shot in the back in his own driveway, with his children inside the house, and died within the hour.
 
+![Young people huddle against a shop front under a jet of water from a hose held by a fireman on the right](images/hosed.jpg)
+*Young demonstrators huddled in a doorway against a fire hose in Birmingham, Alabama, on 3 May 1963. Photo: United Press International, public domain.*
+
 ## The dream
 
 On 28 August 1963 a quarter of a million people came to Washington by bus, train and car, and stood along the reflecting pool in front of the memorial to the president who had freed the slaves. The march had been organised in eight weeks by a brilliant tactician who had been kept out of the limelight because he was a former communist and a homosexual.
+
+![A crowd of Black and white people on the grass in front of the Lincoln Memorial, with two men in the foreground reading a newspaper headlined They're Pouring In From All Over](images/march_dc.jpg)
+*The crowd in front of the Lincoln Memorial at the March on Washington, 28 August 1963. Photo: Warren K. Leffler, Library of Congress, public domain.*
 
 King spoke last. He was near the end of his prepared text, which was not going especially well, when a gospel singer on the platform behind him called out: Tell them about the dream, Martin. He put the pages aside. I have a dream, he said, that my four little children will one day live in a nation where they will not be judged by the colour of their skin but by the content of their character.
 
 Eighteen days later, on a Sunday morning, a bomb planted by members of the Ku Klux Klan went off under the steps of the Black church in Birmingham from which the children had marched. It killed four girls who were changing into their choir robes. Three were fourteen, and one was eleven.
 
+![Firemen, police and other men stand in a gap blown through a wall, with rubble underfoot and shattered windows across the street](images/church.jpg)
+*The hole blown in the wall of the 16th Street Baptist Church in Birmingham by the bomb of 15 September 1963. Photo: Tom Self, The Birmingham News, public domain.*
+
 ## Two laws
 
 The president was murdered that November. His successor, Lyndon Johnson, was a southerner who knew the Senate better than any man living, and he told Congress that no memorial could honour the dead president more than the passage of his bill. Southern senators talked for two months to prevent a vote. In July 1964 the Civil Rights Act became law. It banned segregation in hotels, restaurants, theatres and other places open to the public, and discrimination in employment on grounds of race, religion or sex. Johnson remarked to an aide that evening that his party had lost the South for a generation.
 
+![President Johnson signs a bill at a desk while a crowd of men in suits stands around him, Martin Luther King Jr. among them](images/lbj_signing.jpg)
+*President Johnson signing the Civil Rights Act on 2 July 1964, with Martin Luther King Jr. among those standing behind him. Photo: Cecil Stoughton, White House, public domain.*
+
 The vote remained. That summer a thousand students, most of them white and from northern universities, went to Mississippi to help Black residents register. Three young men, two white and one Black, disappeared in the first days. Their bodies were found six weeks later, buried in an earth dam. They had been handed to the Klan by a deputy sheriff.
 
 One of the Mississippians who had tried to register was Fannie Lou Hamer, the twentieth child of a family of cotton pickers. She had been thrown off the plantation where she had worked for eighteen years, and beaten in a jail cell until she was permanently injured. That August she told her story on national television, at a hearing of the president's own party, which she was asking to unseat the all-white delegation that Mississippi had sent to its convention. Is this America, she asked, the land of the free and the home of the brave?
+
+![Fannie Lou Hamer in profile, speaking, in a patterned dress with a convention badge](images/hamer.jpg)
+*Fannie Lou Hamer at the Democratic National Convention in Atlantic City, August 1964. Photo: Library of Congress, restored by Adam Cuerden, public domain.*
 
 In the Alabama town of Selma, half the people were Black, and one in fifty of them was registered. On Sunday, 7 March 1965, six hundred people set out from a church there to walk to the state capital. At the far end of the bridge over the river, state troopers in gas masks were waiting, with a posse on horseback. They gave the marchers two minutes, and then charged with clubs, whips and tear gas. The young man at the head of the column, John Lewis, had his skull fractured.
 
@@ -94,6 +121,9 @@ The Voting Rights Act was signed in August. It suspended the tests across the De
 ## By any means necessary
 
 Not everyone had been willing to offer the other cheek. The most eloquent critic was a former convict who had taken the name Malcolm X, since his family's real name had been lost in slavery. He preached in the northern ghettos that white America would never yield to appeals to its conscience. Black people, he said, should take pride in themselves, build their own institutions, and defend themselves by any means necessary. He mocked the great march as a picnic. He was shot dead in 1965 by members of the religious sect that he had left.
+
+![Martin Luther King Jr. and Malcolm X stand facing each other among onlookers and a policeman](images/malcolm_king.jpg)
+*Martin Luther King Jr. and Malcolm X at the Capitol in Washington on 26 March 1964, after King spoke to the press about the Senate debate on the Civil Rights Act. Photo: Marion S. Trikosko, Library of Congress, public domain.*
 
 His arguments spread, because the victories in the South had changed little in the North. There the barriers were not posted on signs. They lay in where a bank would lend, where an estate agent would show a house, which union would take an apprentice, and how the police behaved. Five days after the Voting Rights Act was signed, a traffic arrest in the Black district of Los Angeles set off six days of rioting in which thirty-four people died. Detroit and a hundred other cities followed in the next three summers. A commission appointed by the president reported that the nation was moving towards two societies, one Black and one white, separate and unequal.
 
