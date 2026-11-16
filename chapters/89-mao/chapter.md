@@ -8,6 +8,9 @@ At three o'clock on the afternoon of 1 October 1949, a tall, heavy man of fifty-
 
 Mao Zedong spoke in the thick accent of his native province, which many in the crowd could barely follow. The Central People's Government of the People's Republic of China, he said, is founded today. Then he pressed a button, and a red flag with five gold stars went up a pole in the middle of the square.
 
+![Mao Zedong in a plain tunic reading from a sheet of paper beside a microphone, with other men standing behind him](images/founding.jpg)
+*Mao Zedong reading the proclamation of the People's Republic from the rostrum above Tiananmen, 1 October 1949. Photographer unknown, public domain.*
+
 Ten days earlier he had told a gathering of delegates that the Chinese people, a quarter of mankind, had now stood up. Ours will no longer be a nation subject to insult and humiliation, he said. For a hundred years China had been beaten by foreigners, carved into zones by them, and fought over by its own generals. Whatever else people felt that afternoon, a great many who were no communists felt that this, at least, was over.
 
 ## A librarian's assistant
@@ -26,6 +29,9 @@ He drew a second lesson from the massacre. The Communists had been slaughtered b
 
 He took the survivors to the mountains on the border of two southern provinces, and there, over seven years, built a small state of several million people with its own army. Its soldiers were peasants, and it paid them by taking the land of the landlords and sharing it out.
 
+![A colour portrait of Mao Zedong as a young man in a cloth cap with a red star and a tunic with red collar patches](images/snow.jpg)
+*Mao Zedong in 1936, the year the American journalist Edgar Snow reached the Communists in the north-west, in a colour print of Snow's photograph published in 1967. Photo: Edgar Snow, public domain.*
+
 Chiang, who now governed most of China from the city of Nanjing, sent five expeditions against it. The fifth, in 1934, ringed the Communist area with thousands of concrete forts and tightened the circle month by month. In October about eighty-six thousand men, and a few dozen women, broke out to the west and began walking.
 
 They walked for a year, in a vast loop through the mountains and marshes of western China, fighting most of the way. They crossed rivers under fire and snow passes four thousand metres high in cotton clothes and straw sandals. In the high grasslands on the edge of Tibet, where the ground was a bog and there was nothing to eat, men boiled their leather belts. About eight thousand reached the dry hills of the north-west. In later years this retreat, the Long March, became the founding legend of the new China, and to have been on it was the highest of honours.
@@ -43,6 +49,9 @@ Many Chinese thought that he had it backwards, and one of them was a general of 
 
 He was held for two weeks. He was released when he agreed to stop the civil war and join the Communists in a common front against Japan. Seven months later the Japanese invaded in full strength.
 
+![Chiang Kai-shek and his wife Soong Mei-ling in dark coats among officials and officers, as an elderly man in a fur-collared coat shakes hands with them](images/xian2.jpg)
+*Chiang Kai-shek and his wife Soong Mei-ling returning to Nanjing after his release at Xi'an in December 1936, greeted by Lin Sen, chairman of the Nationalist government. Photographer unknown, public domain.*
+
 ## Bleeding
 
 The war that followed destroyed Chiang's government, although it ended on the winning side.
@@ -51,7 +60,13 @@ His armies did most of the fighting. In the first year he lost the best of them,
 
 To slow the Japanese advance in 1938, he ordered the dikes of the Yellow River to be blown open. The flood covered thousands of villages without warning and drowned or starved half a million of his own people.
 
+![A dense crowd of seated and standing Chinese refugees with oxen and carts on open ground, watched by Japanese soldiers in steel helmets](images/flood.jpg)
+*Refugees of the Yellow River flood of 1938, in a photograph that describes them as rescued by Japanese forces. Photographer unknown, public domain.*
+
 An army of several million had to be kept in the field with little industry and less revenue. The government found the men by force. Press gangs seized peasants from the fields and marched them to the front roped together, and so many died of hunger and disease on the way that some units arrived at half strength. It found the food by taxing the harvest in grain. In 1942 the crop failed in the province of Henan, and the collectors took their quota all the same. More than a million people starved. An American reporter rode through the province and saw dogs eating corpses by the roadside, and then was served a banquet by the local officials.
+
+![A gaunt man sitting on a pavement, clutching a tree trunk and gnawing at its bark](images/henan.jpg)
+*A starving man gnawing the bark of a tree during the Henan famine, 1943. Photo: Harrison Forman, public domain.*
 
 It found the money by printing it. Prices doubled, and doubled again, year after year. A civil servant or an officer could no longer live on his pay, and so he lived on bribes, or sold his unit's rations and petrol. By 1945 the Nationalist government, which had begun with a real following among educated and patriotic Chinese, was known for its corruption above all else.
 
@@ -67,15 +82,24 @@ There was another side to Yan'an, which the visiting journalists did not see. Fr
 
 It was also enormous. In 1937 the Communists had about forty thousand soldiers. In 1945 they had about a million, and governed almost a hundred million people.
 
+![Six men talking on sofas in a plain room with a wall map of the world: Mao Zedong second from left, American officers and a diplomat in the middle, Zhou Enlai on the right](images/yenan.jpg)
+*Mao Zedong, second from left, with the American ambassador Patrick Hurley and Colonel Ivan Yeaton at Yan'an on 27 August 1945, before Mao flew to Chongqing to talk with Chiang Kai-shek. Photographer unknown, US National Archives, public domain.*
+
 ## The transport officer
 
 When Japan surrendered in August 1945, the two sides raced to take over the territory that it had held. Soviet troops had occupied the north-east in the last week of the war. Before they went home they let the Chinese Communists take the rifles, guns and tanks of the Japanese army there. The United States airlifted Chiang's divisions to the northern cities and sent one of its most distinguished generals to arrange a coalition government. He spent a year at it and went home in despair.
+
+![Mao Zedong in a plain jacket and Chiang Kai-shek in uniform, each raising a glass towards the other across a banquet table](images/toast.jpg)
+*Mao Zedong and Chiang Kai-shek toasting the victory over Japan at Chongqing, September 1945. Photographer unknown, public domain.*
 
 On paper the outcome was not in doubt. Chiang had more than four million soldiers, an air force, and two billion dollars' worth of American aid. The Communists had a little over a million men and no aircraft.
 
 The Nationalist generals used their troops to hold the cities and the railways, as the Japanese had, and were cut off in them in the same way. Their soldiers were conscripts who had been beaten and cheated of their pay, and when they were surrounded they changed sides, whole divisions at a time, bringing their American trucks and guns with them. Mao remarked that Chiang was his transport officer.
 
 Behind the lines the money died. The government was now printing banknotes to cover almost its whole budget. In Shanghai in the autumn of 1948, prices rose more than tenfold in three months. Workers were paid daily and ran to spend their wages before noon. People carried banknotes to market in sacks and wheelbarrows, and a wad of them was worth less than the paper as fuel. The middle classes of the cities, who had been the Nationalists' strongest supporters, lost their savings and their faith together.
+
+![A red banknote with the words Central Bank and the value 5000 yuan in Chinese characters, and a portrait of Chiang Kai-shek on the right](images/note.jpg)
+*A banknote of 5,000 gold yuan issued by the Nationalist government's Central Bank in 1949, with Chiang Kai-shek's portrait. The gold yuan had been introduced in the currency reform of 1948. Image: Central Bank of China, public domain.*
 
 ## Speak bitterness
 
@@ -93,6 +117,9 @@ The war was not won by kindness. That same year the Communists besieged the nort
 
 In January 1949 the general defending Beijing surrendered the city without a fight. In April the Communists crossed the Yangtze, and the great cities of the south fell one after another. Only Shanghai was seriously defended, for two weeks.
 
+![A dense crowd of people and bicycles beneath a traditional gateway arch in Beijing, with a truck carrying banners among them](images/beijing.jpg)
+*Crowds in Beijing watching a People's Liberation Army truck with banners pass beneath the Xisi pailou arch, February 1949, after the city's surrender. Photographer unknown, public domain.*
+
 Chiang had prepared a refuge. The island of Taiwan, a hundred miles off the coast, had been a Japanese colony for fifty years and had just been returned to China. Through 1949 he moved his government there, with about two million soldiers, officials and their families. He also took the gold reserves of the central bank and nearly four thousand crates of the finest objects from the imperial palace collection, packed years before to save them from the Japanese. He ruled the island under martial law until his death, still claiming to be the government of all China. The Communists had no fleet that could carry an army after him, and from 1950 an American one stood in the way. Taiwan has governed itself ever since, and the question of whom it belongs to has never been closed.
 
 In the United States the news set off a bitter argument over who had "lost" China, as though it had been America's to keep. In Moscow, Mao signed a treaty of alliance with Stalin. The largest country in the world by population had joined the largest by area, and a third of humanity now lived under communist governments.
@@ -108,5 +135,8 @@ One of its first laws dealt with marriage. It banned the sale of brides, the bet
 Land reform was carried to the whole country. By the end of 1952 nearly half the farmland of China had been taken from landlords and distributed to three hundred million peasants. It was one of the largest transfers of property in history. Hundreds of thousands of landlords were killed in the process, and by some counts two million. In the same years a campaign against "counter-revolutionaries", who included former Nationalist officials, bandits and members of religious sects, ended with the execution of more than seven hundred thousand people. Mao set quotas for it, province by province, as a proportion of the population.
 
 At the end of the reform, each family was given a deed to its new fields, a sheet of paper printed with the national flag and stamped with the red seal of the county government. In many houses it was pasted on the wall beside the door. For a people who had rented land for generations, it was the most valuable thing that they had ever owned.
+
+![A large yellowed printed certificate on a museum wall, headed by a portrait and red flags, filled with a ruled table of Chinese text and stamped with red seals](images/deed.jpg)
+*A land and house ownership certificate issued in Shunning County, Yunnan, on 20 October 1953 under the land reform law, with the red seals of the county government. Photo: 瑞丽江的河水 (Fengqing Dianhong Tea Museum), CC BY-SA 4.0.*
 
 They kept it for about four years. By 1956 the government had gathered the fields of nearly every village into collective farms, which the families worked together under a manager and no longer owned. The deeds were waste paper.
