@@ -8,7 +8,13 @@ In the last week of May 1967, the people of Israel believed that they were about
 
 At a quarter to eight on the morning of 5 June, almost the entire Israeli air force took off, flew out over the Mediterranean below the reach of radar, and turned south. Egyptian pilots were at breakfast. In under three hours more than three hundred Egyptian aircraft were burning on their runways. The air forces of Syria and Jordan were crippled that afternoon.
 
+![Black-and-white aerial photograph of two burnt-out aircraft lying on an airfield, one on dark ground and one on a paved apron](images/planes.jpg)
+*Egyptian aircraft destroyed on the ground by the Israeli air force, photographed from above on 5 June 1967. Photo: unknown, Israel Government Press Office, CC BY-SA 4.0.*
+
 The rest took six days. Israeli tanks took the Gaza strip from Egypt and crossed the Sinai desert to the Suez Canal. In the east they took from Jordan the hill country west of the river, which is called the West Bank, and the old walled city of Jerusalem. In the north they took the Golan heights, from which Syrian guns had shelled the farms of Galilee. On the third morning Israeli paratroopers fought their way through a gate in the wall of the Old City and came out in front of a stretch of ancient masonry that no Jew had been allowed to approach for nineteen years. It was part of the great wall that had held up the platform of the Temple, which the Romans had destroyed. Hardened soldiers leaned against the stones and wept. Their commander sent a short radio message: the Temple Mount is in our hands.
+
+![Black-and-white close photograph of Israeli paratroopers in netted helmets and camouflage smocks, looking up with tired faces at the great stone wall above them, with small plants growing from its joints](images/wall1967.jpg)
+*Israeli paratroopers in front of the Western Wall in Jerusalem, 7 June 1967. Photo: David Rubinger, public domain.*
 
 When it ended, Israel held four times as much land as it had a week earlier. It also held about a million Palestinian Arabs, who had no vote in the state that now ruled them.
 
@@ -30,6 +36,9 @@ Meanwhile some Israelis began to move in. For the religious, the war had been a 
 
 At Passover in 1968 a rabbi and a group of followers rented rooms in an Arab hotel in Hebron for the holiday, saying that they were tourists, and then announced that they would not leave. The government, unwilling to drag Jews out of the city of the patriarchs, let them stay in an army base and later built them a town on the hill above. That set the pattern. A movement of young religious nationalists would park caravans on a hilltop without permission and dare the government to remove them.
 
+![Black-and-white close portrait of a bearded man with untidy dark hair, speaking, in a knitted sweater](images/kiryatarba.jpg)
+*A new settler at Kiryat Arba, the settlement built beside Hebron, 16 May 1973. Photo: Dan Hadani collection, National Library of Israel, CC BY 4.0.*
+
 The governments of the first ten years, which were of the left, built settlements chiefly along the river and around Jerusalem, for reasons of defence. In 1977 the right won power for the first time, under a prime minister who believed that the whole land belonged to the Jewish people by right, and settlement was pushed into the middle of the Palestinian population. There were fewer than five thousand settlers in the West Bank that year. There were more than a hundred thousand by 1993, and a quarter of a million by 2005, with nearly two hundred thousand more in the annexed eastern half of Jerusalem. Most were not zealots. They were families drawn by cheap houses and good roads a short drive from the cities.
 
 ![Two maps side by side. Left, Israel in 1967, shaded blue, with the territories it took in June shaded red: the Gaza strip, the West Bank with East Jerusalem, and the Golan heights; Sinai, as far as the Suez Canal, is hatched and marked as taken in 1967 and returned to Egypt under the treaty of 1979. Right, the West Bank about 2005: a thick black line marks the armistice line of 1949; the Palestinian cities of Jenin, Nablus, Tulkarm, Qalqilya, Ramallah, Jericho, Bethlehem and Hebron are marked with dots, Jerusalem on the line, and red squares mark the Israeli settlements of Ariel, Modi'in Illit, Ma'ale Adumim, Beitar Illit and Kiryat Arba. A dashed brown line, drawn roughly, shows the barrier, which follows the armistice line in places and loops inside the West Bank in others, round Qalqilya and Jerusalem](images/map_occupation.png)
@@ -45,6 +54,9 @@ It could not fight an army, and so it sought attention. Its factions hijacked ai
 
 In 1974 Arafat was invited to address the United Nations, and came to the rostrum with a holster on his hip. I have come bearing an olive branch and a freedom fighter's gun, he said. Do not let the olive branch fall from my hand.
 
+![Black-and-white photograph of the United Nations General Assembly hall from above, with a man in a keffiyeh speaking at the podium below the president's desk and delegates seated in rows](images/arafat.jpg)
+*Yasser Arafat addressing the United Nations General Assembly in New York, 1974. Photo: Bernard Gotfryd, public domain.*
+
 By then his fighters had made a new base in Lebanon, from which they raided and shelled northern Israel. In 1982 Israel invaded, besieged Beirut for two months, and forced Arafat and his men to sail away to Tunisia. Two weeks later the newly elected president of Lebanon, a Christian and an ally of Israel, was blown up, and Israeli troops moved into the city. With the Israeli army ringing the area and lighting it with flares, a Lebanese Christian militia allied to Israel entered two Palestinian refugee camps on the edge of the city. Over two days it killed between eight hundred and three and a half thousand people, most of them women, children and old men.
 
 In Tel Aviv four hundred thousand Israelis, one in ten of the population, filled the main square to demand an inquiry. It found that the minister of defence, a former general named Ariel Sharon, bore personal responsibility for failing to prevent the slaughter, and he was made to give up the ministry.
@@ -55,7 +67,13 @@ One Arab leader had drawn a different conclusion from all this. Anwar Sadat, who
 
 In November 1977 he told his parliament that he was ready to go to the ends of the earth for peace, even to the Israeli parliament itself. Ten days later his aircraft landed at Tel Aviv. Israelis who had fought Egypt in four wars stood on the tarmac in tears, unable to believe that the door of the plane would open. He told their parliament that he accepted Israel as a fact, and asked for the land in return.
 
+![Sepia photograph of Anwar Sadat speaking into microphones, with two older men wearing headphones sitting behind him in the parliament chamber](images/knesset.jpg)
+*President Anwar Sadat of Egypt speaking to the Israeli parliament in Jerusalem, 20 November 1977. Photo: unknown, public domain.*
+
 The bargaining took sixteen months and needed an American president, who shut the two leaders up for thirteen days at a retreat in the hills of Maryland. Under the treaty of 1979, Israel gave back the whole of Sinai, pulled out its settlers by force, and received full recognition and an embassy in Cairo. That peace has held ever since.
+
+![Black-and-white photograph in profile of three men in suits standing side by side, Menachem Begin on the left, Jimmy Carter in the middle and Anwar Sadat on the right](images/campdavid.jpg)
+*Menachem Begin, Jimmy Carter and Anwar Sadat at Camp David, 7 September 1978. Photo: Bill Fitz-Patrick, White House, public domain.*
 
 It was the formula of land for peace, and it worked because both sides had something to give and a government able to give it. Sadat paid with his life. The other Arab states expelled Egypt from their league. In October 1981, as he took the salute at a military parade, a group of soldiers who belonged to a secret religious society jumped from a truck and shot him dead.
 
@@ -75,11 +93,17 @@ In 1992 Israel elected a government of the left under Yitzhak Rabin, a gruff, ch
 
 On 13 September 1993, on the lawn of the White House, the result was signed in front of Rabin and Arafat. The American president stood between them, and with a hand on each man's back steered them towards each other. Rabin hesitated, visibly, and took Arafat's hand. We who have fought against you, the Palestinians, he said, say to you today in a loud and clear voice: enough of blood and tears. Enough.
 
+![Colour photograph of Yitzhak Rabin in a grey suit and Yasser Arafat in a keffiyeh and olive uniform shaking hands, with President Clinton behind them holding out his arms, in front of a white wall](images/oslo2.jpg)
+*Yitzhak Rabin and Yasser Arafat shake hands on the White House lawn, with President Bill Clinton between them, 13 September 1993. Photo: Vince Musi, White House, public domain.*
+
 Israel recognised Arafat's organisation as the representative of the Palestinian people, and it recognised Israel's right to exist. A Palestinian authority was set up to govern Gaza and the towns of the West Bank, with its own police. Everything difficult was put off, to be settled within five years: the borders, the settlements, Jerusalem and the refugees. The hope was that trust would grow in the meantime.
 
 It was exactly that interval which the enemies of the agreement used. In February 1994 a settler, a doctor born in New York, walked into the mosque at the tomb of Abraham in Hebron during the dawn prayer with an army rifle and killed twenty-nine worshippers. Six weeks later a Hamas suicide bomber drove a car full of explosives into an Israeli bus. Dozens of such attacks followed, in buses, markets and cafés. Each one cost the Israeli government support. Each closure of the territories that followed, and each new settlement, did the same for Arafat. The number of settlers nearly doubled in the years of the peace process.
 
 The Israeli right held rallies at which Rabin was shown in the uniform of a Nazi officer, and some rabbis ruled that a man who handed over the land of Israel deserved death. On the evening of 4 November 1995 Rabin spoke at a peace rally of a hundred thousand people in Tel Aviv, and joined, awkwardly, in the singing of a song for peace. As he walked to his car, a religious law student shot him twice in the back. The song sheet was found folded in his breast pocket, soaked in blood. Six months later, after a string of bus bombings, Israelis elected the leader of the right.
+
+![Night photograph of a city square littered with paper, with candles set out in lines on the ground, four young people sitting dejected, one with an Israeli flag over his knees, and others standing behind them in front of a tall building](images/candles.jpg)
+*Young people lighting memorial candles in the square in Tel Aviv on the night Yitzhak Rabin was shot, 4 November 1995. Photo: Tsvika Israeli, Israel Government Press Office, CC BY-SA 3.0.*
 
 ## Two accounts of a summer
 
@@ -91,9 +115,15 @@ Two months after the summit the leader of the Israeli opposition, Ariel Sharon, 
 
 The Israelis who had marched for peace largely stopped believing in it. Israel began to build a barrier planned to run for seven hundred kilometres, of fence and in the towns of concrete slabs eight metres high. The bombings all but stopped. The barrier runs for most of its length inside the West Bank, and it cut Palestinian villages off from their fields.
 
+![A street with parked cars and olive trees, and behind them a tall wall of grey concrete slabs with a round watchtower, under a blue sky](images/barrier.jpg)
+*The barrier at Bethlehem in 2009: a concrete wall with a watchtower, seen from a street on the Palestinian side. Photo: Daniel Case, CC BY-SA 3.0.*
+
 ## Gaza
 
 Arafat died in 2004. The next year Sharon, who was now prime minister, did what nobody had expected of him. He pulled every Israeli soldier and settler out of Gaza, eight thousand people, dragging some from their houses, without an agreement and without asking anything in return. Israel kept control of Gaza's coast, its sky and all but one of its border crossings.
+
+![Colour photograph of a boy with a red knitted skullcap resting his head on his arm over the back of a seat in a hall with rows of wooden chairs, with other people sitting behind him](images/gaza2005.jpg)
+*A boy in a hall at Neve Dekalim, an Israeli settlement in Gaza, during its evacuation on 18 August 2005. Photo: Israel Defense Forces, CC BY-SA 2.0.*
 
 In January 2006 the Palestinians held an election. Fatah, which ran the authority, had become known for corruption, and voters gave a majority of the seats to Hamas. The United States and the European governments refused to deal with a party that would not recognise Israel or give up violence. In June 2007, after months of street fighting between the two Palestinian factions, Hamas seized the whole of Gaza by force.
 
@@ -106,5 +136,8 @@ Negotiators on both sides have known for thirty years what an agreement would ha
 The first question is where the border would run, and what would become of half a million settlers on the far side of it. The second is the refugees of 1948 and their descendants, now nearly six million, who claim the right to return to homes inside Israel. For Palestinians that right is the heart of their cause. For Israelis it would mean the end of a state with a Jewish majority. The third is security, for a country that at its waist is fifteen kilometres wide.
 
 The fourth is Jerusalem. On a platform of thirty-seven acres in its south-eastern corner stand a golden dome and a great mosque, on the spot from which Muslims believe that Muhammad rose to heaven. It is the third holiest place in Islam. The same platform is where the Jewish Temple stood, and the retaining wall beneath it is where Jews have prayed for two thousand years. Neither people will sign away its claim.
+
+![Black-and-white photograph of the silver Dome of the Rock and its minaret above the old houses of Jerusalem, with the stone Western Wall and the people standing in the plaza in front of it](images/dome.jpg)
+*The Dome of the Rock above the Western Wall in Jerusalem, photographed in 1992. Photo: Duncan Harris, CC BY 2.0.*
 
 On the morning in June 1967 when the paratroopers took the Old City, one of them climbed the golden dome and hoisted an Israeli flag. The defence minister, watching through binoculars from a hill across the valley, ordered it taken down at once. A few days later he sat on the carpet of the mosque with its Muslim guardians and told them that they would go on running the platform as before. Jews could visit, and would pray at the wall below. That arrangement, made in an afternoon, has been strained many times and has never been replaced. Each side fears what would happen if the other tried to change it.
