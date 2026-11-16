@@ -12,6 +12,9 @@ Acre is a port on the coast of Palestine, and Kirkuk is a town in the hills of n
 
 Within five months a version of that line had been agreed in secret with a French diplomat. The empire being divided had not yet been defeated. It fought on for another two and a half years.
 
+![A relief map of Syria, Iraq and eastern Turkey with a blue zone along the Syrian coast and Turkey, a pink zone around Baghdad and Basra, and large letters A and B across the desert, with handwritten signatures at the foot](images/sykes_picot.jpg)
+*The map agreed in secret by Britain and France in 1916. Area A was to be under French influence and area B under British. Map: Royal Geographical Society, public domain.*
+
 ## The sick man
 
 The Ottoman empire had once reached from the gates of Vienna to the Persian Gulf. By 1914 it had been shrinking for two centuries, and the diplomats of Europe called it the sick man. It had lost its Balkan provinces to nationalist risings, North Africa to France and Italy, and Egypt, in all but name, to Britain.
@@ -32,15 +35,24 @@ On the night of 24 April 1915, the police in Constantinople arrested about two h
 
 About a million Armenians died. The ambassador of the United States, which was then neutral, received reports from his consuls all over the country and cabled Washington that a campaign of race extermination was in progress. Thirty years later, a Polish lawyer who had studied these events invented a word for the attempt to destroy a whole people. The word was genocide. The Turkish republic has always rejected its use for what happened in 1915, and maintains that the deaths were the result of wartime disorder.
 
+![A typed telegram stamped July 20 1915 reporting deportation of Armenians and a campaign of race extermination](images/morgenthau_telegram.jpg)
+*The American ambassador's telegram to Washington, 16 July 1915. Document: US State Department, public domain.*
+
 ## Three promises
 
 Britain, meanwhile, was looking for ways to bring the Ottoman empire down, and it made three sets of commitments in two years.
 
 The first was to the Arabs. The governor of Mecca, Hussein, was a descendant of the Prophet and the head of the most respected family in Arabia. In 1915 the senior British official in Egypt began an exchange of letters with him. If Hussein would raise the Arabs in revolt against the Turks, Britain undertook to recognise and support the independence of the Arabs across almost the whole area he asked for, from Syria to the Gulf. One sentence excluded a strip of land in the west, along the coast of Syria. It was vaguely worded, and the two sides argued for decades afterwards about whether it included Palestine.
 
+![Portrait of an elderly man with a white beard in a dark robe and a head cloth held by a black cord](images/hussein.jpg)
+*Hussein, the governor of Mecca, photographed in 1916. Photo: unknown author, public domain.*
+
 The second was to France. This was the agreement that began with Sykes's finger on the map, and it was kept secret, with good reason, since it gave to Britain and France much of what had just been promised to Hussein. France was to govern the Syrian coast directly. Further inland there would be an Arab state in name, in which only France could supply advisers and lend money. Britain was to have southern Iraq to govern as it chose, and a zone of its own beyond it. Palestine, with its holy places, was to be placed under an international administration.
 
 The third was the shortest, and it has been argued over more than the other two together. On 2 November 1917 the British foreign secretary, Arthur Balfour, sent a letter to Lord Rothschild, a leader of the Jewish community in Britain. Its key sentence is sixty-seven words long. The government, it said, viewed with favour the establishment in Palestine of a national home for the Jewish people, and would do its best to bring this about, "it being clearly understood that nothing shall be done which may prejudice the civil and religious rights of existing non-Jewish communities in Palestine".
+
+![A typed letter dated 2 November 1917 addressed to Lord Rothschild, with the declaration in an indented paragraph and Balfour's signature at the foot](images/balfour_letter.jpg)
+*The Balfour letter, 2 November 1917. Document: British government, public domain.*
 
 The movement to which the letter was addressed, Zionism, was then twenty years old. It held that the Jews were a nation, that centuries of persecution had shown that they would never be safe as a minority, and that they should rebuild a home of their own in the land where their history had begun. Since the 1880s, Jews escaping the massacres in Russia had been settling in Palestine, buying land and founding farms and a new town on the coast.
 
@@ -56,9 +68,15 @@ The British sent gold, guns and a few advisers. One of them was a small, intense
 
 They did reach Damascus, in October 1918, alongside a British army that had taken Jerusalem the winter before. Faisal set up a government there. By then, however, the secret was out. When the Bolsheviks seized power in Russia, they had found the texts of the wartime agreements in the tsar's foreign ministry, and to embarrass their enemies they had published the lot. The Arabs read in the newspapers how their country had been shared out.
 
+![Officers in uniform walking out of a stone gateway beneath a clock tower, with crowds watching from the street and rooftops](images/allenby.jpg)
+*General Allenby entering Jerusalem on foot through the Jaffa Gate, 11 December 1917. Photo: Underwood and Underwood, public domain.*
+
 ## Mandates
 
 At the peace conference in Paris, the American president had declared that peoples should no longer be handed about from one ruler to another like property. Faisal came to the conference in his robes, with Lawrence as his interpreter, to ask that the promise of independence be kept. The Americans sent a commission to Syria and Palestine to find out what the inhabitants wanted. It reported that they wanted independence, and that they were strongly opposed to the Zionist programme. The report was filed and forgotten.
+
+![Seven men on stone steps: Faisal in a long dark robe and head cloth standing in front, with officers and men in uniform and Arab dress behind him](images/faisal_paris.jpg)
+*Faisal, in front, with members of his delegation at the Paris peace conference, 1919. T. E. Lawrence is second from the right. Photo: US Army Signal Corps, public domain.*
 
 Britain and France settled matters between themselves in 1920. Outright colonies were no longer respectable, so a new device was used. The Arab lands were declared to be "mandates". Each was a territory entrusted by the new League of Nations to an advanced power, which would govern it until its people were able to stand alone. France received Syria and Lebanon. Britain received Iraq and Palestine.
 
@@ -67,6 +85,9 @@ The Syrians had already proclaimed Faisal their king. That July a French army ma
 In Iraq the news of the mandate set off a rising along the Euphrates that took the British four months and forty million pounds to put down. Aircraft bombed rebellious villages, and several thousand Iraqis were killed. The air force then persuaded the government that it could police the whole country in this way, far more cheaply than soldiers could.
 
 After that, Britain wanted a cheaper way of running things. In March 1921 the minister for the colonies, Winston Churchill, gathered forty British officials at a hotel in Cairo. In under three weeks they redesigned the region. Iraq would be a kingdom, made by joining three former Ottoman provinces: one in the north with many Kurds, one in the centre dominated by Sunni Arabs, and one in the south whose people were mostly Shia. Faisal, who was out of work, would be its king. The land east of the river Jordan was separated from Palestine and given to his brother, as the emirate of Transjordan. British advisers, bases and aircraft would remain in both.
+
+![A large group photograph of British officials, officers and Arab delegates in rows on steps among palms, with Churchill seated in the centre of the front row and two dogs on the ground](images/cairo.jpg)
+*The British officials at the Cairo conference, March 1921, with Winston Churchill seated in the centre of the front row. Photo: unknown author, public domain.*
 
 Syria, Lebanon, Iraq and Jordan are still on the map in very nearly the shapes that they were given in those years, and every one of their borders has since been fought over.
 
@@ -80,9 +101,15 @@ The victors had meant to carve up Turkey itself in the same way. A treaty signed
 
 One Ottoman general refused to accept it. Mustafa Kemal had made his name defending the straits against the British in 1915. He slipped away to the interior, set up a rival government in the small town of Ankara, and raised an army from the wreckage of the old one. In three years of fighting he drove out the Greek army that had landed on the coast, and the great port city of Smyrna burned behind it. Within weeks his assembly had abolished the sultanate. In 1923 the Allies signed a new treaty with him as an equal. It fixed, with small later changes, the borders that Turkey has today.
 
+![A wide grey photograph of the sea with a long low waterfront and a huge column of smoke rising behind it, with the words Fire at Smyrna 1922 written on the print](images/smyrna_fire.jpg)
+*The burning of Smyrna seen from the sea, September 1922. Photo: unknown author, public domain.*
+
 With the treaty came an agreement of a kind never before made on such a scale. To prevent future conflict, Greece and Turkey would exchange their minorities, compulsorily. About one million two hundred thousand Orthodox Christians, most of whom had already fled in the war, lost the right to live in Turkey, and about three hundred and fifty thousand Muslims were removed from Greece. The test was religion. Many of the "Greeks" spoke only Turkish, and many of the "Turks" only Greek, and none of them had a choice.
 
 Kemal then remade what was left. He declared a republic. In 1924 he abolished the caliphate, an office that had existed, in one form or another, since the death of Muhammad. He closed the religious courts and schools, adopted European law, and gave women the vote. He banned the fez, the brimless red hat that had been the mark of an Ottoman gentleman, and required men to wear hats with brims. In 1928 he replaced the Arabic script with the Latin alphabet, and toured the country with a blackboard teaching it himself. When Turks were required to take surnames, the parliament gave him one that means "father of the Turks": Atatürk.
+
+![A man in a dark suit pointing with chalk at a blackboard of Latin letters, with Turkish flags and uniformed officers behind him](images/kemal_alphabet.jpg)
+*Mustafa Kemal teaching the new Latin alphabet at a blackboard in Kayseri, 20 September 1928. Photo: Presidency of the Republic of Turkey, public domain.*
 
 ## A national home
 
@@ -101,5 +128,8 @@ In the middle of the revolt, a British commission of inquiry reached a new concl
 ## The door
 
 In May 1939, with another European war coming, Britain changed course. It needed the goodwill of the Arab world, which held the oil and the canal. A statement of policy announced that Jewish immigration to Palestine would be limited to seventy-five thousand people over the next five years, after which there would be no more without Arab consent.
+
+![Women, men and boys marching down a sunlit street under cloth banners with Hebrew lettering](images/white_paper_protest.jpg)
+*A march in Jerusalem against the White Paper, 18 May 1939. Photo: Matson Photo Service, public domain.*
 
 It was issued less than four months before the German army entered Poland, where three million Jews lived.
