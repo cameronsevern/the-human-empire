@@ -42,6 +42,9 @@ In the United States, Ronald Reagan, a former film actor, took office in 1981 wi
 
 It worked, on its own terms. Inflation fell from thirteen per cent to four and stayed down. Growth returned. The price was paid by the industrial towns, and by a change in who received the rewards. In 1980 the richest hundredth of Americans took a tenth of the national income. By 2007 they took more than a fifth, which was the same share as in 1928.
 
+![Line chart of the share of all income taken by the richest one per cent of American families each year from 1913 to 2017. The share is about 18 per cent before the First World War, rises to 24 per cent in 1928, falls with the crash of 1929 and through the Second World War to about 10 per cent, and stays between 9 and 11 per cent from the 1950s to 1980. From the early 1980s it climbs, with sharp swings, to 23.5 per cent in 2007, drops after the crash of 2008, and is back above 20 per cent by 2017](images/chart_top_one.png)
+*The share of all income taken by the richest one per cent of American families, 1913 to 2017: income before tax, as reported on tax returns, including capital gains. Chart: drawn for this book; data from Thomas Piketty and Emmanuel Saez, updated by Saez to 2018, table A3.*
+
 ## Adjustment
 
 The poorer countries received the new doctrine as a condition.
@@ -83,6 +86,9 @@ The reasoning was that house prices had never fallen across the whole of the Uni
 Pension funds in Norway, banks in Germany and town councils in Australia bought the bonds. Demand was so great that the machine ran short of mortgages. The brokers then lent to anyone. Loans were made without any check on the borrower's income, with payments set low for the first two years and then rising steeply. In California a strawberry picker who earned fourteen thousand dollars a year and spoke no English was lent more than seven hundred thousand to buy a house. Loans to people with poor records of repaying were called subprime, and by 2006 they were a fifth of all new American mortgages. House prices had doubled in nine years, which seemed to prove that nobody could lose.
 
 The last step was insurance. For a fee, the largest insurance company in the world guaranteed these bonds against loss, to the value of several hundred billion dollars. It put aside nothing to cover the guarantees, since its models said that they would never be called on. The contracts required it to hand over cash as soon as the bonds lost value, long before any final loss.
+
+![Diagram in five numbered steps of how house loans became bonds. Left, rows of small houses stand for several thousand loans made by brokers who are paid for each loan signed. Arrows lead into a tank marked the pool, gathered by an investment bank. A green arrow of monthly payments runs from the pool to a stack of three layers: a tall top layer, paid first, which loses nothing unless very many families stop paying, stamped highest grade; middle layers; and a thin bottom layer, which takes the first losses and pays more. Beside the stack, the money is paid out from the top down and losses strike from the bottom up. Arrows lead from the stack to pension funds in Norway, banks in Germany, town councils in Australia and the investment bank itself, using money borrowed for a day or a week. A box notes that an insurance company guarantees the bonds and sets nothing aside](images/diagram_mortgage_bond.png)
+*How a pile of house loans became a top-rated bond: the payments of several thousand borrowers were pooled and sold in layers, the top layer paid first and given the same grade as the American government's debt, the bottom layer taking the first losses. Not to scale. Diagram: drawn for this book.*
 
 ## The year it stopped
 
