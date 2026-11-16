@@ -1,0 +1,3 @@
+| File | What it shows | Commons page | Author | Licence |
+|---|---|---|---|---|
+| toolbox/80-aircraft-carrier/photo-shokaku-1941.jpg | The Japanese aircraft carrier Shōkaku at Yokosuka, 23 August 1941, shortly after completion, broadside on with bow to the right: full-length flight deck, small island on the starboard side, smoke over the after part (US Naval History and Heritage Command NH 73066, donation of Kazutoshi Hando). Not a file used in chapter 80 (which uses the deck photograph Carrier_shokaku.jpg). Commons thumbnail 1280x727 | https://commons.wikimedia.org/wiki/File:Aircraft_carrier_shokaku_h73066.jpg | Unknown (Japanese photograph; NHHC NH 73066) | Public domain |

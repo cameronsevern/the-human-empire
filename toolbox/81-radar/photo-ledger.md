@@ -1,0 +1,3 @@
+| File | What it shows | Commons page | Author | Licence |
+|---|---|---|---|---|
+| toolbox/81-radar/photo-original-magnetron.jpg | Black and white photograph of the anode block of the original cavity magnetron developed by John Randall and Harry Boot at Birmingham University in 1940, end on: six cylindrical cavities in a ring around a central bore, joined to it by slots (Science Museum, London). Not a file used in chapter 81. Original size 861x863 | https://commons.wikimedia.org/wiki/File:Original_cavity_magnetron,_1940_(9663811280).jpg | Science Museum London / Science and Society Picture Library | CC BY-SA 2.0 |

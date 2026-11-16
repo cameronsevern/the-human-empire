@@ -1,0 +1,3 @@
+| File | What it shows | Commons page | Author | Licence |
+|---|---|---|---|---|
+| toolbox/83-atomic-pile/photo-pile-layer.jpg | Chicago Pile-1 during assembly, 21 November 1942, seen from above: a square layer of graphite bricks laid in a herringbone pattern, a handwritten board giving the layer number and date, graphite blocks bored with holes for uranium in the foreground, timbers at the front, cloth hanging behind (US Department of Energy, HD.3A.029). Not a file used in chapter 83 (which uses a drawn chain-reaction diagram and no photograph of the pile). Commons thumbnail 960x1217 | https://commons.wikimedia.org/wiki/File:HD.3A.029_(10542726346).jpg | US Department of Energy (ENERGY.GOV) | Public domain |

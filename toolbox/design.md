@@ -124,6 +124,11 @@ A chapter can have more than one tool page: if a tool is interesting, it gets a 
 | 76 | The spinning wheel | One big wheel turning a small spindle dozens of times over |
 | 78 | The tractor | A tractor built like a car, bought and copied by the Soviet state |
 | 79 | The people's receiver | One cheap set at one fixed price, built for German stations |
+| 80 | The aircraft carrier | A floating airfield that struck from beyond the horizon |
+| 81 | The Enigma machine | Wired wheels that changed the cipher at every key press |
+| 81 | The cavity magnetron | A copper block with six holes, and radar small enough to fly |
+| 81 | Penicillin | A mould grown on broth in pottery boxes, 2,000 litres for one patient |
+| 83 | The atomic pile | Graphite, uranium and cadmium rods: a chain reaction started and stopped at will |
 
 ## Files
 

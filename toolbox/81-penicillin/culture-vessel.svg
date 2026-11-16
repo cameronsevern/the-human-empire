@@ -1,0 +1,129 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" font-family="Georgia, 'Noto Serif', serif">
+<defs>
+<!-- paper: fine grain plus slow blotches -->
+<filter id="paper" x="0" y="0" width="100%" height="100%">
+<feTurbulence type="fractalNoise" baseFrequency="0.8" numOctaves="3" seed="3" result="grain"/>
+<feColorMatrix in="grain" type="matrix" values="0 0 0 0 0.45  0 0 0 0 0.36  0 0 0 0 0.24  0 0 0 0.9 -0.42" result="g2"/>
+<feTurbulence type="fractalNoise" baseFrequency="0.006" numOctaves="2" seed="8" result="blot"/>
+<feColorMatrix in="blot" type="matrix" values="0 0 0 0 0.55  0 0 0 0 0.42  0 0 0 0 0.25  0 0 0 0.55 -0.2" result="b2"/>
+<feMerge><feMergeNode in="SourceGraphic"/><feMergeNode in="b2"/><feMergeNode in="g2"/></feMerge>
+</filter>
+<!-- ink: a slight wobble in every line, a soft bleed of colour under it, and mottling inside the washes -->
+<filter id="ink" x="-5%" y="-5%" width="110%" height="110%">
+<feTurbulence type="fractalNoise" baseFrequency="0.018" numOctaves="2" seed="5" result="warp"/>
+<feDisplacementMap in="SourceGraphic" in2="warp" scale="5" xChannelSelector="R" yChannelSelector="G" result="drawn"/>
+<feGaussianBlur in="drawn" stdDeviation="7" result="bleed0"/>
+<feComponentTransfer in="bleed0" result="bleed"><feFuncA type="linear" slope="0.38"/></feComponentTransfer>
+<feTurbulence type="fractalNoise" baseFrequency="0.011" numOctaves="2" seed="11" result="wash"/>
+<feColorMatrix in="wash" type="matrix" values="0 0 0 0 0.35  0 0 0 0 0.25  0 0 0 0 0.15  0 0 0 0.75 -0.3" result="w2"/>
+<feComposite in="w2" in2="drawn" operator="in" result="mottle"/>
+<feMorphology in="drawn" operator="erode" radius="2.5" result="inner"/>
+<feComposite in="drawn" in2="inner" operator="out" result="rim0"/>
+<feColorMatrix in="rim0" type="matrix" values="0 0 0 0 0.3  0 0 0 0 0.22  0 0 0 0 0.15  0 0 0 0.16 0" result="rim"/>
+<feOffset in="drawn" dx="5" dy="7" result="off"/>
+<feGaussianBlur in="off" stdDeviation="5" result="sh0"/>
+<feColorMatrix in="sh0" type="matrix" values="0 0 0 0 0.25  0 0 0 0 0.2  0 0 0 0 0.15  0 0 0 0.22 0" result="shadow"/>
+<feMerge><feMergeNode in="shadow"/><feMergeNode in="bleed"/><feMergeNode in="drawn"/><feMergeNode in="mottle"/><feMergeNode in="rim"/></feMerge>
+</filter>
+<radialGradient id="vig" cx="50%" cy="50%" r="75%"><stop offset="60%" stop-color="#6b4a2a" stop-opacity="0"/><stop offset="100%" stop-color="#6b4a2a" stop-opacity="0.22"/></radialGradient>
+</defs>
+<rect width="1200" height="760" fill="#faf6ee" filter="url(#paper)"/>
+<rect width="1200" height="760" fill="url(#vig)"/>
+<rect x="14" y="14" width="1172" height="732" fill="none" stroke="#2f2a26" stroke-width="2"/>
+<rect x="20" y="20" width="1160" height="720" fill="none" stroke="#2f2a26" stroke-width="0.7"/>
+<text x="44" y="64" font-size="30" font-weight="bold" fill="#2f2a26" letter-spacing="3">PENICILLIN</text>
+<line x1="44" y1="76" x2="104" y2="76" stroke="#b5523b" stroke-width="3"/>
+<text x="44" y="104" font-size="20" font-style="italic" fill="#8a8178">Norman Heatley's culture vessel, Oxford, 1940, cut open</text>
+<g filter="url(#ink)">
+<path d="M 870.0,350.0 L 940.0,290.0 L 972.0,326.0 L 870.0,404.0 Z" fill="#ece6d8" stroke="#2f2a26" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 870.0,364.0 L 944.0,304.0 L 960.0,322.0 L 870.0,390.0 Z" fill="#fbf9f3" stroke="#2f2a26" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 252,300 L 858,300 Q 880,300 880,322 L 880,468 Q 880,490 858,490 L 252,490 Q 230,490 230,468 L 230,322 Q 230,300 252,300 Z" fill="#ece6d8" stroke="#2f2a26" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 258,316 L 852,316 Q 864,316 864,328 L 864,462 Q 864,474 852,474 L 258,474 Q 246,474 246,462 L 246,328 Q 246,316 258,316 Z" fill="#fbf9f3" stroke="#2f2a26" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 862.0,366.0 L 884.0,362.0 L 884.0,388.0 L 862.0,388.0 Z" fill="#fbf9f3" stroke="#fbf9f3" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" />
+<circle cx="956" cy="304" r="20" fill="#ffffff" stroke="#9a948a" stroke-width="1.5"/>
+<circle cx="970" cy="294" r="15" fill="#ffffff" stroke="#9a948a" stroke-width="1.5"/>
+<circle cx="946" cy="290" r="14" fill="#ffffff" stroke="#9a948a" stroke-width="1.5"/>
+<circle cx="972" cy="314" r="13" fill="#ffffff" stroke="#9a948a" stroke-width="1.5"/>
+<circle cx="950" cy="318" r="13" fill="#ffffff" stroke="#9a948a" stroke-width="1.5"/>
+<circle cx="960" cy="284" r="12" fill="#ffffff" stroke="#9a948a" stroke-width="1.5"/>
+<path d="M 248.0,440.0 L 862.0,440.0 L 862.0,470.0 L 248.0,470.0 Z" fill="#e3c27a" stroke="#2f2a26" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<circle cx="404.5" cy="451.4" r="2.2" fill="#9b6b1e" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="495.8" cy="452.2" r="2.2" fill="#9b6b1e" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="307.9" cy="455.6" r="2.2" fill="#9b6b1e" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="793.2" cy="461.2" r="2.2" fill="#9b6b1e" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="706.1" cy="453.1" r="2.2" fill="#9b6b1e" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="575.9" cy="453.9" r="2.2" fill="#9b6b1e" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="368.4" cy="451.5" r="2.2" fill="#9b6b1e" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="392.2" cy="463.0" r="2.2" fill="#9b6b1e" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="742.5" cy="461.3" r="2.2" fill="#9b6b1e" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="726.3" cy="452.7" r="2.2" fill="#9b6b1e" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="446.6" cy="458.8" r="2.2" fill="#9b6b1e" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="687.2" cy="462.0" r="2.2" fill="#9b6b1e" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="771.6" cy="451.2" r="2.2" fill="#9b6b1e" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="615.3" cy="459.4" r="2.2" fill="#9b6b1e" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="558.4" cy="452.5" r="2.2" fill="#9b6b1e" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="539.9" cy="451.3" r="2.2" fill="#9b6b1e" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="802.7" cy="462.1" r="2.2" fill="#9b6b1e" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="582.2" cy="454.2" r="2.2" fill="#9b6b1e" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="788.1" cy="458.0" r="2.2" fill="#9b6b1e" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="772.9" cy="461.9" r="2.2" fill="#9b6b1e" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="559.8" cy="455.8" r="2.2" fill="#9b6b1e" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="611.4" cy="456.0" r="2.2" fill="#9b6b1e" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="362.0" cy="454.3" r="2.2" fill="#9b6b1e" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="733.2" cy="450.6" r="2.2" fill="#9b6b1e" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="296.4" cy="458.8" r="2.2" fill="#9b6b1e" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="429.8" cy="457.5" r="2.2" fill="#9b6b1e" stroke="#2f2a26" stroke-width="0"/>
+<path d="M 248.0,422.3 L 257.0,422.7 L 266.0,421.0 L 275.0,425.8 L 284.0,427.0 L 293.0,428.2 L 302.0,424.3 L 311.0,424.0 L 320.0,422.7 L 329.0,421.1 L 338.0,423.6 L 347.0,424.3 L 356.0,425.0 L 365.0,428.6 L 374.0,426.6 L 383.0,424.2 L 392.0,421.1 L 401.0,421.6 L 410.0,423.9 L 419.0,425.1 L 428.0,427.9 L 437.0,427.3 L 446.0,426.7 L 455.0,422.4 L 464.0,420.6 L 473.0,420.2 L 482.0,421.9 L 491.0,422.6 L 500.0,428.4 L 509.0,428.0 L 518.0,423.1 L 527.0,422.1 L 536.0,422.6 L 545.0,420.3 L 554.0,422.3 L 563.0,423.1 L 572.0,427.3 L 581.0,428.5 L 590.0,425.2 L 599.0,424.7 L 608.0,422.7 L 617.0,420.2 L 626.0,423.4 L 635.0,426.3 L 644.0,428.2 L 653.0,428.6 L 662.0,423.9 L 671.0,423.9 L 680.0,423.1 L 689.0,423.6 L 698.0,420.8 L 707.0,424.5 L 716.0,427.5 L 725.0,429.1 L 734.0,426.9 L 743.0,424.7 L 752.0,421.5 L 761.0,423.4 L 770.0,424.5 L 779.0,424.2 L 788.0,427.2 L 797.0,425.4 L 806.0,426.7 L 815.0,423.3 L 824.0,421.2 L 833.0,422.4 L 842.0,420.7 L 851.0,424.2 L 860.0,427.2 L 862.0,444.0 L 248.0,444.0 Z" fill="#b5523b" stroke="#2f2a26" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" />
+<circle cx="270" cy="421.58360383618253" r="5" fill="#d07a62" stroke="#2f2a26" stroke-width="1"/>
+<circle cx="304" cy="422.36400812931447" r="5" fill="#d07a62" stroke="#2f2a26" stroke-width="1"/>
+<circle cx="338" cy="420.9116474271865" r="5" fill="#d07a62" stroke="#2f2a26" stroke-width="1"/>
+<circle cx="372" cy="423.3043708265195" r="5" fill="#d07a62" stroke="#2f2a26" stroke-width="1"/>
+<circle cx="406" cy="420.4134765390719" r="5" fill="#d07a62" stroke="#2f2a26" stroke-width="1"/>
+<circle cx="440" cy="424.3367989443716" r="5" fill="#d07a62" stroke="#2f2a26" stroke-width="1"/>
+<circle cx="474" cy="420.1061054974068" r="5" fill="#d07a62" stroke="#2f2a26" stroke-width="1"/>
+<circle cx="508" cy="425.4260313535236" r="5" fill="#d07a62" stroke="#2f2a26" stroke-width="1"/>
+<circle cx="542" cy="420.0000321275316" r="5" fill="#d07a62" stroke="#2f2a26" stroke-width="1"/>
+<circle cx="576" cy="425.46513314599565" r="5" fill="#d07a62" stroke="#2f2a26" stroke-width="1"/>
+<circle cx="610" cy="420.0988792161088" r="5" fill="#d07a62" stroke="#2f2a26" stroke-width="1"/>
+<circle cx="644" cy="424.3745652701528" r="5" fill="#d07a62" stroke="#2f2a26" stroke-width="1"/>
+<circle cx="678" cy="420.39927077994355" r="5" fill="#d07a62" stroke="#2f2a26" stroke-width="1"/>
+<circle cx="712" cy="423.3395118299044" r="5" fill="#d07a62" stroke="#2f2a26" stroke-width="1"/>
+<circle cx="746" cy="420.8909473679379" r="5" fill="#d07a62" stroke="#2f2a26" stroke-width="1"/>
+<circle cx="780" cy="422.3953236187891" r="5" fill="#d07a62" stroke="#2f2a26" stroke-width="1"/>
+<circle cx="814" cy="421.55711645820446" r="5" fill="#d07a62" stroke="#2f2a26" stroke-width="1"/>
+<circle cx="848" cy="421.57424805632655" r="5" fill="#d07a62" stroke="#2f2a26" stroke-width="1"/>
+<line x1="238" y1="370" x2="110" y2="185" stroke="#2f2a26" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="238" cy="370" r="4" fill="#2f2a26" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="110" cy="185" r="19" fill="#faf6ee" stroke="#2f2a26" stroke-width="2"/>
+<line x1="950" y1="286" x2="880" y2="180" stroke="#2f2a26" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="950" cy="286" r="4" fill="#2f2a26" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="880" cy="180" r="19" fill="#faf6ee" stroke="#2f2a26" stroke-width="2"/>
+<line x1="640" y1="462" x2="700" y2="650" stroke="#2f2a26" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="640" cy="462" r="4" fill="#2f2a26" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="700" cy="650" r="19" fill="#faf6ee" stroke="#2f2a26" stroke-width="2"/>
+<line x1="400" y1="426" x2="330" y2="620" stroke="#2f2a26" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="400" cy="426" r="4" fill="#2f2a26" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="330" cy="620" r="19" fill="#faf6ee" stroke="#2f2a26" stroke-width="2"/>
+<line x1="800" y1="460" x2="1100" y2="540" stroke="#2f2a26" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="800" cy="460" r="4" fill="#2f2a26" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="1100" cy="540" r="19" fill="#faf6ee" stroke="#2f2a26" stroke-width="2"/>
+</g>
+<text x="110" y="192" text-anchor="middle" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">1</text>
+<text x="140" y="192" text-anchor="start" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">A glazed pottery box,</text>
+<text x="140" y="219" text-anchor="start" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">flat, so that hundreds</text>
+<text x="140" y="246" text-anchor="start" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">could be stacked</text>
+<text x="880" y="187" text-anchor="middle" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">2</text>
+<text x="850" y="187" text-anchor="end" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">A spout, plugged with</text>
+<text x="850" y="214" text-anchor="end" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">cotton wool, to fill</text>
+<text x="850" y="241" text-anchor="end" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">and empty it</text>
+<text x="700" y="657" text-anchor="middle" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">3</text>
+<text x="730" y="657" text-anchor="start" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">A shallow pool of</text>
+<text x="730" y="684" text-anchor="start" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">broth to feed the mould</text>
+<text x="330" y="627" text-anchor="middle" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">4</text>
+<text x="300" y="627" text-anchor="end" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">The mould grows as a</text>
+<text x="300" y="654" text-anchor="end" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">felt on the surface</text>
+<text x="1100" y="547" text-anchor="middle" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">5</text>
+<text x="1070" y="547" text-anchor="end" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">Penicillin seeps into</text>
+<text x="1070" y="574" text-anchor="end" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">the broth, which is</text>
+<text x="1070" y="601" text-anchor="end" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">drawn off and purified</text>
+</svg>

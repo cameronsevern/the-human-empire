@@ -1,0 +1,3 @@
+| File | What it shows | Commons page | Author | Licence |
+|---|---|---|---|---|
+| toolbox/81-penicillin/photo-oxford-vessel.jpg | Rectangular white porcelain penicillin culture ("fermentation") vessel with a neck about 3 inches long rising from one side near a corner, on a plain background; the catalogue says it is believed to be one of the original vessels used at Oxford in the 1940s (Science History Institute, Philadelphia). Not a file used in chapter 81 (which uses a US wartime penicillin poster). Commons thumbnail 1280x962 | https://commons.wikimedia.org/wiki/File:Penicillin_fermentation_vessel_-_DPLA_-_b0beb7f8438f272fd55fed2e98b260c2_(page_1).jpg | Science History Institute | Public domain |

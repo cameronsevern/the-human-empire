@@ -1,0 +1,3 @@
+| File | What it shows | Commons page | Author | Licence |
+|---|---|---|---|---|
+| toolbox/81-enigma/photo-enigma-i-berlin.jpg | Three-rotor Enigma I cipher machine of the German air force (inv. no. 4.0.23443) in its open armoured wooden case, "Zur Beachtung!" instructions in the lid, three rotor thumbwheels, lampboard, keyboard and plugboard, on a white background, Museum für Kommunikation Berlin, 2014. Not a file used in chapter 81 (which uses Arnold Reinhold's photograph Enigma_Machine_A16672_open). From the 1280 px Commons thumbnail, cropped to remove black borders, 714x674 | https://commons.wikimedia.org/wiki/File:Enigma_1_cipher_machine_Museum_of_Communication_Berlin_INV._NO._4.0.23443.jpg | Museum für Kommunikation Berlin | CC BY-SA 4.0 |
