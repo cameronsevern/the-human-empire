@@ -15,6 +15,9 @@ What he did on the beach was a crime. The British government of India held a mon
 
 It sounded absurd. Within weeks, all over India, people were boiling sea water in pans and selling illegal salt in the streets, and before the year was out the prisons held sixty thousand of them.
 
+![Black-and-white photograph of a man in white bending low to pick up something from the ground, with men in white caps and a woman in a white sari standing behind him](images/dandi.jpg)
+*Gandhi bends to pick up salt on the beach at Dandi at the end of the salt march, April 1930. Photo: unknown, public domain.*
+
 ## A thousand officials
 
 The empire that he proposed to shake was the largest in the world, and India was the heart of it. Nearly a fifth of the human race lived there.
@@ -35,6 +38,9 @@ In 1893 he took a job that nobody else wanted, handling a lawsuit for an Indian 
 
 He stayed for twenty-one years. South Africa had about a hundred thousand Indians, brought over to work on the sugar plantations, and the law treated them as an inferior race. They had to carry passes and pay special taxes, and their marriages were not recognised. Gandhi organised them, and in the course of doing so he worked out a way of fighting that he had not found in any book, though books had helped.
 
+![Black-and-white studio portrait of a young man with a moustache in a dark jacket, waistcoat and striped tie, with his arms folded](images/lawyer_1906.jpg)
+*Gandhi as a lawyer in South Africa, in 1906, aged thirty-six. Photo: unknown, public domain.*
+
 Part of it came from home. The region where he grew up was full of Jains, followers of an ancient Indian religion who hold that it is wrong to harm any living thing. Part came from his reading in London and in South African jails: the Sermon on the Mount, the essays of an American who had gone to prison sooner than pay taxes to a government that upheld slavery, and the late writings of the Russian novelist Tolstoy, with whom he exchanged letters.
 
 He needed a name for the result, and held a competition in his newspaper to find one. The word he settled on was *satyagraha*, which means, roughly, "holding firmly to the truth". When a law is unjust, do not obey it and do not hide. Break it in public, say that you are doing so, and accept the penalty without resistance and without hatred. The aim is not to defeat the opponent. It is to make him see what he is doing, and to make everyone watching see it too.
@@ -51,6 +57,9 @@ On 13 April 1919 a crowd of perhaps fifteen thousand people gathered in a public
 
 The British general in command of the district marched fifty riflemen in through the main lane and lined them up on a bank. He gave no warning. He ordered them to fire into the thickest part of the crowd, and to keep firing. People ran for the exits and were shot there. Some jumped into a well. The soldiers fired for ten minutes, until they had used sixteen hundred and fifty rounds, and then marched away, leaving the wounded where they lay under a curfew.
 
+![A brick wall under a brick arch with two small barred windows and several holes in the bricks, each outlined with a white rectangle](images/bagh.jpg)
+*A wall in the Jallianwala Bagh in Amritsar, today. The white outlines mark bullet holes left by the firing of 13 April 1919. Photo: Ahoun Xinjitsu, CC BY-SA 4.0, cropped.*
+
 The official count was three hundred and seventy-nine dead. Indian estimates were about a thousand. The general told the inquiry that he had gone there to produce a moral effect, and that he would have used his machine guns if the lane had been wide enough for the armoured cars. He was relieved of his command. However, the House of Lords passed a motion in his favour, and readers of a London newspaper subscribed twenty-six thousand pounds to reward him.
 
 Gandhi had believed in the good intentions of the British. After Amritsar, and after the cheering, he concluded that their rule in India was an evil that had to be ended.
@@ -62,6 +71,9 @@ In 1920 he persuaded Congress to adopt his method, and he rebuilt Congress to ca
 The campaign was called non-cooperation. Lawyers were to leave the courts, students the government colleges, and officials their posts. Above all, Indians were to stop buying British cloth.
 
 Cloth was at the centre of it, for a reason that went back a century. India had once clothed the world, and the machine-made cottons of Lancashire had put its hand spinners out of work and then, more slowly, most of its weavers. Gandhi asked every Indian to spin thread for half an hour a day and to wear only cloth woven by hand. Bonfires of imported fabric burned in the cities. Homespun white cotton became the uniform of the movement, and the spinning wheel its emblem. Economists pointed out that hand spinning could never compete with a mill. Gandhi believed that it would give idle villagers an income. It certainly gave millions of people who could not read, vote or fight something that they could do every day against the empire.
+
+![Black-and-white photograph of a bare-chested man in round glasses and a white loincloth sitting cross-legged and looking down, with a spinning wheel on either side of him](images/spinning_1925.jpg)
+*Gandhi at a spinning wheel during a demonstration of homespun cloth at Mirzapur, 9 June 1925. Photo: unknown, public domain.*
 
 For a year the movement shook British India as nothing had since the great rebellion of 1857. Then, in February 1922, in a small town in the north, police fired on a procession, and the crowd chased them into their station, set it on fire, and burned twenty-two policemen to death.
 
@@ -77,6 +89,9 @@ The choice puzzled his colleagues, as the spinning wheel had. He understood some
 
 The march to the sea filled the newspapers of the world for three weeks. The British, not knowing what to do, left him alone until a month after he reached the beach, and then arrested him in the night.
 
+![Black-and-white photograph of an elderly man in a white shawl carrying a staff, walking at the centre of a column of men in white caps along a shaded road](images/salt_march.jpg)
+*Gandhi, at the centre with a staff, leading marchers on the road to the sea during the salt march, March 1930. Photo: unknown, public domain.*
+
 Before his arrest he had announced the next step, a raid on a government salt works north of Bombay. It went ahead without him on 21 May, led by a woman poet. About two and a half thousand volunteers in white homespun approached the works, which was guarded by four hundred police armed with long clubs tipped with steel. An American reporter watched what happened.
 
 The volunteers walked forward in columns. As each column reached the fence, the police struck the men on the head. Not one of the marchers, the reporter wrote, even raised an arm to fend off the blows. They went down like ninepins. From where he stood he could hear the sickening whacks of the clubs on unprotected skulls. Stretcher bearers carried the injured away, and the next column walked up. It went on for hours. Two men died and three hundred and twenty were taken to hospital.
@@ -85,6 +100,9 @@ His report was printed in more than a thousand newspapers. It did what Gandhi ha
 
 The following year the viceroy released Gandhi and invited him to the palace to negotiate, as one leader with another. In London a politician out of office named Winston Churchill said that it was nauseating to see a seditious lawyer, posing as a holy beggar, striding half-naked up the steps of the viceroy's palace to parley on equal terms with the representative of the king. Gandhi went to London that autumn, visited the cotton towns whose trade his boycott had hurt, and was cheered by the mill girls. He took tea with the king in his loincloth and shawl. Asked afterwards whether he had felt underdressed, he said that the king had been wearing enough for both of them.
 
+![Black-and-white photograph of a smiling man in a white robe standing among a cheering crowd of women and men in aprons, coats and clogs, in front of a brick wall](images/darwen.jpg)
+*Gandhi greeted by cheering cotton workers at Darwen, in Lancashire, on 26 September 1931, during his visit to England. Photo: Keystone, public domain.*
+
 ## Who is the nation?
 
 Gandhi claimed to speak for all of India. Two men in particular denied it, and each spoke for tens of millions.
@@ -92,6 +110,9 @@ Gandhi claimed to speak for all of India. Two men in particular denied it, and e
 The first was Bhimrao Ambedkar, a brilliant lawyer with doctorates from New York and London. He had been born into one of the castes that Hindus called untouchable, whose members were forbidden to enter temples, draw water from the village well, or let their shadow fall on a person of higher caste. Gandhi condemned untouchability and campaigned against it. However, he wished to reform the Hindu order from within and keep it whole. Ambedkar wanted it broken. When the British offered his people the right to elect their own representatives separately from other Hindus, Gandhi, in prison, announced that he would starve himself to death unless the offer was withdrawn. Ambedkar gave way, bitterly, to save his life, in exchange for a larger number of seats reserved for his people within the general vote.
 
 The second was Muhammad Ali Jinnah, a wealthy, elegant Bombay lawyer who led the Muslim League. A quarter of Indians were Muslims. Many Muslims had marched with Gandhi in the 1920s. To Jinnah and a growing number of others, however, his movement, with its Hindu hymns, its holy man and its talk of the rule of the god Rama, looked very much like a Hindu revival. If the British left and India became a democracy, the Hindu majority would rule for ever. In 1940 Jinnah's party declared that the Muslims of India were a separate nation and must have independent states of their own in the regions where they were the majority.
+
+![Black-and-white photograph of two smiling elderly men side by side, one in a pale suit and tie, the other bare-shouldered in round glasses with a white cloth over one shoulder](images/jinnah.jpg)
+*Muhammad Ali Jinnah and Gandhi in Bombay, in September 1944, during their talks. Photo: unknown, public domain, cropped.*
 
 The method had another limit, which Gandhi never fully accepted. It worked on the British because the British were divided about their empire, had a free press, and cared how they appeared. In 1939 he wrote a letter to Adolf Hitler, addressing him as "Dear friend" and asking him to refrain from war. He advised the Jews of Germany to offer themselves up without resistance. Against a government that was willing to kill everyone who disobeyed, and to do so in secret, his way of fighting had no purchase.
 
@@ -112,3 +133,7 @@ How much of this was Gandhi's doing has been argued ever since. Britain left Ind
 Independence came at midnight on 14 August 1947. It came to two countries, India and a new Muslim state called Pakistan. In Delhi the new prime minister made a speech about India's meeting with destiny.
 
 Gandhi was not there. He was more than a thousand kilometres away, in a slum district of Calcutta, where Hindus and Muslims had been murdering each other for a year. He was seventy-seven. He spent the day of independence fasting and spinning, in a house that he had chosen to share with a Muslim politician. That winter he had walked for seven weeks through the villages of eastern Bengal, barefoot, asking the people to stop.
+
+
+![A frail elderly man in a white cloth wrapped round his body walking barefoot along a village track with a long staff, with palm trees behind him](images/noakhali.jpg)
+*Gandhi walking barefoot with a staff through the villages of Noakhali, in eastern Bengal, in 1946. Photo: unknown, public domain, cropped.*
