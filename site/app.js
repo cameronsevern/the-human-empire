@@ -389,7 +389,9 @@ function pick(ev) {
   return hit ? { book: hit.object.userData.book, point: hit.point } : null;
 }
 const released = parts.filter((p) => p.released).map((p) => p.roman);
-const OUT_NOW = released.length
+const OUT_NOW = released.length === parts.length
+  ? 'All eight parts are out. Choose a book to read it here.'
+  : released.length
   ? `${released.length > 1 ? 'Parts' : 'Part'} ${released.join(released.length > 2 ? ', ' : ' and ')} ${released.length > 1 ? 'are' : 'is'} out. Choose a book to read it here.`
   : 'The first part is on its way.';
 function caption(book) {

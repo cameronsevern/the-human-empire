@@ -17,7 +17,7 @@ DOWNLOADS = os.path.join(ROOT, "build", "downloads")   # uploaded to the release
 RELEASE_URL = "https://github.com/cameronsevern/the-human-empire/releases/download/downloads"
 DPI = 170          # A5 at 170 dpi is about 990 x 1405 pixels: sharp when a page fills the screen
 
-RELEASED = {1, 2, 3}    # parts that are public on the site; add a number here when a part is ready
+RELEASED = {1, 2, 3, 4, 5, 6, 7, 8}    # parts that are public on the site; add a number here when a part is ready
 
 PARTS = [
     (1, "I", "Origins", (1, 7)),
@@ -39,8 +39,10 @@ def chapters(first, last, pdf):
         folder = glob.glob(os.path.join(ROOT, "chapters", f"{n:02d}-*"))[0]
         title = re.sub(r"^# \d+\.\s*", "", open(os.path.join(folder, "chapter.md")).readline().strip())
         lede = open(os.path.join(folder, "chapter.md")).read().split("\n\n")[2].strip()[:40]
-        key = re.sub(r"\s+", " ", lede)
-        page = next((i + 1 for i, t in enumerate(text) if i > 2 and key[:25] in re.sub(r"\s+", " ", t)), None)
+        # the PDF sets straight quotes as curly ones, so both sides are compared with quotes straightened
+        flat = lambda t: re.sub(r"\s+", " ", t).translate(str.maketrans("\u2018\u2019\u201c\u201d", "''\"\""))
+        key = flat(lede)
+        page = next((i + 1 for i, t in enumerate(text) if i > 2 and key[:25] in flat(t)), None)
         out.append({"n": n, "title": title, "page": page})
     return out
 
