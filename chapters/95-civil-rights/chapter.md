@@ -8,7 +8,7 @@ On the evening of 1 December 1955, in Montgomery, the capital of the state of Al
 
 The story was told for years as that of a tired seamstress who had simply had enough. She said herself that the only tired she was, was tired of giving in. She had been the secretary of the local branch of the main Black civil rights organisation for twelve years, and that summer she had attended a training school for activists. A schoolgirl of fifteen had been arrested for the same offence on the same bus line nine months before, and the city's Black leaders had been waiting for the right case.
 
-They were ready. That night a professor at the local Black college, who led a council of professional women, let herself into her office and ran off thirty-five thousand leaflets on a duplicating machine. They called on every Black person in the city to stay off the buses the following Monday. She and two of her students spent the next day delivering them.
+They were ready. That night a professor at the local Black college, who led a council of professional women, let herself into her office and ran off tens of thousands of leaflets on a duplicating machine. They called on every Black person in the city to stay off the buses the following Monday. She and two of her students spent the next day delivering them.
 
 ## Separate
 
@@ -16,7 +16,7 @@ Ninety years earlier a civil war had ended slavery, and the constitution had bee
 
 By 1900 they had built a complete system. Laws required separate schools, hospitals, railway carriages, waiting rooms, drinking fountains and cemeteries. In 1896 the highest court in the country had approved this, on the theory that separate facilities could be equal. They never were. A Black child's school got a fraction of the money and the white school's cast-off books.
 
-The vote was removed without mentioning race. A would-be voter had to pay a tax, and to pass a test set by a white official, who might ask a Black teacher to explain a clause of the state constitution to his satisfaction, or to say how many bubbles there are in a bar of soap. In the state of Mississippi, where nearly half the population was Black, about one Black adult in twenty was registered to vote.
+The vote was removed without mentioning race. A would-be voter had to pay a tax, and to pass a test set by a white official, who might ask a Black teacher to explain a clause of the state constitution to his satisfaction, or to say how many bubbles there are in a bar of soap. In the state of Mississippi, where nearly half the population was Black, about one Black adult in fifteen was registered to vote.
 
 Behind the law stood the rope. Between the 1870s and 1950, more than four thousand Black people were murdered by mobs, often in public, before crowds, for offences that ranged from a rumour of assault to failing to step off the pavement.
 
@@ -50,7 +50,7 @@ Montgomery had shown a method, and its leaders knew exactly where it came from. 
 
 It had to be learned. In the city of Nashville, a young Black minister who had spent three years in India ran evening workshops in a church basement. Students took turns sitting at a row of chairs while others played the part of a white mob. They shouted insults, blew cigarette smoke in faces, pulled people to the floor and kicked them. The students practised curling up to protect their heads, and looking their attackers in the eye.
 
-On 1 February 1960, in the town of Greensboro in North Carolina, four Black first-year students sat down at the lunch counter of a department store and asked for coffee. They were refused, and stayed until the store closed. The next day they came back with twenty more. Within two months there were sit-ins in more than fifty cities, and by the end of the year seventy thousand people had taken part. They were punched, burned with cigarettes and had ketchup poured over their heads, and thousands went to jail. Store after store gave in.
+On 1 February 1960, in the town of Greensboro in North Carolina, four Black first-year students sat down at the lunch counter of a Woolworth's store and asked for coffee. They were refused, and stayed until the store closed. The next day they came back with twenty more. Within two months there were sit-ins in more than fifty cities, and by the end of the year seventy thousand people had taken part. They were punched, burned with cigarettes and had ketchup poured over their heads, and thousands went to jail. Store after store gave in.
 
 The next year small groups of Black and white volunteers set out to ride long-distance buses through the South, sitting together, to test a court ruling that the bus stations must be integrated. In Alabama a mob set one bus on fire and held the doors shut. At the next two cities the riders were beaten with iron pipes while the police stayed away by arrangement. The pictures went round the world, and the government in Washington, which had hoped to avoid the whole subject, had to send federal marshals.
 
@@ -62,7 +62,7 @@ King and his colleagues therefore chose the next city with care. Birmingham, in 
 
 The campaign began in April 1963. King was arrested and put in a cell alone. A group of white clergymen had published a statement calling the protests unwise and untimely, and he answered them in the margins of the newspaper and on scraps of paper smuggled out by his lawyers. For years, he wrote, he had heard the word "wait", and it had almost always meant "never". Justice too long delayed is justice denied.
 
-The adults of Birmingham were running out of volunteers willing to lose their jobs. The organisers turned to the schools. On 2 May more than a thousand children, some as young as six, walked out of a church in ranks, singing, and hundreds were arrested. The next day a thousand more came. The jails were full, and the commissioner ordered his men to stop them. Firemen turned on hoses powerful enough to strip the bark from trees, and rolled teenagers along the pavement. Policemen set dogs on them.
+The adults of Birmingham were running out of volunteers willing to lose their jobs. The organisers turned to the schools. On 2 May more than a thousand children, some as young as eight, walked out of a church in ranks, singing, and hundreds were arrested. The next day a thousand more came. The jails were full, and the commissioner ordered his men to stop them. Firemen turned on hoses powerful enough to strip the bark from trees, and rolled teenagers along the pavement. Policemen set dogs on them.
 
 It led the television news across America that night. The president said that the pictures made him sick. In June he went on television and called civil rights a moral issue, as old as the scriptures and as clear as the constitution, and asked Congress for a law to end segregation. A few hours after that speech, the leader of the movement in Mississippi was shot in the back in his own driveway, with his children inside the house, and died within the hour.
 
@@ -78,7 +78,7 @@ Eighteen days later, on a Sunday morning, a bomb planted by members of the Ku Kl
 
 The president was murdered that November. His successor, Lyndon Johnson, was a southerner who knew the Senate better than any man living, and he told Congress that no memorial could honour the dead president more than the passage of his bill. Southern senators talked for two months to prevent a vote. In July 1964 the Civil Rights Act became law. It banned segregation in hotels, restaurants, theatres and other places open to the public, and discrimination in employment on grounds of race, religion or sex. Johnson remarked to an aide that evening that his party had lost the South for a generation.
 
-The vote remained. That summer a thousand students, most of them white and from northern universities, went to Mississippi to help Black residents register. Three young men, two white and one Black, disappeared on the first day. Their bodies were found six weeks later, buried in an earth dam. They had been handed to the Klan by a deputy sheriff.
+The vote remained. That summer a thousand students, most of them white and from northern universities, went to Mississippi to help Black residents register. Three young men, two white and one Black, disappeared in the first days. Their bodies were found six weeks later, buried in an earth dam. They had been handed to the Klan by a deputy sheriff.
 
 One of the Mississippians who had tried to register was Fannie Lou Hamer, the twentieth child of a family of cotton pickers. She had been thrown off the plantation where she had worked for eighteen years, and beaten in a jail cell until she was permanently injured. That August she told her story on national television, at a hearing of the president's own party, which she was asking to unseat the all-white delegation that Mississippi had sent to its convention. Is this America, she asked, the land of the free and the home of the brave?
 
@@ -106,7 +106,7 @@ In the spring of 1968 he went to Memphis, in Tennessee, to support the city's Bl
 
 ## Six times
 
-The movement destroyed a legal order that had stood for seventy years, and it did so with very little bloodshed on its own account. Within a decade there were thousands of Black elected officials in the South, where there had been fewer than a hundred. The signs came down. A Black middle class grew up. In 2008 the country elected a Black president.
+The movement destroyed a legal order that had stood for seventy years, and it did so with very little bloodshed on its own account. Within a decade there were more than fifteen hundred Black elected officials in the South, where there had been fewer than a hundred. The signs came down. A Black middle class grew up. In 2008 the country elected a Black president.
 
 It did not close the gap in wealth, which is the legacy of three centuries. In 2022 the typical white family in America owned about six times as much as the typical Black one. Schools in many cities are as segregated as they were in 1970. In 2013 the Supreme Court struck down the rule that had made the southern states seek approval for changes to their voting laws, on the ground that the list of states was out of date.
 
