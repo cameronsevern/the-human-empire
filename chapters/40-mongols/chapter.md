@@ -29,9 +29,9 @@ The herder's food came from the same animals. Mares were milked, and the milk wa
 
 The second skill was the bow. Herders hunted from the saddle and guarded their flocks against wolves and thieves, and every boy learned to shoot while riding at speed. The bow was short enough to swing across a horse's neck and was built up in layers of wood, horn and sinew, which made it far more powerful than its size suggested. A rider could turn in the saddle and shoot backwards while his horse galloped away.
 
-In a farming country, a soldier is a specialist. Someone else has to grow his food and haul it to him, and a large army on campaign usually drags behind it a long tail of carts. On the steppe hardly anybody was a soldier by trade, because everybody was one. Every grown man already had a horse, a bow and the skill to use both. An army was simply the men of the camp riding out together, with spare horses running alongside and dried milk in their saddlebags.
+Put the horse, the dried food and the bow together, and the result is a kind of army that farming countries found very hard to match. In a farming country, a soldier is a specialist. Someone else has to grow his food and haul it to him, and a large army on campaign usually drags behind it a long tail of carts. Such an army moves at the pace of its carts. On the steppe, by contrast, hardly anybody was a soldier by trade, because everybody was one. Every grown man already had a horse, a bow and the skill to use both. An army was simply the men of the camp riding out together, with spare horses running alongside and dried milk in their saddlebags.
 
-Farming empires had feared such people since the first riders appeared. The steppe had one great weakness, and it had saved its neighbours many times. The herders were divided into clans and tribes that raided each other's animals, stole each other's wives and nursed feuds for generations. The Chinese court understood this well. For centuries it had paid one tribe to fight another, and had switched sides whenever any of them grew too strong.
+Farming empires had feared such people since the first riders appeared. The steppe, however, had one great weakness, and it had saved its neighbours many times. The herders did not act together. They were divided into clans and tribes that raided each other's animals, stole each other's wives and nursed feuds for generations. The Chinese court understood this well, and made use of it. For centuries it had paid one tribe to fight another, and had switched sides whenever any of them grew too strong.
 
 ## The boy who was left behind
 
@@ -44,19 +44,21 @@ The family survived on what a steppe has to offer people with no animals. They d
 
 Temüjin spent the next thirty years climbing out of that beginning. He attached himself to a stronger chief, gathered followers, fought the neighbouring tribes one at a time, and at last turned on his own patron. By 1206 there was nobody left on the Mongolian steppe to oppose him. A great assembly of the tribes gave him the title by which he is remembered, Genghis Khan.
 
-Other men had united the steppe before, and their unions had fallen apart when they died. Genghis therefore set out to destroy the thing that had always pulled such unions apart, which was the tribe itself.
+Other men had united the steppe before, and their unions had fallen apart when they died. Underneath, the tribes had remained tribes, each with its own chief and its own old quarrels. Genghis therefore set out to destroy the thing that had always pulled such unions apart, which was the tribe itself.
 
-He sorted every fighting man into a unit of ten. Ten of these made a hundred, ten hundreds made a thousand, and ten thousands made a division of ten thousand. Men from defeated tribes were scattered among the units, so that a soldier rode beside strangers and took his orders from an officer and not from a kinsman. Nobody was allowed to leave his unit for another. If one man of a ten ran from a battle, the other nine paid for it.
+He sorted every fighting man into a unit of ten. Ten of these made a hundred, ten hundreds made a thousand, and ten of those thousands made a division of ten thousand. The neat arithmetic had a purpose, which was to cut across the old loyalties. Men from defeated tribes were scattered among the units, so that a soldier rode beside strangers and took his orders from an officer and not from a kinsman. Nobody was allowed to leave his unit for another. If one man of a ten ran from a battle, the other nine paid for it.
 
-The officers were chosen for what they could do. During one of the early wars, an enemy archer shot the horse from under Genghis. After the battle the man was brought in as a prisoner and admitted that the arrow had been his. Genghis took him into his own service and gave him a new name, Jebe, which means an arrow. Jebe became one of the best generals the Mongols ever had, and rode as far as Russia. Shepherds and blacksmiths' sons rose in the same way, while the old chiefly families were pushed aside.
+The officers were chosen for what they could do. Even an enemy could qualify. During one of the early wars, an enemy archer shot the horse from under Genghis. After the battle the man was brought in as a prisoner and admitted that the arrow had been his. Genghis took him into his own service and gave him a new name, Jebe, which means an arrow. Jebe became one of the best generals the Mongols ever had, and rode as far as Russia. Shepherds and blacksmiths' sons rose in the same way, while the old chiefly families were pushed aside.
 
-The result was an army of about a hundred thousand riders that behaved like a single body. It could split into columns that travelled hundreds of kilometres apart and met again on an agreed day. It practised by hunting. Each winter the soldiers formed a ring many kilometres across and spent weeks closing it, driving the deer, boar and wolves of a whole district into the centre, and a man who let an animal slip past him was punished. The same manoeuvre worked on armies.
+The result was an army of about a hundred thousand riders that behaved like a single body. It could split into columns that travelled hundreds of kilometres apart and met again on an agreed day.
+
+It learned this discipline by hunting, and the hunt was run as a drill. Each winter the soldiers formed a ring many kilometres across and spent weeks closing it, driving the deer, boar and wolves of a whole district into the centre, and a man who let an animal slip past him was punished. The same manoeuvre worked on armies.
 
 ## Fifteen wet years
 
-A united steppe needed somewhere to go, and at that moment it also had the means. Scientists have read the rainfall of old Mongolia from the growth rings of ancient pine trees, which are wide in wet years and narrow in dry ones. The rings show that the fifteen years after 1211 were the longest run of wet years that central Mongolia had seen in more than a thousand. They were also mild.
+A united steppe needed somewhere to go, and at that moment it also had the means. Its strength lay in horses, and their number on the steppe depends on the weather. Scientists have read the rainfall of old Mongolia from the growth rings of ancient pine trees, which are wide in wet years and narrow in dry ones. The rings show that the fifteen years from 1211 were the longest run of wet years that central Mongolia had seen in more than a thousand. They were also mild.
 
-Rain on the steppe means grass, and grass means horses. In those years the pastures could carry more animals than anyone living had seen. Each Mongol soldier rode to war with a string of three or four spare horses and changed mounts through the day, so that none was worn out. This is the reason Mongol armies could cover distances that their enemies thought impossible.
+Rain on the steppe means grass, and grass means horses. In those years the pastures could carry more animals than anyone living had seen. This mattered because a Mongol army ran on spare horses. Each Mongol soldier rode to war with a string of three or four spare horses and changed mounts through the day, so that none was worn out. This is the reason Mongol armies could cover distances that their enemies thought impossible.
 
 The first target was north China, which lay just across the Gobi desert and was the richest country any Mongol had heard of. It was ruled at the time by the Jin, a dynasty founded by forest people from Manchuria who had themselves conquered it a century before. In the open field the Mongols beat the Jin armies again and again.
 
@@ -64,17 +66,17 @@ The cities were another matter. North China was full of walled towns, and the ca
 
 They learned quickly, because they were willing to be taught by the people they were fighting. Chinese officers and engineers who surrendered were given rank and pay. These men knew how to build catapults that threw stones and firebombs, how to dig under a wall, and how to shelter men at the foot of it. Within a few years the Mongol army included whole regiments of Chinese siege troops. The Jin capital fell in 1215, after a blockade that starved it. The Jin court had already fled south to Kaifeng, where it held out for another eighteen years.
 
-From then on the army had two parts. The horsemen destroyed the enemy's field armies and cut a city off from help, and the engineers then opened it. The engineers were always foreigners, taken from the last war to serve in the next.
+From then on the army had two parts, and each did what the other could not. The horsemen destroyed the enemy's field armies and cut a city off from help, and the engineers then opened it. The engineers were always foreigners, taken from the last war to serve in the next.
 
 ## The caravan at Otrar
 
-Genghis may not have meant to go west at all. West of Mongolia, across the mountains, lay the kingdom of Khwarazm, which covered what are now Uzbekistan, Turkmenistan, Iran and Afghanistan. Its cities, such as Bukhara and Samarkand, were among the largest in the world, and they lived by trade. Genghis sent its ruler, the shah, a message proposing that merchants should pass freely between them.
+Genghis may not have meant to go west at all. West of Mongolia, across the mountains, lay the kingdom of Khwarazm, which covered what are now Uzbekistan, Turkmenistan, Iran and Afghanistan. Its cities, such as Bukhara and Samarkand, were among the largest in the world, and they lived by trade. His first approach to it was a peaceful one. Genghis sent its ruler, the shah, a message proposing that merchants should pass freely between them.
 
 In 1218 a caravan of about four hundred and fifty merchants, travelling under Mongol protection, reached the shah's frontier town of Otrar. The governor there declared that they were spies. He had them killed and kept their goods. Genghis sent envoys to demand that the governor be handed over. The shah had the chief envoy put to death and sent the others home with their beards shaved off.
 
 It was one of the most expensive mistakes a ruler has ever made. The following year Genghis crossed the mountains with his whole army, together with its Chinese engineers.
 
-The shah had more soldiers than the Mongols did. He did not trust his generals, however, and so he did not gather his men into one army. He spread them out as garrisons in his cities, and waited behind the walls. The Mongols took the cities one at a time.
+The shah had more soldiers than the Mongols did. He did not trust his generals, however, and so he did not gather his men into one army. He spread them out as garrisons in his cities, and waited behind the walls. As a result, the Mongols never had to face his full strength in one place. They took the cities one at a time.
 
 While part of the army besieged Otrar, Genghis himself disappeared. He led a column into the Kyzylkum, a desert of red sand that the shah's officers considered impassable, and crossed nearly five hundred kilometres of it. In February 1220 he came out in front of Bukhara, far behind the shah's lines, from a direction in which nobody was looking.
 
@@ -87,7 +89,7 @@ The leading men of Bukhara opened the gates. The fortress inside the city held o
 
 Other cities chose to fight, and the rule was applied. At Merv and Nishapur, in the rich province east of the Caspian Sea, the people were led out onto the plain and killed, and the walls were pulled down. Persian writers put the dead at more than a million in each city, which is more people than either had ever held. The numbers are best read as a measure of horror. Travellers who passed through the region decades afterwards found the ruins still empty.
 
-The terror was a method. The Mongols were few, and they could not afford to besiege every town from Korea to Iraq. A massacre at one city was meant to open the gates of the next ten, and it often did.
+The terror was a method. The Mongols were few, and they could not afford to besiege every town from Korea to Iraq. What they could do was persuade each town to decide for itself not to fight. A massacre at one city was meant to open the gates of the next ten, and it often did.
 
 One group of people was treated differently, even in a city marked for destruction. Before the killing began, the Mongols asked who was a craftsman. Weavers, smiths, potters, physicians and engineers were pulled out of the crowd and marched away to work for the khan and his family. From Samarkand alone, tens of thousands were taken. This is how a goldsmith from Paris came to be building a fountain in Mongolia.
 
@@ -100,18 +102,20 @@ Genghis Khan died in 1227, and his empire was still growing. His sons and grands
 
 One army rode west. It destroyed the cities of Russia, including Kiev, and in the spring of 1241 it entered central Europe in two columns. Within three days of each other, one column crushed an army of Polish and German knights and the other annihilated the army of the king of Hungary. In both battles the knights charged, and the Mongols gave way in front of them. The retreat was a pretence. When the knights' heavy horses were blown and their line had come apart, the Mongols turned and closed in from the sides. Nothing now stood between them and Vienna.
 
-The following spring they turned around and rode home. Historians still argue about the reason. The great khan had died in Mongolia, and each of the princes with the army had a stake in who came next. The Hungarian plain is also the last and smallest patch of steppe on the way west, too small to feed such herds for long, and that spring it was waterlogged. The stone castles of Hungary, moreover, had held out. Whatever weighed most, the Mongols came back to Hungary only once, forty years later, and were driven off. Western Europe lay beyond the end of the grass, and it was spared.
+The following spring they turned around and rode home. Historians still argue about the reason. One possibility is politics. The great khan had died in Mongolia, and each of the princes with the army had a stake in who came next. Another is grass. The Hungarian plain is also the last and smallest patch of steppe on the way west, too small to feed such herds for long, and that spring it was waterlogged. The stone castles of Hungary, moreover, had held out. Whatever weighed most, the Mongols came back to Hungary only once, forty years later, and were driven off. Western Europe lay beyond the end of the grass, and it was spared.
 
 A second army rode south-west under a grandson of Genghis. In 1258 it reached Baghdad, which for five hundred years had been the seat of the caliph, the leader of the Muslim world. The caliph refused to submit. Chinese engineers set up their catapults, the walls were breached within two weeks, and the city was sacked. The caliph was put to death, and the long line of his family's rule in Baghdad ended with him.
 
 ![A two-page Persian painting of a pink-walled city with domes, under attack by horsemen and a siege engine, with soldiers in blue and green coats in front](images/baghdad.jpg)
 *Mongols besieging Baghdad in 1258, painted in Persia in a copy of Rashid al-Din's history made about 1430, nearly two hundred years after the event. Painting: Sayf al-Vahidi and others, public domain.*
 
-Two years later, a Mongol army was beaten in a great battle and did not come back to avenge it. This happened at a place in Palestine called Ain Jalut. The victors were the soldiers who ruled Egypt. The sultans of Egypt had long bought boys from the steppe and raised them as cavalry, and ten years before this battle the slave soldiers had taken the throne for themselves. They knew the Mongol tricks because they had grown up with them. The Mongols, for their part, had only a small force there. Syria was too dry to pasture the hundreds of thousands of horses a full army needed.
+Two years later, a Mongol army was beaten in a great battle and did not come back to avenge it. This happened at a place in Palestine called Ain Jalut. The victors were the soldiers who ruled Egypt. The sultans of Egypt had long bought boys from the steppe and raised them as cavalry, and ten years before this battle the slave soldiers had taken the throne for themselves. The Mongols were therefore facing men who rode and shot as they did. These men knew the Mongol tricks because they had grown up with them.
 
-Something of the kind happened at most of the empire's edges. The Mongols were strongest where there was grass, and they stalled in forests, in deserts, and in the wet rice lands of the south.
+The Mongols, for their part, had only a small force there, and the reason was once again grass. Syria was too dry to pasture the hundreds of thousands of horses a full army needed.
 
-The rice lands were the hardest. South China, under the Song dynasty, was a country of rivers, canals and flooded fields, where a cavalry charge sank to its knees. Another grandson of Genghis, Kublai, took on this war, and it took him twenty years. He built a navy of river boats. He recruited Chinese infantry by the hundred thousand. For five years his army sat in front of the twin fortress cities of Xiangyang, which guarded the route south, and could not get in.
+Something of the kind happened at most of the empire's edges. An army that lived on its horses could go in strength only where its horses could eat. The Mongols were strongest where there was grass, and they stalled in forests, in deserts, and in the wet rice lands of the south.
+
+The rice lands were the hardest. South China, under the Song dynasty, was a country of rivers, canals and flooded fields, where a cavalry charge sank to its knees. Another grandson of Genghis, Kublai, took on this war, and it took him twenty years. To fight it he had to assemble an army quite unlike his grandfather's. He built a navy of river boats. He recruited Chinese infantry by the hundred thousand. Even so, for five years his army sat in front of the twin fortress cities of Xiangyang, which guarded the route south, and could not get in.
 
 In the end Kublai wrote to his nephew, who ruled Persia, and asked for help. Two engineers were sent from the Middle East. They built a kind of catapult that was new to China, worked by a heavy weight in a box, which dropped and whipped a long arm over. It threw stones as heavy as a large man, much farther than the Chinese machines, which were pulled by teams of men on ropes. The first stone struck a tower with a noise like thunder, and the whole city shook. Xiangyang surrendered in 1273, and the Song dynasty was finished six years later.
 
@@ -122,12 +126,12 @@ A generation earlier, Chinese engineers had broken the walls of Persia for the M
 
 ## Safe by day and by night
 
-By the time Kublai ruled in China, the Mongols held the largest connected empire in history. It ran from Korea to Hungary and covered about a sixth of the land on earth. Very soon it was not really one state. The descendants of Genghis quarrelled, and after 1260 the empire settled into four, centred on China, Central Asia, Persia and Russia. The four were ruled by cousins, however, and they kept one thing in common, which was the road.
+By the time Kublai ruled in China, the Mongols held the largest connected empire in history. It ran from Korea to Hungary and covered about a sixth of the land on earth. Very soon, however, it was not really one state. The descendants of Genghis quarrelled, and after 1260 the empire settled into four, centred on China, Central Asia, Persia and Russia. The four were ruled by cousins, however, and they kept one thing in common, which was the road.
 
 ![Portrait of a heavy-set man with a thin moustache and a small pointed beard, in a white robe and a white hat with a black band](images/kublai.jpg)
 *Kublai Khan, in a portrait painted after his death in 1294 by the artist Araniko, who made him look about thirty years younger. Portrait: Araniko, public domain.*
 
-The Mongols had built a relay system to carry the khan's orders. Stations were set a day's ride apart along the main routes, and each kept fresh horses, food and beds. A messenger rode hard to the next station, jumped onto a new horse and rode on, or handed his bag to a fresh rider. Urgent news could travel more than two hundred kilometres in a day, a speed that no traveller on land would beat until the railway.
+The Mongols had built a relay system to carry the khan's orders, since an empire of that size could be governed only if orders crossed it quickly. Stations were set a day's ride apart along the main routes, and each kept fresh horses, food and beds. A messenger rode hard to the next station, jumped onto a new horse and rode on, or handed his bag to a fresh rider. Urgent news could travel more than two hundred kilometres in a day, a speed that no traveller on land would beat until the railway.
 
 Officials and envoys who used the system carried a tablet of silver or gold on a cord, about the size of a hand, engraved with a warning in the khan's name. Whoever showed it was to be given horses and food. Merchants were soon allowed to use the roads as well, since the Mongol lords wanted everything that trade could bring.
 
@@ -146,11 +150,11 @@ Goods and skills moved with the people. Gunpowder, which had been known only in 
 ![Two tall white porcelain vases painted in blue with dragons and flowers, with elephant-head handles, in a museum case](images/vases.jpg)
 *The David Vases, a pair of blue-and-white porcelain vases made at Jingdezhen in China, dated 1351. Photo: BabelStone, CC BY-SA 3.0.*
 
-At the Mongol court in Persia, a chief minister who had trained as a doctor was ordered to write the history of the Mongols. He went on to add the histories of the Chinese, the Indians, the Jews and the Franks, and he questioned visitors from each of those peoples to do it. No earlier history had taken in so much of the world, and it could have been written in few other places.
+Knowledge was gathered in the same way that craftsmen had been. At the Mongol court in Persia, a chief minister who had trained as a doctor was ordered to write the history of the Mongols. He went on to add the histories of the Chinese, the Indians, the Jews and the Franks, and he questioned visitors from each of those peoples to do it. No earlier history had taken in so much of the world, and it could have been written in few other places, because few other courts had visitors from all of those peoples to question.
 
 ## The road stays open
 
-The Mongols did not have a faith to spread, a script the world adopted, or a style of building. Their capital was a small town, and William thought little of it. Within about a century of Kublai's death in 1294, they had been driven out of China, absorbed in Persia, and reduced in Russia to collecting tribute from princes who were growing stronger than they were.
+The empire itself did not last, and it left few of the marks that empires usually leave. The Mongols did not have a faith to spread, a script the world adopted, or a style of building. Their capital was a small town, and William thought little of it. Within about a century of Kublai's death in 1294, they had been driven out of China, absorbed in Persia, and reduced in Russia to collecting tribute from princes who were growing stronger than they were.
 
 What they left behind was the map they had redrawn. Baghdad never recovered its place. Northern China and eastern Iran had lost millions of people. A small town called Moscow had begun to grow rich as the khan's tax collector. Above all, the two ends of Asia now knew far more about each other, and wanted each other's goods.
 
