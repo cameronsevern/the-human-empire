@@ -129,6 +129,12 @@ A chapter can have more than one tool page: if a tool is interesting, it gets a 
 | 81 | The cavity magnetron | A copper block with six holes, and radar small enough to fly |
 | 81 | Penicillin | A mould grown on broth in pottery boxes, 2,000 litres for one patient |
 | 83 | The atomic pile | Graphite, uranium and cadmium rods: a chain reaction started and stopped at will |
+| 88 | The airlift transport | A nose wheel, a level floor, and ten tons of coal a trip |
+| 91 | The little red book | Mao's sayings in a red vinyl cover, sized for a pocket |
+| 92 | The spy plane | A jet-powered glider carrying a camera 21 kilometres up |
+| 93 | The guidance computer | Programs woven into wire, read by a computer of 32 kilograms |
+| 94 | The helicopter | A turbine engine that made the helicopter a workhorse |
+| 97 | The oil tanker | A floating box of oil, made bigger because bigger was cheaper |
 
 ## Files
 

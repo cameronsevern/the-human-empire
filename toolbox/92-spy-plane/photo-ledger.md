@@ -1,0 +1,3 @@
+| File | What it shows | Commons page | Author | Licence |
+|---|---|---|---|---|
+| toolbox/92-spy-plane/photo-u2c-duxford.jpg | Lockheed U-2C 56-6692 (c/n 359), black, serial 66692 in red on the fin, suspended from cables under the curved concrete roof of the American Air Museum, Imperial War Museum Duxford, January 2018, seen from below and the left; beneath it hangs a silver Soviet SA-2 missile, placed by the museum as if about to strike it, with the tails of a B-25 and an F-15 at the bottom. Not a file used in chapter 92 (which uses the San Cristóbal reconnaissance photograph, not the aircraft). Commons thumbnail 1280x853 | https://commons.wikimedia.org/wiki/File:Lockheed_U-2C_%E2%80%9866692%E2%80%99_and_SA-2_missile_(39205482045).jpg | Alan Wilson | CC BY-SA 2.0 |

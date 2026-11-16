@@ -1,0 +1,3 @@
+| File | What it shows | Commons page | Author | Licence |
+|---|---|---|---|---|
+| toolbox/88-airlift-transport/photo-tempelhof-c54.jpg | Douglas C-54G Skymaster 45-0557, silver with a red zigzag stripe and "Rosinen Bomber" by the cockpit, displayed on grass as the Berlin airlift memorial aircraft at Tempelhof, December 2001 (scanned negative), seen from the front left with its port wing over the camera; a sign in front reads "Berlin Airlift Veteran" and says this C-54 flew during the airlift. Not a file used in chapter 88 (which uses Henry Ries's photograph of children watching a C-54 land). Commons thumbnail 1280x684 | https://commons.wikimedia.org/wiki/File:45-0557_%E2%80%93_Douglas_C-54G_Skymaster_Berlin_Templehof_Airlift_memorial.jpg | kitmasterbloke | CC BY 4.0 |

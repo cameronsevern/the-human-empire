@@ -1,0 +1,148 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" font-family="Georgia, 'Noto Serif', serif">
+<defs>
+<!-- paper: fine grain plus slow blotches -->
+<filter id="paper" x="0" y="0" width="100%" height="100%">
+<feTurbulence type="fractalNoise" baseFrequency="0.8" numOctaves="3" seed="3" result="grain"/>
+<feColorMatrix in="grain" type="matrix" values="0 0 0 0 0.45  0 0 0 0 0.36  0 0 0 0 0.24  0 0 0 0.9 -0.42" result="g2"/>
+<feTurbulence type="fractalNoise" baseFrequency="0.006" numOctaves="2" seed="8" result="blot"/>
+<feColorMatrix in="blot" type="matrix" values="0 0 0 0 0.55  0 0 0 0 0.42  0 0 0 0 0.25  0 0 0 0.55 -0.2" result="b2"/>
+<feMerge><feMergeNode in="SourceGraphic"/><feMergeNode in="b2"/><feMergeNode in="g2"/></feMerge>
+</filter>
+<!-- ink: a slight wobble in every line, a soft bleed of colour under it, and mottling inside the washes -->
+<filter id="ink" x="-5%" y="-5%" width="110%" height="110%">
+<feTurbulence type="fractalNoise" baseFrequency="0.018" numOctaves="2" seed="5" result="warp"/>
+<feDisplacementMap in="SourceGraphic" in2="warp" scale="5" xChannelSelector="R" yChannelSelector="G" result="drawn"/>
+<feGaussianBlur in="drawn" stdDeviation="7" result="bleed0"/>
+<feComponentTransfer in="bleed0" result="bleed"><feFuncA type="linear" slope="0.38"/></feComponentTransfer>
+<feTurbulence type="fractalNoise" baseFrequency="0.011" numOctaves="2" seed="11" result="wash"/>
+<feColorMatrix in="wash" type="matrix" values="0 0 0 0 0.35  0 0 0 0 0.25  0 0 0 0 0.15  0 0 0 0.75 -0.3" result="w2"/>
+<feComposite in="w2" in2="drawn" operator="in" result="mottle"/>
+<feMorphology in="drawn" operator="erode" radius="2.5" result="inner"/>
+<feComposite in="drawn" in2="inner" operator="out" result="rim0"/>
+<feColorMatrix in="rim0" type="matrix" values="0 0 0 0 0.3  0 0 0 0 0.22  0 0 0 0 0.15  0 0 0 0.16 0" result="rim"/>
+<feOffset in="drawn" dx="5" dy="7" result="off"/>
+<feGaussianBlur in="off" stdDeviation="5" result="sh0"/>
+<feColorMatrix in="sh0" type="matrix" values="0 0 0 0 0.25  0 0 0 0 0.2  0 0 0 0 0.15  0 0 0 0.22 0" result="shadow"/>
+<feMerge><feMergeNode in="shadow"/><feMergeNode in="bleed"/><feMergeNode in="drawn"/><feMergeNode in="mottle"/><feMergeNode in="rim"/></feMerge>
+</filter>
+<radialGradient id="vig" cx="50%" cy="50%" r="75%"><stop offset="60%" stop-color="#6b4a2a" stop-opacity="0"/><stop offset="100%" stop-color="#6b4a2a" stop-opacity="0.22"/></radialGradient>
+</defs>
+<rect width="1200" height="760" fill="#faf6ee" filter="url(#paper)"/>
+<rect width="1200" height="760" fill="url(#vig)"/>
+<rect x="14" y="14" width="1172" height="732" fill="none" stroke="#2f2a26" stroke-width="2"/>
+<rect x="20" y="20" width="1160" height="720" fill="none" stroke="#2f2a26" stroke-width="0.7"/>
+<text x="44" y="64" font-size="30" font-weight="bold" fill="#2f2a26" letter-spacing="3">THE GUIDANCE COMPUTER</text>
+<line x1="44" y1="76" x2="104" y2="76" stroke="#b5523b" stroke-width="3"/>
+<text x="44" y="104" font-size="20" font-style="italic" fill="#8a8178">The Apollo guidance computer and its keyboard, 1960s</text>
+<g filter="url(#ink)">
+<path d="M 80.0,230.0 L 380.0,230.0 L 380.0,630.0 L 80.0,630.0 Z" fill="#55595c" stroke="#2f2a26" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 96.0,246.0 L 142.0,246.0 L 142.0,266.0 L 96.0,266.0 Z" fill="#e9e4d4" stroke="#2f2a26" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 148.0,246.0 L 194.0,246.0 L 194.0,266.0 L 148.0,266.0 Z" fill="#e9e4d4" stroke="#2f2a26" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 96.0,272.0 L 142.0,272.0 L 142.0,292.0 L 96.0,292.0 Z" fill="#e9e4d4" stroke="#2f2a26" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 148.0,272.0 L 194.0,272.0 L 194.0,292.0 L 148.0,292.0 Z" fill="#e9e4d4" stroke="#2f2a26" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 96.0,298.0 L 142.0,298.0 L 142.0,318.0 L 96.0,318.0 Z" fill="#e9e4d4" stroke="#2f2a26" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 148.0,298.0 L 194.0,298.0 L 194.0,318.0 L 148.0,318.0 Z" fill="#e9e4d4" stroke="#2f2a26" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 96.0,324.0 L 142.0,324.0 L 142.0,344.0 L 96.0,344.0 Z" fill="#e9e4d4" stroke="#2f2a26" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 148.0,324.0 L 194.0,324.0 L 194.0,344.0 L 148.0,344.0 Z" fill="#e9e4d4" stroke="#2f2a26" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 96.0,350.0 L 142.0,350.0 L 142.0,370.0 L 96.0,370.0 Z" fill="#e9e4d4" stroke="#2f2a26" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 148.0,350.0 L 194.0,350.0 L 194.0,370.0 L 148.0,370.0 Z" fill="#e9e4d4" stroke="#2f2a26" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 96.0,376.0 L 142.0,376.0 L 142.0,396.0 L 96.0,396.0 Z" fill="#e9e4d4" stroke="#2f2a26" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 148.0,376.0 L 194.0,376.0 L 194.0,396.0 L 148.0,396.0 Z" fill="#e9e4d4" stroke="#2f2a26" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 208.0,244.0 L 366.0,244.0 L 366.0,466.0 L 208.0,466.0 Z" fill="#2b2f2c" stroke="#2f2a26" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 94.0,505.0 L 128.0,505.0 L 128.0,539.0 L 94.0,539.0 Z" fill="#b9b3a4" stroke="#2f2a26" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 94.0,551.0 L 128.0,551.0 L 128.0,585.0 L 94.0,585.0 Z" fill="#b9b3a4" stroke="#2f2a26" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 134.0,484.0 L 168.0,484.0 L 168.0,518.0 L 134.0,518.0 Z" fill="#d8d4c8" stroke="#2f2a26" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 134.0,530.0 L 168.0,530.0 L 168.0,564.0 L 134.0,564.0 Z" fill="#d8d4c8" stroke="#2f2a26" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 134.0,576.0 L 168.0,576.0 L 168.0,610.0 L 134.0,610.0 Z" fill="#d8d4c8" stroke="#2f2a26" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 174.0,484.0 L 208.0,484.0 L 208.0,518.0 L 174.0,518.0 Z" fill="#d8d4c8" stroke="#2f2a26" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 174.0,530.0 L 208.0,530.0 L 208.0,564.0 L 174.0,564.0 Z" fill="#d8d4c8" stroke="#2f2a26" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 174.0,576.0 L 208.0,576.0 L 208.0,610.0 L 174.0,610.0 Z" fill="#d8d4c8" stroke="#2f2a26" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 214.0,484.0 L 248.0,484.0 L 248.0,518.0 L 214.0,518.0 Z" fill="#d8d4c8" stroke="#2f2a26" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 214.0,530.0 L 248.0,530.0 L 248.0,564.0 L 214.0,564.0 Z" fill="#d8d4c8" stroke="#2f2a26" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 214.0,576.0 L 248.0,576.0 L 248.0,610.0 L 214.0,610.0 Z" fill="#d8d4c8" stroke="#2f2a26" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 254.0,484.0 L 288.0,484.0 L 288.0,518.0 L 254.0,518.0 Z" fill="#d8d4c8" stroke="#2f2a26" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 254.0,530.0 L 288.0,530.0 L 288.0,564.0 L 254.0,564.0 Z" fill="#d8d4c8" stroke="#2f2a26" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 254.0,576.0 L 288.0,576.0 L 288.0,610.0 L 254.0,610.0 Z" fill="#d8d4c8" stroke="#2f2a26" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 294.0,484.0 L 328.0,484.0 L 328.0,518.0 L 294.0,518.0 Z" fill="#d8d4c8" stroke="#2f2a26" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 294.0,530.0 L 328.0,530.0 L 328.0,564.0 L 294.0,564.0 Z" fill="#d8d4c8" stroke="#2f2a26" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 294.0,576.0 L 328.0,576.0 L 328.0,610.0 L 294.0,610.0 Z" fill="#d8d4c8" stroke="#2f2a26" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 334.0,505.0 L 368.0,505.0 L 368.0,539.0 L 334.0,539.0 Z" fill="#d8d4c8" stroke="#2f2a26" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 334.0,551.0 L 368.0,551.0 L 368.0,585.0 L 334.0,585.0 Z" fill="#d8d4c8" stroke="#2f2a26" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 440.0,330.0 L 770.0,330.0 L 770.0,520.0 L 440.0,520.0 Z" fill="#c9b98a" stroke="#2f2a26" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 440.0,330.0 L 480.0,296.0 L 810.0,296.0 L 770.0,330.0 Z" fill="#d8cba0" stroke="#2f2a26" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 770.0,330.0 L 810.0,296.0 L 810.0,486.0 L 770.0,520.0 Z" fill="#a99a6c" stroke="#2f2a26" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 456.0,348.0 L 470.0,348.0 L 470.0,502.0 L 456.0,502.0 Z" fill="#b7a878" stroke="#2f2a26" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 476.0,348.0 L 490.0,348.0 L 490.0,502.0 L 476.0,502.0 Z" fill="#b7a878" stroke="#2f2a26" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 496.0,348.0 L 510.0,348.0 L 510.0,502.0 L 496.0,502.0 Z" fill="#b7a878" stroke="#2f2a26" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 516.0,348.0 L 530.0,348.0 L 530.0,502.0 L 516.0,502.0 Z" fill="#b7a878" stroke="#2f2a26" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 536.0,348.0 L 550.0,348.0 L 550.0,502.0 L 536.0,502.0 Z" fill="#b7a878" stroke="#2f2a26" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 556.0,348.0 L 570.0,348.0 L 570.0,502.0 L 556.0,502.0 Z" fill="#b7a878" stroke="#2f2a26" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 576.0,348.0 L 590.0,348.0 L 590.0,502.0 L 576.0,502.0 Z" fill="#b7a878" stroke="#2f2a26" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 596.0,348.0 L 610.0,348.0 L 610.0,502.0 L 596.0,502.0 Z" fill="#b7a878" stroke="#2f2a26" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 630.0,348.0 L 646.0,348.0 L 646.0,502.0 L 630.0,502.0 Z" fill="#e2d6ad" stroke="#2f2a26" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" />
+<circle cx="638" cy="364" r="3" fill="#2f2a26" stroke="#2f2a26" stroke-width="0"/>
+<path d="M 652.0,348.0 L 668.0,348.0 L 668.0,502.0 L 652.0,502.0 Z" fill="#e2d6ad" stroke="#2f2a26" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" />
+<circle cx="660" cy="364" r="3" fill="#2f2a26" stroke="#2f2a26" stroke-width="0"/>
+<path d="M 674.0,348.0 L 690.0,348.0 L 690.0,502.0 L 674.0,502.0 Z" fill="#e2d6ad" stroke="#2f2a26" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" />
+<circle cx="682" cy="364" r="3" fill="#2f2a26" stroke="#2f2a26" stroke-width="0"/>
+<path d="M 696.0,348.0 L 712.0,348.0 L 712.0,502.0 L 696.0,502.0 Z" fill="#e2d6ad" stroke="#2f2a26" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" />
+<circle cx="704" cy="364" r="3" fill="#2f2a26" stroke="#2f2a26" stroke-width="0"/>
+<path d="M 718.0,348.0 L 734.0,348.0 L 734.0,502.0 L 718.0,502.0 Z" fill="#e2d6ad" stroke="#2f2a26" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" />
+<circle cx="726" cy="364" r="3" fill="#2f2a26" stroke="#2f2a26" stroke-width="0"/>
+<path d="M 740.0,348.0 L 756.0,348.0 L 756.0,502.0 L 740.0,502.0 Z" fill="#e2d6ad" stroke="#2f2a26" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" />
+<circle cx="748" cy="364" r="3" fill="#2f2a26" stroke="#2f2a26" stroke-width="0"/>
+<path d="M 380,590 C 430,590 390,500 440,490" fill="none" stroke="#2f2a26" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<circle cx="985" cy="420" r="165" fill="#ffffff" stroke="#2f2a26" stroke-width="2.5"/>
+<circle cx="895" cy="420" r="40" fill="#b5523b" stroke="#2f2a26" stroke-width="2.5"/>
+<circle cx="895" cy="420" r="17" fill="#ffffff" stroke="#2f2a26" stroke-width="2"/>
+<circle cx="985" cy="420" r="40" fill="#b5523b" stroke="#2f2a26" stroke-width="2.5"/>
+<circle cx="985" cy="420" r="17" fill="#ffffff" stroke="#2f2a26" stroke-width="2"/>
+<circle cx="1075" cy="420" r="40" fill="#b5523b" stroke="#2f2a26" stroke-width="2.5"/>
+<circle cx="1075" cy="420" r="17" fill="#ffffff" stroke="#2f2a26" stroke-width="2"/>
+<path d="M 835,413 L 871,413 L 919,413 L 933,413 Q 937,364 985,364 Q 1033,364 1037,413 L 1051,413 L 1099,413 L 1135,413" fill="none" stroke="#b87333" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 835,420 L 843,420 Q 847,355 895,355 Q 943,355 947,420 L 961,420 L 1009,420 L 1051,420 L 1099,420 L 1135,420" fill="none" stroke="#b87333" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 835,427 L 871,427 L 919,427 L 961,427 L 1009,427 L 1023,427 Q 1027,346 1075,346 Q 1123,346 1127,427 L 1135,427" fill="none" stroke="#b87333" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="1075" y1="458" x2="1150" y2="690" stroke="#2f2a26" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="1075" cy="458" r="4" fill="#2f2a26" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="1150" cy="690" r="19" fill="#faf6ee" stroke="#2f2a26" stroke-width="2"/>
+<line x1="685" y1="440" x2="700" y2="190" stroke="#2f2a26" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="685" cy="440" r="4" fill="#2f2a26" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="700" cy="190" r="19" fill="#faf6ee" stroke="#2f2a26" stroke-width="2"/>
+<line x1="470" y1="480" x2="560" y2="690" stroke="#2f2a26" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="470" cy="480" r="4" fill="#2f2a26" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="560" cy="690" r="19" fill="#faf6ee" stroke="#2f2a26" stroke-width="2"/>
+<line x1="111" y1="536" x2="110" y2="700" stroke="#2f2a26" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="111" cy="536" r="4" fill="#2f2a26" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="110" cy="700" r="19" fill="#faf6ee" stroke="#2f2a26" stroke-width="2"/>
+<line x1="268" y1="408" x2="330" y2="170" stroke="#2f2a26" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="268" cy="408" r="4" fill="#2f2a26" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="330" cy="170" r="19" fill="#faf6ee" stroke="#2f2a26" stroke-width="2"/>
+</g>
+<text x="222" y="280" font-size="13" fill="#e9e4d4" font-family="DejaVu Sans Mono, monospace" font-weight="bold">PROG</text>
+<text x="222" y="322" font-size="13" fill="#e9e4d4" font-family="DejaVu Sans Mono, monospace" font-weight="bold">VERB</text>
+<text x="300" y="322" font-size="13" fill="#e9e4d4" font-family="DejaVu Sans Mono, monospace" font-weight="bold">NOUN</text>
+<text x="308" y="292" font-size="26" fill="#9fdc8a" font-family="DejaVu Sans Mono, monospace" font-weight="bold">63</text>
+<text x="224" y="350" font-size="26" fill="#9fdc8a" font-family="DejaVu Sans Mono, monospace" font-weight="bold">06</text>
+<text x="302" y="350" font-size="26" fill="#9fdc8a" font-family="DejaVu Sans Mono, monospace" font-weight="bold">62</text>
+<text x="220" y="382" font-size="24" fill="#9fdc8a" font-family="DejaVu Sans Mono, monospace" font-weight="bold">+00431</text>
+<text x="220" y="410" font-size="24" fill="#9fdc8a" font-family="DejaVu Sans Mono, monospace" font-weight="bold">-00125</text>
+<text x="220" y="438" font-size="24" fill="#9fdc8a" font-family="DejaVu Sans Mono, monospace" font-weight="bold">+21842</text>
+<text x="250.0" y="666" text-anchor="middle" font-size="18" fill="#8a8178" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-style="italic">the display and keyboard</text>
+<text x="680.0" y="564" text-anchor="middle" font-size="18" fill="#8a8178" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-style="italic">the computer, 61 cm long, 32 kg</text>
+<text x="945" y="625" text-anchor="middle" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-style="italic">rope memory, enlarged</text>
+<text x="1150" y="697" text-anchor="middle" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">1</text>
+<text x="1120" y="697" text-anchor="end" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">A wire through a ring is a 1,</text>
+<text x="1120" y="724" text-anchor="end" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">a wire around it a 0</text>
+<text x="700" y="197" text-anchor="middle" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">2</text>
+<text x="730" y="197" text-anchor="start" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">Six rope modules:</text>
+<text x="730" y="224" text-anchor="start" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">the programs, fixed for good</text>
+<text x="560" y="697" text-anchor="middle" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">3</text>
+<text x="590" y="697" text-anchor="start" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">About 2,800 chips</text>
+<text x="590" y="724" text-anchor="start" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">of simple logic</text>
+<text x="110" y="707" text-anchor="middle" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">4</text>
+<text x="140" y="707" text-anchor="start" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">Verb and noun keys:</text>
+<text x="140" y="734" text-anchor="start" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">two numbers for each command</text>
+<text x="330" y="177" text-anchor="middle" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">5</text>
+<text x="300" y="177" text-anchor="end" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">Green digits show</text>
+<text x="300" y="204" text-anchor="end" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">the answers</text>
+</svg>

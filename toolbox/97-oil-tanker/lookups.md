@@ -1,0 +1,15 @@
+# Lookups: the oil tanker
+
+| Claim | Verdict | Source |
+|---|---|---|
+| Universe Apollo, built for Daniel K. Ludwig's National Bulk Carriers at its leased yard in Kure, Japan (the former navy yard that built the Yamato); first tanker over 100,000 tons (104,500 long tons); entered service February 1959 | correct (Wikipedia dates the record to 1958; T2tanker.org gives entry into service February 1959) | https://t2tanker.org/dk-ludwig/ships-built-by-daniel-k-ludwig-and-national-bulk-carriers/universe-apollo/ ; https://www.imarest.org/resource/mp-history-daniel-k-ludwig-father-of-the-supertanker.html ; https://en.wikipedia.org/wiki/Oil_tanker |
+| Welded steel hull; tankers generally have 8 to 12 tanks, each split into two or three compartments by fore-and-aft bulkheads | correct | https://en.wikipedia.org/wiki/Oil_tanker |
+| VLCCs carry about 200,000 to 320,000 deadweight tons | correct (VLCC 160,000 to 319,999 DWT in the market scale; over 250,000 in the size table) | https://en.wikipedia.org/wiki/Oil_tanker |
+| T2 tanker of the Second World War: 162 m long, 16,500 DWT | correct | https://en.wikipedia.org/wiki/Oil_tanker ; https://en.wikipedia.org/wiki/T2_tanker |
+| After the Exxon Valdez spill (March 1989), the US Oil Pollution Act of 1990 and later MARPOL rules required double hulls on new tankers | correct | https://en.wikipedia.org/wiki/Oil_tanker ; https://en.wikipedia.org/wiki/Oil_Pollution_Act_of_1990 |
+| The larger a tanker, the more cheaply it moves crude; doubling every dimension multiplies volume by eight and surface by four | correct (Wikipedia on economies of scale; the ratios are geometry) | https://en.wikipedia.org/wiki/Oil_tanker |
+| Suez Canal closed in the 1956 crisis and again from 1967 to 1975; before 1956 tankers were sized to pass the canal | correct | https://en.wikipedia.org/wiki/Oil_tanker ; https://en.wikipedia.org/wiki/Suez_Canal |
+| Largest tanker, Seawise Giant, built 1979, 458.45 m long, 564,763 DWT | correct | https://en.wikipedia.org/wiki/Oil_tanker ; https://en.wikipedia.org/wiki/Seawise_Giant |
+| Torrey Canyon: built with 60,000-ton capacity, enlarged in Japan to 120,000; struck Pollard's Rock on the Seven Stones reef between Cornwall and the Isles of Scilly on 18 March 1967; about 190 km of Cornish and 80 km of French coast contaminated; navy aircraft bombed the wreck and RAF jets dropped fuel to burn the oil | correct | https://en.wikipedia.org/wiki/Torrey_Canyon_oil_spill |
+| Engine, bridge and accommodation aft; cargo piping on deck with a manifold midships; a bulbous bow reduces wave-making resistance | correct (standard tanker layout) | https://en.wikipedia.org/wiki/Oil_tanker ; https://en.wikipedia.org/wiki/Bulbous_bow |
+| Photo: VLCC of about 340,000 tons in dry dock, Zhoushan, 2015; CC BY 3.0; the rounded part shown is taken to be the bow bulb (the Commons description says only 'in dry dock') | per Commons; bow identification from the image | https://commons.wikimedia.org/wiki/File:Vlcc_In_Dry_Dock_(142176507).jpeg |

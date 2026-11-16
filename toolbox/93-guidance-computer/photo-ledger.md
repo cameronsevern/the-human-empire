@@ -1,0 +1,3 @@
+| File | What it shows | Commons page | Author | Licence |
+|---|---|---|---|---|
+| toolbox/93-guidance-computer/photo-agc-dsky.jpg | NASA studio photograph of an Apollo guidance computer, a flat gold-coloured metal case with ribbed lid panels, beside its display and keyboard (DSKY) standing upright: two columns of labelled status lights (UPLINK ACTY, TEMP, GIMBAL LOCK and others), the PROG/VERB/NOUN number window and a 19-key keypad, on a blue background. Not a file used in chapter 93 (which has no photograph of the computer; ledger re-read before choosing). Commons thumbnail 1280x876 | https://commons.wikimedia.org/wiki/File:Agc_view.jpg | NASA (uploaded by Grabert at German Wikipedia) | Public domain (PD-NASA) |
