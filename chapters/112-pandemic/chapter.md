@@ -20,6 +20,9 @@ On 30 December an eye doctor at one of the hospitals, Li Wenliang, saw a laborat
 
 Four days later Li was summoned to a police station and made to sign a statement admitting that he had spread false rumours and disturbed public order. State television reported that eight rumour-mongers in Wuhan had been dealt with. For the next two weeks the city's officials said that there was no clear evidence that the disease passed from one person to another. They went ahead with a banquet for forty thousand families.
 
+![A photographed sheet of paper with a heading in Chinese, lines of handwriting, red fingerprints and a round red police stamp at the bottom right](images/liletter.png)
+*The letter of admonition that Li Wenliang signed at a police station in Wuhan on 3 January 2020. It says that he made untrue statements on the internet about seven cases at the market. Photo: Li Wenliang, public domain.*
+
 Li went back to work, caught the virus from a patient, and died on 7 February. He was thirty-three. From his hospital bed he had told a reporter that a healthy society should not have only one voice.
 
 On 23 January the government in Beijing did something on a scale never attempted in the history of medicine. It sealed Wuhan. Trains, flights and buses stopped, the roads out were blocked, and eleven million people were ordered to stay in their homes. It was two days before the lunar new year, when the whole of China travels, and five million people had already left the city.
@@ -27,6 +30,9 @@ On 23 January the government in Beijing did something on a scale never attempted
 ## Doubling
 
 The new virus belonged to a family, the coronaviruses, named for the crown of spikes on its surface. The disease that it causes was given the name Covid-19. It lodges in the nose, throat and lungs, and passes from one person to another on the breath, in tiny droplets that hang in the air of a closed room.
+
+![Colourised electron microscope image: a mass of small round gold particles streaming from the surface of a grey-green cell on a purple background](images/virus.jpg)
+*The virus, seen through an electron microscope in February 2020: the round gold particles are new virus leaving the surface of a cell grown in a laboratory. The colours were added. Image: NIAID, CC BY 2.0.*
 
 Two things about it made it far harder to stop than its cousin of 2003. The earlier disease had made people obviously ill before they became infectious, so that the sick could be found and isolated. This one was passed on by people who did not yet feel ill, and by some who never did. And it spread fast. In a population that had never met it, each infected person gave it to two or three others, and the number of cases doubled every three days or so.
 
@@ -38,7 +44,13 @@ For most of the people who caught it, the illness was a few unpleasant days. It 
 
 The first place outside China to be overwhelmed was the rich north of Italy. In the town of Bergamo, in March, the hospitals ran out of beds, then of ventilators, and doctors had to choose which patients would be given a machine to breathe for them and which would not. The local newspaper's page of death notices grew to ten pages. The crematorium could not keep up, and on the night of 18 March a column of army trucks drove through the empty streets, carrying coffins to other cities.
 
+![Two white refrigerated trailers parked on a city street beside a large brown hospital building with a red Emergency sign, under a cloudy sky](images/trucks.jpg)
+*Refrigerated trailers used as mortuaries beside a hospital in New York City in April 2020. Photo: Archer West, CC BY 4.0.*
+
 On 11 March the World Health Organization declared a pandemic, a disease spreading across the whole world. Governments that had watched Wuhan and thought it could not happen to them now copied it. By the first week of April some four billion people, half of the human race, had been told to stay at home. Borders closed. Nine out of ten passenger flights were cancelled. The centres of London, Paris, Delhi and New York stood empty in the middle of the day, and people in cities that had been smoggy for decades saw mountains on the horizon. In the state of New York eight hundred people were dying daily, and refrigerated lorries were parked outside the hospitals to hold the bodies.
+
+![Times Square in New York seen from the pavement between tall buildings and video screens, almost empty apart from pigeons, police vehicles and a few people](images/timessq.jpg)
+*Times Square in New York on the afternoon of 31 December 2020, almost empty, with pigeons on the paving, during the restrictions of the pandemic. Photo: NatalieWynnePace, CC BY 4.0.*
 
 ## Old tools
 
@@ -72,7 +84,13 @@ A vaccine works by showing the body's defences a harmless piece of a germ, so th
 
 The difficulty was that the body treats foreign RNA as an invader and destroys it, with a violent inflammation. A Hungarian biochemist named Katalin Karikó, who had left communist Hungary in 1985 with her savings sewn into her daughter's teddy bear, spent the 1990s at an American university trying to solve this. Her applications for funds were turned down year after year, and in 1995 the university demoted her. In 2005 she and a colleague found that changing one of the four chemical letters of the RNA to a slightly different form let it slip past the body's alarms. Hardly anyone noticed the paper.
 
+![A woman with short dark hair and tinted glasses, in a black jacket, stands beside a bronze statue of a man outside a pale building](images/kariko.jpg)
+*Katalin Karikó at the University of Szeged, in Hungary, in 2021. Photo: University of Szeged, CC BY-SA 4.0.*
+
 Fifteen years later it was the basis of both vaccines. The German one, made with an American partner, was tested on forty-three thousand volunteers, half of whom were given the vaccine and half salt water, without knowing which. On 9 November 2020 the result was announced. It prevented more than nine cases in ten. On 8 December a ninety-year-old grandmother in the English city of Coventry became the first person in the world to receive it outside a trial. The fastest that a vaccine against a new disease had been developed before was four years.
+
+![A disposable syringe with a blue-hubbed needle lying in a moulded cardboard tray, with a small vial beside it, on a white surface](images/vial.jpg)
+*The syringe and vial used for the first Covid vaccination outside a trial, given to Margaret Keenan, aged ninety, at a hospital in Coventry, England, on 8 December 2020. Photo: The wub, CC BY-SA 4.0.*
 
 Governments had paid for much of the research and had ordered hundreds of millions of doses before anyone knew whether they would work. Over the next three years more than thirteen billion doses of the various vaccines were given. In their first year alone they are estimated to have saved between fourteen and twenty million lives. Karikó shared the Nobel prize for medicine in 2023.
 
@@ -117,5 +135,8 @@ The average length of human life, which had been rising almost without a break s
 The great epidemics of the past changed the societies that survived them. The plague left quarantine and the first boards of health. Cholera gave the cities of the nineteenth century their sewers and clean water. The financial crashes left central banks and insurance for deposits, and the Depression left the welfare state.
 
 What this one has left is not yet clear. A way of making vaccines that can be redesigned in a weekend is being tried against cancer and malaria. A quarter of all paid working days in America are now spent at home, five times as many as before. Governments have learned that they can support the incomes of a whole population in an emergency, and what it costs afterwards. In 2025 most of the world's states adopted an agreement to share information and vaccines more fairly next time. The United States, which had announced that it was leaving the World Health Organization, did not take part.
+
+![A long wall covered with hundreds of hand-painted red hearts with names and messages, under a black plaque reading The National Covid Memorial Wall](images/wall.jpg)
+*The National Covid Memorial Wall, opposite the Houses of Parliament in London, where families painted a heart for each person who had died, photographed in 2021. Photo: George Rex, CC0.*
 
 On the Chinese network where Li Wenliang kept a personal page, his last post is still there. He wrote it from the hospital on 1 February 2020, to say that his test had come back positive. In the years since, people have gone on leaving messages beneath it, more than a million of them. Few mention the virus. They tell him that the cherry trees are in blossom in Wuhan, that they failed an examination, that their mother has died, that they have had a baby. They wish him good night.
