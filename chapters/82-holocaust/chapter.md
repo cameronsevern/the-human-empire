@@ -16,7 +16,7 @@ By the day of that meeting the killing had been going on for seven months, and a
 
 ## Behind the wall
 
-Before the war, the Nazi government had wanted the Jews of Germany to leave, and had robbed and terrorised them to hurry them out. The war changed the scale of what it called its problem. Poland, which Germany invaded in September 1939, had more than three million Jews, the largest community in Europe. They had lived there for six hundred years. Most were poor craftsmen, shopkeepers and workers who spoke Yiddish, a language of their own.
+Before the war, the Nazi government had wanted the Jews of Germany to leave, and had robbed and terrorised them to hurry them out. The war changed the scale of what it called its problem. Poland, which Germany invaded in September 1939, had more than three million Jews, the largest community in Europe. They had lived there for more than six hundred years. Most were poor craftsmen, shopkeepers and workers who spoke Yiddish, a language of their own.
 
 The first measures went further than anything yet tried in Germany. Jews were made to wear a badge with a six-pointed star. Their businesses and savings were confiscated. Then they were ordered out of their homes and concentrated in certain districts of the cities, which were called ghettos, after the walled Jewish quarter of old Venice.
 
@@ -42,7 +42,7 @@ The mass killing of Jews began with the invasion of the Soviet Union, in June 19
 
 The procedure was the same in hundreds of towns. Notices were posted ordering the Jews to assemble for resettlement. They were marched to a ravine or an anti-tank ditch outside the town, told to hand over their valuables and undress, and shot in groups at the edge of the pit. At a ravine on the outskirts of Kyiv, over two days at the end of September 1941, one of these units shot 33,771 people. The figure is exact because the unit reported it to Berlin.
 
-Three thousand men could not have done this alone. They were helped by the German army, which supplied trucks and guards, by battalions of ordinary police, and by volunteers recruited in Lithuania, Latvia and Ukraine. In this way, in pits and forests, about two million Jews were killed.
+Three thousand men could not have done this alone. They were helped by the German army, which supplied trucks and guards, by battalions of ordinary police, and by volunteers recruited in Lithuania, Latvia and Ukraine. In this way, in pits and forests, more than a million and a half Jews were killed.
 
 The records of one police battalion show what kind of men pulled the triggers. It was made up of about five hundred reservists from the port of Hamburg, mostly dockers, drivers and clerks in their thirties and forties, too old for the army. Three in four were not members of the Nazi party. In July 1942 they were taken to a Polish village and told by their commander, a career policeman of fifty-three, that they were to shoot its fifteen hundred Jewish women, children and old people. He was in tears as he spoke. Then he made an offer. Any man who did not feel up to the task could step out.
 
@@ -64,7 +64,7 @@ The camp that became the name for all of it was of a different kind. Auschwitz, 
 
 The Netherlands was a peaceable and orderly country, with little history of hatred of Jews, and it lost three quarters of them, a higher share than any other country in western Europe. The work passed through a great many Dutch and German hands.
 
-It started with a form. In January 1941 the German occupiers ordered every person with a Jewish grandparent to register. The Dutch civil service, which kept excellent records, carried out the order thoroughly. A hundred and sixty thousand people filled in the form and paid a fee of one guilder for doing so. Their identity cards were stamped with a large J, and a card index was compiled with their addresses.
+It started with a form. In January 1941 the German occupiers ordered every person with a Jewish grandparent to register. The Dutch civil service, which kept excellent records, carried out the order thoroughly. A hundred and sixty thousand people filled in the form, of whom a hundred and forty thousand were counted as fully Jewish. Their identity cards were stamped with a large J, and a card index was compiled with their addresses.
 
 Next came their property. Jews were ordered to deposit their money, shares and jewellery in a particular bank, which had been a respected Jewish firm and was now an agency for looting. They were dismissed from their jobs, barred from parks and trams, and made to wear the star.
 
@@ -106,7 +106,7 @@ In December 1942 the Allied governments publicly condemned the "bestial policy o
 
 By the spring of 1944 Germany was plainly losing. The killing went on, and its last great operation was its fastest.
 
-Hungary, an ally, had passed its own laws against Jews and worked tens of thousands of them to death in labour battalions, but it had refused to hand them over. In March 1944 German troops occupied the country, and Eichmann arrived in Budapest with a staff of about a hundred and fifty. That was all he needed, because the Hungarian government put its police at his disposal. In eight weeks, twenty thousand Hungarian gendarmes loaded four hundred and thirty-seven thousand Jews onto trains. Nearly all went to Auschwitz, and most were dead within hours of arriving.
+Hungary, an ally, had passed its own laws against Jews and worked tens of thousands of them to death in labour battalions, but it had refused to hand them over. In March 1944 German troops occupied the country, and Eichmann arrived in Budapest with a staff of a few hundred. That was all he needed, because the Hungarian government put its police at his disposal. In eight weeks, Hungarian gendarmes loaded four hundred and thirty-seven thousand Jews onto trains. Nearly all went to Auschwitz, and most were dead within hours of arriving.
 
 Jews were not the only people killed for what they were. The Nazis murdered the Roma of Europe, the people once called Gypsies, by the same methods, and at least two hundred thousand died. They killed some two hundred and fifty thousand disabled people. They let three million Soviet prisoners of war die of hunger and cold, and killed nearly two million Polish civilians who were not Jews. The Jews were the one people whom they intended to wipe out entirely, down to the last child, wherever in the world their power could reach.
 
@@ -114,11 +114,11 @@ Jews were not the only people killed for what they were. The Nazis murdered the 
 
 On 27 January 1945 Soviet soldiers walked through the gate of Auschwitz. The SS had marched most of the prisoners away on foot, through the snow, and blown up the gas chambers. Seven thousand people too sick to walk had been left behind.
 
-The soldiers also found the storerooms, which the SS had not had time to burn. They held three hundred and seventy thousand men's suits. They held more than eight hundred thousand women's coats and dresses, heaps of spectacles and children's shoes, and seven tons of human hair, packed in sacks for sale to a textile firm.
+The soldiers also found the storerooms, which the SS had not had time to burn. They held about three hundred and fifty thousand men's suits. They held more than eight hundred thousand women's coats and dresses, heaps of spectacles and children's shoes, and seven tons of human hair, packed in sacks for sale to a textile firm.
 
 The law had no name for what had been done. A Polish lawyer who had escaped to America, and who lost forty-nine members of his family, had made one up in 1944 out of the Greek for a people and the Latin for killing. In 1948 the United Nations adopted a convention declaring genocide a crime under the law of nations.
 
-The leading Nazis who could be found were tried by the Allies, and a number were hanged. Most of those who had done the work went home. Of the six and a half thousand SS men and women who served at Auschwitz and survived the war, fewer than one in eight ever stood trial. The railway officials went on running the railways, the judges returned to the bench, and the policemen from Hamburg went back to Hamburg. Eichmann was caught in Argentina in 1960 and tried in Jerusalem. His defence was that he had never killed anyone. He had only arranged transport.
+The leading Nazis who could be found were tried by the Allies, and a number were hanged. Most of those who had done the work went home. Of the six and a half thousand SS men and women who served at Auschwitz and survived the war, about eight hundred ever stood trial. The railway officials went on running the railways, the judges returned to the bench, and the policemen from Hamburg went back to Hamburg. Eichmann was caught in Argentina in 1960 and tried in Jerusalem. His defence was that he had never killed anyone. He had only arranged transport.
 
 In the first days of August 1942, as the trains were leaving Warsaw for Treblinka, Ringelblum's helpers packed the first part of the ghetto's archive into ten metal boxes and buried them under the cellar of a school. One of those who dug the hole, a boy of nineteen, slipped a note of his own into a box. What we could not cry out to the world, he wrote, we buried in the ground. He added that he would love to see the moment when the treasure was dug up and screamed the truth, and that he did not expect to.
 
