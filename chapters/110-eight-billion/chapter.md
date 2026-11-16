@@ -23,13 +23,22 @@ Births and deaths therefore ran level, and when a run of good harvests let numbe
 
 In 1798 an English clergyman named Thomas Malthus set this out as a law. People, he observed, multiply. Two parents can have four children, who can have eight, and so on, doubling every generation. Food cannot be made to grow like that. A farmer may add a field, and then another, but the land is limited. Population would therefore always press against the supply of food, and be held down by hunger, disease and war. Any improvement in the lot of the poor would only produce more of them, until they were as poor as before.
 
+![Black and white mezzotint portrait of an elderly man with wavy hair and a faint smile, in a dark coat and white cravat](images/malthus.jpg)
+*Thomas Malthus, in a portrait made about 1834, when he was an old man. His essay of 1798 said that people would always multiply faster than food. Photo: Wellcome Collection, CC BY 4.0.*
+
 It was a fair description of the previous five thousand years. It was published at almost the exact moment when it stopped being true.
 
 ## A pinch of salt
 
 The retreat of death began with the simplest things. In the middle of the nineteenth century, the cities of Europe and America built sewers and waterworks, at first because they believed that foul smells caused disease, and learned afterwards that the cause was germs in dirty water. In 1908 a town in New Jersey became the first in America to add a little chlorine to its drinking water, which kills the germs outright, and within ten years most large cities had copied it. Deaths from typhoid and from the diarrhoea that killed infants fell away.
 
+![Black and white Punch cartoon: a woman representing London recoils as a gaunt, dripping figure of the River Thames presents three thin children labelled diphtheria, scrofula and cholera, with factory chimneys behind](images/thames.jpg)
+*"Father Thames introducing his offspring to the fair city of London", a cartoon in the magazine Punch in 1858, the summer of the Great Stink. The river, thick with sewage, presents diphtheria, scrofula and cholera. Image: John Leech, public domain (the Commons file is 758 px wide).*
+
 Then came the needle. A vaccine teaches the body to recognise a disease before meeting it. There had been one, for smallpox, since the 1790s, and one for rabies since the 1880s. In the twentieth century they were made for diphtheria, whooping cough, tetanus, polio and measles, and after 1974 a worldwide programme set out to give them to every child. By one careful estimate those vaccines have saved a hundred and fifty-four million lives in the fifty years since, most of them babies.
+
+![A woman in a patterned dress holds a baby and puts drops of vaccine into its mouth, while a crowd of children and an older man look on](images/polio.jpg)
+*A health worker gives oral polio vaccine drops to a baby in a farming community in Adamawa, Nigeria, in 2014. Photo: CDC Global, CC BY 2.0.*
 
 After 1945 there were also antibiotics, which cured the infections that vaccines had not prevented, and insecticides that cleared the mosquitoes carrying malaria from whole countries.
 
@@ -52,6 +61,9 @@ In 1909 a German chemist found a way to combine the nitrogen of the air with hyd
 Fertiliser by itself was not enough. The old varieties of wheat and rice were tall and thin-stemmed. Given plenty of nitrogen, they grew heavy heads of grain and promptly fell over and rotted.
 
 Norman Borlaug was a farm boy from Iowa who had seen the dust storms of the Depression and trained as a plant scientist. In 1944 he went to Mexico, on a programme paid for by an American foundation, to work on wheat. For twenty years he crossed thousands of varieties by hand, transferring pollen with tweezers. He grew two generations a year by planting in the hot lowlands in winter and the cool highlands in summer, which the textbooks said could not be done. He ended with a wheat that was short and thick-stemmed, could carry a heavy head without falling, resisted the main diseases, and yielded two or three times as much. His earlier varieties had already made Mexico, which had imported half its wheat, able to grow all that it needed by 1956.
+
+![An elderly man with white hair in a dark suit and tie, outdoors in a city street](images/borlaug.jpg)
+*Norman Borlaug in 2004, at the age of ninety, sixty years after he began breeding wheat in Mexico. Photo: Ben Zinner, USAID, public domain.*
 
 In the mid-1960s India and Pakistan were living from one shipload of American grain to the next. The monsoon failed two years running, and experts in the West wrote the subcontinent off. A book published in America in 1968 opened with the statement that the battle to feed all of humanity was over, and that in the 1970s hundreds of millions of people would starve to death whatever was done.
 
@@ -76,6 +88,9 @@ It follows, with a delay, from the fall in deaths. When parents can be confident
 
 She also needs the means. Until the middle of the twentieth century these were crude and unreliable, and in many countries illegal. In 1916 an American nurse named Margaret Sanger, who had watched her own mother worn out by eighteen pregnancies, opened a clinic in a poor district of New York to give advice on preventing them. The police closed it after ten days and she went to jail. Thirty-five years later, at a dinner party, she asked a biologist whether a pill could be made that a woman could swallow. A widow who had inherited a farm-machinery fortune paid for nearly all of the research out of her own pocket. The pill, which uses the body's own hormones to prevent the release of an egg, was tested on poor women in Puerto Rico who were not told that it was an experiment, and it went on sale in America in 1960. For the first time, a woman had a reliable and private way to decide when to have children. Within five years six million American women were taking it.
 
+![Black and white photograph of a woman in a spotted blouse sitting at a table and writing with a pen](images/sanger.jpg)
+*Margaret Sanger in 1916, the year she opened her clinic in New York. Photo: Bain News Service, public domain (the Commons file is 697 px wide).*
+
 In the 1960s the average woman in the world had five children. Today she has a little over two, which is close to the number at which a population only replaces itself.
 
 Some governments tried to hurry this by force. China limited most couples to one child. In India, during a period of emergency rule in 1976, officials were given quotas, and more than six million men were sterilised in a year, many of them rounded up from villages and slums. The policy brought down the government.
@@ -90,6 +105,9 @@ In some the fall has gone a long way further. The average woman in South Korea n
 
 The growth that remains is mostly in Africa south of the Sahara, where the average is still more than four children and the gap between deaths and births is at its widest. Nigeria is on course to pass the United States. By the middle of the century one person in four will be African.
 
+![A busy road junction in Lagos seen from a bridge, with hundreds of yellow minibuses, motorcycles and people below a curving flyover and a green road sign](images/lagos.jpg)
+*A street at Obalende in Lagos, Nigeria, in 2010. The city is one of the fastest-growing in the world. Photo: satanoid, CC BY 2.0.*
+
 The United Nations expects the human total to reach about ten billion three hundred million in the 2080s, and then to begin to fall. It goes on rising until then because the large generations already born have yet to have their own, smaller, families. A child born today will probably live to see the peak.
 
 ## A plate
@@ -97,5 +115,8 @@ The United Nations expects the human total to reach about ten billion three hund
 Keeping eight billion people fed has reshaped the surface of the planet.
 
 Half of all the land on Earth that is not ice or desert is now used for farming, most of it as pasture or to grow feed for animals. Farming takes seven tenths of all the fresh water that human beings draw from rivers and wells. It runs on fossil fuel: for the fertiliser, the tractors, the pumps, the lorries and the refrigeration. In a rich country, something like ten units of energy from oil and gas go into each unit of food energy that reaches a plate. A kilogram of beef takes about fifteen thousand litres of water to produce, most of it the rain that fell on the grass and grain that the animal ate.
+
+![Aerial view of a flat landscape divided into squares and many dark green and tan circles, each a field watered by a rotating sprinkler arm](images/pivot.jpg)
+*Fields watered by centre-pivot irrigation, seen from the air in 2009. Each circle is the reach of one sprinkler arm turning around a well. Photo: John A. Kelley, USDA Natural Resources Conservation Service, public domain.*
 
 In 2018 three scientists estimated the weight of every kind of living thing on Earth, measured by the carbon in it. Among the mammals, they found, human beings make up about a third of the total. The cattle, pigs, sheep and other animals that we raise make up about three fifths. All the wild mammals in the world together, every elephant, whale, deer, bat and mouse, come to four per cent. Among birds, farmed poultry outweigh all the wild birds by more than two to one.
