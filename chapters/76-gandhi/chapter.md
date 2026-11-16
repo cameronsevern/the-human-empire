@@ -8,6 +8,9 @@ Early on the morning of 6 April 1930, a thin, bald man of sixty in a loincloth w
 
 He had walked for twenty-four days to get there, nearly four hundred kilometres, with seventy-eight companions. They had set out from his religious community near the city of Ahmedabad and gone from village to village along the dusty roads. By the time they reached the sea, a crowd of several thousand was walking with them, and reporters from three continents were filing daily stories.
 
+![Map of India with Delhi, Amritsar, Bombay, Calcutta and Porbandar marked and Bengal shaded, and an enlarged inset of the salt march running south from Ahmedabad to Dandi on the coast](images/map_india.png)
+*India in 1930, with Bengal drawn roughly. The inset shows the salt march from Ahmedabad to the beach at Dandi, 12 March to 6 April 1930, simplified, and the salt works raided on 21 May. Map: drawn for this book; coastlines and rivers from Natural Earth, public domain.*
+
 What he did on the beach was a crime. The British government of India held a monopoly on salt. It was illegal for an Indian to make it or to collect it from the shore without a licence, and every grain that was sold carried a government tax. The tax was small, and everyone paid it, since nobody can live without salt, and in a hot country a labourer who sweats all day needs more of it than a rich man. With this, the man on the beach said, holding up the lump, I am shaking the foundations of the British empire.
 
 It sounded absurd. Within weeks, all over India, people were boiling sea water in pans and selling illegal salt in the streets, and before the year was out the prisons held sixty thousand of them.

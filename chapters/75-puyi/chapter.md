@@ -98,6 +98,9 @@ Soviet Russia sent him money, rifles and advisers. On their instructions he rebu
 
 Sun died of cancer the next year. In 1926 Chiang led the new army north. It was better trained and far better motivated than the warlords' troops, and ahead of it went Communist organisers, who roused the peasants and called the workers of the cities out on strike. In three months it had reached the Yangzi, and by the following spring it was at the gates of Shanghai.
 
+![Map of China with a shaded area round Canton, red arrows running north to Wuchang, Nanjing and Shanghai, Manchuria hatched in the north-east, and a dashed line looping west and north from the south-east to the north-west](images/map_china.png)
+*China about 1926: the Nationalist base round Canton, drawn roughly, the march north of 1926 and 1927 to Wuchang, Nanjing and Shanghai, and Manchuria, seized by Japan in 1931. The dashed line is the Long March of 1934 and 1935, simplified. Map: drawn for this book; coastlines and rivers from Natural Earth, public domain.*
+
 Then the alliance broke. Chiang feared the Communists, and so did the bankers and factory owners of Shanghai who were paying his army. Before dawn on 12 April 1927, gangsters of the Shanghai underworld, armed and uniformed by Chiang, attacked the offices of the city's trade unions. In the following days thousands of Communists and union members were shot or beheaded in the streets, and the killing spread to other cities. In a year the party lost four fifths of its members.
 
 Chiang went on to bring most of China under a Nationalist government in Nanjing. The surviving Communists fled to the mountains of the interior. Mao, who was among them, drew a conclusion that went against everything the Russian advisers had taught. In China the revolution would not begin in the cities at all. It would be made by peasants, from bases in the remote countryside, and it would surround the cities and take them last.

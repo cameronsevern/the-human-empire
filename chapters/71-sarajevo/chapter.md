@@ -59,6 +59,9 @@ Germany's plan was the most rigid of all, because of the two-front nightmare. Th
 
 France could not be beaten in six weeks by a head-on attack, since its frontier with Germany was a wall of fortresses. The plan was to go round. Seven eighths of the German army would be sent west, and the strongest part of it would wheel through neutral Belgium, sweep down towards Paris, and pin the French armies against their own forts. The railway schedule ran to eleven thousand trains.
 
+![Map of Europe in 1914 with Germany and Austria-Hungary shaded red, France, Russia, Britain, Serbia and Belgium shaded blue, the neutral states hatched, Sarajevo marked in Bosnia, and arrows sweeping through Belgium towards Paris](images/map_europe_1914.png)
+*Europe in August 1914, with the states of the time drawn roughly: Germany and Austria-Hungary; France, Russia and Britain with their allies Serbia, Montenegro and Belgium; and the neutral states, Italy and the Ottoman Empire among them. Arrows show the German sweep through Belgium towards Paris, and a dotted line the front at the end of 1914. Map: drawn for this book; coastlines and rivers from Natural Earth, public domain.*
+
 The plan had a consequence that few civilian ministers had thought through. For Germany, there could be no pause between calling up the army and starting the war. If Russia began to mobilise, the six weeks began to run, and Germany had to attack France at once, through Belgium, whatever the quarrel was about and whether or not France had done anything.
 
 ## The blank cheque
