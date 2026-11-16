@@ -12,7 +12,7 @@ The commander, Neil Armstrong, looked out of his small triangular window and saw
 
 Houston, Armstrong said, Tranquility Base here. The Eagle has landed. The voice that answered him stumbled over its words. You've got a bunch of guys about to turn blue here, it said. We're breathing again.
 
-About six hundred million people, a fifth of everyone alive, watched on television as he climbed down the ladder six hours later.
+About six hundred million people, a fifth of everyone alive, watched on television as he climbed down the ladder more than six hours later.
 
 ## Dreamers
 
@@ -62,7 +62,7 @@ The rocket was von Braun's. It stood a hundred and ten metres high, taller than 
 
 The key decision was how to land. To set the entire spacecraft down on the Moon and lift it off again would have needed a rocket far larger than anyone could build. A stubborn engineer at one of the agency's laboratories argued for two years, against von Braun among others, that only a small separate craft should go down to the surface, with two of the crew, and then fly back up to meet the main ship in orbit round the Moon. Everything else could be left behind. It meant that two vehicles would have to find each other and join up a quarter of a million miles from help. It also meant that the job could be done with one rocket.
 
-To steer, the spacecraft needed a computer, at a time when a computer filled a room. The one that was built weighed thirty-two kilograms and had less memory than a modern greetings card that plays a tune. Its programs were stored by threading copper wires through or around tiny magnetic rings, a wire through a ring for a one and around it for a zero. A computer holds every number and every instruction as a string of ones and noughts. The work was done by hand, by women who had been weavers and watchmakers, and a single program took months to weave. The team that wrote those programs was led by a mathematician of thirty-two named Margaret Hamilton. She had insisted that the computer must be able to drop its less urgent tasks if it was overloaded, and that is what it did in the last minutes of the descent.
+To steer, the spacecraft needed a computer, at a time when a computer filled a room. The one that was built weighed thirty-two kilograms and had less memory than a modern greetings card that plays a tune. Its programs were stored by threading copper wires through or around tiny magnetic rings, a wire through a ring for a one and around it for a zero. A computer holds every number and every instruction as a string of ones and noughts. The work was done by hand, by women who had been weavers and watchmakers, and a single program took months to weave. The team that wrote those programs was led by a mathematician of thirty-two named Margaret Hamilton. Her team had made sure that the computer could drop its less urgent tasks if it was overloaded, and that is what it did in the last minutes of the descent.
 
 The spacesuits, each of twenty-one layers, were sewn by seamstresses at a company that made brassieres, to a tolerance of less than a millimetre, since a single wrong stitch could kill. The paths of the early flights were checked by a group of Black women mathematicians in Virginia, who had for years been kept in a separate office and were known as computers. The first American to orbit the Earth refused to fly until one of them, Katherine Johnson, had gone over the electronic machine's figures by hand.
 
@@ -82,7 +82,7 @@ On the fourth orbit, as their ship came round from behind the Moon, one of the c
 
 Not everybody was carried away. Through most of the 1960s, when Americans were asked whether the Moon programme was worth what it cost, more said no than yes.
 
-On the day before the launch in July 1969, a Black minister who had taken over the leadership of the movement for the rights of the poor arrived at the gates of the launch site with several hundred followers and four mules pulling farm wagons. They had come, he said, to protest at a nation that could spend billions to put men on the Moon while a fifth of its own people lacked decent food, clothing and shelter. The head of the space agency came out to meet them. He said that if not pushing the button tomorrow would solve the problems of poverty, he would not push it, and he asked the minister to hitch his wagons to the rocket. The minister said that he would pray for the astronauts, and was given seats to watch.
+On the day before the launch in July 1969, a Black minister who had taken over the leadership of the movement for the rights of the poor arrived at the gates of the launch site with several hundred followers and mules pulling farm wagons. They had come, he said, to protest at a nation that could spend billions to put men on the Moon while a fifth of its own people lacked decent food, clothing and shelter. The head of the space agency came out to meet them. He said that if not pushing the button tomorrow would solve the problems of poverty, he would not push it, and he asked the minister to hitch his wagons to the rocket. The minister said that he would pray for the astronauts, and was given seats to watch.
 
 ## Two and a half hours
 
@@ -92,11 +92,11 @@ In Washington a speech lay ready in case the engine that was to lift them off fa
 
 ## Afterwards
 
-The race was over, and the audience went home. There were five more landings. By the third, the television networks were getting complaints that the broadcasts interrupted the regular programmes. Three planned missions were cancelled to save money, and their rockets were laid out on lawns as museum pieces. The last men left the Moon in December 1972. Twelve people have walked on it, all of them American men, and nobody has been back.
+The race was over, and the audience went home. There were five more landings. By the last of them, the television networks had cut back their coverage. Three planned missions were cancelled to save money, and their rockets were laid out on lawns as museum pieces. The last men left the Moon in December 1972. Twelve people have walked on it, all of them American men, and nobody has been back.
 
 In 1975 an American and a Soviet spacecraft met in orbit, and their commanders shook hands through the open hatch. The contest had become, for a while, a partnership.
 
-The Moon itself turned out to matter less than what had been built in order to reach it. The same race put satellites in orbit by the hundred, and it is satellites that changed daily life. They forecast the weather, carry television and telephone calls across oceans, tell a mobile telephone where it is, and watch the ice caps and the forests. They also let each side count the other's missiles, which made it possible, in 1972, to sign the first treaty limiting them. The guidance computer had needed electronic circuits printed on tiny chips of silicon, a new and very costly invention. In the early 1960s the Moon programme bought more than half of all the chips made in America, and that order book brought their price down from a thousand dollars to a few dollars apiece.
+The Moon itself turned out to matter less than what had been built in order to reach it. The same race put satellites in orbit by the hundred, and it is satellites that changed daily life. They forecast the weather, carry television and telephone calls across oceans, tell a mobile telephone where it is, and watch the ice caps and the forests. They also let each side count the other's missiles, which made it possible, in 1972, to sign the first treaty limiting them. The guidance computer had needed electronic circuits printed on tiny chips of silicon, a new and very costly invention. In the early 1960s the Moon programme bought more than half of all the chips made in America, and that order book brought their price down from a thousand dollars to about twenty dollars apiece.
 
 The rocks that the astronauts brought back showed that the Moon is four and a half billion years old and was formed from the debris thrown out when another young planet struck the Earth.
 

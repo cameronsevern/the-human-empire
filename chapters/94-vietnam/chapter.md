@@ -12,7 +12,7 @@ That same night about eighty thousand guerrillas and northern soldiers struck mo
 
 It made no difference. For three years the American government had been telling its people that the enemy was nearly finished. Two months earlier the commanding general had said that the end was beginning to come into view. Americans now watched, on the evening news, gun battles in the garden of their own embassy. The most trusted newsreader in the country went to see for himself, and told his audience that the war was a stalemate and could not be won. At the end of March the president announced that he would not stand for another term.
 
-## A pastry cook in Paris
+## A retoucher of photographs
 
 The leader of the other side had been at this for fifty years.
 
@@ -22,7 +22,7 @@ He found another creed. Lenin had written that the colonial peoples were the nat
 
 In 1941 he walked back over the border and founded a league to fight for independence. Japan had occupied the country, and the French officials went on running it under Japanese orders. Ho's guerrillas rescued American airmen who had been shot down, and American agents gave them rifles and training in return.
 
-On 2 September 1945, the day that Japan signed its surrender, he stood in front of half a million people in a square in Hanoi and proclaimed his country free. He began with a sentence that he had borrowed. All men are created equal, he read. They are endowed by their Creator with certain unalienable rights. American officers stood near the platform, and American aircraft flew over the crowd.
+On 2 September 1945, the day that Japan signed its surrender, he stood in front of several hundred thousand people in a square in Hanoi and proclaimed his country free. He began with a sentence that he had borrowed. All men are created equal, he read. They are endowed by their Creator with certain unalienable rights. American officers stood near the platform, and American aircraft flew over the crowd.
 
 ## Bicycles
 
@@ -56,7 +56,7 @@ By then there were sixteen thousand American military advisers in South Vietnam.
 
 The new president, Lyndon Johnson, did not want this war. He was a Texan of poor origins who had a plan to end poverty and racial injustice in America, and he feared that Vietnam would wreck it. He feared more that he would be the president who let a country fall to communism. He said later that he had known from the start that he was bound to be crucified either way.
 
-In August 1964 North Vietnamese patrol boats exchanged fire with an American destroyer off their coast, in the Gulf of Tonkin. Two nights later, in a storm, two destroyers reported that they were under attack again. Their sonar and radar had picked up ghosts. There were no enemy boats, as the captain on the spot suspected within hours. Johnson went on television to announce the second attack regardless, and asked Congress for the authority to take all necessary measures. The lower house gave it without a single vote against, and the senate with two. That resolution was the only authority that Congress ever gave for the war that followed.
+In August 1964 North Vietnamese patrol boats exchanged fire with an American destroyer off their coast, in the Gulf of Tonkin. Two nights later, in a storm, two destroyers reported that they were under attack again. Their sonar and radar had picked up ghosts. There were no enemy boats, as the captain on the spot suspected within hours. Johnson went on television to announce the second attack regardless, and asked Congress for the authority to take all necessary measures. The lower house gave it without a single vote against, and the senate with two. That resolution was the nearest that Congress ever came to declaring the war that followed.
 
 In March 1965 American aircraft began a bombing campaign against the north that went on for three years, and the first marines waded ashore. Within three years there were more than half a million American soldiers in the country.
 
@@ -102,7 +102,7 @@ Richard Nixon was elected in 1968 on a promise to end the war with honour. It to
 
 That bombing helped to tip a neutral country into civil war. In 1975 it was won by a communist movement of extreme ferocity, which emptied the cities, abolished money and schools, and in four years killed or starved nearly two million Cambodians, a quarter of the population.
 
-In January 1973, after a last twelve days of bombing over Christmas, an agreement was signed in Paris. American forces would leave. The northern troops already in the south would stay where they were. The southern president signed only because Nixon promised in writing to send the bombers back if the north attacked again.
+In January 1973, after a last twelve days of bombing over Christmas, an agreement was signed in Paris. American forces would leave. The northern troops already in the south would stay where they were. The southern president agreed only because Nixon promised in writing to send the bombers back if the north attacked again.
 
 ## The gate
 
@@ -112,10 +112,10 @@ On the morning of 30 April a northern tank broke through the iron gates of the p
 
 Fifty-eight thousand Americans had been killed. The Vietnamese dead, soldiers and civilians, north and south, numbered between two and three million.
 
-The victors sent several hundred thousand southern officers and officials to prison camps, some for more than ten years. Over the following two decades about eight hundred thousand people fled the country in small boats, and a great many drowned or were killed by pirates. The dominoes did not fall as predicted. Within four years communist Vietnam had invaded communist Cambodia to overthrow its murderous government, and communist China had invaded Vietnam to punish it. In Laos, on which the Americans had dropped more bombs for each inhabitant than on any country in history, the unexploded ones are still killing farmers and children.
+The victors sent several hundred thousand southern officers and officials to prison camps, some for more than ten years. Over the following two decades about eight hundred thousand people fled the country by sea, and a great many drowned or were killed by pirates. The dominoes did not fall as predicted. Within four years communist Vietnam had invaded communist Cambodia to overthrow its murderous government, and communist China had invaded Vietnam to punish it. In Laos, on which the Americans had dropped more bombs for each inhabitant than on any country in history, the unexploded ones are still killing farmers and children.
 
 In 1986 the government in Hanoi began to allow private business and foreign investment. The United States restored relations in 1995, and it is now the largest buyer of what Vietnam makes.
 
-In Washington there is a memorial to the Americans who died. It was designed in 1981 by a twenty-one-year-old student, the daughter of refugees from China, and many veterans hated it at first. It is a wall of polished black stone sunk into the ground, a hundred and fifty metres long, carved with fifty-eight thousand names in the order in which they died. A visitor reading them sees his own face in the stone.
+In Washington there is a memorial to the Americans who died. It was designed in 1981 by a twenty-one-year-old student, the daughter of immigrants from China, and many veterans hated it at first. It is a wall of polished black stone sunk into the ground, a hundred and fifty metres long, carved with fifty-eight thousand names in the order in which they died. A visitor reading them sees his own face in the stone.
 
 A wall of the same kind for the Vietnamese dead would run for six kilometres.
