@@ -8,6 +8,9 @@ On the afternoon of 16 January 1920, ten thousand people crowded into a wooden h
 
 The service was conducted by Billy Sunday, a former baseball player who had become the most famous preacher in America. At midnight the manufacture, sale and transport of intoxicating liquor would become illegal everywhere in the United States, by an amendment to the constitution. Goodbye, John, the preacher shouted at the coffin. You were God's worst enemy. You were hell's best friend. He told the crowd what was coming. The reign of tears is over, he said. The slums will soon be only a memory. We will turn our prisons into factories and our jails into storehouses.
 
+![Billy Sunday in a dark jacket and tie, posed as if preaching, with one fist raised and a book held up in his other hand](images/sunday.jpg)
+*Billy Sunday, the preacher who led John Barleycorn's funeral, in a posed photograph taken before 1920 by the Bain News Service. Photo: Bain News Service, Library of Congress, public domain.*
+
 That night, across the country, people who could afford it filled their cellars.
 
 ## The lever
@@ -24,7 +27,13 @@ In the Europe and America of the nineteenth century, hardly any of this was ille
 
 Opium dissolved in alcohol was sold by every grocer and chemist in Britain and America, and was the standard remedy for pain, coughs, diarrhoea and sleeplessness. Mothers quietened teething babies with a popular syrup whose active ingredient was morphine. In 1804 a German pharmacist's apprentice had extracted that substance from opium, ten times as strong, and in the 1850s the hollow needle made it possible to put it straight into the blood. Doctors injected it freely, and many soldiers wounded in the American Civil War came home unable to do without it.
 
+![A printed advertisement headed Mothers! for Mrs. Winslow's Soothing Syrup for children teething, which says that relief will be found in fifteen or twenty minutes and that it is sold by all druggists](images/winslow.jpg)
+*An advertisement of 1876 for Mrs. Winslow's Soothing Syrup, which contained morphine. It tells mothers that the syrup relieves a teething infant in fifteen or twenty minutes and is sold by all druggists. Image: Jeremiah Curtis & Sons, public domain.*
+
 Cocaine was isolated from the coca leaf in 1860. Doctors prescribed it for tiredness and low spirits, and it went into tonics, lozenges and a new soft drink launched in the American South in 1886, which kept a trace of it until 1903. In 1898 a German drug company put on sale a cough medicine made by a small chemical change to morphine. Its testers had said that it made them feel heroic, and the company named it accordingly. Heroin was advertised as safe for children and free of any risk of habit.
+
+![A small glass bottle in black and white with a paper label reading Farbenfabriken vormals Friedr. Bayer & Co., Elberfeld, and, on a ribbon, Heroin](images/bayer.jpg)
+*A bottle of Bayer's heroin, from the German company that put the drug on sale in 1898. This one probably dates from the 1920s. Photo: Mpv_51, public domain.*
 
 By 1900 there were perhaps a quarter of a million people in the United States dependent on opium or morphine. The typical one was a middle-aged, middle-class white woman who had been given it by her doctor. She was pitied, and nobody proposed sending her to prison.
 
@@ -36,6 +45,9 @@ Americans of the early republic drank on a scale that is hard to credit. In 1830
 
 The campaign against the saloon was therefore largely a movement of American women, the largest that they had yet organised. In 1874 they founded a temperance union that soon had branches in every town, and its members knelt in prayer on the sawdust floors of bars until the owners closed. One of them, a tall woman from Kansas whose first husband had died of drink, went further. She would walk into a saloon with a hatchet and smash the mirrors, the bottles and the barrels. She was arrested thirty times and sold little souvenir hatchets to pay her fines.
 
+![Carrie Nation, an elderly woman in a dark bonnet and coat with a bow at the neck, holding a hatchet raised in one hand and an open Bible in the other](images/nation.jpg)
+*Carrie Nation with her hatchet and her Bible, about 1900. Photo: unknown photographer, public domain.*
+
 The men who finished the job founded a league that cared about nothing else. It did not run candidates. It worked out which politicians in each district could be swung by a block of church votes, and delivered those votes to whoever promised to vote dry, whatever he did in private. The big brewers were nearly all of German origin, and when the United States went to war with Germany in 1917 the league made the most of it. One more obstacle had been removed four years before. A third of the federal government's income had come from the tax on liquor. In 1913 the country adopted an income tax, and no longer needed the drinker's money.
 
 ## Thirteen years
@@ -44,7 +56,13 @@ Prohibition worked better than its reputation suggests. Americans drank perhaps 
 
 It also showed what happens when a government bans something that millions of people still want. The demand was supplied by whoever was willing to break the law. Ships anchored just outside the coastal limit and sold whisky by the case to speedboats. Thirty thousand illegal bars opened in New York alone. Doctors wrote prescriptions for medicinal whiskey by the million.
 
+![Two men in a New York street tipping a barrel so that liquor pours into an open drain, while a man in a straw hat and two policemen in uniform look on](images/beer.jpg)
+*Prohibition agents pouring liquor into a drain in the street after a raid in New York City, between 1920 and 1933. Photo: unknown photographer, Library of Congress, public domain.*
+
 The business was worth billions, it could not use the courts to settle its disputes, and it had every reason to buy policemen, judges and mayors. In Chicago the son of an Italian barber, Al Capone, took over the supply of beer and spirits to the city and was said to be making sixty million dollars a year. In February 1929 seven members of a rival gang were lined up against the wall of a garage by men dressed as policemen and cut down with machine guns. The murder rate in American cities climbed through the decade and reached its peak in the last year of the ban.
+
+![Two police photographs of Al Capone side by side, one in profile and one facing the camera, in a dark suit and striped tie, with the number C 28169 on his jacket](images/capone.jpg)
+*Al Capone in the police photographs taken when he was sent to prison, 17 June 1931. Photo: United States Bureau of Prisons, public domain.*
 
 The government's own conduct was among the worst of it. Bootleggers were stealing the alcohol made for industry and redistilling it for drinking. Federal chemists were ordered to add stronger poisons, including wood alcohol, which blinds and kills. They knew what would follow. By the end, several thousand people had died of it.
 
@@ -59,6 +77,9 @@ The first American law against opium was passed in San Francisco in 1875. It clo
 Cannabis had been in the medicine cabinet for decades under that name. In the 1920s Mexican labourers crossing the border brought the habit of smoking it, and its opponents began to use the Spanish word, marijuana, so that it would sound foreign.
 
 The man who made it a national cause had a practical motive. Harry Anslinger had been a senior agent in the enforcement of Prohibition, and in 1930 he was put in charge of a new federal bureau of narcotics, just as the alcohol ban was collapsing and with it much of the work. Heroin and cocaine users were too few to justify his budget. He had earlier dismissed cannabis as a minor matter. He now discovered that it caused insanity and murder, and supplied the newspapers with stories of murders committed under its influence, a large share of them by Mexicans and Black men. A federal law against it passed in 1937, after a debate in the House that lasted a few minutes. Anslinger ran the bureau for thirty-two years.
+
+![Harry Anslinger, a man in a dark suit and tie with a handkerchief in his breast pocket, seated at a desk and looking at the camera, with a bookcase behind him](images/anslinger2.jpg)
+*Harry Anslinger at his desk in 1930, the year he became head of the Federal Bureau of Narcotics. Photo: unknown photographer, Library of Congress, public domain.*
 
 The United States, which had first taken up the cause after acquiring a colony full of opium smokers in the Philippines, pressed the same policy on everyone else. In 1961 a United Nations convention, which nearly every government on Earth has since signed, required them to treat the production and sale of opium, coca and cannabis as crimes, except for medicine and research.
 
@@ -80,6 +101,9 @@ Demand in the rich countries met its supply in poor ones, and there the war was 
 
 Coca is a shrub of the eastern slopes of the Andes, whose leaves the people of Peru and Bolivia have chewed for thousands of years to dull hunger and tiredness. A farmer there can earn several times as much from it as from any other crop. In the 1980s a group of traffickers based in the Colombian city of Medellín organised the refining and smuggling of cocaine on an industrial scale, with their own fleet of aircraft, and came to supply most of the world. Their leader, Pablo Escobar, offered every official he met a choice between silver and lead, a bribe or a bullet. To stop the government from sending him to the United States for trial, he had the leading candidate for the presidency shot dead at a rally and a passenger aircraft blown up in the air with a hundred and seven people on board. He was shot dead on a rooftop in 1993.
 
+![A wood engraving of women bending over low coca bushes to pick the leaves in a field in Bolivia, with wooden huts and two baskets at the right and wooded hills behind](images/coca.jpg)
+*Women gathering coca leaves in Bolivia, in a wood engraving of about 1867. Image: Wellcome Collection, CC BY 4.0.*
+
 The flow of cocaine was not interrupted for a week. Other groups took over, and when they were broken, others again. People who study the trade call this the balloon effect. Squeeze it in one place and it bulges in another. After twenty-five years and ten billion dollars of American aid to Colombia, more coca is growing there than ever before.
 
 The trade's centre moved north to Mexico, through which the drugs had to pass. In December 2006 a new Mexican president sent the army into the streets against the cartels. The large organisations splintered into dozens of smaller ones, which fought the state and each other for territory with weapons bought over the counter in the United States. Since then more than four hundred thousand Mexicans have been murdered, and more than a hundred thousand have vanished.
@@ -90,7 +114,13 @@ The worst drug epidemic in American history was started by a legal medicine, pre
 
 In 1996 their company, Purdue, brought out a pill called OxyContin, containing a large dose of a synthetic relative of morphine, designed to release it slowly over twelve hours. Strong opiates had until then been kept for cancer and for the dying, because doctors feared addiction. The company set out to change their minds. It hired hundreds of salesmen, paid them bonuses by the volume prescribed, and sent them to tell family doctors that the drug was suitable for backache and arthritis, and that fewer than one patient in a hundred would become addicted.
 
+![A close-up of a round white tablet stamped with the letters OC, lying on a white tiled surface](images/oxy.jpg)
+*A 10-milligram tablet of OxyContin, about three quarters of a centimetre across, marked OC. Photo: Psiĥedelisto, 2018, CC0.*
+
 The quantity of opiate painkillers sold in the United States quadrupled in ten years. In some mining and mill towns there were more prescriptions written each year than there were inhabitants. People found that the pills could be crushed and sniffed for the whole dose at once. When the supply of pills was finally tightened, those who were dependent turned to heroin, which was cheaper. After 2013 dealers began to mix the heroin with fentanyl, and then to sell fentanyl in its place. It is made in laboratories, it is fifty times stronger, and a few grains of it can kill.
+
+![Customs and Border Protection officers at a press conference at Nogales, with one officer speaking at a lectern and, on a table, stacks of white packages beside signs reading Fentanyl and Meth](images/fent.jpg)
+*The seizure of nearly 650 pounds of fentanyl and methamphetamine at Nogales, Arizona, shown at a press conference on 31 January 2019. It was the largest amount of fentanyl that the border agency had ever seized. Photo: U.S. Customs and Border Protection, public domain.*
 
 In 1999 about seventeen thousand Americans died of a drug overdose. In 2022 it was a hundred and eight thousand, more than die from guns and cars together, and three quarters of those deaths involved an opiate. Over a million Americans have died of overdoses since the pill was launched. The life expectancy of Americans fell.
 
