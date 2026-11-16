@@ -8,6 +8,9 @@ At a quarter to three on the morning of 31 January 1968, a taxi and a small truc
 
 It was the first night of Tet, the lunar new year, the greatest holiday in Vietnam, and a truce had been announced. The embassy was a new white building of six storeys, the most heavily guarded in the country. For six hours the attackers held its grounds against American military police, until the last of them was dead or captured.
 
+![Two American military policemen take cover behind a tree and a pole on a pavement strewn with spent cartridges, watching the embassy grounds across the road](images/embassy_mps.jpg)
+*American military police outside the embassy in Saigon in the early morning of 31 January 1968, during the Tet attack. Photo: U.S. Army Military History Institute, public domain.*
+
 That same night about eighty thousand guerrillas and northern soldiers struck more than a hundred cities and towns across South Vietnam, most of which had seemed safe. The attack failed. Within weeks the attackers had been driven out everywhere, with the loss of perhaps forty-five thousand men, and the guerrilla movement in the South never recovered.
 
 It made no difference. For three years the American government had been telling its people that the enemy was nearly finished. Two months earlier the commanding general had said that the end was beginning to come into view. Americans now watched, on the evening news, gun battles in the garden of their own embassy. The most trusted newsreader in the country went to see for himself, and told his audience that the war was a stalemate and could not be won. At the end of March the president announced that he would not stand for another term.
@@ -24,6 +27,9 @@ In 1941 he walked back over the border and founded a league to fight for indepen
 
 On 2 September 1945, the day that Japan signed its surrender, he stood in front of several hundred thousand people in a square in Hanoi and proclaimed his country free. He began with a sentence that he had borrowed. All men are created equal, he read. They are endowed by their Creator with certain unalienable rights. American officers stood near the platform, and American aircraft flew over the crowd.
 
+![A draped platform with a tall flagpole, with a row of men standing at its rail and a crowd in front](images/ba_dinh.jpg)
+*The platform in Ba Dinh Square, Hanoi, on 2 September 1945, where Ho Chi Minh read the declaration of independence. Photo: unknown photographer, public domain.*
+
 ## Bicycles
 
 France wanted its colony back. Its army came back within weeks, and at the end of 1946 a war began that lasted eight years. Ho told a French visitor how it would go. You can kill ten of my men for every one I kill of yours, he said. Even at those odds, you will lose and I will win.
@@ -34,6 +40,9 @@ At the end of 1953 the French commander set a trap. He placed fifteen thousand o
 
 They brought them in pieces. Tens of thousands of peasants dragged the guns up the slopes by rope, a few metres a day, and dug them into the hillsides facing the valley. Supplies came on bicycles, reinforced with bamboo, each pushed by one man and loaded with two hundred kilograms of rice. When the guns opened fire, the French artillery commander understood what had happened and killed himself with a grenade. The garrison surrendered after fifty-six days.
 
+![A long column of French soldiers, some bandaged, walks across open ground past a Vietnamese guard in a pith helmet](images/dbp_prisoners.jpg)
+*French soldiers captured at Dien Bien Phu, led away by Vietnamese troops to a prisoner-of-war camp, 1954. Photo: AFP, public domain.*
+
 ## A line and a promise
 
 The peace conference met at Geneva. The great powers, with the United States standing aside, agreed that Vietnam would be divided for the time being at the seventeenth parallel, with Ho's government in the north and a French-backed one in the south, and that an election would be held within two years to reunite the country.
@@ -42,11 +51,17 @@ The election was not held. The American president of the day wrote in his memoir
 
 The man it found to lead that state was Ngo Dinh Diem, a devout Catholic from a family of officials. He was honest, stubborn and remote, and he governed through his brothers. In a country where eight people in ten were Buddhists, he filled the army and the administration with Catholics. He cancelled the village elections, gave the land back to the landlords from whom the guerrillas had taken it, and jailed his critics. By 1960 the survivors of the old independence movement in the south had taken up arms again, with the backing of the north.
 
+![Eisenhower shakes hands with Ngo Dinh Diem on an airport apron beside an Air Force aircraft, with Dulles and other men behind](images/diem.jpg)
+*President Eisenhower and Secretary of State John Foster Dulles welcoming Ngo Dinh Diem at Washington National Airport, 8 May 1957. Photo: U.S. Air Force, public domain.*
+
 The reasoning in Washington was summed up in a picture. You have a row of dominoes set up, the president had said, and you knock over the first one, and the last one will go over very quickly. If Vietnam fell, the rest of South-East Asia would follow, and then perhaps Japan. American politicians also remembered what had happened to those accused of having "lost" China.
 
 ## A monk at a crossroads
 
 On 11 June 1963 an elderly Buddhist monk sat down in the middle of a busy crossroads in Saigon, in the posture of meditation. Another monk poured petrol over him. He struck a match. He burned for ten minutes without moving or crying out, while monks and nuns knelt around him and an American photographer took pictures. He was protesting at the government's treatment of his religion. Diem's sister-in-law, who acted as first lady, remarked that she would clap her hands at another monk barbecue.
+
+![A small memorial tower with a tiered roof and a relief of a seated monk, flanked by two red pillars with gold lettering and a yellow gate](images/monk_memorial.jpg)
+*The memorial in Ho Chi Minh City, once Saigon, to the monk Thich Quang Duc, who burned himself in 1963. Photo: Nguyễn Thanh Quang, CC BY-SA 3.0.*
 
 The photographs went round the world, and the Americans concluded that the war could not be won with Diem. They let his generals know that they would not object to a change. On 1 November the generals seized power, and the next morning Diem and his brother were shot in the back of an armoured car. Three weeks later the American president was himself assassinated.
 
@@ -68,6 +83,9 @@ There was no front line. The enemy lived among the villagers, or in the jungle, 
 
 What the Americans had was firepower. Whole districts were declared zones in which anything that moved could be fired on. Aircraft dropped more than seven million tons of bombs on Vietnam and its neighbours, three times the weight that American aircraft had dropped in the whole of the Second World War. They sprayed seventy-five million litres of weed-killer over the forests and rice fields of the south, to strip the cover from the guerrillas and the food from their supporters, and much of it contained a poison that has been causing cancers ever since. After one town in the Mekong delta was shelled flat to drive out the guerrillas, an American major explained to a reporter that it had become necessary to destroy the town in order to save it.
 
+![A transport aircraft flies low over dense forest with two trails of spray streaming behind its wings](images/ranch_hand.jpg)
+*An American aircraft spraying defoliant over forest in South Vietnam in 1962, the first year of the spraying. Photo: U.S. Air Force, public domain.*
+
 Burned villages made recruits for the other side. The north, meanwhile, sent men and weapons south down a web of jungle tracks through Laos and Cambodia, which was bombed day and night and never closed. The Soviet Union and China supplied the trucks, rifles and anti-aircraft missiles. Near Saigon the guerrillas, whom the Americans called the Viet Cong, lived in two hundred and fifty kilometres of tunnels, with kitchens, hospitals and workshops underground. They lost ten men, or more, for every American, as Ho had said.
 
 ![Map of Vietnam, Laos and Cambodia. North Vietnam is shaded red and South Vietnam blue, divided by the line of 1954 just south of the seventeenth parallel. Hanoi and Dien Bien Phu, near the border of Laos, are in the north; Saigon and the Mekong delta in the south, and My Lai on the central coast. The Gulf of Tonkin lies east of the north. Dashed brown arrows of the supply trails run from the North south through eastern Laos and north-eastern Cambodia, with branches east into South Vietnam and the main line ending north-west of Saigon. Thailand, or Siam, lies to the west and China to the north](images/map_vietnam.png)
@@ -79,11 +97,17 @@ The Americans who fought were young, and they were not a cross-section of their 
 
 In 1967 the heavyweight boxing champion of the world was called up, and refused to go. I ain't got no quarrel with them Viet Cong, he said. He was stripped of his title, banned from boxing for three years in the prime of his career, and sentenced to five years in prison, which the Supreme Court later overturned. For many young Black men, who were being asked to fight for a freedom abroad that they did not have at home, Muhammad Ali had said what they thought.
 
+![Muhammad Ali, frowning, speaks into a cluster of microphones with onlookers around him](images/ali.jpg)
+*Muhammad Ali leaving the federal court in Houston on 20 June 1967, after he was sentenced to five years in prison for refusing the draft. Photo: United Press International, public domain.*
+
 ## A village in March
 
 On the morning of 16 March 1968, a company of American infantry was landed by helicopter beside a village on the central coast called My Lai, in an area that had cost it several men to mines and booby traps. They had been told to expect an enemy battalion. They found old men, women and children eating breakfast.
 
 Over the next four hours the soldiers killed about five hundred of them. They shot families in their huts, herded groups into a ditch and fired into it, and raped women before killing them. Not one shot was fired at them.
+
+![A black stone plaque engraved with the numbers 495 to 504 and Vietnamese names in gold letters](images/my_lai.jpg)
+*A plaque at the My Lai memorial museum, in Vietnam, listing the 504 victims of the killings of 1968, photographed in 2009. Photo: Adam Jones, CC BY-SA 3.0.*
 
 A helicopter pilot of twenty-four, flying overhead, saw the bodies and then saw soldiers advancing on a group of villagers hiding in a shelter. He landed his aircraft between them. He told his two gunners that if the Americans fired on the civilians, they were to fire on the Americans, and he coaxed about a dozen people out and had them flown away.
 
@@ -107,6 +131,9 @@ That bombing helped to tip a neutral country into civil war. In 1975 it was won 
 
 In January 1973, after a last twelve days of bombing over Christmas, an agreement was signed in Paris. American forces would leave. The northern troops already in the south would stay where they were. The southern president agreed only because Nixon promised in writing to send the bombers back if the north attacked again.
 
+![Secretary of State William Rogers signs a document at a long green-covered table while aides and officials look on](images/paris_signing.jpg)
+*Secretary of State William Rogers signing the peace agreement in Paris on 27 January 1973. Photo: Robert Knudsen, public domain.*
+
 ## The gate
 
 The end came in the spring of 1975. Congress had forbidden any further American bombing and cut the aid, and Nixon had been driven from office by a scandal at home. The northern army attacked, and the southern one, which had a million men, fought hard in a few places and dissolved in fifty-five days.
@@ -120,5 +147,8 @@ The victors sent several hundred thousand southern officers and officials to pri
 In 1986 the government in Hanoi began to allow private business and foreign investment. The United States restored relations in 1995, and it is now the largest buyer of what Vietnam makes.
 
 In Washington there is a memorial to the Americans who died. It was designed in 1981 by a twenty-one-year-old student, the daughter of immigrants from China, and many veterans hated it at first. It is a wall of polished black stone sunk into the ground, a hundred and fifty metres long, carved with fifty-eight thousand names in the order in which they died. A visitor reading them sees his own face in the stone.
+
+![A low view along a stone path to the long polished black wall of the memorial at dusk, with the sky reflected in it](images/vvm.jpg)
+*The Vietnam Veterans Memorial in Washington at dusk, photographed in 2012. Photo: Almonroth, CC BY-SA 3.0.*
 
 A wall of the same kind for the Vietnamese dead would run for six kilometres.
