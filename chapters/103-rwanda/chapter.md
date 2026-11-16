@@ -34,6 +34,9 @@ In the fifteen months before the killing, Rwanda imported nearly six hundred ton
 
 The peace agreement was to be supervised by the United Nations, which sent two and a half thousand soldiers under a Canadian general, Roméo Dallaire. They were lightly armed, short of vehicles and ammunition, and forbidden to use force except in self-defence.
 
+![A grey-haired man in a grey suit speaks on a stage beside a flag of the United States Africa Command](images/dallaire.jpg)
+*Roméo Dallaire, the Canadian general who commanded the United Nations force in Rwanda, speaking to American military staff in Stuttgart on 4 September 2012. Photo: U.S. Africa Command, public domain.*
+
 In January 1994 a senior trainer of the militia came to Dallaire in secret. He said that his men had been ordered to register every Tutsi in the capital, and that he believed it was for their extermination. His units could kill a thousand people in twenty minutes. He knew where the weapons were hidden, and offered to show them in return for protection for his family.
 
 On 11 January Dallaire sent a coded fax to the peacekeeping department at United Nations headquarters in New York, saying that he intended to raid the arms dumps within thirty-six hours. The reply came back the same day. He was to do no such thing. A raid went beyond the terms on which the force had been sent. He should tell the president what he had learned, which meant telling the people who had issued the weapons.
@@ -55,6 +58,9 @@ The first to die were those on the lists: politicians, lawyers, journalists and 
 It was organised through the ordinary machinery of a tightly governed country. Mayors and village heads called the men together, as they did for communal road-mending, and told them that there was work to do. Those who hung back were fined, beaten or killed. At the roadblocks, people were asked for their identity cards. Farmers killed the families on the next plot, with whom they had shared beer. Teachers killed their pupils, and doctors their patients. Husbands were forced to kill their Tutsi wives. In all, some two hundred thousand people took part in the killing.
 
 In earlier massacres Tutsi had been safe in churches, and so in 1994 they crowded into them, and were trapped. At one church south of the capital, about five thousand people were killed in a day with grenades, machetes and clubs. At another the militia knocked holes in the brick walls to throw the grenades in. Priests and nuns in several places handed over those who had come to them.
+
+![The open iron gate at the entrance of a brick church, with a painted sign on the floor reading Never again](images/nyamata2.jpg)
+*The entrance of the church at Nyamata, south of Kigali, kept as a memorial. The sign on the floor, dated 28 March 2004, reads "Never again". Photographed in 2007. Photo: Dave Proffer, CC BY 2.0.*
 
 Something like a quarter of a million women were raped. The dead were being added to at a rate of eight thousand a day.
 
@@ -78,6 +84,9 @@ One of his unarmed observers was a tall, cheerful captain from Senegal named Mba
 
 The genocide was ended by the rebel army. Kagame's troops advanced steadily from the north, took the capital on 4 July, and two weeks later held everything except a zone in the south-west, where French troops had landed in June and behind whose lines many of the killers got away. They killed as they came, in reprisal, some tens of thousands of Hutu civilians.
 
+![Paul Kagame in a grey suit sits on a sofa talking with the American defense secretary, who leans towards him with open hands, while a soldier and a cameraman stand behind](images/kagame.jpg)
+*Paul Kagame (left) talking with the American defense secretary, William Perry, on 31 July 1994, a few weeks after his army took Kigali. Photo: Marvin Krause, U.S. Department of Defense, public domain.*
+
 Ahead of them went one of the fastest mass flights ever seen. The defeated government ordered the population to leave, and two million Hutu walked out of the country, nearly a million of them, in a few days, across the border into Zaire, the huge country to the west, carrying their mattresses and cooking pots. Among them, and in command of them, were the army, the militia and the officials who had organised the slaughter.
 
 ![Two maps. Above, Rwanda and the east of Zaire, with Uganda to the north and Burundi and Tanzania to the south. A red arrow runs from the Ugandan border to Kigali, for Kagame's army from 1990 to 1994. The churches at Ntarama and Nyamata are marked south of Kigali. A hatched area in the south-west of Rwanda is the French zone of June to August 1994. Green dashed arrows carry the refugees of 1994 across the border to Goma and Bukavu in Zaire, beside Lake Kivu, and east to Ngara in Tanzania. The Kagera river runs down to Lake Victoria. A dark dashed arrow runs west across Zaire, for Rwanda's army and its allies in 1996, on to Kinshasa in 1997. Below, Bosnia in 1995, divided by a dashed line into the land of the Bosnian Serbs, shaded red, in the north and east, and the land of the Muslims and Croats, shaded green, in the centre and west, with Croatia, Serbia and Montenegro around it. Squares mark the safe areas of the United Nations: Bihać, Tuzla, Srebrenica, Žepa, Goražde and Sarajevo](images/map_rwanda_bosnia.png)
@@ -85,11 +94,17 @@ Ahead of them went one of the fastest mass flights ever seen. The defeated gover
 
 They settled on a field of black volcanic rock beside a lake, where no latrine could be dug, and cholera broke out. Fifty thousand died in a month. Now the world acted. Television showed the dying, aid poured in, and American soldiers arrived to purify water. The camps that the aid sustained were run by the killers, who taxed the food and used it to rebuild their army.
 
+![A line of men, women and children walking along a road, carrying mattresses, bags, cooking pots and yellow jerrycans on their heads](images/goma.jpg)
+*Rwandan refugees walking into Goma, in Zaire, carrying their belongings, on 3 August 1994. Photo: U.S. Department of Defense, public domain.*
+
 ## Africa's world war
 
 From those camps the militia raided back into Rwanda. In 1996 Kagame's government sent its army across the border to break them up. It did, and it hunted the refugees who fled westwards through the forest, killing a great many. Then it kept going. With allies from Uganda and Angola, it marched across a country the size of western Europe and overthrew Mobutu, the old dictator who had ruled Zaire for thirty-two years. A veteran rebel named Kabila was installed in his place, and the country was renamed the Democratic Republic of the Congo.
 
 Kabila soon quarrelled with his sponsors, and in 1998 a second war began. Nine African countries sent armies. They stayed to help themselves to the gold, the diamonds and a dull metallic ore, used in every mobile telephone, that could be dug out of hillsides by hand. Dozens of local militias fought over the mines.
+
+![Hundreds of diggers in a hillside of pits and mounds of bare earth, seen from the air](images/coltan.jpg)
+*Diggers at the Luwowo coltan mine near Rubaya, in North Kivu in the east of the Congo, seen from the air on 18 March 2014. The file is 1250 pixels wide. Photo: MONUSCO, CC BY-SA 2.0.*
 
 Few people outside Africa could have said who was fighting whom. Most of the dying was not done in battle. Villagers driven into the forest again and again died of malaria, diarrhoea and hunger, far from any clinic. An aid agency estimated that between 1998 and 2007 more than five million people died who would otherwise have lived. Other researchers think that figure far too high. On any count it was one of the deadliest wars since 1945, and it has never fully stopped.
 
@@ -101,11 +116,17 @@ Yugoslavia was a federation of six republics in the Balkans, held together for t
 
 In 1992 the republic of Bosnia, where Muslims, Serbs and Croats lived mixed together in the same towns and often the same families, voted for independence. Serb forces, armed by the Yugoslav army, set about carving out a territory of their own and removing everyone else from it. Their phrase for this entered every language: ethnic cleansing. Villages were shelled and burned, men were held in camps where they were starved and beaten to death, and women were raped systematically, as a method. The capital, Sarajevo, which had hosted the winter Olympics eight years before, was besieged for nearly four years, while gunners in the hills shot at people queuing for water.
 
+![A wet, snowy street in Sarajevo with a barrier of steel sheets across the road beyond a traffic light and a row of damaged buildings](images/sarajevo.jpg)
+*A street in Sarajevo in the winter of 1992 to 1993, with steel screens put up across an intersection to shield people from snipers. Photo: Christian Maréchal, CC BY 3.0.*
+
 The United Nations sent peacekeepers, lightly armed as in Rwanda. It declared six towns to be safe areas under its protection. One was Srebrenica, a small mining town in a valley in the east, crammed with forty thousand Muslim refugees and guarded by four hundred Dutch soldiers.
 
 On 11 July 1995 the Bosnian Serb army walked in. Its general had himself filmed handing out sweets to the children and telling the crowd that nobody would be harmed. The Dutch asked for air strikes, which came too late and were called off. Their commander was filmed drinking a toast with the general. The Dutch then helped to separate the men from the women, on the general's orders, and watched as the men were driven away in buses.
 
 Over the next five days about eight thousand men and boys were shot in fields, warehouses and a school gymnasium, and bulldozed into pits. It was the worst massacre in Europe since the Second World War, and international courts have ruled that it was genocide.
+
+![Rows of white marble gravestones in a green valley below wooded hills](images/srebrenica.jpg)
+*The memorial cemetery at Potočari, near Srebrenica, in March 2009. Photo: Michael Büker, CC BY-SA 3.0.*
 
 Srebrenica finally shamed the Western governments. When a Serb shell killed forty-three people in a Sarajevo market seven weeks later, the alliance of the Cold War, NATO, which had never fought a campaign, bombed the Bosnian Serb army for three weeks, and within three months the war was over. A hundred thousand people had died in it.
 
@@ -115,7 +136,13 @@ The governments that had not sent soldiers sent lawyers. Two international tribu
 
 Rwanda itself had more than a hundred thousand suspects in its jails and hardly a judge left alive. It turned to an old custom. In every village the accused were brought before their neighbours, sitting on the grass, and those who confessed fully and asked forgiveness received lighter sentences. Twelve thousand such courts heard more than a million cases in ten years. The new government removed the ethnic label from the identity cards and made it an offence to stir up division between Hutu and Tutsi. It has given the country order and one of the fastest-growing economies in Africa, and Kagame, who still rules it, does not tolerate opposition.
 
+![Villagers seated on benches under a tree and a tarpaulin roof in a dirt yard, with a video camera on a tripod at the edge](images/gacaca.jpg)
+*A gacaca hearing in a village in Rwanda, held in the open air under a tarpaulin, in July 2006. Photo: Scott Chacon, CC BY 2.0.*
+
 In March 1998 the American president stopped at Kigali airport. He told an audience of survivors that the world had not acted quickly enough, and had not called the crimes by their rightful name. He stayed three and a half hours, and the engines of his aircraft were kept running.
+
+![President Clinton stands beside a man holding a wooden plaque, with a carved sculpture at left and schoolchildren waving small American flags behind](images/clinton.jpg)
+*President Bill Clinton at a ceremony in Kigali on 25 March 1998 honouring the survivors of the genocide. The plaque reads "In memory of the victims of genocide". Photo: Ralph Alswang, White House Photograph Office, public domain.*
 
 Dallaire went home to Canada. He could not stop seeing what he had seen. In 2000 he was found unconscious under a park bench, after trying to kill himself with drink and pills.
 
