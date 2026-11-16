@@ -1,0 +1,4 @@
+Flow pass, chapter 63. Prose words (captions excluded): 3,262 before, about 3,950 after.
+Changes: set-up and consequence sentences around the Louisiana sale, the survey grid and statehood, the Cherokee's bargain and its betrayal, the Texas settlement and the Mexican war; the slavery-balance, railway and reservation paragraphs split and walked through step by step.
+check2 flags applied: removed or softened added sentences that overstated settlers' rights in territories, the timing of the bison collapse and the order of boarding schools and allotment; cut repeated explanations and absolutes. Two small corrections to existing wording: Congress "had agreed to admit" Missouri in 1820 (admitted 1821), and Congress "authorised" (not "chartered") the two railway companies.
+Left unapplied: none of substance; the flag on "The railways changed more than travel" is an original sentence and was kept.
