@@ -6,7 +6,7 @@ For most of what people see on a social network or a video site, a piece of soft
 
 In 2011 a SIM card, the chip that connects a mobile telephone to a network, cost more than two hundred dollars in Myanmar, the country once called Burma. It had been ruled by generals for fifty years, and they did not want their people to talk to one another. Only two or three people in a hundred had a mobile telephone.
 
-Then the generals began to loosen their grip, and foreign telephone companies were let in. By 2014 a SIM card cost a dollar and a half. Cheap Chinese smartphones flooded the markets, and the stallholders who sold them set them up for their customers before handing them over. They installed one application, the social network Facebook, which under a deal with the telephone companies could be used without paying for data. For most Burmese, who had never used a computer or seen a web page, that blue icon was the internet. The country went from about one million users to eighteen million in four years.
+Then the generals began to loosen their grip, and foreign telephone companies were let in. By 2014 a SIM card cost a dollar and a half. Cheap Chinese smartphones flooded the markets, and the stallholders who sold them set them up for their customers before handing them over. They installed one application, the social network Facebook, which under a deal with the telephone companies could be used without paying for data. For most Burmese, who had never used a computer or seen a web page, that blue icon was the internet. The country went from about two million users to eighteen million in four years.
 
 Myanmar is mostly Buddhist. In its western coastal state lived about a million Muslims, the Rohingya, whom the government had stripped of citizenship in 1982 and described as illegal immigrants. Through the new medium there now poured a stream of posts describing them as dogs, maggots and rapists who were breeding to take over the country. Some came from nationalist monks. Many, it emerged later, came from a secret operation of several hundred army personnel, who ran fake pages devoted to pop stars and beauty tips, built up large followings, and then used them to spread invented stories of Muslim atrocities.
 
@@ -46,7 +46,7 @@ The design of the screen does the rest. The feed has no bottom. The engineer who
 
 ## Seventy per cent
 
-The same principle chooses the next film. On the largest video service, five hundred hours of new material are uploaded every minute, and the company has said that seven tenths of what people watch there is chosen for them by its recommendation system. A newer service, owned by a Chinese company, shows films a few seconds long, one after another, and learns chiefly from how long the viewer lingers on each. Within an hour it has worked out a new user's tastes.
+The same principle chooses the next film. On the largest video service, five hundred hours of new material are uploaded every minute, and the company has said that seven tenths of what people watch there is chosen for them by its recommendation system. A newer service, owned by a Chinese company, shows films a few seconds long, one after another, and learns chiefly from how long the viewer lingers on each. Within two hours it has worked out a new user's tastes.
 
 ## Squares
 
@@ -88,7 +88,7 @@ Other governments have tried other means. India has cut off the internet in one 
 
 Until recently one kind of evidence could still be trusted. A photograph might be staged, but to forge a convincing film of a real person saying something that he had not said was beyond anyone except a film studio.
 
-Since 2022 software that anyone can use has been able to produce a picture of anything from a typed description, and to imitate a particular person's voice from a recording a few seconds long. Two days before a national election in Slovakia in 2023, a recording circulated in which one of the party leaders appeared to be discussing how to rig the vote. It was a fabrication. It was shown to be false within two days, in a period when Slovak law forbade campaigning, and he lost.
+Since 2022 software that anyone can use has been able to produce a picture of anything from a typed description, and to imitate a particular person's voice from a recording a few seconds long. Two days before a national election in Slovakia in 2023, a recording circulated in which one of the party leaders appeared to be discussing how to rig the vote. It was a fabrication. It was denounced as a fake at once, but in the two days before the vote Slovak law forbade campaigning, and he lost.
 
 The deeper effect may be the reverse of the obvious one. When any recording can be faked, a politician caught on a real one has only to say that it is false.
 
@@ -96,4 +96,4 @@ The deeper effect may be the reverse of the obvious one. When any recording can 
 
 In 2018 a United Nations mission that had investigated the killings in Myanmar said that Facebook had played a determining role in spreading the hatred that led to them. In November of that year the company published the findings of an inquiry that it had commissioned itself. We weren't doing enough, it said, to help prevent our platform from being used to foment division and incite offline violence. We agree that we can and should do more.
 
-That summer it had removed the pages of the army's commanders, and it was hiring a hundred reviewers who could read Burmese. By then most of the Rohingya were in Bangladesh. In 2021 a group of the refugees sued the company in a Californian court for a hundred and fifty billion dollars. The case was dismissed, since the law of 1996 protected it.
+That summer it had removed the pages of the army's commanders, and it was hiring a hundred reviewers who could read Burmese. By then most of the Rohingya were in Bangladesh. In 2021 a group of the refugees sued the company in a Californian court for a hundred and fifty billion dollars. In 2024 the court dismissed the case. It had been brought too late.
