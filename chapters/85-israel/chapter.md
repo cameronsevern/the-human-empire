@@ -8,6 +8,9 @@ At four o'clock on the afternoon of Friday, 14 May 1948, some two hundred and fi
 
 A short, stocky man of sixty-one with tufts of white hair rapped a gavel on the table. David Ben-Gurion had come to Palestine from Poland as a farm labourer forty-two years before. He read out a document of about a thousand words, which declared the establishment of a Jewish state, to be called Israel. The ceremony took thirty-two minutes. It had to be over before sunset, when the Jewish day of rest began, and British rule over Palestine was due to end at midnight.
 
+![David Ben-Gurion standing at a table with other men, reading from papers beneath a large portrait of a bearded man, with two flags marked with the Star of David](images/declaration.jpg)
+*Ben-Gurion reading the declaration of the State of Israel in the Tel Aviv museum hall, 14 May 1948, beneath the portrait of Theodor Herzl. Photo: Rudi Weissenstein, public domain.*
+
 Outside, people danced in the street. Ben-Gurion did not join them. Egyptian aircraft bombed Tel Aviv the next morning.
 
 A few kilometres down the coast, in the old Arab port of Jaffa, there was no one to dance. It had been a city of seventy thousand people in January. That week about four thousand were left.
@@ -20,9 +23,15 @@ Herzl was a Jew of the modern kind, who did not practise his religion and believ
 
 The next year he published a pamphlet called *The Jewish State*. The Jews, he argued, were a nation like any other, and needed what other nations had, a country of their own. In 1897 he gathered two hundred delegates in a concert hall in the Swiss city of Basel, in evening dress, to found a movement. He wrote in his diary: At Basel I founded the Jewish state. If I said this aloud today, I would be answered with universal laughter. Perhaps in five years, and certainly in fifty, everyone will know it.
 
+![Theodor Herzl in a dark coat leaning on an iron balcony rail above a river and a bridge](images/herzl.jpg)
+*Theodor Herzl on the balcony of the Three Kings hotel in Basel, at the time of the early Zionist Congresses of 1897 and 1898. Photo: Government Press Office, public domain.*
+
 Herzl was willing to consider Argentina. His followers were not. Jews had prayed for a return to the land of Israel, which they called Zion, for eighteen hundred years. It was then a quiet corner of the Turkish empire known as Palestine, with about half a million inhabitants. Nineteen in twenty of them were Arabs.
 
 The movement set about building a society there before it had a state. A fund bought land, often from landlords who lived in Beirut or Damascus, and the Arab tenants who had farmed it were made to leave. Young immigrants from Russia founded farms that they owned in common. In 1909 sixty families drew lots for plots on the sand dunes north of Jaffa and began the first modern Jewish city. A scholar in Jerusalem had resolved that the new nation must speak Hebrew, which had been a language of prayer and study, and no people's mother tongue, for some seventeen hundred years. He raised his son to hear nothing else. Within a generation children were quarrelling in it in the playground.
+
+![A crowd of men, women and children in dark clothes gathered on bare sand dunes, with one man standing apart on a rise behind](images/telaviv.jpg)
+*Families drawing lots for building plots on the sand dunes north of Jaffa, 11 April 1909, the founding of Tel Aviv. Photo: Avraham Soskin, public domain.*
 
 Under British rule, after 1917, the Jewish community grew from a tenth of the population to a third. It had its own schools, trade unions, bus companies, a university, an elected assembly, and an underground army, the Haganah. Two smaller armed groups, more extreme, rejected its authority. The Arabs of Palestine watched this with growing alarm, rose against it, and were crushed. By 1939 the British had decided to close the door, and limited Jewish immigration to a trickle.
 
@@ -36,7 +45,13 @@ Britain held to its limit of fifteen hundred a month. It still ruled an empire f
 
 In July 1947 one of these ships, a worn-out American pleasure steamer renamed *Exodus 1947*, was boarded off the coast of Palestine with four and a half thousand survivors on board. Three people were killed in the fight. The British government decided to make an example, and sent the passengers back to Europe. They refused to land in France. In the end British soldiers carried them off the ships in Germany, and put them in camps there. Newspapers all over the world printed the pictures. It was the worst advertisement for a policy that could have been devised.
 
+![A large old passenger steamer with a tall black funnel and a battered, stripped superstructure, moored in a harbour](images/exodus.jpg)
+*The hulk of the Exodus 1947 at Haifa, photographed in 1952, five years after the voyage. Photo: Fritz Cohen, Government Press Office, public domain.*
+
 In Palestine itself, the Jewish underground had turned on the British. One of the two extreme groups blew up the wing of the hotel in Jerusalem that housed the British administration, in July 1946, and killed ninety-one people. Britain had a hundred thousand soldiers in a country not much bigger than Wales and could not keep order. It was also bankrupt, and its public was sick of the whole business. In February 1947 the government announced that it was handing the problem to the United Nations.
+
+![A large stone hotel with one wing torn open and collapsed into rubble, an ambulance and rescuers at its foot](images/kinghotel.jpg)
+*The King David Hotel in Jerusalem after the bombing of 22 July 1946. Photo: Gordon Trevor Moore, CC BY-SA 4.0.*
 
 ## Thirty-three to thirteen
 
@@ -62,6 +77,9 @@ Four days later Arab fighters ambushed a convoy of buses and ambulances on its w
 
 The towns went quickly. Haifa, the main port, had seventy thousand Arab inhabitants. Many of its leading men and wealthier families had left during the winter, as such families had done in earlier troubles, expecting to come back when things were calm. On 21 April the Jewish militia took the Arab quarters in a day and a night. The town's remaining Arab leaders, offered terms, chose to evacuate, and the people crowded onto the quays and into boats. By May there were a few thousand left. Jaffa followed.
 
+![Two girls pushing prams and carts piled with bedding and belongings along a street of stone buildings, with others behind](images/jaffa.jpg)
+*Girls pushing their belongings in prams and carts as they leave Jaffa, 1948. Photographer unknown, United Nations archive, public domain.*
+
 ## Five armies
 
 On 15 May, the day after Ben-Gurion's ceremony, the regular armies of Egypt, Transjordan, Syria and Iraq crossed the borders, with a small force from Lebanon. The secretary of the Arab League had spoken of a war of extermination. Israel had six hundred and fifty thousand people and had existed for a matter of hours.
@@ -80,11 +98,17 @@ More than half the Arabs of Palestine, about seven hundred thousand people, were
 
 They had left in many different ways. Some went early, by car, to wait out the fighting. Many fled as the front came near, as civilians do in every war, after hearing what had happened elsewhere. Many were driven out. In July 1948, when Israeli forces took the towns of Lydda and Ramle on the road to Jerusalem, some fifty thousand people were ordered out of their houses and made to walk to the Arab lines in the heat of midsummer, and a number died on the way. In some villages in the north there were massacres. In others the people were left alone and are there to this day.
 
+![Men, women and children carrying huge bundles on their heads and backs along a hill road past a wrecked truck](images/refugees48.jpg)
+*Palestinian refugees on a road in the hills, 1948. Photo: Fred Csasznik, public domain.*
+
 Why they left was disputed for forty years. Israel's official account held that the Arab leaders had told them by radio to get out of the way of the armies. Palestinians said that they had been expelled according to a plan. In the 1980s the Israeli archives were opened, and Israeli historians went through the army's own records. They found almost no trace of orders from Arab leaders to leave. They found that most refugees had fled from attacks and the fear of attacks, and that a large number had been expelled by local commanders. Whether there was a central plan to remove them is still argued, and historians reading the same documents disagree.
 
 In the summer of 1948 the Israeli cabinet decided that the refugees would not be allowed back. A Jewish state with a large and hostile Arab population, the ministers reasoned, could not survive. Empty villages were bulldozed or given to new immigrants, and the land was taken over by the state. Those who tried to slip back across the lines to their fields were treated as infiltrators and often shot.
 
 In December the United Nations resolved that refugees who wished to return and live at peace should be permitted to do so. Nothing came of it. The Arab states, except Jordan, declined to make the refugees citizens, on the grounds that to settle them would be to accept their loss. The tent camps set up in 1949 became towns of concrete, and they are still there. The agency created to feed their people has about six million of them and their descendants on its books.
+
+![A young woman in a headscarf carrying a sleeping small child, in front of a large tent](images/miamia.jpg)
+*A refugee girl carrying her sleeping baby sister in the new Mia Mia camp near Sidon, Lebanon, 1949. Photo: UNRWA archive, CC BY-SA 3.0 IGO.*
 
 Many families had locked their doors when they left and taken the key, expecting to be gone for a few weeks. The keys were kept. Large iron keys to houses that no longer exist hang on the walls of homes in the camps, and have passed to grandchildren and great-grandchildren.
 
@@ -96,7 +120,13 @@ The war also ended a much older world. Jews had lived in Iraq since the Babyloni
 
 After the war in Palestine, they were no longer safe. There were riots, arrests and dismissals, and in some countries their property was seized. Others were drawn by the new state, which sent agents to bring them. Almost the whole Jewish community of Yemen, some fifty thousand people, many of whom had never seen an aircraft, was flown out in little more than a year. A hundred and twenty thousand left Iraq, under a law that allowed them to go if they gave up their citizenship. A second law, a year later, froze everything that they owned. Within twenty-five years the Jewish communities of the Arab world had all but disappeared, and most of their people were in Israel.
 
+![A Yemenite Jewish family of men, women and children walking barefoot across open desert, carrying bedding and baskets](images/aden.jpg)
+*A Yemenite Jewish family walking through the desert to a reception camp near Aden, 1949. Photo: Zoltan Kluger, public domain.*
+
 They arrived alongside the survivors from Europe. In 1950 Israel passed a law giving every Jew in the world the right to come and become a citizen. In three years its Jewish population doubled. The newcomers lived in tents and tin huts, on rationed food, in a country with no oil and enemies on every border.
+
+![A woman sewing on a wooden stool in front of white huts and a washing line, under olive trees, with a dog asleep beside her](images/maabara.jpg)
+*A woman sewing outside the huts of a ma'abara, an immigrant transit camp, in Israel, May 1951. Photo: Boris Carmi, CC BY 4.0.*
 
 ## Two words
 
