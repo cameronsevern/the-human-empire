@@ -16,9 +16,15 @@ The ruler whom he had overthrown had left the country two weeks earlier, in tear
 
 Mohammad Reza Pahlavi was the shah who had been restored to his throne in 1953 by a coup arranged from Washington and London. He never lost the stain of it. He was a shy, vain man, devoted to his country's greatness and convinced that he alone understood how to achieve it. Iran, he said, would be among the five leading powers of the world by the end of the century.
 
+![Black-and-white photograph of the shah in a dark suit and sash and Empress Farah in a pale fur wrap walking up a carpet between onlookers and photographers, with a torch-bearer in the foreground and a line of cars behind](images/shah_finland.jpg)
+*The shah and Empress Farah arriving for a dinner in Helsinki during a state visit, June 1970. Photo: Markku Lepola, Finnish Heritage Agency, CC BY 4.0.*
+
 He set out to drag it there. In 1963 he announced a programme of reform from above. The great estates were broken up and sold to the peasants. Women were given the vote. Young conscripts were sent to teach in the villages. Dams, steel mills and universities went up, and when the price of oil quadrupled in 1973 the spending became frantic. Tehran, a city of one and a half million in 1956, held four and a half million twenty years later. Tens of thousands of foreign advisers and technicians, most of them American, lived there on salaries that Iranians could only dream of.
 
 None of it was open to discussion. Parliament was a decoration, and in 1975 the shah merged the tame parties into one and told those who did not care to join that they could have their passports and leave. His secret police, trained by the Americans and the Israelis, had informers in offices and classrooms across the country, and tortured many of those it arrested. In 1971 he celebrated what he called the two thousand five hundredth anniversary of the Persian monarchy with a party for the world's kings and presidents in the ruins of the ancient capital, in a city of silk tents, with food flown in from Paris. Most villages in the country had no running water.
+
+![Six people standing at a long table in front of a grey-green curtain, among them the shah and President Carter, who touch glasses in the middle](images/carter_shah.jpg)
+*President Jimmy Carter and the shah toasting at a state dinner in Tehran, 31 December 1977, a year before the shah fell. Photo: White House staff, US National Archives, public domain.*
 
 The money did as much harm as good. Prices soared. Peasants who had been given plots too small to live on drifted into shanty towns around the cities. The old merchant families of the bazaar were squeezed by new supermarkets and by officials who took bribes. On the last night of 1977 the American president, visiting Tehran, raised his glass and called Iran an island of stability in one of the more troubled areas of the world.
 
@@ -32,6 +38,9 @@ Khomeini was a teacher of law and philosophy in the seminary city of Qom. In 196
 
 He settled in a Shia holy city in Iraq, and there, in a series of lectures in 1970, he set out an idea that most of his fellow ayatollahs found startling. The clergy had traditionally kept their distance from government, which they regarded as a worldly and slightly unclean business. Khomeini argued that Islam contained all the laws that a society needed, and that it followed that those who knew the law best should rule. While the hidden leader was absent, the state should be under the guardianship of the most learned jurist.
 
+![Black-and-white photograph of a bearded elderly cleric in a black turban sitting in an armchair beside a standing man in a dark jacket and tie](images/khomeini_paris.jpg)
+*Ayatollah Khomeini (right) with his aide Sadegh Ghotbzadeh in exile at Neauphle-le-Château, near Paris, 1978. Photo: iichs.ir, public domain.*
+
 ## Forty days
 
 In January 1978 a government newspaper published an article that called Khomeini a foreign agent and a writer of love poetry. Seminary students in Qom marched in protest, and the police shot several of them.
@@ -43,6 +52,9 @@ In August somebody locked the doors of a cinema in the oil city of Abadan and se
 Khomeini's voice had been reaching Iran for years by an unexpected route. His sermons were recorded on cassette tapes, carried across the border by pilgrims, copied by the thousand in the bazaars, and played in mosques and taxis. That autumn the shah persuaded Iraq to expel him. It was a mistake. He moved to a village outside Paris, with good telephone lines and the world's journalists at his door. To them he spoke of freedom and independence, and said that the clergy had no wish to govern.
 
 In October the oil workers went on strike, and the government's income stopped. In December, on the holiest days of the Shia year, more than a million people marched through Tehran.
+
+![Black-and-white photograph of a dense crowd in a Tehran street, above which a large portrait of Khomeini in glasses and a black turban is held up](images/ashura_1978.jpg)
+*A portrait of Khomeini held above the crowd in a street in Tehran during the Ashura marches of 11 December 1978. Photo: iichs.ir, public domain.*
 
 ## Everyone's revolution
 
@@ -60,6 +72,9 @@ The constitution, drafted that autumn and approved in December, was Khomeini's l
 
 The liberals might still have resisted, and an event in November destroyed them. The shah had been admitted to a hospital in New York. Iranians remembered 1953 and suspected a plot to bring him back. On 4 November several hundred students climbed the wall of the American embassy in Tehran and took its staff prisoner. Khomeini had not ordered it. He saw its use at once and gave it his blessing. The prime minister resigned in protest, and anyone who argued for moderation could now be called a friend of America. Fifty-two Americans were held for four hundred and forty-four days, paraded blindfold before the cameras. An attempt to rescue them by helicopter ended in a collision in the desert. They were released within minutes of a new American president taking office.
 
+![Black-and-white photograph of a man holding up a handwritten sign reading Deport all Iranians in a crowd, between two police officers in helmets, with an American flag behind](images/hostage_protest.png)
+*In Washington on 9 November 1979, five days after the embassy in Tehran was seized, a man at a demonstration holds up a sign calling for all Iranians to be sent home. Photo: Marion S. Trikosko, Library of Congress, public domain.*
+
 The new order turned on its former allies. In March 1979, within weeks of the victory, women had been told to cover their hair at work, and when thousands marched against it they were attacked by gangs with knives. Within four years the veil was the law, and the left-wing parties that had helped to make the revolution had been crushed and several thousand of their members executed.
 
 ## Poison
@@ -68,12 +83,18 @@ What bound the country to its new rulers was an invasion.
 
 In September 1980 the ruler of Iraq, Saddam Hussein, sent his army across the border. He expected an easy victory over a country in chaos, and he feared the effect of Khomeini's example on his own Shia majority. Iranians of every opinion rallied to defend their soil. Within two years they had driven the invader out. Khomeini then refused to stop, and sent his armies into Iraq to overthrow its ruler.
 
+![A three-storey building in Abadan with shattered windows, pitted walls, a gutted balcony and a rusting metal grille over the ground floor](images/abadan_ruin.jpg)
+*A building in Abadan, pitted by shell fragments and bullets from the war with Iraq, photographed in 2007. Photo: Sasanjan, CC BY-SA 3.0.*
+
 The war lasted eight years, longer than either of the world wars, and it resembled the first of them. The armies dug trenches across the marshes at the head of the Gulf. Iran, short of tanks and aircraft, sent waves of young volunteers across minefields. Iraq used poison gas, year after year, against Iranian soldiers and against a Kurdish town of its own, where five thousand people died in a day. The Arab oil states paid for Iraq's weapons, the Soviet Union and France sold most of them, and the Western powers, which feared Iran more, looked away from the gas. In July 1988 an American warship in the Gulf shot down an Iranian airliner by mistake, killing two hundred and ninety people.
 
 ![Map of Iran, Iraq, Afghanistan and the Gulf. Iran is shaded yellow, Iraq blue, Afghanistan green and the Soviet Union, to the north, red, behind a heavy frontier line. Tehran, Qom and Abadan are marked in Iran; Baghdad, Najaf and Halabja in Iraq; Mecca in Saudi Arabia; Kabul in Afghanistan and Peshawar in Pakistan. Hatched areas along Iran's western border mark the land Iraq took in 1980, a strip of the south-west round Khorramshahr and two places further north, and the head of the Gulf is marked as the front from 1980 to 1988. A red arrow runs from Termez, at the bridge over the border river, to Kabul, for the Soviet invasion of 1979, and green dashed arrows show Afghan refugees going east to Pakistan and west to Iran](images/map_iran.png)
 *Iran, Iraq, Afghanistan and the Gulf, 1978 to 1989: the land Iraq took in 1980 and lost by 1982, roughly, the Soviet invasion of Afghanistan in 1979, and the flight of Afghan refugees. Map: drawn for this book; coastlines and rivers from Natural Earth, public domain.*
 
 A few weeks later Khomeini accepted a ceasefire. The border had not moved. Somewhere near half a million men were dead. He told his people that the decision was more deadly to him than drinking poison. He died the following June, and millions came to his funeral.
+
+![Rows of graves under a tin roof, each with a glass case holding photographs of a young man in uniform, among flags in red, white and green](images/behesht_zahra.jpg)
+*Graves in the Behesht-e Zahra cemetery near Tehran, with portraits of men in uniform and Iranian flags. Many of the dead of the war with Iraq are buried in cemeteries like this one. Photo: Ninara, CC BY 2.0.*
 
 ## The solution
 
@@ -95,7 +116,13 @@ The Soviet leaders in Moscow feared that the fall of a communist government on t
 
 They found themselves fighting a war that their army had not been built for. They held the towns and the main roads. The countryside belonged to bands of fighters who called themselves warriors of the faith and who ambushed convoys in the mountain passes. The Soviets answered by bombing the villages that sheltered them. About a million Afghans were killed, and five million, a third of the population, fled to camps in Pakistan and Iran.
 
+![A long line of trucks very small on a winding pale road across steep brown mountainsides](images/soviet_convoy.jpg)
+*A Soviet supply convoy on a mountain road in Afghanistan, 1984 or 1985. Photo: Sergey Novikov, CC BY 3.0.*
+
 The United States saw a chance to do to the Soviet Union what had been done to America in Vietnam. Over ten years it sent the fighters several billion dollars in weapons, and Saudi Arabia matched the sum dollar for dollar. The money was handed out by the intelligence service of Pakistan, which favoured the most fiercely religious commanders. From 1986 the Americans supplied a shoulder-fired missile that could bring down a helicopter.
+
+![President Reagan in an armchair in the Oval Office, with an interpreter beside him, listening to a group of Afghan men in turbans and a woman in a dark shawl seated on sofas](images/reagan_afghans.jpg)
+*President Reagan meeting Afghan resistance fighters in the Oval Office, 2 February 1983. Photo: White House Photographic Office, public domain.*
 
 The war was also declared a holy cause, and volunteers came from across the Arab world. One of them was the tall, soft-spoken son of the richest builder in Saudi Arabia. Osama bin Laden brought money and bulldozers, and in 1988, in a Pakistani border city, he and a handful of others founded an organisation to carry the fight elsewhere once this one was won. They called it al-Qaeda, the Base.
 
