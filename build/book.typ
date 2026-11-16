@@ -175,8 +175,15 @@
 
 // the first paragraph of the story: a raised initial run in small capitals
 // the first paragraph of the story: a raised initial in colour, then a run of capitals
+#let plain(c) = {
+  if c.has("text") { c.text }
+  else if c.has("children") { c.children.map(plain).join() }
+  else if c.func() == smartquote { if c.double { "\u{201D}" } else { "\u{2019}" } }
+  else if c == [ ] { " " }
+  else { "" }
+}
 #let opening(lead, rest) = context {
-  let t = lead.text
+  let t = plain(lead)
   par(first-line-indent: 0pt)[#text(size: 27pt, fill: acc, baseline: 0pt, t.first())#caps(size: 8.4pt, tracking: 1pt, t.slice(1))#rest]
 }
 

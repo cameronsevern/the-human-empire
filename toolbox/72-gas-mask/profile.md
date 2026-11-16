@@ -2,7 +2,7 @@
 
 | | |
 |---|---|
-| **First made** | Britain, 1916: the small box respirator, by a team led by the chemist Edward Harrison |
+| **First made** | Britain, 1916: the small box respirator, by Edward Harrison's team |
 | **Made of** | Rubberised cloth, glass eyepieces, a hose, and a tin box of charcoal and lime |
 | **What it does** | Lets a soldier breathe clean air inside a cloud of chlorine or phosgene |
 | **Before it** | Cloth hoods soaked in chemicals and pulled over the head |
@@ -19,4 +19,4 @@ It was hard to live in. Breathing through the teeth with the nose clipped shut w
 ## The real thing
 
 ![A khaki cloth gas mask with two round metal-rimmed eyepieces and the number 3 stamped on it, a long black rubber flap hanging below the mouthpiece, and a ribbed hose leading down to a ribbed tin canister](photo-small-box-respirator.jpg)
-*A British small box respirator, size 3, with its hose and tin filter box, in the National World War I Museum, Kansas City. Photo: Daderot, public domain.*
+*A British small box respirator, in the National World War I Museum, Kansas City. Photo: Daderot, public domain.*
