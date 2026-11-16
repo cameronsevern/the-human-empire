@@ -98,6 +98,16 @@ A chapter can have more than one tool page: if a tool is interesting, it gets a 
 | 50 | The log fort | A stockade at a river crossing, holding furs and hostages |
 | 51 | The telescope | Two lenses in a tube, and the sky made new |
 | 51 | The air pump | A globe emptied of air, stroke by stroke |
+| 52 | The cowrie | Shell money, brought to Africa as ballast |
+| 53 | The sugar mill | Three rollers that crushed each cane twice |
+| 54 | The company share | Money pooled for good, and a stake anyone could sell |
+| 54 | The flintlock musket | A spark from a flint, and a blade that let it keep firing |
+| 57 | The guillotine | One blade and one death for everyone |
+| 61 | The atmospheric engine | Steam turned to water, and the air did the pushing |
+| 61 | The separate condenser | Cool the steam somewhere else, and keep the cylinder hot |
+| 61 | The water frame | Rollers that did the spinner's drawing, turned by a river |
+| 63 | The survey grid | A continent ruled into numbered squares before it was sold |
+| 64 | The Minié ball | A bullet that dropped in loose and gripped the grooves on firing |
 
 ## Files
 

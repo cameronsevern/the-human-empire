@@ -1,0 +1,3 @@
+| File | What it shows | Commons page | Author | Licence |
+|---|---|---|---|---|
+| toolbox/54-share/photo-voc-receipt.jpg | Receipt of the Amsterdam chamber of the Dutch East India Company, 6 October 1606, to Theunis Jansz of the Vrouwensteeg, for the final payment on a 600-guilder stake registered in the company's Groot-boeck, folio 332; signed Dirck van Os and Arent ten Grootenhuys. Amsterdam City Archives (Weeskamer archive 5073, inv. 4274). Not the file used in chapter 54 (which shows the Enkhuizen share of 9 September 1606). Cropped to the printed and written upper part, resized to 1600x1150 | https://commons.wikimedia.org/wiki/File:VOC_aandeel_6_oktober_1606_(1).jpeg | Verenigde Oostindische Compagnie (Stadsarchief Amsterdam) | Public domain |

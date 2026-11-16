@@ -1,0 +1,3 @@
+| File | What it shows | Commons page | Author | Licence |
+|---|---|---|---|---|
+| toolbox/57-guillotine/photo-gevangenpoort.jpg | Guillotine of oak, paint, metal and rope, made about 1800 to 1850 in France or Italy, bought in 2016 by the Gevangenpoort prison museum, The Hague (object 370): posts, raised slanted blade, lunette, plank frame. No person shown. Not a file used in chapter 57 (which uses the 1793 print of the execution of Louis XVI). Resized to 1067x1600 | https://commons.wikimedia.org/wiki/File:Guillotine_Rijksmuseum_Gevangenpoort.jpg | Rijksmuseum De Gevangenpoort | CC BY-SA 4.0 |

@@ -1,0 +1,3 @@
+| File | What it shows | Commons page | Author | Licence |
+|---|---|---|---|---|
+| toolbox/61-atmospheric-engine/photo-elsecar-cylinder.jpg | Looking down into the open-topped cylinder of the Elsecar Newcomen engine (Elsecar Heritage Centre, near Barnsley), with the piston and piston rod; the engine pumped Elsecar New Colliery 1795 to 1923 and is the only Newcomen-type engine left on its original site. Not a file used in chapter 61 (which uses the 1717/1744 engraving). Original size 640x427 | https://commons.wikimedia.org/wiki/File:Elsecar_Newcomen_engine_-_the_cylinder_and_piston_-_geograph.org.uk_-_3808170.jpg | Chris Allen | CC BY-SA 2.0 |

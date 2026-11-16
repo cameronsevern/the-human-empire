@@ -1,0 +1,3 @@
+| File | What it shows | Commons page | Author | Licence |
+|---|---|---|---|---|
+| toolbox/63-survey-grid/photo-township-plat.jpg | Land-availability plat of Township 2 South, Range 18 East, Willamette Meridian, from the US Land Office at The Dalles, Oregon: 36 sections in quarter-quarters, X marks for land taken, an area "withdrawn from entry" by order of 30 March 1903 for reclamation, sections 16 and 36 marked "School Section". National Archives via DPLA. Not a file used in chapter 63. Resized to 1600x1432 | https://commons.wikimedia.org/wiki/File:Land_Availability_Map_of_Township_2_South,_Range_18_East,_Willamette_Meridian_-_DPLA_-_58922275353617d636664e69df6f6606.jpg | United States Land Office (Department of the Interior) | Public domain |
