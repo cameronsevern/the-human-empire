@@ -1,0 +1,4 @@
+Flow pass, chapter 62. Prose words (captions excluded): 3,059 before, about 3,900 after.
+Changes: lead-in and consequence sentences around Smith's pin workshop, the Luddites, the grain tax and the famine; Marx's argument (surplus, slumps, concentration, the workers' rising) and Britain's later reforms walked through in separate steps and paragraphs; the Charter's six points explained; a stray comma before "In 1847" made a full stop.
+check2 flags applied: removed added sentences that overstated Marx's theory, the order of British reforms, Smith's "hand tools" and a clean break from petitions to machine-breaking; cut signposts and absolutes; "destroyed the potato crop" made "destroyed much of the potato crop" (1845 failure was partial).
+Left unapplied: "Since 1815 Britain had taxed imported grain heavily" (the 1815 law was a price-threshold ban rather than a tax; untouched sentence, rewording changes a checked fact, left for the author).
