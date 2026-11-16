@@ -22,7 +22,7 @@ A factory was judged by whether it met its target, and the target had to be expr
 
 Through the 1970s growth slowed to a crawl. The country that had sent the first man into space could not make a decent refrigerator, and was falling hopelessly behind the West in the new technology of computers. It had to buy grain from America to feed itself. It paid for the grain with oil and gas from Siberia, and for a decade high oil prices hid the rot. Then, in 1986, the price fell by more than half.
 
-The army and its weapons, meanwhile, took perhaps a fifth of everything that the country produced, and from 1979 there was a hopeless war in Afghanistan. Vodka did the rest. The average Soviet man could expect to die at sixty-two, younger than his father had.
+The army and its weapons, meanwhile, took about a sixth of everything that the country produced, and from 1979 there was a hopeless war in Afghanistan. Vodka did the rest. The average Soviet man could expect to die at sixty-two, younger than his father had.
 
 The leaders were the men who had risen under Stalin, and they would not go. The party chief died in 1982, visibly senile, at seventy-five. His successor lasted fifteen months, most of them on a kidney machine, and the next thirteen months, most of them unable to breathe. Soviet citizens joked about buying a season ticket to state funerals.
 
@@ -34,7 +34,7 @@ In October 1978 the cardinals of the Catholic Church, to general astonishment, e
 
 Fourteen months later the government raised the price of meat, and strikes broke out across the country. In August the management of the great shipyard at Gdańsk, on the Baltic, sacked a crane driver who had been organising the workers, and the whole yard laid down its tools. An unemployed electrician with a large moustache, Lech Wałęsa, climbed over the wall to join them and became their leader. They did not march out, since they remembered what the police had done to marchers ten years before. They locked themselves in and demanded the right to form a trade union that the party did not control. The government, astonishingly, agreed.
 
-Within a year the union, which called itself Solidarity, had ten million members, a third of all the adults in the country. A state that claimed to rule in the name of the workers was being defied by the workers. In December 1981 the Polish army declared martial law, arrested the leaders, and drove the movement underground. It did not die.
+Within a year the union, which called itself Solidarity, had ten million members, a third of all the working people in the country. A state that claimed to rule in the name of the workers was being defied by the workers. In December 1981 the Polish army declared martial law, arrested the leaders, and drove the movement underground. It did not die.
 
 ## A man you can do business with
 
@@ -70,7 +70,7 @@ Those governments had never had anything else to stand on. In Poland the general
 
 On 9 October seventy thousand people marched in the East German city of Leipzig, carrying candles and chanting: we are the people. The hospitals had been told to prepare for gunshot wounds. Eight thousand armed police and soldiers were waiting, and the order to fire did not come. A month later the wall was open.
 
-In Prague, students were beaten by police on 17 November, and within ten days half a million people were jingling their keys in the main square to tell the government that it was time to go home. On 29 December a playwright who had been in prison in the spring was president of Czechoslovakia. Only in Romania was there serious bloodshed. Its dictator was booed at his own rally on live television, fled by helicopter from the roof, and was caught and shot with his wife on Christmas Day.
+In Prague, students were beaten by police on 17 November, and within ten days hundreds of thousands of people were jingling their keys in the main square to tell the government that it was time to go home. On 29 December a playwright who had been in prison in the spring was president of Czechoslovakia. Only in Romania was there serious bloodshed. Its dictator was booed at his own rally on live television, fled by helicopter from the roof, and was caught and shot with his wife on Christmas Day.
 
 Six governments had fallen in six months. Within a year East Germany had ceased to exist, absorbed into the West, and Soviet troops were packing to go home.
 
@@ -82,7 +82,7 @@ The three small Baltic nations had been independent between the wars and were se
 
 Gorbachev was caught between two fires. In January 1991 Soviet troops stormed the television tower in the Lithuanian capital and killed fourteen unarmed people, and he neither admitted giving the order nor punished those who had. He had lost the reformers, and the hardliners despised him.
 
-The economy was now in free fall. His half-measures had broken the old system of commands without putting a market in its place. Factory managers had been given the freedom to decide what to make and what to pay, while prices were still fixed by the state, and so they made what suited them and raised wages that there was nothing to spend on. Factories stopped delivering to one another. By the winter of 1990 the shops of Moscow were bare, and bread, soap and matches were rationed.
+The economy was now in free fall. His half-measures had broken the old system of commands without putting a market in its place. Factory managers had been given the freedom to decide what to make and what to pay, while prices were still fixed by the state, and so they made what suited them and raised wages that there was nothing to spend on. Factories stopped delivering to one another. By the winter of 1990 the shops of Moscow were bare, and sugar, soap and matches were rationed.
 
 A rival had risen in Russia itself, which was the largest of the fifteen republics and had its own parliament in Moscow, a few streets from the Kremlin. Boris Yeltsin was a burly, hard-drinking former party boss whom Gorbachev had sacked for demanding faster change. In June 1991 the people of the Russian republic elected him their president. He was the first leader of Russia to be chosen by its voters, and Gorbachev had never faced the voters at all.
 
@@ -104,9 +104,9 @@ One republic after another now declared its independence. The decisive vote came
 
 A week later Yeltsin met the leaders of Ukraine and Belarus at a hunting lodge in a forest near the Polish border. They signed a short agreement stating that the Soviet Union, as a subject of international law and a geopolitical reality, had ceased to exist. Yeltsin telephoned the American president with the news before anyone told Gorbachev.
 
-On the evening of 25 December 1991 Gorbachev read a ten-minute statement to the camera and resigned from an office that no longer had a country. He handed over the briefcase with the codes for twenty-seven thousand nuclear weapons. At 7.32 the red flag with the hammer and sickle was lowered from its pole above the Kremlin for the last time, and the white, blue and red flag of Russia went up. Few people were in the square to watch.
+On the evening of 25 December 1991 Gorbachev read a short statement to the camera and resigned from an office that no longer had a country. He signed away control of twenty-seven thousand nuclear weapons. At 7.32 the red flag with the hammer and sickle was lowered from its pole above the Kremlin for the last time, and the white, blue and red flag of Russia went up. Few people were in the square to watch.
 
-Fifteen new countries appeared on the map. Twenty-five million Russians woke up as foreigners in other people's states. An empire of three hundred million people, with the largest army on Earth, had been wound up at its centre without a shot. Empires had seldom gone so quietly.
+Fifteen new countries appeared on the map. Twenty-five million Russians woke up as foreigners in other people's states. An empire of nearly three hundred million people, with the largest army on Earth, had been wound up at its centre without a shot. Empires had seldom gone so quietly.
 
 ## The nineties
 
