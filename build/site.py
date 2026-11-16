@@ -24,10 +24,10 @@ PARTS = [
     (2, "II", "Conquest", (8, 22)),
     (3, "III", "Faith", (23, 39)),
     (4, "IV", "Expansion", (40, 51)),
-    (5, "V", "Wealth", None),
-    (6, "VI", "War", None),
-    (7, "VII", "Dominion", None),
-    (8, "VIII", "Decline", None),
+    (5, "V", "Wealth", (52, 70)),
+    (6, "VI", "War", (71, 83)),
+    (7, "VII", "Dominion", (84, 109)),
+    (8, "VIII", "Decline", (110, 115)),
 ]
 
 
