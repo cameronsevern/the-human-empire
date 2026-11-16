@@ -8,6 +8,9 @@ A little after midnight on 26 September 1983, a siren went off in a bunker in th
 
 The officer in charge that night was a lieutenant colonel of forty-four named Stanislav Petrov. The computer was reporting that one missile had been fired from a base in the north-west of the United States. It rated the reliability of the report as the highest possible. While he stared at it, the siren sounded again. A second missile. Then a third, a fourth and a fifth. The panel changed to read: MISSILE ATTACK.
 
+![Stanislav Petrov, an elderly man with grey hair and a moustache, in a checked shirt, with a wall calendar behind him](images/petrov.jpg)
+*Stanislav Petrov at home in Fryazino, near Moscow, in July 2016, the year before he died. Photo: Queery-54, CC BY-SA 4.0.*
+
 His orders were clear. He was to report the detection up the chain of command, which led within minutes to the country's leader, an old and sick man who believed that the Americans were preparing a first strike. Less than four weeks earlier a Soviet fighter had shot down a Korean airliner that had strayed over Soviet territory, killing two hundred and sixty-nine people. The American president had called the Soviet Union an evil empire. If the missiles were real, they would land in twenty-five minutes, and the leadership would have perhaps ten in which to decide whether to fire back.
 
 Petrov held a telephone in one hand and an intercom in the other, and a hundred and twenty officers were looking at him. He thought that it did not make sense. He had been taught that an American attack would come as an avalanche of hundreds of missiles, to destroy the Soviet forces before they could reply. Nobody starts a war with five. The system was new, and he had helped to write its manual and knew its faults. The radar stations on the ground, which would see the warheads as they came over the horizon, were reporting nothing.
@@ -27,9 +30,15 @@ The nuclear arsenals have shrunk by more than four fifths since their peak in th
 
 The reason for that readiness is the one that faced Petrov. A missile fired from a submarine off the coast can arrive in ten minutes. Missiles in silos can be destroyed where they stand, and so each side plans to fire its own on warning, before the enemy's land. In the United States the decision belongs to one person, the president, who is not required to consult anyone and would have a few minutes to make it.
 
+![A pale green control console in a missile control room with a round 24-hour clock, a fan, a locator board and rows of indicator lights](images/titan.jpg)
+*A control console at the Titan Missile Museum in Arizona, a former American missile site kept as a museum. Missiles of this kind stood ready in underground silos. Photo: Jeff Keyzer, CC BY 2.0.*
+
 For a long time it was assumed that a nuclear war would be a catastrophe for those who fought it and survivable for everyone else. In the 1980s scientists began to study the smoke. Hundreds of burning cities would lift millions of tons of soot above the weather, where no rain could wash it out, and it would spread around the globe and dim the Sun for years. The most recent calculations, published in 2022, concluded that even a war between India and Pakistan, using a hundred or so weapons, would shorten the growing seasons enough to leave a quarter of a billion people in other countries without food. A full exchange between America and Russia would leave most of humanity without food.
 
 Petrov's night was not the only one. In 1961 an American bomber broke up in the air over the state of North Carolina and dropped two hydrogen bombs on farmland. On one of them, three of the four safety devices failed, and the fourth, a simple switch, was all that prevented an explosion two hundred and fifty times the size of Hiroshima. In 1995 Russian radar picked up a rocket rising off the coast of Norway on the path that a missile from an American submarine might take. For the only time on record, the briefcase holding the launch codes was opened in front of a Russian president. It was a scientific rocket, sent up to study the northern lights. The Norwegians had given notice weeks before, and the notice had not been passed on.
+
+![A black and white photograph of a cylindrical hydrogen bomb in a field, hung up by its parachute cords, with trees behind](images/goldsboro.jpg)
+*One of the two hydrogen bombs that fell on North Carolina in 1961, lying in a field with its parachute after the bomber that carried it broke up in the air. Photo: United States Air Force, public domain.*
 
 ## Nine, not twenty-five
 
@@ -38,6 +47,9 @@ That nothing worse has happened is partly luck. It is also the result of sixty y
 In 1963 an American president predicted that within a dozen years there might be fifteen or twenty countries with nuclear weapons. There are nine. The main reason is a treaty of 1968, which nearly every country in the world has signed. Under it, states without the bomb promised not to acquire it, and accepted inspectors in their nuclear plants. The five states that had it promised to share the peaceful uses of the atom, and to work in good faith towards getting rid of their weapons. They have kept the second promise poorly. The bargain has held all the same. Sweden, Brazil, Argentina, South Korea and others gave up programmes that they had begun. South Africa secretly built six bombs in the 1980s and then, uniquely, took them apart.
 
 The two great arsenals were brought down by a series of agreements, the most important of them verified by satellites and by inspectors who counted warheads on the other side's bases. In November 1985 the American president and the Soviet leader met for the first time, beside a lake in Switzerland. They could agree on little else. They did issue a joint statement containing one sentence that both countries have repeated ever since: a nuclear war cannot be won and must never be fought.
+
+![Ronald Reagan at a lectern on a stage between a Soviet flag and an American flag, with Mikhail Gorbachev seated behind, and rows of delegates in the foreground](images/geneva.jpg)
+*Ronald Reagan speaking in Geneva on 21 November 1985, with Mikhail Gorbachev seated on the stage, when the joint statement of the two leaders was announced. Photo: White House Photographic Office, public domain.*
 
 There is also a habit that no treaty records. In every war since 1945, including wars that nuclear powers failed to win, in Korea, Vietnam and Afghanistan, the weapons have gone unused. Each year that passes makes it harder to be the first to break that silence.
 
@@ -58,6 +70,9 @@ Reading the code was followed by the power to change it.
 Bacteria are attacked by viruses, as we are, and they have a defence. A bacterium that survives an attack keeps a short stretch of the virus's code as a kind of wanted poster. If the same virus returns, the cell makes a copy of the poster and attaches it to a protein that works like a pair of scissors. The protein drifts through the cell, checking every stretch of DNA that it meets against the poster, and where it finds a match it cuts.
 
 In 2012 two scientists, an American and a Frenchwoman, showed that this machine could be reprogrammed. Give the scissors a poster of one's own choosing, twenty letters long, and they will cut any DNA, in any living thing, at exactly that place. The cell can then be made to repair the cut with a new sequence. It was as if a book three billion letters long could be searched for one phrase and that phrase corrected. A graduate student can learn the method in a few weeks.
+
+![Two portrait photographs side by side: Emmanuelle Charpentier with dark curly hair, and Jennifer Doudna with shoulder-length fair hair](images/doudna.jpg)
+*Emmanuelle Charpentier and Jennifer Doudna, who showed in 2012 that a bacterium's defence could be reprogrammed, and who were awarded the Nobel Prize in Chemistry in 2020. Photos: Bianca Fioretti and Duncan Hull / The Royal Society, CC BY-SA 4.0.*
 
 The first medicine made in this way was approved in 2023. It treats an inherited disease of the blood that causes lifelong, agonising pain and early death, and which is commonest among people of African descent. Doctors remove the patient's blood-forming cells, edit one gene, and put them back. Most of the patients treated so far have been freed of the disease.
 
@@ -81,6 +96,9 @@ Smallpox killed about three in ten of those who caught it and left many of the r
 
 In 1958, at the height of the Cold War, the Soviet delegate to the World Health Organization proposed that the disease should be wiped out entirely. It was possible in principle because smallpox lives only in human beings. If every chain of infection were broken, the virus would have nowhere to go. The campaign began in earnest in 1967. Its director was an American, and much of the vaccine, more than a billion doses, came from the Soviet Union. The two governments, which were pointing missiles at each other, cooperated on this for thirteen years.
 
+![Three men in shirts under a wooden panel carved with the US Public Health Service seal, one holding up a magazine with the headline "smallpox is dead!"](images/directors.jpg)
+*Three former directors of the smallpox eradication programme at the Centers for Disease Control in 1980, with the news that the disease had been wiped out: from left, J. Donald Millar, William Foege and J. Michael Lane. Photo: Centers for Disease Control, public domain.*
+
 The method that won was found by accident. An American doctor working in Nigeria ran short of vaccine and could not immunise everyone. He sent his teams to find each case, and vaccinated only the people living around it, in a ring, so that the virus had nowhere to spread. It worked better than mass vaccination had. Teams then pursued the disease from village to village across India, Bangladesh and the Horn of Africa, through floods and civil wars, offering rewards for reports of a rash.
 
 In October 1977 a hospital cook in a port town in Somalia named Ali Maow Maalin came down with it. He had ridden for a few minutes in a car carrying two patients, to show the driver the way. A hundred and sixty-one people who had been near him were traced and vaccinated. Nobody caught it from him. He was the last person on Earth to be infected by smallpox in the ordinary way.
@@ -96,6 +114,9 @@ In 1928 an American chemist invented a family of gases for use in refrigerators.
 High above the Earth lies a thin layer of a form of oxygen called ozone, which absorbs the ultraviolet rays of the Sun that cause skin cancer and blindness and damage crops. In 1974 two chemists in California calculated that the refrigerator gases, on reaching that height, would be split by sunlight and release chlorine, and that a single atom of chlorine would destroy tens of thousands of molecules of ozone. The companies that made the gases, a business worth billions, said that it was a theory with no evidence.
 
 The evidence came from an unfashionable quarter. A British research station on the coast of Antarctica had been measuring the ozone overhead every spring since 1957, with an instrument that looked like a box on a tripod. In 1985 its scientists reported that the amount had fallen by more than a third. American satellites had been recording the same thing for years, and their computers had been set to flag such low readings as probable errors. When the data were examined, they showed a hole in the ozone layer the size of the United States.
+
+![A colour image of the Southern Hemisphere from above, with a large red and orange area of low ozone over Antarctica and a scale in Dobson units below](images/ozone.png)
+*The ozone hole over Antarctica on 21 September 2023, the day it reached its largest size that year. The red and orange show the lowest amounts of ozone. Image: NASA Earth Observatory, public domain.*
 
 Two years later, in Montreal, governments signed an agreement to phase the gases out. Rich countries went first and paid into a fund to help poor ones change over. The largest manufacturer, which had by then developed substitutes, dropped its opposition. Every country in the world eventually ratified it, the first treaty of which that can be said. Production of the gases has fallen by ninety-nine per cent. The hole has stopped growing and is slowly closing, and the layer is expected to be back to its former state over most of the world by about 2040, and over Antarctica by the 2060s. The treaty is estimated to be preventing two million cases of skin cancer a year.
 
