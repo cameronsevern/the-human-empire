@@ -14,6 +14,9 @@ His orders allowed him to use the weapon without asking Moscow if his boat was a
 
 The captain's temper cooled, and B-59 came up into the glare of American searchlights. The officers on the destroyers had no idea what she carried, and did not find out for forty years.
 
+![A grey submarine on the surface of a rough sea trailing white spray, with a helicopter hovering above the horizon behind it](images/b59.jpg)
+*The Soviet submarine B-59 forced to the surface by American naval forces near Cuba, 28 or 29 October 1962, with an American helicopter overhead. Photo: US Navy, public domain.*
+
 ## Thirty minutes
 
 The crisis had grown out of a machine that both sides had learned to build in the fifteen years since the war.
@@ -26,9 +29,15 @@ The Soviet leader, Nikita Khrushchev, boasted that his factories were turning ou
 
 Khrushchev knew it, and knew by 1961 that the Americans knew it. He also had to look at American missiles stationed just across the Black Sea in Turkey, which could reach Moscow in minutes.
 
+![A hand-coloured briefing slide showing a map of Turkey with the site of Cigli near Izmir marked, with typed lines about an agreement of 1959 and one squadron of 15 missiles, and security stamps](images/jupiter.jpg)
+*An American briefing slide on the deployment of Jupiter missiles in Turkey: one squadron of 15 missiles at Cigli, near Izmir, under an agreement of October 1959. Slide: US Army Missile Command, 1960s, public domain.*
+
 ## Bananas
 
 In 1950 the people of Guatemala, in Central America, elected a young army officer named Jacobo Árbenz as president. Most of the country's farmland belonged to a tiny number of owners, and the largest of them was an American banana company, which also owned the railways and the main port, and left most of its land unplanted. Árbenz passed a law taking over idle land, with compensation, and giving it to peasant families. The company had friends in Washington, who said that he was a communist. In 1954 the American intelligence service armed a few hundred exiles, flew bombing raids on the capital, and broadcast false reports of a great invading army. The Guatemalan generals lost their nerve and forced the president out. Generals ruled Guatemala for most of the next thirty years, and in the civil war that grew out of the coup some two hundred thousand people were killed, the great majority of them by the army.
+
+![Jacobo Árbenz in a dark military uniform with a presidential sash, smiling, in a crowd of officials and onlookers](images/arbenz.jpg)
+*Jacobo Árbenz, president of Guatemala, in 1951. Photo: Government of Guatemala, public domain.*
 
 A young Argentine doctor who was living in Guatemala that summer watched it happen. His name was Ernesto Guevara, and his friends called him Che. He drew two conclusions. The United States would not tolerate real reform anywhere in its neighbourhood, and a revolution that left the old army in place was finished.
 
@@ -40,9 +49,15 @@ Cuba lies a hundred and fifty kilometres from the coast of Florida, and since it
 
 In December 1956 Castro, Guevara and eighty others sailed from Mexico in a leaking motor yacht built for twelve. The army was waiting. About twenty survived to reach the mountains at the eastern end of the island. From there, over two years, they built a guerrilla army among the peasants, while Batista's forces, which nobody wished to die for, fell apart. On New Year's Day 1959 the dictator fled, and Castro entered Havana a week later, at thirty-two, as the most popular man in Latin America.
 
+![A group of bearded guerrillas in field caps and army jackets with rifles standing and crouching in thick forest, Fidel Castro standing in the middle](images/sierra.jpg)
+*Fidel Castro and his guerrillas in the Sierra Maestra, in the mountains at the eastern end of Cuba, in the late 1950s. Che Guevara stands second from left. Photographer unknown, public domain.*
+
 He had promised elections, and did not hold them. He had several hundred of Batista's policemen and soldiers shot after hasty trials, one of them held in a sports stadium before a crowd. He cut rents, opened the beaches to Black Cubans, sent students to teach the countryside to read, and broke up the great estates. When the American-owned oil refineries refused to process Soviet crude, he took them over, and then the rest of American property on the island. Washington stopped buying Cuban sugar and banned almost all trade. The Soviet Union bought the sugar. Each step pushed the two countries further apart, and whether Castro was a communist from the start or was driven into Moscow's arms is still argued.
 
 Kennedy inherited a plan to repeat what had worked in Guatemala. In April 1961 fourteen hundred Cuban exiles, trained by American intelligence, landed on a beach on the south coast called the Bay of Pigs. Castro, who had read the same lesson from Guatemala as Guevara, had replaced the old army with his own. The invaders were defeated in three days, and Kennedy was humiliated. His government went on trying to get rid of Castro by other means, including sabotage and plots to have him killed, in which gangsters were hired to slip poison pills into his food. The Cubans were sure that next time the Americans would come themselves.
+
+![A line of men in camouflage jackets and ordinary clothes, some barefoot and shirtless, standing on a dirt road, watched by a Cuban militiaman with a rifle](images/pigs.jpg)
+*Prisoners of Brigade 2506, the invaders captured at the Bay of Pigs, guarded by Cuban militiamen, April 1961. Photo: Miguel Viñas, public domain.*
 
 ## A hedgehog
 
@@ -53,6 +68,9 @@ It was to be done in secret and announced when the missiles were ready. Through 
 ## Photographs
 
 On 14 October an American spy plane flying more than twenty kilometres above western Cuba photographed a clearing in a palm forest. The film showed long canvas-covered trailers, launch stands and fuel trucks, laid out in a pattern that the analysts recognised from pictures of missile bases in the Soviet Union.
+
+![A black-and-white aerial photograph of a wooded hillside with white labels marking launcher equipment, eight missile trailers, tent areas and construction, under a caption reading MRBM Field Launch Site, San Cristobal No 1, 14 October 1962](images/site.gif)
+*The aerial photograph of the missile site at San Cristóbal, Cuba, taken on 14 October 1962 and labelled by American analysts: erector and launcher equipment, eight missile trailers and tent areas. Photo: US Department of Defense, public domain.*
 
 Kennedy was shown the photographs in his bedroom on the morning of the sixteenth. For six days he met in secret with about a dozen advisers. Nearly all of them began by favouring an air strike to destroy the missiles, followed by an invasion. The chief of the air force told the president that anything less would be almost as bad as the surrender to Hitler before the war.
 
@@ -66,6 +84,9 @@ On the evening of 22 October he told the country on television. He said that any
 ## Eyeball to eyeball
 
 On the morning of the twenty-fourth the quarantine took effect, with Soviet freighters a few hours from the line. In the room next to the president's office the advisers sat in silence. A little after ten, a note was handed in. The ships nearest the line had stopped in the water, and some were turning round. We're eyeball to eyeball, the secretary of state murmured to the man beside him, and I think the other fellow just blinked.
+
+![President Kennedy leaning over a table with his hand in his pocket, beside a tall man with glasses, in a room with the presidential seal on the wall and an American flag](images/excomm.jpg)
+*President Kennedy at a meeting of the Executive Committee of the National Security Council in the Cabinet Room, 29 October 1962. Photo: Cecil W. Stoughton, White House, public domain.*
 
 Khrushchev had been as frightened as anyone. He had miscalculated. He had thought that the young president would protest and accept it. The missiles already on the island were still there, however, and work on them was going on day and night.
 
@@ -101,8 +122,14 @@ The men who had advised an invasion did not learn until 1992 what it would have 
 
 Both leaders had been sobered. During the crisis their messages had taken up to twelve hours to encode, deliver and translate. In 1963 a direct teleprinter line was installed between Washington and Moscow. That summer the two countries and Britain signed a treaty banning nuclear tests in the air, in space and under the sea, which put a stop to most of the fallout that had been turning up in children's milk teeth all over the world.
 
+![President Kennedy seated at a desk signing a document, with senators and officials standing in a crowd behind him, in a room with dark red curtains](images/ban.jpg)
+*President Kennedy signing the nuclear test ban treaty at the White House, 7 October 1963, with members of Congress and officials standing round him. Photo: Robert Knudsen, White House, public domain.*
+
 Kennedy was shot dead in November 1963. Khrushchev was removed by his colleagues a year later, and the list of his offences included the reckless adventure in Cuba. His successors resolved never again to bargain from weakness. Over the next twenty years they built missiles until the Soviet Union had as many as the United States, and then more. At the peak, in the 1980s, the two countries held more than sixty thousand nuclear warheads.
 
 Cuba was not invaded. Castro governed it for almost fifty years, through ten American presidents, and the ban on trade that was meant to bring him down is still in force.
 
 Arkhipov went home to no welcome. The submarine commanders had been ordered to stay hidden, and three of the four had been forced to the surface. An admiral told them that it would have been better if they had gone down with their boats. He served on, rose to vice-admiral, and said little about that afternoon. He died in 1998. He had been heavily irradiated in a reactor accident on another submarine the year before the crisis. What he had done became widely known four years after his death, when one of his fellow officers described it to a conference of old men from both sides.
+
+![Head-and-shoulders portrait of a young naval officer with dark wavy hair, in a dark uniform with shoulder boards and medals](images/arkhipov.jpg)
+*Vasili Arkhipov as a young Soviet naval officer, date of the photograph not recorded. Photo: courtesy of Olga Arkhipova, CC BY-SA 4.0.*
