@@ -1,0 +1,4 @@
+Flow pass. Body prose (captions and headings excluded): 2,949 words before, 3,598 after.
+Changes: setup and connecting sentences; the planters' search for workers, the reasons Europeans stayed on the coast, the goods and the dealings on the coast, and the rulers' trap walked through step by step; long paragraphs split; no facts, captions or headings changed.
+check2.md: every flag on an added sentence applied (Afonso "did not try to end it", cannon "not inland", "each purchase meant another passage", signposts, redundant summaries, over-broad additions).
+Left unapplied, all in original sentences: 'baptised thirty-five years earlier, when the first Portuguese ships arrived' (baptism was 1491, first contact 1482-83; needs a rewrite of the sentence); 'clients' and 'customs' not glossed (would change original wording).
