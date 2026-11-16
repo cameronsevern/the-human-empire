@@ -32,7 +32,7 @@ In November 1923, at the height of the great inflation, he tried to seize power.
 
 It ought to have finished him. He was tried for treason, and the judges, who shared many of his opinions, let him turn the dock into a platform and gave him the minimum sentence of five years. He served nine months in a sunny room in a fortress, receiving visitors and dictating a book.
 
-The book is long and badly written, and it sets out exactly what he meant to do. Germany must tear up the peace treaty and rearm. It must conquer "living space" in the east, in Russia, for German farmers. The Jews were a foreign race, the source of both capitalism and communism, and Germany must be rid of them. He had also learned a practical lesson. The state could not be overthrown from outside. He would take it over by its own rules, he told a visitor, and hold his nose while he entered parliament.
+The book is long and badly written, and it sets out exactly what he meant to do. Germany must tear up the peace treaty and rearm. It must conquer "living space" in the east, in Russia, for German farmers. The Jews were a foreign race, the source of both capitalism and communism, and Germany must be rid of them. He had also learned a practical lesson. The state could not be overthrown from outside. He would take it over by its own rules. He said so on oath in a courtroom in 1930: his party would come to power by legal means, and then heads would roll.
 
 ## Twenty governments
 
@@ -42,17 +42,17 @@ It had the misfortune to be born of defeat. Its first act was to sign the armist
 
 The people who actually ran the country had served the emperor and thought the republic a temporary embarrassment. The army held itself aloof. The judges gave communists who took up arms long sentences and nationalists who did the same short ones. The constitution also contained an emergency clause, under which the president could rule by decree if public order was threatened. It was meant as a safeguard.
 
-For five years after the inflation, things went well. American loans poured in, industry revived, Berlin became the liveliest city in Europe, and the extremes withered. In the election of 1928 the Nazi party won two and a half per cent of the vote. A civil servant who wrote a report on it that year concluded that it was a splinter group with no noticeable influence.
+For five years after the inflation, things went well. American loans poured in, industry revived, Berlin became the liveliest city in Europe, and the extremes withered. In the election of 1928 the Nazi party won under three per cent of the vote, and looked like one more splinter group on the way out.
 
 ## Work and bread
 
-Then the American loans stopped, and the German economy fell off a cliff. In the summer of 1929 about a million and a quarter Germans were unemployed. By the start of 1932 there were six million, nearly a third of the workforce, and millions more on short time. The government, terrified of another inflation, cut wages and benefits to balance its budget. Parliament would not pass such measures, so the chancellor governed by the president's emergency decrees. From 1930 onwards Germany was a democracy in little more than name.
+Then the American loans stopped, and the German economy fell off a cliff. In the summer of 1929 about a million and a third Germans were unemployed. By the start of 1932 there were six million, nearly a third of the workforce, and millions more on short time. The government, terrified of another inflation, cut wages and benefits to balance its budget. Parliament would not pass such measures, so the chancellor governed by the president's emergency decrees. From 1930 onwards Germany was a democracy in little more than name.
 
 The Nazi vote rose with the unemployment figures. In September 1930 the party won eighteen per cent and became the second largest in parliament. In July 1932 it won thirty-seven per cent and became the largest.
 
 The unemployed factory workers mostly did not vote for it, since they went to the Communists. Catholics largely stayed with their own party. Hitler's voters were Protestants from small towns and the countryside, shopkeepers, clerks, farmers and pensioners, people who had some standing and were terrified of losing it, and who feared the Communists even more than they resented the bankers. To them he promised everything at once: work and bread, an end to the squabbling of parties, the punishment of the "November criminals" who had signed the armistice, and a Germany that the world would have to respect again. He did not, in those years, say very much in public about the Jews.
 
-He also campaigned as nobody had before. In 1932 he hired an aeroplane and spoke in as many as five cities in a day, descending from the clouds to stadiums where the crowd had been kept waiting for hours by bands and searchlights. In the streets his brownshirts, four hundred thousand strong, fought the Communists with knuckledusters and revolvers. In the six weeks before the July election, about a hundred people were killed in political brawls in the largest German state alone.
+He also campaigned as nobody had before. In 1932 he hired an aeroplane and spoke in as many as five cities in a day, descending from the clouds to stadiums where the crowd had been kept waiting for hours by bands and searchlights. In the streets his brownshirts, four hundred thousand strong, fought the Communists with knuckledusters and revolvers. In the six weeks before the July election, about a hundred people were killed in political brawls across Germany.
 
 He never won a majority, and that summer was the peak. At a second election in November 1932 the Nazis lost two million votes. The party was nearly bankrupt, and some of its leaders thought that the chance had passed.
 
@@ -68,7 +68,7 @@ The president was persuaded, and on 30 January 1933 Hitler took the oath to upho
 
 ## For the protection of people and state
 
-He called an election for 5 March, and now he had the police. One of the three Nazi ministers took charge of the police of Prussia, the state that covered two thirds of Germany, and enrolled fifty thousand brownshirts as auxiliary constables.
+He called an election for 5 March, and now he had the police. One of the three Nazi ministers took charge of the police of Prussia, the state that covered three fifths of Germany, and enrolled fifty thousand brownshirts as auxiliary constables.
 
 On the night of 27 February the parliament building in Berlin was set alight and gutted. A young Dutch communist was arrested inside it, stripped to the waist and holding matches. Whether he acted alone has been argued over ever since. It did not matter to what followed. Hitler declared that it was the signal for a communist uprising. The next morning he took a decree to the president, who signed it.
 
@@ -88,11 +88,11 @@ Force was only half of it. The other half was that a great many Germans, probabl
 
 They had work. The new government spent on a scale that its predecessors had thought sinful, on roads and public buildings and then on tanks and aircraft, and in five years the six million unemployed had disappeared. They also had their pride back. In 1936 Hitler sent troops into the Rhineland, the border zone that the peace treaty had forbidden Germany to garrison, and the French did nothing. In March 1938 he annexed his native Austria, to cheering crowds. That autumn Britain and France agreed, at a conference in Munich, that he could take the German-speaking fringe of Czechoslovakia, and the British prime minister flew home to announce peace for our time. Each success had been won without a shot. A man who had done all that could be forgiven a good deal.
 
-They were told nothing to disturb the picture. One of the first acts of the regime was to commission a cheap radio set, the "people's receiver", which cost about two weeks' wages for a skilled man, half the price of an ordinary set. In six years the number of German homes with a radio trebled. Every newspaper, film and schoolbook passed through a ministry of propaganda. The party's annual rally was filmed by a gifted young director, with thirty cameras, as a pageant of banners, searchlights and a hundred thousand men moving as one.
+They were told nothing to disturb the picture. One of the first acts of the regime was to commission a cheap radio set, the "people's receiver", which cost about two weeks' wages for a skilled man, a fraction of the price of an ordinary set. In eight years the share of German homes with a radio rose from one in four to two in three. Every newspaper, film and schoolbook passed through a ministry of propaganda. The party's annual rally was filmed by a gifted young director, with a crew of more than a hundred and fifty, as a pageant of banners, searchlights and a hundred thousand men moving as one.
 
-Much of what the radio taught was old poison. The most influential forgery of modern times, a pamphlet purporting to be the minutes of a secret meeting of Jewish leaders planning to take over the world, had first been printed in Russia in 1903. A London newspaper proved it a fake in 1921, by printing it beside the French political satire from which whole pages had been copied. It was set as a text in German schools all the same.
+Much of what the radio taught was old poison. The most influential forgery of modern times, a pamphlet purporting to be the minutes of a secret meeting of Jewish leaders planning to take over the world, had first been printed in Russia in 1903. A London newspaper proved it a fake in 1921, by printing it beside the French political satire from which whole pages had been copied. Hitler cited it in his book all the same, and argued that the outcry against it proved that it was true.
 
-The secret police, which everyone believed to be everywhere, was in fact small. It did not need to be large. Most of its cases began with a letter or a visit from an ordinary citizen, reporting a neighbour who had told a joke or a colleague who listened to London.
+The secret police, which everyone believed to be everywhere, was in fact small. It did not need to be large. A great many of its cases began with a letter or a visit from an ordinary citizen, reporting a neighbour who had told a joke or a colleague who listened to London.
 
 ## Grandparents
 
@@ -100,7 +100,7 @@ For the Jews of Germany there was no contentment to be had. There were about hal
 
 In 1935 a pair of laws announced at the party rally stripped them of their citizenship and forbade them to marry other Germans. The laws defined a Jew by ancestry. A person with three Jewish grandparents was a Jew, whatever church he attended, and officials were supplied with charts of black and white circles to work out the doubtful cases. Over the next three years Jews were pushed out of one profession after another, and their businesses were forced into sale for a fraction of their worth.
 
-On the night of 9 November 1938, on orders from the top, the brownshirts went out across Germany. They set fire to hundreds of synagogues while the fire brigades stood by to protect the buildings next door. They smashed the windows of seven and a half thousand shops, so that the streets were covered in broken glass, and beat their owners. About a hundred people were killed, and thirty thousand Jewish men were sent to the camps. The government then fined the Jewish community a billion marks for the damage.
+On the night of 9 November 1938, on orders from the top, the brownshirts went out across Germany. They set fire to more than a thousand synagogues while the fire brigades stood by to protect the buildings next door. They smashed the windows of seven and a half thousand shops, so that the streets were covered in broken glass, and beat their owners. About a hundred people were killed, and thirty thousand Jewish men were arrested, most of whom were sent to the camps. The government then fined the Jewish community a billion marks for the damage.
 
 By then every Jew in Germany who could get out wanted to. The difficulty was finding a country that would let them in. That July, delegates of thirty-two nations had met at a resort on the French shore of Lake Geneva to discuss the refugees. One after another they expressed their sympathy and explained that their own countries, regrettably, could not raise the number they admitted. Only the Dominican Republic offered to accept a large number.
 
