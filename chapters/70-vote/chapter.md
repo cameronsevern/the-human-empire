@@ -4,6 +4,9 @@
 
 The first country to give all its women the vote was New Zealand, in 1893. Australia, Finland and Norway followed, and most of Europe and North America between 1917 and 1920. France waited until 1944, and Switzerland until 1971. In the same decades, married women were winning the right to own property, to keep their own wages, and to be treated by the law as persons at all.
 
+![World map with Europe enlarged below, countries shaded in five bands by when women won the national vote: before 1915 (New Zealand 1893, Australia 1902, Finland 1906, Norway 1913), 1915 to 1929 (Russia 1917, Britain, Germany, Poland and Canada 1918, United States 1920), 1930 to 1949 (Brazil, Spain, Turkey, France 1944, Italy and Japan 1945, China 1949), 1950 to 1969 (India 1950, Mexico 1953) and 1970 and later (Switzerland 1971), with much of Africa and Asia left unshaded](images/map_vote.png)
+*The decade in which women won the vote in national elections, country by country, with the year for some. Countries are drawn with their modern borders. Those left unshaded are places where the date is disputed or depends on the definition, for instance where the vote came first to only some women. Map: drawn for this book; coastlines and borders from Natural Earth, public domain.*
+
 In July 1893 a member of the New Zealand parliament had an enormous roll of paper carried into the chamber in Wellington. It was a petition, made of more than five hundred sheets glued end to end and wound onto a section of broom handle. He had it unrolled down the central aisle of the house, past the benches on either side, until it hit the far wall with a thud.
 
 It was two hundred and seventy metres long. With a dozen smaller petitions handed in beside it, it carried the signatures of nearly thirty-two thousand women, about a quarter of all the adult women of European descent in the colony. It asked that they be allowed to vote for the men who made their laws.

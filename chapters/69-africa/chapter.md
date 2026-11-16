@@ -15,6 +15,9 @@ The conference sat for three months. It did not carve up Africa, as is sometimes
 
 When the delegates met, Europeans ruled about a tenth of Africa. Thirty years later they ruled all of it except Ethiopia and Liberia, a small republic on the west coast founded by freed American slaves.
 
+![Two maps of Africa side by side. In 1870 only small coastal patches are coloured: French Algeria and Senegal, the British Cape Colony and Natal and a few West African posts, and Portuguese stretches of the Angola and Mozambique coasts, with Suez and Kimberley marked. In 1914 almost the whole continent is coloured British, French, German, Belgian, Portuguese, Italian or Spanish, with only Ethiopia and Liberia left independent, and Omdurman, Adwa and Isandlwana marked](images/map_africa.png)
+*Africa in 1870 and in 1914, coloured by the European power that ruled each part. The holdings of 1870 are drawn roughly, and those of 1914 approximately, from the borders of the countries that grew out of them; Egypt, occupied by Britain from 1882, is shown as British. Map: drawn for this book; coastlines and rivers from Natural Earth, public domain.*
+
 ## The barrier
 
 The old map explains what a change this was. In 1870 the European presence in Africa was a scatter of footholds on the edge. The French held the coast of Algeria and some forts in Senegal. The British had a colony at the southern tip and a few trading posts in the west. The Portuguese clung to harbours that they had held since the 1500s. The interior, a land mass three times the size of Europe, belonged to African kingdoms, empires and village federations, most of which no European had seen.
