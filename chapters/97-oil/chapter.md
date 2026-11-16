@@ -6,13 +6,22 @@ The world fights over oil because in the twentieth century it rebuilt its whole 
 
 On Sunday, 4 November 1973, the motorways of the Netherlands were empty. The government had forbidden all private driving for the day. Families walked down the middle of six-lane highways. Children roller-skated on them, and people rode out on horses and picnicked on the central strip. The next Sunday it was the same, and the Sunday after that, and Belgium, Switzerland and West Germany did likewise.
 
+![Black-and-white photograph from a bridge of an empty multi-lane motorway, with a group of about fifteen young people sitting on a blanket in the middle of the road, one playing a flute, and a single car far ahead](images/autoloos.jpg)
+*People picnicking on an empty motorway in the Netherlands on the first car-free Sunday, 4 November 1973. Photo: Rob Mieremet, Nationaal Archief, CC0.*
+
 Across the Atlantic, Americans were queuing for an hour or more to buy petrol, where they could find it. Filling stations hung out flags: green if they had fuel, red if they had none. Drivers whose number plates ended in an odd figure could buy on odd days of the month, and the rest on even days. Fights broke out in the queues. Within weeks the fastest roads in the country had a speed limit of fifty-five miles an hour.
+
+![Colour photograph of a Texaco petrol station on a wet, dark afternoon, with a green flag hanging from a pole at the front, a signboard reading Check your gauge, fill up today, and an attendant serving a car](images/gasflags.jpg)
+*A petrol station in Portland, Oregon, January 1974. The green flag meant that petrol was on sale to everyone; yellow meant commercial vehicles only, and red meant none for anyone. Photo: David Falconer, US National Archives, public domain.*
 
 Three weeks earlier, the oil ministers of the Arab countries had met in a hotel in Kuwait and decided to reduce the amount of oil they pumped by a twentieth each month. Within days they had also resolved to sell none at all to the United States and the Netherlands. They were punishing the friends of Israel in a war that was then being fought. By Christmas the price of a barrel of oil was four times what it had been in the summer.
 
 ## Rock oil
 
 Oil had been a curiosity for most of history, skimmed from pools where it seeped out of the ground and used to caulk boats and treat sores. In 1859 a former railway conductor drilling in a valley in Pennsylvania struck it twenty metres down, and it began to be sold in quantity, for lamps. Within twenty years one American company, built by a quiet and ruthless bookkeeper named Rockefeller, refined nine tenths of the country's supply. The part of the crude that was too volatile for lamps, a thin liquid called gasoline, was mostly poured away.
+
+![A small wooden building among tall pine trees with a tall tapering wooden derrick rising from one end, a sign on the derrick reading Drake](images/drake.jpg)
+*A replica of the wooden derrick and engine house of Edwin Drake's well of 1859, at the Drake Well Museum in Titusville, Pennsylvania, photographed in 2006. Photo: Zamoose, CC BY-SA 2.5.*
 
 Then the electric light arrived and began to kill the market for lamp oil. The industry was saved by the engine that burns its fuel inside the cylinder. A vehicle has to carry its fuel with it, and no other fuel packs so much energy into so small and light a tank. That engine ran best on the liquid that the refiners had been throwing in the river.
 
@@ -21,6 +30,9 @@ Then the electric light arrived and began to kill the market for lamp oil. The i
 The early motor car was a rich man's toy, built one at a time by craftsmen. In 1908 a farmer's son from Michigan, Henry Ford, brought out a plain, tough car meant for farmers like his father. It cost eight hundred and fifty dollars, which was more than a year's wages for a worker.
 
 His real invention came five years later. Until then a team of men had built each car where it stood, fetching the parts. Ford had the car dragged past the men on a chain. Each worker stayed in one spot and performed a single task, tightening the same two nuts or fitting the same wheel, as the frames went by. The time needed to assemble a car fell from twelve and a half hours to an hour and a half. The work was so deadening that men walked out after a few weeks, and so in 1914 Ford doubled the wage to five dollars a day. He reasoned that men paid that well would stay, and would also be able to buy what they made.
+
+![Black-and-white photograph of the outside of a large brick and glass factory, where workers on a raised wooden platform lower a car body onto a chassis on wheels, with more chassis waiting along the line](images/modelt.jpg)
+*The Ford assembly line in 1913, with a car body being lowered onto a Model T chassis. Photo: Ford Motor Company, public domain.*
 
 By the 1920s his car cost under three hundred dollars, and he had sold fifteen million of them. By 1929 there was a car for every five Americans. The country rebuilt itself to fit. Families moved out of the cities to houses with garages, on streets with no shops, from which every errand required a drive. After 1956 the government laid forty thousand miles of motorway across the continent.
 
@@ -40,6 +52,9 @@ Across the Gulf, the Arabian peninsula was one of the poorest places on Earth, a
 
 In 1933 he sold a Californian oil company the right to explore the eastern part of his kingdom, for a down payment of thirty-five thousand British gold coins. They were shipped out in seven boxes and counted one by one on a table in front of his finance minister. The king is said to have remarked afterwards that he would have been happier if they had been looking for water.
 
+![Black-and-white photograph of two steel drilling derricks standing on a bare, stony desert plain with low hills behind and a few small huts](images/dammam7.jpg)
+*Drilling rigs at Dammam, Saudi Arabia, in 1938, the year the seventh well there struck oil. Photo: unknown, public domain.*
+
 The Americans drilled six dry or disappointing wells. The seventh, in March 1938, struck oil in enormous quantity, and it flowed for the next forty-four years. Ten years later the same company found, a little way inland, a single field two hundred and eighty kilometres long that turned out to be the largest pool of oil on the planet. Saudi Arabia held a quarter of all the oil then known in the world.
 
 ![Map of the Persian Gulf and the states around it: Iran, Iraq, Kuwait, Saudi Arabia, Bahrain, Qatar, the United Arab Emirates and Oman. Brown areas mark oilfields: Kirkuk in northern Iraq, Rumaila near the head of the Gulf, Burgan in Kuwait, and Ghawar, a long narrow field inland in eastern Saudi Arabia, marked as the largest. A star marks Masjed Soleyman in the mountains of south-western Iran, where oil was first found in 1908. Abadan, with its refinery, is at the head of the Gulf, Dhahran, where oil was found in 1938, on the Saudi coast, and Baghdad, where OPEC was founded in 1960, and Tehran are marked. The Strait of Hormuz is at the mouth of the Gulf](images/map_gulf.png)
@@ -47,9 +62,15 @@ The Americans drilled six dry or disappointing wells. The seventh, in March 1938
 
 In February 1945, on his way home from meeting Stalin and Churchill, the American president received Ibn Saud aboard a warship anchored in the Suez Canal. The king had come up the Red Sea in an American destroyer with his household, sleeping in a tent on the deck, with a flock of sheep penned at the stern for his table. The two men got on well. No treaty was signed. Out of that friendship grew the arrangement that held for the rest of the century. American companies would have the oil, and the United States would protect the kingdom and its ruling family.
 
+![Colour photograph of King Ibn Saud in a red-checked headcloth and black cloak, smiling, seated beside President Roosevelt in a pale suit on the deck of a warship, with a kneeling officer between them and naval officers standing behind](images/quincy.jpg)
+*President Franklin D. Roosevelt and King Ibn Saud of Saudi Arabia talking on board the American warship USS Quincy in the Great Bitter Lake, Egypt, 14 February 1945. Photo: US Army Signal Corps, public domain.*
+
 ## Sisters
 
 By the 1950s the oil trade outside the communist world was in the hands of seven very large companies, five American, one British and one Anglo-Dutch. Between them they owned the concessions, the pipelines, the tankers, the refineries and the petrol stations. They decided how much each country should pump, so as to keep the market steady, and they set the price on which the producing governments' share was calculated.
+
+![Colour photograph looking along the deck of an oil tanker towards the bow, with rows of cargo pipes and valves, a tall mast, and open sea behind](images/tanker.png)
+*Looking along the deck of an oil tanker at sea in 1972, with the cargo pipes in the foreground. Photo: Roger Vreeland, CC0.*
 
 That share had improved since 1901. The government of Venezuela, then the largest exporter, had forced the companies to split the profits half and half in 1948, and the Arab states had won the same within a few years. It was still the companies that kept the books, and the governments had no way to check them. The owners of the oil could not say how fast it should be pumped or what it should sell for.
 
@@ -61,7 +82,13 @@ By 1950 the British company in Iran, as Persia was now called, ran the largest r
 
 In 1951 the Iranian parliament voted to take the oil industry into national ownership, and chose as prime minister the man who had led the campaign. Mohammad Mossadegh was a frail aristocrat of nearly seventy, a lawyer educated in Switzerland, who received visitors in bed in his pyjamas and was given to weeping in public. Iranians adored him. Britain withdrew its technicians, and its navy turned back any tanker that tried to load Iranian oil. The other great companies refused to buy any. For two years Iran sold almost nothing.
 
+![Black-and-white photograph of an elderly bald man in a dark pinstriped suit and spotted tie, seated with his hands clasped, looking at the camera](images/mosaddegh.jpg)
+*Mohammad Mossadegh, prime minister of Iran, in a press photograph of 1951. Photo: International News Photos, public domain.*
+
 Britain could not shift him and asked the Americans for help, with the argument that chaos in Iran would open the door to the communists. In the summer of 1953 an officer of American intelligence, a grandson of a former president, arrived in Tehran with suitcases of banknotes. He bribed newspaper editors, preachers and army officers, and hired crowds from the bazaar and the gymnasiums to riot. After four days of street fighting, in which about three hundred people were killed, Mossadegh was arrested. The shah, who had fled to Rome, flew home to rule as an absolute monarch with American support. The oil went back to a group of Western companies, in which the Americans now held two fifths.
+
+![Black-and-white photograph of a dense crowd in a Tehran street holding banners with Persian writing, flags, and framed portraits above their heads](images/tehran1953.jpg)
+*A crowd with banners and portraits at a rally in Tehran, 16 August 1953, in the days of the coup that overthrew Mossadegh. Photo: William Arthur Cram, public domain.*
 
 The governments of the other producing countries drew the lesson. A Gulf state acting alone could not stand against the companies and the powers behind them.
 
@@ -109,5 +136,8 @@ In 1979 a revolution in Iran overthrew the shah and took most of that country's 
 A month later the American president told Congress that any attempt by an outside force to gain control of the Persian Gulf region would be regarded as an assault on the vital interests of the United States, and would be repelled by any means necessary, including military force. The United States had taken over the role that Britain had played there since Churchill's day.
 
 The pledge was called in eleven years later, against a local power. In August 1990 the army of Iraq overran its small neighbour Kuwait in a single day. Its ruler would then have controlled a fifth of the world's known oil, and his tanks stood on the Saudi border. The United States assembled a coalition of thirty-five countries and more than half a million soldiers, and in five weeks of bombing and four days of fighting on the ground drove the Iraqis out. As they retreated they set fire to more than six hundred oil wells. The smoke turned day into night across the northern Gulf, and the last fire was not put out for eight months.
+
+![Aerial colour photograph of a flat desert with several burning oil wells sending up black smoke that fills the sky, and a grey jet fighter flying past in the middle distance](images/kuwait.jpg)
+*Burning oil wells in Kuwait with an American F-14 jet flying past, March 1991. Photo: Lt. Parsons, US Navy, public domain.*
 
 The Saudi oil minister through most of these events was a suave, Harvard-trained lawyer who had carried out the embargo of 1973. He spent his later years warning his fellow producers not to push the price too high, in case the customers learned to do without. The Stone Age, he liked to say, did not end because the world ran out of stone, and the oil age will end long before the world runs out of oil.
