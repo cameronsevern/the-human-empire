@@ -178,7 +178,7 @@ def tool_page(profile):
 # every chapter's span, so the timeline can show the whole book faintly behind the current one
 spans = []
 part_a, part_b = 0, 10**9
-for f in sorted(glob.glob(os.path.join(ROOT, 'chapters', '[0-9][0-9]-*', 'chapter.md'))):
+for f in sorted(glob.glob(os.path.join(ROOT, 'chapters', '[0-9]*-*', 'chapter.md'))):
     n = int(os.path.basename(os.path.dirname(f))[:2])
     lines = open(f).read().split('\n')
     if len(lines) > 2 and lines[2].startswith('*'):
