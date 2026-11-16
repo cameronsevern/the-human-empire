@@ -1,0 +1,4 @@
+Flow pass, chapter 61. Prose words (captions excluded): 5,981 before, about 6,050 after. Already over 4,300, so local fixes only.
+Changes: connecting sentences before the engine walk-through, the canal passage and the gin's effect on American output; the weaver, gin and geography paragraphs split where they carried several ideas; the cotton-ban and mule sentences given their link to what precedes them.
+check2 flags applied: removed "Only then did the machine arrive in earnest" (misplaced power-loom timing), narrowed "Indian cloth shut out" to the printed cloth, cut two signpost/padding sentences and one repetition.
+Left unapplied: caption says Griff, Worcestershire; Griff is in Warwickshire (captions were not to be touched; needs the author's fix). Existing structure flags (the five numbered answers, the "four people on one thread" framing, no explanation of weaving) predate this pass and would need rewriting or new facts.
