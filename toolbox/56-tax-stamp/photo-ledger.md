@@ -1,0 +1,3 @@
+| File | What it shows | Commons page | Author | Licence |
+|---|---|---|---|---|
+| toolbox/56-tax-stamp/photo-place-to-affix.jpg | Woodcut skull and crossbones with the words "This is the Place to affix the STAMP", from the Pennsylvania Journal and Weekly Advertiser, Philadelphia, 24 October 1765 (Library of Congress, cph.3a52298). No photo of a surviving 1765 embossed stamp is on Commons; not a file used in chapter 56 (which shows the one-penny proof sheet). Original size 1536x1405 | https://commons.wikimedia.org/wiki/File:This_is_the_place_to_affix_the_stamp_LCCN2004672606.jpg | William Bradford, publisher | Public domain |

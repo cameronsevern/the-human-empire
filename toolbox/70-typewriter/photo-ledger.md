@@ -1,0 +1,3 @@
+| File | What it shows | Commons page | Author | Licence |
+|---|---|---|---|---|
+| toolbox/70-typewriter/photo-remington-no1.jpg | Remington No. 1 typewriter (Sholes and Glidden model), made by E. Remington and Sons, Ilion, New York, 1873 to 1878, black case painted with flowers and gold scrolls, in the Wisconsin Historical Museum, Madison. Not a file used in chapter 70. Resized to 1312x1600 | https://commons.wikimedia.org/wiki/File:Remington_No._1_typewriter,_made_by_Remington_%26_Songs,_Ilion,_NY,_1873-1878,_the_first_Sholes_%26_Glidden_model_typewriter_made_by_Remington_-_Wisconsin_Historical_Museum_-_DSC02802.JPG | Daderot | CC0 |

@@ -1,0 +1,151 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" font-family="Georgia, 'Noto Serif', serif">
+<defs>
+<!-- paper: fine grain plus slow blotches -->
+<filter id="paper" x="0" y="0" width="100%" height="100%">
+<feTurbulence type="fractalNoise" baseFrequency="0.8" numOctaves="3" seed="3" result="grain"/>
+<feColorMatrix in="grain" type="matrix" values="0 0 0 0 0.45  0 0 0 0 0.36  0 0 0 0 0.24  0 0 0 0.9 -0.42" result="g2"/>
+<feTurbulence type="fractalNoise" baseFrequency="0.006" numOctaves="2" seed="8" result="blot"/>
+<feColorMatrix in="blot" type="matrix" values="0 0 0 0 0.55  0 0 0 0 0.42  0 0 0 0 0.25  0 0 0 0.55 -0.2" result="b2"/>
+<feMerge><feMergeNode in="SourceGraphic"/><feMergeNode in="b2"/><feMergeNode in="g2"/></feMerge>
+</filter>
+<!-- ink: a slight wobble in every line, a soft bleed of colour under it, and mottling inside the washes -->
+<filter id="ink" x="-5%" y="-5%" width="110%" height="110%">
+<feTurbulence type="fractalNoise" baseFrequency="0.018" numOctaves="2" seed="5" result="warp"/>
+<feDisplacementMap in="SourceGraphic" in2="warp" scale="5" xChannelSelector="R" yChannelSelector="G" result="drawn"/>
+<feGaussianBlur in="drawn" stdDeviation="7" result="bleed0"/>
+<feComponentTransfer in="bleed0" result="bleed"><feFuncA type="linear" slope="0.38"/></feComponentTransfer>
+<feTurbulence type="fractalNoise" baseFrequency="0.011" numOctaves="2" seed="11" result="wash"/>
+<feColorMatrix in="wash" type="matrix" values="0 0 0 0 0.35  0 0 0 0 0.25  0 0 0 0 0.15  0 0 0 0.75 -0.3" result="w2"/>
+<feComposite in="w2" in2="drawn" operator="in" result="mottle"/>
+<feMorphology in="drawn" operator="erode" radius="2.5" result="inner"/>
+<feComposite in="drawn" in2="inner" operator="out" result="rim0"/>
+<feColorMatrix in="rim0" type="matrix" values="0 0 0 0 0.3  0 0 0 0 0.22  0 0 0 0 0.15  0 0 0 0.16 0" result="rim"/>
+<feOffset in="drawn" dx="5" dy="7" result="off"/>
+<feGaussianBlur in="off" stdDeviation="5" result="sh0"/>
+<feColorMatrix in="sh0" type="matrix" values="0 0 0 0 0.25  0 0 0 0 0.2  0 0 0 0 0.15  0 0 0 0.22 0" result="shadow"/>
+<feMerge><feMergeNode in="shadow"/><feMergeNode in="bleed"/><feMergeNode in="drawn"/><feMergeNode in="mottle"/><feMergeNode in="rim"/></feMerge>
+</filter>
+<radialGradient id="vig" cx="50%" cy="50%" r="75%"><stop offset="60%" stop-color="#6b4a2a" stop-opacity="0"/><stop offset="100%" stop-color="#6b4a2a" stop-opacity="0.22"/></radialGradient>
+</defs>
+<rect width="1200" height="760" fill="#faf6ee" filter="url(#paper)"/>
+<rect width="1200" height="760" fill="url(#vig)"/>
+<rect x="14" y="14" width="1172" height="732" fill="none" stroke="#2f2a26" stroke-width="2"/>
+<rect x="20" y="20" width="1160" height="720" fill="none" stroke="#2f2a26" stroke-width="0.7"/>
+<text x="44" y="64" font-size="30" font-weight="bold" fill="#2f2a26" letter-spacing="3">THE TAX STAMP</text>
+<line x1="44" y1="76" x2="104" y2="76" stroke="#b5523b" stroke-width="3"/>
+<text x="44" y="104" font-size="20" font-style="italic" fill="#8a8178">London, for the American colonies, 1765</text>
+<g filter="url(#ink)">
+<path d="M 50.0,190.0 L 290.0,190.0 L 290.0,700.0 L 50.0,700.0 Z" fill="#f4ecd8" stroke="#2f2a26" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" />
+<circle cx="105" cy="245" r="32" fill="#f4ecd8" stroke="#b3a487" stroke-width="3"/>
+<path d="M 80,225 A 32 32 0 0 1 125,220" fill="none" stroke="#fffaf0" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<circle cx="105" cy="245" r="12" fill="none" stroke="#b3a487" stroke-width="2"/>
+<path d="M 105,310 q 12,-6 24,0 t 24,0 t 24,0 t 24,0 t 24,0 t 24,0 t 24,0" fill="none" stroke="#7d6f60" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 75,331 q 12,-6 24,0 t 24,0 t 24,0 t 24,0 t 24,0 t 24,0 t 24,0 t 24,0" fill="none" stroke="#7d6f60" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 75,352 q 12,-6 24,0 t 24,0 t 24,0 t 24,0 t 24,0 t 24,0 t 24,0 t 24,0" fill="none" stroke="#7d6f60" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 75,373 q 12,-6 24,0 t 24,0 t 24,0 t 24,0 t 24,0 t 24,0 t 24,0 t 24,0" fill="none" stroke="#7d6f60" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 75,394 q 12,-6 24,0 t 24,0 t 24,0 t 24,0 t 24,0 t 24,0 t 24,0 t 24,0" fill="none" stroke="#7d6f60" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 75,415 q 12,-6 24,0 t 24,0 t 24,0 t 24,0 t 24,0 t 24,0 t 24,0 t 24,0" fill="none" stroke="#7d6f60" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 75,436 q 12,-6 24,0 t 24,0 t 24,0 t 24,0 t 24,0 t 24,0 t 24,0 t 24,0" fill="none" stroke="#7d6f60" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 75,457 q 12,-6 24,0 t 24,0 t 24,0 t 24,0 t 24,0 t 24,0 t 24,0 t 24,0" fill="none" stroke="#7d6f60" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 75,478 q 12,-6 24,0 t 24,0 t 24,0 t 24,0 t 24,0 t 24,0 t 24,0 t 24,0" fill="none" stroke="#7d6f60" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 75,499 q 12,-6 24,0 t 24,0 t 24,0 t 24,0 t 24,0 t 24,0 t 24,0 t 24,0" fill="none" stroke="#7d6f60" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 75,520 q 12,-6 24,0 t 24,0 t 24,0 t 24,0 t 24,0 t 24,0 t 24,0 t 24,0" fill="none" stroke="#7d6f60" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 75,541 q 12,-6 24,0 t 24,0 t 24,0 t 24,0 t 24,0 t 24,0 t 24,0 t 24,0" fill="none" stroke="#7d6f60" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 75,562 q 12,-6 24,0 t 24,0 t 24,0 t 24,0 t 24,0 t 24,0 t 24,0 t 24,0" fill="none" stroke="#7d6f60" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 75,583 q 12,-6 24,0 t 24,0 t 24,0 t 24,0 t 24,0 t 24,0 t 24,0 t 24,0" fill="none" stroke="#7d6f60" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 75,604 q 12,-6 24,0 t 24,0 t 24,0 t 24,0 t 24,0 t 24,0 t 24,0 t 24,0" fill="none" stroke="#7d6f60" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 75,625 q 12,-6 24,0 t 24,0 t 24,0 t 24,0 t 24,0 t 24,0 t 24,0 t 24,0" fill="none" stroke="#7d6f60" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 75,646 q 12,-6 24,0 t 24,0 t 24,0 t 24,0 t 24,0 t 24,0 t 24,0 t 24,0" fill="none" stroke="#7d6f60" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 160,670 c 20,-20 40,10 60,-6 s 30,-10 50,4" fill="none" stroke="#7d6f60" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<circle cx="600" cy="380" r="125" fill="#f4ecd8" stroke="#b3a487" stroke-width="2"/>
+<circle cx="600" cy="380" r="90" fill="#f4ecd8" stroke="#b3a487" stroke-width="4"/>
+<circle cx="600" cy="380" r="64" fill="#f4ecd8" stroke="#b3a487" stroke-width="3"/>
+<path d="M 514.5,353.0 A 90 90 0 0 1 627.0,294.5" fill="none" stroke="#fffaf0" stroke-width="6" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 685.5,407.0 A 90 90 0 0 1 573.0,465.5" fill="none" stroke="#b3a68b" stroke-width="5" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="675.3" y1="397.0" x2="676.8" y2="387.1" stroke="#b3a487" stroke-width="3" stroke-linecap="round"/>
+<line x1="666.3" y1="419.4" x2="670.9" y2="410.5" stroke="#b3a487" stroke-width="3" stroke-linecap="round"/>
+<line x1="650.9" y1="438.0" x2="658.0" y2="430.9" stroke="#b3a487" stroke-width="3" stroke-linecap="round"/>
+<line x1="630.5" y1="450.9" x2="639.4" y2="446.3" stroke="#b3a487" stroke-width="3" stroke-linecap="round"/>
+<line x1="607.1" y1="456.8" x2="617.0" y2="455.3" stroke="#b3a487" stroke-width="3" stroke-linecap="round"/>
+<line x1="583.0" y1="455.3" x2="592.9" y2="456.8" stroke="#b3a487" stroke-width="3" stroke-linecap="round"/>
+<line x1="560.6" y1="446.3" x2="569.5" y2="450.9" stroke="#b3a487" stroke-width="3" stroke-linecap="round"/>
+<line x1="542.0" y1="430.9" x2="549.1" y2="438.0" stroke="#b3a487" stroke-width="3" stroke-linecap="round"/>
+<line x1="529.1" y1="410.5" x2="533.7" y2="419.4" stroke="#b3a487" stroke-width="3" stroke-linecap="round"/>
+<line x1="523.2" y1="387.1" x2="524.7" y2="397.0" stroke="#b3a487" stroke-width="3" stroke-linecap="round"/>
+<line x1="524.7" y1="363.0" x2="523.2" y2="372.9" stroke="#b3a487" stroke-width="3" stroke-linecap="round"/>
+<line x1="533.7" y1="340.6" x2="529.1" y2="349.5" stroke="#b3a487" stroke-width="3" stroke-linecap="round"/>
+<line x1="549.1" y1="322.0" x2="542.0" y2="329.1" stroke="#b3a487" stroke-width="3" stroke-linecap="round"/>
+<line x1="569.5" y1="309.1" x2="560.6" y2="313.7" stroke="#b3a487" stroke-width="3" stroke-linecap="round"/>
+<line x1="592.9" y1="303.2" x2="583.0" y2="304.7" stroke="#b3a487" stroke-width="3" stroke-linecap="round"/>
+<line x1="617.0" y1="304.7" x2="607.1" y2="303.2" stroke="#b3a487" stroke-width="3" stroke-linecap="round"/>
+<line x1="639.4" y1="313.7" x2="630.5" y2="309.1" stroke="#b3a487" stroke-width="3" stroke-linecap="round"/>
+<line x1="658.0" y1="329.1" x2="650.9" y2="322.0" stroke="#b3a487" stroke-width="3" stroke-linecap="round"/>
+<line x1="670.9" y1="349.5" x2="666.3" y2="340.6" stroke="#b3a487" stroke-width="3" stroke-linecap="round"/>
+<line x1="676.8" y1="372.9" x2="675.3" y2="363.0" stroke="#b3a487" stroke-width="3" stroke-linecap="round"/>
+<circle cx="600.0" cy="354.0" r="21" fill="#f4ecd8" stroke="#b3a487" stroke-width="3"/>
+<circle cx="624.7" cy="372.0" r="21" fill="#f4ecd8" stroke="#b3a487" stroke-width="3"/>
+<circle cx="615.3" cy="401.0" r="21" fill="#f4ecd8" stroke="#b3a487" stroke-width="3"/>
+<circle cx="584.7" cy="401.0" r="21" fill="#f4ecd8" stroke="#b3a487" stroke-width="3"/>
+<circle cx="575.3" cy="372.0" r="21" fill="#f4ecd8" stroke="#b3a487" stroke-width="3"/>
+<circle cx="600" cy="380" r="16" fill="#f4ecd8" stroke="#b3a487" stroke-width="3"/>
+<circle cx="595" cy="375" r="6" fill="#fffaf0" stroke="none" stroke-width="0"/>
+<path d="M 550.0,282.0 L 542.0,236.0 L 570.0,256.0 L 600.0,224.0 L 630.0,256.0 L 658.0,236.0 L 650.0,282.0 Z" fill="#f4ecd8" stroke="#b3a487" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="550" y1="278" x2="650" y2="278" stroke="#fffaf0" stroke-width="3" stroke-linecap="round"/>
+<circle cx="600" cy="216" r="7" fill="#f4ecd8" stroke="#b3a487" stroke-width="2.5"/>
+<path d="M 860,206 L 890,206 Q 920,170 950,206 L 950,206 Q 990,170 1030,206 L 1030,206 Q 1060,170 1090,206 L 1120,206 L 1120,120 L 860,120 Z" fill="#b5523b" stroke="#2f2a26" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 860,230 L 890,230 Q 920,194 950,230 L 950,230 Q 990,194 1030,230 L 1030,230 Q 1060,194 1090,230 L 1120,230" fill="none" stroke="#2f2a26" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 860,254 L 890,254 Q 920,218 950,254 L 950,254 Q 990,218 1030,254 L 1030,254 Q 1060,218 1090,254 L 1120,254 L 1120,340 L 860,340 Z" fill="#9aa1a5" stroke="#2f2a26" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="1155" y1="120" x2="1155" y2="194" stroke="#2f2a26" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="1155" y1="194" x2="1146.7519780508567" y2="180.28977994609684" stroke="#2f2a26" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="1155" y1="194" x2="1163.2480219491433" y2="180.28977994609684" stroke="#2f2a26" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="1155" y1="340" x2="1155" y2="266" stroke="#2f2a26" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="1155" y1="266" x2="1163.2480219491433" y2="279.7102200539032" stroke="#2f2a26" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="1155" y1="266" x2="1146.7519780508567" y2="279.71022005390313" stroke="#2f2a26" stroke-width="2.5" stroke-linecap="round"/>
+<path d="M 900.0,545.0 L 1140.0,545.0 L 1140.0,700.0 L 900.0,700.0 Z" fill="#ead9b4" stroke="#2f2a26" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 917.0,559.0 L 1013.0,559.0 L 1013.0,651.0 L 917.0,651.0 Z" fill="#a9b8c6" stroke="#2f2a26" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<circle cx="965" cy="605" r="28" fill="#a9b8c6" stroke="#8193a3" stroke-width="3"/>
+<circle cx="965" cy="605" r="12" fill="#a9b8c6" stroke="#8193a3" stroke-width="2"/>
+<path d="M 957.0,661.0 L 957.0,641.0 L 973.0,641.0 L 973.0,661.0" fill="none" stroke="#5d6468" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 1010,575 q 10,-5 20,0 t 20,0 t 20,0 t 20,0 t 20,0" fill="none" stroke="#7d6f60" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 1010,589 q 10,-5 20,0 t 20,0 t 20,0 t 20,0 t 20,0" fill="none" stroke="#7d6f60" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 920,658 q 10,-5 20,0 t 20,0 t 20,0 t 20,0 t 20,0" fill="none" stroke="#7d6f60" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 920,672 q 10,-5 20,0 t 20,0 t 20,0 t 20,0 t 20,0" fill="none" stroke="#7d6f60" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 920,686 q 10,-5 20,0 t 20,0 t 20,0 t 20,0 t 20,0" fill="none" stroke="#7d6f60" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="123" y1="219" x2="330" y2="140" stroke="#2f2a26" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="123" cy="219" r="4" fill="#2f2a26" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="330" cy="140" r="19" fill="#faf6ee" stroke="#2f2a26" stroke-width="2"/>
+<line x1="684" y1="400" x2="760" y2="470" stroke="#2f2a26" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="684" cy="400" r="4" fill="#2f2a26" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="760" cy="470" r="19" fill="#faf6ee" stroke="#2f2a26" stroke-width="2"/>
+<line x1="540" y1="490" x2="430" y2="560" stroke="#2f2a26" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="540" cy="490" r="4" fill="#2f2a26" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="430" cy="560" r="19" fill="#faf6ee" stroke="#2f2a26" stroke-width="2"/>
+<line x1="874" y1="180" x2="770" y2="400" stroke="#2f2a26" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="874" cy="180" r="4" fill="#2f2a26" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="770" cy="400" r="19" fill="#faf6ee" stroke="#2f2a26" stroke-width="2"/>
+<line x1="957" y1="655" x2="850" y2="650" stroke="#2f2a26" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="957" cy="655" r="4" fill="#2f2a26" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="850" cy="650" r="19" fill="#faf6ee" stroke="#2f2a26" stroke-width="2"/>
+</g>
+<text x="170.0" y="734" text-anchor="middle" font-size="21" fill="#8a8178" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-style="italic">a deed</text>
+<text x="600" y="200" text-anchor="middle" font-size="20" fill="#9c8f78" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">AMERICA</text>
+<text x="600" y="496" text-anchor="middle" font-size="16" fill="#9c8f78" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">II SHILLINGS VI PENCE</text>
+<text x="600" y="734" text-anchor="middle" font-size="21" fill="#8a8178" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-style="italic">the stamp, enlarged</text>
+<text x="990.0" y="100" text-anchor="middle" font-size="18" fill="#8a8178" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-style="italic">struck, seen edge on</text>
+<text x="1020.0" y="734" text-anchor="middle" font-size="21" fill="#8a8178" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-style="italic">on parchment</text>
+<text x="330" y="147" text-anchor="middle" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">1</text>
+<text x="360" y="147" text-anchor="start" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">Sold already stamped,</text>
+<text x="360" y="174" text-anchor="start" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">then written on</text>
+<text x="760" y="477" text-anchor="middle" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">2</text>
+<text x="790" y="477" text-anchor="start" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">Crown, garter and rose,</text>
+<text x="790" y="504" text-anchor="start" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">raised in the paper</text>
+<text x="430" y="567" text-anchor="middle" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">3</text>
+<text x="460" y="567" text-anchor="start" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">AMERICA above, and</text>
+<text x="460" y="594" text-anchor="start" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">the sum paid below</text>
+<text x="770" y="407" text-anchor="middle" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">4</text>
+<text x="800" y="407" text-anchor="start" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">An engraved die presses</text>
+<text x="800" y="434" text-anchor="start" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">the paper into a counter</text>
+<text x="850" y="657" text-anchor="middle" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">5</text>
+<text x="820" y="657" text-anchor="end" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">For parchment, a blue</text>
+<text x="820" y="684" text-anchor="end" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">paper stamp, stapled on</text>
+</svg>

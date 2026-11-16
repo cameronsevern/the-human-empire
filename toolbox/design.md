@@ -102,12 +102,22 @@ A chapter can have more than one tool page: if a tool is interesting, it gets a 
 | 53 | The sugar mill | Three rollers that crushed each cane twice |
 | 54 | The company share | Money pooled for good, and a stake anyone could sell |
 | 54 | The flintlock musket | A spark from a flint, and a blade that let it keep firing |
+| 56 | The tax stamp | A tax pressed into the paper itself, with no ink |
 | 57 | The guillotine | One blade and one death for everyone |
 | 61 | The atmospheric engine | Steam turned to water, and the air did the pushing |
 | 61 | The separate condenser | Cool the steam somewhere else, and keep the cylinder hot |
 | 61 | The water frame | Rollers that did the spinner's drawing, turned by a river |
 | 63 | The survey grid | A continent ruled into numbered squares before it was sold |
 | 64 | The Minié ball | A bullet that dropped in loose and gripped the grooves on firing |
+| 64 | The telegraph | A key, a wire and a magnet: words at the speed of a hand |
+| 65 | The iron steamship | A shallow iron hull that steamed upriver against wind and current |
+| 66 | The battleship | Big guns behind armour, bought from Britain and fired at Tsushima |
+| 67 | The swan-neck flask | Open to the air, closed to the dust |
+| 67 | The Petri dish | A lidded dish of seaweed jelly, where each germ grows into a spot |
+| 69 | The Maxim gun | The kick of each shot loads and fires the next |
+| 69 | Quinine | A bitter bark, a daily dose, and the fever held back |
+| 70 | The safety bicycle | A chain to the back wheel, and a tube of air in each tyre |
+| 70 | The typewriter | Type bars that strike one spot, and a carriage that steps along |
 
 ## Files
 
