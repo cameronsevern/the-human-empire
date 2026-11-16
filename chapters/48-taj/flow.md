@@ -1,0 +1,4 @@
+Flow pass. Body prose (captions and headings excluded): 3,444 words before, 3,842 after.
+Changes: setup and connecting sentences, reasoning about guns, the boy levy, Akbar's arithmetic and the land tax walked through step by step, several long paragraphs split; no facts, captions or headings changed.
+check2.md: flags on added sentences applied (Taj materials, janissary loyalty, padding).
+Left unapplied, all in original sentences: 'By the middle of the 1500s, three empires covered ... to the Bay of Bengal' (Bengal was Mughal only from 1576; needs a rewrite); the three Jesuits 'left after three years' (they left at different times, 1581-1583); 'Almost nothing in the building came from Agra' (the brick core was made locally); 'a boy ... taken as a boy' repeats; 'merchants from every country' is an absolute.
