@@ -1,0 +1,4 @@
+Flow pass. Body prose 3,213 words before, 3,878 after.
+Main changes: each step of the tax quarrel given its own sentence (why London taxed, why the colonists refused, why neither could give way); the ten years of rounds unpacked; long paragraphs split; consequence sentences after the Boston punishments, Saratoga, Yorktown and the constitution's design.
+check2 flags applied: removed or reworded every added sentence it flagged as a new claim, signpost, absolute or repetition (Washington "nothing on paper", "Boston's quarrel", Ohio claims, the Confederation's timing, French backing before Saratoga, "not suffering").
+Left unapplied (all old text): "about two and a half million" colonists placed before 1765 (nearer the 1775 figure); "held a city and nothing else" (Britain also held land around New York); slavery "in it three times" (Article V also protects the import clause). These need the author's wording, not a flow fix.
