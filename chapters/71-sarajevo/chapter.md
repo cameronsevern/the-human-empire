@@ -10,9 +10,15 @@ The first two lost their nerve as the car went by. The third threw his bomb. It 
 
 The archduke drove on to the town hall, where he interrupted the mayor's speech of welcome. He had come on a friendly visit, he said, and had been greeted with bombs. Then he recovered his temper, and after the ceremony he announced that he wished to go to the hospital to see the wounded officers. That meant a change of route, and nobody told the driver.
 
+![The archduke and his wife stepping into an open car outside a columned building, watched by men in suits and fezzes](images/arch.jpg)
+*The archduke and his wife getting into their car outside the town hall in Sarajevo, 28 June 1914, shortly before they were shot. Photo: unknown, Imperial War Museums, public domain.*
+
 A few minutes later the car turned off the riverside road into a side street, following the original plan. A general in the front seat shouted that this was the wrong way. The driver braked and began, slowly, to back the heavy car out. It had stopped in front of a delicatessen, and standing on the pavement outside, a metre and a half away, was one of the conspirators, a nineteen-year-old named Gavrilo Princip, who had missed his chance on the riverside road earlier that morning.
 
 He fired twice. The first bullet hit the archduke in the neck and the second hit Sophie in the stomach. The archduke was heard to beg his wife to live for their children. Both were dead within half an hour.
+
+![A dark green open touring car in a museum, with a large old photograph of a Sarajevo street behind it](images/car.jpg)
+*The car in which the archduke was shot, on display in the military museum in Vienna. Photo: Hubertl, CC BY-SA 4.0.*
 
 ## Two camps
 
@@ -25,6 +31,9 @@ The chancellor who created it understood that so powerful a newcomer would frigh
 France seized the chance. In 1894 the French republic and the Russian tsar, who had nothing in common except fear of Germany, became allies. From then on the German general staff lived with a nightmare: a war on two fronts at once, against France in the west and the endless manpower of Russia in the east.
 
 Wilhelm then made an enemy of Britain as well. He set out to build a battle fleet to rival the Royal Navy, which the British regarded as the one thing that kept their island and their empire safe. Britain outbuilt him, at vast expense, and settled its old quarrels with France and Russia.
+
+![A grey battleship at sea with smoke from two funnels and heavy guns along its side](images/dread.jpg)
+*HMS Dreadnought, the British battleship of 1906 whose all-big-gun design set off the naval race with Germany, at sea about 1906. Photo: unknown, public domain.*
 
 So by 1914 the powers stood in two groups. Germany was allied with Austria-Hungary, and on paper with Italy, which in the event stayed out and later joined the other side. Facing them were France and Russia, with Britain attached by understandings that stopped short of a promise. The alliances had been made for safety. Their effect was that a quarrel between any two members could pull in all the rest.
 
@@ -72,6 +81,9 @@ The tsar's generals told him that Russia must mobilise to deter Austria. He orde
 
 In Berlin, the clock had started. Germany demanded that Russia stop within twelve hours, received no answer, and declared war on 1 August. It declared war on France two days later, on a pretext, since the plan required that France be attacked. On the morning of 4 August the first German troops crossed into Belgium.
 
+![A dense crowd in straw hats around a German officer in a spiked helmet reading from a paper](images/mob.jpg)
+*A Berlin crowd listens as an officer reads the emperor's order for mobilisation, 1 August 1914. Photo: unknown, public domain.*
+
 That settled the question for Britain. Its cabinet had been divided over whether a quarrel in the Balkans was any of its business. However, Britain had signed a treaty in 1839 guaranteeing Belgian neutrality, and it had always held that no great power could be allowed to control the coast facing its own. It sent an ultimatum to Berlin. The German chancellor could not believe that Britain would go to war for what he called a scrap of paper. At eleven that night, Britain did.
 
 The evening before, the British foreign secretary had stood at his office window watching the street lamps being lit below. The lamps are going out all over Europe, he said to a friend. We shall not see them lit again in our lifetime.
@@ -86,7 +98,13 @@ The explanation is that each people believed it had been attacked. Germans were 
 
 There were cheering crowds in Berlin, Paris, Vienna and St Petersburg, and photographs of them are famous. They were mostly students and clerks. In the villages, where the horses were being requisitioned in the middle of the harvest, the mood was grim and silent. Britain had no conscription, and its war minister asked for a hundred thousand volunteers. In eight weeks he had seven hundred and fifty thousand.
 
+![A huge crowd waving hats in front of a palace with a small group on a balcony](images/kaiser.jpg)
+*Crowds cheer the emperor on the balcony of the Berlin Palace after the order to mobilise, 1 August 1914. Photo: unknown, public domain.*
+
 Most people hoped, and many believed, that it would be short. The German emperor told departing troops that they would be home before the leaves had fallen from the trees. Bankers assured the governments that no country could afford to fight for more than a few months.
+
+![A magazine cover with a moustached officer in a peaked cap pointing at the viewer above the words Your Country Needs You](images/kit.jpg)
+*Alfred Leete's drawing of the war minister, Lord Kitchener, on the cover of the magazine London Opinion, September 1914; it was soon turned into a recruiting poster. Image: Alfred Leete, public domain.*
 
 ## Before the leaves fall
 
@@ -98,7 +116,13 @@ On a single day, 22 August, in a string of clashes along the Belgian border, twe
 
 The German plan came close to working, and then it failed. The great wheel through Belgium had asked men to march thirty kilometres a day for a month, with their supplies falling further behind. In the first week of September, with the Germans in sight of Paris, the French commander scraped together a new army, some of it rushed to the front in the taxis of the capital, and struck the exhausted invaders in the flank along the river Marne. The Germans fell back sixty kilometres, to the first line of high ground, and dug.
 
+![A red Paris taxi of 1914 with yellow wheels and a folding black roof, in a museum](images/taxi.jpg)
+*A Paris taxi of 1914, a Renault of the type that carried French troops to the Marne. Photo: Rama, CC BY-SA 2.0 FR.*
+
 A man standing in a trench two metres deep is almost safe from bullets and shell splinters, and he can shoot down anyone who walks towards him. Each side tried to get round the end of the other's trenches, and each time the other extended its line to block the move. By November the two lines of ditches ran, without a break, for seven hundred kilometres, from the border of Switzerland to the North Sea. In the west, the war of movement was over, and on all the fronts together about a million men were already dead.
+
+![Soldiers sitting and standing in a narrow earth trench with timber-roofed dugouts](images/trench.jpg)
+*German soldiers in a trench, 1914 or 1915. Photo: unknown, Library of Congress, public domain.*
 
 ## Whose fault
 
