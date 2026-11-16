@@ -30,6 +30,9 @@ The schools were remade to fit. The minister responsible, who later became prime
 
 The last step was to make Africans foreigners. The old reserves, now about thirteen per cent of the land, were declared to be ten separate "homelands", one for each African people. Every African was assigned to one of them, whether or not he had ever seen it, and when a homeland was pronounced independent its people lost their South African citizenship. They could then be treated as migrant workers in their own country. Between 1960 and 1983 three and a half million people were moved by force. Police arrived with trucks, loaded the families and their furniture, and flattened the houses with bulldozers. In the middle of Cape Town a lively mixed district of sixty thousand people was declared white and demolished. Much of the ground stayed empty for decades, because few developers cared to build on it.
 
+![Map of South Africa with the ten homelands shaded brown, most of them broken into many scattered pieces: Transkei and Ciskei in the south-east, KwaZulu in many fragments across Natal, QwaQwa beside Lesotho, Bophuthatswana in several pieces along the border with Botswana, and Lebowa, Gazankulu, Venda, KaNgwane and KwaNdebele in the north-east. Cape Town and Robben Island, just offshore, are in the south-west, and Durban on the east coast. Lesotho and Swaziland are separate countries. An inset shows the country round Johannesburg, with Pretoria, Soweto and Sharpeville](images/map_homelands.png)
+*South Africa under apartheid, with the ten homelands, roughly; inset, Johannesburg, with Soweto, Sharpeville and Pretoria. Map: drawn for this book; coastlines and rivers from Natural Earth, public domain.*
+
 ## Fifty years of petitions
 
 Africans had organised early. The African National Congress was founded in 1912 by lawyers, clergymen and chiefs, and for nearly forty years it sent deputations, signed petitions and passed resolutions. They were ignored.

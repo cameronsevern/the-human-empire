@@ -54,6 +54,9 @@ On 1 February 1960, in the town of Greensboro in North Carolina, four Black firs
 
 The next year small groups of Black and white volunteers set out to ride long-distance buses through the South, sitting together, to test a court ruling that the bus stations must be integrated. In Alabama a mob set one bus on fire and held the doors shut. At the next two cities the riders were beaten with iron pipes while the police stayed away by arrangement. The pictures went round the world, and the government in Washington, which had hoped to avoid the whole subject, had to send federal marshals.
 
+![Map of the south-eastern United States, with the states named in grey: Mississippi, Alabama, Georgia, Tennessee, the Carolinas and Virginia. Marked are Montgomery, Selma, Birmingham, Anniston, Atlanta, Albany, Nashville, Memphis, Jackson, Greensboro and Washington. A dashed red line traces the bus rides of 1961 from Washington through Virginia and the Carolinas to Atlanta, then to Anniston, where a bus was burned, Birmingham, Montgomery and Jackson. A short blue arrow marks the march of 1965 from Selma towards Montgomery](images/map_south.png)
+*The South of the campaign, 1955 to 1968, with the route of the bus rides of 1961, roughly, and the march from Selma in 1965. Map: drawn for this book; coastlines and rivers from Natural Earth, public domain.*
+
 ## Children
 
 The method had a weakness, which a campaign in the Georgia town of Albany exposed. The police chief there had also read about Gandhi. He arrested demonstrators politely, by the hundred, kept his men from using their clubs in view of the press, and sent the prisoners to jails in other counties. There were no pictures, and the campaign failed.

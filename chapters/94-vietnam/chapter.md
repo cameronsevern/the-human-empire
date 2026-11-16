@@ -70,6 +70,9 @@ What the Americans had was firepower. Whole districts were declared zones in whi
 
 Burned villages made recruits for the other side. The north, meanwhile, sent men and weapons south down a web of jungle tracks through Laos and Cambodia, which was bombed day and night and never closed. The Soviet Union and China supplied the trucks, rifles and anti-aircraft missiles. Near Saigon the guerrillas, whom the Americans called the Viet Cong, lived in two hundred and fifty kilometres of tunnels, with kitchens, hospitals and workshops underground. They lost ten men, or more, for every American, as Ho had said.
 
+![Map of Vietnam, Laos and Cambodia. North Vietnam is shaded red and South Vietnam blue, divided by the line of 1954 just south of the seventeenth parallel. Hanoi and Dien Bien Phu, near the border of Laos, are in the north; Saigon and the Mekong delta in the south, and My Lai on the central coast. The Gulf of Tonkin lies east of the north. Dashed brown arrows of the supply trails run from the North south through eastern Laos and north-eastern Cambodia, with branches east into South Vietnam and the main line ending north-west of Saigon. Thailand, or Siam, lies to the west and China to the north](images/map_vietnam.png)
+*Vietnam, divided at the line of 1954, with Laos and Cambodia, and the supply trails from the North through Laos and Cambodia, roughly. Map: drawn for this book; coastlines and rivers from Natural Earth, public domain.*
+
 ## The draft
 
 The Americans who fought were young, and they were not a cross-section of their country. More than two million men were conscripted. A man at university could put off his service, and one with a helpful doctor could avoid it, and so the infantry was drawn heavily from the sons of factory workers and farmers, and in the early years disproportionately from Black Americans. A soldier's tour in Vietnam lasted a year, and he counted the days.

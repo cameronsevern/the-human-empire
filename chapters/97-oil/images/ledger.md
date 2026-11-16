@@ -1,0 +1,8 @@
+# Image ledger: Chapter 97, Why does the world fight over oil?
+
+All files from Wikimedia Commons unless the row says otherwise. Licences read from the Commons API (extmetadata LicenseShortName), not guessed.
+
+| File | What it shows | Commons page | Author | Licence | Caption |
+|---|---|---|---|---|---|
+| map_gulf.png | Map of the Persian Gulf and the states around it, with the main oilfields, Masjed Soleyman, Abadan, Dhahran, Baghdad, Tehran and the Strait of Hormuz | Drawn for this book by build/maps/ch97_gulf.py | Drawn for this book; oilfields after English Wikipedia's articles on Ghawar, Burgan, Rumaila and Kirkuk | Own work; coastlines Natural Earth (public domain) | The Persian Gulf, with the main oilfields, roughly, the first well in Persia, of 1908, and the first in Saudi Arabia, of 1938. Map: drawn for this book; coastlines and rivers from Natural Earth, public domain. |
+| chart_oil_price.png | Line chart of the price of a barrel of crude oil, 1950 to 1991, in 2025 dollars, with the events of 1951, 1960, 1973, 1979 and 1990 marked | Drawn for this book by build/maps/ch97_chart_oil.py | Drawn for this book; data from the Energy Institute, Statistical Review of World Energy (2026), "Crude oil prices since 1861" in constant 2025 dollars, as reproduced by Our World in Data (chart oil-prices-inflation-adjusted), converted from cubic metres to barrels | Own work; published statistics | The price of a barrel of crude oil each year, 1950 to 1991, in dollars of 2025. Chart: drawn for this book; data from the Energy Institute, Statistical Review of World Energy, as reproduced by Our World in Data. |
