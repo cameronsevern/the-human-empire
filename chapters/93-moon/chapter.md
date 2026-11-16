@@ -18,17 +18,26 @@ About six hundred million people, a fifth of everyone alive, watched on televisi
 
 The idea was older than the means. At the beginning of the century a deaf schoolteacher in a small Russian town, who had never seen a rocket larger than a firework, worked out on paper how it could be done.
 
+![Konstantin Tsiolkovsky, a bearded man in round glasses and a pale jacket, sits against a log wall holding up a mirror that shows his profile](images/tsiolkovsky.jpg)
+*Konstantin Tsiolkovsky, the deaf schoolteacher who worked out spaceflight on paper, photographed in 1902 in his small Russian town. Photo: attributed to Aleksandr Assonov, public domain.*
+
 A rocket works by throwing mass out of its tail. Hot gas rushes backwards, and the rocket is pushed forwards, as a boat moves when someone on board hurls a stone astern. Unlike a jet or a propeller, it needs no air to push against or to burn with, since it carries its own oxygen. It is the one kind of engine that works in the emptiness of space. The schoolteacher, Konstantin Tsiolkovsky, wrote down the equation that tells how fast a rocket can go for a given load of fuel. He saw that no single rocket could carry enough, and that the answer was to stack several on top of one another and drop each when it was empty. The Earth, he wrote, is the cradle of mankind, but one cannot live in the cradle for ever.
 
 He also understood what an orbit is. A cannonball fired level from a mountain top curves down and hits the ground. Fire it faster, and it lands farther off. Fire it at twenty-eight thousand kilometres an hour, and the ground curves away beneath it as fast as it falls. It is still falling, and it never arrives. Anything moving sideways at that speed just above the air will circle the Earth with its engine off.
 
 In 1926 an American physics professor named Robert Goddard built the first rocket to burn liquid fuel, and set it off in his aunt's cabbage field. It flew for two and a half seconds and rose twelve metres. A leading newspaper had already mocked him for not knowing what every schoolboy knew, that a rocket could not work in a vacuum. It printed a correction forty-nine years later, on the day after men left for the Moon.
 
+![Robert Goddard in a heavy coat stands in a snowy field beside a tall frame of thin metal tubes that holds a small rocket](images/goddard.jpg)
+*Robert Goddard beside the first liquid-fuel rocket, in the frame it was fired from on 16 March 1926. Photo: Esther Goddard, public domain.*
+
 ## Two engineers
 
 The people who turned the dream into machinery were paid to do it by armies, and the two greatest of them were formed by the two dictatorships.
 
 Wernher von Braun was a Prussian aristocrat who had wanted to go to the Moon since he was a boy. The German army gave him the money. By 1944 he had built a rocket fourteen metres high that could carry a ton of explosive three hundred kilometres, and several thousand were fired at London and Antwerp. They were assembled in tunnels under a mountain by prisoners from a concentration camp, who were worked, starved and hanged from the cranes. About twenty thousand of them died in that camp and its outposts. The rocket killed more people in its making than in its use. Von Braun was a member of the Nazi party and an officer of the SS, and he visited the tunnels. In 1945 he arranged to surrender to the Americans, who brought him and more than a hundred of his engineers to the United States and asked few questions.
+
+![A rusted rocket engine with a wide bell and tangled pipes lies on a metal stand inside a rough rock tunnel](images/dora_tunnel.jpg)
+*A rusted V-2 rocket engine in the tunnels at Mittelbau-Dora, in Germany, where prisoners assembled the rockets in 1944. Photo: sockenhorst, CC0.*
 
 Sergei Korolev was his Soviet counterpart, and for most of his life nobody outside a small circle knew his name. He had been a young rocket enthusiast in Moscow in the 1930s. In 1938, during Stalin's great purge, he was arrested on a false charge, beaten until his jaw was broken, and sent to a gold mine in the far north-east of Siberia, where he lost most of his teeth to scurvy. He was pulled out to design aircraft in a prison workshop. After the war the state that had nearly killed him put him in charge of its missiles. In the Soviet press he was referred to only as the Chief Designer.
 
@@ -46,11 +55,17 @@ The reaction went well beyond rockets. Congress voted money for science and lang
 
 The Soviets kept winning. On the morning of 12 April 1961 a twenty-seven-year-old air force pilot, the son of a carpenter and a dairymaid from a collective farm, was strapped into a steel ball on top of one of Korolev's rockets. As it rose, Yuri Gagarin called out a single cheerful word that means "Let's go". He circled the Earth once, in a hundred and eight minutes, and came down by parachute in a ploughed field beside the Volga. An old woman and her granddaughter, planting potatoes, saw a figure in an orange suit and a white helmet walking towards them, and began to back away. Can it be, she asked, that you have come from space?
 
+![Yuri Gagarin, smiling in a white helmet and orange suit, speaks with a marshal in uniform and a man in a hat seen from behind](images/gagarin.jpg)
+*Yuri Gagarin in his helmet before the flight on 12 April 1961, with Marshal Kirill Moskalenko and Sergei Korolev. Photo: Russian Ministry of Defence / RIA Novosti, CC BY 4.0.*
+
 Gagarin was sent round the world as the smiling face of a system that had lifted a peasant's son to the stars. Many people in the new countries of Asia and Africa were watching to see which of the two great powers was the one to follow.
 
 The American president, John Kennedy, had been in office for three months. Five days after Gagarin's flight came the disaster at the Bay of Pigs. He asked his vice-president to find him a space programme which promised dramatic results in which America could win. The experts replied that the Soviets, with their big rockets, would be first at anything in the next few years. A landing on the Moon was so far beyond what either country could do that both would have to start again from the beginning, and in a long race American industry would tell.
 
 On 25 May 1961 Kennedy asked Congress to commit the country to landing a man on the Moon and returning him safely to the Earth before the end of the decade. At that moment the whole American experience of human spaceflight amounted to one man, for fifteen minutes.
+
+![President Kennedy speaks into a bank of microphones, with two men seated behind him](images/kennedy.jpg)
+*President Kennedy asking Congress, on 25 May 1961, to land a man on the Moon before the end of the decade. Photo: NASA, public domain.*
 
 He said in public that the country chose to do such things not because they were easy but because they were hard. In a private meeting that November, which was recorded, he told the head of the space agency that he was not that interested in space. The point was to beat the Russians.
 
@@ -60,12 +75,18 @@ It was the largest engineering project that any country had undertaken in peacet
 
 The rocket was von Braun's. It stood a hundred and ten metres high, taller than a thirty-storey building, and weighed three thousand tons, nearly all of it fuel. Its five main engines burned thirteen tons every second. Of that whole tower, the part that came home was a cone three metres high with three men in it.
 
+![A man in a suit stands under the enormous bell-shaped nozzles of a rocket stage, which tower over him](images/vonbraun.jpg)
+*Wernher von Braun beside the engines of a Saturn V first stage, the rocket he designed. Photo: NASA, public domain.*
+
 The key decision was how to land. To set the entire spacecraft down on the Moon and lift it off again would have needed a rocket far larger than anyone could build. A stubborn engineer at one of the agency's laboratories argued for two years, against von Braun among others, that only a small separate craft should go down to the surface, with two of the crew, and then fly back up to meet the main ship in orbit round the Moon. Everything else could be left behind. It meant that two vehicles would have to find each other and join up a quarter of a million miles from help. It also meant that the job could be done with one rocket.
 
 ![Diagram of a flight to the Moon and back. Left, the rocket as it stood, from the bottom: first stage, second stage, third stage, landing craft, the main ship's engine section, and the cone with the crew on top. Right, the Earth and the Moon with the path between them, in eight numbered steps: launch, with the first two stages falling away; one and a half turns round the Earth; the third stage firing for the Moon, and the main ship turning round to dock with the landing craft and pull it free; three days' coasting into orbit round the Moon; two men going down in the landing craft while one stays in orbit; the top half of the landing craft climbing back to meet the main ship; the engine firing behind the Moon for home; and the engine section dropped before the cone comes down by parachute in the Pacific](images/diagram_flight_plan.png)
 *How the landing was flown in July 1969: each part of the rocket was dropped once it had done its work, and two men went down in the small landing craft while the main ship waited in orbit round the Moon; only the cone came home. Not to scale. Diagram: drawn for this book.*
 
 To steer, the spacecraft needed a computer, at a time when a computer filled a room. The one that was built weighed thirty-two kilograms and had less memory than a modern greetings card that plays a tune. Its programs were stored by threading copper wires through or around tiny magnetic rings, a wire through a ring for a one and around it for a zero. A computer holds every number and every instruction as a string of ones and noughts. The work was done by hand, by women who had been weavers and watchmakers, and a single program took months to weave. The team that wrote those programs was led by a mathematician of thirty-two named Margaret Hamilton. Her team had made sure that the computer could drop its less urgent tasks if it was overloaded, and that is what it did in the last minutes of the descent.
+
+![A smiling young woman in a short dress rests her hands on a stack of printed program listings that reaches higher than her head](images/hamilton.jpg)
+*Margaret Hamilton beside the printed listings of the programs her team wrote for the Apollo computer, 1969. Photo: 1969 photograph restored by Adam Cuerden, public domain.*
 
 The spacesuits, each of twenty-one layers, were sewn by seamstresses at a company that made brassieres, to a tolerance of less than a millimetre, since a single wrong stitch could kill. The paths of the early flights were checked by a group of Black women mathematicians in Virginia, who had for years been kept in a separate office and were known as computers. The first American to orbit the Earth refused to fly until one of them, Katherine Johnson, had gone over the electronic machine's figures by hand.
 
@@ -81,6 +102,9 @@ In December 1968 three Americans became the first human beings to leave the Eart
 
 On the fourth orbit, as their ship came round from behind the Moon, one of the crew looked up and saw the Earth rising over the grey horizon. It was blue and white, half in shadow, and very small. He scrambled for a camera with colour film. The photograph that he took has been reproduced more often than almost any other. It showed people their own planet as a single thing, with no borders on it, alone in the dark. The astronaut said afterwards that they had gone all that way to explore the Moon, and that the most important thing they discovered was the Earth. Within sixteen months the first Earth Day was held, and twenty million Americans took part.
 
+![The blue and white Earth hangs above the grey, cratered horizon of the Moon against black space](images/earthrise.jpg)
+*The Earth rising over the grey horizon of the Moon, photographed from Apollo 8 on 24 December 1968. Photo: Bill Anders, NASA, public domain.*
+
 ## Mule carts
 
 Not everybody was carried away. Through most of the 1960s, when Americans were asked whether the Moon programme was worth what it cost, more said no than yes.
@@ -90,6 +114,9 @@ On the day before the launch in July 1969, a Black minister who had taken over t
 ## Two and a half hours
 
 Armstrong and his companion spent two hours and thirty-one minutes outside. They planted a flag held out by a metal rod along its top edge, since there is no wind, set out instruments, and gathered twenty-one kilograms of rock. They left a plaque that said that they had come in peace for all mankind. A third man circled overhead, alone, and each time he passed behind the Moon he was farther from any other human being than anyone had ever been.
+
+![An astronaut in a white suit stands on grey lunar soil among footprints; in his gold visor are reflected the landing craft and the photographer](images/aldrin.jpg)
+*Buzz Aldrin on the Moon in July 1969. In his visor are the landing craft and the photographer, Neil Armstrong. Photo: Neil Armstrong, NASA, public domain.*
 
 In Washington a speech lay ready in case the engine that was to lift them off failed to fire. It would have begun: Fate has ordained that the men who went to the Moon to explore in peace will stay on the Moon to rest in peace. The engine fired.
 
@@ -104,3 +131,7 @@ The Moon itself turned out to matter less than what had been built in order to r
 The rocks that the astronauts brought back showed that the Moon is four and a half billion years old and was formed from the debris thrown out when another young planet struck the Earth.
 
 The last man to walk there was a navy pilot named Eugene Cernan. Before he climbed the ladder, he knelt and wrote his nine-year-old daughter's initials in the dust with his finger. There is no wind or rain on the Moon. The letters will be there for tens of thousands of years.
+
+
+![A dusty astronaut stands on the Moon beside an American flag and the wheel and dish antenna of the lunar rover](images/cernan.jpg)
+*Eugene Cernan on the Moon in December 1972, on the last of the landings. Photo: Harrison Schmitt, NASA, public domain.*
