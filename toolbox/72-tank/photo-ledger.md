@@ -1,0 +1,3 @@
+| File | What it shows | Commons page | Author | Licence |
+|---|---|---|---|---|
+| toolbox/72-tank/photo-mark-i.jpg | The only surviving British Mark I heavy tank (male), side view in a muddy battlefield display at the Tank Museum, Bovington, April 2018: rhomboid hull in faded camouflage, six-pounder in the side sponson, wire-mesh anti-grenade frame on the roof, two spoked steering wheels behind, a model soldier at work. Not a file used in chapter 72 (which uses Ernest Brooks's photograph of C15 near Thiepval). Commons thumbnail 1280x574 | https://commons.wikimedia.org/wiki/File:1917_Mark_I_Male_Tank_%E2%80%93_Bovington_Tank_Museum_(45106037464).jpg | Alan Wilson | CC BY-SA 2.0 |

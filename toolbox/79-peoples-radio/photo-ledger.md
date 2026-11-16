@@ -1,0 +1,3 @@
+| File | What it shows | Commons page | Author | Licence |
+|---|---|---|---|---|
+| toolbox/79-peoples-radio/photo-ve301w.jpg | Volksempfänger VE 301 W by Aron/Heliowatt, AC set in a Bakelite case, built 1933/1934, front view: round cloth-covered speaker opening, curved dial, arched panel marked VE 301, three knobs; photographed at the Obersalzberg information centre, Berchtesgaden. Not a file used in chapter 79 (which uses the Rijksmuseum's VE 301 Dyn, NG-2009-110). From the 1280 px Commons thumbnail, cropped at the sides to remove a museum label, 1130x1600 | https://commons.wikimedia.org/wiki/File:Volksempf%C3%A4nger.jpg | Chantal Albert (Chantal02) | CC BY-SA 3.0 |

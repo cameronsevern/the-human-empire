@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" font-family="Georgia, 'Noto Serif', serif">
+<defs>
+<!-- paper: fine grain plus slow blotches -->
+<filter id="paper" x="0" y="0" width="100%" height="100%">
+<feTurbulence type="fractalNoise" baseFrequency="0.8" numOctaves="3" seed="3" result="grain"/>
+<feColorMatrix in="grain" type="matrix" values="0 0 0 0 0.45  0 0 0 0 0.36  0 0 0 0 0.24  0 0 0 0.9 -0.42" result="g2"/>
+<feTurbulence type="fractalNoise" baseFrequency="0.006" numOctaves="2" seed="8" result="blot"/>
+<feColorMatrix in="blot" type="matrix" values="0 0 0 0 0.55  0 0 0 0 0.42  0 0 0 0 0.25  0 0 0 0.55 -0.2" result="b2"/>
+<feMerge><feMergeNode in="SourceGraphic"/><feMergeNode in="b2"/><feMergeNode in="g2"/></feMerge>
+</filter>
+<!-- ink: a slight wobble in every line, a soft bleed of colour under it, and mottling inside the washes -->
+<filter id="ink" x="-5%" y="-5%" width="110%" height="110%">
+<feTurbulence type="fractalNoise" baseFrequency="0.018" numOctaves="2" seed="5" result="warp"/>
+<feDisplacementMap in="SourceGraphic" in2="warp" scale="5" xChannelSelector="R" yChannelSelector="G" result="drawn"/>
+<feGaussianBlur in="drawn" stdDeviation="7" result="bleed0"/>
+<feComponentTransfer in="bleed0" result="bleed"><feFuncA type="linear" slope="0.38"/></feComponentTransfer>
+<feTurbulence type="fractalNoise" baseFrequency="0.011" numOctaves="2" seed="11" result="wash"/>
+<feColorMatrix in="wash" type="matrix" values="0 0 0 0 0.35  0 0 0 0 0.25  0 0 0 0 0.15  0 0 0 0.75 -0.3" result="w2"/>
+<feComposite in="w2" in2="drawn" operator="in" result="mottle"/>
+<feMorphology in="drawn" operator="erode" radius="2.5" result="inner"/>
+<feComposite in="drawn" in2="inner" operator="out" result="rim0"/>
+<feColorMatrix in="rim0" type="matrix" values="0 0 0 0 0.3  0 0 0 0 0.22  0 0 0 0 0.15  0 0 0 0.16 0" result="rim"/>
+<feOffset in="drawn" dx="5" dy="7" result="off"/>
+<feGaussianBlur in="off" stdDeviation="5" result="sh0"/>
+<feColorMatrix in="sh0" type="matrix" values="0 0 0 0 0.25  0 0 0 0 0.2  0 0 0 0 0.15  0 0 0 0.22 0" result="shadow"/>
+<feMerge><feMergeNode in="shadow"/><feMergeNode in="bleed"/><feMergeNode in="drawn"/><feMergeNode in="mottle"/><feMergeNode in="rim"/></feMerge>
+</filter>
+<radialGradient id="vig" cx="50%" cy="50%" r="75%"><stop offset="60%" stop-color="#6b4a2a" stop-opacity="0"/><stop offset="100%" stop-color="#6b4a2a" stop-opacity="0.22"/></radialGradient>
+</defs>
+<rect width="1200" height="760" fill="#faf6ee" filter="url(#paper)"/>
+<rect width="1200" height="760" fill="url(#vig)"/>
+<rect x="14" y="14" width="1172" height="732" fill="none" stroke="#2f2a26" stroke-width="2"/>
+<rect x="20" y="20" width="1160" height="720" fill="none" stroke="#2f2a26" stroke-width="0.7"/>
+<text x="44" y="64" font-size="30" font-weight="bold" fill="#2f2a26" letter-spacing="3">THE SPINNING WHEEL</text>
+<line x1="44" y1="76" x2="104" y2="76" stroke="#b5523b" stroke-width="3"/>
+<text x="44" y="104" font-size="20" font-style="italic" fill="#8a8178">The Indian charkha, as Gandhi used it</text>
+<g filter="url(#ink)">
+<path d="M 400.0,600.0 L 1110.0,600.0 L 1110.0,624.0 L 400.0,624.0 Z" fill="#c49a6c" stroke="#2f2a26" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 877.0,600.0 L 881.0,410.0 L 891.0,410.0 L 895.0,600.0 Z" fill="#8a6440" stroke="#2f2a26" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 905.0,600.0 L 909.0,410.0 L 919.0,410.0 L 923.0,600.0 Z" fill="#8a6440" stroke="#2f2a26" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="900" y1="410" x2="1065.0" y2="410.0" stroke="#8a6440" stroke-width="5" stroke-linecap="round"/>
+<line x1="900" y1="410" x2="1042.9" y2="492.5" stroke="#8a6440" stroke-width="5" stroke-linecap="round"/>
+<line x1="900" y1="410" x2="982.5" y2="552.9" stroke="#8a6440" stroke-width="5" stroke-linecap="round"/>
+<line x1="900" y1="410" x2="900.0" y2="575.0" stroke="#8a6440" stroke-width="5" stroke-linecap="round"/>
+<line x1="900" y1="410" x2="817.5" y2="552.9" stroke="#8a6440" stroke-width="5" stroke-linecap="round"/>
+<line x1="900" y1="410" x2="757.1" y2="492.5" stroke="#8a6440" stroke-width="5" stroke-linecap="round"/>
+<line x1="900" y1="410" x2="735.0" y2="410.0" stroke="#8a6440" stroke-width="5" stroke-linecap="round"/>
+<line x1="900" y1="410" x2="757.1" y2="327.5" stroke="#8a6440" stroke-width="5" stroke-linecap="round"/>
+<line x1="900" y1="410" x2="817.5" y2="267.1" stroke="#8a6440" stroke-width="5" stroke-linecap="round"/>
+<line x1="900" y1="410" x2="900.0" y2="245.0" stroke="#8a6440" stroke-width="5" stroke-linecap="round"/>
+<line x1="900" y1="410" x2="982.5" y2="267.1" stroke="#8a6440" stroke-width="5" stroke-linecap="round"/>
+<line x1="900" y1="410" x2="1042.9" y2="327.5" stroke="#8a6440" stroke-width="5" stroke-linecap="round"/>
+<path d="M 1065.0,410.0 L 1047.8,449.6 L 1042.9,492.5 L 1008.2,518.2 L 982.5,552.9 L 939.6,557.8 L 900.0,575.0 L 860.4,557.8 L 817.5,552.9 L 791.8,518.2 L 757.1,492.5 L 752.2,449.6 L 735.0,410.0 L 752.2,370.4 L 757.1,327.5 L 791.8,301.8 L 817.5,267.1 L 860.4,262.2 L 900.0,245.0 L 939.6,262.2 L 982.5,267.1 L 1008.2,301.8 L 1042.9,327.5 L 1047.8,370.4 Z" fill="none" stroke="#b8ab8e" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<circle cx="900" cy="410" r="165" fill="none" stroke="#efe6d0" stroke-width="2"/>
+<circle cx="900" cy="410" r="18" fill="#8a6440" stroke="#2f2a26" stroke-width="2.5"/>
+<line x1="900" y1="410" x2="995" y2="320" stroke="#8a6440" stroke-width="8" stroke-linecap="round"/>
+<path d="M 988.0,290.0 L 1004.0,290.0 L 1004.0,330.0 L 988.0,330.0 Z" fill="#c49a6c" stroke="#2f2a26" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 442.0,600.0 L 444.0,470.0 L 456.0,470.0 L 458.0,600.0 Z" fill="#8a6440" stroke="#2f2a26" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 480.0,459.0 L 480.0,465.0 L 380.0,463.0 L 380.0,461.0 Z" fill="#b5523b" stroke="#2f2a26" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 464.0,452.0 L 478.0,452.0 L 478.0,472.0 L 464.0,472.0 Z" fill="#6f7579" stroke="#2f2a26" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="471" y1="452" x2="900" y2="245" stroke="#7d6a50" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="471" y1="472" x2="900" y2="575" stroke="#7d6a50" stroke-width="2.5" stroke-linecap="round"/>
+<path d="M 380.0,462.0 L 355.0,456.0 L 340.0,452.0" fill="none" stroke="#2f2a26" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" />
+<ellipse cx="328" cy="450" rx="14" ry="8" fill="#ffffff" stroke="#8a8178" stroke-width="1.5" transform="rotate(0 328 450)"/>
+<circle cx="200" cy="330" r="140" fill="#ffffff" stroke="#2f2a26" stroke-width="2.5"/>
+<line x1="308" y1="316" x2="318" y2="275" stroke="#7d6a50" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="308" y1="344" x2="318" y2="385" stroke="#7d6a50" stroke-width="2.5" stroke-linecap="round"/>
+<path d="M 325.0,321.0 L 325.0,339.0 L 155.0,332.0 L 155.0,328.0 Z" fill="#b5523b" stroke="#2f2a26" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 295.0,316.0 L 320.0,316.0 L 320.0,344.0 L 295.0,344.0 Z" fill="#6f7579" stroke="#2f2a26" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 210.0,317.0 L 260.0,317.0 L 260.0,343.0 L 210.0,343.0 Z" fill="#f4ecd8" stroke="#2f2a26" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 155.0,330.0 L 149.0,336.3 L 143.0,337.1 L 137.0,341.4 L 131.0,348.9 L 125.0,350.8 L 119.0,353.2 L 113.0,360.9 L 107.0,364.7" fill="none" stroke="#2f2a26" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" />
+<ellipse cx="100" cy="374" rx="22" ry="13" fill="#ffffff" stroke="#8a8178" stroke-width="2" transform="rotate(30 100 374)"/>
+<line x1="996" y1="306" x2="1100" y2="175" stroke="#2f2a26" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="996" cy="306" r="4" fill="#2f2a26" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="1100" cy="175" r="19" fill="#faf6ee" stroke="#2f2a26" stroke-width="2"/>
+<line x1="743" y1="440" x2="610" y2="300" stroke="#2f2a26" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="743" cy="440" r="4" fill="#2f2a26" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="610" cy="300" r="19" fill="#faf6ee" stroke="#2f2a26" stroke-width="2"/>
+<line x1="675" y1="521" x2="640" y2="690" stroke="#2f2a26" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="675" cy="521" r="4" fill="#2f2a26" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="640" cy="690" r="19" fill="#faf6ee" stroke="#2f2a26" stroke-width="2"/>
+<line x1="275" y1="330" x2="400" y2="200" stroke="#2f2a26" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="275" cy="330" r="4" fill="#2f2a26" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="400" cy="200" r="19" fill="#faf6ee" stroke="#2f2a26" stroke-width="2"/>
+<line x1="125" y1="350" x2="110" y2="580" stroke="#2f2a26" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="125" cy="350" r="4" fill="#2f2a26" stroke="#2f2a26" stroke-width="0"/>
+<circle cx="110" cy="580" r="19" fill="#faf6ee" stroke="#2f2a26" stroke-width="2"/>
+</g>
+<text x="920" y="700" text-anchor="middle" font-size="18" fill="#8a8178" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-style="italic">from the spinner's side</text>
+<text x="200" y="506" text-anchor="middle" font-size="18" fill="#8a8178" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-style="italic">the spindle tip, magnified</text>
+<text x="1100" y="182" text-anchor="middle" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">1</text>
+<text x="1070" y="182" text-anchor="end" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">A handle turns</text>
+<text x="1070" y="209" text-anchor="end" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">the big wheel</text>
+<text x="610" y="307" text-anchor="middle" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">2</text>
+<text x="580" y="307" text-anchor="end" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">Spokes laced with cord</text>
+<text x="580" y="334" text-anchor="end" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">make a light rim</text>
+<text x="640" y="697" text-anchor="middle" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">3</text>
+<text x="610" y="697" text-anchor="end" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">A cord band runs</text>
+<text x="610" y="724" text-anchor="end" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">to the spindle</text>
+<text x="400" y="207" text-anchor="middle" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">4</text>
+<text x="430" y="207" text-anchor="start" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">The spindle turns dozens of</text>
+<text x="430" y="234" text-anchor="start" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">times for each turn of the wheel</text>
+<text x="110" y="587" text-anchor="middle" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round" font-weight="bold">5</text>
+<text x="140" y="587" text-anchor="start" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">Cotton drawn off the tip</text>
+<text x="140" y="614" text-anchor="start" font-size="21" fill="#2f2a26" stroke="#faf6ee" stroke-width="7" paint-order="stroke" stroke-linejoin="round">twists into thread</text>
+</svg>

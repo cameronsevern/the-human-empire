@@ -118,6 +118,12 @@ A chapter can have more than one tool page: if a tool is interesting, it gets a 
 | 69 | Quinine | A bitter bark, a daily dose, and the fever held back |
 | 70 | The safety bicycle | A chain to the back wheel, and a tube of air in each tyre |
 | 70 | The typewriter | Type bars that strike one spot, and a carriage that steps along |
+| 72 | Barbed wire | Two twisted wires that lock the barbs in place |
+| 72 | The gas mask | A box of charcoal and lime between the soldier and the gas |
+| 72 | The tank | A track wrapped right round the hull, to climb out of a trench |
+| 76 | The spinning wheel | One big wheel turning a small spindle dozens of times over |
+| 78 | The tractor | A tractor built like a car, bought and copied by the Soviet state |
+| 79 | The people's receiver | One cheap set at one fixed price, built for German stations |
 
 ## Files
 

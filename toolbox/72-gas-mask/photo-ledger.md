@@ -1,0 +1,3 @@
+| File | What it shows | Commons page | Author | Licence |
+|---|---|---|---|---|
+| toolbox/72-gas-mask/photo-small-box-respirator.jpg | British small box respirator, size 3: khaki facepiece with two metal-rimmed eyepieces, long black rubber flutter valve, ribbed hose and ribbed tin canister, hanging in the National World War I Museum, Kansas City (November 2011). Not a file used in chapter 72. From the 960 px Commons thumbnail, cropped at the left to remove other exhibits, resized to 758x1600 | https://commons.wikimedia.org/wiki/File:UK_gas_mask_-_National_World_War_I_Museum_-_Kansas_City,_MO_-_DSC07570.JPG | Daderot | Public domain |
