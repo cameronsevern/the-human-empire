@@ -14,6 +14,9 @@ Until 2007 a Kenyan who worked in the city and wanted to send part of his wages 
 
 In March 2007 the country's largest mobile telephone company launched a service called M-Pesa. The M stood for mobile, and *pesa* is the word for money in Swahili. Kenyans were already in the habit of sending one another prepaid telephone minutes as a kind of currency. The company made it official. A customer hands cash to one of its agents, who are mostly the keepers of the small kiosks that sell telephone credit and soap in every village, and the agent credits the same sum to the customer's telephone number. The cash itself is kept in ordinary banks, in a trust that the telephone company cannot spend. The customer can then send any part of it to any other telephone in the country, and the person who receives it can walk to the nearest kiosk and turn it back into cash.
 
+![A green M-Pesa kiosk with an Equity Bank agent sign, a woman at its counter](images/mpesa.jpg)
+*An M-Pesa agent in Nairobi, Kenya, in 2016. A kiosk like this takes a customer's cash and credits the same sum to the customer's telephone number. Photo: Fiona Graham, CC BY-SA 2.0.*
+
 Within three years nine million Kenyans had signed up. Today nearly every adult uses it, and the payments made through it in a year add up to more than twice the country's annual income. Economists who followed several thousand households over six years found that the service had lifted about one Kenyan family in fifty out of extreme poverty. The effect was strongest in households headed by women, many of whom used their new means of saving and receiving money to give up farming for small trade.
 
 ## Numbers in a book
@@ -34,11 +37,17 @@ The bank had chosen to post cards unasked because of a puzzle. No shop would acc
 
 In the 1960s an engineer at a computer company was trying to attach a strip of magnetic tape, which could hold an account number, to a plastic card, and every glue he tried warped the tape. His wife, who was ironing, suggested that he melt it on with the iron. In June 1967 a branch of a British bank in a London suburb unveiled a machine in its outside wall that gave out ten-pound notes at any hour. Its inventor said that the idea had come to him in the bath, from thinking about chocolate vending machines.
 
+![Blue plaque on a stone wall reading that the world's first cash machine was installed here on 27 June 1967](images/atm-plaque.jpg)
+*The plaque on the Enfield branch of Barclays Bank in north London, recording that the world's first cash machine was installed there on 27 June 1967. Photo: LondonHistoryatHome, CC BY-SA 4.0.*
+
 ## One second
 
 Tap a card on a shop's terminal today, and about a second passes before it beeps. In that second a message makes a round trip from the shop, through three other organisations, and back.
 
 The terminal reads the account number from the chip in the card and sends it, with the amount, to the shop's own bank. That bank passes it to the card network, which is a switchboard connecting thousands of banks. The network looks at the first digits of the number, works out which bank issued the card, and forwards the question: will you pay this? The cardholder's bank checks that the account exists and has the money or the credit. Its computer also gives the purchase a score for the likelihood of fraud, by comparing it with everything the cardholder has bought before. A coffee in the usual street passes. A television bought at three in the morning in another country may not. The answer travels back along the same chain, and the terminal beeps.
+
+![Close view of the gold-coloured contact plate of the chip on the front of a credit card](images/chip.jpg)
+*The contact plate of the chip on a Mastercard credit card. The terminal reads the account number from the chip through these contacts. Photo: Bautsch, CC0.*
 
 No money has moved yet. At the end of the day the network adds up what every bank owes every other and tells each one a single net figure, and the banks adjust their accounts with one another. The shop is paid a day or two later.
 
@@ -60,6 +69,9 @@ On 11 August 1994 a man in Philadelphia used a program built on that idea to buy
 
 An order placed with that bookseller today sets off a chain that reaches round the world. The message goes to a warehouse the size of twenty football fields, where a human "picker" stands at a station while squat orange robots bring the shelves to her, and a screen tells her which item to take and how many seconds she has taken over the last one. The company employs a million and a half people and a million robots. The goods very probably came in a steel box from a factory in China. The parcel is brought to the door by a driver who is, in many cases, not an employee of anyone, and who is routed and timed by an application on his telephone.
 
+![A large grey warehouse with an Amazon sign beyond a car park under a cloudy sky](images/amazon.jpg)
+*An Amazon warehouse, photographed in 2024. Photo: Chris Heaton, CC BY-SA 2.0.*
+
 The customer gets almost anything, cheaply, the next day. The cost fell on the shops. Booksellers went first, then sellers of records, toys, clothes and electrical goods. In many towns the main shopping street, which for a century and a half had been where people met one another, is now a row of empty windows.
 
 ## Red envelopes
@@ -67,6 +79,9 @@ The customer gets almost anything, cheaply, the next day. The cost fell on the s
 China largely skipped the card. In the early 2000s few Chinese used one to shop, and small shops did not have the terminals. When the country's largest online marketplace needed a way for strangers to pay one another, it set up its own, in 2004, which held the buyer's money until the goods arrived. Nine years later the company behind the most popular messaging application added payments to it.
 
 Both worked through the mobile telephone, using a square pattern of black and white dots that a telephone's camera can read. A seller needs no equipment at all. He prints his pattern on a sheet of paper and tapes it to his cart. At the lunar new year of 2014, when Chinese families give children money in red envelopes, the messaging company invited its users to send digital ones, and several million people linked their bank accounts to it in a week. Within a few years cash had almost vanished from Chinese cities. Street musicians and beggars put out the square pattern in place of a hat.
+
+![A printed sign with two square QR codes, one for WeChat and one for Alipay, asking customers to pay before ordering](images/qr.jpg)
+*A sign in China in 2017 with two square patterns, one for WeChat and one for Alipay, so that customers can pay by telephone. Photo: Harald Groven, CC BY-SA 2.0.*
 
 Two companies had come to handle nearly all the everyday payments of a billion people, and with them a record of where each person had been and what each had bought. In November 2020 the Chinese government stopped the larger of the two from selling shares to the public, two days before what would have been the biggest such sale in history, and brought both under the supervision of the central bank. The state now has access to the record.
 
@@ -77,6 +92,9 @@ India took a third course. In 2016 a body set up by the central bank and owned b
 It rested on two earlier programmes. The government had issued more than a billion Indians with an identity number tied to their fingerprints and the pattern of their eyes, and it was opening basic bank accounts by the hundred million for people who had never had one.
 
 On the evening of 8 November 2016 the prime minister announced on television that, as of midnight, the two largest banknotes, which made up eighty-six per cent of all the cash in the country, would no longer be legal tender. The aim was to flush out untaxed wealth. It caused months of chaos, with queues at every bank and labourers going unpaid, and it did little to hurt the tax evaders. It did push tens of millions of people into paying by telephone, and within a few years most of them were doing so over UPI. Indians now make about twenty billion payments a month on it, nearly half of all the instant digital payments in the world, down to a few rupees for a cup of tea at a roadside stall.
+
+![A long line of men waiting outside a bank branch in Kolkata](images/queue.jpg)
+*People queueing outside a bank in Kolkata, India, on 10 November 2016, two days after the announcement, to deposit and exchange the old banknotes. Photo: Biswarup Ganguly, CC BY 3.0.*
 
 ## Ten thousand for two pizzas
 
@@ -90,11 +108,17 @@ On 22 May 2010 a programmer in Florida offered ten thousand bitcoins to anyone w
 
 That is the difficulty. A currency whose value can double or halve in a few months is of little use for buying pizza, and the system can handle only about seven payments a second, where the card networks handle tens of thousands. The puzzle-solving uses as much electricity as a middle-sized country. Bitcoin and its thousands of imitators have served chiefly as something to bet on, and as the favoured currency of people who lock up a hospital's computers and demand a ransom. They have also been a refuge for savers in countries whose own money is melting away. In 2022 one of the largest exchanges on which such coins were traded collapsed, and its founder went to prison for twenty-five years for stealing his customers' deposits. Trust, it turned out, had only been moved to a new set of middlemen.
 
+![A long dark hall lined with racks of computers with green lights](images/mining.jpg)
+*A Bitcoin mining farm in 2014: a hall of computers that do nothing but solve the puzzles. Photo: Marko Ahtisaari, CC BY 2.0.*
+
 ## Switched off
 
 A system that records every payment gives great power to whoever holds the records.
 
 In February 2022 lorry drivers protesting against vaccination rules blocked the centre of the Canadian capital for three weeks. The government invoked an emergency law and ordered the banks to freeze the accounts of people connected with the protest, without going to a court. About two hundred and eighty accounts and cards were frozen, and their holders could not touch their own money. A few weeks later the Western powers began to cut the largest Russian banks off from the messaging system through which the world's banks send one another payment instructions. One was done to protesters in a democracy and the other to a state that had invaded its neighbour, and both were done by an order to the people who keep the records.
+
+![A woman writing a message with a pen on the side of a lorry, with two small Canadian flags on her headband](images/ottawa.jpg)
+*A protester writing on a lorry in Ottawa on 12 February 2022, during the blockade of the city centre. Photo: Maksim Sokolov, CC BY-SA 4.0.*
 
 Cash leaves no record. A payment in notes cannot be profiled, sold to advertisers, or blocked. As it disappears, those who cannot or will not use the alternatives are shut out. About one and a third billion adults in the world still have no account of any kind. In the rich countries it is the old, the homeless and the recently arrived who find that the bus, the car park and the public lavatory no longer take coins.
 
