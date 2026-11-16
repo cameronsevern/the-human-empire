@@ -24,6 +24,9 @@ He had no grand theory. He described his method as crossing the river by feeling
 
 In December 1978 he told a meeting of the party's leaders that it was time to stop arguing about doctrine and to seek truth from facts. Some people and some regions, he said later, should be allowed to get rich first.
 
+![Deng Xiaoping, a small man in a dark high-collared jacket, standing beside the much taller President Carter in a dark suit, in front of a gilt-framed landscape painting](images/deng_carter.jpg)
+*Deng Xiaoping with President Jimmy Carter in Washington, during Deng's visit to the United States in January 1979. Photo: US National Archives, public domain.*
+
 ## Farming for yourself
 
 When the reports from villages like Xiaogang reached Beijing, some leaders wanted the peasants arrested. Deng said to let them carry on and see. It was permitted first in the poorest districts, and within five years the arrangement had spread to almost every village in China. The land still belonged to the collective on paper. Each family was assigned its own fields on a long lease, owed the state a fixed amount, and could sell the rest in the market.
@@ -40,11 +43,17 @@ The model was close at hand. Japan first, and then South Korea, Taiwan and Singa
 
 Shenzhen had about thirty thousand people in its market town in 1980. Its builders boasted of adding a floor to a tower every three days. Today it has more than seventeen million.
 
+![View over green trees and a park to a city of office blocks, with a half-finished skyscraper wrapped in scaffolding and cranes on the skyline](images/shenzhen_1996.jpg)
+*Luohu district in Shenzhen on 8 October 1996, with new towers going up behind the People's Park. Photo: wanghongliu, CC BY-SA 3.0.*
+
 ## One child
 
 The same pragmatists who freed the farmers took another decision in those years, and it was the harshest of all. They had concluded that China could not become prosperous if its population kept growing, and their engineers calculated that it must be held to about 1.2 billion by the end of the century.
 
 From 1980 most couples were permitted one child. Women had to register their pregnancies and apply for permission to give birth. Those who conceived without permission were pressed, and often forced, to have an abortion, sometimes late in pregnancy, and in 1983 alone twenty million people were sterilised. Families who evaded the rules had their houses pulled down.
+
+![A two-storey white house with a tiled roof, on whose wall a line of large red Chinese characters has been painted](images/onechild_sign.jpg)
+*A slogan painted on a house wall in Shaxi, Yunnan: China must be rich and strong, the nation must flourish, the population must be controlled. Photo taken in 2011. Photo: timquijano, CC BY 2.0.*
 
 In the countryside a son was a family's only pension. When they could have only one child, many made sure that it was a boy, by aborting girls once scans made it possible to tell, or by abandoning them. At the worst there were nearly a hundred and twenty boys born for every hundred girls. China today has some thirty million more men than women, and a population that is ageing very fast. The policy was ended in 2015.
 
@@ -55,6 +64,9 @@ Deng had loosened the economy, and he had no intention of loosening anything els
 A decade of reform had brought inflation, which neared twenty per cent, and it had brought corruption. Steel, coal and many other goods now had two prices, a low one fixed by the state for the planned part of production and a higher one in the market for the rest. Officials and their children used their positions to buy at the first and sell at the second. Students, whose prospects depended on connections that they did not have, were angry, and so were workers on fixed wages.
 
 In April a popular reforming leader died, and students from Beijing's universities marched to the great square in the middle of the capital to mourn him. They stayed. They asked for a free press, for dialogue with the leaders, and for officials to disclose what they owned. In May several thousand began a hunger strike, timed for a visit by the Soviet leader Mikhail Gorbachev, which the government had to move out of the square in embarrassment. Workers, journalists and even policemen marched in support, and at the peak a million people filled the square. Art students built a statue of white foam and plaster ten metres high, a woman holding a torch in both hands, facing the portrait of Mao.
+
+![A tall bronze-coloured statue of a woman holding a torch above her head with one arm and a tablet in the other, on a floodlit sports ground at night, with flowers at its foot and people around it](images/goddess.jpg)
+*A replica of the Goddess of Democracy, the statue the art students built in Tiananmen Square in 1989, at the vigil in Victoria Park, Hong Kong, on 4 June 2010. Photo: MarsmanRom and Isa Ng, public domain.*
 
 The party's general secretary, Zhao Ziyang, who was its formal head and Deng's own choice for the post, wanted to talk to them. Deng and the old soldiers around him remembered the Red Guards, and saw chaos. On 20 May martial law was declared. The first troops sent into the city were blocked by crowds of ordinary citizens, who lectured the young soldiers and fed them.
 
@@ -68,9 +80,15 @@ Zhao spent the remaining fifteen years of his life under house arrest. The barga
 
 For three years after the killings the conservatives had the upper hand, and reform stalled. In January 1992 Deng, who was eighty-seven and held no office, boarded a train and travelled south to Shenzhen with his family. At every stop he said the same thing. Development is the only hard truth. Whoever is against reform should step down. The newspapers in Beijing ignored the trip for weeks, and then gave in.
 
+![Aerial view of a wide road, a plaza and a park in Shenzhen, with a large billboard showing the face of Deng Xiaoping beside the lawn](images/deng_billboard.jpg)
+*A billboard of Deng Xiaoping beside Lychee Park in Shenzhen, 2007. Photo: Brücke-Osteuropa, public domain.*
+
 What followed was the real take-off. The state's loss-making factories were closed or sold, and thirty million workers who had been promised a job for life were dismissed. Private business, which had been barely tolerated, was now encouraged.
 
 The labour came from the villages. Over the next thirty years more than two hundred and fifty million people left the countryside to work in the cities and the coastal factories. Nothing like it has happened anywhere, at any time. Most were young, and many were women in their teens, who lived twelve to a room in factory dormitories, worked eleven hours a day, six or seven days a week, and sent their wages home.
+
+![Two rows of workers in white overalls, hoods and masks, with red headbands, sitting at long green benches, assembling electronic parts](images/factory.jpg)
+*Workers assembling fibre-optic components in an electronics factory in Shenzhen, 2005. Photo: Steve Jurvetson, CC BY 2.0.*
 
 They did this as second-class citizens in their own country. Every Chinese is registered at birth as belonging to a particular place. A migrant registered in a village had no right to a free place for his children in a city school or to the city's medical insurance. So the children stayed behind with their grandparents, tens of millions of them, and saw their parents once a year, when the whole country travelled home for the new year festival.
 
@@ -85,6 +103,9 @@ Malcolm McLean owned a fleet of lorries and was tired of watching them wait at t
 It took twenty years, and a fight with the dockers' unions, for the idea to conquer. The boxes were made to standard sizes, so that the same one could ride on a lorry, a railway wagon and a ship, and be lifted by the same crane in any port in the world. The largest ships now carry the equivalent of twenty-four thousand of the smaller size. Sending a television set from China to Europe costs a few dollars.
 
 The container made distance almost irrelevant. A manufacturer no longer needed to be near his customers, or to make every part in one place. A telephone could be designed in California, with a screen made in Korea and chips made in Taiwan, and put together by hand in a Chinese city where three hundred thousand people worked in a single compound.
+
+![Red container cranes in a row beside a wet road, with stacks of containers marked Maersk Sealand, Evergreen and Cosco at the right](images/yangshan.jpg)
+*Container cranes and stacks of containers at the Yangshan deep-water port, which serves Shanghai, in 2013. Photo: Acstar, CC0.*
 
 ## Made in China
 
@@ -103,7 +124,13 @@ For thirty years the Chinese economy grew at about ten per cent a year, which do
 
 The physical change is hard to grasp. China opened its first 350-kilometre-an-hour railway in 2008, and now has more than the rest of the world put together. In the three years from 2011 it poured more cement than the United States used in the whole of the twentieth century.
 
+![A long white and blue high-speed train with a pointed nose curving through a tangle of tracks and overhead wires beside trees, in evening light](images/hsr.jpg)
+*A CRH380A high-speed train in Beijing, 2017. Photo: N509FZ, CC BY-SA 4.0.*
+
 The costs were of the same order. For years the air of the northern cities in winter was dangerous to breathe, and China now puts more carbon into the atmosphere than all the other rich countries combined. Farmers were pushed off their land for a fraction of its value. A country that had been one of the most equal on Earth became one of the more unequal.
+
+![Tower blocks and older apartment buildings in Beijing half hidden in a grey-brown haze](images/smog.jpg)
+*Apartment blocks in Beijing under a haze of pollution, seen from a hotel window on 17 October 2006. Photo: David Barrie, CC BY 2.0.*
 
 What did not change was who governed. Many in the West had been sure that trade and wealth would bring democracy. In 2000 an American president said that China's attempt to control the internet was like trying to nail jelly to a wall. China nailed it. It built a filtered network of its own, behind a barrier that blocks foreign news and social media, and a system of cameras and data that follows its citizens more closely than any state has before.
 
