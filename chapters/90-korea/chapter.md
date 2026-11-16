@@ -18,13 +18,22 @@ In 1945 Koreans had been ruled by Japan for thirty-five years, and it had been a
 
 When the emperor's surrender was broadcast, the country exploded with joy. Within days, committees of local people had formed in almost every town and county, to keep order, guard the grain stores and take over from the Japanese police. Some were led by communists, many by nationalists and Christians, and most by whoever had the respect of the neighbourhood. A national assembly of these committees met in Seoul in early September and declared a republic. Koreans assumed that they were now free.
 
+![A crowded market street in Seoul seen from above, full of men, women and children in light summer clothes, among low tiled roofs](images/seoul45.jpg)
+*A crowd in a market street in Seoul, then called Keijo, on 15 August 1945, the day of the Japanese surrender. Photographer unknown, Australian War Memorial, public domain.*
+
 ## Two governments
 
 The American general who landed two days later had been given no instructions about any republic. He was a plain soldier who had been chosen because his troops were the closest. He refused to deal with the committees, which looked to him like a communist front, and ruled through a military government. For want of anyone else who knew the work, he kept on the Koreans who had served in the Japanese colonial police. To most of the population these men were traitors.
 
 In the north, the Soviet command let the committees stand and put its own people into them. It had brought with it a Korean of thirty-three who had fought the Japanese as a guerrilla in Manchuria and had spent the last years of the war as a captain in the Soviet army. His name was Kim Il-sung. Within a year, with Soviet backing, he was at the head of a government that took the land from the landlords and the factories from the Japanese and shared the land out to the peasants. Several hundred thousand landlords, Christians and businessmen fled south.
 
+![A young man in a dark suit and tie standing behind a table and speaking, in front of a large Korean flag and a banner of Korean characters](images/kim46.jpg)
+*Kim Il-sung speaking at a rally in Pyongyang before the local elections of 3 November 1946. Photographer unknown, first published in a Soviet book in 1948, public domain.*
+
 The Americans found their man in a very different figure. Syngman Rhee was seventy. He had been jailed and tortured as a young nationalist in the 1890s, had taken a doctorate at an American university, and had spent thirty-three years in exile in the United States, lobbying for his country's freedom. He was a fierce anti-communist, autocratic, and impossible to control.
+
+![Head-and-shoulders portrait of an elderly Korean man with white hair, in a light jacket, shirt and tie, smiling slightly](images/rhee48.jpg)
+*Syngman Rhee, official portrait, 1948, the year he became the first president of the Republic of Korea. Photographer unknown, public domain.*
 
 The two great powers talked for two years about forming a single government and could not agree on who should be in it. In 1948 each sponsored its own. A Republic of Korea was proclaimed in the south in August, with Rhee as president, and a Democratic People's Republic in the north in September, under Kim. Each claimed to be the government of the whole peninsula, and each promised to reunite it.
 
@@ -56,6 +65,9 @@ The first American units, rushed over from garrison duty in Japan, were soft and
 
 The commander of the United Nations forces was General Douglas MacArthur, who had ruled Japan since its surrender. He was seventy, vain, theatrical, and had not spent a night in Korea. He now proposed to land an army at Inchon, the port of Seoul, a hundred and fifty miles behind the northern lines. The harbour there has some of the highest tides in the world, and for most of the day its approaches are miles of mud. His admirals and the chiefs in Washington told him that it was too great a risk. On 15 September the marines went in on the high tide, and found the place almost undefended. Seoul was retaken within two weeks. The northern army, cut off from its supplies, fell apart.
 
+![A row of small landing craft crossing a grey sea towards a long bank of black smoke on the shore under a cloudy sky](images/inchon.jpg)
+*Landing craft heading for the smoking beach at Inchon on 15 September 1950. Photo: Sgt. Frank C. Kerr, US Marine Corps, public domain.*
+
 The purpose of the war had been achieved in three months. The invader had been driven out. The temptation to go further was too strong. Truman authorised MacArthur to cross the parallel, destroy the northern army and unite Korea under Rhee. By late October American and southern troops were approaching the Yalu, the river that forms the border between Korea and China.
 
 China had given notice. Its prime minister summoned the ambassador of India at midnight and told him that if American troops crossed the parallel, China would enter the war. Washington took this for bluff. MacArthur assured the president that the Chinese would not come, and that if they did there would be the greatest slaughter.
@@ -63,6 +75,9 @@ China had given notice. Its prime minister summoned the ambassador of India at m
 They had already come. More than two hundred thousand Chinese soldiers had crossed the river bridges by night during October and hidden in the mountains by day, lighting no fires. Mao did not want an American army on his border, a year after winning his own civil war. They struck once at the end of October, mauled several units, and vanished back into the hills. MacArthur pressed on. At the end of November they attacked in full strength. They had few trucks, little artillery and no air cover, and they came on foot along the ridges, in padded cotton uniforms and canvas shoes, to the sound of bugles.
 
 It was the coldest winter in years. Around a frozen reservoir in the northern mountains, thirty thousand American and allied troops were surrounded by four times their number, at thirty-five degrees below zero. Weapons jammed, and blood plasma froze in the bottles. They fought their way out to the sea in two weeks. The whole United Nations army fell back nearly three hundred miles, and in January Seoul was lost for the second time.
+
+![Soldiers in heavy coats and helmets walking across a snowy plain beside a tank, with mountains behind](images/chosin.jpg)
+*Troops and a tank of the US 1st Marine Division moving through snow in the breakout from the Chosin Reservoir, winter of 1950. Photo: Cpl. Peter McDonald, US Marine Corps, public domain.*
 
 Then the Chinese outran their supplies in turn. By the spring of 1951 Seoul had changed hands for the fourth time, and the front had come to rest close to the thirty-eighth parallel, where it had all started.
 
@@ -85,11 +100,17 @@ While the delegates argued, the armies dug in across the waist of the peninsula 
 
 The other war was fought from the air. American aircraft dropped more bombs on Korea than they had dropped in the whole Pacific theatre in the war against Japan, along with thirty thousand tons of napalm, a jellied petrol that sticks and burns. By 1952 the pilots were complaining that there were no targets left. Almost every town and city in the north had been levelled. In the last months the bombers broke several of the dams that irrigated the rice fields. The people of the north moved underground, into caves and tunnels, and whole factories and schools went with them. The memory of those years is the foundation of what the northern state has told its people about America ever since.
 
+![A town beside a bay seen from a hill, with a huge pillar of white and black smoke rising from bombs bursting among the buildings by the docks](images/wonsan.jpg)
+*Bombs from American B-26 aircraft bursting among warehouses and docks at the port of Wonsan, North Korea, about 1951. Photo: US Air Force, public domain.*
+
 Civilians were killed by every army. In the first weeks of the war, the southern police and army shot at least a hundred thousand people who had been registered as suspected leftists, for fear that they would help the invader. The northern forces shot officials, policemen and landlords in the towns that they took, and killed their prisoners when they retreated. American soldiers, ordered to let no refugees through their lines in case infiltrators were among them, killed several hundred who had taken shelter under a railway bridge.
 
 ## A ceasefire
 
 Stalin died in March 1953, and his successors wanted the war closed. The armistice was signed on 27 July, in a wooden hall built for the purpose at a village called Panmunjom. An American general signed for the United Nations and a northern general for the communist side. They did not speak or shake hands. Rhee, who wanted to fight on, refused to sign at all.
+
+![Officers signing papers at two long tables on opposite sides of a bare wooden hall, watched by guards standing at the windows behind them](images/armistice.jpg)
+*The armistice being signed in the hall at Panmunjom in July 1953: the United Nations delegation, led by General W. K. Harrison, at the left table and the northern delegation at the right. Photographer unknown, US National Archives, public domain.*
 
 It was a ceasefire, and no peace treaty has ever followed it. The two armies each drew back two kilometres from the line where they stood. The strip between them runs for two hundred and fifty kilometres from sea to sea, fenced and mined on both sides, and most of it has been left to itself for seventy years. Cranes and wild deer live in it.
 
@@ -105,6 +126,13 @@ China had fought the strongest power on Earth to a standstill, a century after t
 
 For Koreans the war made the division permanent. Millions of people had been caught on the wrong side of the line from their parents, wives or children. No post crossed it, and no telephone calls. Since 1985, and more often since 2000, the two governments have occasionally allowed a few hundred old people, chosen by lottery, to meet their relatives for a few hours in a hotel, under supervision, before being bused back. Most of those who put their names down have died waiting.
 
+![A wrecked steel bridge across a wide river, its twisted girders crowded with people climbing along it, and more people on the far bank](images/bridge.jpg)
+*Korean refugees climbing over the wrecked Taedong River bridge at Pyongyang on 3 December 1950, fleeing the advancing Chinese army. Photo: Sgt. D. Helms, US Army, public domain.*
+
 In 1953 the north was the richer half. It had the industry, and Soviet and Chinese aid rebuilt it quickly. The south was one of the poorest countries in the world, living on American grain, under one dictator after another. From the 1960s it began to make shirts, then ships, then cars and computer chips, for sale abroad, and in 1987 its people forced the generals to allow free elections. The north remained the property of one family, which is now in its third generation. It has built nuclear weapons, and in the 1990s it let several hundred thousand of its people starve.
 
 The two halves share a language, a cuisine and two thousand years of history. Young men who escape from the north are, on average, several centimetres shorter than southerners of the same age, and the south's income per person is more than twenty times the north's. A photograph of the peninsula taken at night from space shows the south as a blaze of cities, and China glowing to the north-west. Between them is a dark shape with one small point of light at the capital, and at its southern edge the lights stop along a line.
+
+
+![A night photograph of the Korean peninsula from space: a blaze of city lights in the south, a long line where they stop, and a dark mass to the north](images/night.jpg)
+*The Korean peninsula at night, photographed from the International Space Station on 24 January 2024: the lights of the south stop at the border, and the north is dark. Photo: NASA, public domain.*
