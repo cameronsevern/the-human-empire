@@ -1,0 +1,101 @@
+# 108. Where does the money go when you tap a card?
+
+*Kenya, the United States, China, India and Sweden, from 1950 to 2025*
+
+Nothing goes anywhere. When a card is tapped, a message is sent, and numbers are changed in the books of two banks. Most money had been an entry in a bank's books for a long time already. What is new is that nearly every purchase has become a record too, kept by a company or a government.
+
+At a vegetable stall in one of the markets of Nairobi, the capital of Kenya, a woman buys tomatoes and onions. She takes out a plain mobile telephone with buttons, the kind that cost twenty dollars, and types in a short number painted on a board above the stall, then the price, then a four-figure code. The stallholder's own telephone buzzes in her apron pocket. She glances at the message, nods, and hands over the bag.
+
+No coin or note has changed hands, and neither woman has a bank account or a card. The buyer has just sent the seller two hundred Kenyan shillings by text message.
+
+## Send money home
+
+Until 2007 a Kenyan who worked in the city and wanted to send part of his wages to his family in a village had few choices. Banks were for the well-off and had no branches in the countryside. He could travel home himself, losing days of work. More often he sealed the notes in an envelope and gave it to a bus driver, or to a friend who was going that way, and hoped.
+
+In March 2007 the country's largest mobile telephone company launched a service called M-Pesa. The M stood for mobile, and *pesa* is the word for money in Swahili. Kenyans were already in the habit of sending one another prepaid telephone minutes as a kind of currency. The company made it official. A customer hands cash to one of its agents, who are mostly the keepers of the small kiosks that sell telephone credit and soap in every village, and the agent credits the same sum to the customer's telephone number. The customer can then send any part of it to any other telephone in the country, and the person who receives it can walk to the nearest kiosk and turn it back into cash.
+
+Within two years nine million Kenyans were using it. Today nearly every adult does, and a sum equal to about half of everything the country produces passes through it each year. Economists who followed several thousand households over six years found that the service had lifted about one Kenyan family in fifty out of extreme poverty. The effect was strongest in households headed by women, many of whom used their new means of saving and receiving money to give up farming for small trade.
+
+## Numbers in a book
+
+What the Kenyan telephone company had built was a bank ledger, held in a computer and operated from a keypad. That is what most money already was.
+
+A coin has value in itself, or once did. A banknote is a promise printed by a government. Both together make up a small part of the money in a modern country, less than a tenth. The rest exists only as figures in the accounts of banks. When an employer pays a salary, no notes are moved from one vault to another. The bank lowers the number beside the employer's name and raises the number beside the worker's. This had been true since the nineteenth century, when the figures were written by clerks in bound books.
+
+For ordinary shopping, however, people went on using cash, because a shopkeeper could not see into a customer's bank account. A cheque was a written instruction to the bank to change the numbers, and the shopkeeper had to trust that the money was there. The story of the last seventy years is the story of how that trust was automated.
+
+## Sixty thousand envelopes
+
+In 1949 a New York businessman finished dinner at a restaurant and found that he had left his wallet in another suit. His wife drove over with cash. The following year he and a partner offered two hundred acquaintances a small cardboard card, which twenty-seven restaurants in Manhattan had agreed to accept in place of money. The diner signed the bill. The card company paid the restaurant, less seven per cent for its trouble, and sent the diner one account at the end of the month.
+
+That was a convenience for salesmen with expense accounts. The card as most people know it was born eight years later, in a farming town in California. In September 1958 the largest bank in the state posted sixty thousand plastic cards to its customers in Fresno, none of whom had asked for one. Each card came with a limit of a few hundred dollars. The holder could use it in any shop in town that had signed up and, unlike the diner, need not pay in full at the end of the month. He could carry the debt forward, at interest of eighteen per cent a year.
+
+The bank had chosen to post cards unasked because of a puzzle. No shop would accept a card that few customers carried, and no customer wanted a card that few shops accepted. Blanketing a whole town solved both at a stroke. It was nearly a catastrophe. Cards were stolen from letter boxes, a fifth of the holders did not pay, and the bank lost twenty million dollars. It persisted, and within a few years the card was making money. In 1966 it began licensing the scheme to banks in other states and countries, and ten years after that the network was given a name chosen because it sounds the same in every language: Visa.
+
+Two inventions made the system fast. In the 1960s an engineer at a computer company was trying to attach a strip of magnetic tape, which could hold an account number, to a plastic card, and every glue he tried warped the tape. His wife, who was ironing, suggested that he melt it on with the iron. And in June 1967 a branch of a British bank in a London suburb unveiled a machine in its outside wall that gave out ten-pound notes at any hour. Its inventor said that the idea had come to him in the bath, from thinking about chocolate vending machines.
+
+## One second
+
+Tap a card on a shop's terminal today, and about a second passes before it beeps. In that second a message makes a round trip among four parties.
+
+The terminal reads the account number from the chip in the card and sends it, with the amount, to the shop's own bank. That bank passes it to the card network, which is a switchboard connecting thousands of banks. The network looks at the first digits of the number, works out which bank issued the card, and forwards the question: will you pay this? The cardholder's bank checks that the account exists and has the money or the credit. Its computer also gives the purchase a score for the likelihood of fraud, by comparing it with everything the cardholder has bought before. A coffee in the usual street passes. A television bought at three in the morning in another country may not. The answer travels back along the same chain, and the terminal beeps.
+
+No money has moved yet. At the end of the day the network adds up what every bank owes every other and tells each one a single net figure, and the banks adjust their accounts with one another. The shop is paid a day or two later.
+
+It is not paid in full. Out of every hundred dollars spent by card in the United States, the shop receives about ninety-eight. Most of the difference goes to the bank that issued the card, a little to the network and a little to the shop's bank. In Europe the law caps the largest of those fees at a fraction of the American level. American shops hand over more than a hundred and seventy billion dollars a year this way, and they recover it by charging higher prices to everybody.
+
+That produces an odd transfer. The issuing banks use much of their share to pay for the air miles and cash rewards that persuade people to use their cards, and the most generous rewards go to the customers with the best credit, who are the richest. The poorest customers, who pay in cash, pay the same higher prices and get nothing back.
+
+The larger profit is in the debt. Americans owe well over a trillion dollars on their cards, at an average interest rate above twenty per cent.
+
+## A compact disc
+
+Paying a stranger in a shop is one thing. Paying a stranger over a telephone wire, on a network where any message can be read by any machine that it passes through, is another, and in the early 1990s most people who understood the internet thought that nobody would ever type a card number into it.
+
+The solution had been found in 1977 by three mathematicians. Ordinary codes use one key, which both sender and receiver must know, and which must therefore somehow be passed between them in secret. The three devised a lock with two keys. One of them closes it and the other opens it, and knowing the first tells you nothing useful about the second. A shop can publish its closing key to the whole world. Anyone can use it to scramble a card number, and only the shop, which keeps the opening key to itself, can unscramble it.
+
+On 11 August 1994 a man in Philadelphia used a program built on that idea to buy a compact disc by an English singer, for twelve dollars and forty-eight cents plus postage, from a website run by a group of recent graduates in New Hampshire. It is the first purchase known to have been made securely over the internet. The following July a former Wall Street analyst began selling books online from a garage in Seattle.
+
+## The parcel
+
+An order placed with that bookseller today sets off a chain that reaches round the world. The message goes to a warehouse the size of twenty football fields, where a human "picker" stands at a station while squat orange robots bring the shelves to her, and a screen tells her which item to take and how many seconds she has taken over the last one. The company employs a million and a half people and three quarters of a million robots. The goods very probably came in a steel box from a factory in China. The parcel is brought to the door by a driver who is, in many cases, not an employee of anyone, and who is routed and timed by an application on his telephone.
+
+The customer gets almost anything, cheaply, the next day. The cost fell on the shops. Booksellers went first, then sellers of records, toys, clothes and electrical goods. In many towns the main shopping street, which for a century and a half had been where people met one another, is now a row of empty windows.
+
+## Red envelopes
+
+China never had the card. In the early 2000s few Chinese owned one, and shops did not have the terminals. When the country's largest online marketplace needed a way for strangers to pay one another, it set up its own, in 2004, which held the buyer's money until the goods arrived. Nine years later the company behind the most popular messaging application added payments to it.
+
+Both worked through the mobile telephone, using a square pattern of black and white dots that a telephone's camera can read. A seller needs no equipment at all. He prints his pattern on a sheet of paper and tapes it to his cart. At the lunar new year of 2014, when Chinese families give children money in red envelopes, the messaging company invited its users to send digital ones, and several million people linked their bank accounts to it in a week. Within a few years cash had almost vanished from Chinese cities. Street musicians and beggars put out the square pattern in place of a hat.
+
+Two companies had come to handle nearly all the everyday payments of a billion people, and with them a record of where each person had been and what each had bought. In November 2020 the Chinese government stopped the larger of the two from selling shares to the public, two days before what would have been the biggest such sale in history, and brought both under the supervision of the central bank. The state now has access to the record.
+
+## A public road
+
+India took a third course. In 2016 a body set up by the central bank and owned by the country's banks switched on a payments system that worked like a public road. Any bank and any telephone application may connect to it. A person chooses a short address, like an email address, and money sent to it moves from one bank account to another in a few seconds, at any hour, for nothing. Neither the payer nor the shopkeeper pays a fee.
+
+It rested on two earlier programmes. The government had issued more than a billion Indians with an identity number tied to their fingerprints and the pattern of their eyes, and it had opened basic bank accounts for half a billion people who had never had one.
+
+On the evening of 8 November 2016 the prime minister announced on television that, as of midnight, the two largest banknotes, which made up eighty-six per cent of all the cash in the country, would no longer be legal tender. The aim was to flush out untaxed wealth. It caused months of chaos, with queues at every bank and labourers going unpaid, and it did little to hurt the tax evaders. It did push tens of millions of people onto the new system. Indians now make about twenty billion payments a month on it, nearly half of all the instant digital payments in the world, down to a few rupees for a cup of tea at a roadside stall.
+
+## Ten thousand for two pizzas
+
+Every one of these systems depends on somebody in the middle who keeps the ledger and must be trusted: a bank, a network, a telephone company, a state. On 31 October 2008, six weeks after the collapse of Lehman Brothers, a nine-page paper was posted to an email list for cryptographers under the name Satoshi Nakamoto. It described a form of electronic cash that needed nobody in the middle.
+
+The idea was to give the ledger to everyone. Every payment ever made is recorded in a single list, and thousands of computers around the world each hold a complete copy. New payments are gathered into a block every ten minutes or so and added to the end. To stop anyone from rewriting the list in his own favour, adding a block is made deliberately hard. Computers compete to solve an arithmetical puzzle that can be cracked only by trillions of guesses, and the winner is rewarded with newly created coins. Since each block is mathematically chained to the one before it, to alter an old entry a cheat would have to redo all the work that has been done since, faster than the rest of the world combined. The rules fix the total number of coins that will ever exist at twenty-one million.
+
+The first block was created on 3 January 2009. Buried in it was the headline of that morning's London *Times*: "Chancellor on brink of second bailout for banks". The inventor called the currency Bitcoin, handed the project to others two years later, and vanished. Nobody has established who he, she or they were, and the million or so coins that he created in the first months have never been touched.
+
+On 22 May 2010 a programmer in Florida offered ten thousand bitcoins to anyone who would have two pizzas delivered to his house. Someone took the offer. At the prices of late 2024 those coins would have been worth a billion dollars.
+
+That is the difficulty. A currency whose value can double or halve in a few months is of little use for buying pizza, and the system can handle only about seven payments a second, where the card networks handle tens of thousands. The puzzle-solving uses as much electricity as a middle-sized country. Bitcoin and its thousands of imitators have served chiefly as something to bet on, and as the favoured currency of people who lock up a hospital's computers and demand a ransom. They have also been a refuge for savers in countries whose own money is melting away. In 2022 one of the largest exchanges on which such coins were traded collapsed, and its founder went to prison for twenty-five years for stealing his customers' deposits. Trust, it turned out, had only been moved to a new set of middlemen.
+
+## Switched off
+
+A system that records every payment gives great power to whoever holds the records.
+
+In February 2022 lorry drivers protesting against vaccination rules blocked the centre of the Canadian capital for three weeks. The government invoked an emergency law and ordered the banks to freeze the accounts of people connected with the protest, without going to a court. About two hundred and eighty accounts were frozen. Those people could not buy food or fuel or pay their rent. The same month, the Western powers cut the largest Russian banks off from the messaging system through which the world's banks send one another payment instructions. One was done to protesters in a democracy and the other to a state that had invaded its neighbour, and the tool was the same.
+
+Cash leaves no trace. A person who pays in notes cannot be profiled, sold to advertisers, or switched off. As it disappears, those who cannot or will not use the alternatives are shut out. About one and a half billion adults in the world still have no account of any kind. In the rich countries it is the old, the homeless and the recently arrived who find that the bus, the car park and the public lavatory no longer take coins.
+
+Sweden has gone further than any other country. Fewer than one purchase in ten there is made in cash, many shops and most bank branches refuse to handle it, and Swedes pay one another by telephone as a matter of course. In 2024 the Swedish government posted a booklet to every household in the country, explaining how to prepare for a war or a breakdown of the electronic networks. It listed the things that every home should keep in reserve: water, tinned food, a radio with batteries. On the list, in the least cashless country on Earth, was a supply of banknotes and coins sufficient for a week.
