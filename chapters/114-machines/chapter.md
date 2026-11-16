@@ -66,13 +66,13 @@ It needs the written and drawn work of other people. Most of the models were tra
 
 And it needs labour. Before a model is released, people must label its training examples and teach it what not to say, which means reading and marking thousands of descriptions of violence and abuse. Much of that work has been done in Nairobi, Manila and Caracas, for one or two dollars an hour.
 
-The most capable models belong to a handful of companies. In 2025 the largest of them spent more than three hundred billion dollars on buildings and chips, which is more than the yearly cost, in today's money, of the programme that put men on the Moon at its height.
+The most capable models belong to a handful of companies. In 2025 the four largest of them together spent more than three hundred billion dollars on buildings and chips, which is more than the yearly cost, in today's money, of the programme that put men on the Moon at its height.
 
 ## Work
 
 Each great change in technology has altered who does what. Writing created the clerk. The printing press put the copyists of manuscripts out of work and made a living for typesetters. New machines destroyed the trades of the stocking knitters and handloom weavers of England, some of whom, in 1811 and 1812, took hammers to them. Those craftsmen were right about what would happen to them. Their grandchildren were better off, but it took two generations for the gains from the factories to reach the people who worked in them.
 
-What is different this time is the kind of work. Earlier machines replaced muscle and then routine. This one produces text, pictures, computer code and analysis, which are what office workers, translators, illustrators, programmers and call-centre staff are paid for. An international body estimated in 2024 that two jobs in five in the world, and three in five in the rich countries, involve tasks that such systems can do.
+What is different this time is the kind of work. Earlier machines replaced muscle and then routine. This one produces text, pictures, computer code and analysis, which are what office workers, translators, illustrators, programmers and call-centre staff are paid for. An international body estimated in 2024 that two jobs in five in the world, and three in five in the rich countries, involve tasks that such systems could change.
 
 What has actually been measured so far is modest. When a large company gave a language model to five thousand of its customer-service agents, they resolved about a seventh more customers' problems an hour, and the improvement was largest among the newest and least skilled, who were in effect being handed the habits of the best. Whether that means better jobs or fewer jobs depends on who owns the system and who decides how the gain is shared, as it did with the loom.
 
