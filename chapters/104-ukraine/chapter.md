@@ -10,6 +10,9 @@ Nearly every government in the world expected Ukraine to be beaten in a week. Th
 
 On the second night a short video appeared on the internet. It had been filmed on a telephone, in the dark, in the street outside the presidential offices in the middle of Kyiv. Five unshaven men in olive-green fleeces stood facing the camera. The one in front was Volodymyr Zelensky, the president. He pointed to each of the others in turn: the leader of his party in parliament, the head of his office, the prime minister, an adviser. We are all here, he said. Our soldiers are here. The citizens are here. We are defending our independence.
 
+![President Zelensky in an olive fleece sits at a long white table in a meeting room with a Ukrainian flag on a screen behind him, beside the prime minister, with visiting ministers in the foreground](images/zelensky.jpg)
+*President Volodymyr Zelensky (left) at a meeting in Kyiv on 15 March 2022 with the prime ministers of Poland, the Czech Republic and Slovenia, who had travelled to the city while it was under attack. Photo: Cabinet of Ministers of Ukraine, CC BY 4.0.*
+
 ## The same cradle
 
 Russians and Ukrainians trace their beginnings to the same place. In the ninth century Viking traders founded a state on the river Dnieper with its capital at Kyiv, and its princes later took their Christianity from Constantinople. It broke into rival principalities, and the Mongols destroyed what was left. After that its peoples lived under different rulers for four hundred years. The north-east grew into the state of Moscow, under its tsars. The lands around Kyiv passed to Lithuania and Poland, which looked west, and on the open steppe to the south there grew up communities of free horsemen, the Cossacks, who elected their own leaders. A separate language formed there, as close to Russian as Dutch is to German.
@@ -36,6 +39,9 @@ The alliance moved a long way east. Poland, Hungary and the Czech Republic joine
 
 To Russia it looked as if a hostile military bloc was advancing to its doorstep while it was too weak to object. In 2007 Putin told a conference in Germany that the expansion was a serious provocation. The following spring, at a summit in Bucharest, the alliance did the worst of both things. The American president wanted to set Ukraine and Georgia on the path to membership. Germany and France refused. The compromise was a sentence stating that the two countries will become members, with no date and no plan. It gave them no protection and gave Russia a grievance. Four months later Russia fought a five-day war with Georgia.
 
+![Vladimir Putin speaks from a lectern in a large hall, with rows of delegates seated at blue-draped tables](images/munich.jpg)
+*Vladimir Putin speaking at the Munich Security Conference on 10 February 2007, where he called the expansion of the Western alliance a serious provocation. Photo: kremlin.ru, CC BY 4.0.*
+
 Some respected Western scholars hold that this was the root of everything that followed, and that a great power will not tolerate a rival alliance on its border any more than the United States tolerated Soviet missiles in Cuba. Between 2008 and 2022, however, Ukraine came no nearer to joining. The larger members would not hear of it, and there was no prospect of its being let in while part of its territory was occupied.
 
 ## The colonel
@@ -54,15 +60,24 @@ Ukraine twice threw out such a government.
 
 In 2004 the candidate favoured by Moscow was declared the winner of a presidential election that had been openly rigged. His opponent had been poisoned during the campaign with a dose of dioxin that left his face pitted and grey. Hundreds of thousands of people camped for weeks in the snow in the main square of Kyiv, wearing orange, until the courts ordered the vote to be held again, and the poisoned man won.
 
+![Head and shoulders of a grey-haired man in a dark suit and red tie, his face deeply pitted and scarred](images/yush.jpg)
+*Viktor Yushchenko in January 2006, his face still marked by the poisoning of 2004. The file is 824 pixels wide. Photo: Press Service of the President of Russia, CC BY 4.0.*
+
 The loser of that contest, Viktor Yanukovych, was elected fairly six years later. In November 2013 he was about to sign a trade and political agreement with the European Union, for which the western half of the country and most of the young had been waiting for years. A week before the ceremony, under heavy pressure from Moscow and with the offer of a Russian loan, he announced that he would not.
 
 Students came out into the same square that night. When riot police beat them, the students' parents came. The protest lasted three months, through a bitter winter, behind barricades of ice and tyres. In the third week of February 2014 the police opened fire, and on one morning their marksmen shot dead nearly fifty people. About a hundred protesters died that winter. The next day the president fled, and he soon turned up in Russia. Crowds wandered through his country estate and found a private zoo, a floating restaurant and a collection of vintage cars.
+
+![Barricades of planks and stacked paving stones at night, with a large fire burning behind them and figures in helmets standing in the glow](images/maidan.jpg)
+*Barricades burning on Independence Square in Kyiv on the night of 18 February 2014, during the clashes between protesters and police. Photo: Mstyslav Chernov, CC BY-SA 3.0.*
 
 There are two accounts of that winter, and the war is in large part a fight between them. Ukrainians call it the Revolution of Dignity, a popular rising against a thief. The Russian government calls it a coup, organised by the Americans, that put fascists in power. American officials did openly back the protesters. There were nationalists of the far right on the barricades. But the crowds numbered in the hundreds of thousands, and when Ukraine chose a president that year, the candidates of the far right took about two per cent between them.
 
 ## Little green men
 
 Putin acted within days. At the end of February 2014 soldiers in green uniforms without badges seized the parliament building and the airports of Crimea, where Russia had kept its Black Sea fleet under a lease. Moscow said that they were local volunteers who had bought their kit in shops. Less than three weeks later, under their guns, a referendum was held, and Russia annexed the peninsula. It was the first time since 1945 that a European state had annexed a neighbour's territory by force.
+
+![Two men in green camouflage, helmets, face masks and body armour, one with a rifle, stand outside an airport terminal; their uniforms carry no badges](images/crimea.jpg)
+*Armed men in uniforms without badges outside Simferopol airport in the Crimea on 28 February 2014. Photo: Elizabeth Arrott, Voice of America, public domain.*
 
 In April armed men led by Russian officers took over town halls in the industrial east, the Donbas, and proclaimed two "people's republics". When the Ukrainian army began to win the region back, regular Russian units crossed the border to stop it. In July a Russian anti-aircraft missile, fired from territory held by the separatists, brought down a Malaysian airliner on its way from Amsterdam and killed all two hundred and ninety-eight people on board.
 
@@ -84,7 +99,13 @@ The Russian plan depended on speed. Paratroopers would seize the airfield outsid
 
 It failed on the first day. Ukrainian troops shelled the runway so that nothing could land. The columns coming from the north were confined to a few roads through forest and marsh, where infantry with shoulder-fired missiles destroyed the leading and the last vehicles and then the rest. One convoy sat stalled for a week in a line sixty kilometres long, out of fuel and food. The Russian soldiers had been told that they would be greeted with flowers. At the end of March they were withdrawn.
 
+![A tree-lined suburban street strewn with the burnt wreckage of tanks and armoured vehicles, with houses and a supermarket sign beyond](images/bucha.jpg)
+*Vokzalna Street in Bucha, near Kyiv, where a Russian column was destroyed on 27 February 2022, filmed on 6 April 2022 after the Russian troops had left. Still from a video by Ukrinform TV and the Ukrainian Armed Forces, CC BY 3.0.*
+
 In the towns that they left, bodies lay in the streets. In Bucha, a commuter suburb, more than four hundred civilians were found dead, many shot with their hands tied behind them. In the southern port of Mariupol, which was surrounded and shelled for nearly three months, families sheltered in the cellars of the city's theatre. They had painted the Russian word for children on the ground outside, in letters large enough to read from the air. On 16 March a Russian aircraft dropped two bombs on it.
+
+![A damaged white building behind bare trees and a railing, with smoke and rubble at its base, seen across an empty road](images/mariupol.jpg)
+*The drama theatre in Mariupol after it was bombed on 16 March 2022. The file is 960 pixels wide. Photo: Donetsk Regional Military Administration, CC BY 4.0.*
 
 Ukraine had held, to the surprise of its enemies and its friends. The people in the east and south, who spoke Russian and whom Putin had claimed to be rescuing, fought him as hard as anyone.
 
@@ -93,6 +114,9 @@ Ukraine had held, to the surprise of its enemies and its friends. The people in 
 In the autumn of 2022 Ukrainian offensives recovered large areas in the north-east and the south. Russia answered by calling up three hundred thousand men, which sent as many again fleeing abroad, and by declaring four Ukrainian regions to be part of Russia, though it did not fully control any of them. After that the front, a thousand kilometres long, barely moved. Towns in the Donbas were fought over for months, street by street, until nothing stood. Both armies dug in behind minefields. It looked, from above, like the Western Front in 1916.
 
 Armies had used pilotless aircraft before, large and costly ones. In Ukraine both sides turned to small racing drones of the kind sold to hobbyists, steered through goggles that show the view from a camera in the nose, with a grenade or an anti-tank charge strapped underneath. Such a machine costs about five hundred dollars. It can fly into the open hatch of a tank that cost several million. By 2024 Ukraine alone was building more than a million a year, and drones were causing most of the casualties on both sides.
+
+![A small racing-style drone with four propellers lies on a cardboard sheet beside a green ammunition box and a warhead with a red fin assembly](images/drone.jpg)
+*A hobbyist-style first-person-view drone beside the warhead that is fitted to it, in Ukraine in September 2023. The file is 1200 pixels wide. Photo: Armyinform, CC BY 4.0.*
 
 Other drones watch. Between them and the commercial satellites that photograph the front every day, there is very little left to hide behind. A vehicle that moves within fifteen kilometres of the line is likely to be seen within minutes and struck. Soldiers call that belt the kill zone. Tanks, which had dominated land warfare for a century, were kept hidden and used sparingly. Supplies go forward at night on foot, or on small robot carts, and the wounded lie for days because nobody can reach them. When each side learned to jam the other's radio signals, drones were flown on reels of hair-thin glass fibre, kilometres long, and whole fields near the front are now covered with shining thread.
 
@@ -106,6 +130,9 @@ By the end of 2025 well over a million soldiers on the two sides had been killed
 *Ukraine in its internationally recognised borders: the land held by Russia and its proxies from 2014, the line of contact of 2015 to 2022, the furthest Russian advance in March 2022, and the front and the land held by Russia at the end of 2025, all approximate. Below, the members of the Atlantic alliance in Europe in 1990, and those that joined by 2004 and by 2024. Map: drawn for this book; coastlines and rivers from Natural Earth, public domain.*
 
 Ukrainian children from the occupied areas, some twenty thousand by Kyiv's count, were taken to Russia and placed with Russian families or in camps. Russia does not belong to the international criminal court, but Ukraine has accepted its authority over crimes committed on Ukrainian soil. In March 2023 the court issued a warrant for Putin's arrest on that charge.
+
+![A woman in a yellow coat leads a spotted dog in a blue coat along a road, followed by a child with a rucksack and an adult carrying a bag](images/border.jpg)
+*Ukrainian refugees walking from the border crossing at Medyka, Poland, on 2 March 2022. Photo: Bartosz Siedlik, European Commission, CC BY 4.0.*
 
 The countries of the West sent Ukraine weapons and money worth several hundred billion dollars, and froze a similar sum of Russia's reserves. They did not send soldiers, since Russia has the largest nuclear arsenal in the world and its ruler reminded them of it regularly. Most of Asia, Africa and Latin America condemned the invasion at the United Nations and declined to join the sanctions, and India and China bought the oil that Europe would no longer take.
 
