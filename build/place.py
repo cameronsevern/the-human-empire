@@ -1,4 +1,5 @@
 """Place images in a chapter, then delete unused image files and ledger rows.
+Any image the chapter already shows is kept.
 
     from place import place
     place("chapters/10-wheel", [(anchor, file, alt, caption), ...])
@@ -6,6 +7,7 @@
 Each image goes after the paragraph that starts with `anchor`.
 """
 import os
+import re
 
 
 def place(folder, items):
@@ -18,6 +20,8 @@ def place(folder, items):
         paras.insert(hits[0] + 1, f"![{alt}](images/{f})\n*{cap}*")
     open(p, "w").write("\n\n".join(paras))
     keep = {f for _, f, _, _ in items}
+    # files the chapter already uses (drawn maps, charts, diagrams) stay
+    keep |= set(re.findall(r"\]\(images/([^)]+)\)", "\n\n".join(paras)))
     d = os.path.join(folder, "images")
     for x in os.listdir(d):
         if x != "ledger.md" and x not in keep:
