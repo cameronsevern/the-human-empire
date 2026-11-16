@@ -80,6 +80,9 @@ Governments had paid for much of the research and had ordered hundreds of millio
 
 The vaccines were shared out much as wealth is. The rich countries had placed their orders first, in several cases for many times what their populations needed. An international scheme set up to buy doses for the poor found itself at the back of the queue. By the end of 2021 about three people in four in the rich countries had been vaccinated. In the poorest countries it was fewer than one in ten.
 
+![Bar chart of the share of people vaccinated against Covid by the end of 2021, by the income of their country. With at least one dose: rich countries 75 per cent, upper-middle-income countries 77 per cent, lower-middle-income countries 47 per cent, the poorest countries 8 per cent; the whole world 57 per cent. With the full first course: 69, 71, 35 and 4 per cent](images/chart_vaccinated.png)
+*The share of people who had received at least one dose of a Covid vaccine, and the full first course, by 31 December 2021, in countries grouped by income. Chart: drawn for this book; data from Our World in Data, with countries grouped by the World Bank's income classification.*
+
 India was meant to be the exception. It has the largest vaccine factory in the world, which had been contracted to supply the international scheme. In the spring of 2021 a new and more contagious form of the virus tore through the country. Hospitals in Delhi put up notices saying that they had no oxygen, and families drove from one to another with relatives gasping in the back seat. Cremation grounds overflowed into car parks. The government banned the export of vaccines, and the poor countries that had been waiting for them went without for another six months. India's official count for that wave was four thousand deaths a day at its peak. Studies of the overall rise in deaths put the true figure several times higher.
 
 ## Masts
@@ -103,6 +106,9 @@ No infected animal has been found, and no evidence of an infection at the labora
 ## The count
 
 Governments reported about seven million deaths from the disease. The true number is much larger, since many countries tested few of their dead. The better measure is to count how many more people died, of all causes, than would have been expected in ordinary years, which includes those who died because the hospitals were full. On the World Health Organization's reckoning the pandemic had killed about fifteen million people by the end of 2021. Other estimates put the total at well over twenty million by the time the World Health Organization declared the emergency over, in May 2023.
+
+![Line chart of estimated excess deaths in the world each week from 2020 to 2023, with a shaded range around the line. A small rise in spring 2020, the time of Bergamo and New York, grows to about 200,000 a week by the end of 2020, when the first vaccine was given outside a trial. The highest peak, about 350,000 a week in spring 2021, comes with the wave in India. Later peaks are lower, and by May 2023, when the emergency was declared over, the line is under 100,000 a week. About 23 million more deaths than in ordinary years by May 2023, an estimate](images/chart_excess_deaths.png)
+*Excess deaths in the world each week, 2020 to 2023: how many more people died, of all causes, than in ordinary years. The line is an estimate, and the shading shows its range. Chart: drawn for this book; data from The Economist's excess-mortality estimates, via Our World in Data.*
 
 The average length of human life, which had been rising almost without a break since 1950, fell by nearly two years.
 
