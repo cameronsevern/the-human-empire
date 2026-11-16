@@ -24,6 +24,9 @@ Beside this old Russia, a new one had sprung up in a single generation. Foreign 
 
 Over both Russias stood the tsar. Nicholas II was a gentle, dutiful, limited man, devoted to his wife and children, who believed that God had entrusted the Russian people to his personal care and that to share his power with elected politicians would be a betrayal of that trust.
 
+![Formal studio photograph of a bearded man in a military tunic seated among his wife and five children in white dresses and a sailor suit](images/family.jpg)
+*The tsar and his family, photographed in 1913. Photo: Boasson and Eggler, St Petersburg, public domain.*
+
 In January 1905 a priest led a procession of workers, in their Sunday clothes, carrying holy pictures and portraits of the tsar, to the Winter Palace in the capital. They had a petition asking their father the tsar for an eight-hour day and a parliament. The tsar was not there. The troops opened fire, and about two hundred people were killed in the snow.
 
 The massacre set off a year of strikes, mutinies and burning manor houses. In the factory towns, workers elected councils to run the strikes, and the Russian word for a council is *soviet*. The tsar saved his throne by granting a parliament, and then spent the next ten years cutting down its powers. The bond between the tsar and his people, which was supposed to be the foundation of the state, never recovered.
@@ -38,6 +41,9 @@ The tsar made things worse by an act of duty. In 1915 he went to the front to ta
 
 The empress, in turn, relied on a Siberian peasant named Rasputin, who had a reputation as a holy man and a much better founded one as a drunkard. Her only son suffered from a disease that prevented his blood from clotting, so that any bruise could kill him, and Rasputin seemed able to stop the bleeding when the doctors could not. She believed that he had been sent by God. Ministers were appointed and dismissed on his word. In December 1916 a group of noblemen, hoping to save the monarchy from itself, shot him and pushed his body under the ice of the river.
 
+![Head-and-shoulders photograph of a man with long hair, a heavy beard and an intense stare](images/rasputin.jpg)
+*Rasputin, the Siberian peasant the empress trusted, photographed in 1916. Photo: unknown author, public domain.*
+
 Meanwhile the country was coming apart for a more ordinary reason. The railways had been given over to the army and were wearing out. There was grain in the south, and the trains to bring it north did not run. Prices in the cities had risen fourfold since the start of the war, and wages had not. In Petrograd, in that last winter, the bakeries had flour for a few days at a time.
 
 ## Eight days
@@ -49,6 +55,9 @@ The next day twice as many people came out, and the day after that the whole cit
 On the third evening the tsar, from his headquarters nearly seven hundred kilometres away, telegraphed the order to end the disorders by force. The next afternoon soldiers fired into the crowds and killed several dozen people. The men who did the shooting were not hardened troops. The old army lay dead in Poland, and the garrison of Petrograd was made up of raw conscripts, peasants and workers in uniform, who had been dreading the day they would be sent to the front.
 
 That night the soldiers of one regiment sat up in their barracks arguing about what they had been made to do. In the morning they shot their commanding officer, took their rifles, and marched to the next barracks to bring out the men there. By evening half the garrison, some seventy thousand armed soldiers, had gone over to the people. The crowds opened the prisons and burned the police stations.
+
+![A dense crowd of soldiers with rifles and civilians marching down a street behind cloth banners with painted slogans](images/soldiers_feb1917.jpg)
+*Soldiers demonstrating in Petrograd, February 1917. Photo: unknown author, public domain.*
 
 The tsar set out for the capital by train. Railway workers shunted him onto a side line. In a siding at a provincial station, the general commanding that front came to his carriage with telegrams from the other army commanders. All of them advised him to go. On 2 March he signed a paper giving up the throne, on behalf of himself and his sick son. He wrote in his diary that evening that all around him was treason, cowardice and deceit.
 
@@ -74,9 +83,15 @@ Its leader had been born Vladimir Ulyanov, the son of a school inspector in a to
 
 Lenin added one thing to the teaching of Marx, and it changed the history of the century. Marx had expected the workers to make the revolution themselves, once the growth of industry had made them the majority. Lenin did not believe that they would. Left to themselves, he argued, workers would settle for higher wages. A revolution needed a party of full-time revolutionaries, small, secret and under strict discipline, which would lead the working class and act in its name. In 1903 the Russian Marxists split over who should be allowed to join, and Lenin's faction, which had won one vote at the congress, took the name Bolsheviks, "those of the majority". At the start of 1917 they had about twenty-four thousand members in a country of a hundred and seventy million.
 
+![Lenin leaning over the edge of a plain wooden platform as he speaks to a crowd of soldiers, with Trotsky standing on the steps beside it](images/lenin_trotsky_1920.jpg)
+*Lenin speaking to troops in Sverdlov Square, Moscow, on 5 May 1920, with Trotsky on the steps beside the platform. Photo: Grigory Goldstein, public domain.*
+
 When the tsar fell, Lenin was stuck in Switzerland, with Germany between him and home. The German government solved his problem for him. It was looking for any means to knock Russia out of the war, and it calculated that Lenin would do more damage than an army. It agreed to carry him and thirty companions in a railway carriage that was treated as foreign soil, with a chalk line on the floor between them and their German escort, and sent them across Germany to the Baltic coast. A British politician said later that they had transported him like a plague bacillus in a sealed truck.
 
 He arrived in Petrograd in April and shocked even his own party. There would be no support for the Provisional Government, he announced, and no waiting for an assembly. The soviets should take all power now. To the war-weary and the hungry he offered a programme of three words: peace, land, bread.
+
+![A wide city avenue seen from above, with people running and lying flat on the paving among tram lines and carts](images/july_days.jpg)
+*Nevsky Prospekt in Petrograd on 4 July 1917 (17 July in the Western calendar), just after government troops opened fire on a demonstration. Photo: Viktor Bulla, public domain.*
 
 All summer, as the government's promises wore thin, those three words did their work. In June the government ordered a great offensive, which collapsed within days. In July the government blamed the Bolsheviks for an armed demonstration, and Lenin went into hiding. In August a general tried to march on the capital and restore order, and the government, in panic, handed out rifles to the Bolsheviks' own militia to stop him. By September the Bolsheviks had a majority in the Petrograd Soviet.
 
@@ -98,11 +113,20 @@ Lenin had always said that a revolution in backward Russia could not survive alo
 
 Revolutions did break out in Germany and Hungary at the end of the war, and each was put down within months. Russia, meanwhile, had fallen into civil war. Former tsarist officers raised armies in the south, in Siberia and on the Baltic. They were called the Whites. Britain, France, the United States and Japan landed troops at the ports to help them. The Bolsheviks, who now called themselves Communists, held the middle of the country: Moscow, Petrograd and the railways that ran out from them.
 
+![Red and black poster of a soldier in a red cap pointing at the viewer, with factory chimneys behind him and Russian lettering](images/poster.jpg)
+*A Red Army recruiting poster of 1920 by Dmitry Moor. The words ask, "Have you volunteered?" Poster: Dmitry Moor, public domain.*
+
 Trotsky built a Red Army of five million men out of nothing. He conscripted peasants, hired thousands of the tsar's officers to command them, held the officers' families hostage for their loyalty, and lived for two and a half years on an armoured train, rushing from front to front. The Reds won because they had the centre and the railways, while their enemies were scattered round the edge and hated one another. They also won because most of the White generals made little secret of meaning to bring back the landlords. The peasants disliked the Communists, who seized their grain at gunpoint to feed the towns. They disliked the old masters more.
+
+![A man in a cap and plain tunic standing with arms spread on the roof of an armoured railway carriage with a machine gun and a red star](images/trotsky_train.jpg)
+*Trotsky speaking from the roof of an armoured train in the civil war. The words on the side read "Guardian of the Revolution." Photo: unknown author, public domain.*
 
 It was a war of extraordinary cruelty. The new government had set up a political police within weeks of taking power, and it shot hostages by the thousand. The Whites massacred Jews. In July 1918, as a White army approached the town in the Ural mountains where the former tsar was being held, his guards woke the family in the night and took them down to a cellar. Nicholas, his wife, their four daughters, their thirteen-year-old son, their doctor and three servants were shot and bayoneted, and the bodies were burned with acid and buried in a forest. The main grave was found sixty years later, and the last two bodies in 2007.
 
 By the time the main fighting ended, in 1921, some eight million people had died, most of them from hunger and typhus. Then the harvest failed along the Volga, in a countryside already stripped of its seed grain, and five million more starved. An American relief mission fed ten million Russians a day through the worst of it.
+
+![Men and women in headscarves carry two small covered coffins on stretchers along a street](images/coffins.jpg)
+*Two children's coffins carried to a cemetery in the Volga famine district, 1921. Photo: Library of Congress collection, public domain.*
 
 ## The glass case
 
@@ -111,3 +135,7 @@ The state that came out of all this was not what anyone had marched for in Febru
 Lenin retreated on one point. With the economy in ruins, he let peasants sell their grain again and allowed small private businesses, as a breathing space. On the question of power he gave nothing.
 
 He did not live to see what was done with what he had built. A series of strokes left him speechless, and he died in January 1924, at fifty-three. His successors renamed Petrograd in his honour. Then, against the wishes of his widow, they had his body embalmed and laid it in a glass case in a tomb beside the Kremlin wall, where the citizens of the first state founded on the denial of religion could file past and look at it. It is still there.
+
+
+![A low wooden building with the word LENIN painted on the front stands in snow below the Kremlin wall, with guards beside it](images/mausoleum.jpg)
+*Lenin's first tomb, a temporary wooden building beside the Kremlin wall, 1924. Photo: unknown author, public domain.*

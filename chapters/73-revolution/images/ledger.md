@@ -1,0 +1,15 @@
+# Image ledger: Chapter 73, Why was there a revolution in Russia?
+
+All files from Wikimedia Commons. Licences read from the Commons API (extmetadata), not guessed. All files are at most 1600 px on the long side.
+
+| File | What it shows | Commons page | Author | Licence | Caption |
+|---|---|---|---|---|---|
+| family.jpg | Studio portrait of Nicholas II, Empress Alexandra and their five children | https://commons.wikimedia.org/wiki/File:Russian_Imperial_Family_1913.jpg | Boasson and Eggler, St Petersburg | Public domain | The tsar and his family, photographed in 1913. |
+| rasputin.jpg | Portrait of Grigori Rasputin, bearded, in a dark coat | https://commons.wikimedia.org/wiki/File:Grigori_Rasputin_1916.jpg | Unknown | Public domain | Rasputin, photographed in 1916. |
+| soldiers_feb1917.jpg | Soldiers with rifles and banners marching with civilians in a Petrograd street | https://commons.wikimedia.org/wiki/File:Soldiers_demonstration.February_1917.jpg | Unknown | Public domain | Soldiers demonstrating in Petrograd, February 1917. |
+| lenin_trotsky_1920.jpg | Lenin speaking from a wooden platform, Trotsky standing on the steps beside it | https://commons.wikimedia.org/wiki/File:After_Lenin_Speech_1920.jpg | Grigory Petrovich Goldstein | Public domain | Lenin speaking to troops in Sverdlov Square, Moscow, on 5 May 1920, with Trotsky on the steps. |
+| july_days.jpg | Crowd scattering and lying down on Nevsky Prospekt after machine-gun fire | https://commons.wikimedia.org/wiki/File:19170704_Riot_on_Nevsky_prosp_Petrograd.jpg | Viktor Bulla | Public domain | Nevsky Prospekt in Petrograd on 4 July 1917 (17 July in the Western calendar), just after government troops opened fire on a demonstration. |
+| poster.jpg | Red Army recruiting poster by Dmitry Moor, 1920: a soldier pointing at the viewer, "Have you volunteered?" | https://commons.wikimedia.org/wiki/File:Dmitry_Moor_1920_Did_you_volunteer.jpg | Dmitry Moor | Public domain | A Red Army recruiting poster of 1920 by Dmitry Moor. The words ask, "Have you volunteered?" |
+| trotsky_train.jpg | Trotsky speaking, arms spread, from the top of an armoured carriage marked "Guardian of the Revolution" | https://commons.wikimedia.org/wiki/File:Leon_Trotsky_Armored_Train_1920.jpg | Unknown | Public domain | Trotsky speaking from the roof of an armoured train in the civil war. The words on the side read "Guardian of the Revolution". |
+| coffins.jpg | Two small coffins carried on stretchers by mourners through a street in the Volga famine district | https://commons.wikimedia.org/wiki/File:Two_small_coffins_being_carried_on_stretchers_to_cemetery_in_the_Volga_famine_district_of_Bolshevist_Russia_LCCN92500054.jpg | Library of Congress (Miscellaneous Items in High Demand) | Public domain | Two children's coffins carried to a cemetery in the Volga famine district, 1921. |
+| mausoleum.jpg | Lenin's first wooden mausoleum on Red Square, with the word LENIN on the front, snow on the ground | https://commons.wikimedia.org/wiki/File:Временный_деревянный_мавзолей.jpg | Unknown | Public domain | Lenin's first, temporary wooden tomb beside the Kremlin wall, 1924. |
