@@ -24,6 +24,9 @@ The letter reached her at Christmas, when her nephew, also a physicist and also 
 
 The energy from one atom would not make a grain of sand jump. When a uranium nucleus splits, however, it also throws out two or three neutrons. If each of those splits another nucleus, which throws out more, the number doubles with each step. Two become four, four become eight, and after eighty steps, which takes about a millionth of a second, the atoms in a lump of metal the size of an orange have released the energy of thousands of tons of explosive. This is a chain reaction.
 
+![Diagram of a chain reaction. A neutron strikes a uranium nucleus, which splits into two fragments in a burst of energy and throws out two neutrons; these split two more nuclei, which throw out four neutrons; these split four more, which throw out eight](images/diagram_chain_reaction.png)
+*A chain reaction, through three generations of splitting nuclei. Each split gives off energy and two or three neutrons, two in this drawing, so the number of splits doubles at every step. Diagram: drawn for this book.*
+
 One man had thought of it already. A Hungarian physicist named Leo Szilard, another refugee from Hitler, had been waiting to cross a street in London in 1933 when the idea came to him, as the traffic light changed. He had understood at once what it would mean, and he had spent five years hoping that it would turn out to be impossible.
 
 ## A letter from Long Island
@@ -99,6 +102,9 @@ Three days passed. The Japanese government sent a team of physicists to Hiroshim
 On the evening of 8 August the Soviet Union declared war on Japan, and after midnight a million and a half Soviet soldiers crossed the border into Manchuria. The Japanese leaders had been hoping that Stalin would help them to negotiate. That hope was gone.
 
 A few hours later a second bomber took off, carrying a plutonium bomb. Its target was a city called Kokura, the site of a great arsenal. When it arrived, the ground was hidden by smoke and haze. The crew circled three times, ran low on fuel, and turned for their second choice. At two minutes past eleven the bomb fell through a gap in the clouds over Nagasaki. It exploded above a valley of factories and houses on the north side of the city, close to the largest Christian cathedral in East Asia. About seventy thousand people died there by the end of the year.
+
+![Map of Japan, Korea and Manchuria in August 1945, with the land Japan held shaded. Small squares mark about forty cities already burned, from Kagoshima to Aomori; open circles mark Kokura and Niigata on the target list, with Kyoto struck off; stars mark Hiroshima, 6 August, and Nagasaki, 9 August. A dashed arrow comes from Tinian, far to the south-east, and three arrows show the Soviet attack into Manchuria from the west, the north and the east on 9 August](images/map_japan_1945.png)
+*Japan and its empire in August 1945: some of the cities already burned, the four cities on the target list, with Kyoto struck off it, the two cities bombed, the direction of the base on Tinian, and the Soviet attack into Manchuria on 9 August. Map: drawn for this book; coastlines and rivers from Natural Earth, public domain.*
 
 Yamaguchi, the engineer, had reached home the day before, by train, with his burns bandaged. That morning he had gone to his office to report. His manager was telling him that he must have lost his mind, since no single bomb could destroy a city, when the window filled with the same white light.
 

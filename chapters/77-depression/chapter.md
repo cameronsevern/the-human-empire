@@ -123,6 +123,9 @@ It followed that somebody had to spend when nobody else would, and the only some
 
 The record bears him out, and it also shows how much the gold standard was to blame. Countries recovered in almost exactly the order in which they gave up gold: Britain and Japan from 1931, the United States from 1933, France, which clung to gold until 1936, last of all. One of the fastest recoveries was Germany's, where a new government from 1933 spent heavily on motorways and then on weapons, and had all but ended unemployment by 1938. In the United States, full employment did not return until the government began spending on a scale that no one had dared to propose in peacetime, to fight a war.
 
+![Line chart of the share of workers unemployed from 1928 to 1939. Germany rises to thirty per cent in 1932 and falls almost to nothing by 1939; Britain peaks at twenty-two per cent in 1932 and falls slowly; the United States peaks at twenty-five per cent in 1933 and is still above fourteen per cent in 1937. A diamond on each line marks when the country left gold: Germany's exchange controls in July 1931, Britain in September 1931, the United States in April 1933](images/chart_unemployment.png)
+*Unemployment in the United States, Britain and Germany, 1928 to 1939, with the point at which each country left gold. Figures from Stanley Lebergott's series in Historical Statistics of the United States, the British unemployment insurance returns (as in B. R. Mitchell's British Historical Statistics) and D. Petzina and others, Sozialgeschichtliches Arbeitsbuch III (1978); each country counted differently, so the levels compare only roughly. Chart: drawn for this book.*
+
 ## What it left
 
 The Depression changed what people expected of their rulers. Before 1929, most people regarded a slump as something like the weather. After it, voters in every democracy held the government responsible for whether they had work, and no government has been allowed to forget it.

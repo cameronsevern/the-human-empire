@@ -1,0 +1,8 @@
+# Image ledger: Chapter 83, Why did America drop the atomic bomb?
+
+All files from Wikimedia Commons unless the row says otherwise. Licences read from the Commons API (extmetadata LicenseShortName), not guessed. All files are at most 1600 px on the long side.
+
+| File | What it shows | Commons page | Author | Licence | Caption |
+|---|---|---|---|---|---|
+| diagram_chain_reaction.png | Diagram of a chain reaction: one split, then two, then four, with eight neutrons going on | Drawn for this book by build/maps/ch83_diagram_chain.py | Drawn for this book | Own work | A chain reaction, through three generations of splitting nuclei. Each split gives off energy and two or three neutrons, two in this drawing, so the number of splits doubles at every step. Diagram: drawn for this book. |
+| map_japan_1945.png | Map of Japan, Korea and Manchuria in August 1945: land held by Japan, about forty cities already burned, the target list, Kyoto struck off, Hiroshima and Nagasaki, the direction of Tinian, the Soviet attack into Manchuria | Drawn for this book by build/maps/ch83_japan.py (shapes from build/maps/asia1941.py) | Drawn for this book; burned cities from English Wikipedia's "Air raids on Japan", Soviet fronts after its "Soviet invasion of Manchuria" | Own work; coastlines and rivers Natural Earth (public domain) | Japan and its empire in August 1945: some of the cities already burned, the four cities on the target list, with Kyoto struck off it, the two cities bombed, the direction of the base on Tinian, and the Soviet attack into Manchuria on 9 August. Map: drawn for this book; coastlines and rivers from Natural Earth, public domain. |
