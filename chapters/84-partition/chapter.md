@@ -8,9 +8,15 @@ On 8 July 1947 a London lawyer named Cyril Radcliffe stepped off an aeroplane in
 
 His task was to draw two lines on a map. One would run through the province of Punjab, in the north-west, and the other through Bengal, in the east. On one side of each line would be India, and on the other a new country called Pakistan. The two provinces together were larger than Germany and held eighty-eight million people. He had five weeks.
 
+![Map of the old province of Punjab with district boundaries, rivers and towns, and a heavy blue line where the new border was drawn](images/radcliffe_map.jpg)
+*Radcliffe's award for Punjab, as published by the British Foreign Office in 1948. His line, in blue, runs between Lahore and Amritsar. Map: British Foreign Office, public domain.*
+
 He was given a bungalow, four Indian judges for each province, two Muslims and two who were not, who could agree on nothing that mattered, and a set of maps and census tables that were years out of date. The summer heat was so great that he could work for only a few hours at a time. He had no time to visit the places he was dividing. He drew his lines through districts, villages and, in places, through single houses, and finished on 12 August.
 
 India and Pakistan became independent at midnight on 14 August. The lines were not published until the 17th. For those two days, millions of people in Punjab and Bengal celebrated, or hid, without knowing which country they were in.
+
+![Jawaharlal Nehru in a white cap speaking at a lectern covered with microphones in a panelled assembly hall, with officials seated and standing behind](images/nehru_midnight.jpg)
+*Nehru speaking in the assembly hall in Delhi at midnight on 14 to 15 August 1947, as India became independent. Photographer unknown, public domain.*
 
 Radcliffe burned his papers, refused his fee, and flew home before the lines were published. He never went back. He told a journalist years afterwards that people on both sides of his line would have shot him on sight.
 
@@ -40,6 +46,9 @@ What Jinnah truly wanted is still disputed. He never said exactly where the bord
 
 The war gave him his opening. In 1939 the British declared war on India's behalf without asking any Indian, and the Congress governments resigned in protest. In 1942 Gandhi launched a campaign to drive the British out at once, and most of the Congress leadership spent the rest of the war in prison. Jinnah supported the war and was left free to organise. When elections were held in the winter of 1945, the Muslim League won nearly nine tenths of the Muslim vote. Jinnah could now claim to be the sole spokesman of nearly a hundred million people.
 
+![Jinnah in a light suit and tie and Gandhi in a shawl and round glasses, side by side and smiling, in a film frame captioned Gandhi-Jinnah talks in Bombay, September 1944](images/jinnah_gandhi.jpg)
+*Jinnah and Gandhi in Bombay in September 1944, when they met for talks on India's future. They failed to agree. Photographer unknown, public domain.*
+
 In the spring of 1946 three British ministers came to Delhi to find a way of handing over power. They proposed an India of three tiers. A central government would deal only with defence, foreign affairs and communications. The provinces would run everything else, and would be sorted into groups, so that the Muslim-majority provinces of the north-west and the east could govern themselves together. There would be no Pakistan, and the Muslims would have their own house inside a common wall. An assembly elected by the provinces would write the constitution.
 
 Both parties accepted, each with its own reading of the small print. The League understood that provinces must join their groups. Congress held that each was free to stay out. It was the last serious chance of keeping India whole.
@@ -66,11 +75,17 @@ The killing had started there in March. In one village near the city of Rawalpin
 
 When the line was published, in the third week of August, minorities on both sides understood that they were in the wrong country. Armed bands, many of them led by former soldiers, set out to make sure that they left. Villages were surrounded at night and burned. Hindus and Sikhs fled east, and Muslims fled west, on foot and in bullock carts, in columns that filled the roads from edge to edge. One of them held four hundred thousand people. The columns were attacked as they went, and those who fell behind were left.
 
+![An aerial view of a large crowd of people, bullock carts and cattle halted on open ground beside a canal in flat farmland](images/refugee_columns.jpg)
+*A column of Hindu and Sikh refugees from West Punjab, halted with carts and cattle near Baloke Head on the way to India, September 1947. Photo: Photo Division, Government of India, public domain.*
+
 Others went by rail. Trains crossed the new border with people packed into the wagons and clinging to the roofs. Gangs stopped them in open country and killed everyone aboard. Trains pulled into the stations of Lahore and Amritsar in silence, with blood running from under the doors. Then a train going the other way would be attacked in reprisal.
 
 Neighbours who had lived side by side for generations took part. So did the police. More than eighty thousand women were abducted, raped, and in many cases kept as wives by their captors. Fathers killed their own daughters to prevent it.
 
 Within four years about fifteen million people had crossed the borders, most of them in the first few months, in one of the largest forced migrations ever recorded. Between half a million and a million were dead. Delhi, the Indian capital, filled with Hindu and Sikh refugees who had lost everything, and they turned on the city's Muslims, tens of thousands of whom took shelter inside the walls of the old Mughal monuments. Karachi, the capital of Pakistan, was a port where Hindus were half the people in 1947. Three years later most of its Hindus had gone, and its population had doubled with Muslims from India.
+
+![A group of refugee women and children standing in front of a white building with arched openings, looking at the camera](images/kotla_camp.jpg)
+*Women and children at the Kotla refugee camp, 24 August 1947. Photo: Photo Division, Government of India, public domain.*
 
 ## A fast
 
@@ -79,6 +94,9 @@ One man had more effect on the killing than the special force did.
 Gandhi had opposed partition to the end, and called it vivisection, the cutting up of a living body. In August 1947 he was in Calcutta, where everyone expected the worst slaughter of all. He moved into a house in a Muslim slum together with the Muslim politician whom many Hindus blamed for the riots of the year before. The city stayed calm through independence, and Mountbatten wrote to him that in Punjab he had fifty-five thousand soldiers and large-scale rioting, and in Bengal he had one man and peace. When the violence began again, at the start of September, Gandhi announced that he would eat nothing until it stopped. He was seventy-seven. On the fourth day the leaders of the gangs came to his bedside and laid their weapons on the floor. Bengal stayed quiet.
 
 In January 1948 Gandhi fasted again, in Delhi. He demanded that the city's Muslims be left in safety, and that the Indian government hand over Pakistan's share of the treasury, which it had been holding back. The government gave way.
+
+![Gandhi, wrapped in white, carried on a stretcher through a dense crowd, some with hands pressed together](images/gandhi_carried.jpg)
+*Gandhi carried to the garden after ending his five-day fast in Delhi, 21 January 1948, nine days before he was killed. Photographer unknown, public domain.*
 
 To some Hindus this was treachery. On the evening of 30 January, as Gandhi walked across a garden to his daily prayer meeting, a man stepped out of the crowd, bowed to him, and shot him three times in the chest. The killer was a Hindu nationalist, the editor of a small newspaper, who believed that Gandhi had weakened the Hindus and appeased the Muslims. Nehru went on the radio that night and said that the light had gone out of their lives.
 
@@ -90,6 +108,9 @@ Two fifths of India had never been ruled by the British directly. It belonged to
 
 One hesitated too long. Kashmir, a mountain kingdom in the far north, touched both new countries. Three quarters of its people were Muslims. Its ruler was a Hindu, and he dreamed of independence. In October 1947 several thousand armed tribesmen from Pakistan's frontier crossed into Kashmir, with the help of Pakistani officers, and marched on his capital, stopping to loot on the way. The maharaja appealed to India. India answered that it could send soldiers only to its own territory, and he signed. Indian troops were flown in the next morning and held the town.
 
+![Indian soldiers unloading kit and rifles on a grass airfield beside a Dakota transport aircraft and a bus marked J&K](images/srinagar.jpg)
+*Indian soldiers at Srinagar airfield during the war over Kashmir, 1947 to 1948. Photo: Government of India, public domain.*
+
 The two new armies, which had been one army a few months before and whose officers had trained together, fought in the mountains for a year. The ceasefire left India with two thirds of Kashmir, including its central valley, and Pakistan with the rest. India promised that the people would be asked by vote which country they wished to join. The United Nations ruled that Pakistan's fighters must first withdraw and India's army be reduced. Neither side would move first, and the vote has never been held. The ceasefire line is still there. The two countries went to war over it again in 1965 and in 1999, and both now have nuclear weapons.
 
 ## Two wings
@@ -97,6 +118,9 @@ The two new armies, which had been one army a few months before and whose office
 Pakistan was born in two pieces, with a thousand miles of India between them. Jinnah, its founder, was dying. He had tuberculosis, which he had kept secret, since he knew that his opponents would simply have waited. Three days before independence, he told the new assembly that its citizens were free to go to their temples, their mosques or any other place of worship, and that religion was not the business of the state. He died thirteen months later, and the country has argued ever since over what he meant it to be.
 
 Its two halves had little in common except their faith. The western wing held the capital, the army and the civil service. The eastern wing, the Muslim half of Bengal, held more than half the people. They spoke Bengali, a language with its own alphabet and a great literature, and they were told that the only national language would be Urdu. In February 1952 the police in the eastern city of Dhaka fired on students who were demonstrating for their language, and killed several. The day is still kept as a day of mourning.
+
+![A white concrete monument of tall slender slabs of different heights on a red-brick plaza, with trees behind](images/shaheed_minar.jpg)
+*The Shaheed Minar in Dhaka, the monument to the students killed in February 1952 while demonstrating for the Bengali language. Photo: Biswarup Ganguly, CC BY 3.0.*
 
 For twenty years the east supplied most of the country's export earnings and received the smaller share of its spending. In 1970, in Pakistan's first free national election, a Bengali party won an outright majority in parliament. The army had ruled Pakistan since 1958, and the generals, all from the west, refused to let it take office. In March 1971 the army moved into Dhaka and began killing students, professors, and Hindus. Over nine months at least three hundred thousand people were killed, and by Bangladesh's count three million, and ten million fled across the border into India.
 
@@ -108,6 +132,13 @@ India took a different road. About thirty-five million Muslims had stayed, and t
 
 Few outsiders believed that it could work. Four Indians in five could not read. In the winter of 1951 the country held its first general election, with a hundred and seventy-three million voters, which made it the largest ever held anywhere. Since most could not read a name, each party was given a picture: a pair of oxen, a hut, a lamp, an ear of corn. Two million steel ballot boxes were made. Officials carried them to the polling stations on camels and elephants, and across rivers by boat. Nearly half of them turned out.
 
+![A line of men waiting outside a building, many holding slips of paper, some seated on a bench](images/voters_queue.jpg)
+*Voters queuing at a polling station near the Jama Masjid in Delhi on 14 January 1952, during India's first general election. Photo: Photo Division, Ministry of Information and Broadcasting, public domain.*
+
 India has held elections ever since, and has changed its government by them many times. It now has more than two hundred million Muslim citizens, nearly as many as Pakistan has people.
 
 On the main road between Lahore and Amritsar, where the trains once crossed, there is a gate in Radcliffe's line. Every evening at sunset, soldiers of the two countries, chosen for their height and dressed in plumed turbans, march up to it from either side. They stamp, glare and kick their legs above their heads, in front of crowds who cheer from grandstands. The two flags are lowered at exactly the same speed, so that neither is above the other. Then the gates are slammed shut for the night.
+
+
+![Border guards in black and in khaki marching and gesturing before a gate between two stone pillars, with a packed grandstand behind](images/wagah.jpg)
+*The evening ceremony at the Wagah border gate between India and Pakistan, 2014. Photo: Guilhem Vellut, CC BY 2.0.*
