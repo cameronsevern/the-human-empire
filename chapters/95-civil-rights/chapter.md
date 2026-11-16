@@ -2,13 +2,13 @@
 
 *The United States, from 1954 to 1968*
 
-They won them by organising. For ten years, ordinary people in the American South broke unjust laws in the open, refused to hit back when they were attacked, and did so in front of television cameras. A government in Washington that was competing with the Soviet Union for the good opinion of the world could not live with the pictures, and in 1964 and 1965 it passed laws that ended legal segregation and gave Black southerners the vote.
+They won them by organising. For ten years, ordinary people in the American South broke unjust laws in the open, refused to hit back when they were attacked, and did so in front of television cameras. A government in Washington that was competing with the Soviet Union for the good opinion of the world could not live with the pictures, and in 1964 and 1965 it passed laws that struck down segregation and made the right of Black southerners to vote a reality.
 
-On the evening of 1 December 1955, in Montgomery, the capital of the state of Alabama, a woman of forty-two finished her day's work altering clothes in a department store and boarded a city bus for home. The first ten rows were reserved for white passengers. Rosa Parks took a seat just behind them. A few stops later the white section filled, and the driver told the four Black passengers in her row to stand so that one white man could sit. Three of them got up. She did not. The driver said that he would have her arrested. You may do that, she said.
+On the evening of 1 December 1955, in Montgomery, the capital of the state of Alabama, a woman of forty-two finished her day's work altering clothes in a department store and boarded a city bus for home. The first ten seats were reserved for white passengers. Rosa Parks took a seat just behind them. A few stops later the white section filled, and the driver told the four Black passengers in her row to stand so that one white man could sit. Three of them got up. She did not. The driver said that he would have her arrested. You may do that, she said.
 
 The story was told for years as that of a tired seamstress who had simply had enough. She said herself that the only tired she was, was tired of giving in. She had been the secretary of the local branch of the main Black civil rights organisation for twelve years, and that summer she had attended a training school for activists. A schoolgirl of fifteen had been arrested for the same offence on the same bus line nine months before, and the city's Black leaders had been waiting for the right case.
 
-They were ready. That night a professor at the local Black college, who led a council of professional women, let herself into her office and ran off thirty-five thousand leaflets on a duplicating machine. They called on every Black person in the city to stay off the buses the following Monday. Her students delivered them before dawn.
+They were ready. That night a professor at the local Black college, who led a council of professional women, let herself into her office and ran off thirty-five thousand leaflets on a duplicating machine. They called on every Black person in the city to stay off the buses the following Monday. She and two of her students spent the next day delivering them.
 
 ## Separate
 
@@ -20,7 +20,7 @@ The vote was removed without mentioning race. A would-be voter had to pay a tax,
 
 Behind the law stood the rope. Between the 1870s and 1950, more than four thousand Black people were murdered by mobs, often in public, before crowds, for offences that ranged from a rumour of assault to failing to step off the pavement.
 
-Six million Black southerners left for the cities of the North and West, where they could vote and where the factories were hiring. Then came a war against a regime founded on a theory of racial superiority. A million Black Americans served in it, in segregated units, and returned to towns where they could not sit at a lunch counter. In 1948 the president ordered the armed forces to integrate. And in the new contest with the Soviet Union, every lynching was reported at length by Moscow radio to the peoples of Africa and Asia.
+Between 1910 and 1970 six million Black southerners left for the cities of the North and West, where they could vote and where the factories were hiring. In the middle of those years came a war against a regime founded on a theory of racial superiority. A million Black Americans served in it, in segregated units, and returned to towns where they could not sit at a lunch counter. In 1948 the president ordered the armed forces to integrate. And in the new contest with the Soviet Union, lynchings were reported at length by Moscow radio to the peoples of Africa and Asia.
 
 ## A doll
 
@@ -42,7 +42,7 @@ To lead it, the ministers chose the newest among them, who had been in the city 
 
 Forty thousand people stayed off the buses for more than a year. They walked, some of them ten miles a day. The churches bought station wagons and ran a car pool of three hundred vehicles, with pick-up points and dispatchers. The city indicted the leaders under an old law against boycotts. King's house was bombed with his wife and baby inside, and he stood on the wrecked porch and told an armed and furious crowd to put away their guns and go home.
 
-In November 1956 the Supreme Court ruled that segregated buses were illegal. On 21 December King boarded a bus and sat down in the front row.
+Meanwhile four Black women who had been mistreated on the buses had sued the city. In November 1956 the Supreme Court ruled in their favour, and segregated buses were illegal. On 21 December King boarded a bus and sat down in the front row.
 
 ## Workshops
 
@@ -62,9 +62,9 @@ King and his colleagues therefore chose the next city with care. Birmingham, in 
 
 The campaign began in April 1963. King was arrested and put in a cell alone. A group of white clergymen had published a statement calling the protests unwise and untimely, and he answered them in the margins of the newspaper and on scraps of paper smuggled out by his lawyers. For years, he wrote, he had heard the word "wait", and it had almost always meant "never". Justice too long delayed is justice denied.
 
-The adults of Birmingham were running out of volunteers willing to lose their jobs. The organisers turned to the schools. On 2 May more than a thousand children, some as young as six, walked out of a church in ranks, singing, and were arrested. The next day a thousand more came. The jails were full, and the commissioner ordered his men to stop them. Firemen turned on hoses powerful enough to strip the bark from trees, and rolled teenagers along the pavement. Policemen set dogs on them.
+The adults of Birmingham were running out of volunteers willing to lose their jobs. The organisers turned to the schools. On 2 May more than a thousand children, some as young as six, walked out of a church in ranks, singing, and hundreds were arrested. The next day a thousand more came. The jails were full, and the commissioner ordered his men to stop them. Firemen turned on hoses powerful enough to strip the bark from trees, and rolled teenagers along the pavement. Policemen set dogs on them.
 
-It was on every television screen in America that night. The president said that the pictures made him sick. In June he went on television and called civil rights a moral issue, as old as the scriptures and as clear as the constitution, and asked Congress for a law to end segregation. A few hours after that speech, the leader of the movement in Mississippi was shot dead in his own driveway, in front of his children.
+It led the television news across America that night. The president said that the pictures made him sick. In June he went on television and called civil rights a moral issue, as old as the scriptures and as clear as the constitution, and asked Congress for a law to end segregation. A few hours after that speech, the leader of the movement in Mississippi was shot in the back in his own driveway, with his children inside the house, and died within the hour.
 
 ## The dream
 
@@ -76,27 +76,27 @@ Eighteen days later, on a Sunday morning, a bomb planted by members of the Ku Kl
 
 ## Two laws
 
-The president was murdered that November. His successor, Lyndon Johnson, was a southerner who knew the Senate better than any man living, and he told Congress that no memorial could honour the dead president more than the passage of his bill. Southern senators talked for two months to prevent a vote. In July 1964 the Civil Rights Act became law. It banned segregation in hotels, restaurants, theatres and all public places, and discrimination in employment on grounds of race, religion or sex. Johnson remarked to an aide that evening that his party had lost the South for a generation.
+The president was murdered that November. His successor, Lyndon Johnson, was a southerner who knew the Senate better than any man living, and he told Congress that no memorial could honour the dead president more than the passage of his bill. Southern senators talked for two months to prevent a vote. In July 1964 the Civil Rights Act became law. It banned segregation in hotels, restaurants, theatres and other places open to the public, and discrimination in employment on grounds of race, religion or sex. Johnson remarked to an aide that evening that his party had lost the South for a generation.
 
 The vote remained. That summer a thousand students, most of them white and from northern universities, went to Mississippi to help Black residents register. Three young men, two white and one Black, disappeared on the first day. Their bodies were found six weeks later, buried in an earth dam. They had been handed to the Klan by a deputy sheriff.
 
-One of the Mississippians who had tried to register was Fannie Lou Hamer, the twentieth child of a family of cotton pickers. She had been thrown off the plantation where she had worked for eighteen years, and beaten in a jail cell until she was permanently injured. She told her story on national television. Is this America, she asked, the land of the free and the home of the brave?
+One of the Mississippians who had tried to register was Fannie Lou Hamer, the twentieth child of a family of cotton pickers. She had been thrown off the plantation where she had worked for eighteen years, and beaten in a jail cell until she was permanently injured. That August she told her story on national television, at a hearing of the president's own party, which she was asking to unseat the all-white delegation that Mississippi had sent to its convention. Is this America, she asked, the land of the free and the home of the brave?
 
 In the Alabama town of Selma, half the people were Black, and one in fifty of them was registered. On Sunday, 7 March 1965, six hundred people set out from a church there to walk to the state capital. At the far end of the bridge over the river, state troopers in gas masks were waiting, with a posse on horseback. They gave the marchers two minutes, and then charged with clubs, whips and tear gas. The young man at the head of the column, John Lewis, had his skull fractured.
 
 That evening a television network broke into its Sunday film, which happened to be about the trial of Nazi judges, to show fifteen minutes of footage from the bridge. Forty-eight million people were watching. Eight days later Johnson addressed Congress and asked for a law to protect the right to vote. He ended with the words of the movement's own anthem. We shall overcome, he said.
 
-The Voting Rights Act was signed in August. It abolished the tests and sent federal officials to register voters wherever local ones would not. In Mississippi the share of Black adults on the rolls rose from seven per cent to sixty per cent in three years.
+The Voting Rights Act was signed in August. It suspended the tests across the Deep South and sent federal officials to register voters where local ones would not. Those states could no longer change their voting rules without the approval of Washington. In Mississippi the share of Black adults on the rolls rose from seven per cent to sixty per cent in three years.
 
 ## By any means necessary
 
 Not everyone had been willing to offer the other cheek. The most eloquent critic was a former convict who had taken the name Malcolm X, since his family's real name had been lost in slavery. He preached in the northern ghettos that white America would never yield to appeals to its conscience. Black people, he said, should take pride in themselves, build their own institutions, and defend themselves by any means necessary. He mocked the great march as a picnic. He was shot dead in 1965 by members of the religious sect that he had left.
 
-His arguments spread, because the victories in the South had changed little in the North. There the barriers had never been written into law. They lay in where a bank would lend, where an estate agent would show a house, which union would take an apprentice, and how the police behaved. Five days after the Voting Rights Act was signed, a traffic arrest in the Black district of Los Angeles set off six days of rioting in which thirty-four people died. Detroit and a hundred other cities followed in the next three summers. A commission appointed by the president reported that the nation was moving towards two societies, one Black and one white, separate and unequal.
+His arguments spread, because the victories in the South had changed little in the North. There the barriers were not posted on signs. They lay in where a bank would lend, where an estate agent would show a house, which union would take an apprentice, and how the police behaved. Five days after the Voting Rights Act was signed, a traffic arrest in the Black district of Los Angeles set off six days of rioting in which thirty-four people died. Detroit and a hundred other cities followed in the next three summers. A commission appointed by the president reported that the nation was moving towards two societies, one Black and one white, separate and unequal.
 
-King took his campaign to Chicago in 1966, to march for open housing through white working-class suburbs. He was hit on the head by a rock, and said that he had never seen such hatred, even in Mississippi. Younger activists dropped non-violence and raised the slogan of Black Power.
+King took his campaign to Chicago in 1966, to march for open housing through white working-class suburbs. He was hit on the head by a rock, and said that he had never seen such hatred, even in Mississippi. Younger activists raised the slogan of Black Power, by which they meant pride, control of their own communities, and for some of them an end to turning the other cheek.
 
-All this time the head of the national police had been treating King as an enemy of the state. His telephones were tapped and his hotel rooms were bugged. In 1964, shortly before he was to receive the Nobel peace prize, the bureau posted him a tape recording and an anonymous letter that advised him to kill himself.
+All this time the director of the Federal Bureau of Investigation, the national detective force, had been treating King as an enemy of the state. His telephones were tapped and his hotel rooms were bugged. In 1964, shortly before he was to receive the Nobel peace prize, the bureau posted him a tape recording and an anonymous letter that advised him to kill himself.
 
 ## Memphis
 
@@ -104,13 +104,13 @@ In his last years King concluded that the right to sit at a lunch counter meant 
 
 In the spring of 1968 he went to Memphis, in Tennessee, to support the city's Black rubbish collectors, who were on strike after two of them had been crushed to death in the back of a faulty truck. They marched carrying placards that read "I am a man". On the night of 3 April he told a rally that he had been to the mountain top and seen the promised land. I may not get there with you, he said. The next evening, as he stood on the balcony of his motel, he was killed by a single rifle shot. He was thirty-nine. Riots broke out in more than a hundred cities.
 
-## What it changed
+## Six times
 
 The movement destroyed a legal order that had stood for seventy years, and it did so with very little bloodshed on its own account. Within a decade there were thousands of Black elected officials in the South, where there had been fewer than a hundred. The signs came down. A Black middle class grew up. In 2008 the country elected a Black president.
 
-It did not close the gap in wealth, which is the legacy of three centuries. The typical white family in America still owns about eight times as much as the typical Black one. Schools in many cities are as segregated as they were in 1970. In 2013 the Supreme Court struck down the central provision of the Voting Rights Act, on the ground that it was no longer needed.
+It did not close the gap in wealth, which is the legacy of three centuries. In 2022 the typical white family in America owned about six times as much as the typical Black one. Schools in many cities are as segregated as they were in 1970. In 2013 the Supreme Court struck down the rule that had made the southern states seek approval for changes to their voting laws, on the ground that the list of states was out of date.
 
-The method worked when three conditions were met. The injustice had to be written into a law that could be publicly broken. The opponent had to be someone who would answer with visible violence. And a higher authority had to exist that could be shamed into acting. Where one of those was missing, as in Albany or in Chicago, it failed.
+The method had worked best where an injustice was written into a law that could be publicly broken, where the opponent answered with violence that everyone could see, and where a higher authority could be shamed into acting. Where one of those was missing, as in Albany or in Chicago, it won little.
 
 Others were watching. The women's movement, the farm workers of California, homosexual men and women, the disabled, the Catholics of Northern Ireland and the opponents of apartheid in South Africa all borrowed its tactics and its songs.
 
