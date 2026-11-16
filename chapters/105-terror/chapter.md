@@ -6,17 +6,26 @@ Nineteen men armed with knives killed three thousand people in a single morning,
 
 The morning of Tuesday, 11 September 2001, was cloudless along the whole east coast of the United States. At fourteen minutes to nine an airliner flying far too low came down the length of Manhattan and struck the north tower of the World Trade Center between the ninety-third and ninety-ninth floors. People in the streets assumed a terrible accident. Television cameras were trained on the smoking tower when, seventeen minutes later, a second airliner banked across the harbour and flew into the south tower, live, in front of a large part of the human race.
 
+![Both towers of the World Trade Center burning above the skyline of lower Manhattan, a long plume of black smoke blowing away from them across the sky](images/wtcsmoke.jpg)
+*Both towers of the World Trade Center burning on the morning of 11 September 2001, seen from Brooklyn across the East River, with the smoke streaming over lower Manhattan. Photo: Michael Foran, CC BY 2.0.*
+
 A third aircraft hit the headquarters of the armed forces outside Washington. A fourth was over Pennsylvania, heading for the capital, when its passengers, who had learned by telephone what had happened to the others, tried to break into the cockpit. It crashed in a field.
 
 The towers were a hundred and ten storeys high. The south tower burned for less than an hour and the north tower for an hour and three quarters, with most of those on their upper floors cut off. Many of the people trapped above the fire jumped or fell. Then, one after the other, the buildings came straight down. The New York fire department lost three hundred and forty-three of its members, most of whom had climbed the stairs to reach the trapped. In all, 2,977 people were killed, from more than ninety countries.
 
 The president of the United States was in a classroom in Florida, listening to seven-year-olds read aloud, when an aide bent to his ear and told him that America was under attack.
 
+![President George W. Bush sitting in a classroom with a book open on his knee, beside a teacher, while seven-year-old children in white shirts raise their hands, aides and cameramen standing behind them](images/bush.jpg)
+*President George W. Bush at a reading lesson at Emma E. Booker Elementary School in Sarasota, Florida, on the morning of 11 September 2001, the lesson he was attending when he was told of the attacks. Photo: Eric Draper, White House, public domain.*
+
 ## The Base
 
 The nineteen hijackers had taken over the four aircraft with small blades of the kind used for opening cartons. Fifteen were from Saudi Arabia. Several had trained at American flying schools, where they had shown little interest in learning to land. The whole operation had cost about half a million dollars.
 
 They had been sent by al-Qaeda, the Base, the organisation that the Saudi millionaire Osama bin Laden had founded among the foreign volunteers of the Afghan war. When that war ended, he had looked for the next enemy. In 1990 Iraq invaded Kuwait, and the Saudi royal family invited half a million American soldiers into the kingdom to protect it. To bin Laden the presence of unbelieving troops in the land of Mecca and Medina was a desecration. He decided that the corrupt rulers of the Muslim world could not be overthrown while the United States stood behind them. If America was struck hard enough at home, it would withdraw, as it had from Lebanon and Somalia.
+
+![Osama bin Laden, smiling, bearded, in a white turban and white shirt, seated against a yellow wall with a rifle propped behind him](images/binladen.jpg)
+*Osama bin Laden, photographed in about 1997 or 1998 while being interviewed by the Pakistani journalist Hamid Mir. Photo: Hamid Mir, CC BY-SA 3.0.*
 
 In 1998 he issued a declaration that it was the duty of every Muslim to kill Americans, civilian and military, wherever they could be found. That August his followers drove truck bombs into the American embassies in Kenya and Tanzania and killed two hundred and twenty-four people, nearly all of them Africans.
 
@@ -40,7 +49,13 @@ A group of officials around the American president had wanted to finish him for 
 
 It was not. The inspectors on the ground had found nothing, and asked for more time. On 15 February, in six hundred cities around the world, between six and ten million people marched against the coming war. It was the largest day of protest that had ever been held.
 
+![Marchers in a London street among placards reading Don't attack Iraq, Peace and No war on Iraq, with the clock tower of the Houses of Parliament seen through bare trees](images/march.jpg)
+*Marchers with placards against an attack on Iraq on their way to Westminster, London, on 15 February 2003. Photo: Ben Sutherland, CC BY 2.0.*
+
 The United States and Britain invaded on 20 March without the approval of the Security Council. The Iraqi army collapsed in three weeks. In Baghdad an American armoured vehicle helped a crowd to pull down a bronze statue of the dictator, and on 1 May the president stood on the deck of an aircraft carrier, under a banner reading "Mission Accomplished", and announced that major combat was over.
+
+![The superstructure of the aircraft carrier USS Abraham Lincoln with a large banner reading Mission Accomplished, and a line of sailors in white uniforms standing along the deck edge](images/mission.jpg)
+*The banner "Mission Accomplished" on the aircraft carrier USS Abraham Lincoln as sailors man the rails while the ship comes in to San Diego, 2 May 2003, the day after the president spoke on board. Photo: U.S. Navy, public domain.*
 
 Twelve hundred specialists then searched Iraq for eighteen months. There were no such weapons, apart from some rusting shells left over from the 1980s. The programmes had been shut down in the 1990s, and Saddam had kept up the pretence in order to frighten Iran.
 
@@ -62,6 +77,9 @@ The vice-president had said, five days after the attacks, that the country would
 
 In January 2002 the first prisoners in orange overalls, shackled and blindfolded, were flown to an American naval base on the coast of Cuba. It had been chosen because the government's lawyers believed that it lay outside the reach of American courts. Seven hundred and eighty men were held there over the years. Most were never charged with anything, and a few were still there at the end of 2025. Others disappeared into secret prisons run by American intelligence in Poland, Romania, Thailand and elsewhere. There they were kept awake for a week at a time, slammed against walls, and strapped to a board while water was poured over a cloth on their faces to produce the sensation of drowning. This was done to the man who had planned the attacks for bin Laden, a Pakistani engineer captured in 2003, a hundred and eighty-three times. A Senate inquiry later concluded that it had produced no information that could not have been had by other means.
 
+![An overgrown field of grass and bushes with, in the distance, the fences, watchtowers and huts of the abandoned Camp X-Ray](images/xray.jpg)
+*Camp X-Ray at the American naval base at Guantánamo Bay, Cuba, overgrown with weeds in August 2021. It was used as a temporary detention camp in 2002. Photo: Spc. Joshua Talley, U.S. Army, public domain.*
+
 A new weapon came into its own. A pilotless aircraft could circle over a village in Pakistan or Yemen for a day, watched on a screen by an operator at an air base in the American desert, and then fire a missile at a man whose telephone had been traced. Under three presidents such strikes killed several thousand people in countries with which the United States was not at war, among them hundreds of civilians.
 
 At home, the agency that intercepts foreign signals was turned, in secret, on Americans. In 2013 a young contractor fled to Hong Kong with a cache of its documents, which showed that it was collecting the records of telephone calls made in the United States by the billion and tapping the cables that carry the world's internet traffic.
@@ -71,6 +89,9 @@ At home, the agency that intercepts foreign signals was turned, in secret, on Am
 On 17 December 2010, in a dusty town in the middle of Tunisia, a policewoman confiscated the scales of a young man who sold fruit from a barrow without a permit. He went to the governor's office to complain and was turned away. An hour later he stood in the road outside, poured paint thinner over himself, and lit it.
 
 His name was Mohamed Bouazizi, and his death set the Arab world alight. Its countries were ruled by ageing dictators who had held power for twenty, thirty and forty years. Most of their people were under thirty, and many had degrees and no work. Protests spread across Tunisia, organised on mobile telephones, and within a month the president had fled. In Egypt, crowds occupied the central square of Cairo for eighteen days, until the army told the man who had ruled for thirty years to go. Risings followed in Libya, Yemen, Bahrain and Syria.
+
+![Tahrir Square in Cairo seen from above, a dense crowd filling the square and the streets around it, with tents and sheets in the centre and banners in Arabic and English](images/tahrir.jpg)
+*Tahrir Square in Cairo, crowded with protesters and tents, on 8 February 2011, during the eighteen days of the occupation. Photo: Mona, CC BY 2.0.*
 
 Almost everywhere it ended badly. In Libya, Western aircraft helped rebels to overthrow and kill the dictator, and the country broke up among rival militias. Egypt held a free election, which the Muslim Brotherhood won. A year later the army took power back, and when the Brotherhood's supporters camped in protest, it killed at least eight hundred of them in a day. Only Tunisia came out with a democracy, and that was dismantled ten years later.
 
@@ -91,13 +112,22 @@ Their movement proclaimed a caliphate, and a few days later its leader stood in 
 
 It took a coalition of more than seventy countries, Kurdish and Iraqi soldiers on the ground, and nearly five years to take its last village. The recapture of Mosul alone lasted nine months and left the old city a field of rubble.
 
+![The ruins of a brick tower with patterned brickwork and heaps of rubble at the end of a narrow street in Mosul, with electric wires and poles in the foreground](images/mosul.jpg)
+*What remained of the al-Nuri mosque in Mosul, from whose pulpit the Islamic State's leader had proclaimed the caliphate in 2014, photographed in 2019. The Islamic State destroyed the mosque in 2017. Photo: Levi Clancy, CC0.*
+
 ## Eleven days
 
 Bin Laden was found in 2011. He had been living for five years in a walled house in a quiet Pakistani garrison town, a short walk from the country's military academy. On the night of 2 May American commandos flew in by helicopter from Afghanistan, shot him, and buried his body at sea.
 
+![Men and women in shirtsleeves, and an officer in uniform in the foreground, seated in the small Situation Room at the White House, watching a screen out of view](images/sitroom.jpg)
+*The president and his advisers in the Situation Room of the White House on 1 May 2011, the evening in Washington on which American commandos raided bin Laden's house in Pakistan. Photo: Pete Souza, White House, public domain.*
+
 The war that had been started to catch him went on for ten more years. The Taliban had come back from their sanctuaries across the border, and no number of foreign troops, which reached a hundred and thirty thousand, could hold the countryside for a government that its own people regarded as corrupt. In 2020 the United States signed an agreement with the Taliban to leave. In the summer of 2021, as the last troops packed, the Afghan army and police, three hundred thousand strong on paper, dissolved in nine days. On 15 August the Taliban walked into Kabul without a fight.
 
 At the airport, thousands of Afghans who had worked for the foreigners ran alongside a departing American transport plane, and some clung to its wheels and fell. The last aircraft left on 30 August. It had been the longest war in American history. Girls over twelve were once again forbidden to go to school.
+
+![A long line of Afghan men, women and children with suitcases and bags waiting on the airfield at Kabul beside a grey C-17 transport aircraft, at dusk, with mountains behind](images/kabul.jpg)
+*Afghans waiting to board an American Air Force C-17 transport aircraft at Hamid Karzai International Airport in Kabul, 23 August 2021. Photo: Sgt. Isaiah Campbell, U.S. Marine Corps, public domain.*
 
 ## 7 October
 
