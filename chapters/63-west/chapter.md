@@ -19,16 +19,16 @@ When Britain recognised its independence in 1783, the United States reached from
 ![Map of the growth of the United States: the land recognised by Britain in 1783, Louisiana bought from France in 1803, Florida from Spain in 1819, Texas annexed in 1845, Oregon divided with Britain in 1846, the land taken from Mexico in 1848 and the strip bought from Mexico in 1853, with the Cherokee homeland and a dashed arrow of 1838 to Indian Territory, a dotted outline of the Comanche range, and the railway of 1869 from Omaha by Promontory to Sacramento](images/map_growth.png)
 *How the United States grew, 1783 to 1853, with the Cherokee homeland and their road west in 1838, the range of the Comanche, and the railway finished in 1869. The areas are simplified and the Comanche range is drawn roughly. Map: drawn for this book; coastlines and rivers from Natural Earth, public domain.*
 
-The seller was Napoleon, and he was selling because a plan of his own had failed. Napoleon held the title to Louisiana, an immense block of the continent between the Mississippi and the Rocky Mountains, which France had recently got back from Spain. He had meant it to feed his sugar colony in the Caribbean. The colony was the prize, and Louisiana was to be its farm. However, when the army he sent to that colony was being destroyed by the former slaves of Haiti and by yellow fever, the plan collapsed.
+The seller was Napoleon. He held the title to Louisiana, an immense block of the continent between the Mississippi and the Rocky Mountains, which France had recently got back from Spain, and once he had lost Haiti he had no further use for it.
 
 Meanwhile, the American envoys in Paris had arrived with a much smaller request. They had come to ask whether they might buy one city, New Orleans, at the river's mouth. They were asked instead what they would give for the whole territory.
 
-They paid fifteen million dollars for about two million square kilometres, which works out at roughly three cents an acre.
+They paid fifteen million dollars for more than eight hundred thousand square miles, which works out at roughly three cents an acre.
 
 ![Page of the Louisiana Purchase treaty in French, with Bonaparte's signature](images/louisiana.jpg)
 *A page of the Louisiana Purchase treaty, signed in 1803, in French, with the signature of Napoleon Bonaparte near the foot. Document: U.S. National Archives, public domain.*
 
-However, the envoys had not bought two million square kilometres of land in any ordinary sense. France did not control Louisiana. Some sixty thousand colonists and slaves lived along the lower river. The rest belonged to the people who lived there, in dozens of nations, who had not been consulted and mostly never heard of the sale. What changed hands in Paris was a claim: the right, as against other European powers, to be the one that dealt with those nations. Turning that claim into possession was the work of the rest of the century.
+In truth, the envoys had not bought eight hundred thousand square miles of land in any ordinary sense. France did not control Louisiana. Some sixty thousand colonists and slaves lived along the lower river. The rest belonged to the people who lived there, in dozens of nations, who had not been consulted and mostly never heard of the sale. What changed hands in Paris was a claim: the right, as against other European powers, to be the one that dealt with those nations. Turning that claim into possession was the work of the rest of the century.
 
 Nor did the buyer know what it had bought. The government in Washington had only rumours and a few traders' maps of what the territory contained. The president sent two army captains with about forty men to find out. They went up the Missouri river by boat, crossed the Rockies on horses bought from the Shoshone, and reached the Pacific after eighteen months. They survived because Native peoples fed them along the way, and because a Shoshone woman of about seventeen, travelling with them with a baby on her back, could interpret and showed every nation they met that this was not a war party. A party travelling with a mother and her child did not look like one that meant to fight.
 
@@ -51,7 +51,7 @@ The system needed people to fill the squares, and there was no shortage of inhab
 
 The land they wanted was occupied. East of the Mississippi alone there were tens of thousands of Native people, and the most numerous nations lived in the south, on the soil best suited to cotton. The planters and the Native farmers wanted the same ground.
 
-American policy, for the first decades, was that Native peoples should become "civilised", by which was meant that they should farm like whites, hold land as private property and become Christians, and that they would then be left in peace. The policy, in other words, was an offer: change your way of life, and keep your land. The Cherokee of the southern mountains took the Americans at their word.
+American policy, for the first decades, was that Native peoples should become "civilised", by which was meant that they should farm like whites, hold land as private property and become Christians, and that they would then be left in peace. The policy was an offer: change your way of life, and keep your land. The Cherokee of the southern mountains took the Americans at their word.
 
 They set about doing what had been asked. By the 1820s the Cherokee lived in log houses and frame houses, grew corn and cotton, ran mills and ferries, and in some cases owned plantations and slaves.
 
@@ -60,7 +60,7 @@ They went further than that. A Cherokee silversmith who could not read English s
 ![Hand-coloured print of Sequoyah holding a board with the Cherokee syllabary](images/sequoyah.jpg)
 *Sequoyah holding the Cherokee syllabary, in a hand-coloured print of 1836 after a painting by Charles Bird King. Print: Charles Bird King, public domain.*
 
-None of it helped. The promise had been that a nation which lived like its white neighbours would be left in peace. However, the neighbours wanted the land, whoever was farming it and however well. The state of Georgia claimed the Cherokee country as its own, and in 1829 gold was found there, which made the land more desirable still. Georgia declared Cherokee laws void, forbade Cherokees to testify against whites in court, and held a lottery to give their farms away. The federal government then moved in the same direction. In 1830 Congress passed, by a handful of votes, a law enabling the president to move every Native nation in the east to land beyond the Mississippi.
+None of it helped. The promise had been that a nation which lived like its white neighbours would be left in peace. The neighbours, though, wanted the land, whoever was farming it and however well. The state of Georgia claimed the Cherokee country as its own, and in 1829 gold was found there, which made the land more desirable still. Georgia declared Cherokee laws void, forbade Cherokees to testify against whites in court, and held a lottery to give their farms away. The federal government then moved in the same direction. In 1830 Congress passed, by a handful of votes, a law enabling the president to move every Native nation in the east to land beyond the Mississippi.
 
 ![Front page of the Cherokee Phoenix, 10 April 1828, with Cherokee and English columns](images/phoenix.jpg)
 *The front page of the Cherokee Phoenix of 10 April 1828, printed at New Echota in English and Cherokee, with the laws of the Cherokee nation in its columns. Newspaper: Cherokee Phoenix, Library of Congress, public domain.*
@@ -87,7 +87,7 @@ The Comanche used the horse to build something very like an empire. From about 1
 ![Oil painting of a Comanche lancer and an Osage warrior at full gallop on the plains](images/catlin.png)
 *A Comanche lancer and an Osage warrior in a running fight on the plains, painted by the American artist George Catlin in 1834. Painting: George Catlin, public domain.*
 
-When Mexico became independent, the raids went deeper. Each autumn, war parties of several hundred men rode south for hundreds of kilometres, burning ranches, killing the men and driving off horses, mules and captive women and children. By the 1840s much of northern Mexico was a wasteland of abandoned farms. A Mexican official wrote that the raiders had made a thousand deserts.
+When Mexico became independent, the raids went deeper. Each autumn, war parties of several hundred men rode south for hundreds of miles, burning ranches, killing the men and driving off horses, mules and captive women and children. By the 1840s much of northern Mexico was a wasteland of abandoned farms. A Mexican official wrote that the raiders had made a thousand deserts.
 
 In the north the Lakota, moving west out of the lakes country with horses and guns, did the same thing on a smaller scale. They pushed other nations off the best bison ranges and held the centre of the northern plains.
 
@@ -110,7 +110,7 @@ Mexico had signed away more than it knew. Nine days before the treaty was signed
 
 Americans had a phrase for what was happening. A New York journalist wrote in 1845 that it was the nation's "manifest destiny" to overspread the whole continent, which Providence had given it for the great experiment of liberty. The phrase turned a string of purchases and wars into something that had been meant to happen all along.
 
-Each new territory raised a question about that liberty, however. The states were divided into those that allowed slavery and those that had ended it, and the two groups were evenly balanced in the Senate, where every state, large or small, has two votes. As long as the numbers stayed equal, neither side could outvote the other, and a single new state could tip the balance. For that reason, every time a territory applied to become a state, somebody had to decide which kind it would be.
+Each new territory raised a question about that liberty, however. The states were divided into those that allowed slavery and those that had ended it, and the two groups were evenly balanced in the Senate, so that a single new state could tip the balance. For that reason, every time a territory applied to become a state, somebody had to decide which kind it would be.
 
 Congress had patched the quarrel once already. In 1820 it had agreed to admit Missouri as a slave state and drawn a line westward from its southern border across the rest of the Louisiana lands, with slavery permitted south of the line and forbidden to the north. The conquests from Mexico lay outside that bargain, because the line had been drawn only across the Louisiana lands. Nothing had been agreed about the new ones. The argument over them began before the war was over, and in 1861 it broke the country in two.
 

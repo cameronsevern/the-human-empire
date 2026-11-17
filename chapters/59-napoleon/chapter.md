@@ -12,7 +12,7 @@ He nagged his superiors until they let him try. He collected a hundred guns from
 
 ## A Corsican
 
-He had been born in 1769 on the island of Corsica, which France had bought from the Italian city of Genoa the year before. He was French, in other words, by a margin of one year. His family were minor nobles with little money, and he grew up speaking the Italian dialect of the island. At nine he was sent to France on a scholarship to a military school, where the other boys laughed at his name and his accent. He was good at mathematics, and so he went into the artillery, the one branch of the old royal army in which a clever boy without connections could get on.
+He had been born in 1769 on the island of Corsica, which France had bought from the Italian city of Genoa the year before. He was French by a margin of one year. His family were minor nobles with little money, and he grew up speaking the Italian dialect of the island. At nine he was sent to France on a scholarship to a military school, where the other boys laughed at his name and his accent. He was good at mathematics, and so he went into the artillery, the one branch of the old royal army in which a clever boy without connections could get on.
 
 Under the king, the highest ranks of the army had been kept for the great noble families. The Revolution removed everything that stood in his way. Most of the old noble officers fled abroad, which left their places empty. The republic, meanwhile, was fighting all of Europe at once, and it could not afford to care who a general's father was. It promoted whoever won.
 

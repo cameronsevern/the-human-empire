@@ -110,7 +110,7 @@ The princes did not need telling. Their hired soldiers and cannon met the peasan
 
 ## The prince's opportunity
 
-For a ruler, the new teaching had attractions that had nothing to do with salvation. The church was the largest landowner in Europe. It had its own courts and its own taxes, it was excused much of what other landowners paid to the king, and it sent a stream of money to Rome. Bishops and abbots were chosen with the pope's agreement. Inside every kingdom, in other words, stood a rich organisation that answered in part to somebody else.
+For a ruler, the new teaching had attractions that had nothing to do with salvation. The church was the largest landowner in Europe. It had its own courts and its own taxes, it was excused much of what other landowners paid to the king, and it sent a stream of money to Rome. Bishops and abbots were chosen with the pope's agreement. Inside every kingdom, then, stood a rich organisation that answered in part to somebody else.
 
 Luther's teaching took away the grounds on which that organisation stood. If he was right, the life of a monk was no holier than the life of a cobbler, and prayers could not buy anyone out of purgatory, so that monasteries had no purpose. Nor had the pope, since nobody stood between a believer and God. A prince who adopted the reform could close the monasteries in his territory, take their land, and appoint the clergy himself.
 

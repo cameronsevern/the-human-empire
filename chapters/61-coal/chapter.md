@@ -16,9 +16,9 @@ The mine needed the engine because mines fill with water. Rain soaks into the gr
 
 The usual answer was horses. A horse walked round and round in a circle, harnessed to a beam that turned a drum, and the drum wound up chains of buckets from the bottom of the shaft. It worked, but it was costly. A horse has to be bought, fed, housed and replaced, and it eats every day whether the water is high or low. A big mine might keep dozens of them plodding in circles.
 
-Notice what a horse is. It is a machine for turning grass and oats into pulling. And grass and oats are sunlight, caught by leaves in a field over the last year or two.
+A horse, after all, is a machine for turning grass and oats into pulling. And grass and oats are sunlight, caught by leaves in a field over the last year or two.
 
-Step back from the mine, and that is true of almost everything people did before Newcomen. For nearly all of history, humans lived on recent sunlight. Bread is sunlight that wheat stored last summer. A carthorse runs on hay and oats. Firewood is sunlight a tree has packed away over a few decades. Even wind and falling water are the sun's work, since the sun heats the air into wind and lifts the rain that fills the rivers. The muscles of a farmer, the fire in a blacksmith's forge, the sails of a windmill: all of it was powered by plants and weather of the recent past.
+Beyond the mine, the same was true of almost everything people did before Newcomen. For nearly all of history, humans lived on recent sunlight. Bread is sunlight that wheat stored last summer. A carthorse runs on hay and oats. Firewood is sunlight a tree has packed away over a few decades. Even wind and falling water are the sun's work, since the sun heats the air into wind and lifts the rain that fills the rivers. The muscles of a farmer, the fire in a blacksmith's forge, the sails of a windmill: all of it was powered by plants and weather of the recent past.
 
 This put a ceiling over every society. The sunlight that falls on a country each year is fixed, and most of it can only be caught by plants growing on land. A field could grow wheat for people, or oats for horses, or trees for fuel. It could not grow all three at once. When a country grew richer and more crowded, its needs began to fight over the same acres. More bread meant fewer forests. More iron, smelted with charcoal, meant cutting more forests. Sooner or later food and fuel grew dear, and growth slowed. However rich a society became, this invisible roof was somewhere above it.
 
@@ -35,7 +35,7 @@ Newcomen's engine managed it in a roundabout way. A boiler at the bottom, rather
 
 Above the piston is the ordinary air of the engine house, and air is heavy. We do not notice its weight because it presses on us from every side. But with almost nothing pushing back from below, the weight of the air shoves the piston down hard. The piston is chained to one end of a great wooden beam balanced in the middle like a seesaw. As that end comes down, the other end rises, lifting the long rods that work the pumps at the bottom of the mine. Then steam is let in again, the heavy pump rods pull their end of the beam back down and the piston back up, and the whole thing repeats.
 
-The point to hold on to is that the steam does not push. The atmosphere does. Steam is used only to make an empty space, and the sky does the work.
+The steam, then, does not push. The atmosphere does. Steam is used only to make an empty space, and the sky does the work.
 
 The flaw is built into the design. Every stroke, the cold spray chills the whole iron cylinder. The next puff of steam has to heat it up again before it can fill it, and most of that steam simply turns back into water on the cold metal. The engine spends nearly all its fuel warming and cooling itself.
 
@@ -98,7 +98,7 @@ Arkwright found his power in water. In 1771 and 1772 he built a mill at Cromford
 ![A three-storey stone mill with rows of white windows beside a stream, with excavated foundations and a rock face to the right](images/cromford.jpg)
 *Arkwright's first mill at Cromford in Derbyshire, built in 1771, beside the stream that turned its waterwheel. Photo: Humphrey Bolton, CC BY-SA 2.0.*
 
-Cromford was not the first factory of any kind. A silk mill at Derby had used water power to drive machines decades earlier. But Cromford set the pattern for cotton: one big building, one power source, many machines, and many workers kept to a timetable. Arkwright built more mills, was widely copied, and grew very rich.
+Cromford was not the first factory of any kind. A silk mill at Derby had used water power to drive machines decades earlier. Even so, Cromford set the pattern for cotton: one big building, one power source, many machines, and many workers kept to a timetable. The sugar islands had run their slaves to the clock in the same way a century before; Cromford did it with free workers in England. Arkwright built more mills, was widely copied, and grew very rich.
 
 A few years later came the spinning mule, which combined ideas from the jenny and Arkwright's machine and could make finer thread. Unlike Arkwright's machine, however, the early mules were still run by skilled spinners.
 

@@ -142,7 +142,7 @@ Herzl had been brooding for years on the new hatred in his own city, and he came
 
 ## The colour line
 
-The whole structure was attacked from the beginning by the people it was aimed at. A former slave, Frederick Douglass, told an audience of American students in 1854 that pride and selfishness never want for a theory to justify them. In other words, the science had been found because it was needed. A Haitian lawyer answered the French count in a book of six hundred pages called *The Equality of the Human Races*.
+The whole structure was attacked from the beginning by the people it was aimed at. A former slave, Frederick Douglass, told an audience of American students in 1854 that pride and selfishness never want for a theory to justify them. His point was that the science had been found because it was needed. A Haitian lawyer answered the French count in a book of six hundred pages called *The Equality of the Human Races*.
 
 Some of the attack came from measurement itself. In New York, an anthropologist measured the heads of thousands of immigrants and their American-born children, and found that the children's skulls differed in shape from their parents'. The race scientists had treated the shape of the skull as something handed down unchanged. The supposedly fixed mark of race, he concluded, could change in one generation with new surroundings.
 

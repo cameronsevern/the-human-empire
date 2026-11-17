@@ -75,7 +75,7 @@ Europe had very little like this. A plantation brought two or three hundred work
 
 ## Cheaper to buy
 
-A sugar estate was also a very large investment. The planter needed the land, the mill, the coppers, the cattle and, most expensive of all, the people. Few men had that kind of money. Instead, they borrowed it from merchants in London, Bristol or Bordeaux, who took the sugar in repayment and sold it. Most estates, in other words, began life in debt.
+A sugar estate was also a very large investment. The planter needed the land, the mill, the coppers, the cattle and, most expensive of all, the people. Few men had that kind of money. Instead, they borrowed it from merchants in London, Bristol or Bordeaux, who took the sugar in repayment and sold it. Most estates began life in debt.
 
 Those who succeeded grew very rich indeed, and the richest planters did not live on their estates at all. They hired managers and went home to build country houses, and in England "as wealthy as a West Indian" became a common phrase.
 

@@ -24,9 +24,9 @@ What followed was fast. When the delegates met, Europeans ruled about a tenth of
 
 The old map explains what a change this was. In 1870 the European presence in Africa was a scatter of footholds on the edge. The French held the coast of Algeria and some forts in Senegal. The British had a colony at the southern tip and a few trading posts in the west. The Portuguese clung to harbours that they had held since the 1500s. Behind these footholds lay almost everything. The interior, a land mass three times the size of Europe, belonged to African kingdoms, empires and village federations, most of which no European had seen.
 
-Europeans had been sailing along this coast for four hundred years, and yet with few exceptions they had stayed on it. Two things had kept it that way. The first was that African states could defend themselves, and the muskets that Europeans sold on the coast had armed them as well as their visitors.
+Europeans had been sailing along this coast for four hundred years, and yet with few exceptions they had stayed on it, held there, as in the days of the slave forts, by strong African states and by fever. The states could defend themselves, and the muskets that Europeans sold on the coast had armed them as well as their visitors.
 
-The second was malaria. On the west coast, the fevers of tropical Africa killed between a third and a half of the Europeans who went there within a year. A few coastal posts could be kept going by sending out replacements. A march inland was another matter. The British government learned this in 1841, when it sent three steamships up the river Niger to open trade and suppress slaving. Of a hundred and forty-five Europeans aboard, about forty were dead within two months, and the expedition turned back.
+The fever was malaria, which killed Europeans on the west coast at a terrible rate. A few coastal posts could be kept going by sending out replacements. A march inland was another matter. The British government learned this in 1841, when it sent three steamships up the river Niger to open trade and suppress slaving. Of a hundred and forty-five Europeans aboard, about forty were dead within two months, and the expedition turned back.
 
 The cure had been known for two centuries without being understood. The bark of a tree from the Andes, ground to a bitter powder, would break a malarial fever. In 1820 French chemists extracted the active substance from the bark and called it quinine. Even then, doctors gave it to people who were already sick. It took another generation to discover the important thing about it, which was that it works best when taken every day before the fever starts.
 
@@ -121,7 +121,7 @@ The victory did not save the kingdom. Britain sent reinforcements, and six month
 ![Old photograph of a man with a headring and a cloth wrapped round his shoulders](images/cetshwayo.jpg)
 *Cetshwayo, king of the Zulu, in a photograph of about 1875, a few years before the war of 1879. Photo: unknown, public domain.*
 
-That was the usual pattern. An African army could win when it surprised the enemy at close quarters, where rifles counted for less. It could not replace its losses or match the invaders' weapons, and the next column was always on its way. Winning a battle, in other words, was not the same as winning the war.
+That was the usual pattern. An African army could win when it surprised the enemy at close quarters, where rifles counted for less. It could not replace its losses or match the invaders' weapons, and the next column was always on its way. Winning a battle was not the same as winning the war.
 
 Since ordinary weapons were not enough, some turned to other sources of strength. In 1905, in German East Africa, people from many different ethnic groups rose against forced labour on the cotton plantations. A prophet had given them a sacred water, which was to turn German bullets into water as they left the gun. The belief brought separate peoples into a single rising. The bullets did not turn to water. The Germans answered by burning the villages and the crops across the whole region, and the famine that followed killed perhaps two hundred thousand people.
 
@@ -131,7 +131,7 @@ The aim was no longer to end a rising. It was to be rid of a people. Those who s
 
 ## Adwa
 
-One African state came through by defeating its invader, and the reason is instructive.
+One African state came through by defeating its invader in battle.
 
 Ethiopia is a highland kingdom in the east of the continent. It had been Christian since the time of the Roman empire, with its own script, its own church and a line of emperors who claimed descent from King Solomon. In the 1880s its emperor, Menelik, watched the Europeans closing in. The Italians had taken the coast to his north.
 

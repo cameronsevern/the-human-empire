@@ -78,7 +78,7 @@ The defenders had an answer, and for six weeks it worked. Every night, as soon a
 
 ## Ships over the hill
 
-A city under siege can hold out for as long as food and reinforcements can reach it, and Constantinople had always been supplied by sea. Guns at the land wall were therefore only half of the sultan's task, and the sea was the other half. Mehmed had therefore built a fleet of more than a hundred vessels, the largest the Ottomans had ever put to sea.
+A city under siege can hold out for as long as food and reinforcements can reach it, and Constantinople had always been supplied by sea. Guns at the land wall were therefore only half of the sultan's task, and the sea was the other half. For that reason Mehmed had built a fleet of more than a hundred vessels, the largest the Ottomans had ever put to sea.
 
 The defenders had prepared for this. A great iron chain, floating on wooden barrels, was stretched across the mouth of the Golden Horn from the city to the Genoese trading town of Galata on the other side. Behind the chain lay the Christian ships. As long as it held, the harbour was safe, and the long wall along the harbour needed only a few watchmen. The men saved there could stand on the land wall, where they were needed.
 

@@ -29,7 +29,7 @@ They also died. The warm, wet lowlands of the Americas soon swarmed with two dis
 
 Those two diseases also pointed the planters towards Africa. Yellow fever and the deadliest kind of malaria had come from Africa in the ships. For that reason, people who had grown up in West Africa were the ones most likely to survive them. Many had lived through yellow fever in childhood, which protects for life, and many carried in their blood an inherited defence against the worst kinds of malaria. They also knew how to farm in the tropics. In a place where native workers and European servants were both dying, West Africans were the workers most likely to live.
 
-What remained was the question of how to get them, and here the Portuguese already had a source. For half a century before Columbus, their ships had been working down the African coast, buying gold, pepper and people, and they had used African slaves to grow sugar on islands off that coast. The whole arrangement, in other words, existed before the Americas were found. When the plantations moved across the Atlantic, the slave ships followed.
+What remained was the question of how to get them, and here the Portuguese already had a source. For half a century before Columbus, their ships had been working down the African coast, buying gold, pepper and people, and they had used African slaves to grow sugar on islands off that coast. The whole arrangement existed before the Americas were found. When the plantations moved across the Atlantic, the slave ships followed.
 
 ## The white man's grave
 
@@ -48,7 +48,7 @@ These forts look like the bases of conquerors, but they were closer to warehouse
 
 ## Wealth in people
 
-The Europeans, then, could buy people on the African coast only if somebody there chose to sell them. Why African rulers did so begins with a difference in what it meant to be rich.
+The Europeans, then, could buy people on the African coast only if somebody there chose to sell them. Many rulers chose to, because in their world wealth was counted in a different way.
 
 In Europe, a rich man was one who owned land. In most of Africa south of the Sahara, land was plentiful and belonged to the community or the king, and nobody could buy a field. What was scarce was people to work it. Wealth and power were therefore counted in dependants: wives, children, clients and slaves. A great man was one with many people. A ruler who wanted to grow stronger needed more people, and war was one way to get them.
 
@@ -139,9 +139,9 @@ Counting the effect on Africa is harder than counting the ships, and historians 
 
 The first loss is the missing people. The ships' records understate it, because they begin at the water's edge. For every person sold on the coast, others had died in the raid that took them or on the march to the sea. Meanwhile, during the 1700s, the population of Europe grew by half and went on growing. Along the coasts of West and Central Africa that fed the ships, by contrast, the best estimates show the number of people falling from about 1730 for more than a century.
 
-The second is who was taken. The planters wanted young men, and the ships carried nearly two males for every female. In the regions that lost most, there were villages of women, children and the old.
+Then there is the question of who was taken. The planters wanted young men, and the ships carried nearly two males for every female. In the regions that lost most, there were villages of women, children and the old.
 
-The third is what the sale of people did to the societies that sold them. The profit went to kings, to warlords and to the merchants of the coast, in the form of cloth, liquor and guns. Cloth wears out and liquor is drunk, and little of what came in was the kind of wealth that grows. In the same centuries that Europe was building mills and banks with the proceeds of the plantations, the African kingdoms that supplied the labour were spending their income on the means of capturing more.
+Finally, there is what the sale of people did to the societies that sold them. The profit went to kings, to warlords and to the merchants of the coast, in the form of cloth, liquor and guns. Cloth wears out and liquor is drunk, and little of what came in was the kind of wealth that grows. In the same centuries that Europe was building mills and banks with the proceeds of the plantations, the African kingdoms that supplied the labour were spending their income on the means of capturing more.
 
 Kongo is the clearest case. A hundred and twenty years after Afonso's death the kingdom fell into civil war between rival branches of the royal family, and the war lasted, on and off, for forty years. Each side sold its prisoners to the ships to pay for muskets. The capital was abandoned to the forest.
 

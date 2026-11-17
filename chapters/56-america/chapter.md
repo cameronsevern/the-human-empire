@@ -39,7 +39,7 @@ It was into this settled arrangement that the new tax arrived. In 1765 Parliamen
 ![Sheet of small red-brown stamps marked AMERICA and ONE PENNY, each with a crown, above handwritten notes](images/stamps.jpg)
 *Proof sheet of the one-penny stamps printed for the Stamp Act, 1765.*
 
-The ministers could hardly have chosen worse. The tax fell hardest on lawyers, printers, merchants and tavern keepers, who were the most articulate and best-connected people in America. In other words, it angered exactly the people best placed to stir up everyone else. Within months, crowds had burned the stamp distributors in effigy and pulled down their houses, and nearly all of them had resigned before the tax came into force.
+The ministers could hardly have chosen worse. The tax fell hardest on lawyers, printers, merchants and tavern keepers, who were the most articulate and best-connected people in America. It angered exactly the people best placed to stir up everyone else. Within months, crowds had burned the stamp distributors in effigy and pulled down their houses, and nearly all of them had resigned before the tax came into force.
 
 The colonists' argument was a simple one, and they had it from England. In 1689 the English had settled that the king could not take his subjects' money without the consent of their representatives in Parliament. The colonists considered themselves English subjects with all the same rights. However, they elected nobody to Parliament. Their representatives sat in their own assemblies, and those assemblies alone could tax them. It followed that a tax voted in London was money taken without consent, which was the definition of tyranny. The phrase that summed it up was "no taxation without representation".
 

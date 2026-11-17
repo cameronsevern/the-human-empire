@@ -28,7 +28,7 @@ For more than two hundred years the shoguns, the generals who ruled Japan, had k
 
 It had read, a decade earlier, how a few British steamers had brought the Chinese empire to its knees. The lesson applied to Japan with even more force. Japan was a chain of islands whose capital was fed by coastal shipping and whose largest cities lay within range of naval guns. A fleet in the bay could therefore starve Edo and shell it as well.
 
-The shogun's ministers saw no choice, and signed. Further treaties followed, with the United States and then with Britain, France, Russia and Holland. They were modelled on the ones forced upon China, and two of their terms marked Japan as something less than an equal. First, ports were opened to foreign merchants, who could be tried only by their own consuls. A foreigner accused of a crime in Japan was therefore out of reach of Japanese judges. Second, Japan's duties on imports were fixed at a low rate that it had no power to change.
+The shogun's ministers saw no choice, and signed. Further treaties followed, with the United States and then with Britain, France, Russia and Holland. They were modelled on the ones forced upon China, and they carried the same two terms that marked Japan as something less than an equal: foreign merchants in the open ports could be tried only by their own consuls, out of reach of Japanese judges, and Japan's duties on imports were fixed at a low rate that it had no power to change.
 
 ## Expel the barbarians
 

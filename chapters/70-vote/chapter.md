@@ -21,7 +21,7 @@ The effort was enough, though only just. The upper house passed the bill that Se
 ![Black and white portrait of a woman with upswept hair in a high-collared beaded blouse](images/sheppard.jpg)
 *Kate Sheppard, who organised the petition, photographed about 1905 by H. H. Clifford. Photo: H. H. Clifford, public domain.*
 
-It was the first time that all the women of a country had been free to vote for its parliament. That it came so late is the puzzle. A century had passed since the revolutions that declared all men equal.
+It was the first time that all the women of a country had been free to vote for its parliament, and it came strangely late. A century had passed since the revolutions that declared all men equal.
 
 ## Covered
 
@@ -93,7 +93,7 @@ The opposition was not only male. Some of the firmest opponents were women, and 
 
 The breakthrough came from the margins. Nearly all the first places to give women the vote were new societies, far from the old centres of power.
 
-The pioneer was the territory of Wyoming, in the American West, in 1869. It had six men for every woman, and its legislators hoped, among other things, to attract more women. Having done it, Wyoming held firm. When Wyoming applied to become a state twenty years later and Congress objected to its female voters, the legislature replied by telegram that it would stay out of the Union a hundred years before it came in without the women.
+In the United States, the first lasting grant came from the territory of Wyoming, in the American West, in 1869. It had six men for every woman, and its legislators hoped, among other things, to attract more women. Having done it, Wyoming held firm. When Wyoming applied to become a state twenty years later and Congress objected to its female voters, the legislature replied by telegram that it would stay out of the Union a hundred years before it came in without the women.
 
 Other places followed. After New Zealand came South Australia in 1894 and the new Australian federation in 1902. The first European country was Finland, in 1906, in the course of a revolt against its Russian rulers, and then Norway in 1913.
 
@@ -182,6 +182,6 @@ When his name was called, he said "aye". The amendment passed by the narrowest o
 
 Twenty-six million American women could now vote. For many of them, however, the right remained on paper. In the Southern states, the tests and taxes that kept Black men from the polls kept Black women out as well, and did so for another forty-five years.
 
-Elsewhere the old order held on for a surprisingly long time. French women first voted in 1945, and Italian and Japanese women a year later.
+Elsewhere the old order held on for a surprisingly long time. French women won the vote in 1944 and first used it in 1945. Italian and Japanese women won it in 1945 and first voted a year later.
 
 Switzerland shows how a democracy could keep women out by democratic means. In Switzerland, where every change to the constitution had to be approved by a majority of the voters, and the voters were men, women did not gain the vote in national elections until 1971. Even then, some corners of the country resisted. One small mountain canton, as the member states of Switzerland are called, still decided its local affairs at an open-air meeting in the town square, to which each citizen carried his sword as proof of his right to take part. In 1990 its men voted once more to keep the women out, and the country's highest court overruled them.

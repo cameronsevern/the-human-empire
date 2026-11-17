@@ -6,9 +6,9 @@ Because every Mongol man was a soldier on horseback who carried his food with hi
 
 In the spring of 1254, a friar named William arrived at the capital of the Mongol empire. He came from Flanders, and he had been travelling for nearly a year, first by ox-cart and then on horseback, across the grasslands north of the Black Sea and the Caspian and then over the mountains of Central Asia. He had come to preach, and he carried a letter from the king of France.
 
-The capital was called Karakorum, and it stood on a river plain in the middle of Mongolia. William was not impressed by its size. He judged it smaller than the village of Saint-Denis outside Paris. What astonished him was what he found just inside the door of the palace.
+The capital was called Karakorum, and it stood on a river plain in the middle of Mongolia. William was not impressed by its size. He judged it smaller than the village of Saint-Denis outside Paris. The palace, by contrast, astonished him.
 
-There stood a great tree made of silver, with silver branches, leaves and fruit. Four silver lions crouched at its foot, and four gilded serpents wound around its trunk. When the khan called for drink, a silver angel at the top of the tree lifted a trumpet and blew, and servants outside began to pour. A different drink then ran from the mouth of each serpent into a silver basin: wine from grapes, mare's milk, a drink made from honey, and a wine made from rice.
+Just inside its door stood a great tree made of silver, with silver branches, leaves and fruit. Four silver lions crouched at its foot, and four gilded serpents wound around its trunk. When the khan called for drink, a silver angel at the top of the tree lifted a trumpet and blew, and servants outside began to pour. A different drink then ran from the mouth of each serpent into a silver basin: wine from grapes, mare's milk, a drink made from honey, and a wine made from rice.
 
 The man who had built the tree was a goldsmith from Paris named Guillaume. A Mongol army had captured him in Hungary more than ten years earlier and carried him more than six thousand kilometres to the east. He now had a wife, a workshop of fifty men, and a patron who ruled more of the earth than anyone before him. He told William that the angel had been meant to work by bellows, but the bellows had not given enough wind, so he had left a hollow under the tree where a man could hide and blow down a pipe.
 
@@ -60,7 +60,7 @@ A united steppe needed somewhere to go, and at that moment it also had the means
 
 Rain on the steppe means grass, and grass means horses. In those years the pastures could carry more animals than anyone living had seen. This mattered because a Mongol army ran on spare horses. Each Mongol soldier rode to war with a string of three or four spare horses and changed mounts through the day, so that none was worn out. This is the reason Mongol armies could cover distances that their enemies thought impossible.
 
-The great prize was north China, which lay just across the Gobi desert and was the richest country any Mongol had heard of. It was ruled at the time by the Jin, a dynasty founded by forest people from Manchuria who had themselves conquered it a century before. In the open field the Mongols beat the Jin armies again and again.
+The great prize was north China, which lay just across the Gobi desert and was the richest country any Mongol had heard of. It was ruled at the time by the Jin, a dynasty founded by the Jurchen, forest people from Manchuria who had themselves conquered it a century before. In the open field the Mongols beat the Jin armies again and again.
 
 The cities were another matter. North China was full of walled towns, and the capital, on the site of modern Beijing, had walls of packed earth some twelve metres high. A horse cannot climb a wall, and arrows do nothing to it. The Mongols' first attempt at a siege, made a few years earlier against a smaller kingdom to the west, shows how little they knew. They tried to flood the city by building a dam across a river. The dam broke, and the water washed away their own camp.
 

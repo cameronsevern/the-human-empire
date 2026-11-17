@@ -18,7 +18,7 @@ The hidden core of the building is brick, baked on the edge of the city. Its mar
 
 The land itself had belonged to one of those princes. He was a Hindu raja and also one of the emperor's leading generals, and the emperor gave him four mansions in exchange for the plot. The same raja was ordered to supply stonecutters and carts for the marble.
 
-The Taj Mahal is a Muslim tomb in a mostly Hindu country, built with Arabic verses in a Persian hand and Indian stonework, on land sold by a Hindu general to a Muslim king. Every part of that sentence was the result of a decision about how to govern.
+The Taj Mahal is a Muslim tomb in a mostly Hindu country, built with Arabic verses in a Persian hand and Indian stonework, on land sold by a Hindu general to a Muslim king. Each of those mixtures came from a decision about how to govern.
 
 ![The white domed Taj Mahal with four minarets, seen along a long water channel lined with cypress trees](images/taj_south.jpg)
 *The Taj Mahal at Agra, India, from the south, built for Mumtaz Mahal in the years after 1631. Photo: Yann, CC BY-SA 4.0.*
@@ -41,7 +41,7 @@ The same thing was happening across the Muslim world in those years. The Ottoman
 ![A map from the Danube to India with three shaded areas, the Ottoman empire in the Balkans, Turkey, Iraq, Syria and Egypt, the Safavid empire in Iran, and the Mughal empire in northern India, with Vienna, Bosnia, Istanbul, Baghdad, Tabriz, the battlefield of Chaldiran, Isfahan, Kabul, Amritsar in the Punjab, the battlefield of Panipat, Delhi, Agra, Varanasi, Burhanpur and Goa](images/map_three_empires.png)
 *The three Muslim empires in the middle of the 1600s: the Ottomans, the Safavids in Iran and the Mughals in India. The areas are shown roughly. The crosses mark the battles of Chaldiran in 1514 and Panipat in 1526. Goa was Portuguese. Map: drawn for this book; coastlines and rivers from Natural Earth, public domain.*
 
-Guns had a political effect as well as a military one, because they were expensive. A cannon needed a foundry, tonnes of bronze, a powder works and trained crews, and musketeers had to be drilled and paid all year round. Tribal chiefs and local lords, who had been the backbone of earlier Muslim states, could not afford any of this. A ruler who controlled the taxes of a large territory could. Power therefore drained away from the chiefs and towards the ruler at the centre.
+Guns had a political effect as well as a military one. As the Ottomans had shown at the walls of Constantinople, only the richest rulers could keep great cannon and their crews, and musketeers, too, had to be drilled and paid all year round. Tribal chiefs and local lords, who had been the backbone of earlier Muslim states, could not afford any of this. A ruler who controlled the taxes of a large territory could. Power therefore drained away from the chiefs and towards the ruler at the centre.
 
 Some historians have called these states the gunpowder empires for that reason, and others object that the label credits a weapon with what was done by tax collectors. Both have a point. The guns won the battles, and the ability to pay for them year after year built the states.
 

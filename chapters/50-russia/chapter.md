@@ -126,7 +126,7 @@ The effort paid off. After more than two months, one of his columns caught Galda
 ![A painted scroll scene of white tents and rows of orange banners on a green grassy plain with camels and men](images/kherlen.jpg)
 *The Kangxi emperor's camp on the Kherlen river in Mongolia in 1696, on his march against Galdan, in a fragment of a scroll painting. Painters: Yu Zhiding and Fan Chenglie, public domain.*
 
-The horse and the bow had not become worse weapons. A mounted archer could still shoot faster than a musketeer. What had changed was that a rich state with a paid army could now carry its food and its guns deep into the grassland. It was a huge effort, and the emperor's own column nearly ran out of grain. It could be done, however, and the horsemen could no longer count on being left alone.
+The horse and the bow had not become worse weapons. A mounted archer could still shoot faster than a musketeer. What had changed was that a rich state with a paid army could now carry its food and its guns deep into the grassland. It was a huge effort, and the emperor's own column nearly ran out of grain. Yet it could be done, and the horsemen could no longer count on being left alone.
 
 Russia was doing the same thing on the western half of the steppe, with a different tool. For centuries the Tatars of the Crimea had ridden north every summer to seize Russian villagers and sell them in the slave markets of the Ottoman empire, and they had carried off people by the hundred thousand.
 

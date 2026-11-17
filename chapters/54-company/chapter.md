@@ -25,7 +25,7 @@ Merchants had always handled this by forming a partnership for each voyage and d
 
 In 1602 the Dutch government pushed its rival merchants into a single body, the United East India Company, and the company tried something new. Anyone at all could put money in, in any amount. The money would stay in the company for ten years, and when the ten years were up the directors did not pay it back, so that the capital became permanent. In return each investor got a share: a right to a slice of whatever profits were paid out, in proportion to what he had put in.
 
-The response showed how much money had been waiting for such an offer. More than eleven hundred people signed up in Amsterdam alone, and across the country the company raised more than six million guilders, about nine times what the English company had started with two years before. The Amsterdam list survives. It includes great merchants, and it includes bakers, clergymen and a housemaid, who invested a hundred guilders. Ordinary people, in other words, now owned part of a fleet.
+The response showed how much money had been waiting for such an offer. More than eleven hundred people signed up in Amsterdam alone, and across the country the company raised more than six million guilders, about nine times what the English company had started with two years before. The Amsterdam list survives. It includes great merchants, and it includes bakers, clergymen and a housemaid, who invested a hundred guilders. Ordinary people now owned part of a fleet.
 
 ![Two pages of handwritten Dutch text, the first a printed-style certificate and the second a list of payments](images/voc1606.jpg)
 *The oldest surviving share in the Dutch East India Company, issued in 1606 by its Enkhuizen branch, with the record of payments on the second page. Photo: Westfries Archief, public domain.*
@@ -71,13 +71,13 @@ Once, in the 1680s, its directors lost their heads and declared war on the Mugha
 
 ## The drill
 
-A company that had been beaten so easily did not look like a future ruler of India. Two changes in the next half century turned the tenant into a landlord.
+A company that had been beaten so easily did not look like a future ruler of India. Within half a century, nevertheless, the Mughal empire had fallen apart, and a new way of fighting had arrived from Europe, and between them they turned the tenant into a landlord.
 
-The first was the collapse of the empire. The emperor who had humbled the English died in 1707, after wearing out his treasury in twenty-six years of war. His successors could not hold the provinces. One after another, governors stopped sending taxes to Delhi and founded dynasties of their own. In 1739 a Persian army sacked the capital and carried off the imperial throne.
+The empire went first. The emperor who had humbled the English died in 1707, after wearing out his treasury in twenty-six years of war. His successors could not hold the provinces. One after another, governors stopped sending taxes to Delhi and founded dynasties of their own. In 1739 a Persian army sacked the capital and carried off the imperial throne.
 
 India did not become poorer or weaker. It became divided, into a dozen states at war with one another, and each of them was in the market for allies. A foreigner with soldiers to offer now had many possible customers.
 
-The second change had happened in Europe. Over the 1600s, European armies had learned to fight in a new way. It began with the weapon. Foot soldiers were armed with a musket that fired by a flint and could carry a blade on its muzzle. They were trained for months to do one thing: to stand in a line three deep, load in a fixed sequence of movements, and fire all together on the word of command, again and again, without flinching.
+The new way of fighting had been worked out in Europe. Over the 1600s, European armies had learned to fight in a new way. It began with the weapon. Foot soldiers were armed with a musket that fired by a flint and could carry a blade on its muzzle. They were trained for months to do one thing: to stand in a line three deep, load in a fixed sequence of movements, and fire all together on the word of command, again and again, without flinching.
 
 The effect on a battlefield was out of all proportion to the numbers. A line of such men produced a wall of lead every half minute. Cavalry that charged it was shot down, and the horses would not run onto the blades.
 

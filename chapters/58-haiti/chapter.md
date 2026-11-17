@@ -24,7 +24,7 @@ Saint-Domingue occupied the western third of the island of Hispaniola, an area a
 
 The profit came from two crops. The colony produced about two fifths of all the sugar eaten in Europe and more than half the coffee. A large part of France's overseas trade depended on it. Its produce filled the warehouses of Bordeaux and Nantes, and the fortunes it made paid for a good many of the fine houses in both cities. The French called it the pearl of the Antilles.
 
-The people who made this wealth were not the people who enjoyed it. Nearly half a million enslaved people did the work. Against that number, the colony had some forty thousand whites. The whites, in other words, lived among an enslaved population that outnumbered them by more than ten to one.
+The people who made this wealth were not the people who enjoyed it. Nearly half a million enslaved people did the work. Against that number, the colony had some forty thousand whites. The whites lived among an enslaved population that outnumbered them by more than ten to one.
 
 Between the two stood a third group, about thirty thousand strong, who were free and of mixed or African descent. Most were the children or grandchildren of French planters and enslaved women. Their position was an odd one. In wealth, many of them stood beside the masters. Free people of colour owned plantations of their own, many of them owned slaves, and they supplied most of the militia that hunted runaways. In law, however, they stood far below the poorest white. The law barred them from the professions and from public office, told them what clothes they could wear, and forbade them to sit with whites in church.
 
@@ -92,7 +92,7 @@ The republic soon gained the ally it needed most. That spring, Toussaint left th
 
 Abolition did not end the fighting. The British came anyway, and stayed for five years. They took the main ports and never controlled the interior. Their real enemy was a mosquito.
 
-Yellow fever is carried by a mosquito that breeds in standing water around houses, and it kills quickly and horribly. What mattered most in this war was whom it spared. People who catch it as children, as most of those raised in West Africa or the Caribbean did, usually recover and are immune for life. Soldiers fresh from England had no such protection. The disease therefore struck one army and largely passed over the other.
+Yellow fever is carried by a mosquito that breeds in standing water around houses, and it kills quickly and horribly. What mattered most in this war was whom it spared. The same childhood immunity that had made West Africans valuable to the planters now protected the people they had enslaved and their children born on the island. Soldiers fresh from England had no such protection. The disease therefore struck one army and largely passed over the other.
 
 Of about twenty thousand men whom Britain sent to Saint-Domingue, more than twelve thousand died there, most of them of fever. In 1798 the British commander negotiated his withdrawal with Toussaint in person, as with a head of state.
 

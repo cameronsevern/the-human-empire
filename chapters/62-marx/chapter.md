@@ -41,7 +41,7 @@ Smith was writing when the first cotton mills were a few years old. If goods wer
 
 In the spring of 1811, in the hosiery villages around Nottingham, bands of masked men began breaking into workshops at night. They carried sledgehammers, and they smashed one particular kind of machine: wide knitting frames that turned out cheap, shoddy stockings and were worked by unskilled hands at low pay. Notes left behind were signed by a "General Ludd", who did not exist. The following year the movement spread north, to the men who finished woollen cloth in Yorkshire and the cotton weavers of Lancashire.
 
-The Luddites, as they came to be called, were not stupid about machinery, though their name has become a word for people who are. Most of them worked machines themselves. What they objected to was the use of new machines to break their trades, cut their wages and replace trained men with children. Their quarrel, in other words, was with the masters and not with the iron.
+The Luddites, as they came to be called, were not stupid about machinery, though their name has become a word for people who are. Most of them worked machines themselves. What they objected to was the use of new machines to break their trades, cut their wages and replace trained men with children. Their quarrel was with the masters and not with the iron.
 
 Nor had they begun with hammers. They had first asked Parliament to enforce the old laws that regulated their crafts. Parliament answered by repealing the laws.
 
@@ -66,7 +66,7 @@ What finished the grain tax was a catastrophe that showed the creed at its harsh
 
 The same reasoning governed the help that was sent. The officials in London who ran the relief effort believed that to give away food would upset the market and teach the Irish to depend on charity. In 1847 the government did set up soup kitchens, which fed millions. The kitchens did not last, however. The government closed them after a few months and handed the burden to the Irish landowners.
 
-The creed could also be judged closer to home, in the streets around the mills. In the same decade a young German arrived in Manchester to learn the family business. Friedrich Engels was twenty-two, tall, cheerful and fond of fox hunting, and his father was part owner of a cotton-thread mill there. By day he worked in the office. In the evenings an Irish mill girl named Mary Burns, with whom he lived for the next twenty years, took him through the districts where the mill hands lived.
+The creed could also be judged closer to home, in the streets around the mills. In the same decade Friedrich Engels, the young German whose description of Manchester would later lend his name to the long years when wages stood still, arrived there to learn the family business. He was twenty-two, tall, cheerful and fond of fox hunting, and his father was part owner of a cotton-thread mill there. By day he worked in the office. In the evenings an Irish mill girl named Mary Burns, with whom he lived for the next twenty years, took him through the districts where the mill hands lived.
 
 ![Friedrich Engels in profile, with a full grey beard](images/engels.jpg)
 *Friedrich Engels in later life, long after his years in the Manchester mill. Photo: unknown, public domain.*
@@ -96,7 +96,7 @@ The word that was coined for ideas like his was "socialism". Its one lasting suc
 
 Villages of sharing were a dream for a few. Most working people put their hopes in something simpler. If Parliament made the laws, and the laws were against them, then they needed votes.
 
-In 1838 a group of London craftsmen drew up a document that they called the People's Charter. It made six demands: a vote for every man, voting in secret, pay for members of Parliament so that a poor man could serve, no property requirement for members, districts of equal size, and an election every year. The other five were there to make the first one count, because a vote is worth little if it must be cast in the open, or if only men of property can sit in Parliament. Nothing in the list asked for higher wages or shorter hours. It asked for a say in making the laws.
+In 1838 a group of London craftsmen drew up a document that they called the People's Charter. It made six demands: a vote for every man, voting in secret, pay for members of Parliament so that a poor man could serve, no property requirement for members, districts of equal size, and an election every year. The other five were there to make the first one count, because a vote is worth little if it must be cast in the open, or if only men of property can sit in Parliament. Nothing in the list asked for higher wages or shorter hours. It asked for a say in making the laws, which was the argument the soldiers at Putney had made two centuries before.
 
 Parliament was not ready to give it. Three times, in 1839, 1842 and 1848, enormous petitions in support of it were carried to Parliament. The second had more than three million signatures. Each time the House of Commons declined to act.
 
@@ -143,7 +143,7 @@ During those years, the country he lived in confounded him. Year by year the lot
 
 Pay was one part of it. From about 1850 the wages of British workers at last began to rise, and by the end of the century they bought roughly twice what they had bought at the beginning of his exile. The law of the workplace changed as well. Parliament had already limited the hours of women and children in the mills and banned women and small boys from the mines, and Marx himself called the ten-hour day a victory for the workers.
 
-Workers also won the right to organise, and then to vote. The ban on unions had been lifted in 1824, and in the 1870s they were given full protection in law. In 1867 and again in 1884, afraid of what refusal might bring, Parliament extended the vote until about two men in three had it. Five of the six points of the Charter eventually became law.
+Workers also won the right to organise, and then to vote. The ban on unions had been lifted in 1824, and in the 1870s they were given full protection in law. In 1867 and again in 1884, afraid of what refusal might bring, Parliament extended the vote until about three men in five had it. Five of the six points of the Charter eventually became law.
 
 In Germany, where a socialist party that honoured Marx was winning seats, the response was more deliberate. The chancellor of the new German empire was a conservative landowner who loathed socialists and banned their meetings. He also saw that a worker with something to lose makes a poor revolutionary. The pamphlet had said that the workers had nothing to lose but their chains, and so he set out to give them something. In the 1880s he set up compulsory insurance for German industrial workers against sickness, against accidents, and against poverty in old age, paid for by workers, employers and, for the pensions, the state. No government had done such a thing before. He said openly that his purpose was to make the workers loyal.
 

@@ -63,7 +63,7 @@ Cortés was thirty-four, a minor nobleman who had spent fifteen years in the Spa
 
 Five hundred men were very few to set against an empire of millions. Nevertheless, Cortés had three advantages that mattered more than his guns. The first was steel. A Spanish sword could cut through cotton armour, and a Spanish breastplate could turn a blade of volcanic glass. The second was the horse, which no one in Mexico had seen, and which let a few riders break up a crowd of foot soldiers.
 
-Steel and horses, however, were of little use to a commander who could not talk to the people of the country. The third advantage was a young woman who could. A few weeks before, a Maya town on the coast had made peace with Cortés and given him twenty slave women. One of them had been born far to the west, among people who spoke Nahuatl, the language of the Mexica, and had been sold as a child to the Maya. She therefore spoke both languages. Cortés had also picked up a Spaniard who had been shipwrecked years earlier and had learned Maya. Together the two of them made a chain across three languages. For the first months, Cortés spoke Spanish to this man, who spoke Maya to the woman, who spoke Nahuatl to the ambassadors of the emperor. Within the year she had learned Spanish and the chain was no longer needed.
+Steel and horses, however, were of little use to a commander who could not talk to the people of the country. The third advantage was a young woman who could. A few weeks before, a Maya town on the coast had made peace with Cortés and given him twenty slave women. One of them had been born far to the west, among people who spoke Nahuatl, the language of the Mexica, and had been sold as a child to the Maya. She spoke both languages. Cortés had also picked up a Spaniard who had been shipwrecked years earlier and had learned Maya. Together the two of them made a chain across three languages. For the first months, Cortés spoke Spanish to this man, who spoke Maya to the woman, who spoke Nahuatl to the ambassadors of the emperor. Within the year she had learned Spanish and the chain was no longer needed.
 
 The Spaniards called her Marina, and the Mexicans called her Malintzin. She was far more than an interpreter. She understood the politics of the country, and she could tell Cortés who hated whom. In an empire held together by fear, that knowledge was a weapon in itself. It is not an accident that the Tlaxcalan painters drew her so large.
 
@@ -78,7 +78,7 @@ As a result, Tlaxcala made an alliance with Cortés. When he set out again, seve
 
 ## Guests with a hostage
 
-The ruler of the Mexica was Moctezuma, a man of about fifty who had held the throne for seventeen years. His messengers had been watching the strangers since they landed, and painters had brought him pictures of the ships, the horses and the guns. He had therefore had months to think about what to do with them.
+The ruler of the Mexica was Moctezuma, a man of about fifty who had held the throne for seventeen years. His messengers had been watching the strangers since they landed, and painters had brought him pictures of the ships, the horses and the guns. He had spent months, as a result, thinking about what to do with them.
 
 A story grew up later that Moctezuma took Cortés for a returning god and was paralysed with dread. There is little sign of it in what he did. He behaved as the ruler of a great state would behave towards a small, dangerous and puzzling band of foreigners. He sent gifts and asked them to stay away. When they came on regardless, with his enemies the Tlaxcalans beside them, he decided to let them into the city, where he could watch them and where they would be surrounded by water. With the bridges taken up, the island would hold the guests as surely as it protected their host.
 
@@ -96,7 +96,7 @@ The survivors limped back to Tlaxcala. They arrived as beaten men, and their fat
 
 While the Spaniards rested in Tlaxcala, their most effective ally was already at work in the valley, and they had not sent it.
 
-One of the men who had landed with the second Spanish force had been carrying smallpox. The disease was old in Europe, Asia and Africa, where most people caught it as children and the survivors could not catch it again. Nobody on the American mainland had ever had it. That meant none of its peoples was protected, at any age. When it arrived, therefore, whole households fell ill together, the strong adults with the old and the young.
+One of the men who had landed with the second Spanish force had been carrying smallpox. The disease was old in Europe, Asia and Africa, where most people caught it as children and the survivors could not catch it again. Nobody on the American mainland had ever had it. That meant none of its peoples was protected, at any age. When it arrived, whole households fell ill together, the strong adults with the old and the young.
 
 It reached Tenochtitlan in the autumn of 1520 and burned through the city for about two months. The Mexica later described it to a Spanish friar who wrote down their words. Sores covered people's faces, heads and chests, they said, so that the sick could not walk, or lie face down, or turn over. Because everyone in a house was ill at once, there was nobody to prepare food, and a great many of those who died were killed by hunger and not by the disease.
 

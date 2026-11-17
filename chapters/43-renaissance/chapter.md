@@ -119,9 +119,9 @@ The first was fear of hell. The church taught that lending money at interest was
 
 The sums involved were enormous. His grandson later added up what the family had spent on buildings, charity and taxes between 1434 and 1471. It came to more than six hundred thousand florins, at a time when a skilled craftsman earned a few dozen florins a year. He thought the money well spent.
 
-The second reason was rivalry. Every guild, every great family and every city wanted a finer chapel, a larger palace or a more famous artist than the next, and the artists, who knew it, tried to outdo each other.
+Rivalry drove them as well. Every guild, every great family and every city wanted a finer chapel, a larger palace or a more famous artist than the next, and the artists, who knew it, tried to outdo each other.
 
-The third was politics. A work of art could say things about its owner that he could not decently say himself. A statue in Florence did exactly that for a whole city.
+Finally, there was politics. A work of art could say things about its owner that he could not decently say himself. A statue in Florence did exactly that for a whole city.
 
 In 1494 the Florentines lost patience with Cosimo's great-grandson, drove the Medici out and governed themselves again. Seven years later the overseers of the cathedral commissioned a statue from a sculptor of twenty-six named Michelangelo. He carved a naked young man, more than five metres tall, out of a single block of marble: David, the shepherd boy who killed a giant. It had been meant for the cathedral roof. When the city's leaders saw it, however, they set it up in front of the town hall instead, as the image of a small republic that was not afraid of anyone.
 
@@ -139,7 +139,7 @@ About 1482 a Florentine painter of thirty wrote to the ruler of Milan to ask for
 
 He can build light, strong bridges that can be carried with an army. He can drain the moat of a castle under siege. He knows how to destroy any fortress that is not founded on rock. He can make cannon, mortars and catapults of new designs, covered wagons that guns cannot hurt, tunnels dug in silence, and ships that resist fire. In time of peace, he adds at the end, he is as good an architect as any man, and he can carve in marble, bronze or clay, and paint as well as anyone.
 
-Almost the whole letter, in other words, is about war. Painting comes last.
+Almost the whole letter is about war. Painting comes last.
 
 The writer was Leonardo da Vinci, and he knew his customer. The rulers of Italy were at war with each other most of the time, and the cannon was changing warfare under their feet. For both reasons, what a prince wanted from a clever man was engineering. Leonardo got the job. In Milan he designed stage machinery and canal locks, and painted on a monastery wall a Last Supper that began to flake within his lifetime, because he had experimented with the paint.
 
