@@ -3,24 +3,26 @@
 the places it names, the first well in Persia (1908), the refinery at Abadan, the well that struck oil in
 Saudi Arabia in 1938, Baghdad (where OPEC was founded in 1960), Tehran, and the Strait of Hormuz.
 
-Drawn for this chapter, which had no map. The states are the modern ones (Natural Earth admin-0, 110 m, as
-shipped with geopandas), whose borders round the Gulf have changed little since the 1930s; Bahrain is too
-small for that file and is marked by a label. The oilfields are soft areas drawn by hand, roughly, after the
+Drawn for this chapter, which had no map. The states are the modern ones (Natural Earth admin-0, 1:10
+million, public domain; cut to the frame and simplified: data/ch97_gulf_ne10m.geojson), whose borders round
+the Gulf have changed little since the 1930s; the coastline is Natural Earth's 1:50 million land, on which
+Bahrain is marked by a label. The oilfields are soft areas drawn by hand, roughly, after the
 maps of English Wikipedia's "Ghawar Field", "Burgan field", "Rumaila oil field", "Kirkuk Field" and "Masjed
 Soleyman": Ghawar about 280 km long, running south from near Abqaiq; Burgan south of Kuwait City; Rumaila
 west of Basra; Kirkuk running north-west to south-east past the city. The first well of 1908 at Masjed
 Soleyman; the 1938 well (Dammam No. 7) at Dhahran. Pipelines are left out: the chapter does not mention them.
 Positions from English Wikipedia.
 """
+import os
 import numpy as np
 import geopandas as gpd
 from shapely.geometry import Polygon, box
-from shapely.ops import unary_union
+from shapely.ops import unary_union, linemerge
 import lib
 from lib import Map, INK, PAPER, FILL, SOFT, HALO, smooth
 
-C = gpd.read_file(gpd.datasets.get_path("naturalearth_lowres"))
-G = {r["name"]: r.geometry for _, r in C.iterrows()}
+C = gpd.read_file(os.path.join(lib.DATA, "ch97_gulf_ne10m.geojson"))
+G = {r["NAME"]: r.geometry for _, r in C.iterrows()}
 states = ["Iran", "Iraq", "Kuwait", "Saudi Arabia", "Qatar", "United Arab Emirates", "Oman", "Syria", "Jordan",
           "Turkey"]
 
@@ -39,11 +41,11 @@ for a in states:
         if a >= b or (a, b) in seen:
             continue
         seen.add((a, b))
+        edge = G[a].boundary.intersection(G[b].buffer(0.01)).intersection(m.land.buffer(-0.02))
         if {a, b} == {"Iran", "Iraq"}:                  # the south end follows the Shatt al-Arab, below
-            edge = G[a].boundary.intersection(G[b].buffer(0.03)).intersection(box(40, 30.5, 50, 40))
-            edge = edge.intersection(m.land.buffer(-0.02))
-        else:
-            edge = G[a].boundary.intersection(G[b].buffer(0.03)).intersection(m.land.buffer(-0.02))
+            edge = edge.intersection(box(40, 30.47, 50, 40))
+        parts = [l for l in getattr(edge, "geoms", [edge]) if l.geom_type == "LineString" and not l.is_empty]
+        edge = linemerge(parts) if parts else edge
         for line in getattr(edge, "geoms", [edge]):
             if line.is_empty or line.geom_type != "LineString":
                 continue
@@ -52,6 +54,7 @@ for a in states:
 
 c = smooth(shatt[3:])
 m.ax.plot(c[:, 0], c[:, 1], color=SOFT, lw=1.6, ls=(0, (5, 2.5)), zorder=2.6)
+
 
 # oilfields: soft areas
 def field(pts):

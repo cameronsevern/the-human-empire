@@ -87,7 +87,7 @@ With them went three dozen missiles that could reach Washington, and their warhe
 
 The secret held until the autumn. On 14 October an American spy plane flying more than twenty kilometres above western Cuba photographed a clearing in a palm forest. The film showed long canvas-covered trailers, launch stands and fuel trucks. What gave them away was their arrangement: they were laid out in a pattern that the analysts recognised from pictures of missile bases in the Soviet Union.
 
-![A black-and-white aerial photograph of a wooded hillside with white labels marking launcher equipment, eight missile trailers, tent areas and construction, under a caption reading MRBM Field Launch Site, San Cristobal No 1, 14 October 1962](images/site.gif)
+![A black-and-white aerial photograph of a wooded hillside with white labels marking launcher equipment, eight missile trailers, tent areas and construction, under a caption reading MRBM Field Launch Site, San Cristobal No 1, 14 October 1962](images/site.jpg)
 *The aerial photograph of the missile site at San Cristóbal, Cuba, taken on 14 October 1962 and labelled by American analysts: erector and launcher equipment, eight missile trailers and tent areas. Photo: US Department of Defense, public domain.*
 
 Kennedy was shown the photographs in his bedroom on the morning of the sixteenth. For six days he met in secret with about a dozen advisers. Nearly all of them began by favouring an air strike to destroy the missiles, followed by an invasion. The chief of the air force told the president that anything less would be almost as bad as the surrender to Hitler before the war.

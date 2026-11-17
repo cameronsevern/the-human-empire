@@ -3,8 +3,9 @@
 parallel dividing North from South Vietnam, Hanoi, Saigon, Dien Bien Phu, My Lai, the Gulf of Tonkin, the
 Mekong delta, and the supply trails from the North through Laos and Cambodia.
 
-Drawn for this chapter, which had no map. The countries are the modern ones (Natural Earth admin-0, 110 m, as
-shipped with geopandas), whose borders are those of French Indochina. The dividing line follows the Ben Hai
+Drawn for this chapter, which had no map. The countries are the modern ones (Natural Earth admin-0, 1:10
+million, public domain; cut to the frame and simplified: data/ch94_indochina_ne10m.geojson), whose borders are
+those of French Indochina. The dividing line follows the Ben Hai
 river, just south of the seventeenth parallel, from the coast to the border of Laos. The trails are a
 simplified version of the "Ho Chi Minh trail" in English Wikipedia and the US Army Center of Military
 History's maps, roughly: from the North through the passes at Mu Gia and Ban Karai, south through eastern
@@ -12,18 +13,19 @@ Laos past Tchepone and Attapeu, and into north-eastern Cambodia towards the coun
 with branches east into South Vietnam. Positions from English Wikipedia. Hue and Da Nang are left out: the
 chapter does not name them.
 """
+import os
 import numpy as np
 import geopandas as gpd
 from shapely.geometry import box, Polygon, LineString
-from shapely.ops import unary_union
+from shapely.ops import unary_union, linemerge
 import lib
 from lib import Map, INK, PAPER, FILL, SOFT, HALO, smooth
 
-C = gpd.read_file(gpd.datasets.get_path("naturalearth_lowres"))
-G = {r["name"]: r.geometry for _, r in C.iterrows()}
+C = gpd.read_file(os.path.join(lib.DATA, "ch94_indochina_ne10m.geojson"))
+G = {r["NAME"]: r.geometry for _, r in C.iterrows()}
 
 m = Map(100.3, 110.2, 8.2, 23.6)
-viet = G["Vietnam"].buffer(0.25).difference(unary_union([G[n] for n in ["Laos", "Cambodia", "China"]]))
+viet = G["Vietnam"].buffer(0.08).difference(unary_union([G[n] for n in ["Laos", "Cambodia", "China"]]))
 viet = viet.intersection(m.land)
 ben_hai = [(107.14, 17.09), (106.95, 17.00), (106.75, 16.98), (106.55, 16.95), (106.30, 16.95)]
 north = Polygon([(100, 16.95)] + ben_hai[::-1][1:] + [(111, 17.09), (111, 24), (100, 24)])
@@ -36,7 +38,9 @@ m.river("Mekong", lw=2.0)
 names = ["Vietnam", "Laos", "Cambodia", "Thailand", "China", "Myanmar"]
 for i, a in enumerate(names):
     for b in names[i + 1:]:
-        edge = G[a].boundary.intersection(G[b].buffer(0.03)).intersection(m.land.buffer(-0.02))
+        edge = G[a].boundary.intersection(G[b].buffer(0.01)).intersection(m.land.buffer(-0.02))
+        parts = [l for l in getattr(edge, "geoms", [edge]) if l.geom_type == "LineString" and not l.is_empty]
+        edge = linemerge(parts) if parts else edge
         for line in getattr(edge, "geoms", [edge]):
             if line.is_empty or line.geom_type != "LineString":
                 continue
@@ -71,6 +75,6 @@ m.label(108.5, 9.7, "South China\nSea", size="sea", fs=18)
 m.label(102.2, 9.3, "Gulf of\nSiam", size="sea", fs=17)
 m.label(105.55, 9.65, "Mekong\ndelta", size="land", colour=INK, fs=16)
 m.label(107.35, 17.15, "line of 1954", size="small", colour=INK, fs=16, ha="left")
-m.label(105.25, 15.25, "supply\ntrails", size="small", colour=FILL["brown"], fs=17, style="italic")
+m.label(105.6, 16.35, "supply\ntrails", size="small", colour=FILL["brown"], fs=17, style="italic")
 m.scale(200, lon=100.7, lat=14.1)
 m.save("chapters/94-vietnam/images/map_vietnam.png")

@@ -87,8 +87,8 @@ The bookshop grew into something much larger. An order placed with that booksell
 
 The company employs a million and a half people and a million robots. The goods very probably came in a steel box from a factory in China. The parcel is brought to the door by a driver who is, in many cases, not an employee of anyone, and who is routed and timed by an application on his telephone.
 
-![A large grey warehouse with an Amazon sign beyond a car park under a cloudy sky](images/amazon.jpg)
-*An Amazon warehouse, photographed in 2024. Photo: Chris Heaton, CC BY-SA 2.0.*
+![An orange flat-topped warehouse robot with a black circular lifting plate on top and the number 000481 on its side, on display](images/amazon_robot.jpg)
+*An Amazon warehouse robot, photographed in 2023. The company says it uses a million of them. Photo: Geni, CC BY-SA 4.0.*
 
 The customer gets almost anything, cheaply, the next day. The cost fell on the shops, which could not match those prices or that speed. Booksellers went first, then sellers of records, toys, clothes and electrical goods. In many towns the main shopping street, which for a century and a half had been where people met one another, is now a row of empty windows.
 

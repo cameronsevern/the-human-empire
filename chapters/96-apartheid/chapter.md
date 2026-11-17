@@ -58,8 +58,8 @@ The breaking point came at Sharpeville. On 21 March 1960, at the call of a rival
 
 The government declared an emergency, arrested eighteen thousand people, and banned both movements outright. To belong to either was now a crime. With the movements outlawed, there was no longer any lawful way for them to protest at all.
 
-![Black-and-white photograph of a column of men walking along a path, the man at the front raising an open hand and smiling, with others behind him doing the same and police and onlookers in the background](images/sobukwe.jpg)
-*Robert Sobukwe, who led the movement that called the Sharpeville protest, at the head of a march in 1960 or shortly before. Photo: unknown, public domain.*
+![A row of low black granite gravestones shaped like unrolled scrolls, receding along a path in a cemetery under a cloudy sky](images/sharpeville_graves.jpg)
+*The graves of the sixty-nine people killed by police at Sharpeville on 21 March 1960, in the cemetery at Sharpeville. Photo: Andrew Hall, CC BY-SA 4.0.*
 
 ## The spear
 
@@ -88,13 +88,13 @@ The calm did not hold. Black workers began to strike again in 1973. Then the qui
 
 The police fired into them. One of the first to die was a boy of twelve, and a photograph of a weeping teenager carrying his body, with the boy's sister running alongside, was printed around the world. The townships rose. In the following months several hundred young people were killed, and thousands slipped over the border to join the exiled Congress.
 
-![Newspaper photograph of schoolchildren holding hand-painted placards that read To hell with Afrikaans](images/soweto_signs.jpg)
-*Pupils in Soweto carrying placards that read 'To hell with Afrikaans', June 1976, from a newspaper printed the next day. Photo: unknown, public domain.*
+![A memorial in a paved square in Soweto: a low wall of dark stone with an enlarged black-and-white photograph of a boy being carried by a youth, a red granite plaque in front and a pool below carved with the words struggle for freedom and democracy](images/soweto_memorial.jpg)
+*The Hector Pieterson Memorial in Soweto, photographed in 2010. It carries an enlarged copy of the photograph, taken on 16 June 1976, of the dying schoolboy being carried by a youth. Photo: Jorge Láscar, CC BY 2.0.*
 
 The young had a hero of their own. Steve Biko, a former medical student, taught that Black people must first free their own minds from the belief that they were inferior. A people who no longer believed that, he reasoned, could not be ruled in the old way. In 1977 he was arrested and beaten into a coma. The police drove him, naked and chained, more than a thousand kilometres in the back of a truck to a prison hospital, where he died. The minister of justice told a party meeting that the death left him cold.
 
-![Close newspaper photograph of the face of Steve Biko, a young man with a moustache and short beard](images/biko.jpg)
-*Steve Biko, in a newspaper photograph of about 1977, the year he died in police custody. Photo: Cape Argus, public domain.*
+![A black granite gravestone with white lettering above a polished slab on which three glass domes of flowers stand, on a brick path beside grass](images/biko_grave.jpg)
+*The grave of Steve Biko in King William's Town, South Africa. The stone gives his dates, 1946 to 1977, and the words One Azania, one nation. Photo: Socrammm, CC BY 3.0.*
 
 ## Ungovernable
 

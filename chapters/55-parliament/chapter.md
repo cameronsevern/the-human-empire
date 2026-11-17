@@ -10,8 +10,8 @@ He was led through his own palace in London, through the great banqueting hall w
 
 Then he lay down and put his neck on the block. The executioner, who wore a mask and a false beard so that he would not be known afterwards, took off the head with one stroke. A boy of seventeen in the crowd remembered for the rest of his life the sound that came from the thousands of people watching. It was a groan, he said, such as he had never heard before and hoped never to hear again.
 
-![A crowded engraving of a scaffold outside a long palace front, with the king at the block and soldiers ringing it, with three small portraits above](images/execution.jpg)
-*A German print of 1649 showing the execution of Charles I on a scaffold outside the Banqueting House in Whitehall, with soldiers and a crowd below. Print: unknown artist, public domain.*
+![A crowded engraving of a scaffold outside a long palace front marked Banket Haus, with the king at the block and soldiers ringing it, with three small portraits above](images/execution.jpg)
+*A German etching of 1649 showing the execution of Charles I on a scaffold outside the Banqueting House in Whitehall, with soldiers and a crowd below. Etching: unknown artist, National Portrait Gallery, London, public domain.*
 
 Kings had been killed before, in battle, in dungeons and in their beds. This was different. Charles had been charged in open court with a crime, tried by a panel of his subjects, and condemned to death as a tyrant and a traitor to his own people. The men who did it were saying that a king could commit a crime against his subjects and be punished for it like anyone else. That idea ran against what kings then believed about themselves.
 
@@ -56,8 +56,8 @@ Charles signed these measures, and waited. He regarded concessions made under pr
 
 On 4 January 1642 the king acted. He came down to the House of Commons in person, with about four hundred armed men at his back, to arrest five of its leading members for treason. No king had ever come there to seize a member. He walked up the floor, sat down in the Speaker's chair, and looked along the benches for the five. They had been warned, and had left by the river a few minutes earlier.
 
-![The king standing in the Commons chamber while members look on and the Speaker kneels in front of him](images/cope.jpg)
-*Charles I in the House of Commons in 1642, painted in the 1860s by Charles West Cope for the Houses of Parliament, more than two hundred years later: a later imagining. Painting: Charles West Cope, public domain.*
+![A brown-toned painting of the king standing on a step in the Commons chamber with a hand raised, while members crowd the benches and a kneeling Speaker spreads his hands in front of him](images/copley.jpg)
+*Charles I in the House of Commons in 1642, in a study painted in 1785 by John Singleton Copley, more than a hundred and forty years later: a later imagining. Painting: John Singleton Copley, Harvard Art Museums (Fogg Museum), public domain.*
 
 "I see all my birds have flown," the king said. He asked the Speaker where they were. The Speaker went down on his knees and answered that he had neither eyes to see nor tongue to speak in that place, except as the House was pleased to direct him. It was a courteous way of telling the king, to his face, that the Speaker served the House and not him.
 

@@ -15,8 +15,8 @@ The rest took six days, and by the end of them the map had changed. Israeli tank
 
 Of all the conquests, one carried a meaning far beyond strategy. On the third morning Israeli paratroopers fought their way through a gate in the wall of the Old City and came out in front of a stretch of ancient masonry that no Jew had been allowed to approach for nineteen years. It was part of the great wall that had held up the platform of the Temple, which the Romans had destroyed. Hardened soldiers leaned against the stones and wept. Their commander sent a short radio message: the Temple Mount is in our hands.
 
-![Black-and-white close photograph of Israeli paratroopers in netted helmets and camouflage smocks, looking up with tired faces at the great stone wall above them, with small plants growing from its joints](images/wall1967.jpg)
-*Israeli paratroopers in front of the Western Wall in Jerusalem, 7 June 1967. Photo: David Rubinger, public domain.*
+![Black-and-white photograph, taken from below, of a bearded army chaplain in a helmet blowing a ram's horn, with soldiers in netted helmets around him and the great stone wall rising behind](images/wall_goren.jpg)
+*Rabbi Shlomo Goren, chief chaplain of the Israeli army, blowing a ram's horn among soldiers in front of the Western Wall in Jerusalem, 7 June 1967. Photo: David Rubinger, Israel Government Press Office, CC BY-SA 4.0.*
 
 When it ended, Israel held four times as much land as it had a week earlier. It also held about a million Palestinian Arabs, who had no vote in the state that now ruled them. The victory had solved one problem and created another, and the second would last far longer than the war.
 

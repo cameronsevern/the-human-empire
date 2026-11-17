@@ -25,7 +25,7 @@ It came to a head over the appointing of bishops. A bishop in those centuries wa
 
 In January 1077, the king crossed the Alps in midwinter to a castle in northern Italy where the pope was staying. For three days he stood at the gate, barefoot in the snow, in the rough woollen shirt of a penitent, until the pope let him in and lifted the sentence. A few years later, when the king's position had recovered, he marched on Rome and drove the same pope into exile. Each side had learned that it was able to wound the other, and that it lacked the means to finish the matter.
 
-![A painted manuscript page: a crowned king kneels before a seated countess under an arch, while a monk with a staff sits at the left](images/canossa.jpg)
+![A painted manuscript page: a crowned king kneels before a seated countess under an arch, while a monk with a staff stands at the left, with a line of Latin below](images/canossa.jpg)
 *King Henry kneels and begs for help from Abbot Hugh of Cluny, at left, and Countess Matilda of Tuscany, at Canossa in January 1077. Painted about 1115, a generation after the event, for a life of Matilda. Public domain.*
 
 The pope who launched the crusade, Urban, came to office in the middle of this struggle, with a rival pope appointed by the German king holding much of Rome. He badly needed to show that the bishop of Rome was the true leader of the Christian world.

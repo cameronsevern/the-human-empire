@@ -115,8 +115,8 @@ That leaves decisions affecting billions in very few hands. Who may speak to the
 
 One large country chose a different road from the beginning. Instead of leaving the decisions to companies, it kept them for the state. China sealed its internet off from the world's. The largest foreign search engine and social networks are blocked, and their Chinese equivalents, which are as large and as inventive, are required by law to police what their users say.
 
-![The rear entrance of a concrete building with a green sign and the characters for internet cafe painted on a wall](images/cafe.jpg)
-*The back entrance to an internet cafe on the second floor of a building in Qufu, China, in 2011. Internet cafes were long the way many Chinese went online. Photo: Vmenkov, CC BY-SA 3.0.*
+![A long blue room lit by round glowing lamps, with rows of computer screens and armchairs along each side](images/cafe_chengdu.jpg)
+*An internet cafe in Chengdu, China, in 2020, with rows of computers. Internet cafes were long the way many Chinese went online. Photo: ShiyuZW, CC0.*
 
 They do it thoroughly, and quickly. Posts containing banned terms disappear within minutes, and the list changes daily. It has included the date of the killings in Beijing in 1989, the candle symbol, and for a time the name of a honey-loving cartoon bear, to whom the country's leader had been compared. State media have put the number of people employed to watch online opinion at two million.
 

@@ -4,31 +4,33 @@
 1988), Mecca (the Grand Mosque seized in 1979), Kabul, the Soviet invasion of 1979 and the withdrawal over the
 bridge at Termez in 1989, the flight of Afghan refugees to Pakistan and Iran, and Peshawar.
 
-Drawn for this chapter, which had no map. The states are the modern ones (Natural Earth admin-0, 110 m, as
-shipped with geopandas), whose borders here are those of the 1980s; the Soviet Union is drawn as the modern
+Drawn for this chapter, which had no map. The states are the modern ones (Natural Earth admin-0, 1:10
+million, public domain; cut to the frame and simplified: data/ch99_iran_ne10m.geojson), whose borders here are
+those of the 1980s; the Soviet Union is drawn as the modern
 states that were then part of it. The land taken by Iraq in 1980 is drawn roughly, after the maps in English
 Wikipedia's "Iran-Iraq War" and "Iraqi invasion of Iran": the strip of Khuzestan west of the Karun and the
 Karkheh, short of Dezful, Ahvaz and Abadan, with Khorramshahr, and the border towns of the central front
 (Qasr-e Shirin, Mehran). The Soviet invasion is drawn as one arrow, along the main road from Termez over the
 Salang pass to Kabul; the refugee arrows are schematic. Positions from English Wikipedia.
 """
+import os
 import numpy as np
 import geopandas as gpd
 from shapely.geometry import Polygon, box
-from shapely.ops import unary_union
+from shapely.ops import unary_union, linemerge
 from matplotlib.lines import Line2D
 from matplotlib.patches import Patch
 import lib
 from lib import Map, INK, PAPER, FILL, SOFT, HALO, smooth
 
-C = gpd.read_file(gpd.datasets.get_path("naturalearth_lowres"))
-G = {r["name"]: r.geometry for _, r in C.iterrows()}
+C = gpd.read_file(os.path.join(lib.DATA, "ch99_iran_ne10m.geojson"))
+G = {r["NAME"]: r.geometry for _, r in C.iterrows()}
 states = ["Iran", "Iraq", "Afghanistan", "Pakistan", "Saudi Arabia", "Kuwait", "Turkey", "Syria", "Jordan",
           "Qatar", "United Arab Emirates", "Oman", "Turkmenistan", "Uzbekistan", "Tajikistan", "Azerbaijan",
           "Armenia", "Georgia", "Egypt", "Israel", "Lebanon", "India", "Kyrgyzstan", "Kazakhstan", "China",
           "Yemen", "Eritrea", "Sudan"]
 soviet = unary_union([G[n] for n in ["Turkmenistan", "Uzbekistan", "Tajikistan", "Azerbaijan", "Armenia", "Georgia",
-                                     "Kyrgyzstan", "Kazakhstan", "Russia"]])
+                                     "Kyrgyzstan", "Kazakhstan", "Baikonur", "Russia"]]).buffer(0.005).buffer(-0.005)
 
 m = Map(37.5, 74.5, 20.3, 41.6)
 LAND = m.land
@@ -47,7 +49,9 @@ U["Soviet"] = soviet
 names = list(U)
 for i, a in enumerate(names):
     for b in names[i + 1:]:
-        e = U[a].boundary.intersection(U[b].buffer(0.03)).intersection(LAND.buffer(-0.02))
+        e = U[a].boundary.intersection(U[b].buffer(0.01)).intersection(LAND.buffer(-0.02))
+        parts = [l for l in getattr(e, "geoms", [e]) if l.geom_type == "LineString" and not l.is_empty]
+        e = linemerge(parts) if parts else e
         for line in getattr(e, "geoms", [e]):
             if line.is_empty or line.geom_type != "LineString":
                 continue

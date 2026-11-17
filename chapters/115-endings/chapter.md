@@ -36,8 +36,8 @@ The third is the ground underfoot: the land, the weather and the health on which
 
 Disease belongs here too. The peoples of the Americas were destroyed less by Spanish steel than by diseases to which they had no resistance, which travelled faster than the conquerors. Within a century nine in ten of them were gone.
 
-![Low rows of rough stone wall foundations in dry grass, with bushes behind](images/pylos.jpg)
-*The ruins of the Bronze Age palace at Pylos in southern Greece, known as the Palace of Nestor, which was destroyed by fire about three thousand years ago. Photo: Peulle, CC BY-SA 4.0.*
+![A brown clay tablet cracked across the middle and covered with lines of small incised signs, shown above a drawing of its text](images/pylos_tablet.jpg)
+*A clay tablet from the palace at Pylos in southern Greece, written in Linear B, the script of the palace records. It lists gifts to gods such as Zeus and Hera. Thirteenth century BC. National Archaeological Museum, Athens. Photo: Zde, CC BY-SA 4.0.*
 
 The fourth is the blow from outside. Sometimes the blow was astonishingly small for the size of its target. Persia was the largest empire the world had seen, and yet a king of twenty-two from a small northern country took it apart in four years. The Mexica ruled millions and were overthrown by a few hundred Spaniards, together with tens of thousands of their neighbours and resentful subjects. The Spaniards struck the blow, but much of the force behind it was local.
 

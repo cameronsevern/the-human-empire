@@ -124,8 +124,8 @@ The calm did not hold for long. When the violence began again, at the start of S
 
 In January 1948 Gandhi fasted again, in Delhi. He demanded that the city's Muslims be left in safety, and that the Indian government hand over Pakistan's share of the treasury, which it had been holding back. The government gave way.
 
-![Gandhi, wrapped in white, carried on a stretcher through a dense crowd, some with hands pressed together](images/gandhi_carried.jpg)
-*Gandhi carried to the garden after ending his five-day fast in Delhi, 21 January 1948, nine days before he was killed. Photographer unknown, public domain.*
+![A wet paved path between low clipped hedges, with small stone footprints set into it leading away from the camera towards a white house](images/gandhi_footprints.jpg)
+*Stone footprints set into the path at Gandhi Smriti, the former Birla House in Delhi, where Gandhi ended his fast in January 1948. They mark his last steps, towards the place where he was killed on 30 January. Photo: Hideyuki Kamon, CC BY-SA 2.0.*
 
 To some Hindus this was treachery. On the evening of 30 January, as Gandhi walked across a garden to his daily prayer meeting, a man stepped out of the crowd, bowed to him, and shot him three times in the chest. The killer was a Hindu nationalist, the editor of a small newspaper, who believed that Gandhi had weakened the Hindus and appeased the Muslims. Nehru went on the radio that night and said that the light had gone out of their lives.
 

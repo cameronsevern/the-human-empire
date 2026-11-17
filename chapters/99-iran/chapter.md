@@ -52,8 +52,8 @@ Exile gave him time to think. He settled in a Shia holy city in Iraq, and there,
 
 The clergy had traditionally kept their distance from government, which they regarded as a worldly and slightly unclean business. Khomeini turned that tradition upside down. He argued that Islam contained all the laws that a society needed. If that was so, it followed that those who knew the law best should rule. While the hidden leader was absent, therefore, the state should be under the guardianship of the most learned jurist. Put plainly, the country should be run by a man of Khomeini's own kind.
 
-![Black-and-white photograph of a bearded elderly cleric in a black turban sitting in an armchair beside a standing man in a dark jacket and tie](images/khomeini_paris.jpg)
-*Ayatollah Khomeini (right) with his aide Sadegh Ghotbzadeh in exile at Neauphle-le-Château, near Paris, 1978. Photo: iichs.ir, public domain.*
+![A tall pointed archway of coloured tiles and honeycomb plasterwork at the end of a paved courtyard, with a man in a black robe and white turban walking across it](images/fayzieh.jpg)
+*A courtyard of the Fayziyeh seminary in Qom, the seminary city where Khomeini taught. Photo: Mostafameraji, CC BY-SA 4.0.*
 
 ## Forty days
 
@@ -71,8 +71,8 @@ That autumn the shah persuaded Iraq to expel him, hoping to cut him off. It was 
 
 By then the protest had spread from the mosques to the economy. In October the oil workers went on strike, and since oil paid for the state, the government's income stopped. In December, on the holiest days of the Shia year, more than a million people marched through Tehran.
 
-![Black-and-white photograph of a dense crowd in a Tehran street, above which a large portrait of Khomeini in glasses and a black turban is held up](images/ashura_1978.jpg)
-*A portrait of Khomeini held above the crowd in a street in Tehran during the Ashura marches of 11 December 1978. Photo: iichs.ir, public domain.*
+![A tall white concrete tower with a large pointed arch between four flaring legs, under a blue sky](images/azadi.jpg)
+*The Azadi Tower in Tehran, built in 1971 as the Shahyad Tower and renamed Azadi, Freedom, after the revolution. Photo: Bernard Gagnon, CC BY-SA 4.0.*
 
 ## Everyone's revolution
 

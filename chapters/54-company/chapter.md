@@ -156,7 +156,7 @@ In May, at a garrison town north of Delhi, eighty-five soldiers who refused the 
 
 The rebellion spread across northern India and lasted more than a year. It was fought without mercy. Both sides murdered prisoners, women and children. The British retook Delhi street by street, and their revenge was savage: whole villages were hanged, and captured sepoys were tied across the mouths of cannon. The old emperor was tried, exiled to Burma, and buried there in an unmarked grave.
 
-![An old bearded man in white lying on a bed, holding the pipe of a hookah](images/bahadur.jpg)
-*Bahadur Shah Zafar, the last Mughal emperor, photographed in 1858 after the rebellion, by Robert Tytler and Charles Shepherd. Photo: Robert Tytler and Charles Shepherd, public domain.*
+![An old bearded man in white lying on a bed against cushions, holding the pipe of a hookah, in a sepia photograph](images/bahadur.jpg)
+*Bahadur Shah Zafar, the last Mughal emperor, photographed in 1858 after the rebellion. Print attributed to Felice Beato by the J. Paul Getty Museum. Photo: Felice Beato, public domain.*
 
 The British government concluded that a country could not be left to a company. In 1858 it took India for the Crown, and the East India Company, after two and a half centuries, was left with nothing to do. Its headquarters in Leadenhall Street was pulled down three years later. The site is now occupied by the offices of Lloyd's, the insurance market that began in a coffee house.
