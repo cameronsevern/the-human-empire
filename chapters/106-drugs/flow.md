@@ -1,0 +1,4 @@
+Flow pass: body prose 3,304 words before, 4,058 after.
+Changes: connecting sentences before new ideas (the brain circuit, morphine, heroin, the league's luck, Anslinger's motive, the price test); split dense paragraphs (women and drink, the league, illegal business and violence, Portugal); explained terms in place (temperance union, convention as treaty, fixed minimum terms); a closing line tying the opioid section back to the thesis.
+Check2 flags applied: mandatory-minimum exception, offshore-law line removed, "one of two sold in shops", heroin origin, Mexico "next bulge" removed, salesman-bonus wording, "white and rural" corrected to "white, and many were rural", plus four clarity fixes.
+Left unapplied: Capone caption date (captions are fixed); Portugal panel membership (original wording, correction not small); "every grocer / every town / every official" absolutes (original, checked earlier); no name added for the league (no new names).
