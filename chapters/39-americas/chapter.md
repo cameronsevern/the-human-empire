@@ -139,7 +139,9 @@ Cahokia lasted about three centuries. In its later years it was surrounded by a 
 
 ## A toy on wheels
 
-The Americas differed from the Old World most of all in their animals. Their people had never lived among herds of cattle, pigs and sheep. Many of the worst infections of the Old World had first passed to humans from such herds, and had then circulated in its crowded towns for thousands of years. None of them had reached the Americas, and no one there had ever been exposed to them. They had never seen an animal carry a man into battle.
+The Americas are the nearest thing that history offers to a second run of an experiment. People there started from the same beginnings as people everywhere else, with stone tools, fire and a few wild plants, and for fifteen thousand years they had almost nothing to do with the rest of humanity. They went on to farm and to build cities, and they came to obey kings who claimed the favour of the gods. They taxed one another in maize and labour, kept accounts, raised monuments, and worked out a calendar and a sign for nothing. They also cut down their forests and fought wars over the consequences. All of it had been done in Iraq, Egypt and China, by people they had never heard of.
+
+Most of the differences between the two worlds came down to animals. The people of the Americas had never lived among herds of cattle, pigs and sheep. Many of the worst infections of the Old World had first passed to humans from such herds, and had then circulated in its crowded towns for thousands of years. None of them had reached the Americas, and no one there had ever been exposed to them. They had never seen an animal carry a man into battle.
 
 In museums in Mexico there are small figures of baked clay, between twelve and fifteen hundred years old, that were found in graves on the coast of the Gulf. They are dogs and jaguars, the size of a child's hand. Each stands on four clay discs, fixed to wooden axles that have long since rotted away, so that it could be pulled along the ground on a string.
 

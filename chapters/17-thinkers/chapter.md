@@ -2,7 +2,7 @@
 
 *China, the north of India and Greece, from about 2,600 years ago to about 2,300 years ago*
 
-In three parts of the world at once, the land was divided among many small states at war with each other, and a world like that has work for people who argue.
+In three parts of the world at once, the land was divided among many small states at war with each other, and a world like that has work for people who argue. Rulers needed advice, a thinker who was turned away by one ruler could walk to the next, and new ways of keeping words let the arguments outlive the people who made them.
 
 In 1993, robbers twice dug into an old tomb beside the village of Guodian, in the middle of China. They broke through to the coffin, took what they could sell and left. Archaeologists from the local museum then went in to rescue what remained. In the mud at the bottom of the tomb, they found about eight hundred thin strips of bamboo.
 

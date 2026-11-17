@@ -8,3 +8,4 @@
 - Tic "nobody": "and nobody at Quiriguá knew of them" became "and no one at Quiriguá knew of them".
 - Tic "nobody": "and nobody has yet read those" became "and those have not yet been read".
 - Tic "nobody": "and nobody there had ever been exposed to them" became "and no one there had ever been exposed to them".
+- Editor: restored the 'second run of an experiment' paragraph, which states the chapter's argument.
