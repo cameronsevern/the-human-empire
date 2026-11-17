@@ -1,0 +1,4 @@
+Prose words (body, excluding captions): 3,417 before, 4,094 after.
+Changes: dense paragraphs split (Parks, the segregation system, the vote, the pressures on the system, Brown, Till, the boycott, the sit-ins, Birmingham, the two laws, Selma, the North); bridges before new ideas; reasoning walked through (why the vote was removed without naming race, why Albany failed and Birmingham was chosen, why children marched, why preclearance mattered); transitions varied.
+Check2 flags applied: Montgomery bombing and indictment no longer put in a stated order; the North "no law to break" clause cut; "one weapon left" and "lunch counters were open" narrowed; "second word" corrected to the word "deliberate"; Johnson "took up", not "ended with", the anthem; signposts, repeated setup and low-information bridges cut; cloture named as a vote to cut the talking short.
+Left unapplied: none.
