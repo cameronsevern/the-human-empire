@@ -19,9 +19,9 @@ People have looked for ways to change how they feel in every society that has le
 
 So many peoples, in so many places, reaching for the same kind of thing suggests that the wanting is built into us.
 
-The reason lies in a small circuit deep in the brain that rewards us for doing what keeps us alive. When a hungry animal eats, or a thirsty one drinks, that circuit releases a chemical signal which says, in effect: that was good, do it again. The signal is how the brain teaches itself what is worth repeating.
+The wanting comes from a small circuit deep in the brain that rewards us for doing what keeps us alive. When a hungry animal eats, or a thirsty one drinks, that circuit releases a chemical signal which says, in effect: that was good, do it again. The signal is how the brain teaches itself what is worth repeating.
 
-Every drug that people find hard to give up works on this signal, by one route or another. Each of them, in effect, delivers the message without the meal. Opium imitates the brain's own painkillers. Cocaine stops the signal from being switched off. Alcohol and nicotine nudge it more gently.
+Every drug that people find hard to give up works on this signal, by one route or another. Each of them delivers the message without the meal. Opium imitates the brain's own painkillers. Cocaine stops the signal from being switched off. Alcohol and nicotine nudge it more gently.
 
 What happens when the message can be had without limit has been tested on animals. In experiments that have been repeated many times, a rat given a lever that delivers cocaine without limit will go on pressing it and neglect its food. The circuit that was meant to keep it alive is now working against it.
 
@@ -51,7 +51,7 @@ By 1900 there were perhaps a quarter of a million people in the United States de
 
 The drug that America turned against first was the one that it used most. That drug was alcohol.
 
-Americans of the early republic drank on a scale that is hard to credit. In 1830 the average adult got through about three times as much alcohol as today, most of it as whiskey, beginning at breakfast. Drink, in other words, was part of the working day and not only of the evening.
+Americans of the early republic drank on a scale that is hard to credit. In 1830 the average adult got through about three times as much alcohol as today, most of it as whiskey, beginning at breakfast. Drink was part of the working day and not only of the evening.
 
 The damage fell hardest on women. They could not vote, could not easily leave a marriage, and had no claim on a husband's wages if he chose to drink them on the way home.
 
@@ -109,15 +109,13 @@ Meanwhile the United States carried its campaign abroad. It had first taken up t
 
 In the 1960s a generation of young Americans took up cannabis and other drugs as a badge of rebellion, and soldiers came back from Vietnam having used cheap heroin there. In June 1971 President Richard Nixon told a press conference that drug abuse was public enemy number one, and called for a new, all-out offensive. The phrase that stuck was the war on drugs, and the policy came to be run like one.
 
-It was fought hardest in the 1980s. That was when a cheap, smokable form of cocaine called crack appeared in the poor Black districts of the cities, along with gangs who shot one another for the street corners. Congress passed a law in 1986 that set fixed minimum prison terms. In most cases a judge could no longer give less than the minimum. Selling five grams of crack, the weight of two sugar lumps, or holding it for sale, brought five years. To get the same sentence for cocaine powder, which was the same drug and was what richer and whiter people used, a person needed five hundred grams. The law, in other words, came down far harder on the poor man's form of the drug than on the rich man's.
+It was fought hardest in the 1980s. That was when a cheap, smokable form of cocaine called crack appeared in the poor Black districts of the cities, along with gangs who shot one another for the street corners. Congress passed a law in 1986 that set fixed minimum prison terms. In most cases a judge could no longer give less than the minimum. Selling five grams of crack, the weight of two sugar lumps, or holding it for sale, brought five years. To get the same sentence for cocaine powder, which was the same drug and was what richer and whiter people used, a person needed five hundred grams. The law came down far harder on the poor man's form of the drug than on the rich man's.
 
 The number of people in American prisons and jails rose from half a million in 1980 to more than two million. For thirty years no large country locked up a larger share of its people.
 
 The burden did not fall evenly. Black and white Americans use drugs at about the same rate. Black Americans, however, were sent to prison for it many times as often. A million and a half people were arrested each year for a drug offence, most for having some on them.
 
-Forty years of this cost about a trillion dollars, and it is fair to ask what the money bought.
-
-One test of whether a campaign against a product is working is its price, which should rise as it gets scarcer. If the police seize enough of a drug, less of it reaches the street. With less to go round, sellers can charge more for what is left. By that test, the war failed. Between 1990 and 2007 the street prices of heroin and cocaine in the United States, allowing for inflation and purity, fell by more than four fifths.
+Forty years of this cost about a trillion dollars. Had the money worked, the drugs would have grown scarce and dear. When the police seize enough of a drug, less of it reaches the street, and with less to go round, sellers can charge more for what is left. Instead, between 1990 and 2007 the street prices of heroin and cocaine in the United States, allowing for inflation and purity, fell by more than four fifths. By the plainest test, the war had failed.
 
 A study of the returning soldiers pointed at something else. Nearly one in five had been addicted to heroin in Vietnam. Back at home, away from the war and the boredom and the cheap supply, more than nine in ten of them were free of it within a year. For most of them, the habit had belonged to the place and the life they were living, more than to the drug itself.
 

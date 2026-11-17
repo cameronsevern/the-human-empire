@@ -153,7 +153,7 @@ That way of seeing the planet spread quickly. Within sixteen months the first Ea
 
 Not everybody was carried away. The same sums that impressed engineers looked very different to people who were struggling at home. Through most of the 1960s, when Americans were asked whether the Moon programme was worth what it cost, more said no than yes.
 
-On the day before the launch in July 1969, a Black minister who had taken over the leadership of the movement for the rights of the poor arrived at the gates of the launch site with several hundred followers and mules pulling farm wagons. They had come, he said, to protest at a nation that could spend billions to put men on the Moon while a fifth of its own people lacked decent food, clothing and shelter.
+On the day before the launch in July 1969, a Black minister arrived at the gates of the launch site with several hundred followers and mules pulling farm wagons. He had led the movement for the rights of the poor since Martin Luther King, the leader of the campaign for Black civil rights, was shot dead the year before. They had come, he said, to protest at a nation that could spend billions to put men on the Moon while a fifth of its own people lacked decent food, clothing and shelter.
 
 The head of the space agency came out to meet them, and his answer was a careful one. He said that if not pushing the button tomorrow would solve the problems of poverty, he would not push it, and he asked the minister to hitch his wagons to the rocket. The minister said that he would pray for the astronauts, and was given seats to watch.
 

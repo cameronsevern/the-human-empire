@@ -27,14 +27,14 @@ None of it was open to discussion. Parliament was a decoration: it met, but it d
 
 Behind the single party stood his secret police, trained by the Americans and the Israelis. It had informers in offices and classrooms across the country, and it tortured many of those it arrested. As a result, a complaint spoken aloud in the wrong room could end in a cell.
 
-The shah's taste for display made the distance between the throne and the country easy to see. In 1971 he celebrated what he called the two thousand five hundredth anniversary of the Persian monarchy with a party for the world's kings and presidents in the ruins of the ancient capital, in a city of silk tents, with food flown in from Paris. Meanwhile, most villages in the country had no running water.
+The shah's taste for display made the distance between the throne and the country easy to see. In 1971 he celebrated what he called the two thousand five hundredth anniversary of the Persian monarchy with a party for the world's kings and presidents in the ruins of the ancient capital, in a city of silk tents, with food flown in from Paris. At the time, most villages in the country had no running water.
 
 ![Six people standing at a long table in front of a grey-green curtain, among them the shah and President Carter, who touch glasses in the middle](images/carter_shah.jpg)
 *President Jimmy Carter and the shah toasting at a state dinner in Tehran, 31 December 1977, a year before the shah fell. Photo: White House staff, US National Archives, public domain.*
 
-The money did as much harm as good. Prices soared. Meanwhile, the land reform turned out to be less generous than it looked. Peasants who had been given plots too small to live on drifted into shanty towns around the cities. As for the old merchant families of the bazaar, the traditional market quarter at the heart of each city, were squeezed by new supermarkets and by officials who took bribes.
+The money did as much harm as good. Prices soared. The land reform, too, turned out to be less generous than it looked. Peasants who had been given plots too small to live on drifted into shanty towns around the cities. As for the old merchant families of the bazaar, the traditional market quarter at the heart of each city, were squeezed by new supermarkets and by officials who took bribes.
 
-Each of these groups now had a grievance, and the shah's single party was no place to air it. From the outside, however, the country looked calm. On the last night of 1977 the American president, visiting Tehran, raised his glass and called Iran an island of stability in one of the more troubled areas of the world.
+Each of these groups now had a grievance, and the shah's single party was no place to air it. Seen from outside, the country looked calm. On the last night of 1977 the American president, visiting Tehran, raised his glass and called Iran an island of stability in one of the more troubled areas of the world.
 
 ## The cleric
 
@@ -80,21 +80,21 @@ It was not a religious uprising alone, and that was its strength. The marchers i
 
 A crowd so mixed had no shared programme. Each group pictured a different Iran afterwards. They agreed on one thing, and Khomeini, who refused every offer of compromise, said it more plainly than anyone: the shah must go. Because he would not bargain, he became the voice of all of them.
 
-Facing them, the shah had lost his nerve. He was dying of cancer, which he had kept secret even from his American allies, and he could not bring himself to order the massacre that might have saved him. Meanwhile, the conscripts of his army were deserting. On 16 January 1979 he flew out, and never returned.
+Facing them, the shah had lost his nerve. He was dying of cancer, which he had kept secret even from his American allies, and he could not bring himself to order the massacre that might have saved him. Below him, the conscripts of his army were deserting. On 16 January 1979 he flew out, and never returned.
 
 ## The guardian
 
 Most of the educated Iranians who had marched expected the old man to retire to Qom and leave government to the politicians. At first he seemed to do just that. He appointed a mild, elderly engineer as prime minister. Ten days after his return the army declared itself neutral, and the shah's last government melted away. For a few months it looked as if they were right.
 
-The real power, however, was being assembled elsewhere. Committees based in the mosques took over the neighbourhoods. Alongside them, a new armed force, the Revolutionary Guards, was recruited from the young men of the poor districts, answerable to the clerics and not to the army. The clergy, in other words, now had soldiers of their own. Meanwhile revolutionary courts under a hanging judge, a man who handed out death sentences freely, tried the shah's generals and ministers in minutes and had them shot on a school roof.
+The real power, however, was being assembled elsewhere. Committees based in the mosques took over the neighbourhoods. Alongside them, a new armed force, the Revolutionary Guards, was recruited from the young men of the poor districts, answerable to the clerics and not to the army. The clergy now had soldiers of their own. Meanwhile revolutionary courts under a hanging judge, a man who handed out death sentences freely, tried the shah's generals and ministers in minutes and had them shot on a school roof.
 
 In March a referendum asked a single question, whether Iran should be an Islamic republic, and ninety-eight per cent of the voters said yes. What such a republic would actually look like was settled afterwards.
 
 The constitution, drafted that autumn and approved in December, was Khomeini's lecture turned into law. Part of it was democratic. Iran would have an elected president and parliament. Above them, however, would stand a supreme leader, a jurist, with command of the armed forces and the last word on everything. This was the guardian of the lectures in Iraq, now given an office. In addition, a council of clerics and jurists could strike down any law that it judged contrary to Islam, and it came in time to decide who was permitted to stand for election.
 
-The liberals might still have resisted. Instead, an event in November destroyed them. The shah had been admitted to a hospital in New York. Iranians remembered 1953, when a coup arranged from Washington had put him back on his throne, and suspected a plot to bring him back again. On 4 November several hundred students climbed the wall of the American embassy in Tehran and took its staff prisoner. Khomeini had not ordered it. He saw its use at once and gave it his blessing.
+The liberals might still have resisted. Instead, an event in November destroyed them. The shah had been admitted to a hospital in New York. Iranians remembered 1953, when foreigners had put him back on his throne, and suspected a plot to bring him back again. On 4 November several hundred students climbed the wall of the American embassy in Tehran and took its staff prisoner. Khomeini had not ordered it. He saw its use at once and gave it his blessing.
 
-The seizure turned defiance of America into the test of loyalty to the revolution. The prime minister resigned in protest, and from then on anyone who argued for moderation could be called a friend of America. Meanwhile the crisis dragged on. Fifty-two Americans were held for four hundred and forty-four days, paraded blindfold before the cameras. An attempt to rescue them by helicopter ended in a collision in the desert. They were released within minutes of a new American president taking office.
+The seizure turned defiance of America into the test of loyalty to the revolution. The prime minister resigned in protest, and from then on anyone who argued for moderation could be called a friend of America. The crisis dragged on. Fifty-two Americans were held for four hundred and forty-four days, paraded blindfold before the cameras. An attempt to rescue them by helicopter ended in a collision in the desert. They were released within minutes of a new American president taking office.
 
 ![Black-and-white photograph of a man holding up a handwritten sign reading Deport all Iranians in a crowd, between two police officers in helmets, with an American flag behind](images/hostage_protest.png)
 *In Washington on 9 November 1979, five days after the embassy in Tehran was seized, a man at a demonstration holds up a sign calling for all Iranians to be sent home. Photo: Marion S. Trikosko, Library of Congress, public domain.*
@@ -107,12 +107,12 @@ What bound the country to its new rulers was an invasion.
 
 In September 1980 the ruler of Iraq, Saddam Hussein, sent his army across the border. He expected an easy victory over a country in chaos, and he feared the effect of Khomeini's example on his own Shia majority, since a Shia revolution next door might inspire one at home.
 
-The easy victory never came. Iranians of every opinion, including many who disliked the clerics, rallied to defend their soil. Within two years they had driven the invader out. At that point the war might have ended. Khomeini, however, refused to stop, and sent his armies into Iraq to overthrow its ruler.
+The easy victory never came. Iranians of every opinion, including many who disliked the clerics, rallied to defend their soil. Within two years they had driven the invader out. At that point the war might have ended. Khomeini would not stop. He sent his armies into Iraq to overthrow its ruler.
 
 ![A three-storey building in Abadan with shattered windows, pitted walls, a gutted balcony and a rusting metal grille over the ground floor](images/abadan_ruin.jpg)
 *A building in Abadan, pitted by shell fragments and bullets from the war with Iraq, photographed in 2007. Photo: Sasanjan, CC BY-SA 3.0.*
 
-The war lasted eight years, longer than either of the world wars, and it resembled the first of them. The armies dug trenches across the marshes at the head of the Gulf. Iran, short of tanks and aircraft, made up the difference with men, and sent waves of young volunteers across minefields. Iraq used poison gas, year after year, against Iranian soldiers and against a Kurdish town of its own, where five thousand people died in a day.
+The war lasted eight years, longer than either of the world wars. The armies dug trenches across the marshes at the head of the Gulf. Iran, short of tanks and aircraft, made up the difference with men, and sent waves of young volunteers across minefields. Iraq used poison gas, year after year, against Iranian soldiers and against a town of its own Kurds, the people whom the peace treaties after the First World War had left without a state. Five thousand people there died in a day.
 
 Iraq had the richer friends. The Arab oil states paid for Iraq's weapons, the Soviet Union and France sold most of them, and the Western powers, which feared Iran more, looked away from the gas. The Americans had warships in the Gulf as well, with terrible results. In July 1988 one of them shot down an Iranian airliner by mistake, killing two hundred and ninety people.
 
@@ -140,13 +140,13 @@ From then on the two governments, one Shia and revolutionary, one Sunni and roya
 
 ## The bleeding wound
 
-While Iran was turning against one superpower, its neighbour was about to be invaded by the other.
+While Iran was turning against one superpower, its eastern neighbour, Afghanistan, was drawing in the other.
 
-Afghanistan, Iran's eastern neighbour, was a poor, mountainous country of villages and tribes, and in 1978 a small communist party seized power there in a coup. It set out to remake the countryside by decree. It redistributed land, cancelled debts, and ordered that girls be sent to school, and it shot the village preachers and landlords who objected. Within a year most of the country was in revolt.
+Afghanistan was a poor, mountainous country of villages and tribes, and in 1978 a small communist party seized power there in a coup. It set out to remake the countryside by decree. It redistributed land, cancelled debts, and ordered that girls be sent to school, and it shot the village preachers and landlords who objected. Within a year most of the country was in revolt.
 
 The Soviet leaders in Moscow watched with alarm. They feared that the fall of a communist government on their border would encourage their own fifty million Muslim subjects. At Christmas 1979 Soviet commandos stormed the palace in Kabul, killed the Afghan president, whom Moscow no longer trusted, and installed another. A hundred thousand Soviet soldiers followed.
 
-They found themselves fighting a war that their army had not been built for. They held the towns and the main roads. The countryside, however, belonged to bands of fighters who called themselves warriors of the faith and who ambushed convoys in the mountain passes. The fighters lived among the villagers, so the Soviets answered by bombing the villages that sheltered them. Ordinary people paid most of the price. About a million Afghans were killed, and five million, a third of the population, fled to camps in Pakistan and Iran.
+They found themselves fighting a war that their army had not been built for. They held the towns and the main roads. The countryside belonged to bands of fighters who called themselves warriors of the faith and who ambushed convoys in the mountain passes. The fighters lived among the villagers, so the Soviets answered by bombing the villages that sheltered them. Ordinary people paid most of the price. About a million Afghans were killed, and five million, a third of the population, fled to camps in Pakistan and Iran.
 
 ![A long line of trucks very small on a winding pale road across steep brown mountainsides](images/soviet_convoy.jpg)
 *A Soviet supply convoy on a mountain road in Afghanistan, 1984 or 1985. Photo: Sergey Novikov, CC BY 3.0.*

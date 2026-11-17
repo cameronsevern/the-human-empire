@@ -19,7 +19,7 @@ Mao had come a long way to that balcony, most of it on foot.
 
 He was born in 1893 in a village in the southern province of Hunan, the son of a peasant who had worked his way up to owning a few acres and dealing in grain. He quarrelled with his father, refused the wife who was chosen for him, and left to get an education. In 1918 he was in Beijing, working as an assistant in the university library, where he carried newspapers to the reading tables and was ignored by the professors. He read Marx there.
 
-The movement he joined was tiny at first. In 1921 he was one of thirteen delegates who met in a house in Shanghai to found the Chinese Communist Party. It had about fifty members in the whole country. In a nation that made up a quarter of mankind, that was hardly a party at all.
+The movement he joined was tiny at first. In 1921 he was one of the founders of the Chinese Communist Party, which then had about fifty members in a nation that made up a quarter of mankind.
 
 The party's Russian advisers held that a revolution must be made by factory workers. China, however, had few of those, and so the Communists were too weak to act alone. They therefore joined forces with the larger Nationalist party, which was trying to reunite the country. In 1927 the Nationalist leader, General Chiang Kai-shek, turned on them and had them massacred in the cities. The cities, where the party had placed its hopes, became its graveyard.
 
@@ -106,7 +106,7 @@ When Japan surrendered in August 1945, the two sides raced to take over the terr
 
 On paper the outcome was not in doubt. Chiang had more than four million soldiers, an air force, and two billion dollars' worth of American aid. The Communists had a little over a million men and no air force to speak of. Paper, however, was not the battlefield.
 
-The Nationalist generals used their troops to hold the cities and the railways, as the Japanese had, and were cut off in them in the same way. Their soldiers were conscripts who had been beaten and cheated of their pay. Such men had little reason to die for their officers, and when they were surrounded they changed sides, whole divisions at a time, bringing their American trucks and guns with them. Mao remarked that Chiang was his transport officer. The American aid, in other words, was arming the other side.
+The Nationalist generals used their troops to hold the cities and the railways, as the Japanese had, and were cut off in them in the same way. Their soldiers were conscripts who had been beaten and cheated of their pay. Such men had little reason to die for their officers, and when they were surrounded they changed sides, whole divisions at a time, bringing their American trucks and guns with them. Mao remarked that Chiang was his transport officer. The American aid was arming the other side.
 
 Behind the lines the money died. The government was now printing banknotes to cover almost its whole budget. In Shanghai in the autumn of 1948, prices rose more than tenfold in three months. Workers were paid daily and ran to spend their wages before noon. People carried banknotes to market in sacks and wheelbarrows, and a wad of them was worth less than the paper as fuel. The middle classes of the cities, who had been the Nationalists' strongest supporters, lost their savings and their faith together.
 

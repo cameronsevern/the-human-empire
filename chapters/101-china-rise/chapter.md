@@ -4,7 +4,7 @@
 
 China got rich by letting its people work for themselves, while the party that ruled them kept every lever of political power. It began when peasants were allowed to farm their own plots. It continued when foreign companies were invited to make goods for export on the coast, using the labour of more than two hundred million people who left the villages. In forty years, eight hundred million Chinese climbed out of extreme poverty, which is the largest escape from poverty ever recorded.
 
-On a cold night near the end of 1978, the heads of eighteen families met in a mud-walled house in Xiaogang, a village in the eastern province of Anhui. Xiaogang was one of the poorest places in China. In the great famine twenty years earlier, sixty-seven of its hundred and twenty people had starved. More than half the village, in other words, had died. In most winters since, the villagers had gone out on the roads to beg.
+On a cold night near the end of 1978, the heads of eighteen families met in a mud-walled house in Xiaogang, a village in the eastern province of Anhui. Xiaogang was one of the poorest places in China. In the great famine twenty years earlier, sixty-seven of its hundred and twenty people had starved. In most winters since, the villagers had gone out on the roads to beg.
 
 The land belonged to the collective farm. Everyone worked it together, at the sound of a whistle, and was paid the same whether he worked hard or leaned on his hoe. Under that rule, extra effort earned nothing extra.
 
@@ -20,9 +20,9 @@ The most important of those men was seventy-four, stood barely a metre and a hal
 
 Deng Xiaoping was born in 1904, the son of a landowner in the inland province of Sichuan. At sixteen he sailed to France on a scheme for poor students, and worked for five years in a steel mill and a car factory, where he learned to love croissants and joined the Communist Party.
 
-Over the following decades he rose high in it. He was on the Long March, the communists' great retreat across the country. He was a commander in the civil war and the party's chief administrator in the 1950s. After the famine he helped to put the country back on its feet, with the remark that the colour of a cat does not matter as long as it catches mice. What mattered, in other words, was whether a policy worked, not whether it was properly communist.
+Over the following decades he rose high in it. He marched on the Long March, commanded armies in the civil war and ran the party's machinery in the 1950s. After the famine he was the man of the black cat and the white cat, who cared only whether a policy caught mice.
 
-For that he was thrown out as a follower of the capitalist road, the insult of the day for anyone suspected of wanting markets. He spent years repairing tractors while his son lay paralysed after a fall from a window in the custody of Red Guards, the young militants whom Mao had set loose on the party. He was brought back, and thrown out again. By 1978, two years after Mao's death, he had outmanoeuvred Mao's chosen heir and become the man who decided.
+For that he was thrown out as a follower of the capitalist road, the insult of the day for anyone suspected of wanting markets. He spent years in a tractor workshop, while his son lay paralysed after a fall in the custody of the Red Guards. He was brought back, and thrown out again. By 1978, two years after Mao's death, he had outmanoeuvred Mao's chosen heir and become the man who decided.
 
 He had no grand theory. He described his method as crossing the river by feeling for the stones: try a step, and if it holds, take the next. What he had instead was a clear view of how far China had fallen behind. That year a Chinese person was poorer than the average African south of the Sahara. For a country that thought of itself as one of the great civilisations, it was a humiliating place to stand.
 
@@ -101,14 +101,14 @@ For three years after the killings the conservatives had the upper hand, and ref
 
 What followed was the real take-off. Reform now cut deep into the state's own industry. Its loss-making factories were closed or sold, and thirty million workers who had been promised a job for life were dismissed. Meanwhile private business, which had been barely tolerated, was now encouraged.
 
-The new factories needed hands, and the labour came from the villages. Over the next thirty years more than two hundred and fifty million people left the countryside to work in the cities and the coastal factories. Nothing like it has happened anywhere, at any time.
+The new factories needed hands, and the labour came from the villages. Over the next thirty years more than two hundred million people left the countryside to work in the cities and the coastal factories. Nothing like it has happened anywhere, at any time.
 
 Their working lives were hard. Most were young, and many were women in their teens, who lived twelve to a room in factory dormitories, worked eleven hours a day, six or seven days a week, and sent their wages home.
 
 ![Two rows of workers in white overalls, hoods and masks, with red headbands, sitting at long green benches, assembling electronic parts](images/factory.jpg)
 *Workers assembling fibre-optic components in an electronics factory in Shenzhen, 2005. Photo: Steve Jurvetson, CC BY 2.0.*
 
-They did this as second-class citizens in their own country. Every Chinese is registered at birth as belonging to a particular place. A migrant registered in a village had no right to a free place for his children in a city school or to the city's medical insurance. As a result, the children stayed behind with their grandparents, tens of millions of them, and saw their parents once a year, when the whole country travelled home for the new year festival.
+They did this as second-class citizens in their own country. Every Chinese is registered at birth as belonging to a particular place. A migrant registered in a village had no right to a free place for his children in a city school or to the city's medical insurance. The children therefore stayed behind with their grandparents, tens of millions of them, and saw their parents once a year, when the whole country travelled home for the new year festival.
 
 ## A box
 
@@ -118,7 +118,7 @@ Until the 1950s, cargo went to sea much as it had in the days of sail. Gangs of 
 
 Malcolm McLean owned a fleet of lorries and was tired of watching them wait at the docks. His idea was to stop handling the cargo at all. It occurred to him that the whole trailer might be lifted off its wheels and onto the ship, without anyone touching what was inside. On 26 April 1956 a converted oil tanker sailed from a port near New York with fifty-eight steel boxes lashed to its deck. Loading loose cargo by hand cost nearly six dollars a ton. Loading that ship cost sixteen cents.
 
-It took twenty years, and a fight with the dockers' unions, for the idea to conquer. The boxes were made to standard sizes, so that the same one could ride on a lorry, a railway wagon and a ship, and be lifted by the same crane in any port in the world. The largest ships now carry the equivalent of twenty-four thousand of the smaller size. As a result, sending a television set from China to Europe costs a few dollars.
+It took twenty years, and a fight with the dockers' unions, for the idea to conquer. The boxes were made to standard sizes, so that the same one could ride on a lorry, a railway wagon and a ship, and be lifted by the same crane in any port in the world. The largest ships now carry the equivalent of twenty-four thousand of the smaller size. Sending a television set from China to Europe now costs a few dollars.
 
 The container made distance almost irrelevant. Once shipping was that cheap, a manufacturer no longer needed to be near his customers, or to make every part in one place. A telephone could be designed in California, with a screen made in Korea and chips made in Taiwan, and put together by hand in a Chinese city where three hundred thousand people worked in a single compound. Each part could be made wherever it was cheapest.
 

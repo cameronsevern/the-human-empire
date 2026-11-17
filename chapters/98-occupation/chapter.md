@@ -30,7 +30,7 @@ In November the United Nations adopted a resolution that has been the basis of e
 
 The wording, however, left room for argument. Its English text spoke of withdrawal "from territories", without the word "the". Israel has always read that to mean some of them. The Arab states read it to mean all.
 
-The resolution had little to say about the Palestinians, who appeared in it only as a refugee problem. It was a deal between states, and the Palestinians had no state. That gap would matter more with every passing year.
+The resolution had little to say about the Palestinians, who appeared in it only as a refugee problem. It was a deal between states, and the Palestinians had no state.
 
 ## A hotel at Passover
 
@@ -56,7 +56,7 @@ There were fewer than five thousand settlers in the West Bank that year. There w
 ![Two maps side by side. Left, Israel in 1967, shaded blue, with the territories it took in June shaded red: the Gaza strip, the West Bank with East Jerusalem, and the Golan heights; Sinai, as far as the Suez Canal, is hatched and marked as taken in 1967 and returned to Egypt under the treaty of 1979. Right, the West Bank about 2005: a thick black line marks the armistice line of 1949; the Palestinian cities of Jenin, Nablus, Tulkarm, Qalqilya, Ramallah, Jericho, Bethlehem and Hebron are marked with dots, Jerusalem on the line, and red squares mark the Israeli settlements of Ariel, Modi'in Illit, Ma'ale Adumim, Beitar Illit and Kiryat Arba. A dashed brown line, drawn roughly, shows the barrier, which follows the armistice line in places and loops inside the West Bank in others, round Qalqilya and Jerusalem](images/map_occupation.png)
 *Left, Israel and the territories it took in 1967; Sinai was returned to Egypt under the treaty of 1979. Right, the West Bank about 2005, with the armistice line of 1949, the Palestinian cities, the larger settlements and the route of the barrier, roughly. West Bank, Gaza strip and barrier after OpenStreetMap contributors. Map: drawn for this book; coastlines and rivers from Natural Earth, public domain.*
 
-Nearly every other government in the world regards the settlements as illegal, since the law of war forbids an occupying power to move its own civilians into occupied territory. Israel replies that the land was not the lawful territory of any state when it was taken. The two sides, in other words, disagree about what the land even was. Whatever the law, each new red-roofed town on a hilltop, with its fence, its army post and its road, made it harder to imagine drawing a border.
+Nearly every other government in the world regards the settlements as illegal, since the law of war forbids an occupying power to move its own civilians into occupied territory. Israel replies that the land was not the lawful territory of any state when it was taken. The two sides disagree about what the land even was. Whatever the law, each new red-roofed town on a hilltop, with its fence, its army post and its road, made it harder to imagine drawing a border.
 
 ## The gun and the olive branch
 
@@ -161,7 +161,7 @@ Negotiators on both sides have known for thirty years what an agreement would ha
 
 The first question is where the border would run, and what would become of half a million settlers on the far side of it.
 
-The second is the refugees of 1948 and their descendants, now nearly six million, who claim the right to return to homes inside Israel. For Palestinians that right is the heart of their cause. For Israelis it would mean the end of a state with a Jewish majority. Each side, in other words, sees in the same demand either justice or its own destruction.
+The second is the refugees of 1948 and their descendants, now nearly six million, who claim the right to return to homes inside Israel. For Palestinians that right is the heart of their cause. For Israelis it would mean the end of a state with a Jewish majority. Each side sees in the same demand either justice or its own destruction.
 
 The third is security, for a country that at its waist is fifteen kilometres wide. That is less than the distance many people drive to work each day.
 

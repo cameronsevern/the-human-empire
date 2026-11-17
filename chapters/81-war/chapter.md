@@ -38,7 +38,7 @@ Hitler had won an empire that ran from the Atlantic to the Polish plain. He had 
 
 ## Six hundred thousand horses
 
-On 22 June 1941, three million German soldiers attacked the Soviet Union along a front of nearly three thousand kilometres. It was the largest invasion in history. Hitler told his generals that the campaign would take three months. You have only to kick in the door, he said, and the whole rotten structure will come crashing down.
+On 22 June 1941 Hitler's armies attacked the Soviet Union along a front of nearly three thousand kilometres. Hitler told his generals that the campaign would take three months. You have only to kick in the door, he said, and the whole rotten structure will come crashing down.
 
 It was to be a different kind of war from the one in France. The purpose was land. The fertile plains of Ukraine and Russia were to be emptied and settled by Germans, and the people who lived there were to be killed, starved or kept as labourers. The army was told that the ordinary rules of war did not apply. Its plans assumed that it would feed itself from Soviet farms and that tens of millions of Soviet civilians would starve as a result.
 
@@ -68,7 +68,7 @@ The siege lasted eight hundred and seventy-two days, and about eight hundred tho
 
 Hunger was a weapon everywhere in this war, and it killed more people than bombs did. Armies took the food of the countries they occupied. Blockades and sunken ships cut off the countries that lived by importing it.
 
-Famine could also follow from the way a government chose to share out what food there was. In 1943, in the British-ruled Indian province of Bengal, the rice that had come from Burma was lost to the Japanese, prices ran out of reach of the poor, and the government fed the army and the factory towns first. As many as three million villagers died.
+Famine could also follow from the way a government chose to share out what food there was. In British-ruled Bengal in 1943, where the army and the war factories were fed first, about three million people died.
 
 ## The Volga
 
@@ -169,7 +169,7 @@ After that it was a matter of arithmetic. Japan launched a handful of large carr
 
 Meanwhile, American submarines did to Japan what the Germans had failed to do to Britain. They sank most of its merchant ships, and the oil of the Dutch islands, for which Japan had gone to war, could no longer be carried home.
 
-The empires fought with soldiers from every continent. Two and a half million Indians served in the British forces, the largest army of volunteers ever raised. Africans fought in Burma, and Brazilians in Italy. Many of those men had been told that they were fighting for freedom, and they did not forget it when they went home.
+The empires fought with soldiers from every continent. Indians fought for Britain in their millions, Africans in Burma, and Brazilians in Italy. Many of those men had been told that they were fighting for freedom, and they did not forget it when they went home.
 
 ## The beach and the marsh
 

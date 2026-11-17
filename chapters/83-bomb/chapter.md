@@ -102,7 +102,7 @@ Oppenheimer said afterwards that a line from Hindu scripture came into his mind:
 
 The question of whether to use the bomb was, in a sense, never asked. It was assumed.
 
-The reason lies in what the war had already become. Since March, American bombers had been burning Japanese cities with fire bombs, one after another, and had destroyed sixty of them. A single raid on Tokyo had killed more people than the bomb would kill at Hiroshima on its first day. The line between soldiers and civilians had been crossed years before, by every side. Seen from inside that war, one more burned city did not look like a new kind of act.
+By then the war had become a war on cities. Since March, American bombers had been burning Japanese cities with fire bombs, one after another, and had destroyed sixty of them. A single raid on Tokyo had killed more people than the bomb would kill at Hiroshima on its first day. The line between soldiers and civilians had been crossed years before, by every side. Seen from inside that war, one more burned city did not look like a new kind of act.
 
 Japan was beaten and would not admit it. Its navy was sunk and its cities were in ashes, but it still had two million soldiers in the home islands, and its army intended to make an invasion so bloody that the Americans would offer terms.
 

@@ -156,7 +156,7 @@ By the spring of 1944 Germany was plainly losing. The killing went on, and its l
 
 Hungary, an ally, had passed its own laws against Jews and worked tens of thousands of them to death in labour battalions, but it had refused to hand them over. In March 1944 German troops occupied the country, and Eichmann arrived in Budapest with a staff of a few hundred. That was all he needed, because the Hungarian government put its police at his disposal. In eight weeks, Hungarian gendarmes loaded four hundred and thirty-seven thousand Jews onto trains. Nearly all went to Auschwitz, and most were dead within hours of arriving.
 
-Jews were not the only people killed for what they were. The Nazis murdered the Roma of Europe, the people once called Gypsies, by the same methods, and at least two hundred thousand died. They killed some two hundred and fifty thousand disabled people. They let three million Soviet prisoners of war die of hunger and cold, and killed nearly two million Polish civilians who were not Jews. The Jews were the one people whom they intended to wipe out entirely, down to the last child, wherever in the world their power could reach.
+Jews were not the only people killed for what they were. The Nazis murdered the Roma of Europe, the people once called Gypsies, by the same methods, and at least two hundred thousand died. They killed some two hundred and fifty thousand disabled people. Of the nearly six million Soviet soldiers they took prisoner, they let more than three million die of hunger and cold, and killed nearly two million Polish civilians who were not Jews. The Jews were the one people whom they intended to wipe out entirely, down to the last child, wherever in the world their power could reach.
 
 ## Warehouses
 

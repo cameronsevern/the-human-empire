@@ -51,7 +51,7 @@ The nation that worried them most lay just across the southern border. Serbia wa
 
 The two countries had already clashed. In 1908 the empire had annexed Bosnia, where many of the people were Serbs, and Serbia had been forced to swallow it. Since then, in two short wars against the Turks and its neighbours, Serbia had doubled in size. Seen from Vienna, a small troublemaker was turning into a dangerous one.
 
-The young men in Sarajevo were Bosnian subjects of the emperor. Their pistols and bombs, however, had come from Serbia, supplied by a secret society run by the head of Serbian military intelligence. The Serbian government had not ordered the killing, and had some idea that a plot was afoot. It was not guilty of the murder, in other words, but it was not wholly innocent of it either.
+The young men in Sarajevo were Bosnian subjects of the emperor. Their pistols and bombs, however, had come from Serbia, supplied by a secret society run by the head of Serbian military intelligence. The Serbian government had not ordered the killing, and had some idea that a plot was afoot. It was not guilty of the murder, but it was not wholly innocent of it either.
 
 For the generals and ministers in Vienna, this was the moment they had been waiting for. Serbia had to be destroyed as a power, they believed, or the empire would be picked apart, and the murder gave them their reason. There was one obstacle. Serbia had a protector. Russia saw itself as the guardian of the Slavs, and it had been humiliated in 1908 when it failed to stand by Serbia. Its ministers had sworn that it would not happen again.
 
@@ -111,7 +111,7 @@ Every government had worried about this, and with some reason. The socialist par
 
 In the event, almost all of the French conscripts reported. In Germany, the socialists fell into line. They were the largest party in parliament, and they voted for the war credits, the money to pay for the war, to a man. The emperor announced that he no longer recognised parties, only Germans.
 
-The explanation is that each people believed it had been attacked. Germans were told that the Russian hordes were mobilising against them, which was true. The French saw a German army cross their border. The British saw a small neutral country invaded. In every case the government could say, with some justice, that it was defending the homeland. After a century of schools, newspapers and military service, the homeland was something that men were prepared to die for. The nation proved a far stronger tie than class.
+Each people believed it had been attacked. Germans were told that the Russian hordes were mobilising against them, which was true. The French saw a German army cross their border. The British saw a small neutral country invaded. In every case the government could say, with some justice, that it was defending the homeland. After a century of schools, newspapers and military service, the homeland was something that men were prepared to die for. The nation proved a far stronger tie than class.
 
 There were cheering crowds in Berlin, Paris, Vienna and St Petersburg, and photographs of them are famous. However, the photographs show only part of the picture. The crowds were mostly students and clerks. In the villages, where the horses were being requisitioned in the middle of the harvest, the mood was grim and silent.
 

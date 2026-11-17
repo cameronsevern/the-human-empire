@@ -11,7 +11,7 @@ On the morning of Monday, 15 September 2008, the staff of an investment bank cal
 
 The American government had spent the weekend looking for another bank to buy it, had found none, and had let it fail. Within hours it was plain that this had been a mistake.
 
-The trouble was that Lehman had dealings with a great many other firms. No bank could be sure which others were owed money by Lehman, or which were in the same condition. A bank that cannot tell whether its neighbour will survive the week does the safe thing and keeps its cash, and so banks all but stopped lending to one another.
+Lehman had dealings with a great many other firms. No bank could be sure which others were owed money by Lehman, or which were in the same condition. A bank that cannot tell whether its neighbour will survive the week does the safe thing and keeps its cash, and so banks all but stopped lending to one another.
 
 The panic then spread outwards from the banks. The next day the largest insurance company in the world had to be taken over by the state. An ordinary savings fund, of the kind that Americans treated as equivalent to cash, announced that it could not pay its investors in full, and people began pulling their money out of all such funds. Before long, companies with perfectly sound businesses found that they could not borrow to pay that week's wages.
 
@@ -97,7 +97,7 @@ By the 1990s the argument seemed to be over. With the collapse of the Soviet Uni
 
 ## The elephant
 
-Taken across the whole world, the thirty years after 1980 were the best that the poor had known. Between 1981 and 2015 the share of humanity living in extreme poverty, on less than what two dollars a day would buy in America, fell from more than two in five to one in ten. Most of that happened in China and India, where hundreds of millions of people moved from the fields to factories and offices that sold to the world.
+Taken across the whole world, the thirty years after 1980 were the best that the poor had known. Between 1981 and 2015 the share of humanity living in extreme poverty fell from more than two in five to one in ten. Most of that happened in China and India, where hundreds of millions of people moved from the fields to factories and offices that sold to the world.
 
 The picture changes, however, when the gains are set side by side.
 
@@ -125,7 +125,7 @@ The bets were on American houses.
 
 In the old way of things, a bank that lent a family the money to buy a house kept the loan for thirty years. If the family failed to pay, the bank lost the money, and so it took care to lend only to people who would pay it back.
 
-By 2000 this had changed. The bank, or more often a broker working on commission, made the loan and at once sold it to an investment bank in New York. The broker was paid for each loan signed, and had no further interest in what happened to it. In other words, the broker who judged whether a family could afford a house lost nothing if it could not.
+By 2000 this had changed. The bank, or more often a broker working on commission, made the loan and at once sold it to an investment bank in New York. The broker was paid for each loan signed, and had no further interest in what happened to it. The broker who judged whether a family could afford a house lost nothing if it could not.
 
 The investment bank gathered several thousand such loans into a pool, and sold investors the right to the monthly payments flowing out of it. It also kept a good many of those rights itself, bought with money borrowed for a day or a week at a time.
 

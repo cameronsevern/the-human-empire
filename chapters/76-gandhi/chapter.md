@@ -139,7 +139,7 @@ The quarrel came to a head over voting. When the British offered his people the 
 
 The second was Muhammad Ali Jinnah, a wealthy, elegant Bombay lawyer who led the Muslim League. A quarter of Indians were Muslims. Many Muslims had marched with Gandhi in the 1920s. To Jinnah and a growing number of others, however, his movement, with its Hindu hymns, its holy man and its talk of the rule of the god Rama, looked very much like a Hindu revival.
 
-They feared what the numbers meant. If the British left and India became a democracy, the Hindu majority would rule for ever. In 1940 Jinnah's party drew its conclusion. It declared that the Muslims of India were a separate nation and must have independent states of their own in the regions where they were the majority.
+They feared what the numbers meant. If the British left and India became a democracy, the Hindu majority would rule for ever. Before long Jinnah's party was demanding states of their own for the Muslims.
 
 ![Black-and-white photograph of two smiling elderly men side by side, one in a pale suit and tie, the other bare-shouldered in round glasses with a white cloth over one shoulder](images/jinnah.jpg)
 *Muhammad Ali Jinnah and Gandhi in Bombay, in September 1944, during their talks. Photo: unknown, public domain, cropped.*

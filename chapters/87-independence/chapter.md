@@ -50,7 +50,7 @@ On 28 February 1948 a column of African veterans who had fought for Britain in B
 
 At a crossroads a British police officer ordered them to halt, and when they did not, opened fire. Three of the veterans were killed. The city rioted, and the riots spread to other towns. Suddenly the contented colony was contented no longer.
 
-The man who would turn that anger into a movement had come home just in time. Nkrumah had returned to the colony two months earlier, after twelve years abroad. He was a goldsmith's son who had trained as a teacher, saved his fare to America, and put himself through university there by working in a soap factory and as a waiter on ships. In 1945 he had helped to organise a congress in Manchester, in England, at which Africans and people of African descent from three continents had resolved to demand independence. He came back, in other words, with the demand already made.
+The man who would turn that anger into a movement had come home just in time. Nkrumah had returned to the colony two months earlier, after twelve years abroad. He was a goldsmith's son who had trained as a teacher, saved his fare to America, and put himself through university there by working in a soap factory and as a waiter on ships. In 1945 he had helped to organise a congress in Manchester, in England, at which Africans and people of African descent from three continents had resolved to demand independence. He came back with the demand already made.
 
 The colony's lawyers and chiefs were asking for self-government "in the shortest possible time". That sounded bold, but it left the British to decide how short the time should be. Nkrumah founded his own party and gave it a shorter slogan: self-government now. The difference was a matter of a few words, but it turned a request into a demand.
 
@@ -66,7 +66,7 @@ The British drew a conclusion from this and from India. It was better to leave e
 
 In February 1960 the British prime minister carried that conclusion to the place where it was least welcome. Speaking to the all-white parliament of South Africa, he told its members something they did not wish to hear. The wind of change, he said, was blowing through the continent. Whether they liked it or not, the growth of national feeling was a fact, and policy must take account of it.
 
-That year seventeen African countries became independent, most of them former French colonies that Paris released together. France, in other words, had reached much the same conclusion as Britain. The ceremonies followed a pattern, and the scene in Accra became something close to a routine. A member of the royal family or a minister flew out. The flag was lowered at midnight, and the band played the new anthem.
+That year seventeen African countries became independent, most of them former French colonies that Paris released together. France had reached much the same conclusion as Britain. The ceremonies followed a pattern, and the scene in Accra became something close to a routine. A member of the royal family or a minister flew out. The flag was lowered at midnight, and the band played the new anthem.
 
 It went that way in most places where the rulers had little to lose. The hard cases were the places where some of them had a great deal to lose. Where Europeans had settled in numbers and taken the land, they did not mean to leave. A visiting minister could fly home after the ceremony, but a settler could not, because for him the colony was home. As a result, the home governments were drawn into wars to protect them.
 
@@ -93,7 +93,7 @@ The hardest of all these wars was fought across the Mediterranean from France.
 
 France had conquered Algeria in 1830, and regarded it as more than a colony. On the map it was three counties of France itself, represented in the parliament in Paris. To a French politician, giving up Algeria sounded less like leaving a colony than like giving away a piece of France.
 
-A million people of European descent lived there, many of them poor, whose families had been in Algeria for four or five generations. For them, too, Algeria was simply home. Around them lived nine million Arab and Berber Muslims, who for a century had been French subjects without being French citizens. They were made citizens in 1946. Even so, their votes were still counted in a separate list, which elected the same number of deputies as the million Europeans. In other words, the nine million had no more say in Paris than the one million.
+A million people of European descent lived there, many of them poor, whose families had been in Algeria for four or five generations. For them, too, Algeria was simply home. Around them lived nine million Arab and Berber Muslims, who for a century had been French subjects without being French citizens. They were made citizens in 1946. Even so, their votes were still counted in a separate list, which elected the same number of deputies as the million Europeans. The nine million had no more say in Paris than the one million.
 
 On 8 May 1945, the day that Germany surrendered, Muslims in the town of Sétif joined the victory parade carrying a nationalist flag. The police fired, and the crowd turned on the Europeans and killed about a hundred. What followed was out of all proportion. The French army and settler militias then killed several thousand Muslims in reprisal, shelling villages from a warship and bombing them from the air. Many Algerians who had believed in gradual reform stopped believing in it that month.
 
@@ -159,7 +159,7 @@ To Washington that made him a danger. In the middle of the contest with Moscow, 
 
 The head of American intelligence cabled that his removal was an urgent objective, and a scientist was sent to the Congo with poison to be put in his food. It was never used. In September the army's chief of staff, a former sergeant and journalist named Joseph Mobutu, seized power with American encouragement. Lumumba was arrested, beaten, and flown to Katanga. On the night of 17 January 1961 he was shot beside a tree by a firing squad under the command of Belgian officers. He had been prime minister for less than three months.
 
-Mobutu made himself president by a second coup in 1965 and ruled the country for thirty-two years, as a firm friend of the West, and stole several billion dollars from it.
+Mobutu made himself president by a second coup in 1965 and ruled the country, which he renamed Zaire, for thirty-two years, as a firm friend of the West, and stole several billion dollars from it.
 
 ## What was handed over
 

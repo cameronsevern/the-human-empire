@@ -12,7 +12,7 @@ Despite its grand name, the bank was a private company. Most of its hundreds of 
 
 A rumour could do so much damage because of what a bank does with a deposit. A bank does not keep its customers' money in a vault. Instead, it lends most of it out, and holds a small reserve for those who come to withdraw on an ordinary day. Usually that is enough, because only a few customers want their money at any one time. If everyone comes at once, however, a bank cannot pay out of its own tills, because the money is out with its borrowers.
 
-For that reason a bank lives on confidence. As long as its customers believe they can get their money, they leave it where it is. Once they doubt it, they all come at once, and so a rumour can kill even a sound bank. The Bank of United States was not especially sound. However, what happened to it that week was about to happen to thousands of others.
+For that reason a bank lives on confidence. As long as its customers believe they can get their money, they leave it where it is. Once they doubt it, they all come at once, and so a rumour can kill even a sound bank. The Bank of United States was not especially sound. Even so, what happened to it that week was about to happen to thousands of others.
 
 ## A promise to pay gold
 
@@ -45,7 +45,7 @@ Americans in the 1920s had plenty to lend. The United States had come out of the
 
 Most of these goods were bought on a plan that now spread far more widely than ever before. The buyer paid a small sum down and the rest in monthly instalments, so that the goods arrived at once and the payments went on month after month. For the first time, ordinary families were deep in debt for things other than a house, and felt prosperous.
 
-They bought shares in the same way. An investor could put down as little as one dollar in ten and borrow the rest from his stockbroker, with the shares themselves as security. In other words, if the investor could not repay, the broker could sell the shares to get his money back.
+They bought shares in the same way. An investor could put down as little as one dollar in ten and borrow the rest from his stockbroker, with the shares themselves as security. If the investor could not repay, the broker could sell the shares to get his money back.
 
 While prices rose, this was a machine for getting rich, because the investor kept the whole gain on the borrowed money as well as on his own. A share bought with ten dollars of one's own money, which rose from a hundred to a hundred and ten, doubled the investment.
 
@@ -55,14 +55,14 @@ The trouble with borrowed money is that it works in both directions. Suppose tha
 
 That is what happened in the last week of October 1929. On Thursday the twenty-fourth, prices began to slide, and by midday the selling was a stampede. A group of bankers calmed things by buying ostentatiously, so that everyone could see the big money still had faith in the market. The calm did not last. On the following Tuesday there was no stopping it. Sixteen million shares were dumped in a day, a record that stood for almost forty years, and the machines that printed the prices ran hours behind, so that sellers could not tell what their shares were fetching.
 
-That was only the beginning. Within three weeks the market had lost more than a third of its value. It kept falling for almost three years, until nine tenths was gone, and it did not regain the level of September 1929 until 1954.
+Within three weeks the market had lost more than a third of its value. It kept falling for almost three years, until nine tenths was gone, and it did not regain the level of September 1929 until 1954.
 
 ![A crowd of men in hats and overcoats standing in a Wall Street canyon between tall buildings, some raising their arms](images/wall_street_crowd.jpg)
 *A crowd in Wall Street in the days after the crash, October 1929. Photo: Associated Press, public domain.*
 
 ## Twenty-five thousand banks
 
-Only a small minority of Americans owned shares. The crash wiped out the paper fortunes of the rich and the hopeful. However, it frightened everyone. People put off buying a car. As a result, factories that made cars laid off men, who then could not pay their instalments. That is an ordinary slump, of the kind that had come every ten years or so for a century, and it should have run its course in a year or two.
+Only a small minority of Americans owned shares. The crash wiped out the paper fortunes of the rich and the hopeful. It frightened everyone, all the same. People put off buying a car. As a result, factories that made cars laid off men, who then could not pay their instalments. That is an ordinary slump, of the kind that had come every ten years or so for a century, and it should have run its course in a year or two.
 
 What turned it into something else was the banks. The United States had about twenty-five thousand of them, most with a single office in a small town, lending to local farmers and shopkeepers. Such a bank was only as strong as the farms and shops around it. Moreover, nothing stood behind their deposits. If a bank failed, the people who had put their money in it could expect to lose a good part of it.
 
@@ -81,9 +81,9 @@ The cost in jobs was enormous. In 1929, three American workers in a hundred had 
 
 ## Liquidate
 
-President Herbert Hoover was an intelligent and humane man who had made his name organising food relief in wartime Europe. He did more than any president before him had done in a slump. He urged employers to keep wages up, brought forward public building works, and in 1932 set up an agency to lend to banks in trouble. However, he and nearly everyone who advised him held a set of beliefs that made all of it too little.
+President Herbert Hoover was an intelligent and humane man who had made his name organising food relief in wartime Europe. He did more than any president before him had done in a slump. He urged employers to keep wages up, brought forward public building works, and in 1932 set up an agency to lend to banks in trouble. Nevertheless, he and nearly everyone who advised him held a set of beliefs that made all of it too little.
 
-His secretary of the treasury, one of the richest men in America, put the orthodox view, the accepted wisdom of the day, in its purest form. Hoover remembered his advice as: liquidate labour, liquidate stocks, liquidate the farmers, liquidate real estate. In plain words, he meant that wages, shares, farms and property should be left to fall to whatever they would fetch. The idea behind the advice was that the slump was a fever that would purge the rottenness from the system. Weak firms would fail, wages would fall, and enterprising people would pick up the pieces.
+His secretary of the treasury, one of the richest men in America, put the orthodox view, the accepted wisdom of the day, in its purest form. Hoover remembered his advice as: liquidate labour, liquidate stocks, liquidate the farmers, liquidate real estate. He meant that wages, shares, farms and property should be left to fall to whatever they would fetch. The idea behind the advice was that the slump was a fever that would purge the rottenness from the system. Weak firms would fail, wages would fall, and enterprising people would pick up the pieces.
 
 Hoover did not go quite so far. He did, however, hold to three articles of faith, and each of them pushed in the wrong direction.
 
@@ -136,7 +136,7 @@ He sent young men to work in the forests, three million of them over nine years,
 ![A poster of a farmer with a rake and a labourer with a sledgehammer shaking hands across an ear of wheat, under the words Work Pays America](images/wpa_poster.jpg)
 *A Works Progress Administration poster, made between 1936 and 1941. The agency hired the unemployed by the million. Poster: Vera Bock, Federal Art Project, public domain.*
 
-It was a partial success. The economy grew fast from 1933, and unemployment fell, though it was still above one in seven in 1937. However, Roosevelt had not abandoned the old religion entirely. That year, thinking the emergency over, he cut spending to balance the budget. At the same time the central bank tightened credit. The economy promptly fell back into recession.
+It was a partial success. The economy grew fast from 1933, and unemployment fell, though it was still above one in seven in 1937. Roosevelt, for his part, had not abandoned the old religion entirely. That year, thinking the emergency over, he cut spending to balance the budget. At the same time the central bank tightened credit. The economy promptly fell back into recession.
 
 ## The paradox of thrift
 
@@ -151,7 +151,7 @@ In 1936 he set out his argument in full. The accepted theory held that an econom
 
 Keynes said that this was false. An economy can settle into a state in which factories and workers stand idle for years, because nobody is buying. Businesses will not invest when there are no customers, however cheap borrowing becomes. Worse, the workers they lay off are the customers they are missing. A slump of that kind keeps itself going.
 
-The reason lies in a trap that came to be called the paradox of thrift. When times are hard, it is prudent for each family to spend less and save more. However, one person's spending is another person's income. When a family stops buying shoes, the shoemaker earns less, and he in turn spends less at the baker's. If every family cuts back at once, incomes fall, and the country ends up poorer and with less saved than before. What is wise for each is disastrous for all.
+The reason lies in a trap that came to be called the paradox of thrift. When times are hard, it is prudent for each family to spend less and save more. Yet one person's spending is another person's income. When a family stops buying shoes, the shoemaker earns less, and he in turn spends less at the baker's. If every family cuts back at once, incomes fall, and the country ends up poorer and with less saved than before. What is wise for each is disastrous for all.
 
 It followed that somebody had to spend when nobody else would, and the only somebody large enough was the government. In a slump it should borrow and spend, on anything at all, and balance its budget later, when times were good. Seen that way, the men who had cut spending and raised taxes in 1931 had been pouring water on a drowning man.
 

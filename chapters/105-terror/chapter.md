@@ -26,7 +26,7 @@ The president of the United States was in a classroom in Florida, listening to s
 
 What stands out about the attack is how little it took. The nineteen hijackers had taken over the four aircraft with small blades of the kind used for opening cartons. Fifteen were from Saudi Arabia. Several had trained at American flying schools, where they had shown little interest in learning to land. The whole operation had cost about half a million dollars.
 
-They had been sent by al-Qaeda, the Base, the organisation that the Saudi millionaire Osama bin Laden had founded among the foreign volunteers of the Afghan war. When that war ended, he had looked for the next enemy.
+They had been sent by al-Qaeda, the organisation that the Saudi millionaire Osama bin Laden had founded among the foreign volunteers of the Afghan war. When that war ended, he had looked for the next enemy.
 
 He found it through an invitation. In 1990 Iraq invaded Kuwait, and the Saudi royal family invited half a million American soldiers into the kingdom to protect it. To bin Laden the presence of unbelieving troops in the land of Mecca and Medina was a desecration.
 

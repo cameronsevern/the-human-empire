@@ -23,11 +23,11 @@ Oil had been a curiosity for most of history, skimmed from pools where it seeped
 ![A small wooden building among tall pine trees with a tall tapering wooden derrick rising from one end, a sign on the derrick reading Drake](images/drake.jpg)
 *A replica of the wooden derrick and engine house of Edwin Drake's well of 1859, at the Drake Well Museum in Titusville, Pennsylvania, photographed in 2006. Photo: Zamoose, CC BY-SA 2.5.*
 
-Then the electric light arrived and began to kill the market for lamp oil. The industry was saved by the engine that burns its fuel inside the cylinder. In such an engine a small charge of fuel explodes inside a closed metal tube and drives a piston, and the piston turns the wheels. The weight of the fuel matters, because a vehicle has to carry its fuel with it, and no other fuel packs so much energy into so small and light a tank. That engine ran best on the liquid that the refiners had been throwing in the river.
+Then the electric light arrived and began to kill the market for lamp oil. The industry was saved by the engine that burns its fuel inside the cylinder. The weight of the fuel matters, because a vehicle has to carry its fuel with it, and no other fuel packs so much energy into so small and light a tank. That engine ran best on the liquid that the refiners had been throwing in the river.
 
 ## Five dollars a day
 
-The early motor car was a rich man's toy, built one at a time by craftsmen. In 1908 a farmer's son from Michigan, Henry Ford, brought out a plain, tough car meant for farmers like his father. It cost eight hundred and fifty dollars, which was more than a year's wages for a worker. In other words, the men who built it could not yet afford it.
+The early motor car was a rich man's toy, built one at a time by craftsmen. In 1908 a farmer's son from Michigan, Henry Ford, brought out a plain, tough car meant for farmers like his father. It cost eight hundred and fifty dollars, which was more than a year's wages for a worker. The men who built it could not yet afford it.
 
 His real invention came five years later. Until then a team of men had built each car where it stood, fetching the parts. Ford had the car dragged past the men on a chain. Each worker stayed in one spot and performed a single task, tightening the same two nuts or fitting the same wheel, as the frames went by. The time needed to assemble a car fell from twelve and a half hours to an hour and a half.
 
@@ -151,11 +151,11 @@ Much depends, therefore, on the country that finds the oil. Nigeria earned hundr
 
 The embargo had shown how much the West depended on the Gulf. The next crisis showed how unsteady the Gulf itself could be. In 1979 a revolution in Iran overthrew the shah and took most of that country's oil off the market for a time. The price doubled again. That December the Soviet army marched into Afghanistan, which put it within reach of the Gulf. The Gulf now looked dangerous from two directions at once.
 
-A month later the American president told Congress that any attempt by an outside force to gain control of the Persian Gulf region would be regarded as an assault on the vital interests of the United States, and would be repelled by any means necessary, including military force. Put plainly, the United States would fight for the Gulf. It had taken over the role that Britain had played there since Churchill's day.
+A month later the American president told Congress that any attempt by an outside force to gain control of the Persian Gulf region would be regarded as an assault on the vital interests of the United States, and would be repelled by any means necessary, including military force. The United States would fight for the Gulf. It had taken over the role that Britain had played there since Churchill's day.
 
 The pledge was called in eleven years later, against a local power, not the Soviet one. In August 1990 the army of Iraq overran its small neighbour Kuwait in a single day. Its ruler would then have controlled a fifth of the world's known oil, and his tanks stood on the Saudi border.
 
-The United States assembled a coalition of thirty-five countries and more than half a million soldiers, and in five weeks of bombing and four days of fighting on the ground drove the Iraqis out. As they retreated they set fire to more than six hundred oil wells. The smoke turned day into night across the northern Gulf, and the last fire was not put out for eight months.
+The United States assembled a coalition of thirty-five countries and about three quarters of a million soldiers, and in five weeks of bombing and four days of fighting on the ground drove the Iraqis out. As they retreated they set fire to more than six hundred oil wells. The smoke turned day into night across the northern Gulf, and the last fire was not put out for eight months.
 
 ![Aerial colour photograph of a flat desert with several burning oil wells sending up black smoke that fills the sky, and a grey jet fighter flying past in the middle distance](images/kuwait.jpg)
 *Burning oil wells in Kuwait with an American F-14 jet flying past, March 1991. Photo: Lt. Parsons, US Navy, public domain.*

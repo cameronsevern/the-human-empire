@@ -163,7 +163,7 @@ The state that came out of all this was not what anyone had marched for in Febru
 
 The soviets still met, and they voted as the party told them. Every other party had been banned, and so, in 1921, were organised disagreements inside the Communist party itself.
 
-That same year a protest came from an unexpected quarter. The sailors of the naval base outside Petrograd, who had been the pride of the revolution, rose and demanded soviets that were freely elected. In other words, they asked for what the revolution had promised. The government sent the Red Army across the ice. Thousands of the sailors fled to Finland, and of those who were captured, some two thousand were shot.
+That same year a protest came from an unexpected quarter. The sailors of the naval base outside Petrograd, who had been the pride of the revolution, rose and demanded soviets that were freely elected. They were asking for what the revolution had promised. The government sent the Red Army across the ice. Thousands of the sailors fled to Finland, and of those who were captured, some two thousand were shot.
 
 Lenin retreated on one point. With the economy in ruins, he let peasants sell their grain again and allowed small private businesses, as a breathing space. On the question of power he gave nothing.
 

@@ -89,7 +89,7 @@ It began with an accident. On 9 October 1911, in a city on the middle Yangzi, a 
 
 Those lists put every man named on them in danger. The soldiers named there now had a choice between being arrested and executed or acting first. On the evening of 10 October, the tenth day of the tenth month, they shot their officers and seized the arsenal. They had no leader, so they dragged their brigade commander out of the house where he was hiding and told him, at gunpoint, that he was now in charge of the revolution. He turned out to be quite good at it.
 
-The court sent its best troops, and they retook part of the city. It made no difference, because the revolt had already spread beyond that city. Province after province simply declared that it no longer recognised the dynasty. The new assemblies and the new army units took over the provincial capitals. In other words, the very bodies that the court had created to strengthen itself were the ones that turned against it. Within two months some fifteen provinces had left.
+The court sent its best troops, and they retook part of the city. It made no difference, because the revolt had already spread beyond that city. Province after province simply declared that it no longer recognised the dynasty. The new assemblies and the new army units took over the provincial capitals. The very bodies that the court had created to strengthen itself had turned against it. Within two months some fifteen provinces had left.
 
 Sun came home, and on 1 January 1912 he was sworn in as president of a Chinese republic, elected by the delegates of the rebel provinces. He had a title and no soldiers of his own. That was a serious weakness, because in China at that moment soldiers decided who ruled. The strongest army in China was the northern one, and it obeyed a general named Yuan Shikai, whom the court had just called out of retirement to save it.
 
@@ -162,9 +162,7 @@ Then the alliance broke. Chiang feared the Communists, and so did the bankers an
 
 Chiang went on to bring most of China under a Nationalist government in Nanjing. The surviving Communists fled to the mountains of the interior, and defeat forced them to think again. Mao, who was among them, drew a conclusion that went against everything the Russian advisers had taught. The Russians looked to the workers of the cities to make the revolution. In China, Mao decided, the revolution would not begin in the cities at all. Instead, it would be made by peasants, from bases in the remote countryside, and it would surround the cities and take them last.
 
-In the hills of the south they put the idea into practice. They shared out the landlords' fields, built an army of peasants, and governed several million people. In 1934, hard pressed by Chiang's armies, eighty-six thousand of them broke out of their base in the south and set off on foot.
-
-A year later, having walked nine thousand kilometres across rivers, mountains and swamps, about eight thousand of them reached a remote region in the north-west. Fewer than one in ten of those who set out had arrived. Mao was by then their dominant figure.
+In the hills of the south they put the idea into practice. They shared out the landlords' fields, built an army of peasants, and governed several million people. In 1934 Chiang's armies drove them out, and after a walk of nine thousand kilometres across rivers, mountains and swamps, fewer than one in ten of those who set out reached a remote region in the north-west. Mao was by then their dominant figure.
 
 ## The gardener
 

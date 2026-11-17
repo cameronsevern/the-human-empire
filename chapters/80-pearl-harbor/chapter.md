@@ -30,7 +30,7 @@ It did not feel that it was treated as one, however, and the slights began at th
 
 Other blows followed. Five years later the United States passed an immigration law that shut out Japanese immigrants almost entirely. In addition, a treaty on warships limited Japan's battle fleet to three fifths the size of Britain's or America's. Each of these was felt in Japan as an insult.
 
-There was also a weakness underneath the pride. The Japanese islands held about seventy million people. They had coal, and little else that an industrial economy runs on. Japan had little iron, no rubber, and hardly any oil. Nine tenths of its oil was imported, and most of that came from California. In other words, the warships that Japan was so proud of ran largely on American fuel.
+There was also a weakness underneath the pride. The Japanese islands held about seventy million people. They had coal, and little else that an industrial economy runs on. Japan had little iron, no rubber, and hardly any oil. Nine tenths of its oil was imported, and most of that came from California. The warships that Japan was so proud of ran largely on American fuel.
 
 It paid for these things by exporting, and its largest export by far was raw silk, which went to America to be made into stockings. Japan therefore depended on America twice over, as the seller of its fuel and as the buyer of its silk.
 
@@ -42,7 +42,7 @@ The officers looked at the other powers and saw what Japan lacked. Britain had a
 
 ## A length of railway track
 
-The place to get it was Manchuria, the cold north-eastern corner of China, which is larger than France and Germany together and rich in coal, iron and farmland. Japan had controlled its main railway since the war with Russia, and kept an army there to guard the line. The soldiers who wanted Manchuria, in other words, were already standing in it.
+The place to get it was Manchuria, the cold north-eastern corner of China, which is larger than France and Germany together and rich in coal, iron and farmland. Japan had controlled its main railway since the war with Russia, and kept an army there to guard the line. The soldiers who wanted Manchuria were already standing in it.
 
 The officers of that army did not wait to be asked. On the night of 18 September 1931, a lieutenant set off a small charge of explosive beside the track near the city of Mukden. It did so little damage that an express train passed over the spot a few minutes later. The explosion was not meant to destroy anything. It was meant to provide an excuse.
 
@@ -172,7 +172,7 @@ For six months it went exactly as Yamamoto had promised. On the same day as Pear
 ![Map of East Asia and the Pacific: Japan, Korea, Taiwan and Manchuria shaded red, occupied China and Indochina hatched, the Japanese mandate islands outlined in the ocean, oilfields marked by triangles in Sumatra and Borneo, an arrow from Hitokappu Bay across the northern Pacific to just north of Hawaii, and stars at Pearl Harbor, Malaya, the Philippines, Hong Kong, Guam and Wake](images/map_pacific_1941.png)
 *Japan's empire in December 1941, roughly, with the oilfields of Borneo and Sumatra, the route of the carrier fleet to Hawaii, and the places attacked on 7 and 8 December 1941. Map: drawn for this book; coastlines and rivers from Natural Earth, public domain.*
 
-The trouble lay in what the raid had missed. The American fleet had three aircraft carriers in the Pacific, and by chance none of them was in harbour that Sunday. The attack had itself just shown that carriers, and not battleships, would decide the war.
+The raid had missed the ships that mattered most. The American fleet had three aircraft carriers in the Pacific, and by chance none of them was in harbour that Sunday. The attack had itself just shown that carriers, and not battleships, would decide the war.
 
 The Japanese pilots had also left alone the fuel tanks beside the harbour, which held enough oil to keep the whole fleet at sea for months, and the dockyards. Because the dockyards survived, six of the eight battleships were repaired and sent back to fight.
 

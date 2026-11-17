@@ -8,7 +8,7 @@ On a December morning in 1915, a committee of British ministers met at the prime
 
 A map was spread on the table. One of the ministers asked Sykes what arrangement he had in mind with the French, who also had claims in the region. Sykes ran his finger across the map. He would like, he said, to draw a line from the "e" in Acre to the last "k" in Kirkuk. It was a neat answer, of the kind that suits a map on a table.
 
-Acre is a port on the coast of Palestine, and Kirkuk is a town in the hills of northern Iraq, nine hundred kilometres away. The line between them crossed deserts, rivers, and the lands of Arabs, Kurds, Christians and Jews, none of whom had been asked. In other words, one movement of a finger was meant to settle the future of several peoples who had no voice in the room. France would be the leading power north of the line, and Britain south of it.
+Acre is a port on the coast of Palestine, and Kirkuk is a town in the hills of northern Iraq, nine hundred kilometres away. The line between them crossed deserts, rivers, and the lands of Arabs, Kurds, Christians and Jews, none of whom had been asked. One movement of a finger was meant to settle the future of several peoples who had no voice in the room. France would be the leading power north of the line, and Britain south of it.
 
 Within five months a version of that line had been agreed in secret with a French diplomat. The speed is remarkable, because the empire being divided had not yet been defeated. In fact, it fought on for another two and a half years.
 
@@ -68,7 +68,7 @@ The sentence made two promises in one breath. It offered one people a home, and 
 ![A typed letter dated 2 November 1917 addressed to Lord Rothschild, with the declaration in an indented paragraph and Balfour's signature at the foot](images/balfour_letter.jpg)
 *The Balfour letter, 2 November 1917. Document: British government, public domain.*
 
-The letter gave a powerful backer to a young movement. The movement to which it was addressed, Zionism, was then twenty years old. It held, first, that the Jews were a nation. Second, centuries of persecution had shown that they would never be safe as a minority. It followed that they should rebuild a home of their own in the land where their history had begun.
+The letter gave a powerful backer to a young movement. The movement to which it was addressed, Zionism, was then twenty years old. It held that the Jews were a nation, and that after centuries of persecution they needed a home of their own in the land where their history had begun.
 
 Settlement had in fact begun before the movement took shape. Since the 1880s, Jews escaping the massacres in Russia had been settling in Palestine, buying land and founding farms and a new town on the coast.
 

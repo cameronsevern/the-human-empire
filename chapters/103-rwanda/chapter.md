@@ -36,7 +36,7 @@ The refugees' children grew up abroad, and some of them came back with guns. In 
 
 Not everyone around the president welcomed peace. A circle of powerful men around the president and his wife saw in that agreement the end of their own position. They had been preparing a different solution since the war began.
 
-The first part of it was fear. They put it about that the Tutsi inside the country were all agents of the invaders, who planned to make the Hutu their serfs once more. A newspaper had published ten commandments for Hutu, which declared that any Hutu who married a Tutsi woman or did business with a Tutsi was a traitor. In other words, ordinary friendship with a neighbour was recast as betrayal.
+The first part of it was fear. They put it about that the Tutsi inside the country were all agents of the invaders, who planned to make the Hutu their serfs once more. A newspaper had published ten commandments for Hutu, which declared that any Hutu who married a Tutsi woman or did business with a Tutsi was a traitor. Ordinary friendship with a neighbour was thus recast as betrayal.
 
 The second part was organisation. The ruling party's youth wing was turned into a militia called "those who attack together", thirty thousand strong, trained by the army.
 

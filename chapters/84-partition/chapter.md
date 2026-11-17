@@ -33,7 +33,7 @@ The reasoning was simple, and it frightened people. If the country was to be gov
 
 The British had met this problem in 1909 in a way that fixed it in place. When they widened the election of Indian members to the councils that advised the government, they gave Muslims a separate list of voters and seats reserved for them. A Muslim standing for one of those seats from then on needed only Muslim votes, and had no reason to ask a Hindu for anything. Religion had become the unit of politics.
 
-The Indian National Congress, the movement led by Gandhi and by his younger colleague Jawaharlal Nehru, insisted that it spoke for all Indians of every faith. It had many Muslim members. Its leaders, however, were mostly Hindus. Gandhi himself spoke the language of Hindu holiness, and to a Muslim listening from outside, the claim to speak for everyone could sound thin.
+The Indian National Congress, the movement led by Gandhi and by his younger colleague Jawaharlal Nehru, insisted that it spoke for all Indians of every faith. It had many Muslim members. Most of its leaders, though, were Hindus. Gandhi himself spoke the language of Hindu holiness, and to a Muslim listening from outside, the claim to speak for everyone could sound thin.
 
 The claim was put to the test in 1937, when the provinces held elections for their own governments. Congress came to govern eight of the eleven. In the largest province of the north, where it had the votes to rule alone, it refused to share office with the Muslim League, the main party of the Muslims. To many educated Muslims, however, those two years of Congress government looked like a rehearsal for the future: a majority that, once in power, kept the power to itself.
 
@@ -41,7 +41,7 @@ The claim was put to the test in 1937, when the provinces held elections for the
 
 The man who turned that unease into a demand was an unlikely leader of a religious cause.
 
-Muhammad Ali Jinnah was a lawyer from Bombay, tall and very thin, who wore suits made in London and a monocle. He drank whisky, rarely set foot in a mosque, and spoke English far better than Urdu, the language of Muslim poetry and politics in the north. Very little about him suggested a man of faith.
+Muhammad Ali Jinnah, the leader of the Muslim League, was tall and very thin, and wore suits made in London and a monocle. He drank whisky, rarely set foot in a mosque, and spoke English far better than Urdu, the language of Muslim poetry and politics in the north. Very little about him suggested a man of faith.
 
 Nor had he always stood apart from the Hindus. For the first half of his career he had been a member of Congress, and was called the ambassador of Hindu-Muslim unity. He had left when Gandhi turned the movement towards mass protest and religious imagery, which he thought dangerous.
 
@@ -86,7 +86,7 @@ The date itself was settled almost by accident. At a press conference the next d
 
 In those ten weeks a government that had taken two centuries to build was taken apart. Everything had to be shared out, down to the furniture. Committees divided the railway engines, the printing presses, the typewriters and the chairs, roughly four and a half to India for each one to Pakistan. The army was split regiment by regiment. Officials were asked which country they chose to serve. The contents of the treasury were shared out after an argument that nearly led to blows.
 
-Hardly any thought was given to the people. The plan assumed that the minorities would stay where they were, as hostages for one another's good treatment. Each country, in other words, was expected to protect its own minority because the other country held one too. A special force of soldiers was assembled to keep order along the new border in Punjab. It had, on a generous count, one man for every square mile.
+Hardly any thought was given to the people. The plan assumed that the minorities would stay where they were, as hostages for one another's good treatment. Each country was expected to protect its own minority because the other country held one too. A special force of soldiers was assembled to keep order along the new border in Punjab. It had, on a generous count, one man for every square mile.
 
 ## Trains
 
@@ -120,7 +120,7 @@ Gandhi had opposed partition to the end, and called it vivisection, the cutting 
 
 The city stayed calm through independence. Mountbatten wrote to him that in Punjab he had fifty-five thousand soldiers and large-scale rioting, and in Bengal he had one man and peace.
 
-The calm did not hold for long. When the violence began again, at the start of September, Gandhi announced that he would eat nothing until it stopped. He was seventy-seven. The threat was plain: if the killing went on, the old man would die, and the killers would carry the blame. On the fourth day the leaders of the gangs came to his bedside and laid their weapons on the floor. Bengal stayed quiet.
+The calm did not hold for long. When the violence began again, at the start of September, Gandhi announced that he would eat nothing until it stopped. The threat was plain: if the killing went on, the old man would die, and the killers would carry the blame. On the fourth day the leaders of the gangs came to his bedside and laid their weapons on the floor. Bengal stayed quiet.
 
 In January 1948 Gandhi fasted again, in Delhi. He demanded that the city's Muslims be left in safety, and that the Indian government hand over Pakistan's share of the treasury, which it had been holding back. The government gave way.
 
@@ -163,7 +163,7 @@ The first quarrel was over language. The people of the east spoke Bengali, a lan
 
 The second quarrel was over money. For twenty years the east supplied most of the country's export earnings and received the smaller share of its spending.
 
-In the end the grievance reached the ballot box. In 1970, in Pakistan's first free national election, a Bengali party won an outright majority in parliament. By the rules of any democracy, it should have formed the government. Pakistan, however, was not run by its parliament. The army had ruled Pakistan since 1958, and the generals, all from the west, refused to let it take office.
+In the end the grievance reached the ballot box. In 1970, in Pakistan's first free national election, a Bengali party won an outright majority in parliament. By the rules of any democracy, it should have formed the government. Pakistan was not run by its parliament. The army had ruled Pakistan since 1958, and the generals, all from the west, refused to let it take office.
 
 Instead, they used force. In March 1971 the army moved into Dhaka and began killing students, professors, and Hindus. Over nine months at least three hundred thousand people were killed, and by Bangladesh's count three million. Ten million people fled across the border into India.
 

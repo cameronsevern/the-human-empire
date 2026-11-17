@@ -23,7 +23,7 @@ The order never reached the torpedo room. The next day B-59, her batteries full,
 
 That a single tired officer could come so close to starting a nuclear war was the result of a long chain of decisions. The crisis had grown out of a machine that both sides had learned to build in the fifteen years since the war.
 
-In 1944 German engineers had fired the first long-range rockets at London. A rocket carries its own fuel and the oxygen to burn it, so it does not need air, and so it can climb out of the atmosphere, coast through space and fall on its target faster than sound. Nothing could intercept it. After the war the Americans and the Soviets each carried off as many of the German engineers as they could find. By 1957 the Soviet Union had a rocket that could throw a hydrogen bomb from one continent to another.
+In 1944 German engineers had fired the first long-range rockets at London. Such a rocket climbs out of the atmosphere, coasts through space and falls on its target faster than sound, and nothing could intercept it. After the war the Americans and the Soviets each carried off as many of the German engineers as they could find. By 1957 the Soviet Union had a rocket that could throw a hydrogen bomb from one continent to another.
 
 That changed the arithmetic of survival, and the change came down to time. A bomber took eight or ten hours to reach its target and could be called back. A missile took thirty minutes and could not. Consider what that left a leader who believed that he was being attacked. He would have a quarter of an hour in which to decide whether to fire his own missiles before they were destroyed on the ground. A mistake could no longer be undone.
 
@@ -49,7 +49,7 @@ The cost came later, and it was paid by Guatemalans. Generals ruled Guatemala fo
 ![Jacobo Árbenz in a dark military uniform with a presidential sash, smiling, in a crowd of officials and onlookers](images/arbenz.jpg)
 *Jacobo Árbenz, president of Guatemala, in 1951. Photo: Government of Guatemala, public domain.*
 
-One witness took a lesson from the coup that would matter in Cuba. A young Argentine doctor who was living in Guatemala that summer watched it happen. His name was Ernesto Guevara, and his friends called him Che. He drew two conclusions. The first was that the United States would not tolerate real reform anywhere in its neighbourhood. The second followed from what he had seen of the generals: a revolution that left the old army in place was finished.
+A young Argentine doctor who was living in Guatemala that summer watched the coup happen. His name was Ernesto Guevara, and his friends called him Che. He drew two conclusions. The first was that the United States would not tolerate real reform anywhere in its neighbourhood. The second followed from what he had seen of the generals: a revolution that left the old army in place was finished.
 
 ## Eighty-two men in a boat
 
@@ -81,7 +81,7 @@ Each of his worries had an answer in that one move. First, it would protect the 
 
 Everything depended on surprise. It was to be done in secret and announced when the missiles were ready, so that the Americans would face a finished fact. Through the summer, eighty-five ships carried forty-two thousand Soviet soldiers and technicians to Cuba. The men travelled below decks in the tropical heat and were allowed up only at night. The deception went further still. They had been issued with skis and winter clothing, so that spies in the ports would think that they were bound for the Arctic.
 
-With them went three dozen missiles that could reach Washington, and their warheads. They were not the only nuclear weapons sent. The commanders were also given about a hundred smaller nuclear weapons, for use on the battlefield against an invasion. The Americans never suspected those, and that blind spot would matter more than anyone in Washington knew.
+With them went three dozen missiles that could reach Washington, and their warheads. They were not the only nuclear weapons sent. The commanders were also given about a hundred smaller nuclear weapons, for use on the battlefield against an invasion. The Americans never suspected those.
 
 ## Photographs
 

@@ -32,7 +32,7 @@ That left the question of where the state should be. Herzl was willing to consid
 
 The land of those prayers, however, was not empty. It was then a quiet corner of the Turkish empire known as Palestine, with about half a million inhabitants. Nineteen in twenty of them were Arabs.
 
-The movement set about building a society there before it had a state. The first need was land. A fund bought land, often from landlords who lived in Beirut or Damascus, and the Arab tenants who had farmed it were made to leave. Where the sellers lived far away, the cost fell on the people in the fields.
+The movement set about building a society there before it had a state. The first need was land. A fund bought it, and the Arab tenants who had farmed it were made to leave.
 
 Alongside the land came people to work it. Young immigrants from Russia founded farms that they owned in common. There were towns, too. In 1909 sixty families drew lots for plots on the sand dunes north of Jaffa and began the first modern Jewish city.
 

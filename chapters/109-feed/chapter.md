@@ -21,7 +21,7 @@ On 25 August 2017, after attacks on police posts by a small Rohingya armed group
 
 ## Old lies
 
-None of the hatred was new, and neither was the use of a new medium to spread it. New ways of reaching many people have again and again been used to turn them against a neighbour. The printing press, within decades of its invention, was turning out pamphlets accusing Jews of murdering children. The most successful forgery of modern times, the supposed minutes of a Jewish plot to rule the world, was proved a fake in 1921 and went on being printed by the million. Exposing a lie, in other words, did not stop it spreading. In Rwanda in 1994 a popular radio station read out the names of people to be killed.
+None of the hatred was new, and neither was the use of a new medium to spread it. New ways of reaching many people have again and again been used to turn them against a neighbour. The printing press, within decades of its invention, was turning out pamphlets accusing Jews of murdering children. The forged Protocols of a Jewish plot to rule the world went on being printed by the million after they were exposed in 1921. In Rwanda in 1994 a popular radio station read out the names of people to be killed.
 
 ![Paper cover of a pamphlet titled The Jewish Peril, Protocols of the Learned Elders of Zion, London, 1920](images/protocols.jpg)
 *The cover of the first British edition of the Protocols, published in London in 1920. The text was a forgery, proved so in 1921. Photo: public domain.*
@@ -66,11 +66,11 @@ The design of the screen does the rest. The feed has no bottom, so there is neve
 
 ## Seventy per cent
 
-Video works the same way. The same principle chooses the next film. On the largest video service, five hundred hours of new material are uploaded every minute, and the company has said that seven tenths of what people watch there is chosen for them by its recommendation system. Most of what its viewers watch, in other words, is picked for them rather than by them. A newer service, owned by a Chinese company, shows films a few seconds long, one after another, and learns chiefly from how long the viewer lingers on each. The viewer does not even need to press a button; a pause is enough to teach it something. Within two hours it has worked out a new user's tastes.
+Video works the same way. The same principle chooses the next film. On the largest video service, five hundred hours of new material are uploaded every minute, and the company has said that seven tenths of what people watch there is chosen for them by its recommendation system. A newer service, owned by a Chinese company, shows films a few seconds long, one after another, and learns chiefly from how long the viewer lingers on each. The viewer does not even need to press a button; a pause is enough to teach it something. Within two hours it has worked out a new user's tastes.
 
 ## Squares
 
-At first all this looked like a gift to freedom. A medium with no editors and no licences seemed to belong to the people rather than to their rulers. In 2010 an Egyptian who worked for an American internet company set up an anonymous page in memory of a young man who had been beaten to death by the police in Alexandria. Hundreds of thousands joined it. People who were angry could now see how many others felt the same. In January 2011 the page named a date and a square, and the protest that it called brought down a president who had ruled for thirty years.
+At first all this looked like a gift to freedom. A medium with no editors and no licences seemed to belong to the people rather than to their rulers. In 2010 an Egyptian who worked for an American internet company set up an anonymous page in memory of a young man who had been beaten to death by the police in Alexandria. Hundreds of thousands joined it. People who were angry could now see how many others felt the same. In January 2011 the page named a date and a square, and the protest that it called filled the central square of Cairo and brought down the president.
 
 ![Young Egyptian men sitting on the ground around a tangle of cables, charging mobile telephones](images/tahrir.jpg)
 *Protesters charging their mobile telephones from a shared bundle of cables in Tahrir Square, Cairo, on 10 February 2011. Photo: Alisdare Hickson, CC BY-SA 2.0.*
@@ -86,17 +86,15 @@ In 2016 it was the turn of the country where the networks had been invented. The
 
 Then came a second alarm, about data rather than posts. Two years later it came out that a political consultancy had obtained the personal details of eighty-seven million users of that network, through a personality quiz, in order to target voters. Facebook paid a penalty of five billion dollars for its carelessness with its users' data.
 
-What effect any of this had is much less certain than the alarm suggested.
+The Russian posts, however, were a tiny fraction of what Americans saw that year, and they did less than the alarm suggested. A study of those on Twitter found that most of them reached people who were already strongly partisan, and found no sign that they changed anyone's vote.
 
-The Russian posts were a tiny fraction of what Americans saw that year. A study of those on Twitter found that most of them reached people who were already strongly partisan, and found no sign that they changed anyone's vote.
-
-The wider charge, that social media have divided Americans, is also weaker than it looks. Americans have grown more hostile to those on the other political side, and the change has been greatest among the old, who use social media least. If the networks were the main cause, the young should have changed most.
+Nor do the networks explain the wider bitterness between Americans. Americans have grown more hostile to those on the other political side, and the change has been greatest among the old, who use social media least. If the networks were the main cause, the young should have changed most.
 
 The most direct test was run with the company's own help. In 2020 the largest company allowed outside scientists to alter the feeds of tens of thousands of volunteers for three months. Removing the ranking system changed what they saw. It did not measurably change what they believed. The feed decides what people see, but what they believe seems to depend on much else besides.
 
-Other harms are better established. In India in 2017 and 2018, rumours about gangs of child kidnappers, passed from group to group on a messaging application, led village mobs to beat more than two dozen strangers to death.
+Elsewhere the harm was plain. In India in 2017 and 2018, rumours about gangs of child kidnappers, passed from group to group on a messaging application, led village mobs to beat more than two dozen strangers to death.
 
-Other harms are less visible. The company's own research on its photograph-sharing service, which it did not publish, found that about one teenage girl in three who already felt bad about her body said that it made her feel worse. Rates of depression and self-harm among girls in several rich countries began to rise around 2012, when most of them acquired a smartphone, and psychologists are still arguing over how much of that is cause and how much coincidence.
+Some of the damage was quieter. The company's own research on its photograph-sharing service, which it did not publish, found that about one teenage girl in three who already felt bad about her body said that it made her feel worse. Rates of depression and self-harm among girls in several rich countries began to rise around 2012, when most of them acquired a smartphone, and psychologists are still arguing over how much of that is cause and how much coincidence.
 
 ## Fifteen thousand
 

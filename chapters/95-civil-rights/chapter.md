@@ -79,7 +79,7 @@ In the end the decisive blow came from a courtroom. While the boycott went on, f
 
 Montgomery had shown a method, and its leaders knew exactly where it came from. King had read Gandhi as a student, and in 1959 he travelled to India to meet the people who had worked with him.
 
-The principle was the same in both countries. Break an unjust law openly. Accept the punishment without striking back. The opponent's violence then becomes the whole story, in front of an audience that he needs. The method, in other words, turns the opponent's strength against him.
+The principle was Gandhi's, unchanged, and it worked through what the opponent did next. When marchers who would not strike back were beaten, the beating became the whole story, in front of an audience that the opponent needed.
 
 None of this came naturally. It had to be learned. In the city of Nashville, a young Black minister who had spent three years in India ran evening workshops in a church basement.
 

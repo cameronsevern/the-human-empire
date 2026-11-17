@@ -29,7 +29,7 @@ The twentieth century was harder. Ukraine declared independence in the chaos tha
 
 In 1954 the Soviet leadership moved the Crimean peninsula, on the Black Sea, from the Russian republic to the Ukrainian one, which at the time seemed a matter of paperwork, since both were part of the same state.
 
-When that state fell apart in 1991, Ukrainians were asked whether they wanted a country of their own. More than nine in ten said yes. So did a majority in every region, including the Crimea and the coal-mining east, where most people spoke Russian at home. Speaking Russian, in other words, did not mean wanting to belong to Russia.
+When that state fell apart in 1991, Ukrainians voted for a country of their own by nine to one, with majorities even in the Crimea and the Russian-speaking east. Speaking Russian did not mean wanting to belong to Russia.
 
 ## Paper
 
