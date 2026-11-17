@@ -36,9 +36,9 @@ Their own stories remembered how it had once worked. In one old poem, the city o
 
 That is a strange sort of king by later standards. He has to ask, and he has to shop around for agreement. The poem was written down long after the events it describes, but it preserves a time when a big man led because the city had agreed to follow him.
 
-Why did such leaders not simply stand down when the fighting was over? There are two reasons, and neither requires anyone to have been especially wicked.
+Why did such leaders not simply stand down when the fighting was over? Nobody had to be especially wicked for them to stay.
 
-The first is that the fighting was never over. With a dozen rival cities crowded onto one plain, one war was hardly finished before the next was brewing. A commander who is needed every other summer soon becomes a commander who is needed all the time.
+For one thing, the fighting was never over. With a dozen rival cities crowded onto one plain, one war was hardly finished before the next was brewing. A commander who is needed every other summer soon becomes a commander who is needed all the time.
 
 The second reason is the storehouse. Fighting men have to be fed, and in war the commander was the one who fed them. He therefore had his hands on the grain. He also had a band of armed followers who ate at his table and owed everything to him. When peace came, he still had both. It would have taken a remarkable man to give them back.
 
@@ -166,7 +166,7 @@ The first kings of Egypt, more than four centuries before the pyramid, were buri
 ![A view from the air of desert with the outlines of square tombs, each surrounded by rows of small pits](images/abydos-umm-el-qaab-map.jpg)
 *The tombs of the first kings of Egypt from the air. The rows of small squares around each tomb are the graves of the people buried with the king. CC0.*
 
-It appears, in other words, in one place after another where kings were new. A ruler who can do this is showing, in the most direct way possible, that the old limits no longer apply to him. The band had held that no man was worth more than another. Here was a man worth five hundred.
+It appears in one place after another where kings were new. A ruler who can do this is showing, in the most direct way possible, that the old limits no longer apply to him. The band had held that no man was worth more than another. Here was a man worth five hundred.
 
 Then, in both Egypt and Iraq, the practice stopped. It lasted only a few generations. Later kings of Egypt went to their graves with painted pictures of their servants on the walls, and with little carved figures to do their work in the next world.
 
@@ -181,5 +181,3 @@ Every city now had its king, and every king had his god, his guard and his block
 The beaten city still had its own god, its own storehouse and its own leading families. Its people had no reason to think that a foreign king had any right to rule them, since his god was not theirs. As soon as his army marched home, they chose a new king of their own and shut the gates.
 
 Egypt had escaped that problem through an accident of its river. On the plain, nobody had yet solved it. To rule the whole plain, a king would need something that nobody there had yet built: a way of being obeyed in places where he was not standing.
-
-About four thousand three hundred years ago, in the city of Kish, a man who served as the king's cupbearer was preparing to try.

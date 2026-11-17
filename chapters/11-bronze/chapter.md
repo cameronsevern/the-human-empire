@@ -2,7 +2,7 @@
 
 *The eastern Mediterranean, from about 3,900 years ago to about 3,100 years ago*
 
-Because its kingdoms had come to depend on each other for almost everything that made them strong, and when trouble struck several of them at once, they went down together.
+Its kingdoms had come to depend on each other for almost everything that made them strong. When trouble struck several of them at once, they went down together.
 
 In the summer of 1982, a young man diving for sponges off the south coast of Turkey came up and told his captain that he had seen something odd on the seabed. There were metal objects lying in rows, he said, and they looked like biscuits with ears.
 
@@ -34,7 +34,7 @@ The trouble with bronze lies in the second ingredient. Copper ore is found in ma
 
 Some was mined in the mountains of southern Turkey. The other sources lay very far away: in the mountains of Central Asia to the east, or at the Atlantic end of Europe to the west. Chemists have tested the tin from the wreck to find where it was mined. One team traced about a third of it to mines in Central Asia, in what are now Uzbekistan and Tajikistan, more than three thousand kilometres from the place where the ship went down.
 
-In other words, the kingdoms that used the most bronze had little or no tin of their own. Every bronze blade in Egypt or Greece contained metal that had crossed mountains and deserts, and had passed through the hands of many strangers on the way.
+As a result, the kingdoms that used the most bronze had to bring in nearly all their tin. Every bronze blade in Egypt or Greece contained metal that had crossed mountains and deserts, and had passed through the hands of many strangers on the way.
 
 ## The donkeys of Ashur
 

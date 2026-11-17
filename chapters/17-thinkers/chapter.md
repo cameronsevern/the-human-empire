@@ -2,7 +2,7 @@
 
 *China, the north of India and Greece, from about 2,600 years ago to about 2,300 years ago*
 
-Because in three parts of the world at once, the land was divided among many small states at war with each other, and a world like that has work for people who argue. Rulers needed advice, a thinker who was turned away by one ruler could walk to the next, and new ways of keeping words let the arguments outlive the people who made them.
+In three parts of the world at once, the land was divided among many small states at war with each other, and a world like that has work for people who argue.
 
 In 1993, robbers twice dug into an old tomb beside the village of Guodian, in the middle of China. They broke through to the coffin, took what they could sell and left. Archaeologists from the local museum then went in to rescue what remained. In the mud at the bottom of the tomb, they found about eight hundred thin strips of bamboo.
 
@@ -64,8 +64,6 @@ Their book tells how Mozi heard that the great southern state of Chu had built n
 The opposite answer came from a man named Shang Yang. A little under 2,400 years ago he travelled west to Qin, a rough frontier state whose ruler had announced that he would reward able men from any country, and he became its chief minister.
 
 Shang Yang did not think that people could be made good, or that it mattered. People want gain and fear pain, and a ruler has only to arrange rewards and punishments so that whatever is useful to the state is also profitable to the man who does it.
-
-He made neighbours answerable for one another's crimes. Rank had come from a man's family. Now a soldier who brought back the head of an enemy was raised one step in rank, with land to go with it, and the laws applied to nobles as they did to farmers.
 
 Qin grew strong on these methods. They made Shang Yang many enemies at court, and in the end they cost him his life. Qin kept his laws all the same.
 

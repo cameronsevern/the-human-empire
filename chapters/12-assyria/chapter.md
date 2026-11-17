@@ -95,7 +95,7 @@ Inside the wall, directly opposite, the archaeologists found something that the 
 
 The Assyrians won the race. The whole city was burned, and its houses lie under a thick layer of ash and fallen brick, with the storage jars smashed on the floors.
 
-In other words, where the ground at Lachish can be checked against the carving in the palace, the two agree. There was a ramp, there was a storm of arrows, and the city burned. The king wanted the scene believed, and the surest way to be believed was to show what had happened.
+Wherever the ground at Lachish can be checked against the carving in the palace, the two agree. There was a ramp, there was a storm of arrows, and the city burned. The king wanted the scene believed, and the surest way to be believed was to show what had happened.
 
 Sennacherib's written account of the campaign has also survived, on prisms of baked clay. He says that he took forty-six of Hezekiah's walled towns and counted more than two hundred thousand people as plunder, a figure that is far too large for so small a country. As for Hezekiah himself, "like a bird in a cage" the king shut him up in Jerusalem.
 
@@ -108,9 +108,9 @@ The cage, however, was never opened. Jerusalem did not fall. Hezekiah handed ove
 
 A siege like that was a bad bargain for the attacker. An army of tens of thousands had to sit in one place for weeks, eating, while men carried three million stones under fire. An empire could not afford to do that at every town.
 
-What it could afford was to do it at one town and make sure that the others drew the right conclusion. On that single march, Sennacherib dealt with three kinds of city in three different ways.
+What it could afford was to do it at one town and make sure that the others drew the right conclusion.
 
-First came the cities that gave in. As the army came down the coast, eight kings hurried to meet it with gifts and, in Sennacherib's words, kissed his feet. All eight kept their thrones. Their submission had cost them a year's tribute and some pride.
+First, on that single march, came the cities that gave in. As the army came down the coast, eight kings hurried to meet it with gifts and, in Sennacherib's words, kissed his feet. All eight kept their thrones. Their submission had cost them a year's tribute and some pride.
 
 Second came the cities that fought and lost, such as Lachish. Their leaders were killed in public and their people were marched away.
 
@@ -146,7 +146,7 @@ The exchange solved several problems at once. A rebellious people lost its leade
 
 The Israelites who were moved can be followed for a few generations in Assyrian records, as chariot drivers, officials and farmers with Israelite names. After that they can no longer be told apart from the peoples around them.
 
-Deportation also changed the empire itself. With so many peoples stirred together, they needed a common language, and it was not Assyrian. It was Aramaic, the speech of Syria. Aramaic was written with ink in an alphabet of twenty-two letters, a close cousin of the simple script of the Lebanese traders, instead of being pressed into clay in hundreds of signs. In the later palace carvings, the clerks who count the plunder stand in pairs. One holds a clay tablet, and the other holds a scroll and a pen.
+Deportation also changed the empire itself. With so many peoples stirred together, they needed a common language, and it was not Assyrian. It was Aramaic, the speech of Syria. Aramaic was written with ink in a simple alphabet, instead of being pressed into clay in hundreds of signs. In the later palace carvings, the clerks who count the plunder stand in pairs. One holds a clay tablet, and the other holds a scroll and a pen.
 
 ## The king's road
 

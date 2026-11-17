@@ -173,7 +173,7 @@ Bad years came to every farmer sooner or later. When a crop failed, he could bor
 
 What could happen next was set down on the tablets as well. A man who could not pay might pledge his field. After that he might send his children to work in the lender's house, and finally go himself. In this way, a farmer could lose his land and his family without ever meeting a soldier. The counting did it.
 
-We know how this felt, because one ruler had it written down. About four thousand three hundred and fifty years ago, the city of Lagash, some way east of Uruk, got a new ruler. He had an account of the state of the city set out on clay, and it is one of the oldest complaints about taxes that survive.
+We know how this felt, because one ruler had it written down. About four thousand four hundred years ago, the city of Lagash, some way east of Uruk, got a new ruler. He had an account of the state of the city set out on clay, and it is one of the oldest complaints about taxes that survive.
 
 It reads like a list of grievances from any age. The inspector of boats, it says, had seized the boats, and the inspector of cattle had seized the cattle. Even the dead were not left alone. When a dead man was carried to the graveyard, officials were waiting to take seven jars of beer and four hundred and twenty loaves of bread. From one end of the land to the other, it says, there was the tax collector.
 
@@ -186,4 +186,4 @@ His reforms did not have long to work. He ruled for about ten years. Then the ar
 
 That army is a sign of how far things had moved. By that time, more than a dozen cities stood on the plain, each with its god, its wall and its storehouse. They quarrelled over fields and over water, and their quarrels were now fought by armies. The reason is simple. A storehouse that could feed weavers and brickmakers could just as easily feed spearmen, for as long as a campaign lasted.
 
-The gods' households had learned how to gather the work of ten thousand families into one place and write it down. What remained to be settled was who would command the men that all that barley could feed.
+The gods' households had learned how to gather the work of ten thousand families into one place and write it down. Now the barley that fed the spearmen was measured out by the same clerks, in the same columns, as the barley that fed the weavers.

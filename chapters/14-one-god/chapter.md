@@ -160,14 +160,14 @@ The result was something new. The laws of Hammurabi stood on a black stone in a 
 
 About 2,565 years ago, Babylon fell in its turn, when the troops of Cyrus the Persian entered the city without a fight.
 
-The priests of Babylon explained the event in the familiar way, on the clay barrel that they composed for their new king. Marduk, it says, had grown angry with the last king of Babylon, had searched through all the lands for a just ruler, and had taken Cyrus by the hand. On the same barrel, Cyrus says that he sent the statues of the gods back to their old shrines, and gathered their peoples and returned them to their homes.
+The priests of Babylon explained the event in the familiar way. On the clay cylinder that they composed for their new king, Marduk chose Cyrus and took him by the hand, and Cyrus sent the gods and their peoples home.
 
 ![A barrel of pale baked clay covered with fine lines of wedge-shaped writing](images/cyrus_cylinder.jpg)
-*The clay barrel of Cyrus, in the British Museum. Photo: Prioryman, CC BY-SA 3.0.*
+*The clay cylinder of Cyrus, in the British Museum. Photo: Prioryman, CC BY-SA 3.0.*
 
 The exiles from Judah explained the same event in almost the same way, with a different god. Their nameless prophet has Yahweh take Cyrus by the right hand, and calls the Persian king Yahweh's "anointed", the title of Judah's own kings. Two peoples watched one conqueror arrive, and each was sure that its own god had sent him. The priests of Marduk went on honouring a whole heaven of other gods. The prophet allowed for none.
 
-The clay barrel does not mention Judah. However, the Bible's Book of Ezra reports a decree of Cyrus in the same spirit, which allowed the exiles to go home and rebuild their temple.
+The clay cylinder does not mention Judah. However, the Bible's Book of Ezra reports a decree of Cyrus in the same spirit, which allowed the exiles to go home and rebuild their temple.
 
 Some went. They found Jerusalem in ruins and Judah a small, poor province of the Persian empire, ruled by a governor. A new and modest temple was finished about 2,540 years ago. When its foundation was laid, the Book of Ezra says, the old people who remembered the first temple wept aloud, while the young shouted for joy, and nobody could tell the one sound from the other.
 

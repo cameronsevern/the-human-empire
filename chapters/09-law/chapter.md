@@ -127,7 +127,7 @@ The gods, he says, called him by name to make justice appear in the land, to des
 
 He also speaks to the kings who will come after him. If they keep to his judgements, the sun god will lengthen their reigns. If one of them should change his words, or rub out his name and write another, there follows a curse that fills several columns.
 
-In other words, the stone is a monument. It was set up in a temple, under the eye of the god of justice, to tell the gods, the conquered cities and the future that this king was just. A king who had burned the palace of his old ally had good reason to want that said.
+So the stone is a monument. It was set up in a temple, under the eye of the god of justice, to tell the gods, the conquered cities and the future that this king was just. A king who had burned the palace of his old ally had good reason to want that said.
 
 It would be wrong, even so, to call it empty. Hammurabi's letters survive as well, about two hundred of them, sent to his governors in the cities he had taken. They show a man who really did sit in judgement. He orders a field given back to a soldier who had been pushed off it. He hears that officials have taken a bribe and sends for the men, the witnesses and the silver. He tells a governor to look up the records and settle who owns a piece of land. The king on the stone and the king in the letters are the same person.
 

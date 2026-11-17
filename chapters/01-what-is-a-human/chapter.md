@@ -102,7 +102,7 @@ The saving shows in our bodies. Our teeth, jaws and guts have all shrunk to fit 
 
 Fire was also the first fuel that any animal put to work. Every engine and power station that burns something has done the same thing with more of it.
 
-Finally, fire made a place. After dark there was nowhere safe to be except beside the fire, and nothing to do there but sit together. Among the Ju/'hoansi of the Kalahari, who lived by foraging into recent times, talk in the daytime is mostly practical: who owes what, where the food is, who is annoying whom. At night around the fire it turns to stories.
+Finally, fire made a place. After dark there was nowhere safe to be except beside the fire, and nothing to do there but sit together. The Ju/'hoansi of the Kalahari, one of the peoples usually called San, lived by foraging into recent times. Among them, talk in the daytime is mostly practical: who owes what, where the food is, who is annoying whom. At night around the fire it turns to stories.
 
 ## Talk
 
@@ -121,7 +121,7 @@ First, it made teaching cheap. Showing someone how to strike a flake takes patie
 
 Second, it let people share what only one of them had seen. A man could come back to camp and say that the waterhole to the north was dry, or that there were strangers two days' walk away. The whole band then knew what one pair of eyes had learned.
 
-Third, it let people talk about each other, and this may matter most of all. Listen in on any conversation, in a café or a village or a camp in the Kalahari, and most of it is about other people: who did what, who said what, who can be relied on and who cannot.
+Third, it let people talk about each other, and this may matter most of all. Listen in on any conversation, in a café or a village or a hunters' camp, and most of it is about other people: who did what, who said what, who can be relied on and who cannot.
 
 We call it gossip and pretend to look down on it. Yet in a group whose members depend on each other for food, knowing who shares and who cheats is a matter of life and death. Gossip is how a band keeps track of everyone's character, and how it punishes a cheat without ever raising a hand. It only needs everybody to know.
 
@@ -185,7 +185,7 @@ The men, meanwhile, go looking for meat, and most days they come back with nothi
 
 So when a hunter does kill, the meat is not his. It is cut up and handed round the whole camp, to his in-laws, to the family of the man who failed today, to the old woman who cannot walk far. He gains nothing by keeping it. It would rot in days, and next month he will be the one with empty hands. In a camp that cannot keep meat, a full belly in your neighbour is the only larder there is.
 
-Sharing like this does not come free of friction. People watch who gives and who holds back, and they talk about it. Among the Ju/'hoansi of the Kalahari, a man who brings in a big kill is expected to say it is nothing much, and the others agree loudly that it is a bag of bones and hardly worth the walk. They are not being ungrateful. Instead, they are making sure he does not start to think he is better than them.
+Sharing like this does not come free of friction. People watch who gives and who holds back, and they talk about it. Among the Ju/'hoansi, a man who brings in a big kill is expected to say it is nothing much, and the others agree loudly that it is a bag of bones and hardly worth the walk. They are not being ungrateful. Instead, they are making sure he does not start to think he is better than them.
 
 There is no chief. Older and wiser people are listened to, but nobody can give an order and expect it to be obeyed. A man who tries to push others around is laughed at. If he keeps it up, people pack and leave him. If he is dangerous, the others may quietly agree that he has to be killed.
 

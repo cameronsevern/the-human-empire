@@ -120,9 +120,7 @@ The clearest witness to its end is a list of kings that the clerks of the plain 
 ![A four-sided block of baked clay covered in columns of small writing](images/sumerian-king-list-prism.jpg)
 *A copy of the list of kings, written on a clay block about four hundred years after the fall of Akkad. It is in the Ashmolean Museum. Photo: M.atkinsonross, CC BY-SA 4.0.*
 
-Several things had gone wrong together.
-
-The first was the old problem of revolt. The cities had never accepted Akkad, and three generations of bloodshed had not changed their minds. Every one of them was still waiting.
+The first trouble was the old problem of revolt. The cities had never accepted Akkad, and three generations of bloodshed had not changed their minds. Every one of them was still waiting.
 
 The second was pressure from outside. In the mountains to the east lived a people whom the plain-dwellers called the Gutians. They had long raided the lowlands when they could. As the empire weakened, their raids turned into invasion, and in the end Gutian chiefs were ruling parts of the plain themselves.
 

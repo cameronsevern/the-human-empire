@@ -44,7 +44,7 @@ At first it was possible to hope that Gombe was a freak. It was not. Almost ever
 
 One case shows what they gain by it. In a forest in Uganda, the males of one very large community killed at least eighteen of their neighbours over ten years. They then moved into the dead animals' land, which made their own territory a fifth larger. More land meant more fruit. In the years that followed, the females there had more than twice as many babies as before, and far fewer of the babies died.
 
-In other words, for a chimpanzee, killing the neighbours pays, so long as it can be done cheaply. An animal that does it leaves more descendants than one that does not.
+For a chimpanzee, then, killing the neighbours pays, so long as it can be done cheaply. An animal that does it leaves more descendants than one that does not.
 
 This matters to us because of who the chimpanzees are. They are one of our two closest living relatives, and the raid is as natural to them as cracking nuts. So organised killing between groups was not invented by kings or farmers. It does not need a government, or a field, or even a human being.
 
@@ -71,7 +71,7 @@ The second invention was language. Chimpanzees do sometimes gang up on a leader,
 
 Put the two together, and a bully is in serious danger. Hunting bands used that power. They had no chief, and they meant to keep it that way. A man who tried to make himself one was first mocked, and then shunned. If he was violent and would not stop, he was killed.
 
-This is not guesswork. It happened among the Ju/'hoansi of the Kalahari within living memory. A man in one group had killed three people, and nobody could stop him. So the others ambushed him in broad daylight and shot him with poisoned arrows.
+This is not guesswork. It happened among the Ju/'hoansi within living memory. A man in one group had killed three people, and nobody could stop him. So the others ambushed him in broad daylight and shot him with poisoned arrows.
 
 As he lay dying, all the men fired more arrows into him until, in the words of one of them, he looked like a porcupine. Then, when he was dead, the women came up as well, and everybody stabbed the body with spears. No single person had killed him. The whole camp had.
 
@@ -127,7 +127,7 @@ Even the gentlest of them were not gentle by our standards. The Ju/'hoansi were 
 
 ## Room to walk away
 
-All of this makes the hunting life sound like one long bloodbath, and it was not. Something held the violence within limits. A band of hunters might lose a man now and then. However, it was seldom wiped out, and what happened at the lagoon in Kenya was rare. Four things kept war small.
+All of this makes the hunting life sound like one long bloodbath, and it was not. Something held the violence within limits. A band of hunters might lose a man now and then. However, it was seldom wiped out, and what happened at the lagoon in Kenya was rare.
 
 To begin with, there was little to steal. A raiding party that overran a hunters' camp won a few spears, some skins and whatever meat was on the fire. Nobody owned a herd or a storehouse. Killing was dangerous work even when it was done at dawn, and it brought the winners almost nothing they could eat. So there was seldom much reason to try.
 

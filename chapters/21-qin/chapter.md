@@ -31,7 +31,7 @@ The writing on them is the direct ancestor of the Chinese script of today. Each 
 
 A little over 3,000 years ago the Shang were overthrown by the Zhou, a people from the west. The Zhou kings explained their victory with an idea that the rulers of China went on using for three thousand years. Heaven, they said, gives the right to rule to a family that rules well, and takes it away from a family that rules badly.
 
-These were the kings who had handed out their conquests to brothers, cousins and allies, and whose lords, by the time of Confucius, had become strangers with armies. The Zhou king lived on in a small territory of his own, honoured by everybody and obeyed by nobody, while the lords swallowed each other. By about 2,400 years ago, what had once been well over a hundred states were seven large ones. One after another, the rulers of the seven dropped the pretence and called themselves kings.
+These were the kings who had handed out their conquests to brothers, cousins and allies, and whose lords, by the time of Confucius, had become strangers with armies. The Zhou king lived on in a small territory of his own, honoured by everybody and obeyed by nobody, while the lords swallowed each other. By about 2,400 years ago only seven large states were left, and one after another the rulers of the seven dropped the pretence and called themselves kings.
 
 ![A map of eastern China divided into seven shaded kingdoms named Qin, Zhao, Yan, Qi, Wei, Han and Chu, with the Qin capital Xianyang, the First Emperor's tomb and the Zhou king marked](images/map_seven_kingdoms.png)
 *The seven kingdoms about 2,285 years ago, with Qin in the west. The borders are rough. Map: drawn for this book; coastlines and rivers from Natural Earth, public domain.*
@@ -91,7 +91,7 @@ He began with the measures. Bronze scoops and bronze weights were sent out from 
 
 For a farming family, this was the point at which the empire arrived at the door. The grain tax was measured out with the scoop. So were the rations handed to a man doing his labour service. Because the measure was the same everywhere, the accounts of one county could be checked against the accounts of the next, and an official whose scoop was too large or too small could be caught.
 
-Money was treated in the same way. The bronze knives and spades of the old kingdoms were now replaced by a single round coin with a square hole in the middle, marked with its weight. It was the shape that Chinese coins kept for the next two thousand years.
+Money was treated in the same way. The bronze knives and spades of the old kingdoms gave way to one round coin, the one with the square hole, marked with its weight.
 
 ![Both faces of a worn round bronze coin with a square hole, one face bearing two characters](images/ban_liang.jpg)
 *The coin of the Qin empire, front and back. The two characters give its weight. It is three centimetres across. Photo: Gary Todd, CC0.*

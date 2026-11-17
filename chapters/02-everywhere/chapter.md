@@ -135,7 +135,7 @@ The newcomers, by contrast, lived in larger groups that kept in touch across lon
 
 They also hunted the same deer and wanted the same caves. In each valley the newcomers raised a few more children than the people who were there before, and that is all it takes. A small edge, repeated every generation for three thousand years, ends with one people where there had been two. Some of the last Neanderthals were simply taken into the newcomers' bands, and their children's children were us.
 
-In other words, the Neanderthals did not altogether die out. They were outnumbered and absorbed, and a little of them is still walking around.
+So the Neanderthals did not altogether die out. They were outnumbered and absorbed, and a little of them is still walking around.
 
 ## The quiet continents
 
@@ -148,7 +148,7 @@ When the first boats landed in Australia, the continent was full of giants. Ther
 
 The same thing happened in the Americas. The first hunters to come down from Alaska found mammoths, ground sloths as big as elephants, armadillos the size of a car, sabre-toothed cats and beavers as large as bears. There were also wild camels and wild horses, both of which had first evolved in North America. By about eleven thousand years ago, about three quarters of North America's kinds of large animal had vanished, the horses among them.
 
-That loss had a long reach. Because of it, the peoples of the Americas would build their civilisations with no animal to ride and none to pull a plough. Horses did not return until Spanish ships carried them back across the Atlantic.
+The horses would not return until Spanish ships carried them back across the Atlantic.
 
 ![Skeleton of a giant ground sloth rearing against a tree trunk](images/megatherium.jpg)
 *The skeleton of a giant ground sloth from South America. Photo: APK, CC BY 4.0.*
@@ -198,9 +198,7 @@ By then the cathedral of Notre-Dame was already standing in Paris. The journey t
 
 ## One species, scattered
 
-Two results of that long journey shaped everything that came after.
-
-The first is that we are all very close relatives. Every person alive descends from the same population in Africa, and everyone outside Africa from one small band of emigrants. The whole spread took less than three thousand generations. As a result, a single troop of chimpanzees in West Africa holds more variety in some of its genes than the whole human species.
+The first result of that long journey is that we are all very close relatives. Every person alive descends from the same population in Africa, and everyone outside Africa from one small band of emigrants. The whole spread took less than three thousand generations. As a result, a single troop of chimpanzees in West Africa holds more variety in some of its genes than the whole human species.
 
 The differences we notice most are the newest and the shallowest. Skin colour is the body's adjustment to sunlight. Dark skin protects against the fierce sun of the tropics. In the weak light of the far north, however, dark skin makes too little vitamin D, and paler skin spread among people who lived there.
 

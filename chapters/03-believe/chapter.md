@@ -15,7 +15,7 @@ A single bead took most of an hour to make. Thirteen thousand of them is about f
 
 These were not rich people with time to waste. They lived by hunting through winters colder than any in Europe today, and every hour spent drilling ivory was an hour not spent finding food. Nevertheless, they did it. Nobody works that hard for a corpse. They did it for the people those corpses had been, who in some way still mattered and still needed things, and who had gone somewhere that fine clothes and spears would be useful.
 
-In other words, the people at that graveside shared a picture of the world that included more than they could see or touch. Nothing in it can be dug up. However, the things it made them do can, and they are scattered across three continents.
+The people at that graveside, then, shared a picture of the world that included more than they could see or touch. Nothing in it can be dug up. However, the things it made them do can, and they are scattered across three continents.
 
 ## The dead
 
@@ -32,7 +32,7 @@ Red ochre turns up in early graves again and again, from Africa to Australia. It
 
 Our kind were not the only ones. Neanderthals also buried their dead, at least sometimes. In a cave in France, an old Neanderthal man, who had lost most of his teeth and was crippled with arthritis, was laid in a pit that had been dug for him. His hips and back were so bad that he could hardly have got about without help. Somebody had looked after him, and when he died, somebody made sure the hyenas did not get him.
 
-A grave says three things. First, it says that a body is not rubbish, even when the person has gone out of it. Second, it says that the person has gone somewhere, since nobody packs a spear for a man who has simply stopped. Third, it says that the living still owe the dead something. All three are beliefs about things no one has ever seen.
+First, a grave says that a body is not rubbish, even when the person has gone out of it. Second, it says that the person has gone somewhere, since nobody packs a spear for a man who has simply stopped. Third, it says that the living still owe the dead something. All three are beliefs about things no one has ever seen.
 
 It is easy to understand where they came from. Humans know that they will die. We are probably the only animal that does, and it is the price of a brain that can imagine next month. A mind that can plan a hunt for tomorrow can also picture a tomorrow in which it is not there, and can ask where a dead child has gone. Once the question had been asked, it needed an answer.
 
@@ -125,14 +125,14 @@ Shared belief also reached beyond the band, and that may have been the most impo
 
 A band of thirty or forty people is too small to survive alone for long. Sooner or later the rain fails in its territory, or the game moves away, or there is nobody for a daughter to marry who is not her cousin. Therefore, every band needed friends elsewhere.
 
-The Ju/'hoansi of the Kalahari show how it works. Every adult keeps a chain of gift partners, some of them in camps two hundred kilometres away. A man gives a partner a string of ostrich-shell beads or a good arrow. Months later, something comes back. The gifts are not payments, and nobody keeps exact accounts. They are a way of saying that the friendship is alive.
+The Ju/'hoansi, one of the San peoples, show how it works. Every adult keeps a chain of gift partners, some of them in camps two hundred kilometres away. A man gives a partner a string of ostrich-shell beads or a good arrow. Months later, something comes back. The gifts are not payments, and nobody keeps exact accounts. They are a way of saying that the friendship is alive.
 
 Its value shows in a bad year. When the waterholes dry up at home, a family can walk to a partner's camp and be taken in. The beads are insurance, paid in advance.
 
 ![A long necklace of small white disc beads](images/ostrich-eggshell-beads.jpg)
 *A San necklace of ostrich-eggshell beads. Photo: Nkansah Rexford, CC BY 3.0.*
 
-The same thing was happening tens of thousands of years ago, and it shows in the ground. Seashells from the Mediterranean are found in ice-age camps hundreds of kilometres inland. Good stone for tools was carried even further from where it was quarried. The shells moved from hand to hand along chains of friends, as beads still move in the Kalahari.
+The same thing was happening tens of thousands of years ago, and it shows in the ground. Seashells from the Mediterranean are found in ice-age camps hundreds of kilometres inland. Good stone for tools was carried even further from where it was quarried. The shells moved from hand to hand along chains of friends, as beads still move among the Ju/'hoansi.
 
 Meanwhile, in the good season, many bands came together in one place. Where a great herd crossed a river or the salmon ran, hundreds of people could eat for weeks. They used the time to trade, to find husbands and wives, to settle quarrels, to pass on news and to dance. For most of the year a person lived among a few dozen familiar faces. For those few weeks they belonged to something far larger.
 

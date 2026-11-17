@@ -29,13 +29,13 @@ Compare a day's work on each side. A gatherer walks to where the food already is
 
 Even then she is not finished. After the harvest come the threshing and the grinding. At the end of all that work, the farmer has a heap of one kind of seed. The gatherer, meanwhile, has eaten forty different things and spent the afternoon in the shade.
 
-People who still lived by gathering in modern times saw this perfectly clearly. In the 1960s a scholar living among the Ju/'hoansi of the Kalahari asked a man why his people did not plant crops, as their neighbours did. The man's reply has been quoted ever since. "Why should we plant," he asked, "when there are so many mongongo nuts in the world?"
+People who still lived by gathering in modern times saw this perfectly clearly. In the 1960s a scholar living among the Ju/'hoansi asked a man why his people did not plant crops, as their neighbours did. The man's reply has been quoted ever since. "Why should we plant," he asked, "when there are so many mongongo nuts in the world?"
 
-It is a good question, and for most of the human past it had no answer. For people to take up the harder life, something had to change. The first thing that changed had nothing to do with sowing.
+It is a good question, and for most of the human past it had no answer. For people to take up the harder life, something had to change.
 
 ## Staying put
 
-It had to do with the weather. About fourteen and a half thousand years ago, the ice age began to loosen its grip, and the hills at the eastern end of the Mediterranean turned warm and wet. Oak and pistachio woods spread across them. Between the trees, wild wheat and barley grew in stands so thick that they looked like fields that nobody had planted.
+The first change had nothing to do with sowing. It had to do with the weather. About fourteen and a half thousand years ago, the ice age began to loosen its grip, and the hills at the eastern end of the Mediterranean turned warm and wet. Oak and pistachio woods spread across them. Between the trees, wild wheat and barley grew in stands so thick that they looked like fields that nobody had planted.
 
 ![Tall, dense stands of ripe wild grasses among scattered trees](images/wild-cereals-galilee.jpg)
 *Wild cereals growing thickly in northern Israel today. Photos: A. Weide, S. Riehl, M. Zeidi and N. Conard, CC BY 4.0.*
@@ -75,7 +75,7 @@ We take a steady climate for granted, because it is the only kind that our writt
 
 That matters enormously to anyone who wants to plant a field. A farmer buries good food in the ground and trusts that the rain which came last spring will come next spring too. For most of the time that our species has existed, nobody could count on that. Now, for the first time, they could.
 
-So all the pieces were finally in place. There were villages of settled people. There were too many of them to live easily on the wild harvest. And the weather could at last be trusted. Once it settled, the villages of the Middle East filled again, and this time their people did the obvious thing. They took some of the seed they had gathered, carried it to a patch of damp ground near the houses, and put it in. Nothing now stood in the way of doing the same the next year, and the year after.
+So all the pieces were finally in place. There were villages of settled people. There were too many of them to live easily on the wild harvest. And the weather could at last be trusted. Once it settled, the villages of the Middle East filled again, and this time their people did the obvious thing. They took some of the seed they had gathered, carried it to a patch of damp ground near the houses, and put it in. Nothing now stood in the way of doing the same the next year, and the year after. Among the people with good reason to try were the crowds who gathered on the ridge at Göbekli Tepe to raise its stone rings, and who needed a great deal of grain to keep them fed.
 
 The Middle East was the first place where this happened. It was not the only one.
 
@@ -84,7 +84,7 @@ In northern China, people started growing millet, and along the Yangtze they sta
 That makes eight places at least, the earliest eleven thousand years ago and the latest about four thousand. Most of these peoples had never met. They did not know that the others existed, and they were working with entirely different plants.
 
 ![A world map with green patches marking the eight places where farming began, each named with its crop](images/map_farming_centres.png)
-*The places where farming began on its own, with the crops the chapter names. The areas are rough. Map: drawn for this book; coastlines and rivers from Natural Earth, public domain.*
+*The places where farming began on its own, with the first crops grown in each. The areas are rough. Map: drawn for this book; coastlines and rivers from Natural Earth, public domain.*
 
 When the same thing is invented eight times by strangers, it is not a stroke of genius. It is what humans do when they are settled, crowded and blessed with steady weather.
 
@@ -135,7 +135,7 @@ An animal that fails even one test will not do. That is why nobody keeps zebras 
 
 Moreover, the fourteen were not shared out fairly around the world. Thirteen of them, including the sheep, the goat, the pig, the cow and the horse, lived in Europe, Asia and the north of Africa. South America had one, the llama and its small cousin the alpaca, which are counted together. North America and Australia had none.
 
-In part, this was the hunters' own doing. The Americas had once had wild horses and camels, and Australia had its giant grazers. All of them died out after people arrived. The price was paid much later. The later peoples of the Americas had fields of maize and potatoes. In the Andes they had the llama to carry a pack. Nowhere did they have an animal to pull a plough or ride into battle.
+In part, this was the hunters' own doing. The Americas had once had wild horses and camels, and Australia had its giant grazers. All of them died out after people arrived. The later peoples of the Americas had fields of maize and potatoes, and in the Andes they had the llama to carry a pack, but little else.
 
 ## The bill
 
@@ -158,9 +158,9 @@ A farming village, by contrast, lived on two or three crops. When drought or bli
 
 Sickness came with the new life too, and for a similar reason. A band of thirty that moves every few weeks leaves its rubbish and its dung behind. A village of three hundred lives on top of its own, beside its animals, and drinks from the stream it washes in. Many of the diseases that would later kill people by the million came to us from animals. Measles descends from a plague of cattle, and influenza came to us from birds.
 
-Add all of this up. Farmers worked harder than hunters, ate worse, grew shorter and fell sick more often. If that were the whole story, farming would have died out. Yet in one respect, farming beat hunting so thoroughly that nothing else counted.
+Add all of this up. Farmers worked harder than hunters, ate worse, grew shorter and fell sick more often. If that were the whole story, farming would have died out. Yet in numbers, farming beat hunting so thoroughly that nothing else counted.
 
-That respect was numbers. A band of hunters needs a great deal of land, something like ten square kilometres for each person. The same land under wheat can feed fifty or a hundred times as many. And farming women, as the first villagers had found, bore more children.
+A band of hunters needs a great deal of land, something like ten square kilometres for each person. The same land under wheat can feed fifty or a hundred times as many. And farming women, as the first villagers had found, bore more children.
 
 The result follows directly. A farming people could be sicker, shorter and hungrier than the hunters next door and still outnumber them ten to one within a few centuries.
 
@@ -200,7 +200,7 @@ The best known stands on a plain in the middle of Turkey. There is a mound there
 
 It was a strange place by any later standard. The houses were boxes of mud brick, and they were built wall against wall, with no gaps between them. There were no streets. People therefore walked across the roofs, and went down into their homes by a ladder through a hole in the ceiling, which was also where the smoke came out.
 
-Inside, one house was much like the next. Each had an oven, a storeroom with bins for grain, and raised platforms for sleeping. Under those platforms, the family buried its dead. In other words, people slept each night just above their dead.
+Inside, one house was much like the next. Each had an oven, a storeroom with bins for grain, and raised platforms for sleeping. Under those platforms, the family buried its dead, so that people slept each night just above them.
 
 On the walls they painted hunting scenes, and they set the horned skulls of wild bulls into the plaster. They farmed, but they had not forgotten what they once were.
 
@@ -213,6 +213,6 @@ That is remarkable. Hundreds of families were living side by side with no king a
 
 It was a way of life that did not last, and the reason was standing in the corner of every house. It was the storeroom.
 
-Think of the difference it makes. A wandering hunter's wealth was in his head, his hands and his friends, and little of it could be taken from him. A farmer's wealth, by contrast, was in a bin. A storeroom holds a year of a family's work in one place, dry, still and easy to measure. It can be guarded. It can also be counted, and whatever can be counted can be shared out, lent, owed, taxed and taken.
+Think of the difference it makes. A wandering hunter's wealth was in his head, his hands and his friends, and little of it could be taken from him. A farmer's wealth, by contrast, was in a bin. A storeroom holds a year of a family's work in one place, dry, still and easy to measure. It can be guarded, and it has to be, because a neighbour whose own harvest has failed knows exactly where to find it. It can also be counted, and whatever can be counted can be shared out, lent, owed, taxed and taken.
 
 Farming had filled the world with something worth ruling. Sooner or later, somebody was going to rule it.

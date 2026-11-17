@@ -2,7 +2,7 @@
 
 *Europe, the Middle East and the grasslands of Asia, from about 5,500 years ago to about 3,600 years ago*
 
-Because a wheel is no use on its own. It needs an axle that fits it exactly, carpentry fine enough to make that fit, and, for any load worth moving, a strong animal to pull it.
+A wheel is no use on its own. It needs an axle that fits it exactly, carpentry fine enough to make that fit, and, for any load worth moving, a strong animal to pull it.
 
 In 2002, archaeologists working in a marsh south of Ljubljana, in Slovenia, lifted a wooden wheel out of the wet ground. It is about 5,150 years old, which makes it the oldest wooden wheel that survives anywhere in the world.
 
@@ -33,7 +33,7 @@ The potters, it is true, already had a turning table. That is a different machin
 
 Even a perfect wheel is not yet worth having. A cart with solid wooden wheels is heavy before anything has been put into it. No person wants to drag one. It earns its keep when there is a large, strong, patient animal to put in front of it, and that animal was the ox. Farmers had kept cattle for thousands of years by then, and they had already learned to harness oxen to drag a plough.
 
-So the wheel waited on three things: fine carpentry, the trained ox, and people with enough grain, timber or manure to move that a cart was worth the trouble of building. All three came together a little more than five and a half thousand years ago. When they did, the wheel appeared almost at once.
+So the wheel waited on fine carpentry, the trained ox, and people with enough grain, timber or manure to move that a cart was worth the trouble of building. All three came together a little more than five and a half thousand years ago. When they did, the wheel appeared almost at once.
 
 ## Everywhere at the same time
 
@@ -114,7 +114,7 @@ That first attempt, however, went nowhere. Their horses were not the ancestors o
 
 The horse that we know came from somewhere else. Geneticists have read the DNA in the bones of hundreds of ancient horses from all over Europe and Asia, and the result is clear. Every domestic horse alive today descends from a population that lived on the steppe near the lower reaches of the Volga and the Don, north of the Caucasus mountains. About 4,200 years ago, those horses began to spread. Within a few centuries they had replaced almost every other kind of horse from Spain to Mongolia.
 
-Something about them was plainly better, and the DNA gives two strong hints as to what. The new horses carried one changed gene that is linked to a calmer temper, and another that is linked to a stronger back. In other words, they were horses that would put up with people, and that could carry weight.
+Something about them was plainly better, and the DNA gives two strong hints as to what. The new horses carried one changed gene that is linked to a calmer temper, and another that is linked to a stronger back. These were horses that would put up with people, and that could carry weight.
 
 A herder on a horse is a different thing from a herder on foot. One person walking, with a good dog, can manage about two hundred sheep. On horseback, the same person can manage five hundred, and can scout the grazing a day's journey ahead. A rider can also cover in a day a distance that takes an ox wagon three or four. For the first time, a human being could travel faster than a human being can run.
 
