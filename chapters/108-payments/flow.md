@@ -1,0 +1,4 @@
+Flow pass: body prose 3,260 words before, 3,967 after.
+Changes: M-Pesa, the card authorisation chain and Bitcoin walked through step by step; split dense paragraphs (Fresno, cheques, the tap, UPI, Bitcoin's weaknesses, cash); explained the two-key lock with a padlock picture and the cheque's weakness; bridges into card fees, China's escrow, India's road and the power of record-keepers.
+Check2 flags applied: removed "went straight from cash", UPI "would otherwise have stopped it", the road line, Bitcoin cost/reward, cash "cannot be switched off" addition; pizza offer date 22 to 18 May; Sweden "further than any other" to "further than most" and "the country that uses cash least" to "one of the countries"; seven clarity fixes.
+Left unapplied: chip caption contact vs tap (captions fixed); "Any bank and any telephone application may connect" and cash "cannot be blocked" (original wording, correction not small); no names added for Alipay and WeChat in the body.
