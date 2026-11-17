@@ -39,7 +39,7 @@ Finally there was money. An empire costs something to run, and after the war the
 
 India, the largest colony of all, went in 1947. Once the greatest prize had gone, it was harder to argue that the smaller ones were worth a fight. After that the question for the others was when, and how.
 
-![Map of Africa and Asia with modern borders, each country shaded by the decade in which it left colonial rule: India, Pakistan, Burma, Indonesia and the Philippines in the late 1940s; Ghana, Sudan and the countries of Indochina in the 1950s; most of Africa, including Algeria, Congo and Kenya, in the 1960s; Angola, Mozambique and Zimbabwe in the 1970s. Namibia, Eritrea and Western Sahara are hatched as later; Egypt, Ethiopia, Liberia, South Africa, Turkey, Iran, China and Japan are grey as already independent. Bandung is marked in Java](images/map_independence.png)
+![Map of Africa and Asia with modern borders, each country shaded by the decade in which it left colonial rule: India, Pakistan, Burma, Indonesia and the Philippines in the late 1940s; Ghana, Sudan and the countries of Indochina in the 1950s; most of Africa, including Algeria, Congo and Kenya, in the 1960s; Angola, Mozambique and Zimbabwe between 1970 and 1980. Namibia, Eritrea and Western Sahara are hatched as later; Egypt, Ethiopia, Liberia, South Africa, Turkey, Iran, China and Japan are grey as already independent. Bandung is marked in Java](images/map_independence.png)
 *Africa and Asia, with each country shaded by the decade in which colonial rule there ended, 1945 to 1980, on modern borders; Bangladesh and South Sudan are dated with Pakistan and Sudan, of which they were then part. Map: drawn for this book; coastlines and rivers from Natural Earth, public domain.*
 
 ## Prison graduate

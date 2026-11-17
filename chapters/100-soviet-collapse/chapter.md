@@ -44,7 +44,7 @@ An unemployed electrician with a large moustache, Lech Wałęsa, climbed over th
 ![Black-and-white photograph of a crowd gathered outside the closed gate of the Lenin Shipyard in Gdańsk, under a sign with the yard's name, with a crane behind](images/gdansk_1980.jpg)
 *The gate of the Lenin Shipyard in Gdańsk during the strike of August 1980, with people gathered outside. Photo: Jacek Awakumowski, CC BY-SA 3.0 pl.*
 
-Within a year the union, which called itself Solidarity, had ten million members, a third of all the working people in the country. That made it an embarrassment as well as a threat. A state that claimed to rule in the name of the workers was being defied by the workers. In December 1981 the Polish army declared martial law, arrested the leaders, and drove the movement underground. It did not die.
+Within a year the union, which called itself Solidarity, had ten million members, more than a quarter of the whole population of the country. That made it an embarrassment as well as a threat. A state that claimed to rule in the name of the workers was being defied by the workers. In December 1981 the Polish army declared martial law, arrested the leaders, and drove the movement underground. It did not die.
 
 ## A man you can do business with
 

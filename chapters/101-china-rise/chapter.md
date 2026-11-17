@@ -114,7 +114,7 @@ They did this as second-class citizens in their own country. Every Chinese is re
 
 One more thing was needed to make a factory in the Pearl River delta the supplier of a shop in Ohio, and it had been invented by an American trucking boss with no interest in China at all.
 
-Until the 1950s, cargo went to sea much as it had in the days of sail. Gangs of dockers carried sacks, crates, barrels and bales up the gangway one at a time and stowed them in the hold by hand. A ship spent as long in port as at sea. Loading and unloading accounted for half the cost of sending goods abroad, and a good part of every cargo was broken or stolen on the quay.
+Until the 1950s, cargo went to sea much as it had in the days of sail. Gangs of dockers loaded sacks, crates, barrels and bales into rope slings a few at a time, a winch swung each load into the hold, and more men down there stowed every piece by hand. A ship spent as long in port as at sea. Loading and unloading accounted for half the cost of sending goods abroad, and a good part of every cargo was broken or stolen on the quay.
 
 Malcolm McLean owned a fleet of lorries and was tired of watching them wait at the docks. His idea was to stop handling the cargo at all. It occurred to him that the whole trailer might be lifted off its wheels and onto the ship, without anyone touching what was inside. On 26 April 1956 a converted oil tanker sailed from a port near New York with fifty-eight steel boxes lashed to its deck. Loading loose cargo by hand cost nearly six dollars a ton. Loading that ship cost sixteen cents.
 

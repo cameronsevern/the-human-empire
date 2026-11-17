@@ -1,0 +1,5 @@
+# Fixes from the flow-pass fix list
+
+- Part B CONFLICT, "A coded telephone call went out" (was "went to Washington"): correct as written (new wording kept). Compton phoned Conant, who was at Harvard, not Washington. Source: https://ahf.nuclearmuseum.org/ahf/history/chicago-pile-1/
+- Part B CONFLICT, general "who was overseeing the building of the largest office block" (was "had just finished"): correct as written (new wording kept). Groves took over the project in September 1942; the Pentagon was finished in January 1943. Source: https://en.wikipedia.org/wiki/The_Pentagon
+- Part A MINOR and Part B CONFLICT, the Hiroshima surgeon (Hersey's Dr Sasaki): fixed. "At the main hospital, which ten thousand wounded had flooded into by nightfall, one surgeon in borrowed glasses worked for three days on an hour's sleep, moving along the corridors with bandages and a bottle of disinfectant, able to do little more than dab at the burns." He wore glasses taken from a wounded nurse, so "borrowed" stays and "broken" is not restored; he used mercurochrome, not iodine. Source: https://www.spartacus-educational.com/2WWhersey.htm ; https://erenow.org/ww/hiroshima/4.php

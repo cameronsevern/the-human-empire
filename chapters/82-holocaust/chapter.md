@@ -85,7 +85,7 @@ When a train arrived, an SS doctor stood on the platform and pointed to the left
 Ordinary German firms supplied the means. The gas was a pesticide, sold in tins by a pest-control firm. The ovens were designed by an engineering company that normally made brewing equipment, and its engineers visited the site to improve them. About a million Jews were killed there.
 
 ![Map of Europe in 1942. The land ruled by Germany, its allies and the countries they occupied is shaded from France to the eastern front; the occupied Soviet lands from the Baltic to the Black Sea, including Kyiv, are hatched as the area of the mass shootings; dashed lines show deportation trains from Amsterdam, from France, from Greece and from Budapest converging on Auschwitz. An enlargement of occupied Poland shows the Warsaw ghetto, the line to Treblinka, and the six killing centres: Chełmno, Treblinka, Sobibór, Majdanek, Bełżec and Auschwitz](images/map_europe_1942.png)
-*Europe in 1942, roughly: the land ruled by Germany, its allies and the countries they occupied, the area of the mass shootings behind the eastern front, and the main deportation routes, simplified; the enlargement shows the Warsaw ghetto and the six killing centres in occupied Poland. Map: drawn for this book; coastlines and rivers from Natural Earth, public domain.*
+*Europe in 1942, roughly: the land ruled by Germany, its allies and the countries they occupied, the area of the mass shootings behind the eastern front, and the main deportation routes of 1942 to 1944, simplified; the enlargement shows the Warsaw ghetto and the six killing centres in occupied Poland. Map: drawn for this book; coastlines and rivers from Natural Earth, public domain.*
 
 ## Every Tuesday
 

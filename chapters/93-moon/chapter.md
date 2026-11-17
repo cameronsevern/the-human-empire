@@ -6,7 +6,7 @@ People went to the Moon because the United States and the Soviet Union were each
 
 On the afternoon of 20 July 1969, a spidery machine wrapped in gold foil was falling towards the surface of the Moon with two men standing inside it. It was the size of a small van, and its walls were in places as thin as three sheets of kitchen foil. It had never been flown to a landing before, because it could not fly on Earth.
 
-Two thousand metres up, an alarm sounded that neither man had seen in training. The computer that was steering them had been given more work than it could do. The question, suddenly, was whether it could still be trusted to bring them down. A twenty-six-year-old engineer in Houston, three hundred and eighty thousand kilometres away, had about fifteen seconds to decide whether to call off the landing. He said to go on.
+Ten thousand metres up, an alarm sounded that neither man had seen in training. The computer that was steering them had been given more work than it could do. The question, suddenly, was whether it could still be trusted to bring them down. A twenty-six-year-old engineer in Houston, three hundred and eighty thousand kilometres away, had about fifteen seconds to decide whether to call off the landing. He said to go on.
 
 That was not the end of the danger. The commander, Neil Armstrong, looked out of his small triangular window and saw that the computer was taking them into a crater the size of a football stadium, strewn with boulders as large as cars. It was no place to land.
 
@@ -23,7 +23,7 @@ The idea was older than the means. At the beginning of the century a deaf school
 ![Konstantin Tsiolkovsky, a bearded man in round glasses and a pale jacket, sits against a log wall holding up a mirror that shows his profile](images/tsiolkovsky.jpg)
 *Konstantin Tsiolkovsky, the deaf schoolteacher who worked out spaceflight on paper, photographed in 1902 in his small Russian town. Photo: attributed to Aleksandr Assonov, public domain.*
 
-His starting point was the rocket itself. A rocket works by throwing mass out of its tail. Hot gas rushes backwards, and the rocket is pushed forwards, as a boat moves when someone on board hurls a stone astern. Unlike a jet or a propeller, it needs no air to push against or to burn with, since it carries its own oxygen. For that reason it is the one kind of engine that works in the emptiness of space.
+His starting point was the rocket itself. A rocket works by throwing mass out of its tail. Hot gas rushes backwards, and the rocket is pushed forwards, as a boat moves when someone on board hurls a stone astern. Unlike a jet or a propeller, it needs no air to push against, and the rockets that carry people bring their own oxygen to burn their fuel. For that reason it is the one kind of engine that works in the emptiness of space.
 
 The schoolteacher, Konstantin Tsiolkovsky, wrote down the equation that tells how fast a rocket can go for a given load of fuel. The sums carried bad news. He saw that no single rocket could carry enough, because the fuel itself, and the tanks that held it, were part of the weight to be lifted. The answer, he saw, was to stack several rockets on top of one another and drop each when it was empty, so that the ones still firing had less dead weight to push. The Earth, he wrote, is the cradle of mankind, but one cannot live in the cradle for ever.
 
@@ -170,7 +170,7 @@ Everything now depended on a single engine. If the engine that was to lift them 
 
 ## Afterwards
 
-The race was over, and the audience went home. Once the contest had been won, the reason for spending so much on it was gone. There were five more landings. By the last of them, the television networks had cut back their coverage. Three planned missions were cancelled to save money, and their rockets were laid out on lawns as museum pieces.
+The race was over, and the audience went home. Once the contest had been won, the reason for spending so much on it was gone. There were five more landings. By the last of them, the television networks had cut back their coverage. Three planned missions were cancelled to save money. One leftover rocket launched a space station, and the rest of the spare hardware was laid out on lawns as museum pieces.
 
 The last men left the Moon in December 1972. Twelve people have walked on it, all of them American men, and nobody has been back.
 

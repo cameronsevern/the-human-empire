@@ -80,7 +80,7 @@ The business was worth billions. Because it was illegal, however, it could not u
 In Chicago the son of an Italian barber, Al Capone, took over the supply of beer and spirits to the city and was said to be making sixty million dollars a year. His city also saw the decade's most notorious killing. In February 1929 seven members of a rival gang were lined up against the wall of a garage by men dressed as policemen and cut down with machine guns. The murder rate in American cities climbed through the decade and reached its peak in the last year of the ban.
 
 ![Two police photographs of Al Capone side by side, one in profile and one facing the camera, in a dark suit and striped tie, with the number C 28169 on his jacket](images/capone.jpg)
-*Al Capone in the police photographs taken when he was sent to prison, 17 June 1931. Photo: United States Bureau of Prisons, public domain.*
+*Al Capone in police photographs taken on 17 June 1931, four months before he was convicted of tax evasion. Photo: United States Bureau of Prisons, public domain.*
 
 The government's own conduct was among the worst of it. Bootleggers were stealing the alcohol made for industry and redistilling it for drinking. The government's answer was to make the stolen alcohol more dangerous to drink. Federal chemists were ordered to add stronger poisons, including wood alcohol, which blinds and kills. They knew what would follow. By the end, several thousand people had died of it.
 
@@ -169,7 +169,7 @@ A few countries have tried something else. Instead of asking how to punish drug 
 
 In the 1990s Portugal had one of the worst heroin problems in Europe. About one person in a hundred was using it, and the prisons were full. In 2001 it stopped treating the user as a criminal. Selling drugs remained a crime.
 
-In practice, a person caught with up to ten days' supply of any drug, including heroin, is sent to a panel of a social worker, a lawyer and a doctor, which may recommend treatment or impose a small fine, and most often does nothing. The money saved on police and prisons was spent on treatment, above all on a daily dose of a substitute drug that holds off withdrawal and lets a person keep a job.
+In practice, a person caught with up to ten days' supply of any drug, including heroin, is sent to a panel of three, a lawyer and two others drawn from medicine, psychology or social work, which may recommend treatment or impose a small fine, and most often does nothing. The money saved on police and prisons was spent on treatment, above all on a daily dose of a substitute drug that holds off withdrawal and lets a person keep a job.
 
 Critics predicted that Lisbon would become a paradise for addicts. The surge did not come. The number of heroin users fell by more than half, new infections with HIV among them fell by nine tenths, and deaths from overdose have stayed among the lowest in Europe.
 

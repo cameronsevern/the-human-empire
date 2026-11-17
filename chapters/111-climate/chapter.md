@@ -63,11 +63,11 @@ The fingerprint lies in the carbon itself. A small fraction of the carbon in eve
 The oxygen in the air is also falling, by the amount that the burning uses up. Meanwhile the sea, far from giving off the gas, is absorbing a quarter of what is emitted. If the sea were the source, it would be giving off more of the gas than it takes in, not less.
 
 ![A thin slice of ice lit in polarised light, a mosaic of pink, blue and green crystals dotted with hundreds of black oval and round air bubbles](images/icecore.jpg)
-*A sliver of Antarctic ice photographed in polarised light, which gives the colours. Each dark spot is a bubble of air that was sealed in when the snow fell. Photo: CSIRO Atmospheric Research, CC BY 3.0.*
+*A sliver of Antarctic ice photographed in polarised light, which gives the colours. Each dark spot is a bubble of air that was sealed in as the snow above it was slowly pressed into ice. Photo: CSIRO Atmospheric Research, CC BY 3.0.*
 
 Knowing where the gas comes from still leaves open how unusual the present level is. That can be read from a record kept in ice. In the middle of Antarctica the snow never melts. Instead, each year's fall presses down on the last until it becomes ice, sealing in tiny bubbles of the air of its day. Each bubble is, in effect, a sample of the old sky.
 
-Scientists have drilled out cylinders of that ice more than three kilometres long. The deepest bubbles are eight hundred thousand years old. Through all that time, across eight ice ages and the warm spells between them, the carbon dioxide in the air moved up and down between about a hundred and eighty and three hundred parts in a million, and the temperature moved with it.
+Scientists have drilled out cylinders of that ice more than three kilometres long. The bubbles in one of them give an unbroken record going back eight hundred thousand years. Through all that time, across eight ice ages and the warm spells between them, the carbon dioxide in the air moved up and down between about a hundred and eighty and three hundred parts in a million, and the temperature moved with it.
 
 The industrial age broke out of that range. It was two hundred and eighty when James Watt improved the steam engine. It has not been as high as it is now for at least three million years, since before there were human beings.
 
@@ -175,4 +175,4 @@ The building has followed the price. In 2023 China installed more solar panels i
 
 Cheap panels slow the growth of the problem, but the air keeps its own account. The carbon dioxide already in the air will stay there for hundreds of years. For that reason, the warming will not stop until no more is being added than is taken out. Whether that comes soon enough to avoid the worst is the question on which the rest of the century turns.
 
-A strange year showed how much is still being added. In 2020, when a pandemic emptied the world's roads and grounded its aircraft, emissions fell by a twentieth, the largest drop ever recorded. On the mountain in Hawaii it made no visible difference. The reason is simple arithmetic: nineteen twentieths of the usual amount was still being added. The instrument that Keeling had installed recorded a higher figure that May than in any May before, and a higher one again the year after. Nobody now alive was born in a year whose average was as high as this year's.
+A strange year showed how much is still being added. In 2020, when a pandemic emptied the world's roads and grounded its aircraft, emissions fell by a twentieth, the largest drop ever recorded. On the mountain in Hawaii it made no visible difference. The reason is simple arithmetic: nineteen twentieths of the usual amount was still being added. The instrument that Keeling had installed recorded a higher figure that May than in any May before, and a higher one again the year after. Nobody now alive was born in a year whose average was higher than this year's.

@@ -1,0 +1,4 @@
+# Fixes from the flow-pass fix list
+
+- Part A MAJOR, child deaths "from nearly half to about one in twenty-five" (mixed age limits: nearly half died before fifteen; one in twenty-five is the under-five rate): fixed in the chapter's opening paragraph (an earlier brief had locked this line; the current brief does not). "...cut the share of children who die before the age of fifteen from nearly half to fewer than one in twenty." Today about 4.4 per cent die before fifteen. The later paragraph's under-five figures ("one child in five" in 1950, "fewer than one in twenty-five" today) already match each other and were left. Source: https://ourworldindata.org/child-mortality-in-the-past ; https://ourworldindata.org/child-mortality
+- Part C, ledger captions carrying production notes ("the Commons file is 758 px wide"): fixed in images/ledger.md so the caption column matches chapter.md, which was already clean. Source: chapter.md captions.

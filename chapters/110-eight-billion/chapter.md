@@ -2,7 +2,7 @@
 
 *The world, from 1798 to 2025*
 
-There are eight billion of us because people stopped dying young. Over the last two hundred years, and above all since 1950, clean water, vaccines and cheap medicines cut the share of children who die from nearly half to about one in twenty-five. Parents went on having many children for a generation or two after that, and the population multiplied in the gap. Then births fell as well, and the growth is now coming to an end.
+There are eight billion of us because people stopped dying young. Over the last two hundred years, and above all since 1950, clean water, vaccines and cheap medicines cut the share of children who die before the age of fifteen from nearly half to fewer than one in twenty. Parents went on having many children for a generation or two after that, and the population multiplied in the gap. Then births fell as well, and the growth is now coming to an end.
 
 At twenty-nine minutes past one on the morning of 15 November 2022, a girl was born in a public hospital in Manila, in the Philippines. Officials of the country's population commission photographed her in her mother's arms, and announced that she had been chosen to stand for the eight billionth human being alive. The United Nations had picked that day from its estimates. The real eight billionth child was born somewhere unknown, at about that time, and nobody could have said which one it was.
 

@@ -26,7 +26,7 @@ What shook him was where it happened. This was France, the country that had firs
 The next year he published a pamphlet called *The Jewish State*. The Jews, he argued, were a nation like any other, and needed what other nations had, a country of their own. The answer to the hatred, in other words, was not to wait for it to fade but to stop being a minority. The year after, he turned the argument into an organisation. In 1897 he gathered two hundred delegates in a concert hall in the Swiss city of Basel, in evening dress, to found a movement. He wrote in his diary: At Basel I founded the Jewish state. If I said this aloud today, I would be answered with universal laughter. Perhaps in five years, and certainly in fifty, everyone will know it.
 
 ![Theodor Herzl in a dark coat leaning on an iron balcony rail above a river and a bridge](images/herzl.jpg)
-*Theodor Herzl on the balcony of the Three Kings hotel in Basel, at the time of the early Zionist Congresses of 1897 and 1898. Photo: Government Press Office, public domain.*
+*Theodor Herzl on the balcony of the Three Kings hotel in Basel during the Fifth Zionist Congress, December 1901. Photo: Ephraim Moses Lilien, public domain.*
 
 That left the question of where the state should be. Herzl was willing to consider Argentina. His followers were not. Jews had prayed for a return to the land of Israel, which they called Zion, for eighteen hundred years.
 
@@ -106,7 +106,7 @@ The day after Ben-Gurion's ceremony, the war of neighbours became a war of state
 
 It looked like a contest between a village and five nations. In fact it was closer than that.
 
-The Arab governments sent only part of their armies, some twenty thousand men at the start. Israel, by contrast, put every fit adult into uniform, and by the summer it had more soldiers in the field than all of them together. The Israelis, moreover, fought with their backs to the sea, three years after the camps, and understood that losing would mean the end of everything. They also had a single command. Their supply of arms, meanwhile, grew as the fighting went on. Through the spring, and again during a truce in June, they brought in rifles, machine guns and fighter aircraft bought from Czechoslovakia.
+The Arab governments sent only part of their armies, some twenty thousand men at the start. Israel, by contrast, put a large share of its young men and women into uniform, and by the summer it had more soldiers in the field than all of them together. The Israelis, moreover, fought with their backs to the sea, three years after the camps, and understood that losing would mean the end of everything. They also had a single command. Their supply of arms, meanwhile, grew as the fighting went on. Through the spring, and again during a truce in June, they brought in rifles, machine guns and fighter aircraft bought from Czechoslovakia.
 
 The Arab armies, meanwhile, had no common plan and did not trust one another. The best of them belonged to King Abdullah of Transjordan, and his aims were not those of his allies. He had held secret talks with the Zionists before the war and had no interest in a Palestinian state. He wanted the hill country west of the river Jordan for his own kingdom. His army took it and largely stopped there, though it also held the walled Old City of Jerusalem against every attack. The king of Egypt, for his part, had gone to war chiefly to prevent Abdullah from getting too much.
 
@@ -123,7 +123,7 @@ For the Arabs of Palestine, the armistice lines marked a different kind of resul
 
 They had left in many different ways. Some went early, by car, to wait out the fighting. Many fled as the front came near, as civilians do in every war, after hearing what had happened elsewhere. Many were driven out.
 
-In July 1948, when Israeli forces took the towns of Lydda and Ramle on the road to Jerusalem, some fifty thousand people were ordered out of their houses and made to walk to the Arab lines in the heat of midsummer, and a number died on the way. In some villages in the north there were massacres. In others the people were left alone and are there to this day.
+In July 1948, when Israeli forces took the towns of Lydda and Ramle on the road to Jerusalem, some fifty thousand people were ordered out of their houses. Most of those from Lydda were made to walk to the Arab lines in the heat of midsummer, and a number died on the way. In some villages in the north there were massacres. In others the people were left alone and are there to this day.
 
 ![Men, women and children carrying huge bundles on their heads and backs along a hill road past a wrecked truck](images/refugees48.jpg)
 *Palestinian refugees on a road in the hills, 1948. Photo: Fred Csasznik, public domain.*

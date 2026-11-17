@@ -8,14 +8,16 @@ On the afternoon of 27 October 1962, the Soviet submarine B-59 was lying deep in
 
 Above her were eleven American destroyers and an aircraft carrier. They had found her that morning and were dropping small explosive charges into the water to force her to the surface. The American navy had told Moscow that these would be harmless signals. However, the message had not reached the submarine. As a result, the men inside could not be sure whether they were being signalled or attacked. To them, each blast sounded like a sledgehammer on an oil drum.
 
-Her captain, exhausted and furious, concluded that the war had already begun over their heads. If he was right, he had the means to answer. The submarine carried one torpedo with a nuclear warhead, nearly as powerful as the bomb that had destroyed Hiroshima. An officer who was on board recalled that he ordered it made ready. We will blow them up now, he shouted. We will die, but we will sink them all, and we will not disgrace the navy.
+Her captain, exhausted and furious, began to suspect that the war had already begun over their heads. If he was right, he had the means to answer. The submarine carried one torpedo with a nuclear warhead, nearly as powerful as the bomb that had destroyed Hiroshima. In the end, however, the batteries decided what happened next. That night B-59 had to come up to recharge them, into the glare of American searchlights.
 
-The rules left him a dangerous amount of room. His orders allowed him to use the weapon without asking Moscow if his boat was attacked and her hull broken open. What stopped him was an accident of who was on board. He was not the senior man aboard. The chief of staff of the flotilla, a quiet officer of thirty-six named Vasili Arkhipov, happened to be travelling in her. A flotilla is a small group of warships, and this one was made up of four submarines. Because Arkhipov was aboard, the captain needed his consent. Arkhipov would not give it. He argued that the Americans were signalling and not attacking, and that they should surface and ask Moscow for orders.
+On the surface, things got worse. American planes roared low over the conning tower, the tall structure on top of the hull where the officers stood, firing their cannon. The captain, half blinded, took it for an attack. He ordered an emergency dive and called for the nuclear torpedo to be made ready.
 
-The argument worked. The captain's temper cooled, and B-59 came up into the glare of American searchlights. The officers on the destroyers had no idea what she carried, and did not find out for forty years.
+The rules left him a dangerous amount of room. His orders allowed him to use the weapon without asking Moscow if his boat was attacked and her hull broken open. What stopped him was an accident of who was on board. He was not the senior man aboard. The chief of staff of the flotilla, a quiet officer of thirty-six named Vasili Arkhipov, happened to be travelling in her. A flotilla is a small group of warships, and this one was made up of four submarines. Arkhipov was still standing on the tower, and he could see what the captain had missed: the planes were firing past the boat, not at it. The Americans were signalling, not attacking. He called the captain back and talked him down.
+
+The order never reached the torpedo room. The next day B-59, her batteries full, slipped back under the sea and away from her pursuers. The officers on the destroyers had no idea what she carried, and did not find out for forty years.
 
 ![A grey submarine on the surface of a rough sea trailing white spray, with a helicopter hovering above the horizon behind it](images/b59.jpg)
-*The Soviet submarine B-59 forced to the surface by American naval forces near Cuba, 28 or 29 October 1962, with an American helicopter overhead. Photo: US Navy, public domain.*
+*The Soviet submarine B-59 on the surface near Cuba, shadowed by American warships, 28 or 29 October 1962, with an American helicopter overhead. Photo: US Navy, public domain.*
 
 ## Thirty minutes
 
@@ -101,7 +103,7 @@ Then the secret was out. On the evening of 22 October he told the country on tel
 
 ## Eyeball to eyeball
 
-The first test came at sea. On the morning of the twenty-fourth the quarantine took effect, with Soviet freighters a few hours from the line. In the room next to the president's office the advisers sat in silence, waiting to learn whether the ships would try to push through. A little after ten, a note was handed in. The ships nearest the line had stopped in the water, and some were turning round. We're eyeball to eyeball, the secretary of state murmured to the man beside him, and I think the other fellow just blinked.
+The first test came at sea. On the morning of the twenty-fourth the quarantine took effect, with Soviet freighters, as far as Washington knew, a few hours from the line. In the room next to the president's office the advisers sat in silence, waiting to learn whether the ships would try to push through. A little after ten, a note was handed in. Some of the Soviet ships had stopped in the water, and some were turning round. We're eyeball to eyeball, the secretary of state murmured to the man beside him, and I think the other fellow just blinked. In fact, the ships carrying missiles had been ordered home the day before and were already hundreds of miles from the line.
 
 ![President Kennedy leaning over a table with his hand in his pocket, beside a tall man with glasses, in a room with the presidential seal on the wall and an American flag](images/excomm.jpg)
 *President Kennedy at a meeting of the Executive Committee of the National Security Council in the Cabinet Room, 29 October 1962. Photo: Cecil W. Stoughton, White House, public domain.*
@@ -153,7 +155,7 @@ The men who replaced him drew their own lesson from Cuba. His successors resolve
 
 For the island at the centre of it all, the deal held. Cuba was not invaded. Castro governed it for almost fifty years, through ten American presidents, and the ban on trade that was meant to bring him down is still in force.
 
-As for the man who had refused to fire, his reward was silence. Arkhipov went home to no welcome. The submarine commanders had been ordered to stay hidden, and three of the four had been forced to the surface. In Moscow that counted as failure. An admiral told them that it would have been better if they had gone down with their boats. Arkhipov served on, rose to vice-admiral, and said little about that afternoon. He died in 1998. He had been heavily irradiated in a reactor accident on another submarine the year before the crisis. What he had done became widely known four years after his death, when one of his fellow officers described it to a conference of old men from both sides.
+As for the man who had stopped the launch, his reward was silence. Arkhipov went home to no welcome. The submarine commanders had been ordered to stay hidden, and three of the four had been forced to the surface. In Moscow that counted as failure. An admiral told them that it would have been better if they had gone down with their boats. Arkhipov served on, rose to vice-admiral, and said little about that night. He died in 1998. He had been heavily irradiated in a reactor accident on another submarine the year before the crisis. What he had done became widely known four years after his death, when one of his fellow officers described it to a conference of old men from both sides.
 
 ![Head-and-shoulders portrait of a young naval officer with dark wavy hair, in a dark uniform with shoulder boards and medals](images/arkhipov.jpg)
 *Vasili Arkhipov as a young Soviet naval officer, date of the photograph not recorded. Photo: courtesy of Olga Arkhipova, CC BY-SA 4.0.*

@@ -58,7 +58,7 @@ The misunderstanding came later. In 1995 Russian radar picked up a rocket rising
 
 That nothing worse has happened is partly luck. It is also the result of sixty years of deliberate effort. Some of that effort went into keeping the number of armed countries small, and some into shrinking the arsenals of the largest.
 
-In 1963 an American president predicted that within a dozen years there might be fifteen or twenty countries with nuclear weapons. There are nine. The main reason is a treaty of 1968, which nearly every country in the world has signed.
+In 1963 an American president predicted that within a dozen years there might be fifteen, twenty or even twenty-five countries with nuclear weapons. There are nine. The main reason is a treaty of 1968, which nearly every country in the world has signed.
 
 The treaty was built as a bargain between those who had the bomb and those who did not. Under it, states without the bomb promised not to acquire it, and accepted inspectors in their nuclear plants, so that a broken promise could be caught. In return, the five states that had it promised to share the peaceful uses of the atom, and to work in good faith towards getting rid of their weapons. They have kept the second promise poorly. The bargain has held all the same. Its success shows most clearly in the countries that started down the road and turned back. Sweden, Brazil, Argentina, South Korea and others gave up programmes that they had begun. South Africa went further still: it secretly built six bombs in the 1980s and then, uniquely, took them apart.
 
@@ -127,7 +127,7 @@ In October 1977 a hospital cook in a port town in Somalia named Ali Maow Maalin 
 
 The whole campaign had cost about three hundred million dollars, which is less than the price of two modern bombers. For that sum, a disease that had killed hundreds of millions was gone. It is the only human disease that has ever been eradicated.
 
-The same ambition has since been turned on polio. That disease, which paralysed three hundred and fifty thousand children a year in the 1980s, has been driven down to a few dozen cases.
+The same ambition has since been turned on polio. That disease, which paralysed three hundred and fifty thousand children a year in the 1980s, has been cornered. In its wild form it now paralyses a few dozen children a year, all of them in Afghanistan and Pakistan.
 
 ## A hole in the sky
 

@@ -133,7 +133,7 @@ The people of Hiroshima had no word for what had happened to them, and they made
 
 Those who had been in the open near the centre were gone. Farther out, people had been burned on whichever side had faced the light, and the pattern of their clothing was printed on their skin. They walked out of the city in silent lines, holding their arms away from their bodies. Thousands went down to the seven rivers to escape the fires and to drink, and drowned there.
 
-Help, meanwhile, was almost impossible to find. Nine in ten of the city's doctors and nurses were dead or injured. At the main hospital one surgeon, in borrowed glasses, worked for three days with almost no sleep, moving along corridors packed with ten thousand wounded and able to do little more than paint burns with iodine.
+Help, meanwhile, was almost impossible to find. Nine in ten of the city's doctors and nurses were dead or injured. At the main hospital, which ten thousand wounded had flooded into by nightfall, one surgeon in borrowed glasses worked for three days on an hour's sleep, moving along the corridors with bandages and a bottle of disinfectant, able to do little more than dab at the burns.
 
 ![A view over a flat plain of rubble where a city stood, with a river and a bridge, a few concrete buildings still standing and hills beyond](images/hiroshima_ruins.jpg)
 *Hiroshima in ruins after the bomb, looking across the river. The signature on the print is that of Paul Tibbets, the pilot of the bomber. Photo: US Navy, public domain.*

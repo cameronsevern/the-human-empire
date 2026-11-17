@@ -14,7 +14,7 @@ The country on the other side of that gate had been built, law by law, to keep p
 
 ## A corner of Africa
 
-South Africa was the one place on the continent where Europeans had settled in large numbers and stayed for centuries. That long stay mattered, because people who have lived somewhere for generations do not think of themselves as visitors. The first were Dutch, who planted a supply station at the Cape in 1652. Their descendants were farmers who had developed their own language, Afrikaans, and their own stern Protestant faith, and who believed that God had given them the land as he had given Canaan to Israel. They called themselves Afrikaners, the people of Africa.
+No other country in Africa had so many European settlers, and many of their families had been there for two centuries or more. That long stay mattered, because people who have lived somewhere for generations do not think of themselves as visitors. The first were Dutch, who planted a supply station at the Cape in 1652. Their descendants were farmers who had developed their own language, Afrikaans, and their own stern Protestant faith, and who believed that God had given them the land as he had given Canaan to Israel. They called themselves Afrikaners, the people of Africa.
 
 The British came later. They took the Cape in 1806, and then the rest, after gold and diamonds were found in the interior. They defeated the Afrikaners in a hard war at the end of the century. In 1910 the two white peoples were joined in one self-governing country, in which, with small exceptions, only white men could vote. Whites were about a fifth of the population. In other words, four people in five belonged to groups that had almost no say in how the country was run.
 

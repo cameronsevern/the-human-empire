@@ -52,7 +52,7 @@ def mark(day, y0, y1, text, ty, ha="center"):
     ax.text(day, ty, text, ha=ha, va="bottom", **T)
 
 
-mark(D(2020, 12, 8), -20, 470, "first vaccine given\noutside a trial,\n8 December 2020", 478)
+mark(D(2020, 12, 8), -20, 470, "vaccination begins\nin Britain,\n8 December 2020", 478)
 mark(D(2023, 5, 5), -20, 300, "emergency\ndeclared over,\nMay 2023", 308)
 ax.text(D(2020, 4, 10), 115, "Bergamo and\nNew York,\nspring 2020", ha="center", va="bottom", **T)
 ax.plot([D(2020, 4, 10), D(2020, 4, 10)], [62, 112], color=INK, lw=1.4, zorder=5)

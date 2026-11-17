@@ -1,0 +1,4 @@
+# Fixes from the flow-pass fix list
+
+- Part A MINOR, "In 2007 came the telephone with a screen": fixed (phones with screens and web access existed before 2007; 2007 was the iPhone). "In 2007 came the iPhone, a telephone that was almost all screen, and a flood of imitators, which meant that people carried all of it with them." Source: https://www.computerhistory.org/revolution/mobile-computing/18/321
+- Part A MINOR, "a hundred and twenty-six thousand news stories": fixed (the study counted about 126,000 sharing cascades, not distinct stories). "...followed a hundred and twenty-six thousand chains of sharing on Twitter over eleven years, each one a news story passed from person to person that independent fact-checkers had judged true or false." Source: https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308

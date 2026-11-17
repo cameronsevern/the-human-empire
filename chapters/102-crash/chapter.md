@@ -101,7 +101,7 @@ Taken across the whole world, the thirty years after 1980 were the best that the
 
 The picture changes, however, when the gains are set side by side.
 
-If the gains of the twenty years to 2008 are plotted for every level of income on Earth, from the poorest to the richest, the line has the shape of an elephant. It rises over a great back, where the new middle classes of Asia nearly doubled their incomes. It drops into a trough, where the working people of the old industrial countries are found, and where incomes barely moved. At the far end, it shoots up the raised trunk, where the very richest took the largest share of all.
+If the gains of the twenty years to 2008 are plotted for every level of income on Earth, from the poorest to the richest, the line has the shape of an elephant. It rises over a great back, where the new middle classes of Asia nearly doubled their incomes. It drops into a trough, where the working people of the old industrial countries are found, and where incomes barely moved. At the far end, it shoots up the raised trunk, where the incomes of the very richest rose by nearly two thirds.
 
 Factory workers in the old industrial countries were told that the system was working. For them it was not, and they had been getting by on borrowed money.
 

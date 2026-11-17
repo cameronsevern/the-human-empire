@@ -57,7 +57,7 @@ Soon the dead outran the town's ability to bury them. The local newspaper's page
 
 On 11 March the World Health Organization declared a pandemic, a disease spreading across the whole world. Governments that had watched Wuhan and thought it could not happen to them now copied it. By the first week of April some four billion people, half of the human race, had been told to stay at home.
 
-For a few weeks, much of the world stood still. Borders closed. Nine out of ten passenger flights were cancelled. The centres of London, Paris, Delhi and New York stood empty in the middle of the day. With the traffic gone, people in cities that had been smoggy for decades saw mountains on the horizon. The dying, however, went on. In the state of New York eight hundred people were dying daily, and refrigerated lorries were parked outside the hospitals to hold the bodies.
+For a few weeks, much of the world stood still. Borders closed. Air travel fell by more than nine tenths. The centres of London, Paris, Delhi and New York stood empty in the middle of the day. With the traffic gone, people in cities that had been smoggy for decades saw mountains on the horizon. The dying, however, went on. In the state of New York eight hundred people were dying daily, and refrigerated lorries were parked outside the hospitals to hold the bodies.
 
 ![Times Square in New York seen from the pavement between tall buildings and video screens, almost empty apart from pigeons, police vehicles and a few people](images/timessq.jpg)
 *Times Square in New York on the afternoon of 31 December 2020, almost empty, with pigeons on the paving, during the restrictions of the pandemic. Photo: NatalieWynnePace, CC BY 4.0.*
@@ -116,7 +116,7 @@ Fifteen years later it was the basis of both vaccines. The German one, made with
 On 9 November 2020 the result was announced. It prevented more than nine cases in ten. On 8 December a ninety-year-old grandmother in the English city of Coventry became the first person in the world to receive it outside a trial. The fastest that a vaccine against a new disease had been developed before was four years.
 
 ![A disposable syringe with a blue-hubbed needle lying in a moulded cardboard tray, with a small vial beside it, on a white surface](images/vial.jpg)
-*The syringe and vial used for the first Covid vaccination outside a trial, given to Margaret Keenan, aged ninety, at a hospital in Coventry, England, on 8 December 2020. Photo: The wub, CC BY-SA 4.0.*
+*The syringe and vial used for the first vaccination with the Pfizer-BioNTech Covid vaccine outside a trial, given to Margaret Keenan, aged ninety, at a hospital in Coventry, England, on 8 December 2020. Photo: The wub, CC BY-SA 4.0.*
 
 Governments had helped to make it happen. They had paid for much of the research and had ordered hundreds of millions of doses before anyone knew whether they would work. Over the next three years more than thirteen billion doses of the various vaccines were given. In their first year alone they are estimated to have saved between fourteen and twenty million lives. Karikó shared the Nobel prize for medicine in 2023.
 
@@ -135,7 +135,7 @@ Faced with that, the government banned the export of vaccines. As a result, the 
 
 ## Masts
 
-The disease was accompanied by an epidemic of stories about it. Some were simply absurd. In April 2020, in Britain, people who believed that the virus was caused or spread by a new kind of mobile telephone signal set fire to more than eighty transmitter masts. Others came from the very top. An American president suggested at a press conference that doctors might look into injecting disinfectant. Millions, meanwhile, took a drug meant for malaria and another meant for parasitic worms, neither of which did any good.
+The disease was accompanied by an epidemic of stories about it. Some were simply absurd. In the spring of 2020, in Britain, people who believed that the virus was caused or spread by a new kind of mobile telephone signal set fire to more than eighty transmitter masts. Others came from the very top. An American president suggested at a press conference that doctors might look into injecting disinfectant. Millions, meanwhile, took a drug meant for malaria and another meant for parasitic worms, neither of which did any good.
 
 The most lethal of the rumours concerned the vaccines, which were said to alter the genes, to cause sterility, or to contain a tracking chip. In the United States the question of whether to be vaccinated, or to wear a mask, became a badge of political loyalty.
 
@@ -159,14 +159,14 @@ Governments reported about seven million deaths from the disease. The true numbe
 
 The better measure is to count how many more people died, of all causes, than would have been expected in ordinary years. That method does not depend on how many of the dead were tested. It also includes those who died because the hospitals were full. On the World Health Organization's reckoning the pandemic had killed about fifteen million people by the end of 2021. Other estimates put the total at well over twenty million by the time the World Health Organization declared the emergency over, in May 2023.
 
-![Line chart of estimated excess deaths in the world each week from 2020 to 2023, with a shaded range around the line. A small rise in spring 2020, the time of Bergamo and New York, grows to about 200,000 a week by the end of 2020, when the first vaccine was given outside a trial. The highest peak, about 350,000 a week in spring 2021, comes with the wave in India. Later peaks are lower, and by May 2023, when the emergency was declared over, the line is under 100,000 a week. About 23 million more deaths than in ordinary years by May 2023, an estimate](images/chart_excess_deaths.png)
+![Line chart of estimated excess deaths in the world each week from 2020 to 2023, with a shaded range around the line. A small rise in spring 2020, the time of Bergamo and New York, grows to about 200,000 a week by the end of 2020, when vaccination began in Britain. The highest peak, about 350,000 a week in spring 2021, comes with the wave in India. Later peaks are lower, and by May 2023, when the emergency was declared over, the line is under 100,000 a week. About 23 million more deaths than in ordinary years by May 2023, an estimate](images/chart_excess_deaths.png)
 *Excess deaths in the world each week, 2020 to 2023: how many more people died, of all causes, than in ordinary years. The line is an estimate, and the shading shows its range. Chart: drawn for this book; data from The Economist's excess-mortality estimates, via Our World in Data.*
 
 The average length of human life, which had been rising almost without a break since 1950, fell by nearly two years.
 
 ## What it left
 
-The great epidemics of the past changed the societies that survived them. The plague left quarantine and the first boards of health. Cholera gave the cities of the nineteenth century their sewers and clean water. Other shocks did the same. The financial crashes left central banks and insurance for deposits, and the Depression left the welfare state. Each disaster, in other words, left an institution behind it.
+The great epidemics of the past changed the societies that survived them. The plague left quarantine and the first boards of health. Cholera gave the cities of the nineteenth century their sewers and clean water. Other shocks did the same. The financial panics left America its central bank and insurance for deposits, and the Depression turned scattered pensions and benefits into the welfare state. Each disaster, in other words, left an institution behind it.
 
 What this one has left is not yet clear, although some changes can already be seen. A way of making vaccines that can be redesigned in a weekend is being tried against cancer and malaria. Work has moved too. A quarter of all paid working days in America are now spent at home, five times as many as before.
 

@@ -63,7 +63,7 @@ First, the terminal reads the account number from the chip in the card and sends
 The cardholder's bank checks that the account exists and has the money or the credit. Its computer also gives the purchase a score for the likelihood of fraud, by comparing it with everything the cardholder has bought before. The question is whether this purchase looks like the person who owns the card. A coffee in the usual street passes. A television bought at three in the morning in another country may not. The answer travels back along the same chain, and the terminal beeps.
 
 ![Close view of the gold-coloured contact plate of the chip on the front of a credit card](images/chip.jpg)
-*The contact plate of the chip on a Mastercard credit card. The terminal reads the account number from the chip through these contacts. Photo: Bautsch, CC0.*
+*The contact plate of the chip on a Mastercard credit card. A terminal reads the chip through these contacts when the card is pushed into it; a tapped card talks to the terminal by radio, through an aerial hidden in the plastic. Photo: Bautsch, CC0.*
 
 No money has moved yet. All that has passed is a question and an answer. At the end of the day the network adds up what every bank owes every other and tells each one a single net figure, and the banks adjust their accounts with one another. A whole day's purchases are thus settled with a few changes to a few numbers. The shop is paid a day or two later.
 
@@ -105,7 +105,7 @@ The convenience had a price that was easy to overlook. Two companies had come to
 
 ## A public road
 
-India took a third course. Instead of leaving payments to banks and card networks, as in America, or to two giant companies, as in China, it built a shared system that anyone could use. In 2016 a body set up by the central bank and owned by the country's banks switched on a payments system, known by its initials as UPI, that worked like a public road. Any bank and any telephone application may connect to it. A person chooses a short address, like an email address, and money sent to it moves from one bank account to another in a few seconds, at any hour, for nothing. Neither the payer nor the shopkeeper pays a fee.
+India took a third course. Instead of leaving payments to banks and card networks, as in America, or to two giant companies, as in China, it built a shared system that anyone could use. In 2016 a body set up by the central bank and owned by the country's banks switched on a payments system, known by its initials as UPI, that worked like a public road. Any bank, and any telephone application that meets its rules and works through a member bank, may connect to it. A person chooses a short address, like an email address, and money sent to it moves from one bank account to another in a few seconds, at any hour, for nothing. Neither the payer nor the shopkeeper pays a fee.
 
 It rested on two earlier programmes, each of which helped it reach people. First, the government had issued more than a billion Indians with an identity number tied to their fingerprints and the pattern of their eyes, so that a bank could know who a customer was. Second, it was opening basic bank accounts by the hundred million for people who had never had one.
 
@@ -150,7 +150,7 @@ A few weeks later the Western powers began to cut the largest Russian banks off 
 ![A woman writing a message with a pen on the side of a lorry, with two small Canadian flags on her headband](images/ottawa.jpg)
 *A protester writing on a lorry in Ottawa on 12 February 2022, during the blockade of the city centre. Photo: Maksim Sokolov, CC BY-SA 4.0.*
 
-Cash leaves no record. A payment in notes cannot be profiled, sold to advertisers, or blocked.
+Cash leaves no record. A payment in notes cannot be profiled or sold to advertisers, and money in a drawer cannot be frozen from a distance the way a bank account can.
 
 Cash also serves people whom the new systems do not reach. As it disappears, those who cannot or will not use the alternatives are shut out. About one and a third billion adults in the world still have no account of any kind. In the rich countries it is the old, the homeless and the recently arrived who find that the bus, the car park and the public lavatory no longer take coins.
 

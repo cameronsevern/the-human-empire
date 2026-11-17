@@ -1,0 +1,3 @@
+# Fixes from the flow-pass fix list
+
+- Part B CONFLICT, "shut out Japanese immigrants almost entirely" (was "shut out Japanese entirely"): correct as written (new wording kept). The 1924 act barred "aliens ineligible to citizenship" from entering as immigrants, which ended Japanese immigration. Japanese could still enter in categories the act did not class as immigrants, such as treaty traders, visitors and students, so "almost entirely" is the safe statement and the old wording is not restored. Source: https://en.wikipedia.org/wiki/Immigration_Act_of_1924 ; https://encyclopedia.densho.org/Immigration%20Act%20of%201924/

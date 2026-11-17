@@ -22,7 +22,7 @@ The idea that a machine might think is as old as the computer. In 1950 Alan Turi
 ![A statue of a seated man made of layers of slate, working at a small desk, with a plaque reading Alan Turing 1912 to 1954](images/turing.jpg)
 *A statue of Alan Turing in slate, made by Stephen Kettle in 2007, in the museum at Bletchley Park, where Turing worked on German ciphers in the war. Photo: DeFacto, CC BY-SA 4.0.*
 
-Six years later ten American scientists gathered for a summer at a college in New Hampshire to study what one of them had named artificial intelligence. Their proposal said that they thought a significant advance could be made if a carefully selected group worked on it together for a summer.
+Six years later a changing group of about twenty scientists came and went over a summer at a college in New Hampshire to study what one of them had named artificial intelligence. Their proposal said that they thought a significant advance could be made if a carefully selected group worked on it together for a summer.
 
 It took rather longer. For thirty years most researchers tried to build intelligence by writing down rules. The idea was to take what an expert knows and spell it out, step by step, for the machine to follow. A program for medical diagnosis would be given thousands of statements of the form: if the patient has a fever and a rash, consider measles.
 
@@ -59,7 +59,7 @@ The examples came first. A computer scientist who had come to America from China
 
 Speed came from an unexpected quarter. The arithmetic of a neural network consists of an enormous number of simple multiplications, a great many of which can be done at once. Chips designed for exactly that already existed. They had been built to draw the moving pictures in video games. Games, in effect, had already paid for the hardware that the new method needed.
 
-In 2012 two of Hinton's students trained a network on that collection of photographs, using two video-game cards in a bedroom, and entered it in the annual competition for recognising objects in pictures. The next best entry failed on one picture in four. Theirs failed on one in seven. Within three years such networks were making fewer mistakes on that test than people did.
+In 2012 two of Hinton's students trained a network on that collection of photographs, using two video-game cards in a bedroom, and entered it in the annual competition for recognising objects in pictures. Each entry was allowed five guesses at each picture. The next best entry missed with all five on one picture in four. Theirs missed on fewer than one in six. Within three years such networks were making fewer mistakes on that test than people did.
 
 ![An elderly man with grey hair in a dark jacket and a patterned tie, standing behind a wooden lectern marked Royal Swedish Academy of Sciences](images/hinton.jpg)
 *Geoffrey Hinton at the Nobel Lectures in Stockholm in December 2024, after he shared the Nobel Prize in Physics for his work on neural networks. Photo: Jay Dixit, CC BY-SA 4.0.*
@@ -130,13 +130,13 @@ A mistake of this kind can also put a person in handcuffs. In January 2020 a man
 
 The deeper difficulty is explanation. A clerk who refuses a benefit can be asked why. A network with a billion weights cannot answer in a way that a person can readily check. Its makers themselves often cannot say why it gave one answer and not another. The Dutch parents ran into exactly that wall.
 
-One answer has been law. The European Union passed a law in 2024 that bans some uses outright, such as scoring citizens for general trustworthiness, and requires that systems used for certain serious decisions about people, in hiring, credit, policing and the like, be documented, tested for bias, and overseen by a human being who is able to overrule them.
+One answer has been law. The European Union passed a law in 2024 that has banned some uses outright since early 2025, such as scoring citizens for general trustworthiness. From August 2026 it also requires that systems used for certain serious decisions about people, in hiring, credit, policing and the like, be documented, tested for bias, and overseen by a human being who is able to overrule them.
 
 ## Three predictions
 
 About what comes next, the people who know most disagree. Some of them are afraid. In May 2023 several hundred researchers and executives, including the heads of the three leading laboratories and two of the scientists who had done most to invent the method, signed a statement of a single sentence. Mitigating the risk of extinction from AI, it said, should be a global priority alongside other societal-scale risks such as pandemics and nuclear war.
 
-Their reasoning is that a system far more capable than any person, pursuing whatever goal it had been given, might not be something that its makers could correct or switch off. The fear, in other words, is less of a machine that turns hostile than of one that cannot be stopped. That month Hinton resigned from his post so that he could say so freely.
+Their reasoning is that a system far more capable than any person, pursuing whatever goal it had been given, might not be something that its makers could correct or switch off. The fear, in other words, is less of a machine that turns hostile than of one that cannot be stopped. A few weeks earlier Hinton had resigned from his post so that he could say so freely.
 
 Others take the opposite view: that the danger lies in going too slowly. They point out that these systems may cure diseases, speed up science and make every person on Earth richer, and that each year of delay costs lives. They add that if cautious countries hold back, less cautious ones will not. Restraint, on this view, would only hand the lead to others.
 

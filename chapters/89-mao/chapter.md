@@ -150,7 +150,7 @@ For the first time in forty years, one authority ruled the whole mainland, and o
 
 One of its first laws dealt with marriage. It banned the sale of brides, the betrothal of children and the keeping of concubines, and declared that a marriage required the free consent of both partners. Mao himself, as a young man, had refused the wife who was chosen for him. The new law gave every young person the same right. Women had held the right to ask for a divorce on paper for twenty years. Now village courts enforced it, and in the next few years more than a million used it.
 
-Land reform was carried to the whole country. By the end of 1952 nearly half the farmland of China had been taken from landlords and distributed to three hundred million peasants. It was one of the largest transfers of property in history.
+Land reform was carried across most of the Chinese countryside. By the end of 1952 nearly half the farmland of China had been taken from landlords and distributed to three hundred million peasants. It was one of the largest transfers of property in history.
 
 The price was paid in blood. Hundreds of thousands of landlords were killed in the process, and by some counts two million. In the same years a campaign against "counter-revolutionaries", who included former Nationalist officials, bandits and members of religious sects, ended with the execution of more than seven hundred thousand people. Mao set quotas for it, province by province, as a proportion of the population. Killing, in other words, had become a matter of planning.
 

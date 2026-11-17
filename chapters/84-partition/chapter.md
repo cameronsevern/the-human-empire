@@ -31,7 +31,7 @@ For centuries before the British, Muslim dynasties had ruled most of India, and 
 
 The reasoning was simple, and it frightened people. If the country was to be governed by votes, the larger group would win. Hindus outnumbered Muslims nearly three to one. On any question that split the voters by religion, then, the Muslims could expect to lose, not once but every time.
 
-The British had met this problem in 1909 in a way that fixed it in place. When they first allowed Indians to elect a few members to the councils that advised the government, they gave Muslims a separate list of voters and seats reserved for them. A Muslim politician from then on needed only Muslim votes, and a Hindu only Hindu ones. Religion had become the unit of politics.
+The British had met this problem in 1909 in a way that fixed it in place. When they widened the election of Indian members to the councils that advised the government, they gave Muslims a separate list of voters and seats reserved for them. A Muslim standing for one of those seats from then on needed only Muslim votes, and had no reason to ask a Hindu for anything. Religion had become the unit of politics.
 
 The Indian National Congress, the movement led by Gandhi and by his younger colleague Jawaharlal Nehru, insisted that it spoke for all Indians of every faith. It had many Muslim members. Its leaders, however, were mostly Hindus. Gandhi himself spoke the language of Hindu holiness, and to a Muslim listening from outside, the claim to speak for everyone could sound thin.
 
@@ -51,7 +51,7 @@ The difference was more than a matter of words. A minority can be outvoted, and 
 
 In March 1940, at a meeting in the city of Lahore, the Muslim League turned the argument into a programme. It voted to demand that the Muslim-majority regions of the north-west and the east should become independent states. It did not use the name Pakistan. That had been invented seven years earlier by a student at Cambridge, who made it from the initials of the north-western provinces, Punjab, the Afghan frontier, Kashmir and Sindh, and the end of Baluchistan. By a happy chance the word also means "land of the pure".
 
-What Jinnah truly wanted is still disputed, and the puzzle begins with his own silence. He never said exactly where the borders of Pakistan would run or whether it would be wholly separate. Some historians believe that he was bargaining, and that his real aim was a guaranteed share of power for Muslims inside a united India. On that reading, Pakistan was a threat laid on the table, the price of agreement rather than the goal itself.
+What Jinnah truly wanted is still disputed. Some historians believe that he was bargaining, and that his real aim was a guaranteed share of power for Muslims inside a united India. On that reading, Pakistan was a threat laid on the table, the price of agreement rather than the goal itself.
 
 ## The last chance
 
