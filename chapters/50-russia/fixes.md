@@ -1,0 +1,5 @@
+# Fixes from the flow-pass re-check
+
+- Part A MINOR, Russia had "little else that foreigners wished to buy": fixed. "Their country had no gold or silver mines at that time. It sold hemp, hides and wax abroad, but fur was worth far more by weight than any of them." Source: https://www.tcd.ie/Economics/assets/pdf/SER/2004/Alexander_Gorokhovsky.pdf
+- Part A MINOR, "a Qing official and garrison had sat in Lhasa ever since": fixed. "...had been occupied by a Qing army in reply, and a few years later Qing officials and a garrison were posted to Lhasa for good." (garrison withdrawn 1723; ambans from 1727.) Source: https://en.wikipedia.org/wiki/Amban
+- Part A MINOR, Nerchinsk "nobody on either side spoke the other's language": fixed. "They had an immediate practical problem, which was finding a language that both sides could trust." (Mongolian interpreters were present; Latin was chosen through the Jesuits.) Source: https://en.wikipedia.org/wiki/Treaty_of_Nerchinsk (Russians asked to switch to Mongolian)

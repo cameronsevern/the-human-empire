@@ -1,0 +1,4 @@
+# Fixes from the flow-pass re-check
+
+- Part A MAJOR, the nawab behind the 1764 alliance was Mir Qasim, not Mir Jafar: fixed. "The new ruler soon disappointed his masters, and they replaced him with his son-in-law. He in turn fell out with them, and in 1764 he joined an alliance of northern princes, with the Mughal emperor himself among them, to drive the Company out of Bengal." Source: https://en.banglapedia.org/index.php/Mir_Qasim
+- Part A MAJOR, Roe "went home with leave for the English to keep a trading house in one port": fixed. "For all that effort, he went home without the treaty he had come for, carrying only a set of trading privileges for the English merchants at Surat and a few inland towns." Source: https://ibiblio.org/britishraj/Jackson7/chapter06.html (Roe's treaty draft was never ratified; farmans; five factories by 1618)

@@ -1,0 +1,4 @@
+# Fixes from the flow-pass re-check
+
+- Part A MINOR, petitioning had won "a vote for town councils and nothing more" (women also voted for school boards, county councils and poor-law guardians): fixed. "Forty years of polite petitioning had won women a vote in local elections and nothing more." Source: https://www.parliament.uk/about/living-heritage/transformingsociety/electionsvoting/womenvote/overview/startsuffragette/
+- Part A MINOR and Part B CONFLICT, 1918 qualifications: fixed, keeping the new "thirty and over". "In 1918 Parliament gave the vote to women of thirty and over who occupied a home or other property, or were married to a man who did, about eight and a half million of them." The Act says "attained the age of thirty years", so "thirty and over" is right and the old "over thirty" was not; the qualification was occupation of land or premises, not only householding. Source: https://www.legislation.gov.uk/ukpga/Geo5/7-8/64/section/4/enacted

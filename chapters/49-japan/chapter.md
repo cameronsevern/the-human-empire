@@ -97,7 +97,7 @@ Yi was hurriedly given back his command and found that it consisted of thirteen 
 
 Hideyoshi died the following year, and his generals were glad to go home. Yi was killed by a bullet in the last battle of the war, attacking the retreating fleet. He told his nephew to hide his death until the fighting was over.
 
-The war had achieved nothing for Japan and had wrecked Korea. The country lost a large part of its people and most of its farmland went out of use for years.
+The war had won Japan none of the land or power it set out to win, and it had wrecked Korea. The country lost a large part of its people and most of its farmland went out of use for years.
 
 The killing had been done with a kind of bookkeeping. Japanese soldiers had been paid by the number of enemies they killed. Since heads were too bulky to ship, they cut off noses and ears, packed them in barrels of salt, and sent them home to be counted. There is a grassy mound in Kyoto where tens of thousands of them are buried.
 
@@ -165,7 +165,7 @@ In return for all this, Japan received something that almost no other country ha
 
 Peace changed the lives of the men who had been raised for war. The samurai, who made up about one family in fifteen, kept their two swords and had nobody to use them on. They became clerks, tax officials and schoolteachers.
 
-The gun, which had started it all, faded from the battlefield without disappearing from the country. Guns went on being made, under licence, and farmers kept them for shooting boar and deer. For two hundred years, however, no Japanese army fired one in battle.
+The gun, which had started it all, faded from the battlefield without disappearing from the country. Guns went on being made, under licence, and farmers kept them for shooting boar and deer. For two hundred years, however, guns were almost never fired in battle in Japan.
 
 Ordinary people, meanwhile, did well out of the quiet. Farmers cleared new land, and the population doubled in a century. The rule that brought the lords to Edo helped too. The lords' processions, and the need to supply their households in Edo, covered the country with good roads, inns and shipping routes. By 1720 Edo had about a million people and was the largest city in the world.
 

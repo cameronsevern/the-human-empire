@@ -71,13 +71,13 @@ The tsar set out for the capital by train, and never reached it. Railway workers
 
 ## Two governments
 
-Power had fallen into the street, and two bodies picked it up at the same moment, in opposite wings of the same palace.
+Power had fallen into the street, and two bodies picked it up at the same moment, in opposite wings of the Tauride Palace, where the parliament met.
 
 In one wing, the leading members of the parliament formed what they called a Provisional Government. Its task was to run the country until an assembly could be elected to write a constitution. They were mostly liberals: lawyers, professors and landowners who wanted Russia to become a country like France or Britain. Moderate socialists joined them within weeks, and by the summer one of these, a lawyer named Kerensky, was prime minister.
 
 The new government began boldly. It announced freedom of speech, of the press and of religion, an end to the death penalty, and equal rights for everyone including Jews. For a few months Russia was, on paper, the freest country in the world.
 
-In the other wing sat the Petrograd Soviet, a council of delegates elected by the factories and the regiments, of the kind the strikers had first set up in 1905. It did not claim to be the government. However, the workers and soldiers obeyed it, and they did not obey anybody else. Its first order told every military unit to elect a committee of soldiers, which would control the weapons, and to follow the government's commands only where the Soviet agreed. With that order, the soldiers of the capital looked to the Soviet before the government.
+In the other wing sat the Petrograd Soviet, a council of delegates elected by the factories and the regiments, of the kind the strikers had first set up in 1905. It did not claim to be the government. However, the workers and soldiers obeyed it, and they did not obey anybody else. Its first order told the soldiers of the capital's garrison to elect committees, which would control the weapons, and to obey the government's military orders only where the Soviet agreed. With that order, the soldiers of the capital looked to the Soviet before the government.
 
 The Provisional Government therefore had the responsibility and no power. In that position it made two decisions, each of them honourable, which together destroyed it.
 
@@ -91,7 +91,7 @@ The soldiers wanted the war to stop, and the peasants wanted the land at once. T
 
 Among the parties of any size, one was prepared to tell them to go ahead at once.
 
-Its leader had been born Vladimir Ulyanov, the son of a school inspector in a town on the Volga. When he was seventeen, his adored elder brother was hanged for his part in a plot to kill the tsar. He became a lawyer and a follower of Marx, was exiled to Siberia, and from 1900 lived abroad, in Munich, London, Geneva and Zurich, writing under the name Lenin.
+Its leader had been born Vladimir Ulyanov, the son of a school inspector in a town on the Volga. When he was seventeen, his adored elder brother was hanged for his part in a plot to kill the tsar. He became a lawyer and a follower of Marx, was exiled to Siberia, and from 1900 lived mostly abroad, in Munich, London, Geneva and Zurich, writing under the name Lenin.
 
 Lenin added one thing to the teaching of Marx, and it changed the history of the century. Marx had expected the workers to make the revolution themselves, once the growth of industry had made them the majority. Lenin did not believe that they would. Left to themselves, he argued, workers would settle for higher wages. A revolution therefore needed a party of full-time revolutionaries, small, secret and under strict discipline, which would lead the working class and act in its name.
 
@@ -113,7 +113,7 @@ In August a general tried to march on the capital and restore order. The governm
 
 ## A quiet night
 
-The second revolution was nothing like the first. There were no crowds. It was planned by a committee and carried out in a night.
+The second revolution was nothing like the first. There were no great crowds in the streets. It was planned by a committee and carried out in little more than a day.
 
 On the evening of 24 October, small squads of soldiers, sailors and armed workers, directed by Lenin's ablest colleague, Leon Trotsky, went out across Petrograd. They took over the bridges, the railway stations, the power station, the telephone exchange and the state bank, in most cases by walking in and telling the guards to go home. Life in the city carried on around them. The trams went on running, and the theatres and restaurants were full. Most of the city went to bed without knowing that anything had happened.
 
@@ -134,7 +134,7 @@ Lenin had always said that a revolution in backward Russia could not survive alo
 ![Map of Russia in the civil war: a red area labelled Reds round Moscow, Petrograd and Yekaterinburg, blue areas labelled Whites in the south, in Siberia, in the far north and near Petrograd, arrows marking foreign landings at Murmansk, Arkhangelsk, Odessa and Vladivostok, the lands to the west hatched as given up by the treaty of 1918, and the Trans-Siberian railway running east to Vladivostok](images/map_civil_war.png)
 *Russia in the civil war, roughly as it stood in October 1919: the Reds in the centre, the Whites round the edge, and the ports where foreign troops landed in 1918. The hatched lands in the west were given up by the treaty of March 1918. Map: drawn for this book; coastlines and rivers from Natural Earth, public domain.*
 
-The fire never spread far. Revolutions did break out in Germany and Hungary at the end of the war, and each was put down within months. Russia, meanwhile, had fallen into civil war.
+The fire never spread far. Revolutions did break out in Germany and Hungary at the end of the war. Germany became a republic, and the communists who tried to go further were crushed within months; the soviet republic in Hungary lasted four months. Russia, meanwhile, had fallen into civil war.
 
 On one side, former tsarist officers raised armies in the south, in Siberia and on the Baltic. They were called the Whites. Britain, France, the United States and Japan landed troops at the ports to help them. On the other side, the Bolsheviks, who now called themselves Communists, held the middle of the country: Moscow, Petrograd and the railways that ran out from them.
 

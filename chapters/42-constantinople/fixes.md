@@ -1,0 +1,5 @@
+# Fixes from the flow-pass re-check
+
+- Part A MAJOR, guns "took far more money than any baron or town had": fixed. "To keep them in numbers took more money and organisation than any baron, and most towns, could find." (Florence and other city-states fielded artillery.) Source: https://doi.org/10.1163/22134603-00401001
+- Part A MINOR, Hagia Sophia "the largest church in the world" in 1453: fixed. "Its church of Holy Wisdom, Hagia Sophia, had been the largest church in the world for centuries after it was built." (from 537 until Cluny III about 1130); later "the greatest church of the eastern Christians became a mosque." Source: https://smarthistory.org/?p=14551
+- Part A MINOR, "four times what the emperor had promised": fixed. "The sultan gave him a salary far larger than the emperor had promised, along with a supply of bronze, and told him to start." Source: Doukas via https://search.trdizin.gov.tr/yayin/detay/516076/osmanli-top-teknolojisinin-burgonya-dukaligina-aktarimi-1457-1467 (Orban left when the sultan offered better pay)

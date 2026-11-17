@@ -126,7 +126,7 @@ A machine of that kind changed two things at once. A young woman who owned one c
 
 ## Deeds, not words
 
-In Britain, however, the change in women's lives had not yet reached Parliament. Forty years of polite petitioning had won women a vote for town councils and nothing more. The main suffrage society had tens of thousands of members and friends in every party.
+In Britain, however, the change in women's lives had not yet reached Parliament. Forty years of polite petitioning had won women a vote in local elections and nothing more. The main suffrage society had tens of thousands of members and friends in every party.
 
 Support of that kind, however, could be politely ignored. Bills to give women the vote were introduced almost every year, praised in debate, and allowed to lapse.
 
@@ -162,7 +162,7 @@ The most dangerous of the new jobs were in the arms industry. Nearly a million w
 
 After that, it was difficult to argue that women had no stake in the nation's affairs. They had worked, and some had died, for the nation's war.
 
-A practical problem also forced Parliament's hand. The voting registers had to be redrawn in any case, since millions of soldiers had lost their qualification by leaving home. Once the law had to be rewritten for the men, it could be rewritten for women too. In 1918 Parliament gave the vote to women of thirty and over who were householders or the wives of householders, about eight and a half million of them.
+A practical problem also forced Parliament's hand. The voting registers had to be redrawn in any case, since millions of soldiers had lost their qualification by leaving home. Once the law had to be rewritten for the men, it could be rewritten for women too. In 1918 Parliament gave the vote to women of thirty and over who occupied a home or other property, or were married to a man who did, about eight and a half million of them.
 
 Women were not the only people without the vote. Until 1918, two British men in every five had no vote either, because they did not own or rent a home of their own, or had not lived in one place long enough to be registered. Most of the soldiers in the trenches were fighting for a country in whose government they had no say. The act of 1918 gave the vote to virtually every man of twenty-one and over.
 

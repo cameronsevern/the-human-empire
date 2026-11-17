@@ -23,7 +23,7 @@ In law, his subjects were divided into three orders, called estates. The first w
 ![Coloured print of a bent peasant carrying a priest and a noble on his back](images/three_orders.jpg)
 *A French print of 1789: the peasant of the Third Estate carries the priest and the noble on his back.*
 
-A French peasant therefore paid the king's tax, paid a tenth of his crop to the church, and paid a tangle of dues to the local lord, for the use of the lord's mill and oven and for the right to sell his own land. The lord's pigeons ate his seed, and he was forbidden to shoot them.
+A French peasant therefore paid the king's tax, paid a share of his harvest to the church, and paid a tangle of dues to the local lord, for the use of the lord's mill and oven and for the right to sell his own land. The lord's pigeons ate his seed, and he was forbidden to shoot them.
 
 The system could have lasted a good while longer if the government had not run out of money. For a century the kings of France had fought their wars on credit. Because a king who answered to nobody could cancel his debts at will, lenders charged him dearly. Borrowing was therefore an expensive way for a French king to pay for anything, and war was the most expensive thing he did. The last war, in support of the American rebels, had been a triumph and had cost more than a billion livres. By 1788 half of everything the king collected went on interest. A government in that position has to find new money or stop paying its debts.
 
@@ -77,7 +77,7 @@ The Americans had a hand in it. The first draft was put forward by the nobleman 
 ![Painting of two tablets of text between a seated woman holding broken chains and a winged figure, under an eye in a triangle](images/rights_of_man.jpg)
 *The Declaration of the Rights of Man and of the Citizen, painted as two tablets by Jean-Jacques Le Barbier in 1789.*
 
-The king put off signing it. His delay and the hunger of Paris then came together. In October several thousand market women of Paris, furious at the price of bread, walked the twenty kilometres to Versailles in the rain, dragging cannon. They broke into the palace, and the next day they escorted the royal family back to Paris, where it would be under the eyes of the people. They sang as they went that they were bringing the baker, the baker's wife and the baker's boy.
+The king put off signing it. His delay and the hunger of Paris then came together. In October several thousand market women of Paris, furious at the price of bread, walked the twenty kilometres to Versailles in the rain, dragging cannon. Early the next morning they broke into the palace, and that afternoon they escorted the royal family back to Paris, where it would be under the eyes of the people. They sang as they went that they were bringing the baker, the baker's wife and the baker's boy.
 
 ![Engraving of a crowd of women with cannon and carts on a road, labelled in French](images/women_march.jpg)
 *The women of Paris setting out for Versailles on 5 October 1789, in an engraving by Berthault after Prieur.*
@@ -134,7 +134,7 @@ Then the revolutionaries turned on each other. In June the radicals of Paris, ba
 ![Map of France in 1793 with Paris, Versailles, Varennes, Lyon, Marseille and Toulon, the region in revolt in the west shaded south of the Loire, and arrows for the invading armies: Austrians, British and Dutch in the north-east, Prussians and Austrians on the Rhine, Sardinians in the Alps, Spaniards over the Pyrenees, and the British fleet at Toulon](images/map_france_1793.png)
 *France in 1793: the revolt in the west, roughly, and the enemies who came in on every frontier. The arrows show roughly where the invading armies entered. Map: drawn for this book; coastlines and rivers from Natural Earth, public domain.*
 
-The assembly gave emergency powers to a committee of its members, which soon numbered twelve, the Committee of Public Safety. Its most influential member was a small, neat lawyer of thirty-five named Maximilien Robespierre. He was known as the Incorruptible, because he could not be bought. Two years earlier he had argued for abolishing the death penalty.
+In the spring the assembly had given emergency powers to a committee of its members, the Committee of Public Safety, and by the autumn its twelve men ruled France. Its most influential member was a small, neat lawyer of thirty-five named Maximilien Robespierre. He was known as the Incorruptible, because he could not be bought. Two years earlier he had argued for abolishing the death penalty.
 
 In August 1793, at the Committee's urging, the assembly passed a decree unlike any before it. Until the enemy was driven from the soil of the republic, it said, every French person was in permanent service to the armies. The young men would fight. The married men would forge weapons. The women would make tents and serve in hospitals, the children would turn old linen into bandages, and the old men would be carried to the public squares to rouse the courage of the soldiers.
 

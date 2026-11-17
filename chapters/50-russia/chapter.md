@@ -11,7 +11,7 @@ The animal that drew Russia across a continent is about the size of a house cat.
 
 That coat is what made a small forest animal matter to a government. Rich people in Europe, Turkey, Persia and China all wanted it, and there was never enough. In Moscow in the 1600s, a few good sable skins were worth more than a peasant family earned in a year. A trapper could carry a fortune out of the forest on his back.
 
-Russians called fur "soft gold", and the name was close to literal. Their country had no gold or silver mines at that time, and little else that foreigners wished to buy. Fur therefore did the work that gold did elsewhere. It was what the tsar used to pay for foreign cannon, foreign officers and foreign silver, and it supplied more than a tenth of all his income.
+Russians called fur "soft gold", and the name was close to literal. Their country had no gold or silver mines at that time. It sold hemp, hides and wax abroad, but fur was worth far more by weight than any of them. Fur therefore did the work that gold did elsewhere. It was what the tsar used to pay for foreign cannon, foreign officers and foreign silver, and it supplied more than a tenth of all his income.
 
 The difficulty with an animal like the sable is that it breeds slowly and is easily hunted out. A forest that has been trapped hard is soon empty, and the trappers have to find another. The forests west of the Urals had been stripped of their best fur by the middle of the 1500s. East of the mountains lay a forest larger than the whole of Europe, and almost nobody in Russia knew what was in it. Anyone who knew the fur trade could guess.
 
@@ -103,7 +103,7 @@ For thirty years there were skirmishes. In 1685 the Kangxi emperor sent an army 
 
 Neither government wanted this war, because each had something that it wanted more. Moscow was many months' travel from the Amur, and what the tsar really wanted from China was trade, since the Chinese would pay well for Siberian fur. The emperor, for his part, had a more dangerous enemy rising in the west and did not want the Russians to make friends with him. A quick peace suited them both.
 
-In the summer of 1689 the two sides sent ambassadors to a Russian outpost called Nerchinsk. They had an immediate practical problem, which was that nobody on either side spoke the other's language. The Qing delegation had brought two Jesuit priests, a Frenchman and a Portuguese, who served at the emperor's court as astronomers. The Russian party included a Pole who knew Latin. The negotiations were therefore conducted in Latin, with the Jesuits walking back and forth between the tents.
+In the summer of 1689 the two sides sent ambassadors to a Russian outpost called Nerchinsk. They had an immediate practical problem, which was finding a language that both sides could trust. The Qing delegation had brought two Jesuit priests, a Frenchman and a Portuguese, who served at the emperor's court as astronomers. The Russian party included a Pole who knew Latin. The negotiations were therefore conducted in Latin, with the Jesuits walking back and forth between the tents.
 
 The treaty they wrote drew a border along a range of mountains north of the Amur. Russia gave up the valley and pulled down its fort. The Cossacks' search for bread on the Amur had failed. In return, Russian merchants received the right to bring caravans to Beijing, which was the trade that the tsar had wanted. The official text was the Latin one. It was the first treaty that China had signed with a European state, and it treated the two rulers as equals, which was something the Chinese court of that age granted to nobody else.
 
@@ -145,7 +145,7 @@ A Chinese scholar who studied the records nearly a century later reckoned that o
 
 The emperor settled their empty pastures with farmers, exiles and soldiers from other parts of his empire, and named the region Xinjiang, which means "the new frontier".
 
-The other lands of the old steppe world had been gathered in as well. Tibet, which the Zunghars had invaded a generation earlier, had been occupied by a Qing army in reply, and a Qing official and garrison had sat in Lhasa ever since. Mongolia was divided into banners under Manchu supervision. China under the Qing was twice the size it had been under the Ming.
+The other lands of the old steppe world had been gathered in as well. Tibet, which the Zunghars had invaded a generation earlier, had been occupied by a Qing army in reply, and a few years later Qing officials and a garrison were posted to Lhasa for good. Mongolia was divided into banners under Manchu supervision. China under the Qing was twice the size it had been under the Ming.
 
 The last steppe empire able to threaten a great state was gone. Two farming empires, each with guns, forts, clerks and granaries, now pressed in on the grassland from both sides, and the part that was still free, the Kazakh steppe in the middle, was taken by Russia in the century that followed. The frontier itself moved in the 1850s, when Russia took the Amur after all. There has been a border between Russia and China across the middle of Asia ever since.
 

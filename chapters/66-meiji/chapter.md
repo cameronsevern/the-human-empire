@@ -97,7 +97,7 @@ The break with the past was meant to be visible as well. Men were encouraged to 
 
 In 1873 the government introduced three things on which everything else depended. The first was a land tax. Farmers were given title deeds to their fields and required to pay three per cent of the land's value every year, in money, whatever the harvest. It gave the state an income that it could count on in advance, and it weighed heavily on the peasants. Both effects came from the same rule. Because the sum was fixed in money, the government knew what it would receive whether the rice grew or not. For the same reason, a farmer owed the full amount even in a year when his crop failed.
 
-The second was conscription. Every man of twenty was liable for three years' service in a new national army, armed with rifles and drilled in the European manner.
+The second was conscription. Men of twenty from every class, apart from heirs, students and those who could pay to stay out, were liable for three years' service in a new national army, armed with rifles and drilled in the European manner.
 
 The third was the Western calendar, which put Japan's offices, schools and railways on the same dates as the countries it traded with.
 
@@ -162,7 +162,7 @@ Japan's standing among the powers was changing in the same years. The condition 
 The next rival was of a different order. It was Russia, a European great power, which was pushing its railway and its soldiers into the north of China and towards Korea. In February 1904 Japanese torpedo boats attacked the Russian fleet at its anchorage on the Chinese coast, without a declaration of war. On land, the Japanese army won a series of enormous and bloody battles.
 
 ![Map of Japan and its neighbours about 1905, with Japan, the Ryukyu islands and Taiwan shaded as Japanese, the domains of Satsuma and Chōshū marked in the south-west, Tokyo, Kyoto and Nagasaki, Korea, Port Arthur on the Chinese coast, and a dashed line for the Russian fleet coming north past Taiwan to the strait of Tsushima](images/map_japan.png)
-*Japan and its neighbours about 1905: the home islands and Taiwan, Japanese from 1895; the two south-western domains, Satsuma and Chōshū, drawn roughly; Port Arthur, where the war with Russia began in 1904; and the last stage of the Russian fleet's voyage to the strait of Tsushima in May 1905, simplified. Map: drawn for this book; coastlines and rivers from Natural Earth, public domain.*
+*Japan and its neighbours about 1905: the home islands; Taiwan, taken by Japan in 1895; the two south-western domains, Satsuma and Chōshū, drawn roughly; Port Arthur, where the war with Russia began in 1904; and the last stage of the Russian fleet's voyage to the strait of Tsushima in May 1905, simplified. Map: drawn for this book; coastlines and rivers from Natural Earth, public domain.*
 
 Russia's answer was to send its main fleet from the Baltic Sea to the Pacific. It steamed for seven months round Africa and across the Indian Ocean, more than thirty thousand kilometres, coaling at sea. On 27 May 1905 it entered the strait of Tsushima, between Korea and Japan. The Japanese fleet was waiting. By the following evening, of the thirty-eight Russian ships, twenty-one had been sunk, seven had surrendered, and most of the rest had fled to neutral ports. Japan had lost three torpedo boats.
 

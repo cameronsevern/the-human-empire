@@ -12,7 +12,7 @@ The women of Vienna knew this very well. Those who arrived on a first-clinic day
 
 A young Hungarian doctor named Ignaz Semmelweis, an assistant in the first clinic, could not stop thinking about the difference. The two clinics had the same food, the same linen, the same air. He checked each of the accepted explanations and found that none fitted.
 
-In the end he found that there was one difference only, and it lay in the staff. The second clinic was staffed by midwives. The first was staffed by doctors and medical students, and they came to the wards each morning straight from the dissecting room, where they had been cutting up the bodies of women who had died the day before.
+In the end he found that the difference that mattered lay in the staff. The second clinic was staffed by midwives. The first was staffed by doctors and medical students, and they came to the wards each morning straight from the dissecting room, where they had been cutting up the bodies of women who had died the day before.
 
 ![Old carte-de-visite photograph of Ignaz Semmelweis in profile, balding with a moustache, in a braided jacket](images/semmelweis.jpg)
 *Ignaz Semmelweis, photographed in 1860, five years before he died. Photo: Borsos és Doctor, public domain.*

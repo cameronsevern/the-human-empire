@@ -1,6 +1,6 @@
 # 68. Where did racism come from?
 
-*Europe and the Americas, from 1449 to 1906*
+*Europe and the Americas, from 1449 to 1927*
 
 Distrust of strangers is as old as humanity. The belief that mankind is divided by nature into a few "races", ranked from higher to lower, is only three or four hundred years old. It grew up around the Atlantic slave trade, among people who needed a reason why some human beings could be owned, and it was later dressed in the language of science.
 

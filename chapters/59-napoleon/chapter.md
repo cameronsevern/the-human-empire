@@ -18,7 +18,7 @@ Under the king, the highest ranks of the army had been kept for the great noble 
 
 Toulon had shown that he could win, and his rise after it was quick. At twenty-six he was given command of the ragged army on the Italian frontier. In a year he drove the Austrians out of northern Italy, and sent back to Paris wagonloads of gold and paintings.
 
-He was as good at politics as at war. A popular general is a dangerous neighbour for a weak government, and in 1799 the republic's government was despised and bankrupt. He joined a plot to overthrow it and came out of the plot as the head of state. Five years later he had himself made emperor. More than three and a half million Frenchmen voted in favour, and a few thousand against.
+He was as good at politics as at war. A popular general is a dangerous neighbour for a weak government, and in 1799 the republic's government was despised and bankrupt. He joined a plot to overthrow it and came out of the plot as the head of state. Five years later he had himself made emperor, and the voters were asked to approve an empire that would pass to his heirs. More than three and a half million Frenchmen voted in favour, and a few thousand against.
 
 The coronation was held in the cathedral of Paris, and the pope was brought from Rome to bless the crown. Napoleon then picked it up and put it on his own head. The gesture said that he owed the crown to no one but himself.
 
@@ -135,7 +135,7 @@ His method depended on two things: a quick, decisive battle, and feeding the arm
 
 In September the Russians turned and offered battle at a village outside Moscow, in the bloodiest single day of the whole twenty years of war. About seventy thousand men were killed or wounded. It was a battle, but it was not decisive. The Russians withdrew in good order, which meant that the tsar still had an army. A week later Napoleon rode into Moscow.
 
-The city was empty, and that night it began to burn. Napoleon sat in the Kremlin for five weeks, waiting for the tsar to ask for terms. The tsar did not answer his letters. Napoleon had taken the enemy's capital, and the enemy had simply declined to stop fighting. In the middle of October, with winter coming and nothing to eat, the army turned for home.
+The city was empty, and that night it began to burn. Napoleon sat in the Kremlin for five weeks, waiting for the tsar to ask for terms. The tsar did not answer his letters. Napoleon had taken the enemy's capital, and the enemy had simply declined to stop fighting. In the middle of October, with winter coming and no peace in sight, the army turned for home.
 
 The retreat is one of the great catastrophes of military history. The snow came early in November. Men froze at night around their fires, horses died by tens of thousands, and Russian horsemen picked off the stragglers. Of the six hundred thousand who had gone in, about a hundred thousand came out.
 
@@ -144,13 +144,13 @@ The retreat is one of the great catastrophes of military history. The snow came 
 
 ## The hundred days
 
-All of Europe now turned on him. Prussia, with its new citizen army, changed sides, and Austria followed. The method that France had invented was now being used against it. In October 1813, near the German city of Leipzig, half a million men fought for four days in what was called the battle of the nations, and Napoleon was beaten. The allies entered Paris the next spring. His own marshals told him that it was over.
+Most of Europe now turned on him. Prussia, with its new citizen army, changed sides, and Austria followed. The method that France had invented was now being used against it. In October 1813, near the German city of Leipzig, half a million men fought for four days in what was called the battle of the nations, and Napoleon was beaten. The allies entered Paris the next spring. His own marshals told him that it was over.
 
 The victors sent him to rule the small Italian island of Elba, and put a brother of the guillotined king on the throne of France. Ten months later Napoleon slipped away with a thousand men and landed on the French coast. The regiments sent to arrest him went over to him one after another, and he reached Paris without firing a shot.
 
 His second reign lasted a hundred days. The powers that had beaten him were gathering their armies again, and his best hope was to deal with them separately. In June 1815, therefore, he marched into Belgium to strike the British and Prussian armies before the Russians and Austrians could arrive.
 
-On the eighteenth he attacked the Duke of Wellington's army of British, Dutch and German troops on a ridge near the village of Waterloo. Wellington's line held all afternoon against his cavalry, and in the evening the Prussians arrived on his flank. The French army broke and ran. Four days later Napoleon gave up his throne for the second time, and soon afterwards he surrendered to the captain of a British warship.
+On the eighteenth he attacked the Duke of Wellington's army of British, Dutch and German troops on a ridge near the village of Waterloo. Wellington's line held all afternoon against his cavalry, and meanwhile the Prussians arrived and struck the French on their flank. The French army broke and ran. Four days later Napoleon gave up his throne for the second time, and soon afterwards he surrendered to the captain of a British warship.
 
 This time the British took no chances. They shipped him to Saint Helena, a rock in the South Atlantic nearly two thousand kilometres from the coast of Africa, and he died there six years later, dictating his memoirs. The wars that carry his name had killed about a million French soldiers and at least two million other people.
 

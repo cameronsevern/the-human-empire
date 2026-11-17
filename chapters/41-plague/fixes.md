@@ -1,0 +1,5 @@
+# Fixes from the flow-pass re-check
+
+- Part A MAJOR, "Instead they did worse, and so did everyone else": fixed. "Instead the farms of Egypt fell into ruin, and the country as a whole grew poorer." (Cairo wages rose for a time, as the chapter says later.) Source: https://history.uwo.ca/People/Docs/Shatzmiller-Articles/07-Plagues-Wages-and-Economic-Change.pdf
+- Part A MAJOR, "all the landlords belonged to the same army": fixed. "...because the landlords of most villages belonged to the same army." (religious endowments and private holdings also existed). Source: https://journals.library.columbia.edu/index.php/alusur/article/download/uw31igarashi/uw31igarashi (late Mamluk growth of waqf and private land)
+- Part C, Siena caption "the striped cathedral that was built instead": fixed in chapter.md and ledger. "The unfinished nave, or main hall, of the new cathedral of Siena. Its tall wall, on the left, still stands beside the older striped cathedral that the new building was meant to swallow." Source: https://homepages.bluffton.edu/~Sullivanm/sienacath/duomo.html

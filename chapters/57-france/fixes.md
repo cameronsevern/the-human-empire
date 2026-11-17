@@ -1,0 +1,5 @@
+# Fixes from the flow-pass re-check
+
+- Part A MAJOR, Committee of Public Safety placed after the June purge and Toulon (created 6 April 1793): fixed. "In the spring the assembly had given emergency powers to a committee of its members, the Committee of Public Safety, and by the autumn its twelve men ruled France." Source: https://www.britannica.com/topic/Committee-of-Public-Safety (created 6 April 1793, nine members, later twelve)
+- Part A MINOR, palace invaded and royal family taken to Paris "the next day": fixed. "Early the next morning they broke into the palace, and that afternoon they escorted the royal family back to Paris, where it would be under the eyes of the people." (march 5 October; invasion and departure 6 October 1789.) Source: https://en.chateauversailles.fr/discover/history/key-dates/departure-king-1789
+- Part A MINOR, tithe "a tenth of his crop" (rates varied, often a twelfth or less): fixed. "...paid a share of his harvest to the church..." Source: https://www.universalis.fr/encyclopedie/dime-moyen-age/ (rate from a fortieth to a tenth)

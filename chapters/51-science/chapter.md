@@ -141,7 +141,7 @@ In 1684 a young astronomer named Edmond Halley travelled to Cambridge to put a q
 
 Halley persuaded him to write it up. The result, three years later, was a book that joined the motions of the sky to the motions of things on the ground. Newton showed that three simple laws of motion and one law of attraction would account for all of it.
 
-The attraction is the thing we call gravity, and Newton found it at work everywhere. The force that pulls an apple to the ground is the same force that holds the Moon in its orbit. The Moon is always falling towards the Earth, and always missing, because it is also moving sideways. The same force bends the planets into Kepler's ellipses, it keeps Jupiter's moons circling Jupiter, and it raises the tides twice a day. The heavens and the Earth, which Aristotle had made of different stuff, obeyed one rule, and the rule could be written in a line.
+The attraction is the thing we call gravity, and Newton found it at work everywhere. The force that pulls an apple to the ground is the same force that holds the Moon in its orbit. The Moon is always falling towards the Earth, and always missing, because it is also moving sideways. The same force bends the planets into Kepler's ellipses, it keeps Jupiter's moons circling Jupiter, and it raises the tides in the seas. The heavens and the Earth, which Aristotle had made of different stuff, obeyed one rule, and the rule could be written in a line.
 
 ![A printed Latin title page reading Philosophiae Naturalis Principia Mathematica, with the name of S. Pepys as president of the Royal Society](images/principia.jpg)
 *Title page of Newton's Principia, 1687, with the approval of Samuel Pepys, president of the Royal Society, dated 1686. Scan: Internet Archive, public domain.*

@@ -12,7 +12,7 @@ Two hundred years later, English farm labourers were stirring it into their tea 
 
 ## The reed that gives honey
 
-Sugar reached Venice at the end of a very long journey, and the journey began with a plant. Sugar cane is a giant grass. It was first grown for chewing on the island of New Guinea, and it was in India, in ancient times, that people learned to boil its juice down into hard crystals. The word "sugar" comes from the Indian word for those crystals, by way of Persian and Arabic, and so does the word "candy".
+Sugar reached Venice at the end of a very long journey, and the journey began with a plant. Sugar cane is a giant grass. It was first grown for chewing on the island of New Guinea, and it was in India, in ancient times, that people learned to boil its juice down into hard crystals. The word "sugar" comes from an Indian word for those crystals, by way of Persian and Arabic, and the word "candy" comes from another.
 
 The words travelled west because the plant did. The Arabs carried it with them after their conquests and grew it in Egypt, Sicily and southern Spain. The crusaders tasted it in Syria and were delighted. A chronicler of the crusade called it a reed that gives honey. Venetian merchants then sold it to the rest of Europe, at a price that kept it a treat for the rich. For several centuries that is what it remained.
 
@@ -121,7 +121,7 @@ The hot drinks, meanwhile, created a new kind of place in which to drink them. T
 
 A fourth new habit came from the Americas, and it was smoked. Tobacco saved the first English colony in Virginia, which had been starving until it found a crop that would sell. Not everyone welcomed it. The king of England hated the stuff, and wrote a pamphlet calling smoking loathsome to the eye and harmful to the brain. His subjects ignored him.
 
-Taken together, these were the first goods from other continents that ordinary Europeans bought week after week. Silk and pepper had been for the rich. A pipe of tobacco and a cup of sweet tea, by contrast, were within reach of a servant. They were also habit-forming, so that a customer who had bought once came back again and again. That made them a wonderful thing to sell and, for governments, a wonderful thing to tax.
+Taken together, these were the first luxuries from other continents that ordinary Europeans bought week after week. Silk and pepper had been for the rich. A pipe of tobacco and a cup of sweet tea, by contrast, were within reach of a servant. They were also habit-forming, so that a customer who had bought once came back again and again. That made them a wonderful thing to sell and, for governments, a wonderful thing to tax.
 
 Sugar bound them together, and the amount of it kept climbing. In 1700 the average person in England ate about two kilograms of sugar a year. By 1800 the figure was eight kilograms, and by 1900 it was forty.
 

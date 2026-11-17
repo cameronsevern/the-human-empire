@@ -35,7 +35,7 @@ France seized the chance. In 1894 the French republic and the Russian tsar becam
 Wilhelm then made an enemy of Britain as well. He set out to build a battle fleet to rival the Royal Navy. To the British this was a direct threat, because they regarded their navy as the one thing that kept their island and their empire safe. Britain outbuilt him, at vast expense. It also settled its old quarrels with France and Russia, and so drew closer to the two powers that Germany already feared.
 
 ![A grey battleship at sea with smoke from two funnels and heavy guns along its side](images/dread.jpg)
-*HMS Dreadnought, the British battleship of 1906 whose all-big-gun design set off the naval race with Germany, at sea about 1906. Photo: unknown, public domain.*
+*HMS Dreadnought, the British battleship of 1906 whose all-big-gun design sharpened the naval race with Germany, at sea about 1906. Photo: unknown, public domain.*
 
 So by 1914 the powers stood in two groups. Germany was allied with Austria-Hungary, and on paper with Italy, which in the event stayed out and later joined the other side. Facing them were France and Russia, with Britain attached by understandings that stopped short of a promise. The alliances had been made for safety, since each member hoped that a strong partner would discourage an attack. In practice they worked differently. A quarrel between any two members could pull in all the rest.
 
@@ -133,7 +133,7 @@ They met weapons whose effect most of their generals had only read about, in rep
 
 The result was slaughter. On a single day, 22 August, in a string of clashes along the Belgian border, twenty-seven thousand French soldiers were killed. It remains the bloodiest day in the history of France. By the end of the month a quarter of a million French soldiers were dead, wounded or missing, and the rest were in full retreat.
 
-The German plan came close to working, and then it failed. Its weakness was the strain it put on the men who had to carry it out. The great wheel through Belgium had asked them to march thirty kilometres a day for a month, while their supplies fell further and further behind. In the first week of September, with the Germans in sight of Paris, the French commander scraped together a new army, some of it rushed to the front in the taxis of the capital. With it, the French struck the exhausted invaders in the flank along the river Marne. The Germans fell back sixty kilometres, to the first line of high ground, and dug.
+The German plan came close to working, and then it failed. Its weakness was the strain it put on the men who had to carry it out. The great wheel through Belgium had asked them to march thirty kilometres a day for a month, while their supplies fell further and further behind. In the first week of September, with the Germans in sight of Paris, the French had gathered a new army north-east of the city, and some of its reinforcements were rushed to the front in the taxis of the capital. With it, the French struck the exhausted invaders in the flank along the river Marne. The Germans fell back sixty kilometres, to the first line of high ground, and dug.
 
 ![A red Paris taxi of 1914 with yellow wheels and a folding black roof, in a museum](images/taxi.jpg)
 *A Paris taxi of 1914, a Renault of the type that carried French troops to the Marne. Photo: Rama, CC BY-SA 2.0 FR.*

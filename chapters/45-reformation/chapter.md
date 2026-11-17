@@ -20,7 +20,7 @@ Printing itself was not Gutenberg's idea. The Chinese had been printing for seve
 
 Movable pieces were a poor fit for Chinese writing, however. It uses thousands of different characters, which makes a set of movable pieces enormous. An alphabet, by contrast, needs only a couple of dozen letters, used over and over. A printer with an alphabet therefore needs a great many copies of a very few shapes. Gutenberg's achievement was a way of making those letters in metal, cheaply and by the thousand.
 
-He began with a rod of hard steel. On its tip he carved a single letter, back to front, as fine as the best handwriting. This was the punch. He hammered it into a small bar of soft copper, which left a hollow in the shape of the letter. He then clamped the copper into the bottom of a little hand-held box and poured in molten metal, a mixture of lead and tin that melts on a kitchen fire and sets in a second. Out dropped a small stick with the letter standing up on its end. A workman could cast them one after another all day, all identical.
+He began with a rod of hard steel. On its tip he carved a single letter, back to front, as fine as the best handwriting. This was the punch. He hammered it into a small bar of soft copper, which left a hollow in the shape of the letter. He then clamped the copper into the bottom of a little hand-held box and poured in molten metal, a mixture of lead, tin and antimony that melts on a kitchen fire and sets in a second. Out dropped a small stick with the letter standing up on its end. A workman could cast them one after another all day, all identical.
 
 To print a page, a second workman picked the letters out of a case one by one and set them in rows in a frame, with blank pieces between the words. The frame was locked tight and dabbed with a sticky ink made from lamp soot and linseed oil. A damp sheet of paper was laid over it, and the whole thing was slid under a heavy screw press of the kind that vineyards used for squeezing grapes. One pull of the lever made one page. When enough copies had been taken, the letters were sorted back into the case and used again.
 
@@ -48,14 +48,14 @@ In 1516 the most famous of these scholars, a Dutchman named Erasmus, printed the
 
 ## The coin in the chest
 
-In 1514 a young German nobleman named Albrecht wanted to become archbishop of Mainz, the most important church office in Germany. He was already archbishop of another city, he was twenty-three, which was below the legal age, and holding two such posts together was forbidden. The pope was prepared to overlook all three difficulties for a very large fee.
+In 1514 a young German nobleman named Albrecht wanted to become archbishop of Mainz, the most important church office in Germany. He was already archbishop of another city, he was twenty-three, which was below the legal age, and holding two such posts together was forbidden. The pope was prepared to overlook both difficulties for a very large fee.
 
 Albrecht borrowed the fee from the Fuggers, a family of bankers in Augsburg who were the richest merchants in Europe. To help him repay it, the pope allowed him to sell a new indulgence throughout his lands. Officially the money was for rebuilding the church of St Peter in Rome. Privately it was agreed that half would go to Rome and half to Albrecht, to pay off the Fuggers. The bankers took no chances with their half. An employee of the bank travelled with the collection chest and held one of its keys.
 
 The selling was put in the hands of a friar named Tetzel, who was good at it. He entered each town in procession, with the pope's document carried on a velvet cushion, and preached in the market square. He told his listeners that this indulgence would work for the dead as well as the living, so that for a few coins they could release a dead mother or father from the fire. A rhyme went around that summed up the offer: as soon as the coin in the coffer rings, the soul from purgatory springs.
 
 ![Long iron-bound wooden chest standing on a brick floor in a museum](images/tetzel_chest.jpg)
-*A chest said to have been Tetzel's indulgence chest. Its size suggests how much money the sales brought in. Photo: Falk2, CC BY-SA 4.0.*
+*A chest said to have been Tetzel's indulgence chest. Photo: Falk2, CC BY-SA 4.0.*
 
 Tetzel was not allowed into Saxony, the territory next door, whose prince did not want his subjects' money leaving the country. People crossed the border to buy from him anyway. Some of them brought their certificates home to the town of Wittenberg and showed them to their priest, as proof that they no longer needed to confess.
 
@@ -146,7 +146,7 @@ The war that followed lasted thirty years and was fought almost entirely on Germ
 ![Etching of dozens of men hanged from the branches of one large tree while soldiers and a priest stand below](images/callot_hanging.png)
 *"The Hanging", an etching of 1633 from Jacques Callot's series on the miseries of war. Etching: Jacques Callot, public domain.*
 
-Many of those who died believed, sincerely, that the fate of their souls and their children's souls depended on the outcome. The men who directed the war had other things in mind as well. France was a Catholic kingdom, and its government was run by a cardinal of the Roman church. Such a man might have been expected to back the Catholic side. Instead, for the second half of the war, this cardinal paid the Protestant armies and then sent French troops to fight beside them, because the emperor was a rival of France and a weak, divided Germany suited him. By then the war was about which kings would dominate Europe.
+Many of those who died believed, sincerely, that the fate of their souls and their children's souls depended on the outcome. The men who directed the war had other things in mind as well. France was a Catholic kingdom, and its government was run by cardinals of the Roman church, first one and then his successor. Such men might have been expected to back the Catholic side. Instead, for the second half of the war, they paid the Protestant armies and then sent French troops to fight beside them, because the emperor was a rival of France and a weak, divided Germany suited them. By then the war was about which kings would dominate Europe.
 
 The peace that ended it in 1648 admitted as much. It fixed the religious map of Germany roughly as it had stood before the worst of the fighting. Each prince kept charge of the church in his own territory, Calvin's followers were admitted alongside Catholics and Lutherans, and people who found themselves on the wrong side of a border were allowed to worship at home or to leave unharmed. The pope denounced the treaty, and nobody took any notice.
 

@@ -28,7 +28,7 @@ To the ministers in London, the next step seemed plain. If the British at home c
 
 ## The lightest taxes in the empire
 
-By the standards of the age, the colonists were fortunate people. There were about two and a half million of them, in thirteen colonies, and their numbers doubled every twenty-five years. Land was cheap, food was plentiful, and wages were high. American-born soldiers were several centimetres taller than soldiers born in Britain, which is a reliable sign of who had eaten better as a child.
+By the standards of the age, the colonists were fortunate people. There were about two million of them, in thirteen colonies, and their numbers doubled every twenty-five years. Land was cheap, food was plentiful, and wages were high. American-born soldiers were several centimetres taller than soldiers born in Britain, which is a reliable sign of who had eaten better as a child.
 
 They were also used to running their own affairs. Most colonies had a governor appointed in London, and every one had an assembly elected by its own property owners. On paper the governor was in charge. In practice the assembly held the purse. The governor's salary was usually voted by the assembly, which gave it the same hold over him that Parliament had over the king. For a century and a half London had mostly left them alone.
 
@@ -113,7 +113,7 @@ On paper Britain could not lose. It had the best navy in the world, a profession
 
 Its problem was distance. Most of its soldiers, muskets and flour had to cross three thousand miles of ocean, and an order from London took two months to arrive and was often out of date when it did.
 
-There was a second difficulty. The colonies had no capital whose capture would end the war. The British took New York, and then Philadelphia, and each time found that they held a city and nothing else. The moment a British army marched into the countryside, the countryside rose behind it.
+There was a second difficulty. The colonies had no capital whose capture would end the war. The British took New York, and then Philadelphia, and each time found that taking a city did not end the rebellion. The moment a British army marched into the countryside, the countryside rose behind it.
 
 Washington, who commanded the American army, understood this better than anyone. He lost more battles than he won, and he was not a brilliant general. What he saw was that he did not need to win. He needed to keep an army in being, and as long as it existed, the rebellion existed. He kept it together through defeats, desertion, and a winter camp in which nearly two thousand of his men died of disease while Congress failed to send food and shoes.
 
@@ -139,7 +139,7 @@ Their solution was to divide the government into parts and set the parts against
 
 Nothing in it came from God or from birth. There was to be no king, no nobility and no national church. The first three words, written large, are "We the People".
 
-The people it had in mind were not everyone. The word "slave" appears nowhere in the document, but slavery is in it three times. Each time it appears under other words, and each time the slave owners gain. States were allowed to count three fifths of their slaves when working out how many seats they got in Congress, which gave slave owners extra votes. Congress was forbidden to stop the import of slaves from abroad for twenty years. A slave who escaped to another state had to be sent back.
+The people it had in mind were not everyone. The word "slave" appears nowhere in the document, but slavery is written into it in several places. Each time it appears under other words, and each time the slave owners gain. States were allowed to count three fifths of their slaves when working out how many seats they got in Congress, which gave slave owners extra votes. Congress was forbidden to stop the import of slaves from abroad for twenty years. A slave who escaped to another state had to be sent back.
 
 Who could vote was left to each state, and nearly all of them restricted the vote to men with some property. Even so, about two thirds of white men qualified, which was nearly three times the share in England. In one state, New Jersey, the law said "inhabitants", and for thirty years women who owned property voted too, until the men of both parties agreed in 1807 to stop it.
 

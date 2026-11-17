@@ -38,7 +38,7 @@ By the usual account, an Andean man named Diego Huallpa was climbing a bare, con
 ![Black-and-white woodcut of a steep cone-shaped mountain labelled Cero del Potosi above a town of small houses and churches](images/potosi_1553.jpg)
 *The mountain and town of Potosí, printed in Pedro Cieza de León's Chronicle of Peru in 1553, eight years after the silver was found. Source: Wikimedia Commons, public domain.*
 
-It stood in one of the least welcoming places on earth. The trouble was its height. The foot of the mountain is four thousand metres above the sea, as high as the snowfields of the Alps, and the summit is eight hundred metres higher still. The air has about three-fifths of the oxygen of air at sea level. Nothing grows there but coarse grass, it freezes on most nights, and newcomers are sick for weeks. Almost everything the town needed therefore had to be brought in. Every beam, every sack of flour and every jar of wine had to be carried up on the backs of llamas and mules.
+It stood in one of the least welcoming places on earth. The trouble was its height. The foot of the mountain is four thousand metres above the sea, as high as the snowfields of the Alps, and the summit is eight hundred metres higher still. The air has about three-fifths of the oxygen of air at sea level. Little grows there but coarse grass, it freezes on most nights, and newcomers are sick for weeks. Almost everything the town needed therefore had to be brought in. Every beam, every sack of flour and every jar of wine had to be carried up on the backs of llamas and mules.
 
 ![A brown cone-shaped mountain under a blue sky above the red-tiled roofs of a town](images/cerro_rico.jpg)
 *Cerro Rico, the Rich Hill, above the town of Potosí, Bolivia, where silver was found in 1545. Photo: Jbmurray, CC BY-SA 4.0.*
@@ -108,7 +108,7 @@ Events bore the riddle out. By 1650, the textile towns of Castile had shrunk, th
 
 On the other side of the world there was a country that had little use for anything foreigners made, and wanted their silver very much.
 
-China under the Ming emperors had about a hundred and fifty million people, more than all of Europe, and the busiest markets on earth. Its need for silver had grown out of a failure. It had once used paper money, but the government had printed so much of it that people stopped trusting it. By the 1500s Chinese merchants, and then the Chinese tax office, had switched to silver, weighed out in lumps. Copper coins still served for small purchases, but anything large, and every tax, was settled in silver.
+China under the Ming emperors had about a hundred and fifty million people, more than all of Europe, and the busiest markets on earth. Its need for silver had grown out of a failure. It had once used paper money, but the government had printed so much of it that people stopped trusting it. By the 1500s Chinese merchants, and then the Chinese tax office, had switched to silver, weighed out in lumps. Copper coins still served for small purchases, and some taxes were still paid in grain, but most large payments, and more and more of the taxes, were settled in silver.
 
 The difficulty was that China's own mines were small. A vast economy was thus short of the metal it used for its serious money, and silver was valued accordingly. The price of gold shows by how much. In China in the late 1500s an ounce of gold could be had for about six ounces of silver. In Spain the same ounce of gold cost twelve.
 

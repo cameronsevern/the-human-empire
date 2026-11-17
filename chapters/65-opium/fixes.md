@@ -1,0 +1,4 @@
+# Fixes from the flow-pass re-check
+
+- Part A MINOR, "For twelve centuries the barges on that canal had carried the rice of the south to the capital in the north" (the Sui canal served Luoyang; the route to Beijing dates from the Yuan): fixed. "For most of five centuries the barges on that canal had carried the rice of the south to the capital at Beijing." Source: https://transportgeography.org/contents/chapter1/emergence-of-mechanized-transportation-systems/grand-canal-china/
+- Part B CONFLICT, Canton factories: correct as written (new wording kept). "The foreign traders lived for the trading season in a row of warehouses on the waterfront..." The ships' crews stayed with their ships at the Whampoa anchorage downriver; it was the merchants and supercargoes who lived in the factories. Source: https://visualizingcultures.mit.edu/rise_fall_canton_01/cw_essay03.html

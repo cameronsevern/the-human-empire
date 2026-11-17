@@ -43,7 +43,7 @@ Germany was rescued by a new currency at the end of 1923, and by American loans 
 
 Americans in the 1920s had plenty to lend. The United States had come out of the war as the richest country in the world, and its factories were turning out things that had barely existed a generation before. By 1929 there were twenty-three million cars on American roads, one for every five people. Houses were being wired for electricity, and filled with radios, refrigerators and washing machines.
 
-Most of these goods were bought on a new plan. The buyer paid a small sum down and the rest in monthly instalments, so that the goods arrived at once and the payments went on month after month. For the first time, ordinary families were deep in debt for things other than a house, and felt prosperous.
+Most of these goods were bought on a plan that now spread far more widely than ever before. The buyer paid a small sum down and the rest in monthly instalments, so that the goods arrived at once and the payments went on month after month. For the first time, ordinary families were deep in debt for things other than a house, and felt prosperous.
 
 They bought shares in the same way. An investor could put down as little as one dollar in ten and borrow the rest from his stockbroker, with the shares themselves as security. In other words, if the investor could not repay, the broker could sell the shares to get his money back.
 
@@ -106,7 +106,7 @@ Meanwhile the circle of debts had broken. American banks, in trouble at home, st
 
 In Europe, the first link to snap was in Austria. In May 1931 the largest bank in Austria admitted that it was insolvent, which is to say that it owed more than everything it owned was worth. The panic jumped to Germany, where the banks owed vast short-term sums to foreigners. Loans that fall due soon can be withdrawn quickly, and frightened lenders withdrew them. In July one of the biggest German banks failed, and the government closed every bank in the country for two days.
 
-The government's response was harsh. To keep its currency on gold, it raised interest rates sharply, cut the pay of civil servants and reduced unemployment benefits. Its chancellor became known as the hunger chancellor. By the winter of 1932 six million Germans were out of work, nearly one in three.
+The government's response was harsh. It put controls on money leaving the country, but it would not let the mark fall from its old value in gold. To hold that value it raised interest rates sharply, cut the pay of civil servants and reduced unemployment benefits. Its chancellor became known as the hunger chancellor. By the winter of 1932 six million Germans were out of work, nearly one in three.
 
 From Germany the run moved to London. Britain had been bleeding gold all summer, and on 21 September 1931 it gave up and announced that the pound could no longer be exchanged for gold. The British had been raised to think of this as national dishonour, the breaking of the promise printed on every note. To general surprise, nothing terrible followed. Instead, the pound fell by a quarter, and British goods became cheaper abroad. Interest rates no longer had to be held up to defend the pound, so they could be lowered, and the economy began slowly to revive.
 
@@ -142,7 +142,7 @@ It was a partial success. The economy grew fast from 1933, and unemployment fell
 
 Why had the old remedies failed so badly, and why had the slump not cured itself? The man who explained what had gone wrong was an English economist who had been warning of it since 1919.
 
-John Maynard Keynes was a Cambridge economist, a successful speculator and an adviser to the British treasury, with a gift for the wounding phrase. Economists of the old school said that slumps cured themselves in the long run. In the long run, Keynes replied, we are all dead.
+John Maynard Keynes was a Cambridge economist, a successful speculator and an adviser to the British treasury, with a gift for the wounding phrase. Economists of the old school liked to say that in the long run prices and wages would find their proper level. Keynes had answered that years before: in the long run, he wrote, we are all dead.
 
 ![John Maynard Keynes seated in an armchair with an open book on his knee](images/keynes.jpg)
 *John Maynard Keynes in 1929, seven years before he published his argument in full. Photo: unknown, public domain.*

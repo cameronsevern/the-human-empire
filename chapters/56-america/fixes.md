@@ -1,0 +1,5 @@
+# Fixes from the flow-pass re-check
+
+- Part A MAJOR, the British took New York and Philadelphia and "held a city and nothing else": fixed. "The British took New York, and then Philadelphia, and each time found that taking a city did not end the rebellion." Source: https://www.nps.gov/articles/000/the-revolutionary-war-neutral-ground-of-westchester-county-new-york.htm
+- Part A MINOR, "about two and a half million" colonists before 1765: fixed. "There were about two million of them, in thirteen colonies, and their numbers doubled every twenty-five years." (1.59 million in 1760, 2.15 million in 1770.) Source: https://www2.census.gov/library/publications/1975/compendia/hist_stats_colonial-1970/hist_stats_colonial-1970p2-chZ.pdf
+- Part A MINOR, "slavery is in it three times" (Article V also shields the import clause): fixed. 'The word "slave" appears nowhere in the document, but slavery is written into it in several places.' Source: https://www.archives.gov/founding-docs/constitution-transcript

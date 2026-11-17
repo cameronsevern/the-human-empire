@@ -117,7 +117,7 @@ England was now a republic, a state with no king at all. Parliament, which had a
 
 In practice, power lay with the army, and it soon lay with Cromwell. He took the army to Ireland, where his soldiers stormed towns that would not surrender and killed the garrisons and many of the townspeople. Afterwards the republic confiscated most of the land owned by Irish Catholics and gave it to English soldiers and investors.
 
-In 1653 Cromwell lost patience with what remained of Parliament, marched in with a squad of musketeers, and cleared the chamber, just as the king had tried to do.
+In 1653 Cromwell lost patience with what remained of Parliament, marched in with a squad of musketeers, and cleared the chamber. The king had come with soldiers for five members; Cromwell sent them all home.
 
 He ruled for five years under the title of Lord Protector, with more power than Charles had ever held and a standing army to enforce it. A war fought to limit a king had produced a ruler stronger than the king. For a time the country was divided into districts under major-generals. The Puritans had already closed the theatres and forbidden the celebration of Christmas, and soldiers went through the streets of London on Christmas Day seizing the meat that people were cooking.
 

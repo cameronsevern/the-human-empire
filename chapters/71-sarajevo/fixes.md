@@ -1,0 +1,4 @@
+# Fixes from the flow-pass re-check
+
+- Part A MINOR, "the French commander scraped together a new army" in September (the Sixth Army existed from late August; the taxis carried reinforcements): fixed. "In the first week of September, with the Germans in sight of Paris, the French had gathered a new army north-east of the city, and some of its reinforcements were rushed to the front in the taxis of the capital." Source: https://www.britannica.com/biography/Michel-Joseph-Maunoury
+- Part C, Dreadnought caption "set off the naval race with Germany" (the race had begun before 1906): fixed in chapter.md and ledger. "HMS Dreadnought, the British battleship of 1906 whose all-big-gun design sharpened the naval race with Germany, at sea about 1906." Source: https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/naval-rivalry-anglo-german (race began with the Navy Law of 1898)

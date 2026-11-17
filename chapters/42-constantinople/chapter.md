@@ -8,13 +8,13 @@ Some time before 1452 a man named Orban came to Constantinople looking for work.
 
 The salary was small, and it was not paid. The emperor of the Romans, heir to Augustus and to the first Constantine, did not have the money. Orban had a rare skill to sell, however, and a richer buyer was close at hand. In 1452 Orban left the city and went to the court of the Ottoman sultan, a young man of twenty named Mehmed.
 
-Mehmed questioned him closely, and he came to the point. He wanted to know whether Orban could cast a gun that would throw a stone large enough to bring down the walls of Constantinople. Orban replied that he could make one to shatter the walls of Babylon itself. The sultan gave him four times what the emperor had promised, along with a supply of bronze, and told him to start.
+Mehmed questioned him closely, and he came to the point. He wanted to know whether Orban could cast a gun that would throw a stone large enough to bring down the walls of Constantinople. Orban replied that he could make one to shatter the walls of Babylon itself. The sultan gave him a salary far larger than the emperor had promised, along with a supply of bronze, and told him to start.
 
 Guns had been firing in Europe and the Middle East for more than a century by then, and they had already knocked down a good many castles. Constantinople was a different matter. Nobody had yet brought guns of real power against the great wall of Constantinople.
 
 ## A head without a body
 
-The city that Orban left was the capital of what remained of the Roman empire. It had been the capital of the eastern half for eleven hundred years, and for most of that time it had been the largest and richest city in the Christian world, with perhaps half a million people. Its church of Holy Wisdom, Hagia Sophia, was the largest church in the world.
+The city that Orban left was the capital of what remained of the Roman empire. It had been the capital of the eastern half for eleven hundred years, and for most of that time it had been the largest and richest city in the Christian world, with perhaps half a million people. Its church of Holy Wisdom, Hagia Sophia, had been the largest church in the world for centuries after it was built.
 
 ![A great pale domed church with four tall minarets under a clear blue sky](images/hagia.jpg)
 *Hagia Sophia in Istanbul today, a church for about 900 years before 1453 and a mosque afterwards. Photo: Arild Vågen, CC BY-SA 3.0.*
@@ -109,7 +109,7 @@ By then the defenders had been fighting for hours without relief. At this moment
 
 The emperor was last seen near that spot. According to those who escaped, he tore off the badges of his rank and ran into the fighting with his sword. His body was never surely identified.
 
-Mehmed had promised his soldiers the customary reward for a city taken by storm, which was the right to plunder it. Houses and churches were stripped. Several thousand people were killed, and about thirty thousand, more than half the population, were roped together and led away to be sold. The sultan rode in that afternoon and went straight to Hagia Sophia. He ordered a man to climb to the pulpit and proclaim that there was no god but God, and the largest church in the world became a mosque. He was twenty-one.
+Mehmed had promised his soldiers the customary reward for a city taken by storm, which was the right to plunder it. Houses and churches were stripped. Several thousand people were killed, and about thirty thousand, more than half the population, were roped together and led away to be sold. The sultan rode in that afternoon and went straight to Hagia Sophia. He ordered a man to climb to the pulpit and proclaim that there was no god but God, and the greatest church of the eastern Christians became a mosque. He was twenty-one.
 
 ## Filling an empty city
 
@@ -131,6 +131,6 @@ The name changed more slowly than the people, and the name that won in the end w
 
 The news reached Venice a month later and spread across Europe as a shock. Scholars mourned the loss of the Greek empire, and popes called for a crusade that came to nothing. The Venetians, who were practical people, signed a trade treaty with the sultan the following spring.
 
-The lesson was clearest to anyone who owned a wall, and Constantinople was not the only proof of it that year. In the same summer of 1453, at the other end of Europe, the king of France brought some three hundred guns to a field near Bordeaux and blew apart the last English field army in France, which ended a war that had lasted more than a century. Tall stone walls had kept barons and cities safe from kings for a thousand years, and now a gun could open one in a week. That change might have helped anybody who could get hold of a gun. Guns were very expensive, however. A big one took tonnes of bronze, and it needed founders, powder mills and trains of oxen. To keep them in numbers took far more money than any baron or town had. The weapon that broke walls was therefore a weapon for the richest rulers. From this point on, the future belonged to large states with deep treasuries, and in Europe and the Middle East the Ottoman empire was the largest of them.
+The lesson was clearest to anyone who owned a wall, and Constantinople was not the only proof of it that year. In the same summer of 1453, at the other end of Europe, the king of France brought some three hundred guns to a field near Bordeaux and blew apart the last English field army in France, which ended a war that had lasted more than a century. Tall stone walls had kept barons and cities safe from kings for a thousand years, and now a gun could open one in a week. That change might have helped anybody who could get hold of a gun. Guns were very expensive, however. A big one took tonnes of bronze, and it needed founders, powder mills and trains of oxen. To keep them in numbers took more money and organisation than any baron, and most towns, could find. The weapon that broke walls was therefore a weapon for the richest rulers. From this point on, the future belonged to large states with deep treasuries, and in Europe and the Middle East the Ottoman empire was the largest of them.
 
 As for the name, the city's own government finally settled the matter in 1930. Turkey made Istanbul the one name that its post office would accept, and asked the rest of the world to stop writing Constantinople on the envelope.

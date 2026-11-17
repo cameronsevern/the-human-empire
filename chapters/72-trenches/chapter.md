@@ -28,7 +28,7 @@ Between the two armies was a strip of open ground, in places only fifty metres w
 
 The trouble with this arrangement, from a general's point of view, was that it was nearly impossible to attack. Men who climbed out of a trench and walked forward were in the open, in front of machine guns that fired ten bullets a second. If the wire in front of the enemy had not been cut, they died against it, caught while they tried to get through.
 
-Even success brought little. Suppose that an attack did take the enemy's front trench, as many did. The attackers were now exhausted and in a wrecked position. The enemy's second line was in front of them, and behind them lay no man's land, torn up by their own guns. Their general, kilometres to the rear, did not know where they were. There was no radio that a man could carry, and the telephone wires had been cut by shellfire, so he could not tell where to send help.
+Even success brought little. Suppose that an attack did take the enemy's front trench, as many did. The attackers were now exhausted and in a wrecked position. The enemy's second line was in front of them, and behind them lay no man's land, torn up by their own guns. Their general, kilometres to the rear, did not know where they were. Wireless sets were rare, heavy and slow to use, and the telephone wires had been cut by shellfire, so he could not tell where to send help.
 
 Meanwhile the defender brought up fresh troops by railway, a hundred times faster than the attackers could advance on foot. The hole closed. This happened again and again for three years.
 
@@ -86,7 +86,7 @@ A new phrase was coined for this: the home front. Civilians had suffered in ever
 
 Britain acted on that logic. It used its navy to stop all goods, food included, from reaching German ports. Germany grew most of its own grain. However, it had lost its imported fertiliser and its farm labourers, and without them its farms could not keep up. By the winter of 1916 the bread was half potato. When the potato crop failed, Germans lived on turnips that had been grown for cattle. Several hundred thousand German civilians died of hunger and the illnesses that go with it.
 
-This is also why nobody could stop. By the end of 1916 every one of the great powers had lost hundreds of thousands of its young men. A government that proposed to make peace on the terms of 1914, with nothing gained, would have had to explain what they had died for, and no government wanted to face that question. Each therefore clung to its aims, or raised them, as the cost rose. France must have its lost provinces back. Germany must keep Belgium and rule the east. The more the war cost, the less possible it became to end it short of victory.
+This is also why nobody could stop. By the end of 1916 every one of the great powers fighting in Europe had lost hundreds of thousands of its young men. A government that proposed to make peace on the terms of 1914, with nothing gained, would have had to explain what they had died for, and no government wanted to face that question. Each therefore clung to its aims, or raised them, as the cost rose. France must have its lost provinces back. Germany must keep Belgium and rule the east. The more the war cost, the less possible it became to end it short of victory.
 
 ## A world war
 

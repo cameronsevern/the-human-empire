@@ -9,7 +9,7 @@ In 1615 an English gentleman named Sir Thomas Roe arrived at the court of the Mu
 ![A damaged Mughal painting of courtiers and attendants in a pavilion, with a European figure among them](images/roe.jpg)
 *A Mughal court painting of about 1616, catalogued by the British Museum as showing the emperor Jahangir presenting a robe of honour to a courtier while Sir Thomas Roe, the English envoy, looks on. The paint has flaked badly. Photo: British Museum, public domain.*
 
-It did not go smoothly. The presents he had brought were looked over and found shabby. The best of them was an English coach, which the emperor had refitted in richer cloth and then copied by his own craftsmen in about a week. Roe spent nearly three years trailing after the court as it moved about northern India, waiting weeks for an audience, and paying bribes to officials. For all that effort, he went home with leave for the English to keep a trading house in one port.
+It did not go smoothly. The presents he had brought were looked over and found shabby. The best of them was an English coach, which the emperor had refitted in richer cloth and then copied by his own craftsmen in about a week. Roe spent nearly three years trailing after the court as it moved about northern India, waiting weeks for an audience, and paying bribes to officials. For all that effort, he went home without the treaty he had come for, carrying only a set of trading privileges for the English merchants at Surat and a few inland towns.
 
 The embassy had filled three years of Roe's life. It made a smaller impression on his host. The emperor's memoirs, which describe those years in detail, do not mention him.
 
@@ -108,7 +108,7 @@ Both sides then kept the bargain. The general was installed, and he paid. Clive'
 
 Plassey made the Company the power behind the throne of Bengal. Eight years later it took the next step, which mattered more.
 
-The new ruler soon fell out with his masters, and in 1764 an alliance of northern princes, with the Mughal emperor himself among them, tried to drive the Company out of Bengal. The Company's sepoys beat them.
+The new ruler soon disappointed his masters, and they replaced him with his son-in-law. He in turn fell out with them, and in 1764 he joined an alliance of northern princes, with the Mughal emperor himself among them, to drive the Company out of Bengal. The Company's sepoys beat them.
 
 In 1765 Clive met the emperor, who by then was a wanderer without a capital or an army. The emperor still had one thing to give, which was legitimacy. He had no power left to enforce a grant, but his name still made one lawful. He signed a decree appointing the East India Company as the collector of the land tax for Bengal and two neighbouring provinces. The Company would keep the revenue, and would pay him a fixed allowance out of it. The emperor got an income, and the Company got the right to tax in his name.
 

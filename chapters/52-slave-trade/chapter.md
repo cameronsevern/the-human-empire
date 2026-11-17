@@ -4,7 +4,7 @@
 
 Because the plantations of the Americas needed workers by the million, and Africa was the one place where European ships could buy people in such numbers. The native peoples of the Americas were dying of imported diseases, and Europeans would not come in such numbers and died when they did. In Africa, by contrast, selling war captives was an old business, and the kings and merchants of the coast were willing to sell.
 
-In 1526 the king of Kongo wrote a letter to the king of Portugal, whom he called his brother, because both were Christian monarchs. The king of Kongo had been baptised thirty-five years earlier, when the first Portuguese ships arrived, and had taken the name Afonso. For seventeen years he had ruled a kingdom about the size of England on the Atlantic coast of central Africa. He read and wrote Portuguese. One of his sons was a bishop.
+In 1526 the king of Kongo wrote a letter to the king of Portugal, whom he called his brother, because both were Christian monarchs. The king of Kongo had been baptised thirty-five years earlier, when the first Portuguese priests reached his country, and had taken the name Afonso. For seventeen years he had ruled a kingdom about the size of England on the Atlantic coast of central Africa. He read and wrote Portuguese. One of his sons was a bishop.
 
 ![Engraving of a king of Kongo seated under a chandelier, flanked by attendants with torches, as kneeling Europeans in broad hats offer him a document](images/kongo_dapper.jpg)
 *A king of Kongo receives Dutch envoys. Engraving from Olfert Dapper's book on Africa, published in 1668, about 140 years after Afonso's letter. Image: Olfert Dapper, public domain.*

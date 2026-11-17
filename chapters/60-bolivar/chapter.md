@@ -11,7 +11,7 @@ Word got out within the hour. A crowd gathered in the main square, shouting for 
 ![Full-length portrait of King Ferdinand VII in ermine-trimmed robes of state](images/ferdinand.jpg)
 *King Ferdinand VII of Spain in his robes of state, painted by Francisco Goya in 1815, after the king's return. Public domain.*
 
-That same day a British frigate came into the same port. Its captain had a different story, and it contradicted the first at almost every point. Spain had not submitted. The whole country had risen against the French, councils of patriots had taken charge in the king's name, and Britain, Spain's enemy for the past twelve years, was now its ally.
+That same day a British frigate came into the same port. Its captain had a different story, and it contradicted the first at almost every point. Spain had not submitted. The whole country had risen against the French, councils of patriots had taken charge in the king's name, and Britain, Spain's enemy for most of the past twelve years, was now its ally.
 
 The governor and the leading citizens of Caracas were left with a question that no one had ever needed to ask. Until that day the answer had been too obvious to think about. Now their king was a prisoner in France, and a Frenchman was sitting on his throne. Whom, exactly, were they supposed to obey?
 
@@ -64,7 +64,7 @@ Spanish law offered an answer to the governor's question. If the king was absent
 
 They were not colonies of Spain, they said. They were kingdoms of the same king, and for that reason they did not take orders from a committee in a Spanish town.
 
-In 1810, as French armies overran almost all of Spain, city after city in America acted. Caracas removed its governor in April. Buenos Aires followed in May, Bogotá in July and Santiago in September. In each case the leading citizens met at the town hall, deposed the Spanish officials, and set up a council that swore loyalty to King Ferdinand.
+In 1810, as French armies overran almost all of Spain, city after city in America acted. Caracas removed its governor in April. Buenos Aires followed in May, Bogotá in July and Santiago in September. In most of them the leading citizens met at the town hall, removed the Spanish officials, and set up a council that swore loyalty to King Ferdinand.
 
 ![A crowded vaulted hall with men in dark coats and a uniformed officer seated in a chair, a red curtain at the far end](images/cabildo.jpg)
 *The open town council of Buenos Aires, May 1810, as painted by Juan Manuel Blanes decades later, a later imagining. Public domain.*
@@ -140,13 +140,13 @@ The rest of the plan followed in order. A second victory the following year secu
 
 By then the armies of the north and the south had almost met, and the war in Peru was not yet won. The two liberators met once, in July 1822, in the port of Guayaquil in Ecuador. They talked alone for several hours, with no secretary present, and what passed between them has been argued over ever since.
 
-When they came out, San Martín went home, resigned all his offices, and sailed for Europe, where he lived quietly for another twenty-six years. Bolívar took over the war in Peru. In December 1824, on a plateau three thousand metres up, his army defeated the last Spanish viceroy. The new country carved out of the highlands to the south was named Bolivia in his honour.
+When they came out, San Martín went back to Lima and resigned all his offices. A year and a half later he sailed for Europe, where he lived quietly for another twenty-six years. Bolívar took over the war in Peru. In December 1824, on a plateau three thousand metres up, his army defeated the last Spanish viceroy. The new country carved out of the highlands to the south was named Bolivia in his honour.
 
 ## "I am staying"
 
 Portugal's colony went a different way, because its royal family had the foresight to move there.
 
-In November 1807, as a French army approached Lisbon, the prince who ruled Portugal loaded his court, his treasury, his library and some ten thousand courtiers onto every ship in the harbour. They sailed for Brazil under the escort of the British navy. For the next thirteen years Rio de Janeiro was the capital of the Portuguese empire. The colony had become the centre. Brazil acquired a royal court, a bank, printing presses and open ports, without a shot being fired.
+In November 1807, as a French army approached Lisbon, the prince who ruled Portugal loaded his court, his treasury and some ten thousand courtiers onto every ship in the harbour. They sailed for Brazil under the escort of the British navy. For the next thirteen years Rio de Janeiro was the capital of the Portuguese empire. The colony had become the centre. Brazil acquired a royal court, a bank, printing presses and open ports, without a shot being fired.
 
 When the king at last went back to Lisbon in 1821, he left his son Pedro behind as regent. The Portuguese parliament then ordered Brazil to return to the status of a colony and the prince to come home. Many Brazilians had no wish to become a colony again. The city council of Rio brought Pedro a petition begging him not to go. His answer is remembered by one word of it that Brazilians still quote: "*Fico*", I am staying. A few months later, on the bank of a stream near São Paulo, he drew his sword and declared Brazil independent, and by the end of 1822 he had been crowned its emperor.
 
@@ -163,7 +163,7 @@ Bolívar dreamed of something similar on a larger scale. He had his republic of 
 
 The states were not drawing together. They were coming apart. His own republic broke into three parts in 1830. Central America separated from Mexico and then split into five countries. The lands governed from Buenos Aires became Argentina, Bolivia, Paraguay and Uruguay. By the middle of the century, the Spanish empire in America had turned into sixteen states, and the borders between them followed, almost everywhere, the lines of the old colonial districts.
 
-The reasons had been there from the beginning. The regions had traded little with one another and had never been governed together. They had nothing like the elected assemblies that the English colonies had run for a century and a half. What had joined them was the king.
+The reasons had been there from the beginning. The regions had traded little with one another, and they had been governed together only from far away, by the king's viceroys. They had nothing like the elected assemblies that the English colonies had run for a century and a half. What had joined them was the king.
 
 With the king gone, there was no authority that people everywhere accepted, and what took its place, in each region, was the man with the most soldiers. Latin America has a word for the type, *caudillo*, the chief on horseback, and for the next half century most of the new republics were ruled by one.
 

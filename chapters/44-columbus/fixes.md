@@ -1,0 +1,4 @@
+# Fixes from the flow-pass re-check
+
+- Part A MAJOR, Polynesians "settled almost every island in the Pacific": fixed. "With those skills, and in double-hulled canoes about as long as a caravel, they found and settled the islands of Polynesia, scattered across a triangle of ocean with Hawaii, New Zealand and Easter Island at its corners." Source: https://teara.govt.nz/en/pacific-migrations
+- Part C, Marshall Islands stick chart under a passage saying Polynesians used no charts: fixed in chapter.md and ledger. "A stick chart from the Marshall Islands, north-west of Polynesia, in the Ethnological Museum in Berlin. Marshallese navigators made these models of ocean swells to learn the patterns on land, and left them behind when they sailed." Source: https://ocean.si.edu/human-connections/history-cultures/navigating-waters-micronesian-stick-charts
