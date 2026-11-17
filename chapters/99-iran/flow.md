@@ -1,0 +1,4 @@
+Prose words: 3,015 before, 3,864 after.
+Changes: bridging sentences before new ideas (the clergy's independence, the forty-day cycle, the hostage crisis as a loyalty test, the Afghan war's cost); terms glossed in place (shah, reform from above, bazaar, jurists, legal immunity, martial law, hanging judge, the 1967 war); crowded paragraphs split (oil boom, secret police, land reform, Qutb, Arab backing for Iraq); more varied connecting words.
+Check (check2.md) applied: dropped an invented order of events for the mosque committees, Guards and courts; tied the hardening to some Brotherhood members, not the whole movement; removed "He had two reasons", "none had a lawful way to voice it" and other new absolutes and signposts; untied the land-reform harm from the oil money; cut repeated wording. Also removed "alone" from Gromov's crossing of the bridge (his son met him on it), a small, certain fix to an untouched sentence.
+No flags left unapplied.
