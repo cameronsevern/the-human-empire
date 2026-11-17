@@ -1,0 +1,6 @@
+# Flow pass
+
+Prose words (body, excluding title, headings and captions): 3,258 before, 3,693 after.
+Main changes: paragraphs split (serfs and land, factory workers, Rasputin, the Provisional Government, Lenin's party, the Winter Palace, the assembly, the civil war); reasoning walked through (why the Petrograd garrison mutinied, why the two decisions of the Provisional Government failed, why the land decree cost Lenin nothing, why the peasants chose the Reds); terms glossed (Cossacks, Red Guards); links back to the bread queues and the soviets of 1905.
+Check flags applied: Order No. 1 addition narrowed to the capital's soldiers; removed additions that revived the Bolshevik-name confusion; removed signposts and a repeated "wait" sentence; split the Cossack sentence; clarified "first two words" and the ending's "instead".
+Left unapplied (original sentences, fix needs facts not in the chapter or is not small): "every military unit" for Order No. 1 (addressed to the Petrograd garrison); "no crowds ... carried out in a night" (24 to 26 October); Germany's revolution "put down within months" (it produced the republic; only the further radical attempts were crushed); Lenin "from 1900 lived abroad" (he was back in Russia 1905 to 1907); the "same palace" is the Tauride, not the Winter Palace; "wages had not" ambiguity.
