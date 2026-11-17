@@ -11,27 +11,31 @@ On 20 January 1942, fifteen men met in a villa beside a lake on the edge of Berl
 
 The chairman was Reinhard Heydrich, the head of the security police. He told them that he had been given the task of organising a "final solution of the Jewish question" for the whole of Europe, and that he required the cooperation of their departments. A table was handed round listing the Jews of every European country, including those that Germany had not conquered, such as England, with three hundred and thirty thousand, and Ireland, with four thousand. The total came to eleven million.
 
-The discussion took about an hour and a half. The officials raised points of detail, such as how to treat people with only one Jewish parent, and which workers in arms factories might be spared for the time being. Nobody objected. Afterwards cognac was served, and there was lunch.
+The discussion took about an hour and a half. The officials raised points of detail, such as how to treat people with only one Jewish parent, and which workers in arms factories might be spared for the time being. Nobody objected. To the men at the table, it was a meeting about administration. Afterwards cognac was served, and there was lunch.
 
 Thirty copies of the minutes were made, in careful language about "evacuation to the east". One survived, and was found in the files of the foreign ministry after the war. The man who wrote them, an official named Adolf Eichmann who ran the office for Jewish affairs, said at his trial many years later that the words actually used around the table had been much plainer.
 
 ![Page 6 of the Wannsee minutes, a typed table of countries and numbers of Jews, in a museum display case beside a printed English translation](images/wannsee_list.jpg)
 *Page 6 of the minutes of the Wannsee meeting, a typed table of the Jews in each country of Europe, ending in a total of over eleven million, shown with a translation in the museum at the villa. Photo: unknown, public domain.*
 
-By the day of that meeting the killing had been going on for seven months, and about a million Jews were already dead. The conference did not decide on murder. Its purpose was to make sure that every branch of the government took part.
+By the day of that meeting the killing had been going on for seven months, and about a million Jews were already dead. The conference did not decide on murder. Its purpose was to make sure that every branch of the government took part. Murder on that scale needed clerks, trains and paperwork as well as guns, and so it needed the ministries.
 
 ## Behind the wall
 
 Before the war, the Nazi government had wanted the Jews of Germany to leave, and had robbed and terrorised them to hurry them out. The war changed the scale of what it called its problem. Poland, which Germany invaded in September 1939, had more than three million Jews, the largest community in Europe. They had lived there for more than six hundred years. Most were poor craftsmen, shopkeepers and workers who spoke Yiddish, a language of their own.
 
-The first measures went further than anything yet tried in Germany. Jews were made to wear a badge with a six-pointed star. Their businesses and savings were confiscated. Then they were ordered out of their homes and concentrated in certain districts of the cities, which were called ghettos, after the walled Jewish quarter of old Venice.
+The first measures went further than anything yet tried in Germany. Jews were made to wear a badge with a six-pointed star, which marked them out at a glance to soldiers and neighbours alike. Their businesses and savings were confiscated. Then they were ordered out of their homes and concentrated in certain districts of the cities, which were called ghettos, after the walled Jewish quarter of old Venice. Shut into one district, people were easier to control, to rob and, later, to remove.
 
-The largest was in Warsaw. In November 1940 it was sealed behind a brick wall three metres high, which the Jews themselves were made to pay for. More than four hundred thousand people were packed into a little over three square kilometres, seven or more to a room. The official ration came to fewer than two hundred calories a day, a tenth of what a person needs. Children slipped through holes in the wall to smuggle in potatoes, and were shot if they were caught. Typhus spread through the crowded buildings. In a year and a half, more than eighty thousand people in the ghetto died of hunger and disease, and each morning carts went round to collect the bodies from the pavements.
+The largest was in Warsaw. In November 1940 it was sealed behind a brick wall three metres high, which the Jews themselves were made to pay for. More than four hundred thousand people were packed into a little over three square kilometres, seven or more to a room. The official ration came to fewer than two hundred calories a day, a tenth of what a person needs. On rations like that, the ghetto killed slowly even without guns.
+
+Children slipped through holes in the wall to smuggle in potatoes, and were shot if they were caught. Typhus spread through the crowded buildings. In a year and a half, more than eighty thousand people in the ghetto died of hunger and disease, and each morning carts went round to collect the bodies from the pavements.
 
 ![A surviving stretch of red brick wall in a courtyard, with two small plaques and planters of orange flowers in front](images/ghetto_wall.jpg)
 *A surviving stretch of the wall of the Warsaw ghetto, in a courtyard at Sienna Street 55, photographed in 2008. Photo: Cezary p, CC BY-SA 4.0.*
 
-Inside the wall, life was kept up with great determination. There were secret schools, soup kitchens run by committees in each building, lectures, an orchestra, and underground newspapers. A historian named Emanuel Ringelblum decided that the ghetto must leave its own record. He gathered a group of teachers, writers and rabbis, who met on Saturdays and gave themselves a harmless name, the Joy of the Sabbath. They collected everything: diaries, essays by schoolchildren, ration cards, tram tickets, German decrees, the wrappers of sweets, reports of what refugees from other towns had seen. Ringelblum wanted the history of what was happening to be written by the people it was happening to, and not by those who were doing it.
+Inside the wall, life was kept up with great determination. There were secret schools, soup kitchens run by committees in each building, lectures, an orchestra, and underground newspapers.
+
+A historian named Emanuel Ringelblum decided that the ghetto must leave its own record. He gathered a group of teachers, writers and rabbis, who met on Saturdays and gave themselves a harmless name, the Joy of the Sabbath. They collected everything: diaries, essays by schoolchildren, ration cards, tram tickets, German decrees, the wrappers of sweets, reports of what refugees from other towns had seen. Ringelblum wanted the history of what was happening to be written by the people it was happening to, and not by those who were doing it.
 
 ![A crowd of children and some adults in caps and coats standing on a wide street, looking at the camera, with ruined and tall buildings behind](images/ghetto_children.jpg)
 *Children in the Warsaw ghetto in 1941, on Mariańska Street, looking towards Twarda Street. Photographer unknown, public domain.*
@@ -40,13 +44,13 @@ Inside the wall, life was kept up with great determination. There were secret sc
 
 The method that was eventually used on those people was first tried on Germans.
 
-In the autumn of 1939 Hitler signed a short note authorising doctors to grant a "mercy death" to patients judged incurable. Forms were sent to every asylum and hospital in Germany, asking for details of each patient who had a mental illness, epilepsy, a severe disability, or who had been in an institution for five years. Panels of doctors who never saw the patients marked the forms with a red plus sign for death.
+In the autumn of 1939 Hitler signed a short note authorising doctors to grant a "mercy death" to patients judged incurable. Forms were sent to every asylum and hospital in Germany, asking for details of each patient who had a mental illness, epilepsy, a severe disability, or who had been in an institution for five years. The killing, in other words, began with paperwork. Panels of doctors who never saw the patients marked the forms with a red plus sign for death.
 
-Grey buses collected those selected and drove them to one of six centres. There they were undressed, led into a tiled room fitted with shower heads, and killed with carbon monoxide gas piped in through the walls. The bodies were burned, and the families received an urn and a letter of condolence giving a false cause of death. By August 1941 seventy thousand people had been killed in this way.
+Grey buses collected those selected and drove them to one of six centres. There they were undressed, led into a tiled room fitted with shower heads, and killed with carbon monoxide gas piped in through the walls. The shower heads were a disguise, to keep the victims calm until the door was shut. The bodies were burned, and the families received an urn and a letter of condolence giving a false cause of death. By August 1941 seventy thousand people had been killed in this way.
 
-It could not be kept secret, since people noticed the buses and the smoke, and families compared their letters. In August 1941 the Catholic bishop of Münster denounced the killing from his pulpit as plain murder, and his sermon was copied and passed from hand to hand across the country. Three weeks later Hitler ordered the gassing stopped. The killing of patients continued more quietly, in hospitals, by starvation and injection.
+It could not be kept secret. People noticed the buses and the smoke, and families compared their letters. In August 1941 the Catholic bishop of Münster denounced the killing from his pulpit as plain murder, and his sermon was copied and passed from hand to hand across the country. Three weeks later Hitler ordered the gassing stopped. Public protest had worked, but only in part. The killing of patients continued more quietly, in hospitals, by starvation and injection.
 
-The regime had learned that Germans would protest at the murder of their own relatives on German soil. It also now had about a hundred experienced men, with their equipment, in need of employment. Within months they were sent to Poland.
+The regime had learned that Germans would protest at the murder of their own relatives on German soil. It also now had about a hundred experienced men, with their equipment, in need of employment. Within months they were sent to Poland, where what they had learned would be used on a far larger scale.
 
 ## The pits
 
@@ -56,34 +60,44 @@ The procedure was the same in hundreds of towns. Notices were posted ordering th
 
 Three thousand men could not have done this alone. They were helped by the German army, which supplied trucks and guards, by battalions of ordinary police, and by volunteers recruited in Lithuania, Latvia and Ukraine. In this way, in pits and forests, more than a million and a half Jews were killed.
 
-The records of one police battalion show what kind of men pulled the triggers. It was made up of about five hundred reservists from the port of Hamburg, mostly dockers, drivers and clerks in their thirties and forties, too old for the army. Three in four were not members of the Nazi party. In July 1942 they were taken to a Polish village and told by their commander, a career policeman of fifty-three, that they were to shoot its fifteen hundred Jewish women, children and old people. He was in tears as he spoke. Then he made an offer. Any man who did not feel up to the task could step out.
+The killers were not all fanatics. The records of one police battalion show what kind of men pulled the triggers. It was made up of about five hundred reservists from the port of Hamburg, mostly dockers, drivers and clerks in their thirties and forties, too old for the army. Three in four were not members of the Nazi party. In July 1942 they were taken to a Polish village and told by their commander, a career policeman of fifty-three, that they were to shoot its fifteen hundred Jewish women, children and old people. He was in tears as he spoke. Then he made an offer. Any man who did not feel up to the task could step out.
 
-About a dozen did. They were given other duties and were not punished, and in all the records of those years there is no case of a German being shot or imprisoned for refusing to kill civilians. The rest went into the woods and did as they were told. Some asked to be excused as the day went on. Most got used to it. Over the following year that one battalion shot thirty-eight thousand people.
+About a dozen did. They were given other duties and were not punished, and in all the records of those years there is no case of a German being shot or imprisoned for refusing to kill civilians. The rest went into the woods and did as they were told. Some asked to be excused as the day went on. Most got used to it. In the months that followed, that one battalion helped to shoot at least thirty-eight thousand people.
 
 ## A painted clock
 
-Shooting was slow and public, and it was hard on the shooters. The head of the security forces watched an execution that summer and came away worried about the nerves of his men. Between the summer and the end of 1941 the aim widened from the Jews of the conquered Soviet lands to every Jew within reach, and the search began for a better method. No written order from Hitler has ever been found, and historians still argue over the month. Those around him understood his wishes, and the instructions were passed on by word of mouth.
+Shooting was slow and public, and it was hard on the shooters. The head of the security forces watched an execution in the summer of 1941 and came away worried about the nerves of his men. What the leadership wanted was a method that was faster and more private, and that spared the men who used it.
 
-On 8 December 1941, the day after the attack on Pearl Harbor, the first killing centre began work at a manor house in western Poland. It used sealed vans, with the exhaust pipe turned into the back.
+Between the summer and the end of 1941 the aim widened from the Jews of the conquered Soviet lands to every Jew within reach, and the search began for a better method. No written order from Hitler has ever been found, and historians still argue over the month. Those around him understood his wishes, and the instructions were passed on by word of mouth.
 
-In the spring and summer of 1942 three more camps were opened in remote corners of eastern Poland, each beside a railway line. Their names were Bełżec, Sobibór and Treblinka. They are less well known than they ought to be, because almost nobody came out of them. They were not prison camps, and there were hardly any barracks. Each was run by twenty or thirty Germans, the veterans of the gassing centres, with about a hundred guards. A train arrived. The passengers were told that they had reached a transit camp and must be disinfected before going on to work in the east. Within two hours they were dead, killed by the fumes of a large engine, and the train had gone back for more.
+On 8 December 1941, the day after the attack on Pearl Harbor, the first killing centre began work at a manor house in western Poland. It used sealed vans, with the exhaust pipe turned into the back, so that the people locked inside were poisoned by the fumes.
 
-At the largest of the three, Treblinka, the Germans built a false railway station to keep the arrivals calm. It had a ticket window, timetables, signs pointing to connecting trains, and a clock whose hands were painted on. In those three camps, in a year and a half, about one million seven hundred thousand people were murdered. From Bełżec, where over four hundred thousand died, two survivors are known to have given evidence after the war.
+In the spring and summer of 1942 three more camps were opened in remote corners of eastern Poland, each beside a railway line. Their names were Bełżec, Sobibór and Treblinka. They are less well known than they ought to be, because almost nobody came out of them. They were not prison camps, and there were hardly any barracks. Each was run by twenty or thirty Germans, the veterans of the gassing centres, with about a hundred guards.
 
-The camp that became the name for all of it was of a different kind. Auschwitz, in southern Poland, was a vast complex that combined a killing centre with a system of slave labour. It was run, like all the camps, by the SS, the black-uniformed corps of the Nazi party that had grown from Hitler's bodyguard into a state of its own. When a train arrived, an SS doctor stood on the platform and pointed to the left or the right. The young and strong were sent to work, in mines and in a huge chemical plant that one of the largest companies in Germany had built beside the camp, until they died of exhaustion in a few months. The old, the sick, and the mothers with their children went straight to the gas chambers. The gas was a pesticide, sold in tins by a pest-control firm. The ovens were designed by an engineering company that normally made brewing equipment, and its engineers visited the site to improve them. About a million Jews were killed there.
+The whole process was built for speed. A train arrived. The passengers were told that they had reached a transit camp and must be disinfected before going on to work in the east. Within two hours they were dead, killed by the fumes of a large engine, and the train had gone back for more.
+
+At the largest of the three, Treblinka, the Germans built a false railway station to keep the arrivals calm. It had a ticket window, timetables, signs pointing to connecting trains, and a clock whose hands were painted on. Everything about it was a stage set, there to keep people walking quietly forward. In those three camps, in a year and a half, about one million seven hundred thousand people were murdered. From Bełżec, where over four hundred thousand died, two survivors are known to have given evidence after the war.
+
+The camp that became the name for all of it was of a different kind. Auschwitz, in southern Poland, was a vast complex that combined a killing centre with a system of slave labour. It was run, like all the camps, by the SS, the black-uniformed corps of the Nazi party that had grown from Hitler's bodyguard into a state of its own.
+
+When a train arrived, an SS doctor stood on the platform and pointed to the left or the right. The young and strong were sent to work, in mines and in a huge chemical plant that one of the largest companies in Germany had built beside the camp, until they died of exhaustion in a few months. The old, the sick, and the mothers with their children went straight to the gas chambers.
+
+Ordinary German firms supplied the means. The gas was a pesticide, sold in tins by a pest-control firm. The ovens were designed by an engineering company that normally made brewing equipment, and its engineers visited the site to improve them. About a million Jews were killed there.
 
 ![Map of Europe in 1942. The land ruled by Germany, its allies and the countries they occupied is shaded from France to the eastern front; the occupied Soviet lands from the Baltic to the Black Sea, including Kyiv, are hatched as the area of the mass shootings; dashed lines show deportation trains from Amsterdam, from France, from Greece and from Budapest converging on Auschwitz. An enlargement of occupied Poland shows the Warsaw ghetto, the line to Treblinka, and the six killing centres: Chełmno, Treblinka, Sobibór, Majdanek, Bełżec and Auschwitz](images/map_europe_1942.png)
 *Europe in 1942, roughly: the land ruled by Germany, its allies and the countries they occupied, the area of the mass shootings behind the eastern front, and the main deportation routes, simplified; the enlargement shows the Warsaw ghetto and the six killing centres in occupied Poland. Map: drawn for this book; coastlines and rivers from Natural Earth, public domain.*
 
 ## Every Tuesday
 
-The Netherlands was a peaceable and orderly country, with little history of hatred of Jews, and it lost three quarters of them, a higher share than any other country in western Europe. The work passed through a great many Dutch and German hands.
+The Netherlands was a peaceable and orderly country, with little history of hatred of Jews, and it lost three quarters of them, a higher share than any other country in western Europe. Its fate shows how far orderly paperwork could carry the killing in a country with little hatred to draw on. The work passed through a great many Dutch and German hands.
 
-It started with a form. In January 1941 the German occupiers ordered every person with a Jewish grandparent to register. The Dutch civil service, which kept excellent records, carried out the order thoroughly. A hundred and sixty thousand people filled in the form, of whom a hundred and forty thousand were counted as fully Jewish. Their identity cards were stamped with a large J, and a card index was compiled with their addresses.
+It started with a form. In January 1941 the German occupiers ordered every person with a Jewish grandparent to register. The Dutch civil service, which kept excellent records, carried out the order thoroughly. A hundred and sixty thousand people filled in the form, of whom a hundred and forty thousand were counted as fully Jewish. Their identity cards were stamped with a large J, and a card index was compiled with their addresses. With that index in hand, the occupiers had the address of every registered Jew.
 
 Next came their property. Jews were ordered to deposit their money, shares and jewellery in a particular bank, which had been a respected Jewish firm and was now an agency for looting. They were dismissed from their jobs, barred from parks and trams, and made to wear the star.
 
-In July 1942 the call-up notices began to arrive by post, for "labour in Germany". When too few people reported, the police came to the door, at night, working from the card index. In Amsterdam, the city's own trams carried the arrested to the central station, and the tram company sent the Germans a bill. The Dutch railways ran the trains to a transit camp on a heath in the north-east, and sent a bill for that. After a family had gone, a removal firm emptied the flat, and the furniture was shipped to Germany for people who had been bombed out.
+In July 1942 the call-up notices began to arrive by post, for "labour in Germany". When too few people reported, the police came to the door, at night, working from the card index.
+
+Each step was handled as routine business. In Amsterdam, the city's own trams carried the arrested to the central station, and the tram company sent the Germans a bill. The Dutch railways ran the trains to a transit camp on a heath in the north-east, and sent a bill for that. After a family had gone, a removal firm emptied the flat, and the furniture was shipped to Germany for people who had been bombed out.
 
 From the transit camp a train left for the east, through most of 1943 and 1944 on a Tuesday morning. The German railway treated these as ordinary charter traffic. It charged the security police the third-class group fare, one way, per head. Children under ten went at half price, and children under four went free. The fares were paid out of the money taken from the passengers.
 
@@ -92,7 +106,9 @@ From the transit camp a train left for the east, through most of 1943 and 1944 o
 
 Ninety-three trains made the journey, carrying a hundred and seven thousand people. Five thousand came back.
 
-About twenty-five thousand Dutch Jews went into hiding, in attics, cellars and barns, kept alive by people who shared their ration cards with them at the risk of their own lives. Two thirds of those who hid survived. Among those who did not was a girl who spent twenty-five months with her family behind a bookcase in the back rooms of her father's office in Amsterdam, writing in a diary. In August 1944 the police raided the building. Anne Frank was put on the last train to leave that transit camp for Auschwitz, and died of typhus in another camp, in Germany, two months before it was freed. She was fifteen.
+About twenty-five thousand Dutch Jews went into hiding, in attics, cellars and barns, kept alive by people who shared their ration cards with them at the risk of their own lives. Two thirds of those who hid survived.
+
+Among those who did not was a girl who spent twenty-five months with her family behind a bookcase in the back rooms of her father's office in Amsterdam, writing in a diary. In August 1944 the police raided the building. Anne Frank was put on the last train to leave that transit camp for Auschwitz, and died of typhus in another camp, in Germany, two months before it was freed. She was fifteen.
 
 ![A tall wooden bookcase filled with office files, standing out from the wall to show it is hinged](images/bookcase.jpg)
 *A reconstruction of the hinged bookcase that hid the entrance to the back rooms of the Anne Frank House in Amsterdam, photographed in 2008. Photo: Bungle, CC BY-SA 3.0.*
@@ -101,18 +117,24 @@ About twenty-five thousand Dutch Jews went into hiding, in attics, cellars and b
 
 None of it was inevitable, and the proof is the places where it did not work.
 
-In Denmark, in September 1943, a German shipping official learned that the Jews were to be rounded up on the night of the Jewish new year, and told a Danish politician. The warning was read out in the synagogue. Over the next three weeks the Danes hid their Jewish neighbours in hospitals, churches and summer houses, and then ferried them across the narrow strait to neutral Sweden in fishing boats, a dozen at a time under the nets. More than seven thousand escaped. The Germans caught fewer than five hundred.
+In Denmark, in September 1943, a German shipping official learned that the Jews were to be rounded up on the night of the Jewish new year, and told a Danish politician. The warning was read out in the synagogue, and the Danes acted on it at once.
+
+Over the next three weeks the Danes hid their Jewish neighbours in hospitals, churches and summer houses, and then ferried them across the narrow strait to neutral Sweden in fishing boats, a dozen at a time under the nets. More than seven thousand escaped. The Germans caught fewer than five hundred.
 
 ![A white wooden fishing boat with a small wheelhouse moored at a quay under a blue sky with clouds](images/danish_boat.jpg)
 *The fishing boat Elisabeth, which took part in the rescue of the Danish Jews in 1943, when about seven hundred of them fled through Dragør harbour to Sweden. The boat is shown at Dragør in recent years. Photo: Jens Cederskjold, CC BY 4.0.*
 
 In Bulgaria, an ally of Germany, the trains had already been ordered when members of parliament and the heads of the Orthodox Church protested, and one bishop threatened to lie down on the tracks. The king gave way, and the country's forty-eight thousand Jews survived the war. The same government handed over eleven thousand Jews from the territories that it had occupied, and they were all killed.
 
-The comparison is not simple. In Poland, where nine Jews in ten were murdered, the Germans ruled directly and made any help to a Jew punishable by death, and they shot whole families for it. Thousands of Poles hid Jews all the same, and thousands of others betrayed them. What the cases show together is that the killers depended on cooperation. Where officials, policemen and neighbours refused, the machinery slowed or stopped.
+The comparison is not simple.
+
+In Poland, where nine Jews in ten were murdered, the Germans ruled directly and made any help to a Jew punishable by death, and they shot whole families for it. Thousands of Poles hid Jews all the same, and thousands of others betrayed them.
+
+What the cases show together is that the killers depended on cooperation. Where officials, policemen and neighbours refused, the machinery slowed or stopped.
 
 ## Pistols
 
-The victims have often been asked why they did not resist. They had been starved for two years, they had their children and parents with them, and they were told at every stage that they were going to work. Most could not at first believe the truth, since no state had set out to do such a thing with trains and timetables before.
+The victims have often been asked why they did not resist. They had been starved for two years, they had their children and parents with them, and they were told at every stage that they were going to work. Each lie made the next step easier for the killers. Most could not at first believe the truth, since no state had set out to do such a thing with trains and timetables before.
 
 In Warsaw the truth arrived in the summer of 1942. In two months, more than a quarter of a million people were taken from the ghetto to Treblinka, at a rate of six thousand a day. An escaper returned and told the ghetto what happened there. The young people who were left resolved that they would not go quietly.
 
@@ -122,7 +144,9 @@ There were risings in the death camps too. Prisoners at Treblinka set the camp o
 
 ## "I am unable to believe him"
 
-The outside world was told. A Polish underground courier was smuggled into the Warsaw ghetto in 1942, and then, disguised as a guard, into a camp where Jews were being loaded onto trains. He made his way to London and then to Washington, where he described what he had seen to the president in person. He also told a judge of the Supreme Court, who was himself Jewish. The judge heard him out and replied that he could not believe him. He did not mean, he added, that the young man was lying. He meant that he was unable to believe it.
+The outside world was told. A Polish underground courier was smuggled into the Warsaw ghetto in 1942, and then, disguised as a guard, into a camp where Jews were being loaded onto trains. He made his way to London and then to Washington, where he described what he had seen to the president in person.
+
+He also told a judge of the Supreme Court, who was himself Jewish. The judge heard him out and replied that he could not believe him. He did not mean, he added, that the young man was lying. He meant that he was unable to believe it.
 
 In December 1942 the Allied governments publicly condemned the "bestial policy of cold-blooded extermination". They held that the way to save the Jews was to win the war as fast as possible, and they did little else.
 
@@ -148,7 +172,9 @@ The soldiers also found the storerooms, which the SS had not had time to burn. T
 
 The law had no name for what had been done. A Polish lawyer who had escaped to America, and who lost forty-nine members of his family, had made one up in 1944 out of the Greek for a people and the Latin for killing. In 1948 the United Nations adopted a convention declaring genocide a crime under the law of nations.
 
-The leading Nazis who could be found were tried by the Allies, and a number were hanged. Most of those who had done the work went home. Of the six and a half thousand SS men and women who served at Auschwitz and survived the war, about eight hundred ever stood trial. The railway officials went on running the railways, the judges returned to the bench, and the policemen from Hamburg went back to Hamburg. Eichmann was caught in Argentina in 1960 and tried in Jerusalem. His defence was that he had never killed anyone. He had only arranged transport.
+The leading Nazis who could be found were tried by the Allies, and a number were hanged. Most of those who had done the work went home. Of the six and a half thousand SS men and women who served at Auschwitz and survived the war, about eight hundred ever stood trial. The railway officials went on running the railways, the judges returned to the bench, and the policemen from Hamburg went back to Hamburg.
+
+Eichmann was caught in Argentina in 1960 and tried in Jerusalem. His defence was that he had never killed anyone. He had only arranged transport.
 
 In the first days of August 1942, as the trains were leaving Warsaw for Treblinka, Ringelblum's helpers packed the first part of the ghetto's archive into ten metal boxes and buried them under the cellar of a school. One of those who dug the hole, a boy of nineteen, slipped a note of his own into a box. What we could not cry out to the world, he wrote, we buried in the ground. He added that he would love to see the moment when the treasure was dug up and screamed the truth, and that he did not expect to.
 
