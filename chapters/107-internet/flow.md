@@ -1,0 +1,4 @@
+Flow pass: body prose 3,137 words before, 3,643 after.
+Changes: switches and stored programs walked through a step at a time; split dense paragraphs (computer basics, ENIAC, integrated circuit, packets, CERN, 1993 to 2007); explained terms in place (common language as a set of rules, the @ sign); bridges into the telephone-circuit problem, the doubling, Taiwan's risk and the companies' dominance.
+Check2 flags applied: removed or softened added claims (valve hunting, idle lines, authentication, data centres, "whatever the price"); fixed the wavelength limit, "Englishman" to "British physicist" (Davies was Welsh), Shockley "within a year" to "within two years", CHIPS "began paying" to "set aside money"; cut seven padding or signpost lines.
+Left unapplied: "Any number of circuits" and "Nothing else that human beings make has improved at that rate" (original wording, style objections to confidence).
