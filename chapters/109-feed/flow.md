@@ -1,0 +1,4 @@
+Flow pass: body prose 2,940 words before, 3,631 after.
+Changes: bridges into each new idea (the old hatred in Myanmar, editors as a filter, who pays for free services, why the feed exists, why the aim matters); the ranking loop and the angry-face weighting walked through step by step; split dense paragraphs (army pages, the feed, the effects evidence, moderators); consequences spelled out (local news, Slovakia, the liar's dividend).
+Check2 flags applied: removed the four-reviewers-for-eighteen-million comparison (mismatched years), "and so has the check", the newspaper-page line, signposts and low-information openers; softened absolutes (gossip pages, editors, feedback loop, forgery, the one-second pause, YouTube viewing).
+Left unapplied: "In 2007 came the telephone with a screen" (original; smartphones predate the iPhone, needs a reword beyond a flow pass); "126,000 news stories" should be sharing cascades (original wording, correction not small).
