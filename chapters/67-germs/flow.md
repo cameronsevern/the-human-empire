@@ -1,0 +1,4 @@
+Prose words: 3,374 before, about 4,256 after.
+Changes: set-up sentences before each new idea (why the clinics differed, why the pump's exceptions mattered, why the South London comparison was stronger); reasoning split into steps (Koch's three-step anthrax proof, the swan-neck logic, the general recipe behind vaccination); transitions added; long paragraphs split.
+Check flags applied: removed the implication that Meister was the first human patient, the link between Petri dishes and the 1882 tuberculosis work, the claim that nobody had tested the anthrax rods as a cause, and "without anyone having intended it" for clean water; "almost always fatal" for rabies; signposts and repeats trimmed; "the engineer" now "an engineer".
+Left unapplied: "one difference only" (original wording, kept as checked earlier).
