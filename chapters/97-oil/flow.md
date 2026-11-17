@@ -1,0 +1,4 @@
+Prose words (excluding headings, images and captions): 3,109 before, 3,722 after.
+Changes: setup and transition sentences before new ideas (gasoline's rise, Europe's switch to imported oil, the concession, the 1970 shift in power, the resource puzzle); terms and devices explained (concession, the internal-combustion engine, the official price, the dollar's link to gold); long paragraphs split (Ford's line, Mossadegh, the 1973 shock, petrodollars, Nigeria and Norway); consequences stated after key facts.
+Codex flags applied: Dutch ban framed as fuel-saving, Iranian nationalisation "undone" replaced with foreign control in practice, 1945 "understanding" removed, 1973 price-setting reworded, spare capacity limited to outside the Middle East, airlift "every few minutes" corrected to "day after day" (original text), signpost and padding lines cut, pronoun and absolutes fixed.
+Left unapplied: none.
