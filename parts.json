@@ -1,0 +1,689 @@
+[
+ {
+  "n": 1,
+  "roman": "I",
+  "title": "Origins",
+  "released": true,
+  "colour": "#8a5a1c",
+  "hi": true,
+  "v": 1794890302,
+  "pages": 136,
+  "pdf": "https://github.com/cameronsevern/the-human-empire/releases/download/downloads/the-human-empire-part-1.pdf",
+  "chapters": [
+   {
+    "n": 1,
+    "title": "What is a human?",
+    "page": 4
+   },
+   {
+    "n": 2,
+    "title": "How did humans end up everywhere?",
+    "page": 24
+   },
+   {
+    "n": 3,
+    "title": "What did early humans believe?",
+    "page": 45
+   },
+   {
+    "n": 4,
+    "title": "Have humans always fought wars?",
+    "page": 63
+   },
+   {
+    "n": 5,
+    "title": "Why did people start farming?",
+    "page": 80
+   },
+   {
+    "n": 6,
+    "title": "Why do we pay taxes?",
+    "page": 100
+   },
+   {
+    "n": 7,
+    "title": "Why did people obey kings?",
+    "page": 118
+   }
+  ],
+  "epub": "https://github.com/cameronsevern/the-human-empire/releases/download/downloads/the-human-empire-part-1.epub"
+ },
+ {
+  "n": 2,
+  "roman": "II",
+  "title": "Conquest",
+  "released": true,
+  "colour": "#7a2e25",
+  "hi": true,
+  "v": 1794890531,
+  "pages": 279,
+  "pdf": "https://github.com/cameronsevern/the-human-empire/releases/download/downloads/the-human-empire-part-2.pdf",
+  "chapters": [
+   {
+    "n": 8,
+    "title": "What was the first empire?",
+    "page": 5
+   },
+   {
+    "n": 9,
+    "title": "Who wrote the first laws?",
+    "page": 20
+   },
+   {
+    "n": 10,
+    "title": "Why did it take so long to invent the wheel?",
+    "page": 37
+   },
+   {
+    "n": 11,
+    "title": "Why did the Bronze Age end?",
+    "page": 53
+   },
+   {
+    "n": 12,
+    "title": "Why were the Assyrians so cruel?",
+    "page": 70
+   },
+   {
+    "n": 13,
+    "title": "How did Persia rule so many peoples?",
+    "page": 90
+   },
+   {
+    "n": 14,
+    "title": "Where did the belief in one God come from?",
+    "page": 109
+   },
+   {
+    "n": 15,
+    "title": "Who invented money?",
+    "page": 128
+   },
+   {
+    "n": 16,
+    "title": "Where did the caste system come from?",
+    "page": 147
+   },
+   {
+    "n": 17,
+    "title": "Why did so many great thinkers live at the same time?",
+    "page": 164
+   },
+   {
+    "n": 18,
+    "title": "Who invented democracy?",
+    "page": 182
+   },
+   {
+    "n": 19,
+    "title": "Why is Alexander called the Great?",
+    "page": 202
+   },
+   {
+    "n": 20,
+    "title": "Has a conqueror ever been sorry?",
+    "page": 221
+   },
+   {
+    "n": 21,
+    "title": "How did China become one country?",
+    "page": 240
+   },
+   {
+    "n": 22,
+    "title": "Why was the Great Wall of China built?",
+    "page": 260
+   }
+  ],
+  "epub": "https://github.com/cameronsevern/the-human-empire/releases/download/downloads/the-human-empire-part-2.epub"
+ },
+ {
+  "n": 3,
+  "roman": "III",
+  "title": "Faith",
+  "released": true,
+  "colour": "#1f4a52",
+  "hi": true,
+  "v": 1794890545,
+  "pages": 307,
+  "pdf": "https://github.com/cameronsevern/the-human-empire/releases/download/downloads/the-human-empire-part-3.pdf",
+  "chapters": [
+   {
+    "n": 23,
+    "title": "How did Rome become so powerful?",
+    "page": 5
+   },
+   {
+    "n": 24,
+    "title": "Why did the Roman Republic fall?",
+    "page": 24
+   },
+   {
+    "n": 25,
+    "title": "Why did the Roman Empire become Christian?",
+    "page": 42
+   },
+   {
+    "n": 26,
+    "title": "Why did people become monks?",
+    "page": 61
+   },
+   {
+    "n": 27,
+    "title": "Why did the Roman Empire fall?",
+    "page": 77
+   },
+   {
+    "n": 28,
+    "title": "How did Islam begin?",
+    "page": 97
+   },
+   {
+    "n": 29,
+    "title": "How did the Arabs conquer an empire so quickly?",
+    "page": 113
+   },
+   {
+    "n": 30,
+    "title": "Where do our numbers come from?",
+    "page": 129
+   },
+   {
+    "n": 31,
+    "title": "Why do we take exams?",
+    "page": 146
+   },
+   {
+    "n": 32,
+    "title": "Who invented gunpowder?",
+    "page": 163
+   },
+   {
+    "n": 33,
+    "title": "Who ruled the Indian Ocean?",
+    "page": 181
+   },
+   {
+    "n": 34,
+    "title": "Who built the statues on Easter Island?",
+    "page": 199
+   },
+   {
+    "n": 35,
+    "title": "Who were the Vikings?",
+    "page": 217
+   },
+   {
+    "n": 36,
+    "title": "Why are there so many castles in Europe?",
+    "page": 235
+   },
+   {
+    "n": 37,
+    "title": "Why did the Crusades happen?",
+    "page": 254
+   },
+   {
+    "n": 38,
+    "title": "Who was the richest person in history?",
+    "page": 273
+   },
+   {
+    "n": 39,
+    "title": "What was America like before Columbus?",
+    "page": 289
+   }
+  ],
+  "epub": "https://github.com/cameronsevern/the-human-empire/releases/download/downloads/the-human-empire-part-3.epub"
+ },
+ {
+  "n": 4,
+  "roman": "IV",
+  "title": "Expansion",
+  "released": true,
+  "colour": "#27476e",
+  "hi": true,
+  "v": 1794890340,
+  "pages": 214,
+  "pdf": "https://github.com/cameronsevern/the-human-empire/releases/download/downloads/the-human-empire-part-4.pdf",
+  "chapters": [
+   {
+    "n": 40,
+    "title": "How did the Mongols conquer so much?",
+    "page": 4
+   },
+   {
+    "n": 41,
+    "title": "What did the Black Death change?",
+    "page": 22
+   },
+   {
+    "n": 42,
+    "title": "Why is Constantinople called Istanbul?",
+    "page": 38
+   },
+   {
+    "n": 43,
+    "title": "What was the Renaissance?",
+    "page": 55
+   },
+   {
+    "n": 44,
+    "title": "Why did Columbus sail west?",
+    "page": 75
+   },
+   {
+    "n": 45,
+    "title": "Why are there Protestants and Catholics?",
+    "page": 93
+   },
+   {
+    "n": 46,
+    "title": "How did a few hundred Spaniards conquer the Aztecs?",
+    "page": 110
+   },
+   {
+    "n": 47,
+    "title": "Why didn't American silver make Spain rich?",
+    "page": 127
+   },
+   {
+    "n": 48,
+    "title": "Who built the Taj Mahal?",
+    "page": 143
+   },
+   {
+    "n": 49,
+    "title": "Why did Japan close itself off?",
+    "page": 159
+   },
+   {
+    "n": 50,
+    "title": "How did Russia get so big?",
+    "page": 178
+   },
+   {
+    "n": 51,
+    "title": "How did science begin?",
+    "page": 196
+   }
+  ],
+  "epub": "https://github.com/cameronsevern/the-human-empire/releases/download/downloads/the-human-empire-part-4.epub"
+ },
+ {
+  "n": 5,
+  "roman": "V",
+  "title": "Wealth",
+  "released": true,
+  "colour": "#3d5a2a",
+  "hi": true,
+  "v": 1794890351,
+  "pages": 350,
+  "pdf": "https://github.com/cameronsevern/the-human-empire/releases/download/downloads/the-human-empire-part-5.pdf",
+  "chapters": [
+   {
+    "n": 52,
+    "title": "Why were Africans enslaved in the Americas?",
+    "page": 5
+   },
+   {
+    "n": 53,
+    "title": "Why do we eat so much sugar?",
+    "page": 21
+   },
+   {
+    "n": 54,
+    "title": "How did a company conquer India?",
+    "page": 38
+   },
+   {
+    "n": 55,
+    "title": "Why did the English cut off their king's head?",
+    "page": 57
+   },
+   {
+    "n": 56,
+    "title": "Why did the American colonies rebel?",
+    "page": 74
+   },
+   {
+    "n": 57,
+    "title": "Why did the French Revolution turn to terror?",
+    "page": 92
+   },
+   {
+    "n": 58,
+    "title": "How did the slaves of Haiti win their freedom?",
+    "page": 111
+   },
+   {
+    "n": 59,
+    "title": "How did Napoleon conquer Europe?",
+    "page": 128
+   },
+   {
+    "n": 60,
+    "title": "Why is Latin America so many countries?",
+    "page": 145
+   },
+   {
+    "n": 61,
+    "title": "Why did the Industrial Revolution begin in Britain?",
+    "page": 162
+   },
+   {
+    "n": 62,
+    "title": "What did Karl Marx want?",
+    "page": 186
+   },
+   {
+    "n": 63,
+    "title": "How did the United States get so big?",
+    "page": 203
+   },
+   {
+    "n": 64,
+    "title": "Why did America fight a civil war?",
+    "page": 222
+   },
+   {
+    "n": 65,
+    "title": "Why did China lose the Opium Wars?",
+    "page": 242
+   },
+   {
+    "n": 66,
+    "title": "How did Japan catch up so fast?",
+    "page": 259
+   },
+   {
+    "n": 67,
+    "title": "How did we learn that germs cause disease?",
+    "page": 277
+   },
+   {
+    "n": 68,
+    "title": "Where did racism come from?",
+    "page": 296
+   },
+   {
+    "n": 69,
+    "title": "How did Europe take over Africa?",
+    "page": 313
+   },
+   {
+    "n": 70,
+    "title": "When did women get the vote?",
+    "page": 332
+   }
+  ],
+  "epub": "https://github.com/cameronsevern/the-human-empire/releases/download/downloads/the-human-empire-part-5.epub"
+ },
+ {
+  "n": 6,
+  "roman": "VI",
+  "title": "War",
+  "released": true,
+  "colour": "#3a3a40",
+  "hi": true,
+  "v": 1794890369,
+  "pages": 238,
+  "pdf": "https://github.com/cameronsevern/the-human-empire/releases/download/downloads/the-human-empire-part-6.pdf",
+  "chapters": [
+   {
+    "n": 71,
+    "title": "Why did the First World War start?",
+    "page": 4
+   },
+   {
+    "n": 72,
+    "title": "Why did the First World War last so long?",
+    "page": 19
+   },
+   {
+    "n": 73,
+    "title": "Why was there a revolution in Russia?",
+    "page": 39
+   },
+   {
+    "n": 74,
+    "title": "Who drew the borders of the Middle East?",
+    "page": 56
+   },
+   {
+    "n": 75,
+    "title": "What happened to the last emperor of China?",
+    "page": 74
+   },
+   {
+    "n": 76,
+    "title": "How did Gandhi fight an empire without weapons?",
+    "page": 91
+   },
+   {
+    "n": 77,
+    "title": "What caused the Great Depression?",
+    "page": 108
+   },
+   {
+    "n": 78,
+    "title": "Why did so many people die under Stalin?",
+    "page": 126
+   },
+   {
+    "n": 79,
+    "title": "How did Hitler come to power?",
+    "page": 143
+   },
+   {
+    "n": 80,
+    "title": "Why did Japan attack Pearl Harbor?",
+    "page": 161
+   },
+   {
+    "n": 81,
+    "title": "How was the Second World War won?",
+    "page": 180
+   },
+   {
+    "n": 82,
+    "title": "How did the Holocaust happen?",
+    "page": 202
+   },
+   {
+    "n": 83,
+    "title": "Why did America drop the atomic bomb?",
+    "page": 220
+   }
+  ],
+  "epub": "https://github.com/cameronsevern/the-human-empire/releases/download/downloads/the-human-empire-part-6.epub"
+ },
+ {
+  "n": 7,
+  "roman": "VII",
+  "title": "Dominion",
+  "released": true,
+  "colour": "#5a2f55",
+  "hi": true,
+  "v": 1794890381,
+  "pages": 466,
+  "pdf": "https://github.com/cameronsevern/the-human-empire/releases/download/downloads/the-human-empire-part-7.pdf",
+  "chapters": [
+   {
+    "n": 84,
+    "title": "Why were India and Pakistan divided?",
+    "page": 5
+   },
+   {
+    "n": 85,
+    "title": "How was Israel created?",
+    "page": 24
+   },
+   {
+    "n": 86,
+    "title": "Why does the world use the American dollar?",
+    "page": 41
+   },
+   {
+    "n": 87,
+    "title": "Why did the European empires give up their colonies?",
+    "page": 57
+   },
+   {
+    "n": 88,
+    "title": "What was the Cold War?",
+    "page": 75
+   },
+   {
+    "n": 89,
+    "title": "Why did China become communist?",
+    "page": 92
+   },
+   {
+    "n": 90,
+    "title": "Why is Korea divided?",
+    "page": 108
+   },
+   {
+    "n": 91,
+    "title": "What was the Cultural Revolution?",
+    "page": 126
+   },
+   {
+    "n": 92,
+    "title": "How close did the world come to nuclear war?",
+    "page": 144
+   },
+   {
+    "n": 93,
+    "title": "Why did we go to the Moon?",
+    "page": 162
+   },
+   {
+    "n": 94,
+    "title": "Why did America lose the war in Vietnam?",
+    "page": 180
+   },
+   {
+    "n": 95,
+    "title": "How did Black Americans win their civil rights?",
+    "page": 200
+   },
+   {
+    "n": 96,
+    "title": "How did apartheid end?",
+    "page": 218
+   },
+   {
+    "n": 97,
+    "title": "Why does the world fight over oil?",
+    "page": 236
+   },
+   {
+    "n": 98,
+    "title": "Why can't Israelis and Palestinians make peace?",
+    "page": 254
+   },
+   {
+    "n": 99,
+    "title": "Why did Iran have an Islamic revolution?",
+    "page": 272
+   },
+   {
+    "n": 100,
+    "title": "Why did the Soviet Union collapse?",
+    "page": 290
+   },
+   {
+    "n": 101,
+    "title": "How did China get rich?",
+    "page": 308
+   },
+   {
+    "n": 102,
+    "title": "What caused the financial crisis of 2008?",
+    "page": 325
+   },
+   {
+    "n": 103,
+    "title": "Why did nobody stop the genocide in Rwanda?",
+    "page": 343
+   },
+   {
+    "n": 104,
+    "title": "Why did Russia invade Ukraine?",
+    "page": 360
+   },
+   {
+    "n": 105,
+    "title": "What did 9/11 change?",
+    "page": 378
+   },
+   {
+    "n": 106,
+    "title": "Why are some drugs illegal?",
+    "page": 396
+   },
+   {
+    "n": 107,
+    "title": "Who invented the internet?",
+    "page": 414
+   },
+   {
+    "n": 108,
+    "title": "Where does the money go when you tap a card?",
+    "page": 433
+   },
+   {
+    "n": 109,
+    "title": "Who decides what you see online?",
+    "page": 450
+   }
+  ],
+  "epub": "https://github.com/cameronsevern/the-human-empire/releases/download/downloads/the-human-empire-part-7.epub"
+ },
+ {
+  "n": 8,
+  "roman": "VIII",
+  "title": "Decline",
+  "released": true,
+  "colour": "#5c5148",
+  "hi": true,
+  "v": 1794890401,
+  "pages": 106,
+  "pdf": "https://github.com/cameronsevern/the-human-empire/releases/download/downloads/the-human-empire-part-8.pdf",
+  "chapters": [
+   {
+    "n": 110,
+    "title": "How did there get to be eight billion of us?",
+    "page": 4
+   },
+   {
+    "n": 111,
+    "title": "How do we know the climate is changing?",
+    "page": 21
+   },
+   {
+    "n": 112,
+    "title": "What did the pandemic show us?",
+    "page": 39
+   },
+   {
+    "n": 113,
+    "title": "Could humanity destroy itself?",
+    "page": 55
+   },
+   {
+    "n": 114,
+    "title": "What is artificial intelligence?",
+    "page": 73
+   },
+   {
+    "n": 115,
+    "title": "How do empires end?",
+    "page": 91
+   }
+  ],
+  "epub": "https://github.com/cameronsevern/the-human-empire/releases/download/downloads/the-human-empire-part-8.epub"
+ }
+]

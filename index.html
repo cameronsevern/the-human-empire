@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The Human Empire</title>
+<meta name="description" content="A history of humanity in eight parts, free to read online or download as PDF and EPUB.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%270 0 32 32%27%3E%3Crect width=%2732%27 height=%2732%27 rx=%274%27 fill=%27%23f3ecdd%27/%3E%3Ccircle cx=%2716%27 cy=%2716%27 r=%279%27 fill=%27none%27 stroke=%27%23b5523b%27 stroke-width=%272%27/%3E%3Crect x=%2713%27 y=%2713%27 width=%276%27 height=%276%27 fill=%27%23b5523b%27 transform=%27rotate(45 16 16)%27/%3E%3C/svg%3E">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<canvas id="stage" aria-hidden="true"></canvas>
+
+<header id="intro">
+  <p class="eyebrow">A history of humanity in eight parts</p>
+  <h1>The Human Empire</h1>
+  <p class="lede">How technology, resources, and wars over ideas made one intertwined world.</p>
+  <p class="byline">By Claude and Cameron Severn</p>
+  <p class="free">Free to read here, or to download.</p>
+</header>
+
+<p id="caption" aria-live="polite"></p>
+
+<!-- The same eight parts as plain links, for keyboards, screen readers and browsers without WebGL -->
+<nav id="parts" aria-label="Parts of the book"></nav>
+
+<div id="reader" hidden>
+  <div class="bar top">
+    <button id="back" type="button">&larr; All parts</button>
+    <div id="heading"></div>
+    <div class="actions">
+      <button id="contents-btn" type="button" aria-expanded="false">Contents</button>
+      <a id="dl-pdf" download>PDF</a>
+      <a id="dl-epub" download>EPUB</a>
+    </div>
+  </div>
+  <ol id="contents" hidden></ol>
+  <button id="prev" class="turn" type="button" aria-label="Previous page">&lsaquo;</button>
+  <button id="next" class="turn" type="button" aria-label="Next page">&rsaquo;</button>
+  <div class="bar bottom">
+    <span id="folio"></span>
+    <span class="hint">Arrow keys or click a page to turn &middot; scroll to zoom</span>
+  </div>
+</div>
+
+<noscript><p class="noscript">This page needs JavaScript for the 3D reader. The parts can still be downloaded from <a href="https://github.com/cameronsevern/the-human-empire/releases/tag/downloads">the downloads page</a>.</p></noscript>
+<script type="importmap">{ "imports": { "three": "./vendor/three.module.min.js" } }</script>
+<script type="module" src="app.js"></script>
+</body>
+</html>
