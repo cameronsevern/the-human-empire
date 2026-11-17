@@ -1,0 +1,4 @@
+Prose words (excluding captions): 2,932 before, 3,413 after.
+Changes: bridges that state the reasoning (Mao's two lessons joined, land for loyalty, Chiang's two enemies, how the war's needs for men, food and money fell on the people, why villagers might help an army that paid), the Henan tax and inflation passages split and connected, long paragraphs split, transitions added, the marriage law tied back to Mao's own refused marriage.
+Check2 flags applied: removed the added claim that landlords no longer needed to be kept friendly and the added "done everywhere"; cut a signpost, a vague forward reference and repeated "in other words" summaries; fixed the "It" referent; existing "no aircraft" corrected to "no air force to speak of".
+Left unapplied: "Land reform was carried to the whole country" (existing sentence; minority areas were exempted, but narrowing it needs a new fact).
