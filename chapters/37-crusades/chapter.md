@@ -19,7 +19,7 @@ The Europe that Godfrey lived in had been taking shape for six hundred years, si
 
 The most successful of those kingdoms belonged to the Franks, who ruled what is now France and western Germany. On Christmas Day in the year 800, their king Charlemagne was at prayer in the church of Saint Peter in Rome when the pope, the bishop of that city, set a crown on his head, and the congregation hailed him as emperor of the Romans. There had been no emperor in the west for more than three centuries. The pope had made one.
 
-That ceremony planted a question that western Europe argued over for the rest of the Middle Ages. If the pope crowned the emperor, was the emperor the pope's man? Or was the pope, like every other bishop in the emperor's lands, the emperor's servant? Charlemagne's empire broke up among his grandsons, but the title lived on among the kings of Germany, and so did the dispute.
+That ceremony planted a question that western Europe argued over for the rest of the Middle Ages. If the pope crowned the emperor, was the emperor the pope's man? Or was the pope, like every other bishop in the emperor's lands, the emperor's servant? The title outlived Charlemagne's empire and passed to the kings of Germany, and so did the dispute.
 
 It came to a head over the appointing of bishops. A bishop in those centuries was a great landowner, with castles and knights of his own, and kings had always chosen bishops as they chose their other lords. In the 1070s a reforming pope declared that no layman, whether king or emperor, could appoint a bishop, and that a pope could remove an emperor from his throne. The German king replied by declaring the pope deposed. The pope then cast the king out of the church and released his subjects from their oaths of loyalty. The German nobles, who had their own reasons, began to desert him.
 
@@ -30,12 +30,12 @@ In January 1077, the king crossed the Alps in midwinter to a castle in northern 
 
 The pope who launched the crusade, Urban, came to office in the middle of this struggle, with a rival pope appointed by the German king holding much of Rome. He badly needed to show that the bishop of Rome was the true leader of the Christian world.
 
-He also had a second problem, which concerned the knights. The armoured horsemen whom the lords of Europe kept in their castles had been trained since boyhood for one thing. A warrior in a mail coat, braced in his saddle by stirrups and carrying a heavy lance, could ride down most things on foot, and there were now tens of thousands of such men.
+He also had a second problem, which concerned the knights, the armoured horsemen whom the lords of Europe kept in their castles. There were now tens of thousands of them.
 
 ![Embroidered horsemen in chain-mail coats and pointed helmets riding to the left, with archers on foot to the right](images/bayeux_horsemen.jpg)
 *Armoured horsemen in mail coats with spears and kite-shaped shields, from the Bayeux Tapestry, embroidered in the 1070s to show the Norman victory at Hastings in 1066. Photo: Myrabella, public domain.*
 
-With no strong king to restrain them, these men fought one another constantly, over inheritances, boundaries and insults, and the peasants and churches in between were plundered by both sides. The church taught that killing a Christian was a grave sin, for which a man owed years of penance, in fasting, prayer or pilgrimage. A knight could not do his job without sinning, and he could not complete his penance without ceasing to be a knight. Many of them worried about this a great deal, and gave land to monasteries so that monks would pray for them.
+They fought one another constantly, over inheritances, boundaries and insults, and the peasants and churches in between were plundered by both sides. The church taught that killing a Christian was a grave sin, for which a man owed years of penance, in fasting, prayer or pilgrimage. A knight could not do his job without sinning, and he could not complete his penance without ceasing to be a knight. Many of them worried about this a great deal, and gave land to monasteries so that monks would pray for them.
 
 ## The emperor's request
 
@@ -83,7 +83,7 @@ The pope had asked for none of this, and the church's own law forbade forcing an
 
 The peasant armies reached Constantinople in the late summer. The emperor shipped them across the strait as fast as he could, and the Turks slaughtered them within three months.
 
-The armies of the lords arrived over the following winter and spring, by several roads. There were four main forces, under Godfrey and other great nobles of France and of the Normans who had conquered southern Italy. Together they came to perhaps sixty thousand people, of whom about seven thousand were knights.
+The armies of the lords arrived over the following winter and spring, by several roads. There were four main forces, under Godfrey and other great nobles of France and of the Normans of southern Italy, cousins of England's conquerors, who had gone there as hired soldiers and stayed to rule. Together they came to perhaps sixty thousand people, of whom about seven thousand were knights.
 
 ![A map of Europe and the eastern Mediterranean with a red line running from the Rhineland down the Danube to Constantinople, then across Turkey by Nicaea to Antioch and south along the coast to Jerusalem, with Clermont in France marked by a star, Edessa beyond Antioch, the Roman Empire in the Balkans and the lands of the Turks in Turkey](images/map_road_to_jerusalem.png)
 *The road to Jerusalem, 1096 to 1099: the main land route of the crusade, from the Rhineland down the Danube to Constantinople, across the lands of the Turks to Antioch, and down the coast to Jerusalem. The Roman Empire of Constantinople is often called the Byzantine Empire. Other armies came by Italy and the sea. Clermont, where Urban preached in 1095, is marked with a star. Map: drawn for this book; coastlines and rivers from Natural Earth, public domain.*

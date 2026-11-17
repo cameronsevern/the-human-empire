@@ -4,7 +4,7 @@
 
 Because the emperors of China wanted officials who owed their careers to the throne and not to their families. A written test, marked by someone who did not know whose paper it was, gave them such men. Many centuries later, other governments copied the method.
 
-In the spring of 1057, the chief examiner of the Chinese empire sat reading essays in the capital. His name was Ouyang Xiu, and he was the most admired writer of his day. Several thousand candidates had come through the lower rounds to the great examination in the capital, and the few hundred who passed it would be the next generation of the empire's officials.
+The most admired writer in China, Ouyang Xiu, spent the spring of 1057 reading essays in the capital. That year he was the chief examiner of the empire. Several thousand candidates had come through the lower rounds to the great examination in the capital, and the few hundred who passed it would be the next generation of the empire's officials.
 
 One essay stood out from the rest. It was plain, forceful and free of the showy style that Ouyang had been campaigning against for years. He wanted to rank it first. Then a suspicion stopped him. The essay was so much to his taste that he feared it had been written by one of his own pupils, who was among the candidates. If he put his pupil at the top of the list, people would talk. He ranked it second.
 
@@ -24,7 +24,7 @@ Nothing in that scene would surprise anyone who has sat a public examination, wh
 
 The examination grew up inside an empire that had been put back together.
 
-After the fall of the Han, China had been divided for three and a half centuries, with dynasties of mounted invaders in the north and Chinese courts in the south. In 589 a northern general who had seized his master's throne conquered the south and reunited the country. His dynasty, the Sui, lasted less than forty years, and in that time it carried out a project on the scale of the First Emperor's.
+In 589, after the long division that followed the fall of the Han, a northern general who had seized his master's throne conquered the south and reunited the country. His dynasty, the Sui, lasted less than forty years, and in that time it carried out a project on the scale of the First Emperor's.
 
 During the centuries of division, the balance of the country had shifted. Millions of people had fled south from the wars, cleared the forests of the Yangzi valley, and planted rice. The south was now the richer half. The armies and the capital, however, had to be in the north, facing the grasslands. The rivers of China run from west to east, and none of them connected the two.
 
@@ -36,7 +36,7 @@ The Sui therefore dug a waterway from the Yangzi to the Yellow River and beyond,
 ![A broad green canal lined with trees, old white houses and apartment blocks, with a barge in the distance and a bridge](images/grand_canal.jpg)
 *The Grand Canal at Hangzhou, seen from Gongchen Bridge. The route is more than 1,300 years old. Photo: Windmemories, CC BY-SA 4.0.*
 
-The dynasty that took over, the Tang, ruled from 618 for almost three centuries, and its early years were among the most brilliant in the country's history. Its armies pushed out along the old Han road to the west until they held the oasis towns as far as the high mountains of Central Asia. Its capital, laid out as a grid of walled districts covering more than eighty square kilometres, held about a million people. Among them were Persian and Central Asian merchants, Turkish soldiers, Korean and Japanese students, and Buddhist monks from India. The pottery figures buried in Tang tombs show bearded foreigners in peaked caps leading camels.
+The dynasty that took over, the Tang, ruled from 618 for almost three centuries, and its early years were among the most brilliant in the country's history. Its armies pushed out along the old Han road to the west until they held the oasis towns as far as the high mountains of Central Asia. Its capital, covering more than eighty square kilometres, held about a million people. Among them were Persian and Central Asian merchants, Turkish soldiers, Korean and Japanese students, and Buddhist monks from India. The pottery figures buried in Tang tombs show bearded foreigners in peaked caps leading camels.
 
 ![A pottery camel with its head thrown back and a pack on its back, beside a small glazed pottery figure of a bearded man in a peaked cap](images/tang_camel.jpg)
 *Pottery figures of a camel and a bearded man, from Tang China, in the Shanghai Museum. Photo: Gary Lee Todd, CC0.*

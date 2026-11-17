@@ -8,7 +8,7 @@ Some time around 470, the Roman soldiers who guarded a small town on the upper D
 
 The men of this garrison decided to find out what had happened. They chose a few of their number and sent them over the Alps to Italy, to collect the wages that were owed to the whole unit.
 
-Nobody heard from the party again. Then their bodies came floating down the river and washed up on the bank beside the town. They had been killed on the road by raiders. The story is told by a monk who had known people who lived through it. That garrison had been the last on its stretch of the river, and before long it too was gone.
+No word came back from the party. Then their bodies came floating down the river and washed up on the bank beside the town. They had been killed on the road by raiders. The story is told by a monk who had known people who lived through it. That garrison had been the last on its stretch of the river, and before long it too was gone.
 
 Nobody defeated those soldiers in battle. They stopped being a Roman army on the day they understood that the money was never going to come. The western empire ended in the same way, over a period of about seventy years, as its income shrank and the people who depended on that income made other arrangements.
 
@@ -20,7 +20,7 @@ For two hundred years it was. Then, in the year 235, a group of soldiers on the 
 
 The danger that Augustus had contained had come back. A soldier's loyalty still followed his pay, and a general who promised a bonus could still be made emperor by the men who wanted it. One emperor of an earlier generation had put it plainly on his deathbed. A Roman historian who knew the court reports his advice to his two sons: stay on good terms with each other, enrich the soldiers, and despise everyone else.
 
-Meanwhile the frontiers were under more pressure than at any time since Hannibal. In the east, a new dynasty called the Sasanians had taken over Persia and meant to recover everything that the old Persian kings had held. In 260 its king defeated a Roman army on the Syrian frontier and captured the emperor alive, which had never happened before. Along the Rhine and the Danube, Germanic peoples who had learned a good deal from two centuries beside the empire broke through in large raids. At one point the western provinces and the eastern ones each set up a government of their own. During the same years, a plague emptied cities from Egypt to Gaul.
+At the same time the frontiers were under more pressure than at any time since Hannibal. In the east, a new dynasty called the Sasanians had taken over Persia and meant to recover everything that the old Persian kings had held. In 260 its king defeated a Roman army on the Syrian frontier and captured the emperor alive, which had never happened before. Along the Rhine and the Danube, Germanic peoples who had learned a good deal from two centuries beside the empire broke through in large raids. At one point the western provinces and the eastern ones each set up a government of their own. During the same years, a plague emptied cities from Egypt to Gaul.
 
 Every emperor needed money for soldiers at once, and raising taxes takes years. There was a quicker way. The standard coin in which the army was paid was silver, and the emperor controlled the mints. If he melted down a hundred coins, mixed in some copper, and struck a hundred and twenty, he had made money out of nothing, or so it seemed. Each emperor did it a little more than the last. In the time of Augustus the coin had been almost pure silver. By 270 the coin that had taken its place was a copper disc with a silver wash on the surface, and the silver in it amounted to a few parts in a hundred.
 
@@ -91,7 +91,7 @@ On paper it resembled the old bargain with the Italian allies, soldiers in excha
 
 ## Three days in Rome
 
-The man who showed what that meant was a Gothic noble named Alaric. He was a Christian, he had commanded Gothic troops in a Roman civil war, and what he wanted was a career. He asked for the rank of a Roman general, regular pay and grain for his followers, and a province to settle them in. For fifteen years he pressed these demands on both imperial courts, moving his people from the Balkans into Italy and back, sometimes as an ally and sometimes as an invader.
+A Gothic noble named Alaric soon showed what that meant. He was a Christian, he had commanded Gothic troops in a Roman civil war, and what he wanted was a career. He asked for the rank of a Roman general, regular pay and grain for his followers, and a province to settle them in. For fifteen years he pressed these demands on both imperial courts, moving his people from the Balkans into Italy and back, sometimes as an ally and sometimes as an invader.
 
 The western court in those years was run by a general who was himself the son of a Vandal officer, and who understood that Alaric could be hired more cheaply than he could be fought. In 408 that general's enemies persuaded the young emperor to have him executed. Mobs in the Italian towns then massacred the wives and children of the barbarian soldiers in Roman service. As a result, some thirty thousand of those soldiers walked out and joined Alaric.
 
@@ -100,7 +100,7 @@ The western court in those years was run by a general who was himself the son of
 
 Alaric marched on Rome and blockaded it. The emperor refused every offer. He was safe behind the marshes of Ravenna, a city on the Adriatic coast to which the western court had moved. Alaric lowered his price twice. In the end he asked for nothing more than land in a poor frontier province and a supply of grain, and was still refused. On an August night in 410, someone opened a gate, and the Goths spent three days looting the city. They left the great churches alone.
 
-Rome was no longer the seat of government, and the damage was soon repaired. All the same, no foreign enemy had entered the city in eight hundred years, and the news shook people who had never seen it. A Christian scholar who was living in Bethlehem wrote that the city which had taken the whole world was itself taken.
+Rome was no longer the seat of government, and the damage was soon repaired. All the same, no foreign enemy had entered the city in eight hundred years, and the news shook people who had never seen it. A Christian scholar who was living in Bethlehem wrote that the city which had taken the whole world was itself taken. More than five centuries earlier, a Roman general watching Carthage burn had wept at the thought that this day would come.
 
 Meanwhile the frontier in the north had given way. On the last day of 406, several peoples, the Vandals among them, crossed the Rhine and spread through Gaul and into Spain. The troops that might have stopped them had been pulled back to defend Italy. A few years later the army left Britain and did not return, and the Britons were left to defend themselves.
 
@@ -126,7 +126,7 @@ When Attila turned west and invaded Gaul in 451, the army that stopped him was c
 
 For the landowners of the western provinces, these decades posed a practical question. The emperor could no longer protect their estates. A Gothic or Burgundian king, living nearby with several thousand warriors, could. The price was usually a share of the land, or of its rents, to support the king's followers.
 
-Most of them paid it, without enthusiasm. The best witness is a nobleman from central Gaul named Sidonius, the son and grandson of high imperial officials. As a young man he wrote a friend an admiring account of a Gothic king's day, from morning prayers to an evening game of backgammon, at which a wise guest took care to lose. Later he lived among Burgundian soldiers billeted on his property. In a poem, he complains that he cannot write verse with seven-foot giants around him who grease their hair with rancid butter and reek of garlic and onions from early in the morning. He ended his life as a bishop under a Gothic king, having led the defence of his city against that king's army and lost.
+Most of them paid it, without enthusiasm. A nobleman from central Gaul named Sidonius, the son and grandson of high imperial officials, left the liveliest picture of that bargain. As a young man he wrote a friend an admiring account of a Gothic king's day, from morning prayers to an evening game of backgammon, at which a wise guest took care to lose. Later he lived among Burgundian soldiers billeted on his property. In a poem, he complains that he cannot write verse with seven-foot giants around him who grease their hair with rancid butter and reek of garlic and onions from early in the morning. He ended his life as a bishop under a Gothic king, having led the defence of his city against that king's army and lost.
 
 ![A gold brooch in the shape of an eagle, inlaid with cells of red garnet](images/eagle_fibula.jpg)
 *An eagle-shaped gold brooch inlaid with garnets, made by the Ostrogoths about the year 500 and found at Domagnano. Photo: Sailko, CC BY-SA 3.0.*
@@ -150,7 +150,7 @@ The reason is the one that brought down the palaces at the end of the age of bro
 
 None of this happened in the east.
 
-The eastern empire faced the same Goths and the same Huns, and Persia besides. It survived them for reasons that had little to do with courage. Constantinople stood on a peninsula, and in the fifth century it was closed off on the land side by a triple line of walls and a moat that no enemy broke through for eight hundred years. Behind the city lay the strait, and beyond the strait lay Turkey, Syria and Egypt, which an army coming from the Danube could not reach without a fleet. The provinces that paid the most tax were therefore the ones that invaders could not get at.
+The eastern empire faced the same Goths and the same Huns, and Persia besides. It survived them for reasons that had little to do with courage. Constantinople stood on a peninsula, and in the fifth century it was closed off on the land side by a triple line of walls and a moat that no enemy broke through for more than a thousand years. Behind the city lay the strait, and beyond the strait lay Turkey, Syria and Egypt, which an army coming from the Danube could not reach without a fleet. The provinces that paid the most tax were therefore the ones that invaders could not get at.
 
 ![A long stone wall with square towers and battlements, built in bands of stone and red brick, under a bright blue sky](images/theodosian_walls.jpg)
 *The Theodosian Walls of Constantinople, built in the fifth century and since repaired. Photo: Apaleutos25, CC BY-SA 4.0.*

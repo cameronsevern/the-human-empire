@@ -4,9 +4,7 @@
 
 Europe is full of castles because, for about three hundred years, its kings were too weak to protect their people or to control their own great men. Across much of the west, power fell to anyone who owned a fortified house and a band of armed horsemen. A castle was that house. The men who held castles ruled the country around them, and tens of thousands of castles were built.
 
-When Duke William of Normandy landed on the south coast of England in the autumn of 1066, he had an army of several thousand men to feed and an English king marching towards him. Within days of landing he had put his soldiers to work with shovels.
-
-A long strip of embroidery made a few years afterwards shows the scene. Men dig and heave earth into a pile, while a foreman stands over them and two of the workers hit each other with their spades. On top of the pile rises a wooden stockade. The Latin caption says that he ordered a castle to be dug at Hastings.
+Within days of landing in England, Duke William of Normandy had put his soldiers to work with shovels. A long strip of embroidery made a few years afterwards shows the scene. Men dig and heave earth into a pile, while a foreman stands over them and two of the workers hit each other with their spades. On top of the pile rises a wooden stockade. The Latin caption says that he ordered a castle to be dug at Hastings.
 
 ![Embroidered scene of men digging and heaping earth with spades while a foreman stands over them, two of the workers hitting each other with spades, beside a striped mound topped with a wooden fence](images/bayeux_hastings.jpg)
 *Men digging and heaping up earth for William's castle at Hastings, from the Bayeux Tapestry, made a few years after 1066. The Latin caption above them mentions Hastings and the castle. Photo: Université de Caen Normandie, CNRS, ENSICAEN, public domain.*
@@ -43,7 +41,7 @@ The men who rode out of the gate were knights, and the knight was the most expen
 His main protection was a knee-length coat of mail, made of about thirty thousand small iron rings, each one linked through four others and closed with a tiny rivet. In addition he needed a helmet, a shield, a sword, a lance, and above all a horse that was strong enough to carry an armoured man and had been trained not to bolt from noise and blood. The whole outfit cost about as much as twenty oxen, at a time when a peasant family was lucky to own two.
 
 ![A long-sleeved, knee-length shirt of fine metal ring mail on a stand against a grey background](images/mail_shirt.jpg)
-*A mail shirt made in Germany in the 1400s, now in the Metropolitan Museum of Art in New York. It is later than the knights in this chapter, but it is made the same way, from thousands of small linked metal rings. Photo: Metropolitan Museum of Art, CC0.*
+*A mail shirt made in Germany in the 1400s, now in the Metropolitan Museum of Art in New York. It is later than the knights of the 1000s and 1100s, but it is made the same way, from thousands of small linked metal rings. Photo: Metropolitan Museum of Art, CC0.*
 
 He also needed years. A knight fought from the saddle with a lance tucked under his arm, and learning to do that began in boyhood. A man who spent his youth practising with horse and sword could not also plough.
 
@@ -68,7 +66,7 @@ A serf paid for his strips in work. Two or three days in every week he laboured 
 
 In return he got two things. The first was the land itself, which the lord could not easily take from him and which his son would hold after him. A serf was not a slave: he went with the land and was rarely sold apart from it, and custom fixed what he owed. The second was protection. When raiders came, the villagers drove their cattle into the castle yard. It was a bad bargain made under pressure, in a world where a farmer with no lord was at the mercy of everyone else's.
 
-The best picture of this world was made on the orders of William of Normandy. Twenty years after his conquest he wanted to know exactly what he had won, and he sent teams of officials through almost every county of England. They asked the same questions in each village. Who held it before the conquest, and who holds it now? How many ploughs are there? How many serfs, how many slaves, how many mills and fishponds? What was it worth then, and what is it worth now?
+Twenty years after his conquest, William wanted to know exactly what he had won, and he sent teams of officials through almost every county of England. They asked the same questions in each village. Who held it before the conquest, and who holds it now? How many ploughs are there? How many serfs, how many slaves, how many mills and fishponds? What was it worth then, and what is it worth now?
 
 The answers were copied into a great book, which survives. It lists more than thirteen thousand places. An English monk complained that the king's men had been so thorough that not one ox, nor one cow, nor one pig had been left out. The book shows what the conquest had done. In twenty years the several thousand English landowners had almost all been removed, and about half the country now belonged to fewer than two hundred Norman lords. The king and the church held the rest. The English began to call it Domesday Book, the book of the Day of Judgement, because there was no arguing with what it said.
 

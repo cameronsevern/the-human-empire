@@ -13,7 +13,7 @@ In June of that year, ships came out of the open sea and ran up onto the beach. 
 ![A rounded sandstone slab carved in relief with a row of seven men in short tunics, each raising a sword or axe above his head](images/lindisfarne_stone.jpg)
 *A grave marker from Lindisfarne, carved in the early 800s, showing a line of men with raised weapons. Many believe it shows Viking raiders. Photo: Schillerwein, CC0.*
 
-The news went all over Christian Europe. An English scholar living at the court of the king of the Franks wrote home in horror. In three hundred and fifty years, he said, Britain had never suffered anything like this, and nobody had thought that such a voyage across the sea was possible.
+The news went all over Christian Europe. An English scholar living at the court of the king of the Franks wrote home in horror. In three hundred and fifty years, he said, Britain had never suffered anything like this, and no one had thought that such a voyage across the sea was possible.
 
 ## A ship that could land anywhere
 
@@ -44,7 +44,7 @@ Scandinavia in those centuries had no silver mines. Whatever silver a chief gave
 
 The early raids were small summer affairs. A chief and a few dozen neighbours planted their crops in the spring, sailed off for a couple of months, and came home for the harvest with whatever they had picked up. Within a generation or two the business had grown. Fleets of a hundred ships wintered at the mouths of the French rivers and went upstream in spring.
 
-In 845 one such fleet rowed up the river Seine to Paris. The king of the Franks, grandson of the great Charlemagne, had an army and did not trust it to win. He paid the raiders seven thousand pounds of silver to go away.
+In 845 one such fleet rowed up the river Seine to Paris. The king of the Franks, a grandson of Charlemagne, who had once ruled most of western Europe, had an army and did not trust it to win. He paid the raiders seven thousand pounds of silver to go away.
 
 This solved his problem for that year. It also told every chief in the north what the Franks would do when frightened. For the next century and a half, kings in France and England bought off one fleet after another, and each payment brought the next fleet sooner. The English paid so much in the years around 1000 that more English coins of that period have been dug up in Scandinavia than in England.
 
@@ -93,7 +93,7 @@ The arrangement worked. Rollo's people married local women and within a few gene
 
 ## A country without a king
 
-Some of the emigrants wanted empty land, and the Norwegians found it. About 870, ships sailing west into the Atlantic came upon a large island of volcanoes, glaciers and green valleys with nobody living on it, except perhaps a few Irish hermits. Within sixty years, settlers had taken up every farm site in Iceland that was worth having.
+Some of the emigrants wanted empty land, and the Norwegians found it. About 870, ships sailing west into the Atlantic came upon a large island of volcanoes, glaciers and green valleys with no one living on it, except perhaps a few Irish hermits. Within sixty years, settlers had taken up every farm site in Iceland that was worth having.
 
 Many of them had left Norway because a king there was gathering the whole country under his own rule, and they did not care to be ruled. They brought no king with them and did not appoint one. In 930 they founded something else instead.
 
@@ -134,7 +134,7 @@ The two boasts go together. The old religion had many gods and no church. Each c
 
 Iceland, having no king, settled the question in its own way. In the year 1000 the assembly was close to splitting into two peoples with two laws. Both sides agreed to let the law-speaker, who was a pagan, decide. He lay down under his cloak for a day and a night. Then he stood on the rock and announced that everyone in Iceland would be Christian, and that anyone who wished to go on sacrificing to the old gods could do so at home, as long as nobody saw.
 
-A king with bishops and a treasury had no use for freelance pirates. When such a king went to war, he went to conquer. In 1016 a Danish king took the whole of England and ruled it, as a Christian, together with Denmark and Norway. Meanwhile, the easy targets had gone. The English had fortified their towns and built a fleet. The Franks had blocked their rivers with fortified bridges and covered their country with strongholds. For a chief with a few ships, raiding had stopped paying.
+A king with bishops and a treasury had no use for freelance pirates. When such a king went to war, he went to conquer. In 1016 a Danish king took the whole of England and ruled it, as a Christian, together with Denmark and Norway. By then, moreover, the easy targets had gone. The English had fortified their towns and built a fleet. The Franks had blocked their rivers with fortified bridges and covered their country with strongholds. For a chief with a few ships, raiding had stopped paying.
 
 The helmets, incidentally, had no horns. Hardly any Viking helmets have been found, and the best preserved is a plain round cap of iron with a guard for the eyes. The horns were put there by painters of the 1800s, and fixed in everyone's mind in 1876 by the costumes for a German opera.
 

@@ -95,9 +95,9 @@ When a statue arrived, its base was trimmed flat so that it would stand upright,
 
 ## The trees
 
-When the canoes arrived, the island was a forest. When Roggeveen arrived, it was a grassland. That change produced the most famous story ever told about Rapa Nui.
+When the canoes arrived, the island was a forest. When Roggeveen arrived, it was a grassland.
 
-In the story, the islanders cut down their palms to make rollers and sledges for the statues. Without trees the soil washed away and the crops failed. Without timber they could not build canoes to fish or to leave. As a result the population, which had reached fifteen thousand or more, fell into famine and war, and the survivors pulled down each other's statues. The island became a warning: a people who destroyed their own world to feed their pride.
+In the most famous story ever told about Rapa Nui, the islanders cut down their palms to make rollers and sledges for the statues. Without trees the soil washed away and the crops failed. Without timber they could not build canoes to fish or to leave. As a result the population, which had reached fifteen thousand or more, fell into famine and war, and the survivors pulled down each other's statues. The island became a warning: a people who destroyed their own world to feed their pride.
 
 It is a powerful story, and the evidence does not support it.
 

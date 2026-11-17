@@ -16,11 +16,11 @@ Nothing like that chain had existed when the Buddha died, some nine hundred year
 
 The Buddha's first followers owned nothing. A man or woman who joined his order shaved off their hair, put on a plain robe, and gave up family, property and sex. Each morning the monks walked through the nearest village with a bowl, in silence, and ate whatever was put into it. They were not allowed to handle money or to store food for the next day.
 
-It sounds like the least promising foundation for a lasting institution. Two things turned it into one.
+It sounds like the least promising foundation for a lasting institution, and yet it lasted.
 
-The first was the weather. In India, for three months of each year the monsoon turns the roads to mud, and the Buddha had told his followers to stop wandering during the rains and stay in one place. Rich supporters gave them parks and shelters to stay in. Over the generations the shelters became permanent buildings with cells, a meeting hall and a storeroom, and many monks stopped wandering altogether. The gift belonged to the order as a whole. No monk could sell it or leave it to a relative, since it had never been his.
+The first reason was the weather. In India, for three months of each year the monsoon turns the roads to mud, and the Buddha had told his followers to stop wandering during the rains and stay in one place. Rich supporters gave them parks and shelters to stay in. Over the generations the shelters became permanent buildings with cells, a meeting hall and a storeroom, and many monks stopped wandering altogether. The gift belonged to the order as a whole. No monk could sell it or leave it to a relative, since it had never been his.
 
-The second was a bargain between the monks and everyone else. Buddhists believed, as most Indians did, that a person's deeds in this life decide what he or she will be born as in the next. Hardly anybody could give up the world as the monks had. However, an ordinary farmer or shopkeeper could earn merit, a kind of credit towards a better rebirth, by supporting those who did. The monk received his dinner. The giver received something that he valued more, and that the monk could supply simply by being a good monk.
+The second reason was a bargain between the monks and everyone else. Buddhists believed, as most Indians did, that a person's deeds in this life decide what he or she will be born as in the next. Hardly anybody could give up the world as the monks had. However, an ordinary farmer or shopkeeper could earn merit, a kind of credit towards a better rebirth, by supporting those who did. The monk received his dinner. The giver received something that he valued more, and that the monk could supply simply by being a good monk.
 
 No class took to this bargain as eagerly as the merchants. In the old order of the priests, a trader ranked below the priest and the warrior however rich he became. The Buddha's order took no notice of birth, and it could put his money to use.
 
@@ -31,7 +31,7 @@ The proof is cut into the mountains of western India. There, on the steep roads 
 
 The monasteries sat on the trade routes for good reason, and they were useful to the people who used the roads. A walled house of sober men, a day's march from the last one, is a safe place to sleep and to leave goods. It also became a place to keep money. An inscription in one of the caves, about 1,900 years old, records the gift of a nobleman who wished to provide the resident monks with new robes every year. He did not hand over cloth. He deposited two thousand silver coins with a guild of weavers in the nearby town, at an interest of one per cent a month, and directed that the interest should pay for the robes for ever, while the capital was never to be repaid.
 
-The order had found a way to be rich while each of its members stayed poor. A monk was meant to own nothing but his robe and his bowl. The monastery, meanwhile, had an endowment, a lender's income and a legal standing, and unlike a merchant's family it was never divided among heirs.
+The order had found a way to be rich while each of its members stayed poor. A monk was meant to own nothing but his robe and his bowl. The monastery, by contrast, had an endowment, a lender's income and a legal standing, and unlike a merchant's family it was never divided among heirs.
 
 ## A Buddha in a Greek robe
 
@@ -51,7 +51,7 @@ In the same centuries the teaching itself was widening. A new school held that t
 From the Kushan lands, the road ran east through the oasis kingdoms around the desert of dunes. Each of them, in turn, acquired monasteries. Merchants from Central Asia carried silk westward along that road, and the monks went eastward against the flow, from house to house. By about the year 150, a few of them had reached the capital of the Han.
 
 ![A map of Asia with a solid line from Chang'an through Dunhuang, round the desert to Khotan, over the mountains to Gandhara and down the Ganges to Pataliputra, then a dashed line by sea round Sri Lanka and up the coast of China, with Kucha, Karla, Yungang and Longmen also marked](images/map_faxian.png)
-*Faxian's journey, out by land through the oasis kingdoms and over the mountains, and home by sea, with the other places named in this chapter. The course at sea is roughly drawn. Map: drawn for this book; coastlines and rivers from Natural Earth, public domain.*
+*Faxian's journey, out by land through the oasis kingdoms and over the mountains, and home by sea. The course at sea is roughly drawn. Map: drawn for this book; coastlines and rivers from Natural Earth, public domain.*
 
 ## A religion against the family
 
@@ -66,7 +66,7 @@ The books still had to be put into Chinese, which was a harder job than it sound
 ![A dark bronze statue of a shaven-headed monk in a robe, sitting with one foot raised and his arm resting on his knee, with dry hills and trees behind](images/kumarajiva.jpg)
 *A modern statue of Kumarajiva at the Kizil caves, near Kucha in the oasis country where he was born. Photo: Yoshi Canopus, CC BY-SA 3.0.*
 
-Meanwhile the religion made its peace with the family. Chinese Buddhists taught that merit could be passed on, and that a son who became a monk, or paid for a statue, could earn a better rebirth for his dead parents. In the cave temples cut into the cliffs of the north, thousands of carved inscriptions say the same thing: this image was made by such a person, for the benefit of his father and mother.
+In time the religion also made its peace with the family. Chinese Buddhists taught that merit could be passed on, and that a son who became a monk, or paid for a statue, could earn a better rebirth for his dead parents. In the cave temples cut into the cliffs of the north, thousands of carved inscriptions say the same thing: this image was made by such a person, for the benefit of his father and mother.
 
 ![A stone relief of a group of richly dressed women in long robes walking in procession, one carrying a lotus stem, all carved in low relief](images/binyang_donors.jpg)
 *Donors in stone: the empress and her court in procession, carved for the Binyang cave at Longmen about the year 522. The relief is now in a museum in Kansas City. Photo: Daderot, CC0.*

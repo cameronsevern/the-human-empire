@@ -1,6 +1,6 @@
 # 25. Why did the Roman Empire become Christian?
 
-*Judea and the cities of the Roman Empire, from about 2,000 years ago to the year 337*
+*Judea and the cities of the Roman Empire, from the time of Jesus to the year 337*
 
 Because for three hundred years the Christian churches gave ordinary people in Roman cities a family of strangers that fed its poor, nursed its sick and buried its dead, together with a promise of life after death that was open to anyone. Then an emperor took their side.
 
@@ -23,7 +23,7 @@ Jesus came from Nazareth, a village in Galilee, the hill country in the north. H
 
 He was born in the reign of Augustus. About five hundred years later, a monk in Rome tried to work out the exact year, so that years could be numbered from it. His arithmetic was off by a few years, but his numbering stuck, and it is the one most of the world now uses. By that numbering, Jesus began to preach in about the year 28.
 
-Nearly everything known about what he said comes from four short books called gospels, a word that means "good news". They were written in Greek, between forty and seventy years after his death, by believers who wanted to bring others to belief. A historian has to read them with that in mind. Nevertheless, they agree on a great deal, and two writers from outside the movement, a Jewish historian and a Roman one, confirm the outline. Historians of every persuasion accept that Jesus lived, that John baptised him, that he gathered followers in Galilee, and that he was put to death in Jerusalem on Pilate's orders.
+Nearly everything known about what he said comes from four short books called gospels, a word that means "good news". They were written in Greek, between forty and seventy years after his death, by believers who wanted to bring others to belief. Even so, they agree on a great deal, and two writers from outside the movement, a Jewish historian and a Roman one, confirm the outline. Historians of every persuasion accept that Jesus lived, that John baptised him, that he gathered followers in Galilee, and that he was put to death in Jerusalem on Pilate's orders.
 
 His message was that God's kingdom was close at hand, and that it would turn the world upside down. The poor and the hungry would be first in it, and the rich would find it very hard to enter. He told people to love their enemies, to forgive debts, and to give without expecting a return. He ate with tax collectors and prostitutes, which scandalised the respectable. He was known across Galilee as a healer.
 
@@ -49,7 +49,7 @@ Afterwards he kept in touch by letter. Seven letters that are certainly his surv
 ![Two torn papyrus leaves joined in the middle, covered in small Greek capital letters in dark ink](images/p46.jpg)
 *Two leaves of Papyrus 46, one of the oldest surviving copies of Paul's letters, written in Greek about the year 200. They hold the end of Romans, the end of Philippians and the start of Colossians. Chester Beatty Library, Dublin. Public domain.*
 
-One problem mattered more than all the others. In the Greek cities, many of the people drawn to Paul's message were not Jews. Did they have to become Jews in order to follow a Jewish messiah? For a man, that meant circumcision, a serious operation for an adult. For everyone it meant the food laws, which made it impossible to eat an ordinary meal at a neighbour's house.
+The hardest problem arose in the Greek cities, where many of the people drawn to Paul's message were not Jews. Did they have to become Jews in order to follow a Jewish messiah? For a man, that meant circumcision, a serious operation for an adult. For everyone it meant the food laws, which made it impossible to eat an ordinary meal at a neighbour's house.
 
 Some of the leaders in Jerusalem said that of course they must. Paul said that they need not, and he argued the point to their faces. What made a person right with God, he insisted, was trust in Christ, and the law was no longer the gate. In Christ, he wrote to one of his groups, there is neither Jew nor Greek, neither slave nor free, neither male nor female.
 
@@ -102,14 +102,14 @@ Women joined in especially large numbers. The pagan world took it for granted th
 
 Slaves joined as well, and sat at the same table as free people. The churches did not oppose slavery. All the same, a slave who was a brother in the assembly was something new.
 
-The most telling witness to Christian charity is an enemy. In the 360s, the last pagan emperor tried to revive the old religion, and he wrote to a pagan high priest to complain about the competition. It is disgraceful, he said, that the impious Galileans support not only their own poor but ours as well, while everyone can see that our people get no help from us.
+Christian charity impressed even its enemies. In the 360s, the last pagan emperor tried to revive the old religion, and he wrote to a pagan high priest to complain about the competition. It is disgraceful, he said, that the impious Galileans support not only their own poor but ours as well, while everyone can see that our people get no help from us.
 
 Finally, the churches offered a promise. The gods of the public temples looked after cities and harvests and had little to say about what happened to an ordinary person after death. A few private cults offered hope of something better to those who could pay to be initiated. The Christians said that death was not the end, that the dead would rise as Jesus had, and that this held for a slave woman as much as for a senator.
 
 ![A painting in an octagonal frame of a young man in a short tunic carrying a lamb on his shoulders, with sheep and trees around him](images/shepherd.jpg)
 *The Good Shepherd, a favourite picture of Christ among early Christians, painted on the ceiling of the catacomb of Peter and Marcellinus in Rome between the years 250 and 300. This is a plate published in 1903 under the direction of Joseph Wilpert. Public domain.*
 
-None of this needed crowds converted in a day. Nobody counted the Christians at the time. A reasonable reconstruction puts them at a few thousand in the year 100 and at several million by 300, about a tenth of the empire. That sounds like an explosion. In fact it is what happens when a group grows by about three and a half per cent a year, each member bringing in a friend, a spouse or a child every couple of decades. Such a group doubles roughly every twenty years. After two centuries of doubling, a movement that could have met in one house fills cities.
+None of this needed crowds converted in a day. No one counted the Christians at the time. A reasonable reconstruction puts them at a few thousand in the year 100 and at several million by 300, about a tenth of the empire. That sounds like an explosion. In fact it is what happens when a group grows by about three and a half per cent a year, each member bringing in a friend, a spouse or a child every couple of decades. Such a group doubles roughly every twenty years. After two centuries of doubling, a movement that could have met in one house fills cities.
 
 ## An emperor's notebook
 
@@ -119,7 +119,7 @@ It had been founded in Athens, a generation after Alexander, by teachers who met
 
 It was a creed well suited to men who ran an empire, and Roman senators took it up with enthusiasm. Its two most famous teachers under the emperors stood at opposite ends of society. One was a slave from Turkey, lame in one leg, who was freed and taught philosophy to the sons of the rich. The other read that slave's lectures as a young man and went on to be emperor. Marcus Aurelius ruled from 161 to 180, through years of war and the first of the great epidemics, and at night in his tent on the Danube frontier he wrote notes to himself in Greek. They are reminders to keep his temper, to do his work, and to remember that he will soon be dead and forgotten.
 
-The notebook is one of the most admired books to survive from the ancient world, and it shows what the Stoics lacked. They had no assembly and no common chest, and nobody to bring the sick man water. Their philosophy promised nobody a life everlasting, and its lecture rooms were for people with leisure. It taught an emperor how to endure. It did not tell a widow in a tenement where her next meal would come from.
+The notebook is one of the most admired books to survive from the ancient world, and it shows what the Stoics lacked. They had no assembly and no common chest, and nobody to bring the sick man water. Their philosophy promised no one a life everlasting, and its lecture rooms were for people with leisure. It taught an emperor how to endure. It did not tell a widow in a tenement where her next meal would come from.
 
 ![A bronze statue with traces of gold of a bearded man with curly hair on horseback, raising his right arm](images/marcus.jpg)
 *Marcus Aurelius, the emperor who kept the notebook, on his bronze horse. The statue now stands in the Capitoline Museums in Rome. Photo: Nicholas Hartmann, CC BY-SA 4.0.*
@@ -156,7 +156,7 @@ The two armies met at a bridge over the Tiber just north of the city. Before the
 
 The next year, he and the emperor of the east agreed that everyone in the empire, Christians included, should be free to worship as they chose, and that confiscated church property should be returned. Constantine went much further in the years that followed. He excused Christian clergy from the costly public duties that fell on men of property. He allowed churches to receive inheritances, gave bishops the power to judge lawsuits, and made Sunday a day of rest. He paid for enormous churches in Rome and Jerusalem. The old religion was not banned, but ambitious men could see where the emperor's favour lay.
 
-Why he did it has been argued over ever since. Christians were still a small minority, and hardly any of his soldiers or senators were among them, so he was not following a crowd. The simplest reading is that he believed. What he gained, whether or not he calculated it, was an alliance with the one body that reached into every city of his empire.
+He was not following a crowd. Christians were still a small minority, and hardly any of his soldiers or senators were among them. The simplest reading is that he believed. What he gained, whether or not he calculated it, was an alliance with the one body that reached into every city of his empire.
 
 ![A huge bronze head of a clean-shaven man with a fringe of combed hair and large wide eyes](images/constantine.jpg)
 *The head of a colossal bronze statue of Constantine, made in the 300s and now in the Capitoline Museums in Rome. Photo: D. Benjamin Miller, public domain.*

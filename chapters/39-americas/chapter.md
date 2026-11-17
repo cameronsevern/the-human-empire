@@ -13,10 +13,10 @@ The day works out, in our calendar, as the third of May in the year 738. The vic
 ![A tall carved stone column under a thatched roof on stilts, standing on a green lawn with forest behind and a second roofed stone at the left](images/quirigua_stela_e.jpg)
 *Stela E at Quiriguá, Guatemala, the largest stone the Maya ever raised, set up in 771 and now sheltered by a thatched roof. Its carved king and columns of signs face outward. Photo: Arian Zwegers, CC BY 2.0.*
 
-In 738, Charlemagne's grandfather was ruling the Franks, the caliphs of Damascus held an empire from Spain to the Indus, and the Tang court was at the height of its splendour. None of those people knew that the continent where Quiriguá stands existed, and nobody at Quiriguá knew of them. People had first walked into the Americas more than fifteen thousand years earlier, and the sea had then risen behind them. From that time on, the two halves of humanity had gone their separate ways.
+In 738, Charlemagne's grandfather was ruling the Franks, the caliphs of Damascus held an empire from Spain to the Indus, and the Tang court was at the height of its splendour. None of those people knew that the continent where Quiriguá stands existed, and no one at Quiriguá knew of them. People had first walked into the Americas more than fifteen thousand years earlier, and the sea had then risen behind them. From that time on, the two halves of humanity had gone their separate ways.
 
 ![A map of the Americas from the Mississippi valley to Lake Titicaca, with Cahokia on the Mississippi, Teotihuacan in central Mexico, a green area for the Maya lowlands on the Yucatán peninsula, and in the Andes a red area for Wari in Peru and a yellow area for Tiwanaku around Lake Titicaca](images/map_americas.png)
-*The three regions of this chapter: the Maya lowlands, with Teotihuacan to the west, between about 250 and 900; the Andes, where Wari and Tiwanaku ruled, roughly over the areas shown, between about 500 and 1000; and Cahokia on the Mississippi, built about 1050. Map: drawn for this book; coastlines and rivers from Natural Earth, public domain.*
+*Three regions of the Americas: the Maya lowlands, with Teotihuacan to the west, between about 250 and 900; the Andes, where Wari and Tiwanaku ruled, roughly over the areas shown, between about 500 and 1000; and Cahokia on the Mississippi, built about 1050. Map: drawn for this book; coastlines and rivers from Natural Earth, public domain.*
 
 The reading of the stones is a recent achievement, and it overturned what had been believed about their makers. Until the 1950s, the leading scholars held that the Maya inscriptions concerned nothing but the calendar and the stars. The Maya, in this view, were a peaceful people ruled by priests who spent their nights watching the heavens. A Soviet linguist who had never seen a Maya ruin then showed that many of the signs stood for syllables and spelled out words in a language that was still spoken. A few years later, a Russian-born American researcher noticed that the dates on the stones of one city fell into groups, each of which fitted inside a single human lifetime. The stones recorded births, accessions to the throne, and deaths, and the Maya had been writing history.
 
@@ -43,7 +43,7 @@ Metal was also put to different uses. The peoples of the Andes and Mexico were f
 On that foundation, the Maya built one of the most elaborate civilisations of the ancient world, in a setting that looks unpromising. Their heartland was the lowland forest of what is now northern Guatemala, Belize and southern Mexico. It has thin soil over limestone and hardly any rivers, with a dry season several months long.
 
 ![A close map of the Maya country: a green area covering the Yucatán peninsula, northern Guatemala and Belize, with Tikal in the middle, Yaxchilán on the Usumacinta river, Quiriguá and Copán in the south-east, and Teotihuacan far to the west near modern Mexico City](images/map_maya.png)
-*The Maya lowlands, roughly, with the cities named in this chapter: Tikal, Yaxchilán on the Usumacinta, Copán and its one-time subject Quiriguá, fifty kilometres apart, and Teotihuacan, a thousand kilometres to the west. Map: drawn for this book; coastlines and rivers from Natural Earth, public domain.*
+*The Maya lowlands, roughly, with Tikal, Yaxchilán on the Usumacinta, Copán and its one-time subject Quiriguá, fifty kilometres apart, and Teotihuacan, a thousand kilometres to the west. Map: drawn for this book; coastlines and rivers from Natural Earth, public domain.*
 
 Between about 250 and 900, that forest held dozens of cities. Each had at its centre a group of plazas, surrounded by steep pyramids of limestone rubble faced with cut stone and white plaster, with a small temple at the top. Beside them stood the palaces of the royal family, and a long narrow court with sloping sides for a ritual game played with a heavy rubber ball.
 
@@ -85,9 +85,7 @@ In the ninth century, the cities of the southern forest fell silent one after an
 
 The evidence is the dates. A Maya king marked the turning points of his reign with a carved and dated stone. In city after city, the stones stop. At Copán, a monument begun in 822 was left unfinished, with one side carved and the rest barely begun. The last dated inscription from the old heartland was carved in 909. Building work ceased, and the palaces were taken over by squatters who cooked on the floors of the throne rooms. Within about a century and a half, the southern lowlands lost most of their people.
 
-What caused it has been argued over for a century.
-
-One part of the answer is drought. Mud from the bottoms of lakes in the region and stone from the floors of caves preserve a record of rainfall, year by year. They show that between about 800 and 1000 the region suffered the worst series of dry spells in two thousand years. The Maya of the forest had no great rivers and depended on rain collected in reservoirs. A few failed rainy seasons in a row left a city of fifty thousand without drinking water.
+What caused it has been argued over for a century, and drought was certainly part of it. Mud from the bottoms of lakes in the region and stone from the floors of caves preserve a record of rainfall, year by year. They show that between about 800 and 1000 the region suffered the worst series of dry spells in two thousand years. The Maya of the forest had no great rivers and depended on rain collected in reservoirs. A few failed rainy seasons in a row left a city of fifty thousand without drinking water.
 
 Another is war. In the last century of the inscriptions, the fighting grows more frequent and more destructive. At one city, the inhabitants pulled the facing stones off their own temples and palaces to throw up a wall across the main plaza, and were overrun all the same.
 
@@ -95,7 +93,7 @@ A third is the land. Millions of people had cleared the forest for fields and fo
 
 These explanations support one another. A crowded country with worn-out soil had little to spare when the rains failed. Hunger led to war over what remained. Belief played its part as well. The holy lords had claimed that their rituals kept the rain falling and the maize growing. When the rain stopped, and neither their blood nor that of their captives brought it back, people ceased to feed them, and walked away.
 
-The word "collapse" hides the most important point. The cities of the south were abandoned. The Maya were not. Many moved north, where other Maya cities flourished for centuries longer, and when the Spanish arrived they found Maya kingdoms that fought them hard. The last of them held out until 1697. More than six million people speak Maya languages today, and many of them farm maize, beans and squash in the country of their ancestors.
+The word "collapse" misleads, however. The cities of the south were abandoned. The Maya were not. Many moved north, where other Maya cities flourished for centuries longer, and when the Spanish arrived they found Maya kingdoms that fought them hard. The last of them held out until 1697. More than six million people speak Maya languages today, and many of them farm maize, beans and squash in the country of their ancestors.
 
 ## Potatoes left out in the frost
 
@@ -122,7 +120,7 @@ The device is best known from the last and largest of the Andean empires, though
 ![A khipu in a glass case: a looped main cord with scores of thin cords hanging from it in a fan, many tied with knots](images/khipu.jpg)
 *A khipu in the Museo de Arte de Lima, Peru: a main cord with many hanging cords, each tied with knots that stand for numbers. Photo: TaphonomyMan, CC BY-SA 4.0.*
 
-Scholars worked out the numbers a century ago, and they can read the totals on the fourteen hundred or so examples that survive. Some of the cords record things other than numbers, possibly names and places, and nobody has yet read those. The officials who made them could keep the accounts of a state of several million people with a bundle of string.
+Scholars worked out the numbers a century ago, and they can read the totals on the fourteen hundred or so examples that survive. Some of the cords record things other than numbers, possibly names and places, and those have not yet been read. The officials who made them could keep the accounts of a state of several million people with a bundle of string.
 
 ## Fifteen million baskets
 
@@ -141,9 +139,7 @@ Cahokia lasted about three centuries. In its later years it was surrounded by a 
 
 ## A toy on wheels
 
-The Americas are the nearest thing that history offers to a second run of an experiment. People there started from the same beginnings as people everywhere else, with stone tools, fire and a few wild plants, and for fifteen thousand years they had almost nothing to do with the rest of humanity. They went on to farm and to build cities, and they came to obey kings who claimed the favour of the gods. They taxed one another in maize and labour, kept accounts, raised monuments, and worked out a calendar and a sign for nothing. They also cut down their forests and fought wars over the consequences. All of it had been done in Iraq, Egypt and China, by people they had never heard of.
-
-Most of the differences between the two worlds came down to animals. The people of the Americas had never lived among herds of cattle, pigs and sheep. Many of the worst infections of the Old World had first passed to humans from such herds, and had then circulated in its crowded towns for thousands of years. None of them had reached the Americas, and nobody there had ever been exposed to them. They had never seen an animal carry a man into battle.
+The Americas differed from the Old World most of all in their animals. Their people had never lived among herds of cattle, pigs and sheep. Many of the worst infections of the Old World had first passed to humans from such herds, and had then circulated in its crowded towns for thousands of years. None of them had reached the Americas, and no one there had ever been exposed to them. They had never seen an animal carry a man into battle.
 
 In museums in Mexico there are small figures of baked clay, between twelve and fifteen hundred years old, that were found in graves on the coast of the Gulf. They are dogs and jaguars, the size of a child's hand. Each stands on four clay discs, fixed to wooden axles that have long since rotted away, so that it could be pulled along the ground on a string.
 

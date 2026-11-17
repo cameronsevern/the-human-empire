@@ -8,9 +8,9 @@ About 2,160 years ago, a young Roman noble named Tiberius Gracchus stood up in f
 
 He was speaking a dozen years after the burning of Carthage, at a time when Rome had no rival left. The treasury was full, and the great families were richer than any Romans had ever been. It ought to have been the Republic's best hour, and a member of one of those families was telling the citizens that they had been robbed.
 
-To see what he meant, follow one of the farmers who filled the legions. In the old days of wars inside Italy, such a man was called up in spring, fought through the summer, and was home in time to plough. A few hectares, worked by his family, fed them all. Now the wars were in Spain, Greece and Africa, and a soldier sent overseas could be kept there for years at a stretch. Meanwhile nobody ploughed. His wife and children ran up debts, and when the debts could not be paid, the farm was sold.
+To see what he meant, follow one of the farmers who filled the legions. In the old days of wars inside Italy, such a man was called up in spring, fought through the summer, and was home in time to plough. A few hectares, worked by his family, fed them all. Now the wars were in Spain, Greece and Africa, and a soldier sent overseas could be kept there for years at a stretch. Meanwhile the farm went unploughed. His wife and children ran up debts, and when the debts could not be paid, the farm was sold.
 
-There was always a buyer, because the same wars had made the buyers rich. Senators and army contractors came home with fortunes and put them into land. They also took over huge stretches of what the Romans called public land. This was ground that Rome had confiscated from defeated Italian towns over the centuries, and it belonged to the state. In law, no citizen was allowed to hold more than about a hundred and twenty-five hectares of it. In practice the rich had been fencing it in for generations, and nobody had stopped them.
+There was always a buyer, because the same wars had made the buyers rich. Senators and army contractors came home with fortunes and put them into land. They also took over huge stretches of what the Romans called public land. This was ground that Rome had confiscated from defeated Italian towns over the centuries, and it belonged to the state. In law, no citizen was allowed to hold more than about a hundred and twenty-five hectares of it. In practice the rich had been fencing it in for generations, and no one had stopped them.
 
 They did not need the farmer as a labourer either. The conquests had flooded Italy with slaves, the captives of Carthage, Corinth and a hundred smaller places, and a slave cost little and could not be called up for the army. On the big estates, gangs of them herded sheep and tended vines and olives where free families had once grown wheat.
 
@@ -33,7 +33,7 @@ His Greek biographer says that it was the first time since the days of the kings
 
 Ten years later his younger brother Gaius was elected tribune and went further. He had the state buy grain and sell it to every citizen in Rome at a fixed low price. He also proposed something that his brother had not: to give Roman citizenship to the Latin towns, and new rights to the rest of the Italian allies. The proposal failed, and when Gaius was out of office the Senate declared an emergency. His followers were attacked in the streets, he was hunted down and died, and three thousand of his supporters were put to death afterwards without trial.
 
-The Gracchi had shown two things. A politician who offered the poor land or bread could raise a following large enough to frighten the Senate. The Senate, for its part, had shown that it would kill to keep things as they were. Nobody had yet solved the problem of the landless soldier.
+The Gracchi had shown two things. A politician who offered the poor land or bread could raise a following large enough to frighten the Senate. The Senate, for its part, had shown that it would kill to keep things as they were. Neither side had yet solved the problem of the landless soldier.
 
 ## The men's baths
 
@@ -64,7 +64,7 @@ The allies gave up asking. Within months, most of the peoples of central and sou
 
 It was the most dangerous war Rome had fought since Hannibal. The men on the other side had been trained in the Roman way, carried Roman equipment and knew every Roman habit of command, because they had been half of the Roman army.
 
-What the rebels were fighting for is a puzzle with two pieces of evidence that point in different directions. They had demanded citizenship for a generation, which suggests that they wanted to be let in. Their coins and their rival capital, however, look like the work of men who wanted to get out. The likeliest reading is that both were true of different people at different times. A war that began as a demand for a place in the Roman state grew, for the Samnites of the southern mountains and some others, into a war to destroy it.
+What the rebels were fighting for is a puzzle with two pieces of evidence that point in different directions. They had demanded citizenship for a generation, which suggests that they wanted to be let in. Their coins and their rival capital, however, look like the work of men who wanted to get out. The likeliest reading is that both were true of different people at different times. A war that began as a demand for a place in the Roman state grew, for the Samnites, a hill people of the southern mountains, and for some others, into a war to destroy it.
 
 Rome won, and it won by giving way. In the first winter of the war, the Romans passed a law granting citizenship to every allied town that had stayed loyal. Further laws offered it to any rebel who laid down his arms. The rebellion lost its purpose and came apart, apart from the Samnites, who fought on for years.
 

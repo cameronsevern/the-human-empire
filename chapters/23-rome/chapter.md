@@ -41,9 +41,7 @@ There was one more condition. Each town had its treaty with Rome and with nobody
 
 Over the following century the Romans applied the same method to people after people, down the length of Italy. Each defeat produced another treaty and another list of men owed.
 
-The difference from tribute was larger than it looks.
-
-A subject who pays tribute hands over part of his harvest every year and has no share in what it buys. He has every reason to wait for the day his master stumbles. An ally who sends soldiers is in a different position. His men march beside the Romans, and when the campaign is won they share in the plunder. When land is taken from the next defeated people, allied settlers often receive plots of it alongside Roman ones. War, for an Italian ally, was a duty, but it was also the best business available.
+Sending soldiers was a very different thing from paying tribute. A subject who pays tribute hands over part of his harvest every year and has no share in what it buys. He has every reason to wait for the day his master stumbles. An ally who sends soldiers is in a different position. His men march beside the Romans, and when the campaign is won they share in the plunder. When land is taken from the next defeated people, allied settlers often receive plots of it alongside Roman ones. War, for an Italian ally, was a duty, but it was also the best business available.
 
 The arrangement also had a curious effect on Rome itself. Silver can be collected in peacetime and stored in a treasury. Soldiers cannot be stored. Rome drew the full benefit of its allies only when it led them to war, and so it did, in nearly every year for which a record survives. The alliance was a machine that ran on campaigns.
 
@@ -91,7 +89,7 @@ The two cities went to war over Sicily about 2,290 years ago, and the Romans soo
 
 What followed is one of the more improbable stories in Polybius, and he tells it with open admiration. The standard warship of the day was a long galley driven by about three hundred oarsmen, with a bronze ram at the bow for smashing holes in enemy hulls. The Romans did not know how to build one. However, a Carthaginian warship had run aground early in the war and fallen into their hands. They took it apart, used it as a pattern, and built a hundred copies in two months.
 
-Meanwhile the crews, who had never rowed, were taught on dry land. Benches were set up on the beach in the same order as in a ship, and the men sat on them and practised swinging in time to the calls of an officer.
+While the ships were being built, the crews, who had never rowed, were taught on dry land. Benches were set up on the beach in the same order as in a ship, and the men sat on them and practised swinging in time to the calls of an officer.
 
 Ships and crews made in such a hurry could not hope to outmanoeuvre the best sailors in the world. Ramming is a matter of skill, of turning faster than the enemy and striking him in the side. The Romans therefore changed the kind of battle. At the bow of each ship they mounted a wooden gangway about eleven metres long, held upright against a pole by a rope and pulley. Under its far end was a heavy iron spike. When an enemy ship came close, the crew let the rope go. The gangway crashed down onto the enemy's deck, the spike bit into the planks, and the two ships were locked together. Roman soldiers then ran across, two abreast, and fought as they would have on land. The sailors called the device the raven, after its beak.
 
@@ -108,9 +106,9 @@ That fleet met the Carthaginians off the western tip of Sicily and sank or captu
 
 Carthage sued for peace. It gave up Sicily and agreed to pay Rome a large sum in silver over ten years.
 
-Two things followed that mattered more than the treaty. First, Rome now ruled land outside Italy, and it did not extend the Italian bargain to it. Most Sicilian towns were in time made to hand over a tenth of their grain harvest each year. For the first time Rome had subjects who paid instead of serving, and it found the grain very useful.
+After the treaty, Rome ruled land outside Italy, and it did not extend the Italian bargain to it. Most Sicilian towns were in time made to hand over a tenth of their grain harvest each year. For the first time Rome had subjects who paid instead of serving, and it found the grain very useful.
 
-Second, Carthage could not pay its soldiers. The men who had fought for it in Sicily were shipped home to Africa and told that their back wages would have to be reduced. They mutinied, the African farmers who were taxed to support the city joined them, and for more than three years Carthage fought for its life against its own army. While it was busy, Rome helped itself to the island of Sardinia.
+At the same time, Carthage could not pay its soldiers. The men who had fought for it in Sicily were shipped home to Africa and told that their back wages would have to be reduced. They mutinied, the African farmers who were taxed to support the city joined them, and for more than three years Carthage fought for its life against its own army. While it was busy, Rome helped itself to the island of Sardinia.
 
 ## Thirty-seven elephants
 
@@ -167,7 +165,7 @@ Rome came out of the war with Hannibal as the strongest power in the Mediterrane
 
 Outside Italy, however, Rome did not repeat its Italian method. It made allies across the sea when that suited it, but it offered nobody there the Italian bargain of soldiers in exchange for a share of the winnings and a road to citizenship. From Spain it took tribute, as it had from Sicily, and from everywhere it took people. After one campaign in north-western Greece, the Senate ordered a hundred and fifty thousand inhabitants to be sold as slaves in a single operation. The arrangement that had built Rome's power in Italy stopped at the water's edge.
 
-Carthage, meanwhile, recovered. It had lost its empire but not its trade, and it paid off its fifty-year debt on time. That prosperity alarmed some Romans more than its armies had. One old senator, who had fought against Hannibal as a young man, took to ending every speech he made, whatever its subject, with the opinion that Carthage must be destroyed.
+Carthage, for its part, recovered. It had lost its empire but not its trade, and it paid off its fifty-year debt on time. That prosperity alarmed some Romans more than its armies had. One old senator, who had fought against Hannibal as a young man, took to ending every speech he made, whatever its subject, with the opinion that Carthage must be destroyed.
 
 About 2,170 years ago he got his way. Rome found a pretext and sent an army. The Carthaginians handed over their weapons when ordered to, and then were told to abandon their city and move inland. At that they chose to fight. They held out behind their walls for three years. When the Romans finally broke in, the fighting went from house to house for six days. The fifty thousand people who were left alive were sold as slaves, and the city was burned to the ground.
 

@@ -62,7 +62,7 @@ The Chinese had known for more than a thousand years that a certain black stone,
 ![A bronze spoon with a long handle resting on a square bronze plate engraved with compass directions and characters](images/south_pointing_spoon.jpg)
 *A modern model of the south-pointing spoon, carved in imitation of the lodestone spoons that Chinese specialists in the siting of graves and houses used. Photo: Hohum, CC BY-SA 3.0.*
 
-By the eleventh century, the spoon had been replaced by a steel needle. The clearest account comes from an official named Shen Kuo, who in his retirement wrote down everything curious that he had learned in a long career. People who work with such things, he says, rub the point of a needle on a lodestone, and it then points south. It can be floated on water, balanced on a fingernail or on the rim of a cup, or, best of all, hung from a single fibre of new silk fixed to its middle with a speck of wax. He adds an observation that shows how carefully he had looked. The needle does not point exactly south. It always leans a little to the east. No European recorded that fact until the fifteenth century.
+By the eleventh century, the spoon had been replaced by a steel needle. An official named Shen Kuo described it plainly. In his retirement he wrote down everything curious that he had learned in a long career. People who work with such things, he says, rub the point of a needle on a lodestone, and it then points south. It can be floated on water, balanced on a fingernail or on the rim of a cup, or, best of all, hung from a single fibre of new silk fixed to its middle with a speck of wax. He adds an observation that shows how carefully he had looked. The needle does not point exactly south. It always leans a little to the east. No European recorded that fact until the fifteenth century.
 
 Shen Kuo wrote in 1088. A generation later, another writer described the port of Guangzhou, where his father had been governor. The ships' pilots there, he says, steer by the stars at night and by the sun in the day, and when the sky is overcast they look at the south-pointing needle.
 
@@ -115,7 +115,7 @@ To the Song court, this looked like the chance of a century. The emperor at the 
 
 The Jurchen did nearly all of the fighting. A Song army marched north to take its share and was routed by the already beaten Khitan. The Jurchen commanders drew the conclusion that the richest state in the world could not defend itself. In the winter of 1125 they crossed the frontier.
 
-Kaifeng was besieged twice. Its defenders shot gunpowder arrows from the walls and dropped bombs on the men at the foot of them, and for a time they held. The court, meanwhile, could not decide whether to fight or to pay, dismissed its most capable commander, recalled him, and dismissed him again. At the beginning of 1127 the city fell.
+Kaifeng was besieged twice. Its defenders shot gunpowder arrows from the walls and dropped bombs on the men at the foot of them, and for a time they held. Inside the walls, however, the court could not decide whether to fight or to pay, dismissed its most capable commander, recalled him, and dismissed him again. At the beginning of 1127 the city fell.
 
 The Jurchen stripped the capital of its treasures. They took the books and the paintings, the palace musicians, and the astronomers' instruments. They also took a wonder that had stood in the palace for thirty-five years, a clock tower twelve metres high, driven by a waterwheel, in which wooden figures came out of doors to strike the hours and a great bronze globe of the stars turned in time with the sky. It was carted north in pieces. Nobody there could make it work. When the Song later tried to build another, the son of the man who had designed it was put in charge, with his father's papers, and he could not do it either.
 
@@ -128,7 +128,7 @@ One of Huizong's younger sons had been away from the capital and escaped. He fle
 
 ## The thunder-crash bomb
 
-The conquerors of the north had no wish to remain forest hunters. Their rulers had already taken a Chinese dynastic name, which means "gold". They now employed Chinese officials, held examinations, and in time moved their capital down onto the Chinese plain. They also took over the arsenals of Kaifeng, with the workmen.
+The conquerors of the north had no wish to remain forest hunters. Their rulers had already taken a Chinese dynastic name, Jin, which means "gold". They now employed Chinese officials, held examinations, and in time moved their capital down onto the Chinese plain. They also took over the arsenals of Kaifeng, with the workmen.
 
 Within a few years, Jurchen armies were using fire arrows and bombs against the people who had invented them. The Song, for their part, went on improving the weapons, and each side learned from what the other threw at it. By the early 1200s the powder was rich enough in saltpetre to explode. Both sides were casting hollow shells of iron, as big as a large gourd, which were filled with it and lit by a fuse.
 
