@@ -1,0 +1,4 @@
+Prose words (excluding captions): 3,239 before, 4,246 after.
+Changes: set-up sentences before new ideas (the spell, money, the hard settler cases, Suez, Bandung, the handicaps), reasoning spelled out step by step (Nkrumah's slogan, the governor's choice, Algeria's separate vote, the Congo timetable), long paragraphs split, transitions added; "Two days after that surrender" now says Japan's surrender.
+Check2 flags applied: Bandung bridges corrected (European powers absent; not all participants independent), cocoa sentence softened, several absolutes and padding lines fixed, Atlantic Charter "signed" changed to "issued", the Kenya compensation anchored to independence, dangling "wept as well" fixed.
+Left unapplied: the map image's alt text dates Zimbabwe to the 1970s (independence 1980); image lines are outside the scope of this pass.
