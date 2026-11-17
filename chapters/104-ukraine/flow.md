@@ -1,0 +1,4 @@
+Prose words: 3,142 before, 3,664 after.
+Changes: split dense paragraphs (the invasion morning, Rus' and the Cossacks, the alliance's expansion, Putin's rise, both Kyiv risings, Crimea and the Donbas, the failed thrust on Kyiv, the drone war, the war's consequences); added connecting sentences on why the Budapest promise mattered, why the far-right vote undercuts the coup story, why cheap drones decided the front and why a wired drone cannot be jammed.
+Check fixes: dropped or reworded my additions that Codex flagged (the nuclear bargain "cost little", bloodshed only from February, abuses unseen until withdrawal, "the rest of the world kept its distance", a reinstated signpost, absolute airfield wording, padding and repeated setups).
+Left unapplied: caption metadata "The file is ... pixels wide" in three captions (captions are off limits).
