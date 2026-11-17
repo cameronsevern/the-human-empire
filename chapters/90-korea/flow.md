@@ -1,0 +1,4 @@
+Prose words (excluding headings, images and captions): 3,116 before, 3,983 after.
+Main changes: setup sentences before each new turn of the story (the line, the occupations, Stalin's change of mind, Inchon, the Chinese entry, the dismissal, the truce talks, the aftermath); causal links given their own sentences; transitions at sentence openings; long paragraphs split; "armistice" glossed.
+From check2: removed the new Inchon "instead of a breakout" claim and "not called a war at home"; fixed existing flags (Chinese "already on their way" for the October chronology, Americans "died" not "killed", "no ordinary post"); cut signpost and padding sentences; softened absolutes; identified Chiang.
+Unapplied: heading "Forty-eight telegrams" against "dozens" in the body (headings are fixed); Celsius not specified (left as written).
