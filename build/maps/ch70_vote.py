@@ -1,16 +1,20 @@
 #!/usr/bin/env python3
-"""Chapter 70: the decade in which women won the vote in national elections, country by country, on a
-world map with Europe drawn larger below it. Modern borders (Natural Earth admin-0, as shipped with
-geopandas), since the map is about countries.
+"""Chapter 70: the decade in which women won the vote in national elections on the same terms as men,
+country by country, on a world map with Europe drawn larger below it. Modern borders (Natural Earth admin-0,
+1:50 million, public domain: data/ch70_admin0_ne50m.geojson), since the map is about countries.
 
-Drawn for this chapter, which had no map. Years are those the chapter gives where it gives one (New
-Zealand 1893, Australia 1902, Finland 1906, Norway 1913, Russia 1917, Germany, Austria, Poland, Britain
-and Canada 1918, the United States 1920, France 1944, Switzerland 1971); for Italy and Japan the year the
-law was made (1945; women first voted in 1946); the rest from the list of dates in English Wikipedia's
-article "Women's suffrage" and the Inter-Parliamentary Union's table, used only where the date is not in
-dispute. Countries where the answer depends on the definition (a vote first given only to some women,
-or given by a colonial power and widened at independence), or where it is uncertain, are left unshaded:
-among them Hungary, Portugal, Uruguay, South Africa, Pakistan, Indonesia and most of Africa.
+Drawn for this chapter, which had no map. The year for each country, its basis and its sources are in
+data/ch70_vote_dates.csv, which this script reads. The rules: the year women won the vote in national
+elections on equal terms with men (so Britain 1928, not 1918, when only women over thirty voted); bars that
+shut out men and women alike, by race, literacy or property, are not counted (so Australia 1902 and the
+United States 1920), except in South Africa, where women of colour could not vote while some men of colour
+could, which is dated 1994. Votes granted under colonial rule count, so former
+colonies take the year the vote came, before or after independence (Sri Lanka 1931). Countries that
+were then part of a larger state (the Soviet republics, Yugoslavia, Bangladesh, South Sudan) take that
+state's year for their territory. Countries with no
+national elections, and territories still dependent, are left unshaded. Years from the chapter where it gives
+one; otherwise the Inter-Parliamentary Union's chronology, checked against English Wikipedia's "Timeline
+of women's suffrage". The map reads the vote_granted column.
 """
 import os
 import numpy as np
@@ -18,6 +22,7 @@ import matplotlib
 import matplotlib.pyplot as plt
 import matplotlib.image as mpimg
 from matplotlib.patches import Polygon as MplPoly, Patch
+import csv
 import geopandas as gpd
 from shapely.affinity import translate
 from shapely.ops import unary_union
@@ -25,22 +30,12 @@ import lib
 from lib import Map, INK, PAPER, HALO
 
 SCRATCH = os.environ.get("SCRATCH", "/tmp")
-C = gpd.read_file(gpd.datasets.get_path("naturalearth_lowres"))
-C = C[C.name != "Antarctica"]
-
-YEAR = {
-    "New Zealand": 1893, "Australia": 1902, "Finland": 1906, "Norway": 1913,
-    "Denmark": 1915, "Iceland": 1915, "Russia": 1917, "Estonia": 1918, "Latvia": 1918, "Lithuania": 1918,
-    "Poland": 1918, "Germany": 1918, "Austria": 1918, "United Kingdom": 1918, "Ireland": 1918, "Canada": 1918,
-    "Netherlands": 1919, "Sweden": 1919, "Luxembourg": 1919, "United States of America": 1920, "Czechia": 1920,
-    "Slovakia": 1920, "Mongolia": 1924, "Ecuador": 1929,
-    "Spain": 1931, "Sri Lanka": 1931, "Brazil": 1932, "Thailand": 1932, "Turkey": 1934, "Cuba": 1934,
-    "Philippines": 1937, "France": 1944, "Italy": 1945, "Japan": 1945, "Venezuela": 1946, "Argentina": 1947,
-    "Belgium": 1948, "Israel": 1948, "South Korea": 1948, "Chile": 1949, "China": 1949,
-    "India": 1950, "Greece": 1952, "Bolivia": 1952, "Mexico": 1953, "Colombia": 1954, "Peru": 1955,
-    "Egypt": 1956, "Paraguay": 1961, "Iran": 1963,
-    "Switzerland": 1971, "Kuwait": 2005,
-}
+C = gpd.read_file(os.path.join(lib.DATA, "ch70_admin0_ne50m.geojson"))
+ROWS = {r["adm0"]: r for r in csv.DictReader(open(os.path.join(lib.DATA, "ch70_vote_dates.csv"), encoding="utf-8"))}
+missing = sorted(set(C.ADM0_A3) - set(ROWS))
+assert not missing, f"no row in ch70_vote_dates.csv for {missing}"
+YEAR = {r["NAME"]: int(ROWS[r["ADM0_A3"]]["vote_granted"]) for _, r in C.iterrows()
+        if ROWS[r["ADM0_A3"]]["vote_granted"] and ROWS[r["ADM0_A3"]]["basis"] not in ("none", "dependency")}
 BANDS = [(1914, "#3d5a78", "before 1915"), (1929, "#5f86a8", "1915 to 1929"), (1949, "#93b0c8", "1930 to 1949"),
          (1969, "#c3d3e0", "1950 to 1969"), (9999, "#7d6a8f", "1970 and later")]
 
@@ -53,7 +48,7 @@ def colour(y):
 
 def shade(m):
     """Each dated country, filled with its band's colour, and every country's border drawn thinly."""
-    geoms = {r["name"]: unary_union([translate(r.geometry, xoff=o) for o in m.offs]) for _, r in C.iterrows()}
+    geoms = {r["NAME"]: unary_union([translate(r.geometry, xoff=o) for o in m.offs]) for _, r in C.iterrows()}
     allc = unary_union(list(geoms.values()))
     for name, g in geoms.items():
         if name not in YEAR:
@@ -119,9 +114,12 @@ fig = plt.figure(figsize=(kw, ie.shape[0] / 100.0), dpi=100)
 fig.patch.set_facecolor(PAPER)
 ax = fig.add_axes([0, 0, 1, 1]); ax.axis("off")
 handles = [Patch(fc=c, ec=c, alpha=0.9, label=t) for _, c, t in BANDS] + \
-          [Patch(fc=lib.LAND, ec=lib.SHORE, label="not shaded:\ndate disputed\nor uncertain")]
-leg = ax.legend(handles=handles, loc="center", fontsize=18, title="Women won the\nnational vote", title_fontsize=19,
+          [Patch(fc=lib.LAND, ec=lib.SHORE, label="not shaded:\nno national\nelections, or\nstill a colony")]
+leg = ax.legend(handles=handles, loc="center", bbox_to_anchor=(0.5, 0.58), fontsize=18, title="Women won the\nnational vote\non equal terms\nwith men",
+                title_fontsize=19,
                 frameon=False, labelspacing=0.9, handlelength=2.2, handleheight=1.4)
+ax.text(0.5, 0.07, "Former colonies: the year\nthe vote came, whether\nunder colonial rule or after", ha="center",
+        va="center", fontsize=16, color=INK, linespacing=1.3, transform=ax.transAxes)
 pk = os.path.join(SCRATCH, "ch70_key.png")
 fig.savefig(pk, dpi=100, facecolor=PAPER)
 plt.close(fig)
