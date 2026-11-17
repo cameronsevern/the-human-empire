@@ -1,0 +1,4 @@
+Flow pass, chapter 64. Prose words (captions excluded): 3,310 before, about 3,840 after.
+Changes: set-up and consequence sentences around the "contraband" decision, cotton and the forced move south-west, the quarrel over the West, Lincoln's election and Britain's refusal to intervene; the 1850s paragraph, the Grant and Sherman paragraph and the Reconstruction amendments split and walked through step by step.
+check2 flags applied: removed or reworded added sentences that divided Grant's and Sherman's tasks, turned rifle range into charging distance, dated the change in war aims to 1863, said no other country paid for abolition in war, and overstated soil exhaustion, Dred Scott and Northern inaction; cut the signposts and repeats it listed.
+Left unapplied: "Congress overrode him" (clarity flag) is an original sentence and making it specific would need a new fact.
