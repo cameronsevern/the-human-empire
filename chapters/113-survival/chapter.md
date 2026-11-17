@@ -31,12 +31,12 @@ The machinery that Petrov was part of is still there. It runs on the same short 
 
 The nuclear arsenals have shrunk by more than four fifths since their peak in the 1980s. About twelve thousand warheads remain. Russia and the United States hold nearly nine tenths of them, and seven other countries the rest: China, France, Britain, India, Pakistan, Israel and North Korea.
 
-Most of them are also far stronger than the first bombs. A single modern warhead is typically ten or twenty times as powerful as the bomb that destroyed Hiroshima. Of all those warheads, about two thousand, on missiles in underground silos and in submarines, are kept ready to be launched within a few minutes of an order.
+Most of them are also far stronger than the first bombs, although the giants of the early 1960s have given way to smaller and more accurate warheads. A single modern warhead is typically ten or twenty times as powerful as the bomb that destroyed Hiroshima. Of all those warheads, about two thousand, on missiles in underground silos and in submarines, are kept ready to be launched within a few minutes of an order.
 
 ![Line chart of the estimated number of nuclear warheads in the world from 1945 to 2025. The United States' stockpile rises to about 31,000 in the mid-1960s and then declines; that of the Soviet Union, then Russia, rises to about 40,000 in 1986 and falls steeply after 1990; both are under 5,000 by 2025. All other countries together never hold more than about 1,600. The world's total, including retired warheads awaiting dismantling, peaks at about 70,000 in 1986 and falls to about 12,000 in 2025](images/chart_warheads.png)
 *Nuclear warheads in the world, 1945 to 2025: the stockpiles of the United States, of the Soviet Union and then Russia, and of all other countries, and the world's total including retired warheads awaiting dismantling. All the figures are estimates. Chart: drawn for this book; data from the Federation of American Scientists, via Our World in Data.*
 
-The reason for that readiness is the one that faced Petrov: there is very little time. A missile fired from a submarine off the coast can arrive in ten minutes. Missiles in silos, meanwhile, can be destroyed where they stand. For that reason each side plans to fire its own on warning, before the enemy's land. The warning, in other words, has to be judged in minutes. In the United States the decision belongs to one person, the president, who is not required to consult anyone and would have a few minutes to make it.
+The reason for that readiness is the one that faced Petrov: there is very little time. A missile fired from a submarine off the coast can arrive in ten minutes. Missiles in silos, meanwhile, can be destroyed where they stand. For that reason each side plans to fire its own on warning, before the enemy's land. The warning therefore has to be judged in minutes. In the United States the decision belongs to one person, the president, who is not required to consult anyone and would have a few minutes to make it.
 
 ![A pale green control console in a missile control room with a round 24-hour clock, a fan, a locator board and rows of indicator lights](images/titan.jpg)
 *A control console at the Titan Missile Museum in Arizona, a former American missile site kept as a museum. Missiles of this kind stood ready in underground silos. Photo: Jeff Keyzer, CC BY 2.0.*
@@ -45,7 +45,7 @@ For a long time it was assumed that a nuclear war would be a catastrophe for tho
 
 The most recent calculations, published in 2022, concluded that even a war between India and Pakistan, using a hundred or so weapons, would shorten the growing seasons enough to leave a quarter of a billion people in other countries without food. A full exchange between America and Russia would leave most of humanity without food. A war between two countries, in short, would starve people who had no part in it.
 
-Petrov's night was not the only one. The machinery has come close to disaster in other ways too: by accident, and by misunderstanding.
+Petrov's night was not the only one. Off Cuba in 1962, the captain of a Soviet submarine had faced much the same choice. The machinery has come close to disaster in other ways too: by accident, and by misunderstanding.
 
 In 1961 an American bomber broke up in the air over the state of North Carolina and dropped two hydrogen bombs on farmland. Each bomb carried safety devices, meant to keep it from going off unless it had been deliberately armed. On one of them, three of the four safety devices failed, and the fourth, a simple switch, was all that prevented an explosion two hundred and fifty times the size of Hiroshima.
 
@@ -69,7 +69,7 @@ In November 1985 the American president and the Soviet leader met for the first 
 ![Ronald Reagan at a lectern on a stage between a Soviet flag and an American flag, with Mikhail Gorbachev seated behind, and rows of delegates in the foreground](images/geneva.jpg)
 *Ronald Reagan speaking in Geneva on 21 November 1985, with Mikhail Gorbachev seated on the stage, when the joint statement of the two leaders was announced. Photo: White House Photographic Office, public domain.*
 
-There is also a habit that no treaty records. In every war since 1945, including wars that nuclear powers failed to win, in Korea, Vietnam and Afghanistan, the weapons have gone unused. A nuclear power facing failure, in other words, has accepted it rather than use the bomb. Each year that passes makes it harder to be the first to break that silence.
+There is also a habit that no treaty records. In every war since 1945, including wars that nuclear powers failed to win, in Korea, Vietnam and Afghanistan, the weapons have gone unused. Each nuclear power facing failure has accepted it rather than use the bomb. Each year that passes makes it harder to be the first to break that silence.
 
 Much of this is now fraying, and the treaties are the first to show it. The last treaty limiting American and Russian weapons was due to expire in February 2026, and Russia had already stopped admitting the inspectors. China is adding about a hundred warheads a year. And the lesson that some governments have drawn from Ukraine, which gave up its weapons and was invaded, is the opposite of the one that the treaty intends: that a country is safer with the bomb than without it.
 
@@ -155,7 +155,7 @@ The results can be measured. Production of the gases has fallen by ninety-nine p
 
 ## A few dozen factories
 
-In each of these cases the danger was plain, and in the end not seriously disputed. There was also a remedy that could be afforded: a vaccine costing cents, a substitute gas. The rich were willing to pay for the poor to take part, so that poorer countries had little reason to refuse. Progress could be checked by counting cases or measuring the sky, so that claims of success could be tested. And under the ozone treaty, a country that stayed out stood to lose its trade in the goods concerned.
+Much was in the ozone treaty's favour. By the time it was signed, the danger was plain and no longer seriously disputed, and a substitute gas could be afforded, much as a vaccine costing cents had been against smallpox. The rich paid for the poor to take part, so poorer countries had little reason to refuse. Success could be checked by measuring the sky, just as the smallpox teams had checked theirs by counting cases. Finally, a country that stayed out of the treaty stood to lose its trade in the goods concerned.
 
 Few dangers line up so neatly, and the size of the task matters as much as anything. With the ozone layer there were a few dozen factories to change. With the climate, by contrast, there are the engines and furnaces of the whole world, and those who profit from them.
 

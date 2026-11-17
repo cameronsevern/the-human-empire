@@ -47,7 +47,7 @@ It is almost never one of these alone. Rome was short of money, and sick with pl
 
 ## What comes through
 
-The stranger thing is how much survives. The governments are fragile, but a great deal of what they built is not.
+For all that, a great deal survives. The governments are fragile, but much of what they built is not.
 
 When Alexander had finished conquering Persia, he and his successors ran it through the Persian system of provinces, each with its governor, joined by the Persian royal roads. The conqueror, in effect, took over the machine instead of building a new one.
 
@@ -77,23 +77,23 @@ There are exceptions, and they are the darkest part of the record.
 
 Sometimes the end of a state was also the end of a people. The Mexica and the Inca lost their governments to conquest and most of their people to disease, war and forced labour.
 
-Elsewhere the destruction was ordered on purpose. In the 1750s the Chinese emperor, after decades of war with a nation of nomads on his western frontier called the Zunghars, ordered that they be wiped out. About four fifths of them were killed by his soldiers or by smallpox, and the rest fled or were enslaved. Their name survives on maps of the region where they lived and almost nowhere else. In the twentieth century, states with railways and filing systems attempted the same thing with greater efficiency. The tools that made it easy to count people made it easier to kill them.
+Elsewhere the destruction was ordered on purpose. In the 1750s the Chinese emperor, after decades of war with a nation of nomads on his western frontier called the Zunghars, ordered that they be wiped out. About seven in ten of them were killed by his soldiers or by smallpox, and most of the rest fled or were enslaved. Their name survives on maps of the region where they lived and almost nowhere else. In the twentieth century, states with railways and filing systems attempted the same thing with greater efficiency. The tools that made it easy to count people made it easier to kill them.
 
 So the comforting rule, that empires fall and ordinary life goes on, holds only where the newcomers wanted subjects. Where they wanted the land empty, what came afterwards belonged to someone else.
 
 ## Iron and belief
 
-People have argued for a very long time about what really moves history. The two main answers pull in opposite directions.
+People have argued for a very long time about what really moves history.
 
 On one view the causes are material. People do what their circumstances allow. Give a region wild grasses that can be bred into wheat, animals that can be tamed, iron ore, a navigable river, coal near the surface, and certain things will follow. On this view the land sets the story, and people act it out.
 
 On the other view, what counts is what people believe: the gods they fear, the stories they tell about who they are, the ideas for which they are willing to kill and to die. On that view, the same land can produce very different histories, depending on what its people make of it.
 
-The evidence of ten thousand years supports both, in different roles. Each answers a different question.
+Ten thousand years of evidence support both, in different roles.
 
-Materials set the limits. Nobody built an empire without a surplus of grain to feed soldiers, and so there were no empires before farming. The horse, the chariot, bronze and then iron each redrew the map of power within a few generations of appearing.
+Materials set the limits. Every empire needed a surplus of grain to feed its soldiers, and so there were none before farming. The horse, the chariot, bronze and then iron each redrew the map of power within a few generations of appearing.
 
-The largest example is the meeting of two halves of the world. The peoples of Eurasia had cattle, horses, steel and a long acquaintance with crowd diseases, and the peoples of the Americas had not. As a result, when the two met, that difference decided the matter before anyone had formed a plan.
+The largest example is the meeting of two halves of the world. The peoples of Eurasia had cattle, horses, steel and a long acquaintance with crowd diseases, and the peoples of the Americas had not. When the two met, that difference decided the matter before anyone had formed a plan.
 
 The same holds in later centuries. Britain industrialised first in large part because it had coal in the right place. In the last century the countries with oil, or with the factories to out-build their enemies, won the wars. No idea, however powerful, has ever fed an army or smelted a ton of steel.
 
@@ -108,7 +108,7 @@ The same is true of the movements that used no weapons at all. Gandhi's marchers
 ![A dense crowd of people at night in a city square, with banners held up and lit buildings behind](images/leipzig.jpg)
 *A Monday demonstration in Leipzig, East Germany, on 30 October 1989. Photo: Friedrich Gahlbeck, Bundesarchiv, CC BY-SA 3.0 de.*
 
-Belief has been as lethal as it has been liberating, and that should be said plainly. The same capacity that let strangers cooperate in millions, around a god or a nation or a theory of history, sent the crusaders to Jerusalem, built the camps in Poland, and starved thirty million Chinese in the name of a great leap. People fight for what they believe, and what they believe has very often been false.
+Yet belief has been as lethal as it has been liberating. The same capacity that let strangers cooperate in millions, around a god or a nation or a theory of history, sent the crusaders to Jerusalem, built the camps in Poland, and starved thirty million Chinese in the name of a great leap. People fight for what they believe, and what they believe has very often been false.
 
 Materials explain what was possible in a given place and time. Ideas explain which of the possible things people chose to do, and how long the result lasted. Slavery shows how the two work together. A steam engine did not abolish slavery, and neither did a sermon. Slavery was profitable to the end, and the cotton machines made it more so. Material interest pointed the wrong way. Instead, slavery was ended by men and women who decided that it was an abomination, by slaves who rose, and in the largest slave country by a war that the side with the factories won.
 
@@ -121,9 +121,7 @@ It has one economy, in which a telephone is designed on one continent with parts
 ![A flat map of the world on a dark blue background, with the cities of North America, Europe, India and East Asia glowing yellow](images/earth.jpg)
 *The Earth at night, in a composite of satellite images from 2012. The lights are cities. Image: NASA Earth Observatory, public domain.*
 
-That is new, and it changes what an ending would mean.
-
-Every empire before this one had an outside. Somewhere beyond its borders, life went on as before. When the Roman West fell, the eastern half of the empire carried on for another thousand years, and kept the books. Persia and China barely registered the event.
+Earlier empires, by contrast, all had an outside. Somewhere beyond their borders, life went on as before. When the Roman West fell, the eastern half of the empire carried on for another thousand years, and kept the books. Persia and China barely registered the event.
 
 The collapse of the Bronze Age had an outside too. When the palaces of the Bronze Age burned, Egypt staggered on, and in the wreckage small peoples on the fringes, who had never mattered, spread the alphabet and learned to work iron. There was always a neighbour to absorb the refugees, preserve the manuscripts, supply the next ruling house, or simply go on living, untouched, on the far side of the mountains. As a result, a fall in one place was balanced by a rise in another. The Arabs translated the Greeks. The Mongols carried gunpowder west. What one people lost, another kept and passed on.
 
@@ -148,11 +146,7 @@ How the present order might end is a matter of guesswork. There are fast ways fo
 
 There is also a slow way, which is how it has usually happened before. A civilisation does not have to be destroyed. It only has to lose the ability to do complicated things together. Complicated things need many people, in many places, each doing their part.
 
-That is what the ground of western Europe shows for the centuries after that boy was sent to the Bay of Naples. Under Rome, a peasant in Britain had eaten from good pottery made in factories hundreds of miles away, lived under a tiled roof, and used small change. Each of those ordinary comforts depended on other people, many of them far away.
-
-A generation or two after the legions left, hardly anyone in Britain could make pottery on a wheel. Houses were of wood and thatch, coins had gone out of use, and building in stone had all but ceased. Even the cattle were smaller than they had been before the Romans came.
-
-The same shrinking reached the old capital. The city of Rome, which had held a million people, held thirty thousand, living among ruins that they could no longer have built and did not fully understand.
+That is what the ground of western Europe shows for the centuries after that boy was sent to the Bay of Naples. Within two generations Britain lost the factory-made pots, the tiled roofs and the small change that its peasants had taken for granted, and the city of Rome shrank to a few tens of thousands, living among ruins that they could no longer have built. Each of those ordinary comforts had depended on other people, many of them far away.
 
 Nothing dramatic had happened in most of those places. Instead, the ships had stopped coming. As a result, the specialists had no customers, and their skills died with them. Each district fell back on what it could make for itself, which was much less.
 
@@ -163,6 +157,6 @@ A modern version would look like that, at a larger scale. Trade would shrink beh
 
 There is a third possibility, which is that the present order ends by turning into something else, as the world of hunters turned into the world of farmers. The machines that have begun to write and reason may be the start of a change of that size. If so, the order would not so much fall as become unrecognisable. Nobody alive can say.
 
-What can be said is that the outcome is not fixed. The four things that have ended empires are all, this time, within human power to affect. The money is a matter of how the proceeds are shared. The belief is a matter of whether people have reason to trust one another. The ground underfoot can be measured and, at a cost, repaired. And no rival waits beyond the frontier, because there is no frontier. Short of a rock from space, whatever ends this empire will have been done by its own people.
+The outcome, however, is not fixed. The four things that have ended empires are all, this time, within human power to affect. The money is a matter of how the proceeds are shared. The belief is a matter of whether people have reason to trust one another. The ground underfoot can be measured and, at a cost, repaired. And no rival waits beyond the frontier, because there is no frontier. Short of a rock from space, whatever ends this empire will have been done by its own people.
 
 At the beginning there was an odd, weak ape with a talent for cooperating with strangers by believing the same stories. Once it had settled down and built cities, it started keeping records: a clay tablet, a count of barley, a clerk's name. It is the only animal that has ever written down what happened to it. Every empire in that record ended. This is the first one that has been able to read the whole of it.

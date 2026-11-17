@@ -4,7 +4,7 @@
 
 We know because the physics was worked out more than a century and a half ago, because the gas in question has been measured continually since 1958 and has risen every year, because its chemistry shows that most of the extra comes from burning coal, oil and gas, and because the warming that the physics predicted has arrived.
 
-In March 1958 a chemist of twenty-nine named Charles David Keeling set up an instrument in a small concrete hut near the top of Mauna Loa, a volcano in Hawaii. He had chosen the place with care. It stands in the middle of the Pacific, nearly three and a half thousand metres up, as far as possible from any factory, city or forest. As a result, the air that blows across it has been thoroughly mixed by thousands of kilometres of ocean. A reading taken beside a chimney or in a wood says mostly something about the chimney or the wood. On Mauna Loa, by contrast, the instrument could sample the well-mixed air of the open ocean. It measured, several times an hour, how much of that air was carbon dioxide.
+In March 1958 a chemist of twenty-nine named Charles David Keeling set up an instrument in a small concrete hut near the top of Mauna Loa, a volcano in Hawaii. He had chosen the place with care. It stands in the middle of the Pacific, nearly three and a half thousand metres up, as far as possible from any factory, city or forest. The air that blows across it has therefore been thoroughly mixed by thousands of kilometres of ocean. A reading taken beside a chimney or in a wood says mostly something about the chimney or the wood. On Mauna Loa, by contrast, the instrument could sample the well-mixed air of the open ocean. It measured, several times an hour, how much of that air was carbon dioxide.
 
 ![Low white and grey observatory buildings on black lava rock, reached by a wooden boardwalk, with a bank of cloud and a distant mountain beyond](images/mlo.jpg)
 *The Mauna Loa Observatory in Hawaii in 2004, on bare lava high above the clouds. The carbon dioxide measurements began here in 1958. Photo: Forrest M. Mims III, NOAA, public domain.*
@@ -31,15 +31,15 @@ Foote drew the larger conclusion herself. An atmosphere of that gas, she wrote, 
 ![Two facing pages of a printed journal, with the title Circumstances affecting the Heat of the Sun's Rays by Eunice Foote, and two small tables of temperatures](images/foote.png)
 *Eunice Foote's paper of 1856 as printed in the American Journal of Science. The table on the right shows the receiver with carbonic acid gas, as carbon dioxide was then called, reaching 125 degrees in the sun, against 106 for common air. Image: Eunice Foote, public domain.*
 
-What her cylinders could not show was the reason. Three years later an Irish physicist in London, John Tyndall, showed why. He measured how different gases absorb the invisible rays of heat, the kind that a warm stove gives off even when it does not glow. The main gases of the air, nitrogen and oxygen, let heat pass straight through them. Carbon dioxide and water vapour, by contrast, absorb it strongly, although they make up a tiny part of the air. A trace of the right gas, in other words, can matter more than all the rest.
+What her cylinders could not show was the reason. Three years later an Irish physicist in London, John Tyndall, showed why. He measured how different gases absorb the invisible rays of heat, the kind that a warm stove gives off even when it does not glow. The main gases of the air, nitrogen and oxygen, let heat pass straight through them. Carbon dioxide and water vapour, by contrast, absorb it strongly, although they make up a tiny part of the air. A mere trace of the right gas can matter more than all the rest.
 
-That is the whole mechanism. Sunlight passes through the atmosphere and warms the ground. The warm ground then gives off heat, as invisible rays, back towards space. On the way out, molecules of carbon dioxide catch some of those rays and send them out again in all directions, including downwards. Part of the heat therefore comes back to the ground instead of escaping.
+Sunlight passes through the atmosphere and warms the ground. The warm ground then gives off heat, as invisible rays, back towards space. On the way out, molecules of carbon dioxide catch some of those rays and send them out again in all directions, including downwards. Part of the heat therefore comes back to the ground instead of escaping.
 
 The gas works like a blanket, which does not make heat and only slows its escape. The effect is large. Without it the Earth's surface would average eighteen degrees below freezing. Add to the blanket and the surface must grow warmer.
 
 The next step was to ask how much warmer. In 1896 a Swedish chemist, Svante Arrhenius, spent a year doing the arithmetic by hand, in tens of thousands of calculations, to distract himself from a divorce. He concluded that if the carbon dioxide in the air were doubled, the Earth would warm by five or six degrees. Modern estimates, made with the largest computers in the world, put it at about three. A man with a pencil, in other words, had come within a factor of two.
 
-He also noticed that industry was burning coal fast enough to matter. However, he thought that the doubling would take three thousand years, and that for Sweden it would be rather pleasant.
+He also noticed that industry was burning coal fast enough to matter. Yet he thought that the doubling would take three thousand years, and that for Sweden it would be rather pleasant.
 
 ![Black and white portrait of a middle-aged man with a high forehead and moustache, in a dark suit](images/arrhenius.jpg)
 *Svante Arrhenius, in a portrait printed in 1909, thirteen years after his calculations on carbon dioxide. Image: Meisenbach Riffarth & Co., public domain.*
@@ -56,7 +56,7 @@ It is being done on a scale that is hard to picture. Humanity now burns, in each
 
 ## Fingerprints
 
-It might be thought that the extra carbon dioxide in Keeling's flasks could have come from somewhere else, from volcanoes, say, or the sea. However, the gas carries a kind of fingerprint that shows otherwise.
+It might be thought that the extra carbon dioxide in Keeling's flasks could have come from somewhere else, from volcanoes, say, or the sea. In fact, the gas carries a kind of fingerprint that shows otherwise.
 
 The fingerprint lies in the carbon itself. A small fraction of the carbon in every living thing is a radioactive form, made high in the atmosphere by rays from space. It decays away over tens of thousands of years. As a result, carbon that has been underground for a hundred million years has none left. As fossil fuel is burned, the carbon dioxide in the air is being diluted with carbon of that dead kind.
 
@@ -80,7 +80,7 @@ The people who sold the fuel worked this out early.
 
 In 1977 a senior scientist at Exxon, the largest oil company in the world, told its management committee that there was general scientific agreement that mankind was influencing the global climate through the release of carbon dioxide from the burning of fossil fuels. The company took the warning seriously. It put its own researchers onto the question and fitted out a supertanker with instruments.
 
-In 1982 they produced an internal report, marked not for outside distribution. It contained a graph of how the carbon dioxide in the air and the temperature of the Earth would rise over the following century. That graph can now be checked against the real world. Forty years later, academics laid the company's projections over what had actually happened. The match was as close as that of the best government and university scientists of the period. The company, in other words, knew as much as anyone.
+In 1982 they produced an internal report, marked not for outside distribution. It contained a graph of how the carbon dioxide in the air and the temperature of the Earth would rise over the following century. That graph can now be checked against the real world. Forty years later, academics laid the company's projections over what had actually happened. The match was as close as that of the best government and university scientists of the period. The company knew as much as anyone.
 
 The company did not publish the graph. Instead, from the late 1980s it and others in the industry spent heavily on the opposite message. They financed institutes and advertisements that stressed how uncertain the science was. A plan drawn up by the oil industry's trade association in 1998 stated its aim in a sentence. Victory will be achieved, it said, when average citizens understand uncertainties in climate science.
 
@@ -114,13 +114,13 @@ Weather has always had its extremes. For that reason, no single storm or fire ca
 
 ## Whose carbon
 
-The gas mixes evenly through the whole atmosphere within a year or so. As a result, it makes no difference to the climate where it was emitted: a ton released in any country has the same effect on the climate of the whole planet. It makes a great deal of difference, however, to the question of who is responsible.
+The gas mixes evenly through the whole atmosphere within a year or so. For the climate, then, it makes no difference where it was emitted: a ton released in any country has the same effect on the climate of the whole planet. It makes a great deal of difference, however, to the question of who is responsible.
 
 Carbon dioxide stays in the air for centuries, and so what counts is the total that each country has emitted over time. Coal burned a century ago is still warming the world today. On that measure the United States comes first, with about a quarter of all the carbon dioxide from fossil fuel since 1850. The countries of Europe together account for somewhat less.
 
 China shows how different the two measures can look. It has been the largest emitter in any single year since 2006, and now produces nearly a third of the annual total. Because it started late, however, it has reached about a seventh of the historical one. At the other end, the whole of Africa, with a sixth of the world's people, has contributed about three per cent.
 
-The gap between individuals is wider still. The average American is responsible for about fourteen tons of carbon dioxide a year, and the average Indian for two. The average American, in other words, emits as much as seven average Indians. Across the world, the richest tenth of humanity, which includes most people in the rich countries, produces about half of all emissions. The poorest half produces about a tenth.
+The gap between individuals is wider still. The average American is responsible for about fourteen tons of carbon dioxide a year, and the average Indian for two. Across the world, the richest tenth of humanity, which includes most people in the rich countries, produces about half of all emissions. The poorest half produces about a tenth.
 
 The damage runs the other way. It falls first on those who live on river deltas, on the edges of deserts and on small islands. It falls on those who farm without irrigation, and who have no savings and no insurance.
 
@@ -130,7 +130,7 @@ Tuvalu shows what that means at its starkest. The Pacific nation of Tuvalu consi
 
 Long before carbon became a political question, people had learned to worry about pollution of a more visible kind. The idea that industrial civilisation might be damaging the world that it depends on became a popular cause in 1962, with a book by an American marine biologist.
 
-Rachel Carson described what the new chemical insecticides were doing as they passed from sprayed fields into worms, from worms into birds, and from fish into the people who ate them. The poison, in other words, did not stay where it was sprayed. She called it *Silent Spring*, after a town where no birds sang.
+Rachel Carson described what the new chemical insecticides were doing as they passed from sprayed fields into worms, from worms into birds, and from fish into the people who ate them. The poison did not stay where it was sprayed. She called it *Silent Spring*, after a town where no birds sang.
 
 The response was ferocious. The chemical industry spent a quarter of a million dollars attacking her as a hysterical woman. She was dying of cancer as she defended the book. Her side won in the end. The most notorious of the chemicals, DDT, which had also saved millions from malaria, was banned from American farms ten years later.
 

@@ -1,0 +1,7 @@
+# Consistency read: changes
+
+- Contradiction (warhead strength vs chapters 83 and 88): added a clause saying the giant warheads of the early 1960s have given way to smaller and more accurate ones, before "typically ten or twenty times as powerful as the bomb that destroyed Hiroshima". Sources: https://fas.org/publication/end-of-the-b53-era/ (the B53's retirement ended the era of multi-megaton weapons); https://en.wikipedia.org/wiki/B41_nuclear_bomb (25-megaton B41 deployed early 1960s, retired 1976).
+- Thread dropped (Cuba near-launch, chapter 92): added one sentence after "Petrov's night was not the only one": "Off Cuba in 1962, the captain of a Soviet submarine had faced much the same choice."
+- Tic "in other words" (3): kept the first (Petrov's computer); replaced the others ("The warning therefore has to be judged in minutes"; "Each nuclear power facing failure has accepted it...").
+- Voice (checklist paragraph opening "A few dozen factories"): turned the list of conditions into an account of why the ozone treaty worked, with the smallpox parallels; all conditions kept.
+- Not changed: the hedged CRISPR, sickle-cell and bird-flu sentences, and any Wuhan link, because they sit in the protected "Writing" and "A virus by post" sections. "Uniquely" (South Africa) and "the first treaty of which that can be said" (Montreal) are exactly right and stay. Two named-person closings (Petrov, Maalin) left as the ending.

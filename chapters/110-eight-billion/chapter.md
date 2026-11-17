@@ -17,7 +17,7 @@ For most of history, the number of people hardly changed from one century to the
 
 That was not because few were born. A woman who lived through her childbearing years typically had six or seven children, enough to replace herself and her husband several times over. The numbers stayed flat for a grimmer reason. The children died.
 
-In the societies for which there are records before 1800, from Roman Egypt to imperial China and medieval England, about a quarter of all babies died before their first birthday, and close to half before they were fifteen. They died of diarrhoea, measles, smallpox, pneumonia and fevers that nobody could name. A family buried as many children as it raised.
+In the societies for which there are records before 1800, from Roman Egypt to imperial China and medieval England, one baby in four did not live to see a first birthday, and nearly one child in two did not reach fifteen. They died of diarrhoea, measles, smallpox, pneumonia and fevers that nobody could name. A family buried as many children as it raised.
 
 So many early deaths make the old figures for lifespan easy to misread. The average length of a life, counting all those infants, was about thirty years. That figure does not mean that grown men and women usually died at thirty. It is pulled down by the great number of children who never grew up at all.
 
@@ -42,7 +42,7 @@ It was a fair description of the previous five thousand years. Again and again, 
 
 The pattern broke in two places. Death began to retreat, and food began to multiply.
 
-The retreat of death began with the simplest things. In the middle of the nineteenth century, the cities of Europe and America built sewers and waterworks. They did the right thing for the wrong reason. At first they believed that foul smells caused disease, and they learned only afterwards that the cause was germs in dirty water.
+The retreat of death began with the simplest things. In the middle of the nineteenth century, the cities of Europe and America built sewers and waterworks to rid themselves of foul smells, which they blamed for disease, and learned only afterwards that the real cause was germs in dirty water.
 
 Clean pipes were a start, yet the water running through them could still carry germs. In 1908 a town in New Jersey became the first in America to add a little chlorine to its drinking water. Chlorine kills the germs outright. The method was simple, and within ten years most large cities had copied it. As a result, deaths from typhoid and from the diarrhoea that killed infants fell away.
 
@@ -68,13 +68,13 @@ The difference showed in the death counts. In the neighbouring camps nearly a th
 
 Since then the drink has become one of the humblest tools in medicine. A sachet of the mixture now costs a few cents, and a mother can give it at home. It is reckoned to have saved more than fifty million lives.
 
-Each of these advances saved lives on its own. Taken together, the effect has no parallel. In 1950 about one child in five in the world died before the age of five. Today it is fewer than one in twenty-five. In 2022, for the first time since records began, the number of small children who died in a year fell below five million. Meanwhile the average human life has lengthened from about thirty-two years in 1900 to seventy-three.
+Each of these advances saved lives on its own. Taken together, the effect has no parallel. In 1950 about one child in five in the world died before the age of five. Today it is fewer than one in twenty-five. In 2022, for the first time since records began, the number of small children who died in a year fell below five million. Over a longer span, the average human life has lengthened from about thirty-two years in 1900 to seventy-three.
 
 ## Bread from air
 
 More living children meant more mouths, and Malthus had said that the land could not feed them. He was wrong because of a discovery that he could not have foreseen.
 
-Plants need nitrogen to grow. Four fifths of the air is nitrogen, but in a form that plants cannot use. Every field, in effect, sat beneath an ocean of the stuff and went hungry for it.
+Plants need nitrogen to grow. Four fifths of the air is nitrogen, but in a form that plants cannot use. Every field sat beneath an ocean of the stuff and went hungry for it.
 
 Until the twentieth century, farmers had only a few sources of usable nitrogen. The main ones were animal dung, and certain crops such as beans, whose roots harbour bacteria that capture it. Beyond those, there were bird droppings and mineral salts shipped from Peru and Chile. The yield of the world's fields was limited by nitrogen.
 
@@ -140,7 +140,7 @@ Wanting fewer children, however, is not enough on its own. She also needs the me
 
 In 1916 an American nurse named Margaret Sanger, who had watched her own mother worn out by eighteen pregnancies, opened a clinic in a poor district of New York to give advice on preventing them. The police closed it after ten days and she went to jail.
 
-Her next great step came decades later. Thirty-five years later, at a dinner party, she asked a biologist whether a pill could be made that a woman could swallow. A widow who had inherited a farm-machinery fortune paid for nearly all of the research out of her own pocket.
+Her next great step came thirty-five years later, when, at a dinner party, she asked a biologist whether a pill could be made that a woman could swallow. A widow who had inherited a farm-machinery fortune paid for nearly all of the research out of her own pocket.
 
 The pill uses man-made versions of the body's own hormones to prevent the release of an egg, so that there is nothing to fertilise. Its testing was a scandal of its own: it was tried out on poor women in Puerto Rico who were not told that it was an experiment. It went on sale in America in 1960. For the first time, a woman had a reliable and private way to decide when to have children. Within five years six million American women were taking it.
 
@@ -161,7 +161,7 @@ In some the fall has gone a long way further. The average woman in South Korea n
 
 In such countries there are villages with no children, schools turned into nursing homes, and too few workers to support the retired. Governments have offered cash, housing and long paid leave to parents. None has found a way of bringing the birth rate back up to the level at which a population replaces itself.
 
-The growth that remains is mostly in Africa south of the Sahara. There the average is still more than four children, and the gap between deaths and births is at its widest. As a result, Nigeria is on course to pass the United States. By the middle of the century one person in four will be African.
+The growth that remains is mostly in Africa south of the Sahara. There the average is still more than four children, and the gap between deaths and births is at its widest. Nigeria is on course to pass the United States. By the middle of the century one person in four will be African.
 
 ![A busy road junction in Lagos seen from a bridge, with hundreds of yellow minibuses, motorcycles and people below a curving flyover and a green road sign](images/lagos.jpg)
 *A street at Obalende in Lagos, Nigeria, in 2010. The city is one of the fastest-growing in the world. Photo: satanoid, CC BY 2.0.*

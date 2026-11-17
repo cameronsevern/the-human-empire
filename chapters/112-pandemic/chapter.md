@@ -2,7 +2,7 @@
 
 *The world, from 2019 to 2023*
 
-It showed how tightly the world is now joined, and whom each society protects. A virus that appeared in one Chinese city reached every inhabited continent in weeks, carried by air travellers. The same connections allowed scientists who had never met to design a vaccine within days, and to test it and manufacture it within a year, which had never been done for a new disease. Before the pandemic was over, some twenty million people had died.
+It showed how tightly the world is now joined, and whom each society protects. A virus that appeared in one Chinese city reached every inhabited continent in weeks, carried by air travellers. The same connections allowed scientists who had never met to design a vaccine within days, and to test it and manufacture it within a year, which had never been done for a new disease. Before the pandemic was over, more than twenty million people had died.
 
 On the morning of Saturday, 11 January 2020, a virologist in Shanghai named Zhang Yongzhen was sitting in an aircraft waiting to take off for Beijing when his telephone rang. The caller was a colleague in Australia. Six days earlier Zhang's laboratory had worked out the complete genetic code of a new virus, taken from a patient with pneumonia in the city of Wuhan. He had reported it to the authorities, who had issued an order forbidding laboratories to publish anything about the outbreak. His colleague was begging him to release it anyway.
 
@@ -16,11 +16,11 @@ The virus, meanwhile, had a head start. By then a man in Wuhan had died of the d
 
 Wuhan is a city of eleven million people on the middle reaches of the Yangtze, a hub of railways and factories. In December 2019 its hospitals began to see patients with a severe pneumonia that did not respond to treatment. At first nobody knew what was causing it. Many of them worked at, or had visited, a large covered market that sold seafood and live wild animals.
 
-On 30 December an eye doctor at one of the hospitals, Li Wenliang, saw a laboratory report on one of the patients. He sent a message to a private chat group of his old classmates from medical school. He warned them that seven people from the market had an illness resembling a dangerous lung disease that had come out of China in 2003, and told them to protect their families. The warning was meant for a handful of friends. Someone took a picture of the message, however, and within hours it was all over the Chinese internet.
+On 30 December an eye doctor at one of the hospitals, Li Wenliang, saw a laboratory report on one of the patients. He sent a message to a private chat group of his old classmates from medical school. He warned them that seven people from the market had an illness resembling SARS, a dangerous lung disease that had come out of China in 2003, and told them to protect their families. The warning was meant for a handful of friends. Someone took a picture of the message, however, and within hours it was all over the Chinese internet.
 
-The authorities, however, treated the warning itself as a danger. Four days later Li was summoned to a police station and made to sign a statement admitting that he had spread false rumours and disturbed public order. State television reported that eight rumour-mongers in Wuhan had been dealt with.
+The authorities treated the warning itself as a danger. Four days later Li was summoned to a police station and made to sign a statement admitting that he had spread false rumours and disturbed public order. State television reported that eight rumour-mongers in Wuhan had been dealt with.
 
-Meanwhile, for the next two weeks, the city's officials said that there was no clear evidence that the disease passed from one person to another. They even went ahead with a banquet for forty thousand families.
+For the next two weeks, the city's officials said that there was no clear evidence that the disease passed from one person to another. They even went ahead with a banquet for forty thousand families.
 
 ![A photographed sheet of paper with a heading in Chinese, lines of handwriting, red fingerprints and a round red police stamp at the bottom right](images/liletter.png)
 *The letter of admonition that Li Wenliang signed at a police station in Wuhan on 3 January 2020. It says that he made untrue statements on the internet about seven cases at the market. Photo: Li Wenliang, public domain.*
@@ -135,7 +135,7 @@ Faced with that, the government banned the export of vaccines. As a result, the 
 
 ## Masts
 
-The disease was accompanied by an epidemic of stories about it. Some were simply absurd. In the spring of 2020, in Britain, people who believed that the virus was caused or spread by a new kind of mobile telephone signal set fire to more than eighty transmitter masts. Others came from the very top. An American president suggested at a press conference that doctors might look into injecting disinfectant. Millions, meanwhile, took a drug meant for malaria and another meant for parasitic worms, neither of which did any good.
+The disease was accompanied by an epidemic of stories about it. Some were simply absurd. In the spring of 2020, in Britain, people who believed that the virus was caused or spread by a new kind of mobile telephone signal set fire to more than eighty transmitter masts. Others came from the very top. An American president suggested at a press conference that doctors might look into injecting disinfectant. Millions took a drug meant for malaria and another meant for parasitic worms, neither of which did any good.
 
 The most lethal of the rumours concerned the vaccines, which were said to alter the genes, to cause sterility, or to contain a tracking chip. In the United States the question of whether to be vaccinated, or to wear a mask, became a badge of political loyalty.
 

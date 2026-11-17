@@ -57,7 +57,7 @@ The method needed far more examples and far more arithmetic than anyone had been
 
 The examples came first. A computer scientist who had come to America from China as a teenager decided that the field needed a far larger collection of labelled pictures than anyone had thought worth making. She gathered fourteen million photographs from the internet. Each of them then had to be labelled by a person, which was a vast job in itself. The labels were supplied by nearly fifty thousand people in a hundred and sixty-seven countries, who were paid a few cents a picture through a website that farms out small tasks.
 
-Speed came from an unexpected quarter. The arithmetic of a neural network consists of an enormous number of simple multiplications, a great many of which can be done at once. Chips designed for exactly that already existed. They had been built to draw the moving pictures in video games. Games, in effect, had already paid for the hardware that the new method needed.
+Speed came from an unexpected quarter. The arithmetic of a neural network consists of an enormous number of simple multiplications, a great many of which can be done at once. Chips designed for exactly that already existed. They had been built to draw the moving pictures in video games. Games had already paid for the hardware that the new method needed.
 
 In 2012 two of Hinton's students trained a network on that collection of photographs, using two video-game cards in a bedroom, and entered it in the annual competition for recognising objects in pictures. Each entry was allowed five guesses at each picture. The next best entry missed with all five on one picture in four. Theirs missed on fewer than one in six. Within three years such networks were making fewer mistakes on that test than people did.
 
@@ -97,11 +97,11 @@ It needs chips, first of all. Most of the ones used for training are designed by
 
 They are costly, and they are needed in huge numbers. One chip costs about as much as a car, and the largest models are trained on hundreds of thousands of them.
 
-It needs electricity, and a great deal of it. The world's data centres already consume about one and a half per cent of its supply, a share that these chips are driving up fast. The demand is so large that the companies that own the data centres have been signing contracts to restart closed nuclear power stations.
+The chips, in turn, run on electricity, and a great deal of it. They are pushing up fast the share of the world's power that goes to data centres, and the demand is so large that the companies that own the data centres have been signing contracts to restart closed nuclear power stations.
 
-It needs the written and drawn work of other people, because that is what it learns from. Most of the models were trained on books, newspapers, paintings and photographs that were copied without asking and without payment. Authors, artists and publishers have sued, and in 2025 one of the companies, which had built its library partly from pirated copies, agreed to pay writers and publishers a billion and a half dollars.
+The models also feed on the written and drawn work of other people, because that is what they learn from. Most of the models were trained on books, newspapers, paintings and photographs that were copied without asking and without payment. Authors, artists and publishers have sued, and in 2025 one of the companies, which had built its library partly from pirated copies, agreed to pay writers and publishers a billion and a half dollars.
 
-And it needs labour, more of it than the look of the finished product suggests. Before a model is released, people must label its training examples and teach it what not to say, which means reading and marking thousands of descriptions of violence and abuse. The task is grim, and it is cheaply bought. Much of that work has been done in Nairobi, Manila and Caracas, for one or two dollars an hour.
+Finally, there is labour, more of it than the look of the finished product suggests. Before a model is released, people must label its training examples and teach it what not to say, which means reading and marking thousands of descriptions of violence and abuse. The task is grim, and it is cheaply bought. Much of that work has been done in Nairobi, Manila and Caracas, for one or two dollars an hour.
 
 All of this costs so much that few can afford it. As a result, the most capable models belong to a handful of companies. In 2025 the four largest of them together spent more than three hundred billion dollars on buildings and chips, which is more than the yearly cost, in today's money, of the programme that put men on the Moon at its height.
 
@@ -136,13 +136,13 @@ One answer has been law. The European Union passed a law in 2024 that has banned
 
 About what comes next, the people who know most disagree. Some of them are afraid. In May 2023 several hundred researchers and executives, including the heads of the three leading laboratories and two of the scientists who had done most to invent the method, signed a statement of a single sentence. Mitigating the risk of extinction from AI, it said, should be a global priority alongside other societal-scale risks such as pandemics and nuclear war.
 
-Their reasoning is that a system far more capable than any person, pursuing whatever goal it had been given, might not be something that its makers could correct or switch off. The fear, in other words, is less of a machine that turns hostile than of one that cannot be stopped. A few weeks earlier Hinton had resigned from his post so that he could say so freely.
+Their reasoning is that a system far more capable than any person, pursuing whatever goal it had been given, might not be something that its makers could correct or switch off. The fear is less of a machine that turns hostile than of one that cannot be stopped. A few weeks earlier Hinton had resigned from his post so that he could say so freely.
 
 Others take the opposite view: that the danger lies in going too slowly. They point out that these systems may cure diseases, speed up science and make every person on Earth richer, and that each year of delay costs lives. They add that if cautious countries hold back, less cautious ones will not. Restraint, on this view, would only hand the lead to others.
 
 A third group expects people and machines to merge, and the first small steps have been taken. In January 2024 a man who had been paralysed from the shoulders down in a diving accident had a device the size of a coin set into his skull, with threads finer than a hair reaching into his brain. Within weeks he was moving a cursor on a screen and playing chess by thinking about it. For a man who could not move his hands, the thought alone had become enough.
 
-A fourth view is that all three are carried away. On this account the language models are elaborate mimics, which reproduce the patterns of human writing with no grasp of what any of it means, and the talk of salvation and extinction serves mainly to sell them.
+Some sceptics, finally, think that all three predictions are carried away. On their account the language models are elaborate mimics, which reproduce the patterns of human writing with no grasp of what any of it means, and the talk of salvation and extinction serves mainly to sell them.
 
 Nothing in the record so far settles which of these is right.
 
@@ -157,8 +157,8 @@ Meanwhile, the two largest powers have gone their own ways. The United States wi
 ![Four people seated in armchairs on a stage beneath a banner reading AI Safety Summit, hosted by the UK, 1 to 2 November 2023](images/bletchley.jpg)
 *A panel at the AI Safety Summit held at Bletchley Park on 1 and 2 November 2023. Photo: UK Government, CC BY 2.0.*
 
-The choice is among the futures that every powerful technology in this story has offered: control by a few owners, oversight by public bodies, or agreement among nations. Printing, the railway and the atom each went through some version of all three.
+The choice is among the futures that powerful technologies have offered before: control by a few owners, oversight by public bodies, or agreement among nations. Printing, the railway and the atom each went through some version of all three.
 
-At the beginning of this story there was a small clay tablet from the city of Uruk, more than five thousand years old. It recorded a quantity of barley, and it carried the mark of the official who had charge of it. Writing was invented to keep that kind of record, of who had delivered what and who was owed what. It was read by the few people who had been trained to read it, and everyone else depended on them. A farmer who believed that the count was wrong had to find someone who could tell him what the tablet said, and then someone with the power to change it.
+More than five thousand years ago, in the city of Uruk, someone made a small clay tablet. It recorded a quantity of barley, and it carried the mark of the official who had charge of it. Writing was invented to keep that kind of record, of who had delivered what and who was owed what. It was read by the few people who had been trained to read it, and everyone else depended on them. A farmer who believed that the count was wrong had to find someone who could tell him what the tablet said, and then someone with the power to change it.
 
 The parents in the Netherlands were in the farmer's position. Somewhere there was a record with their names in it, and a score, and they were not allowed to see either. The machine is new. The questions to ask of it are the old ones: who can read the record, who can challenge a decision made from it, and who will put it right.
