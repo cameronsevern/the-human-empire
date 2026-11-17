@@ -1,0 +1,4 @@
+Prose words: 3,009 before, 3,559 after (about +18%, a little under a fifth after flag-driven cuts).
+Changes: long sentences split into steps (the 1930s, the gold standard, the chain of promises from currency to dollar to gold, the IMF and World Bank, the British loan, the Japanese constitution); terms glossed (gold standard, bancor, veto, viceroy, equal treatment in trade, Nixon's suspension); bridging sentences (why the money counted, the voting arithmetic, the League's two weaknesses mended, the promises outgrowing the gold).
+Check2 flags applied: all flags on added sentences (devaluation "nobody gained", the eight abstainers, NATO "promised to fight", "earn before they spend", "any home", signposts and repetition). Two small certain fixes to original text: Keynes's death dated "in the spring of 1946" (was "the previous spring", which read as 1947); the declaration was "voted for", not "signed", by governments.
+No flags left unapplied.
