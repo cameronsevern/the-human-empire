@@ -1,0 +1,4 @@
+Prose words (body, excluding captions): 3,099 before, 3,872 after.
+Changes: crowded paragraphs split (Tet, Ho's life, Dien Bien Phu, Diem, Tonkin, body count, firepower, the draft, My Lai, the home front, the Paris deal, the fall of Saigon); bridges before each new idea; reasoning spelled out (why Tet lost the argument while winning nothing, why the election was cancelled, why body counts rewarded killing, why burned villages made recruits); transitions varied.
+Check2 flags applied: "without American help" now "without American bombers"; 1965 called the escalation, not the start of the war; Ali punished for refusing, and his remark dated to the year before; Thieu agreed "after", not "only because", Nixon's promise; the television novelty restated as how much and how soon; "the American officials" had gone; signposts and doubled transitions cut; "one American" and the communist-neighbours line narrowed.
+Left unapplied: none of substance.
