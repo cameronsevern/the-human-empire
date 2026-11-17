@@ -1,0 +1,4 @@
+Prose words (excluding headings, images and captions): 3,093 before, 3,869 after.
+Main changes: setup sentences before each turn (Hundred Flowers, the Leap, the false harvest figures, Liu and Deng's repair, Mao's turn to the army and the young, the factions, Lin Biao, the verdict on Mao); reasoning walked through step by step (how inflated reports took the real harvest); transitions at sentence openings; long paragraphs split; Confucius, "right opportunists" and the Long March glossed.
+From check2: corrected new overstatements (sparrows "forgotten", admissions "not by merit", the legacy struggle "short"); cut signposts and duplicate bridges; softened absolutes. Fixed two existing flags: Peng's letter now praises the Leap's achievements while warning of waste and exaggeration; Beijing homes searched now "more than thirty thousand"; entrance exam now "national".
+Unapplied: "never been allowed to decide anything" left as originally written.
